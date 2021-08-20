@@ -83142,4 +83142,543 @@
       <value>10</value>
     </rating>
   </programme>
+  <programme start="20210820075700 -0300" stop="20210820101200 -0300" channel="TNT HD">
+    <title lang="pt">O Ataque</title>
+    <title lang="en">White House Down</title>
+    <desc lang="pt">A Casa Branca foi atacada por terroristas. Agora, com o governo da nação caindo no caos, o policial John Cale terá a responsabilidade de salvar o presidente, o país e sua filha.(n)</desc>
+    <credits>
+      <director>Roland Emmerich</director>
+      <actor>Channing Tatum</actor>
+      <actor>Jamie Foxx</actor>
+      <actor>Maggie Gyllenhaal</actor>
+      <actor>Richard Jenkins</actor>
+      <actor>James Woods</actor>
+      <actor>Nicolas Wright</actor>
+      <actor>Jimmi Simpson</actor>
+      <actor>Michael Murphy</actor>
+      <actor>Rachelle Lefevre</actor>
+      <actor>Lance Reddick</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oataque01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820101200 -0300" stop="20210820123200 -0300" channel="TNT HD">
+    <title lang="pt">Ela</title>
+    <title lang="en">Her</title>
+    <desc lang="pt">Theodore é um escritor recém-divorciado. Ao comprar um novo sistema operacional de alta tecnologia para seu computador, ele se apaixona pela voz do programa.(n)</desc>
+    <credits>
+      <director>Spike Jonze</director>
+      <actor>Joaquin Phoenix</actor>
+      <actor>Lynn Adrianna</actor>
+      <actor>Lisa Renee Pitts</actor>
+      <actor>Chris Pratt</actor>
+      <actor>Scarlett Johansson</actor>
+      <actor>Amy Adams</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filmes/ela01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820123200 -0300" stop="20210820143800 -0300" channel="TNT HD">
+    <title lang="pt">Dose Dupla</title>
+    <title lang="en">2 Guns</title>
+    <desc lang="pt">Os agentes infiltrados Bobby e Stig tentam fazer negócios com um poderoso traficante mexicano, Papi Greco, mas ele se recusa a negociar com a dupla. Eles decidem, então, roubar um banco que recebe o faturamento de Papi.(n)</desc>
+    <credits>
+      <director>Baltasar Kormákur</director>
+      <actor>Denzel Washington</actor>
+      <actor>Mark Wahlberg</actor>
+      <actor>Paula Patton</actor>
+      <actor>Edward James Olmos</actor>
+      <actor>Bill Paxton</actor>
+      <actor>Tim Bell</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/dosedupla01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820143800 -0300" stop="20210820162000 -0300" channel="TNT HD">
+    <title lang="pt">Tá Chovendo Hambúrguer</title>
+    <title lang="en">Cloudy With A Chance Of Meatballs</title>
+    <desc lang="pt">Em uma cidade começa a chover sopa, suco, sorvete, hambúrguer, entre outros alimentos, fazendo com que os habitantes precisem encontrar uma maneira para parar de cair comida do céu.(n)</desc>
+    <credits>
+      <director>Phil Lord</director>
+      <director>Chris Miller</director>
+      <actor>Vozes de Bill Hader</actor>
+      <actor>Anna Faris</actor>
+      <actor>James Caan</actor>
+      <actor>Andy Samberg</actor>
+      <actor>Bobb'e J. Thompson</actor>
+      <actor>Neil Patrick Harris</actor>
+      <actor>Angela Shelton</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_tachovendohamburger01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820162000 -0300" stop="20210820182000 -0300" channel="TNT HD">
+    <title lang="pt">Queima de Arquivo</title>
+    <title lang="en">Eraser</title>
+    <desc lang="pt">Agente Secreto "apaga" identidade de testemunhas que colaboram com o governo, para protegê-las de represálias. Em sua nova missão, ele deve proteger a executiva que vem colaborando com o FBI.(n)</desc>
+    <credits>
+      <director>Chuck Russell</director>
+      <actor>Arnold Schwarzenegger</actor>
+      <actor>Vanessa Williams</actor>
+      <actor>James Coburn</actor>
+      <actor>James Caan</actor>
+      <actor>Robert Pastorelli</actor>
+      <actor>Michael Papajohn</actor>
+      <actor>James Cromwell</actor>
+      <actor>Danny Nucci</actor>
+      <actor>Andy Romano</actor>
+    </credits>
+    <date>1996</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820182000 -0300" stop="20210820183100 -0300" channel="TNT HD">
+    <title lang="pt">A Ponte</title>
+    <desc lang="pt">Uma comitiva de casamento e um cortejo fúnebre se encontram no meio de uma ponte, colocando o viúvo e o pai da noiva em um conflito prático e emocional para decidir quem passará primeiro.(n)</desc>
+    <credits>
+      <director>Rafael Câmara</director>
+      <actor>Walter Breda</actor>
+      <actor>Aiman Hammoud</actor>
+      <actor>Bia Paganini</actor>
+      <actor>Tairone Vale</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820183100 -0300" stop="20210820203100 -0300" channel="TNT HD">
+    <title lang="pt">2 Filhos de Francisco</title>
+    <desc lang="pt">A trajetória dos irmãos Zezé Di Camargo e Luciano contada a partir do sonho do pai, o trabalhador rural Francisco Camargo. Apaixonado por música, ele luta para transformá-los em uma famosa dupla sertaneja.(n)</desc>
+    <credits>
+      <director>Breno Silveira</director>
+      <actor>Lima Duarte</actor>
+      <actor>Márcio Kierling</actor>
+      <actor>Thiago Mendonça</actor>
+      <actor>Ângelo Antônio</actor>
+      <actor>Dira Paes</actor>
+      <actor>Paloma Duarte</actor>
+      <actor>Dablio Moreira</actor>
+      <actor>Zezé di Camargo</actor>
+      <actor>Luciano Camargo</actor>
+      <actor>Natália Lage</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_doisfilhos01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820203100 -0300" stop="20210820223000 -0300" channel="TNT HD">
+    <title lang="pt">Tango &amp; Cash - Os Vingadores</title>
+    <title lang="en">Tango &amp; Cash</title>
+    <desc lang="pt">Tango e Cash são tiras do departamento de narcóticos de Los Angeles. Um adora se vestir bem. O outro, em compensação, não prima pela elegância. Mas a rivalidade entre eles vai muito além das roupas.(n)</desc>
+    <credits>
+      <director>Andrei Konchalovsky</director>
+      <actor>Sylvester Stallone</actor>
+      <actor>Kurt Russell</actor>
+      <actor>Teri Hatcher</actor>
+      <actor>Jack Palance</actor>
+      <actor>Brion James</actor>
+      <actor>Marc Alaimo</actor>
+    </credits>
+    <date>1989</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_tangocash01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820223000 -0300" stop="20210821003900 -0300" channel="TNT HD">
+    <title lang="pt">A 5ª Onda</title>
+    <title lang="en">The 5th Wave</title>
+    <desc lang="pt">A Terra sofreu uma série de ataques alienígenas. Já foram realizados 4 ataques, acarretando uma redução da população do planeta. Com a proximidade da 5ª onda, que promete exterminar de vez a raça humana, Cassie precisa proteger seu irmão mais novo.(n)</desc>
+    <credits>
+      <director>J Blakeson</director>
+      <actor>Chloe Grace Moretz</actor>
+      <actor>Matthew Zuk</actor>
+      <actor>Gabriela Lopez</actor>
+      <actor>Bailey Anne Borders</actor>
+      <actor>Nick Robinson</actor>
+      <actor>Maggie Siff</actor>
+      <actor>Zackary Arthur</actor>
+      <actor>Ron Livingston</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filmes/aquintaonda01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821003900 -0300" stop="20210821022000 -0300" channel="TNT HD">
+    <title lang="pt">Vencer ou Morrer</title>
+    <title lang="en">Nowhere To Run</title>
+    <desc lang="pt">Um prisioneiro foragido, Sam tem o azar de estar sempre na hora certa no lugar errado. Arriscando sua liberdade tão duramente conquistada, ele ajuda uma bela viúva contra um inescrupuloso construtor que quer sua terra.(n)</desc>
+    <credits>
+      <director>Robert Harmon</director>
+      <actor>Jean-Claude Van Damme</actor>
+      <actor>Sam Rosanna Arquette</actor>
+      <actor>Clydie Kieran Culkin</actor>
+      <actor>Mookie Ted Levine</actor>
+      <actor>Mr. Dunston Joss Ackland</actor>
+      <actor>Franklin Hale</actor>
+    </credits>
+    <date>1993</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_venceroumorrer01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821022000 -0300" stop="20210821040100 -0300" channel="TNT HD">
+    <title lang="pt">Blitz</title>
+    <desc lang="pt">Quando um serial killer, chamado pelos jornalistas de "The Blitz", começa a assassinar policiais pela cidade, o sargento Brant e o oficial Nash terão que correr contra o tempo para garantir que o maníaco seja preso.(n)</desc>
+    <credits>
+      <director>Elliott Lester</director>
+      <actor>Jason Statham</actor>
+      <actor>Paddy Considine</actor>
+      <actor>Aidan Gillen</actor>
+      <actor>David Morrissey</actor>
+      <actor>Zawe Ashton</actor>
+      <actor>Ned Dennehy</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_blitz01.jpg" />
+    <country lang="pt">Inglaterra</country>
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821040100 -0300" stop="20210821060000 -0300" channel="TNT HD">
+    <title lang="pt">Polícia em Poder da Máfia</title>
+    <title lang="en">Triple 9</title>
+    <desc lang="pt">Em Los Angeles, um grupo de ladrões se une a um policial corrupto para organizar seu maior golpe até então. A fim de tirar a atenção das autoridades sobre o roubo que irá acontecer, eles planejam matar um jovem membro da polícia de LA.(n)</desc>
+    <credits>
+      <director>John Hillcoat</director>
+      <actor>Casey Affleck</actor>
+      <actor>Chiwetel Ejiofor</actor>
+      <actor>Anthony Mackie</actor>
+      <actor>Aaron Paul</actor>
+      <actor>Clifton Collins Jr.</actor>
+      <actor>Norman Reedus</actor>
+      <actor>Gal Gadot</actor>
+      <actor>Woody Harrelson</actor>
+      <actor>Kate Winslet</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821071700 -0300" channel="TNT HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Conteudo Jornalistico: entrevistas com personalidades de Hollywood sobre seus novos projetos.(n)</desc>
+    <credits>
+      <director>Patrick Scott</director>
+      <actor>David Corenswet</actor>
+      <actor>Darren Criss</actor>
+      <actor>Laura Harrier</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Cinema</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821071700 -0300" stop="20210821085500 -0300" channel="TNT HD">
+    <title lang="pt">A Árvore dos Desejos</title>
+    <title lang="en">Tales From Sanctuary City: The Wishmas Tree</title>
+    <desc lang="pt">Kerry, uma jovem gambá de Cidade Santuário, comete um erro ao fazer um pedido e congela a cidade inteira, ameaçando a vida de todos os residentes. Agora, ela precisa reverter os danos e salvar sua casa e a mágica Árvore dos Desejos.(n)</desc>
+    <credits>
+      <director>Ricard Cusso</director>
+      <actor>Miranda Tapsell</actor>
+      <actor>Kate Murphy</actor>
+      <actor>Ross Noble</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Austrália</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821085500 -0300" stop="20210821103700 -0300" channel="TNT HD">
+    <title lang="pt">Tarzan: A Evolução da Lenda</title>
+    <title lang="en">Tarzan</title>
+    <desc lang="pt">Em um acidente aéreo na selva africana, apenas uma criança sobrevive. Isolado do mundo, Tarzan cresce aprendendo as leis da selva com um grupo de gorilas. Agora, ele precisa enfrentar empresários gananciosos.(n)</desc>
+    <credits>
+      <director>Reinhard Klooss</director>
+      <actor>Vozes de Kellan Lutz</actor>
+      <actor>Brian Bloom</actor>
+      <actor>Robert Capron</actor>
+      <actor>Spencer Locke</actor>
+      <actor>Jaime Ray Newman</actor>
+      <actor>Mark Deklin</actor>
+      <actor>Rebecca Reaney</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tarzanaevolucaodalenda01.jpg" />
+    <country lang="pt">Alemanha</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821103700 -0300" stop="20210821111400 -0300" channel="TNT HD">
+    <title lang="pt">De Olho Na Liga</title>
+    <desc lang="pt">O De Olho na Liga é um resumo do que aconteceu de mais importante na semana na Liga dos Campeões da Europa. Os bastidores dos grandes jogos, os personagens mais marcantes das partidas, a festa das torcidas e as histórias.(n)</desc>
+    <credits>
+      <director>Guilhereme Coreixas</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_deolhonaliga01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821111400 -0300" stop="20210821124700 -0300" channel="TNT HD">
+    <title lang="pt">Lucas - Um Intruso no Formigueiro</title>
+    <title lang="en">The Ant Bully</title>
+    <desc lang="pt">Após afogar um formigueiro, Lucas Nickle tem seu tamanho misteriosamente diminuído, até ficar na altura de uma formiga. Ele é, então, obrigado a trabalhar como escravo na reconstrução do formigueiro que ele mesmo destruiu.(n)</desc>
+    <credits>
+      <director>John A. Davis</director>
+      <actor>Vozes de Julia Roberts</actor>
+      <actor>Nicolas Cage</actor>
+      <actor>Meryl Streep</actor>
+      <actor>Paul Giamatti</actor>
+      <actor>Zach Tyler</actor>
+      <actor>Regina King</actor>
+      <actor>Bruce Campbell</actor>
+      <actor>Lily Tomlin</actor>
+      <actor>Larry Miller</actor>
+      <actor>Allison Mack</actor>
+      <actor>Ricardo Montalban</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Infantil</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_lucasumintrusonoformigueiro01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821124700 -0300" stop="20210821142500 -0300" channel="TNT HD">
+    <title lang="pt">Tá Chovendo Hambúrguer</title>
+    <title lang="en">Cloudy With A Chance Of Meatballs</title>
+    <desc lang="pt">Em uma cidade começa a chover sopa, suco, sorvete, hambúrguer, entre outros alimentos, fazendo com que os habitantes precisem encontrar uma maneira para parar de cair comida do céu.(n)</desc>
+    <credits>
+      <director>Phil Lord</director>
+      <director>Chris Miller</director>
+      <actor>Vozes de Bill Hader</actor>
+      <actor>Anna Faris</actor>
+      <actor>James Caan</actor>
+      <actor>Andy Samberg</actor>
+      <actor>Bobb'e J. Thompson</actor>
+      <actor>Neil Patrick Harris</actor>
+      <actor>Angela Shelton</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_tachovendohamburger01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821142500 -0300" stop="20210821161300 -0300" channel="TNT HD">
+    <title lang="pt">Os Mercenários 2</title>
+    <title lang="en">The Expendables 2</title>
+    <desc lang="pt">Ao aceitar uma missão aparentemente simples, o grupo de mercenários cai em uma emboscada, e Tool termina morto. Então buscam vingança.(n)</desc>
+    <credits>
+      <director>Simon West</director>
+      <actor>Sylvester Stallone</actor>
+      <actor>Jason Statham</actor>
+      <actor>Jean-Claude Van Damme</actor>
+      <actor>Jet Li</actor>
+      <actor>Chuck Norris</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_osmecenarios201.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821161300 -0300" stop="20210821180100 -0300" channel="TNT HD">
+    <title lang="pt">Vencer ou Morrer</title>
+    <title lang="en">Nowhere To Run</title>
+    <desc lang="pt">Um prisioneiro foragido, Sam tem o azar de estar sempre na hora certa no lugar errado. Arriscando sua liberdade tão duramente conquistada, ele ajuda uma bela viúva contra um inescrupuloso construtor que quer sua terra.(n)</desc>
+    <credits>
+      <director>Robert Harmon</director>
+      <actor>Jean-Claude Van Damme</actor>
+      <actor>Sam Rosanna Arquette</actor>
+      <actor>Clydie Kieran Culkin</actor>
+      <actor>Mookie Ted Levine</actor>
+      <actor>Mr. Dunston Joss Ackland</actor>
+      <actor>Franklin Hale</actor>
+    </credits>
+    <date>1993</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_venceroumorrer01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821180100 -0300" stop="20210821201200 -0300" channel="TNT HD">
+    <title lang="pt">A 5ª Onda</title>
+    <title lang="en">The 5th Wave</title>
+    <desc lang="pt">A Terra sofreu uma série de ataques alienígenas. Já foram realizados 4 ataques, acarretando uma redução da população do planeta. Com a proximidade da 5ª onda, que promete exterminar de vez a raça humana, Cassie precisa proteger seu irmão mais novo.(n)</desc>
+    <credits>
+      <director>J Blakeson</director>
+      <actor>Chloe Grace Moretz</actor>
+      <actor>Matthew Zuk</actor>
+      <actor>Gabriela Lopez</actor>
+      <actor>Bailey Anne Borders</actor>
+      <actor>Nick Robinson</actor>
+      <actor>Maggie Siff</actor>
+      <actor>Zackary Arthur</actor>
+      <actor>Ron Livingston</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filmes/aquintaonda01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821201200 -0300" stop="20210821220000 -0300" channel="TNT HD">
+    <title lang="pt">Minions</title>
+    <desc lang="pt">Os minions têm uma missão: servir os maiores vilões. Em depressão desde a morte de seu antigo mestre, eles tentam encontrar um novo chefe. Três voluntários, Kevin, Stuart e Bob, vão até uma convenção de vilões nos Estados Unidos.(n)</desc>
+    <credits>
+      <director>Kyle Balda</director>
+      <director>Pierre Coffin</director>
+      <actor>Vozes de Sandra Bullock</actor>
+      <actor>Jon Hamm</actor>
+      <actor>Michael Keaton</actor>
+      <actor>Allison Janney</actor>
+      <actor>Steve Coogan</actor>
+      <actor>Jennifer Saunders</actor>
+      <actor>Geoffrey Rush</actor>
+      <actor>Steve Carell</actor>
+      <actor>Pierre Coffin</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Infantil</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filmes/filme_minions01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821220000 -0300" stop="20210821235900 -0300" channel="TNT HD">
+    <title lang="pt">Se Beber, Não Case! Parte 3</title>
+    <title lang="en">The Hangover Part IIl</title>
+    <desc lang="pt">Após a morte do pai de Alan, os garotos começam a receber ajuda profissional. Mas a caminho do hospital, Doug é sequestrado. Agora, o sequestrador vai forçá-los a encontrar Leslie Chow, que está foragido.(n)</desc>
+    <credits>
+      <director>Todd Phillips</director>
+      <actor>Bradley Cooper</actor>
+      <actor>Ed Helms</actor>
+      <actor>Zach Galifianakis</actor>
+      <actor>Justin Bartha</actor>
+      <actor>Ken Jeong</actor>
+      <actor>John Goodman</actor>
+      <actor>Jeffrey Tambor</actor>
+      <actor>Heather Graham</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/sebebernaocaseparte301.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821235900 -0300" stop="20210822020700 -0300" channel="TNT HD">
+    <title lang="pt">Polícia em Poder da Máfia</title>
+    <title lang="en">Triple 9</title>
+    <desc lang="pt">Em Los Angeles, um grupo de ladrões se une a um policial corrupto para organizar seu maior golpe até então. A fim de tirar a atenção das autoridades sobre o roubo que irá acontecer, eles planejam matar um jovem membro da polícia de LA.(n)</desc>
+    <credits>
+      <director>John Hillcoat</director>
+      <actor>Casey Affleck</actor>
+      <actor>Chiwetel Ejiofor</actor>
+      <actor>Anthony Mackie</actor>
+      <actor>Aaron Paul</actor>
+      <actor>Clifton Collins Jr.</actor>
+      <actor>Norman Reedus</actor>
+      <actor>Gal Gadot</actor>
+      <actor>Woody Harrelson</actor>
+      <actor>Kate Winslet</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
 </tv>
