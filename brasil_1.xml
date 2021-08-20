@@ -580,10 +580,12 @@
   </channel>
   <channel id="Tooncast">
     <display-name lang="pt">Tooncast</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/tooncast.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="truTV HD">
     <display-name lang="pt">truTV HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/tvalterosa.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="TV Brasil HD">
@@ -18101,6 +18103,820 @@
     <episode-num system="onscreen">S1 E7</episode-num>
     <rating system="BR">
       <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820164000 -0300" stop="20210820165700 -0300" channel="Tooncast">
+    <title lang="pt">Esquadrão do Tempo</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Larry Leichliter</director>
+    </credits>
+    <date>2001</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_esquadraodotempo01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820165700 -0300" stop="20210820170800 -0300" channel="Tooncast">
+    <title lang="pt">Jonas, o Robô</title>
+    <desc lang="pt">Jonas fica com ciúme quando todos os seus amigos espicham e formam uma equipe de basquete. Mas, quando ele espicha, não há teto que aguente!(n)</desc>
+    <credits>
+      <director>Greg Miller</director>
+      <director>Mike Stern</director>
+      <actor>Vozes de Myles Jeffrey</actor>
+      <actor>Gary LeRoi Gray</actor>
+      <actor>Seth Green</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820170800 -0300" stop="20210820172200 -0300" channel="Tooncast">
+    <title lang="pt">Jonas, o Robô</title>
+    <desc lang="pt">Em uma cidade estabelecida na década de 1980, um robô jovem deve coletar dados sobre humanos e fazer o que puder para se encaixar entre eles.(n)</desc>
+    <credits>
+      <director>Greg Miller</director>
+      <director>Mike Stern</director>
+      <actor>Vozes de Myles Jeffrey</actor>
+      <actor>Gary LeRoi Gray</actor>
+      <actor>Seth Green</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820172200 -0300" stop="20210820172900 -0300" channel="Tooncast">
+    <title lang="pt">Zuzubalândia</title>
+    <desc lang="pt">A Bruxa descobre uma nova forma de destruir Zuzubalândia: formigas enfeitiçadas. Zuzu e seus amigos precisam impedir que elas devorem o reino das gostosuras.(n)</desc>
+    <credits>
+      <actor>Vozes de Daniel Costa</actor>
+      <actor>Antoniela Canto</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_zuzubalandia01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820172900 -0300" stop="20210820173600 -0300" channel="Tooncast">
+    <title lang="pt">Zuzubalândia</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_zuzubalandia01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820173600 -0300" stop="20210820174300 -0300" channel="Tooncast">
+    <title lang="pt">Zuzubalândia</title>
+    <desc lang="pt">Brigadeiro, Suspiro e Laricão sonham em voar com a vassoura da Bruxa. Eles conseguem pegar a vassoura emprestada para dar uns rolês, mas acabam entrando numa fria e tendo que trabalhar para a Bruxa e sua assistente Garfídea.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_zuzubalandia01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820174300 -0300" stop="20210820175000 -0300" channel="Tooncast">
+    <title lang="pt">Zuzubalândia</title>
+    <desc lang="pt">O aniversário do Rei Apetite está chegando e Zuzu decide ir à festa em alto estilo: com um mascote no colo, como fazem algumas estrelas de Hollywood.(n)</desc>
+    <credits>
+      <director>Mariana Caltabiano</director>
+      <actor>Vozes de Hugo Picchi</actor>
+      <actor>Daniel Costa</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_zuzubalandia01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820175000 -0300" stop="20210820180000 -0300" channel="Tooncast">
+    <title lang="pt">Zuzubalândia</title>
+    <desc lang="pt">Um belo dia Zuzu não entra mais na sua calça jeans. Brigadeiro e Laricão se oferecem para ajudá-la a entrar em forma. O único detalhe é que eles não entendem nada de dieta.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_zuzubalandia01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820182100 -0300" channel="Tooncast">
+    <title lang="pt">Batman</title>
+    <desc lang="pt">Quando as Indústrias Wayne fecham uma empresa de brinquedos com um péssimo histórico de segurança, um vilão enlouquecido se vinga tentando matar Bruce Wayne com seus brinquedos diabólicos.(n)</desc>
+    <credits>
+      <actor>Vozes de Rino Romano</actor>
+      <actor>Alastair Duncan</actor>
+      <actor>Evan Sabara</actor>
+      <actor>Danielle Judovits</actor>
+      <actor>Kevin Michael Richardson</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E32</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820182100 -0300" stop="20210820184400 -0300" channel="Tooncast">
+    <title lang="pt">Batman</title>
+    <desc lang="pt">Um novo vilão, Gearhead, faz sua primeira aparição roubando uma corrida beneficente.(n)</desc>
+    <credits>
+      <actor>Vozes de Rino Romano</actor>
+      <actor>Alastair Duncan</actor>
+      <actor>Evan Sabara</actor>
+      <actor>Danielle Judovits</actor>
+      <actor>Kevin Michael Richardson</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E31</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820184400 -0300" stop="20210820190700 -0300" channel="Tooncast">
+    <title lang="pt">Legião dos Super-Heróis</title>
+    <desc lang="pt">Daqui a mil anos, um grupo de super-heróis adolescentes viajará de volta no tempo para recrutar o maior herói do passado, Super-Homem, para combater o Mal no século XXXI.(n)</desc>
+    <credits>
+      <director>Ben Jones</director>
+      <actor>Vozes de Andy Milder</actor>
+      <actor>Adam Wylie</actor>
+      <actor>Yuri Lowenthal</actor>
+      <actor>Kari Wahlgren</actor>
+      <actor>Michael Cornacchia</actor>
+      <actor>Shawn Harrison</actor>
+      <actor>Jennifer Hale</actor>
+      <actor>Heather Hogan</actor>
+      <actor>James Arnold Taylor</actor>
+      <actor>Richard McGonagle</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820190700 -0300" stop="20210820193100 -0300" channel="Tooncast">
+    <title lang="pt">Projeto Zeta</title>
+    <desc lang="pt">Um robô se rebela contra seu criador, recusando-se a matar, e por isso tem que fugir.(n)</desc>
+    <credits>
+      <director>Curt Geda</director>
+      <director>Bob Doucette</director>
+      <director>Jim Maltby</director>
+      <actor>Vozes de Diedrich Bader</actor>
+      <actor>Julie Nathanson</actor>
+      <actor>Michael Rosenbaun</actor>
+      <actor>Kurtwood Smith</actor>
+      <actor>Lauren Tom</actor>
+      <actor>Blayn Barbosa</actor>
+      <actor>Dominique Jennings</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Ulises Cuadra</actor>
+      <actor>Amy Danles</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E18</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820193100 -0300" stop="20210820195500 -0300" channel="Tooncast">
+    <title lang="pt">As Incríveis Aventuras de Jonny Quest</title>
+    <desc lang="pt">Jonny Quest de 11 anos vive com seu pai, o cientista Dr. Benton Quest, Race Bannon, o irmão adotivo Hadji e o buldogue Bandit. Quando as expedições científicas de Dr. Quest o levam em viagens ao redor do mundo toda a trupe o acompanha.(n)</desc>
+    <credits>
+      <actor>vozes de Frank Welker</actor>
+      <actor>Quinton Flynn</actor>
+      <actor>J.D. Roth</actor>
+      <actor>George Segal</actor>
+      <actor>Rob Paulsen</actor>
+    </credits>
+    <date>1996</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820195500 -0300" stop="20210820201900 -0300" channel="Tooncast">
+    <title lang="pt">Loonatics Unleashed</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820201900 -0300" stop="20210820204200 -0300" channel="Tooncast">
+    <title lang="pt">Duck Dodgers</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820204200 -0300" stop="20210820210700 -0300" channel="Tooncast">
+    <title lang="pt">Duck Dodgers</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820210700 -0300" stop="20210820212900 -0300" channel="Tooncast">
+    <title lang="pt">Scooby-Doo! Cadê Você?</title>
+    <desc lang="pt">A gangue parte em uma expedição no mar e acaba se perdendo em meio à neblina, indo parar em uma ilha assombrada. Decidindo então se aventurar em um castelo abandonado para procurar ajuda. Mas dá de cara com um fantasma transparente assustador.(n)</desc>
+    <credits>
+      <director>Hanna &amp; Barbera</director>
+      <actor>Vozes de Don Messick</actor>
+      <actor>Casey Kassem</actor>
+      <actor>Frank Welker</actor>
+      <actor>Stephanianna Christopherson</actor>
+      <actor>Heather North</actor>
+      <actor>Nicole Jaffe</actor>
+    </credits>
+    <date>1969</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/scoobydoocadevoce01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820212900 -0300" stop="20210820215200 -0300" channel="Tooncast">
+    <title lang="pt">Salsicha e Scooby Atrás das Pistas!</title>
+    <desc lang="pt">Salsicha e Scooby devem proteger três dos maiores cientistas do mundo se infiltrando no clube de campo deles.(n)</desc>
+    <credits>
+      <director>Jeff Allen</director>
+      <director>Charles Visser</director>
+      <actor>Vozes de Jim Meskimen</actor>
+      <actor>Jeff Bennett</actor>
+      <actor>Scott Menville</actor>
+      <actor>Frank Welker</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820215200 -0300" stop="20210820215900 -0300" channel="Tooncast">
+    <title lang="pt">Tom e Jerry</title>
+    <desc lang="pt">O gato Tom está sempre correndo atrás do ratinho Jerry. Essa dupla apronta muita confusão e isto é diversão garantida para todos que os assistem.(n)</desc>
+    <credits>
+      <director>William Hanna &amp; Joseph Barbera</director>
+      <actor>Vozes de Tex Avery</actor>
+      <actor>Joseph Barbera</actor>
+      <actor>Billy Bletcher</actor>
+      <actor>Daws Butler</actor>
+      <actor>Bill Cole</actor>
+      <actor>Pinto Colvig</actor>
+      <actor>Hans Conried</actor>
+      <actor>June Foray</actor>
+      <actor>Stan Freberg</actor>
+      <actor>Paul Frees</actor>
+      <actor>Bill Lee</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tomjerry01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820215900 -0300" stop="20210820220600 -0300" channel="Tooncast">
+    <title lang="pt">Tom e Jerry</title>
+    <desc lang="pt">O gato Tom está sempre correndo atrás do ratinho Jerry. Essa dupla apronta muita confusão e isto é diversão garantida para todos que os assistem.(n)</desc>
+    <credits>
+      <director>William Hanna &amp; Joseph Barbera</director>
+      <actor>Vozes de Tex Avery</actor>
+      <actor>Joseph Barbera</actor>
+      <actor>Billy Bletcher</actor>
+      <actor>Daws Butler</actor>
+      <actor>Bill Cole</actor>
+      <actor>Pinto Colvig</actor>
+      <actor>Hans Conried</actor>
+      <actor>June Foray</actor>
+      <actor>Stan Freberg</actor>
+      <actor>Paul Frees</actor>
+      <actor>Bill Lee</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tomjerry01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820220600 -0300" stop="20210820221400 -0300" channel="Tooncast">
+    <title lang="pt">Tom e Jerry</title>
+    <desc lang="pt">O gato Tom está sempre correndo atrás do ratinho Jerry. Essa dupla apronta muita confusão e isto é diversão garantida para todos que os assistem.(n)</desc>
+    <credits>
+      <director>William Hanna &amp; Joseph Barbera</director>
+      <actor>Vozes de Tex Avery</actor>
+      <actor>Joseph Barbera</actor>
+      <actor>Billy Bletcher</actor>
+      <actor>Daws Butler</actor>
+      <actor>Bill Cole</actor>
+      <actor>Pinto Colvig</actor>
+      <actor>Hans Conried</actor>
+      <actor>June Foray</actor>
+      <actor>Stan Freberg</actor>
+      <actor>Paul Frees</actor>
+      <actor>Bill Lee</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tomjerry01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820221400 -0300" stop="20210820222100 -0300" channel="Tooncast">
+    <title lang="pt">Tom e Jerry</title>
+    <desc lang="pt">O gato Tom está sempre correndo atrás do ratinho Jerry. Essa dupla apronta muita confusão e isto é diversão garantida para todos que os assistem.(n)</desc>
+    <credits>
+      <director>William Hanna &amp; Joseph Barbera</director>
+      <actor>Vozes de Tex Avery</actor>
+      <actor>Joseph Barbera</actor>
+      <actor>Billy Bletcher</actor>
+      <actor>Daws Butler</actor>
+      <actor>Bill Cole</actor>
+      <actor>Pinto Colvig</actor>
+      <actor>Hans Conried</actor>
+      <actor>June Foray</actor>
+      <actor>Stan Freberg</actor>
+      <actor>Paul Frees</actor>
+      <actor>Bill Lee</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tomjerry01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820222100 -0300" stop="20210820223000 -0300" channel="Tooncast">
+    <title lang="pt">Tom e Jerry</title>
+    <desc lang="pt">O gato Tom está sempre correndo atrás do ratinho Jerry. Essa dupla apronta muita confusão e isto é diversão garantida para todos que os assistem.(n)</desc>
+    <credits>
+      <director>William Hanna &amp; Joseph Barbera</director>
+      <actor>Vozes de Tex Avery</actor>
+      <actor>Joseph Barbera</actor>
+      <actor>Billy Bletcher</actor>
+      <actor>Daws Butler</actor>
+      <actor>Bill Cole</actor>
+      <actor>Pinto Colvig</actor>
+      <actor>Hans Conried</actor>
+      <actor>June Foray</actor>
+      <actor>Stan Freberg</actor>
+      <actor>Paul Frees</actor>
+      <actor>Bill Lee</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tomjerry01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820223000 -0300" stop="20210820223700 -0300" channel="Tooncast">
+    <title lang="pt">Os Filhos de Tom e Jerry</title>
+    <desc lang="pt">Os filhos de Tom e Jerry, assim como seus pais, sabem como fazer parte de grandes e divertidas confusões.(n)</desc>
+    <credits>
+      <director>Arthur Alsberg</director>
+      <actor>Vozes de Charles Adler</actor>
+      <actor>Joe Alaskey</actor>
+      <actor>William Callaway</actor>
+      <actor>Marsha Clark</actor>
+      <actor>Danny Cooksey</actor>
+      <actor>Tim Curry</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820223700 -0300" stop="20210820224400 -0300" channel="Tooncast">
+    <title lang="pt">Os Filhos de Tom e Jerry</title>
+    <desc lang="pt">Os filhos de Tom e Jerry, assim como seus pais, sabem como fazer parte de grandes e divertidas confusões.(n)</desc>
+    <credits>
+      <director>Arthur Alsberg</director>
+      <actor>Vozes de Charles Adler</actor>
+      <actor>Joe Alaskey</actor>
+      <actor>William Callaway</actor>
+      <actor>Marsha Clark</actor>
+      <actor>Danny Cooksey</actor>
+      <actor>Tim Curry</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820224400 -0300" stop="20210820225100 -0300" channel="Tooncast">
+    <title lang="pt">Os Filhos de Tom e Jerry</title>
+    <desc lang="pt">Os filhos de Tom e Jerry, assim como seus pais, sabem como fazer parte de grandes e divertidas confusões.(n)</desc>
+    <credits>
+      <director>Arthur Alsberg</director>
+      <actor>Vozes de Charles Adler</actor>
+      <actor>Joe Alaskey</actor>
+      <actor>William Callaway</actor>
+      <actor>Marsha Clark</actor>
+      <actor>Danny Cooksey</actor>
+      <actor>Tim Curry</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820225100 -0300" stop="20210820230000 -0300" channel="Tooncast">
+    <title lang="pt">Os Filhos de Tom e Jerry</title>
+    <desc lang="pt">Os filhos de Tom e Jerry, assim como seus pais, sabem como fazer parte de grandes e divertidas confusões.(n)</desc>
+    <credits>
+      <director>Arthur Alsberg</director>
+      <actor>Vozes de Charles Adler</actor>
+      <actor>Joe Alaskey</actor>
+      <actor>William Callaway</actor>
+      <actor>Marsha Clark</actor>
+      <actor>Danny Cooksey</actor>
+      <actor>Tim Curry</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210820232300 -0300" channel="Tooncast">
+    <title lang="pt">Flintstone Kids</title>
+    <desc lang="pt">Divirta-se na cidade de Bedrock, quando os membros desta célebre e moderna família da Idade da Pedra ainda eram adolescentes pré-históricos.(n)</desc>
+    <credits>
+      <actor>Vozes de Tress MacNeille</actor>
+      <actor>Hamilton Camp</actor>
+      <actor>Peter Cullen</actor>
+    </credits>
+    <date>1986</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820232300 -0300" stop="20210820235100 -0300" channel="Tooncast">
+    <title lang="pt">Flintstone Kids</title>
+    <desc lang="pt">Divirta-se na cidade de Bedrock, quando os membros desta célebre e moderna família da Idade da Pedra ainda eram adolescentes pré-históricos.(n)</desc>
+    <credits>
+      <actor>Vozes de Tress MacNeille</actor>
+      <actor>Hamilton Camp</actor>
+      <actor>Peter Cullen</actor>
+    </credits>
+    <date>1986</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820235100 -0300" stop="20210821000100 -0300" channel="Tooncast">
+    <title lang="pt">Dick Vigarista &amp; Mutley</title>
+    <desc lang="pt">Todos os dias, passe uma hora ao lado dos nossos desenhos preferidos de Hanna Barbera, como Corrida Maluca, Dick Vigarista e Muttley, Zé Colmeia, Dom Pixote e muitos outros!(n)</desc>
+    <credits>
+      <director>William Hanna e Joseph Barbera</director>
+    </credits>
+    <date>1969</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/dickvigaristamutley01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820162000 -0300" stop="20210820164500 -0300" channel="truTV HD">
+    <title lang="pt">Resolva Minha Vida</title>
+    <desc lang="pt">Kevin e Brooke trazem de volta um cortador de grama com problema, mas isso vai funcionar desta vez?(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_resolvaminhavidaespecial01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820164500 -0300" stop="20210820173000 -0300" channel="truTV HD">
+    <title lang="pt">Os Vídeos Mais Idiotas do Mundo</title>
+    <desc lang="pt">A estupidez é levada ao extremo. As gargalhadas se sucedem em uma sequência de situações reais ridículas protagonizadas por personagens como motoristas imprudentes, criminosos atrapalhados, pessoas ousadas ou bêbadas.(n)</desc>
+    <credits>
+      <director>Jason Cilo</director>
+      <actor>Todd Bridges</actor>
+      <actor>Chip Bolcik</actor>
+      <actor>Danny Bonaduce</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/osvideosmaisidiotasdomundo01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820173000 -0300" stop="20210820181500 -0300" channel="truTV HD">
+    <title lang="pt">Os Vídeos Mais Idiotas do Mundo</title>
+    <desc lang="pt">A estupidez é levada ao extremo. As gargalhadas se sucedem em uma sequência de situações reais ridículas protagonizadas por personagens como motoristas imprudentes, criminosos atrapalhados, pessoas ousadas ou bêbadas.(n)</desc>
+    <credits>
+      <director>Jason Cilo</director>
+      <actor>Todd Bridges</actor>
+      <actor>Chip Bolcik</actor>
+      <actor>Danny Bonaduce</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/osvideosmaisidiotasdomundo01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820181500 -0300" stop="20210820190000 -0300" channel="truTV HD">
+    <title lang="pt">Os Vídeos Mais Idiotas do Mundo</title>
+    <desc lang="pt">A estupidez é levada ao extremo. As gargalhadas se sucedem em uma sequência de situações reais ridículas protagonizadas por personagens como motoristas imprudentes, criminosos atrapalhados, pessoas ousadas ou bêbadas.(n)</desc>
+    <credits>
+      <director>Jason Cilo</director>
+      <actor>Todd Bridges</actor>
+      <actor>Chip Bolcik</actor>
+      <actor>Danny Bonaduce</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/osvideosmaisidiotasdomundo01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820194500 -0300" channel="truTV HD">
+    <title lang="pt">Os Vídeos Mais Idiotas do Mundo</title>
+    <desc lang="pt">A estupidez é levada ao extremo. As gargalhadas se sucedem em uma sequência de situações reais ridículas protagonizadas por personagens como motoristas imprudentes, criminosos atrapalhados, pessoas ousadas ou bêbadas.(n)</desc>
+    <credits>
+      <director>Jason Cilo</director>
+      <actor>Todd Bridges</actor>
+      <actor>Chip Bolcik</actor>
+      <actor>Danny Bonaduce</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/osvideosmaisidiotasdomundo01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820194500 -0300" stop="20210820201000 -0300" channel="truTV HD">
+    <title lang="pt">Rebocadores</title>
+    <desc lang="pt">Turistas cruzam no caminho de Bernice. Perez tem que lidar com um garoto festeiro. Jerome recebe uma boa olhada de uma estudante de dança.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820201000 -0300" stop="20210820203000 -0300" channel="truTV HD">
+    <title lang="pt">Rebocadores</title>
+    <desc lang="pt">Um rebocador rival tenta roubar o reboque de Robbie, o confronto toma um rumo bizarro. Uma mulher bem-humorada revela sua dupla personalidade a Jerome.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820203000 -0300" stop="20210820205500 -0300" channel="truTV HD">
+    <title lang="pt">Tesouros de Garagem</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tesourosdegaragem01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E2</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820205500 -0300" stop="20210820211500 -0300" channel="truTV HD">
+    <title lang="pt">Tesouros de Garagem</title>
+    <desc lang="pt">Com Sean no comando, os mais poderosos dos arrematadores vão a Marina Del Rey em busca de verdadeiros tesouros náuticos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tesourosdegaragem01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820211500 -0300" stop="20210820214000 -0300" channel="truTV HD">
+    <title lang="pt">Envelhecendo Com Estilo</title>
+    <desc lang="pt">Os quadrinhos Envelhecendo com Estilo trazem piadas e anedotas pessoais sobre como lidar com cabelos grisalhos, proponha um brinde em um casamento, coloque mais cafeína na sua vida, discuta com seu cônjuge e muito mais.(n)</desc>
+    <credits>
+      <actor>Tom Segura</actor>
+      <actor>Kelly Landry</actor>
+      <actor>Alexis Notabartolo</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820214000 -0300" stop="20210820220000 -0300" channel="truTV HD">
+    <title lang="pt">Guerra de Containers</title>
+    <desc lang="pt">Os participantes de GUERRA DE CONTAINERS competem entre si para levar o conteúdo de recipientes enormes, vindos de todas as partes do mundo. Eles não têm a menor ideia do que há dentro de cada um até que se abram as portas.(n)</desc>
+    <credits>
+      <director>Michael McNamara</director>
+      <actor>Penny Daily</actor>
+      <actor>Jason R. Hughes</actor>
+      <actor>Matthew Thomas Gaus</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/guerradecontainers01.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820222500 -0300" channel="truTV HD">
+    <title lang="pt">Tirando a Maior Onda</title>
+    <desc lang="pt">Os amigos vão a Nova Orleans, onde roubam goles de bebidas dos frequentadores de um bar famoso, fazem girar a Roda da Sorte (ou do Azar) na rua Bourbon e causam problemas a bordo de um carro puxado por cavalos.(n)</desc>
+    <credits>
+      <director>P. J. Morrison</director>
+      <actor>Brian Quinn</actor>
+      <actor>Joe Gatto</actor>
+      <actor>James Murray</actor>
+      <actor>Sal Vulcano</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tirandoamaioronda01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E22</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820222500 -0300" stop="20210820225000 -0300" channel="truTV HD">
+    <title lang="pt">Tirando a Maior Onda</title>
+    <desc lang="pt">Os piadistas vão ao parque, onde pedem que desconhecidos concordem com os seus estranhos pontos de vista e dão lições de mau gosto sobre o setor imobiliário.(n)</desc>
+    <credits>
+      <director>P. J. Morrison</director>
+      <actor>Brian Quinn</actor>
+      <actor>Joe Gatto</actor>
+      <actor>James Murray</actor>
+      <actor>Sal Vulcano</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tirandoamaioronda01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E23</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820225000 -0300" stop="20210820231000 -0300" channel="truTV HD">
+    <title lang="pt">Tirando a Maior Onda</title>
+    <desc lang="pt">Os amigos fazem papel de babás ao pedir a desconhecidos reticentes que lhes deixem cuidar dos seus filhos e depois fazem brincadeiras de mau gosto com os clientes de uma loja.(n)</desc>
+    <credits>
+      <director>P. J. Morrison</director>
+      <actor>Brian Quinn</actor>
+      <actor>Joe Gatto</actor>
+      <actor>James Murray</actor>
+      <actor>Sal Vulcano</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tirandoamaioronda01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E24</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820231000 -0300" stop="20210820233500 -0300" channel="truTV HD">
+    <title lang="pt">Efeito Carbonaro</title>
+    <desc lang="pt">Michael experimenta novas comidas, tipo pasta que muda de forma e a sopa que nunca acaba! Depois para em uma loja de discos para gravar uma ilusão, e ainda, Michael tenta convencer seu colega a explorar uma nova fábrica.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_efeitocarbonaro01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820233500 -0300" stop="20210820235500 -0300" channel="truTV HD">
+    <title lang="pt">Efeito Carbonaro</title>
+    <desc lang="pt">Em uma loja de pesca, Michael aborda os clientes com uma incrível ferramenta, e em uma loja da AT&amp;T, Michael aparece com uma câmera que é fina igual papel, literalmente.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_efeitocarbonaro01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820235500 -0300" stop="20210821002000 -0300" channel="truTV HD">
+    <title lang="pt">Resolva Minha Vida</title>
+    <desc lang="pt">Kevin e Brooke testam seus truques para a caixa de areia dos gatos, Kevin faz uma flauta com uma cenoura em um novo segmento de Vamos Fazer uma Coisa.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_resolvaminhavidaespecial01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
     </rating>
   </programme>
 </tv>
