@@ -490,10 +490,12 @@
   </channel>
   <channel id="SPORTV 3 HD">
     <display-name lang="pt">SPORTV 3 HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/sportv3.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="SPORTV HD">
     <display-name lang="pt">SPORTV HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/sportv.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Star Channel HD">
@@ -15651,6 +15653,137 @@
     <category lang="pt">Esporte</category>
     <category lang="pt">Diversos</category>
     <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_faixaolimpica.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820163000 -0300" stop="20210820173000 -0300" channel="SPORTV 3 HD">
+    <title lang="pt">VT - Náutico x Cruzeiro</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/time_nautico.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820173000 -0300" stop="20210820183000 -0300" channel="SPORTV 3 HD">
+    <title lang="pt">PFL - Ao Vivo</title>
+    <desc lang="pt">Acompanhe grandes lutas nessa faixa que exibe os melhores momentos dos eventos de MMA.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820183000 -0300" stop="20210820193000 -0300" channel="SPORTV 3 HD">
+    <title lang="pt">Faixa Combate</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ufc01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820193000 -0300" stop="20210820203000 -0300" channel="SPORTV 3 HD">
+    <title lang="pt">Faixa Combate</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ufc01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820203000 -0300" stop="20210820223000 -0300" channel="SPORTV 3 HD">
+    <title lang="pt">Faixa Combate</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ufc01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820223000 -0300" stop="20210821020000 -0300" channel="SPORTV 3 HD">
+    <title lang="pt">Faixa Combate</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ufc01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820164000 -0300" stop="20210820164500 -0300" channel="SPORTV HD">
+    <title lang="pt">Central de Palpites</title>
+    <desc lang="pt">Comentaristas ajudam a entender as tendências nos principais jogos da rodada. Além de levar em conta estatísticas de mais de mil jogos e 30 mil lances de gol, dando suas impressões e fechando assim os melhores palpites.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820164500 -0300" stop="20210820173000 -0300" channel="SPORTV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_girodarodada01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820173000 -0300" stop="20210820184000 -0300" channel="SPORTV HD">
+    <title lang="pt">Tá na Área - Ao Vivo</title>
+    <desc lang="pt">O Tá na Área, com Magno Navarro e Igor Rodrigues, é o aquecimento para as principais transmissões ao vivo do SporTV. Comentários, análises, entrevistas, as dicas da rodada para os cartoleiros e as notícias atualizadas do Esporte no Brasil.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_tanaareavivo01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820184000 -0300" stop="20210820184500 -0300" channel="SPORTV HD">
+    <title lang="pt">Central de Palpites</title>
+    <desc lang="pt">Comentaristas ajudam a entender as tendências nos principais jogos da rodada. Além de levar em conta estatísticas de mais de mil jogos e 30 mil lances de gol, dando suas impressões e fechando assim os melhores palpites.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820184500 -0300" stop="20210820210000 -0300" channel="SPORTV HD">
+    <title lang="pt">Avaí x Coritiba - Ao Vivo</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/time_avai.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820210000 -0300" stop="20210820233000 -0300" channel="SPORTV HD">
+    <title lang="pt">Cruzeiro x Confiança - Ao Vivo</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/time_cruzeiro.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820233000 -0300" stop="20210821010000 -0300" channel="SPORTV HD">
+    <title lang="pt">Troca de Passes - Ao Vivo</title>
+    <desc lang="pt">André Hernan e Roger Flores comandam o novo Troca, agora de terça a domingo e com novo estúdio. Sempre após a rodada, acompanhe a melhor análise pós-jogo da TV brasileira.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_trocadepassesvivo01.jpg" />
+    <country lang="pt">Brasil</country>
     <rating system="BR">
       <value>L</value>
     </rating>
