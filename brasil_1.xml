@@ -102,6 +102,7 @@
   </channel>
   <channel id="Curta! HD">
     <display-name lang="pt">Curta! HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/curta.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Discovery Channel HD">
@@ -14700,6 +14701,648 @@
     <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.(n)</desc>
     <category lang="pt">Esporte</category>
     <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820143000 -0300" stop="20210820150000 -0300" channel="Curta! HD">
+    <title lang="pt">Incertezas Críticas</title>
+    <desc lang="pt">Paulo Arantes é professor de Filosofia na USP e autor de diversos livros. No seu programa, ele fala sobre a importância da ideia de formação para a compreensão da literatura e da filosofia no Brasil.(n)</desc>
+    <credits>
+      <director>Daniel Augusto</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_incertezascriticas01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820150000 -0300" stop="20210820160000 -0300" channel="Curta! HD">
+    <title lang="pt">Saudade</title>
+    <desc lang="pt">Quando o sentimento fica trágico e dramático. A finitude, o fim do ciclo da vida e o luto nas palavras de artistas como: Ruy Guerra, Ângela Mingas, José Celso Martinez, Adriana Falcão e Mozart Fernandes.(n)</desc>
+    <credits>
+      <director>Paulo Caldas</director>
+      <director>Barbara Cunha</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_saudade01_2_2019.jpg" />
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820160000 -0300" stop="20210820163000 -0300" channel="Curta! HD">
+    <title lang="pt">Alegorias do Brasil</title>
+    <desc lang="pt">Uma imersão em nossas raízes históricas, nas mazelas e qualidades que nos tornam brasileiros. Ao longo de 13 capítulos, mais de 50 intelectuais que pensam o Brasil fazem uma revisão crítica dessas formações culturais.(n)</desc>
+    <credits>
+      <director>Murilo Salles</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_alegoriasdobrasil01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820163000 -0300" stop="20210820170000 -0300" channel="Curta! HD">
+    <title lang="pt">Fronteiras do Pensamento</title>
+    <desc lang="pt">A moçambicana Graça Machel é considerada uma das mais importantes ativistas africanas da atualidade.(n)</desc>
+    <credits>
+      <director>André Brandão</director>
+      <director>Ricardo Carioba</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_fronteirasdopensamento01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820170000 -0300" stop="20210820180000 -0300" channel="Curta! HD">
+    <title lang="pt">Foucault Contra Ele Mesmo</title>
+    <desc lang="pt">Michel Foucault se foi em junho de 1984, deixando para trás uma obra lendária, traduzida no mundo inteiro, sujeita a milhares de interpretações. O personagem está a altura de sua obra complexa e contrastada.(n)</desc>
+    <credits>
+      <director>François Caillat</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Biografia</category>
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820183000 -0300" channel="Curta! HD">
+    <title lang="pt">Luz &amp; Sombra - Fotógrafos do Cinema Brasileiro</title>
+    <desc lang="pt">Adrian Cooper, inglês radicado no Brasil, fala de seu trabalho como diretor e fotógrafo em filmes que marcaram sua carreira, como Chapeleiros, Marvada Carne e Sonhos sem fim.(n)</desc>
+    <credits>
+      <director>Betse de Paula</director>
+      <director>Jacques Cheuiche</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_luzsombrafotografosdo01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820183000 -0300" stop="20210820190000 -0300" channel="Curta! HD">
+    <title lang="pt">Visceral Brasil</title>
+    <desc lang="pt">O Maçambique é a representação da cerimônia de coroação da Rainha Ginga e do rei de Congo, tradição Africana.(n)</desc>
+    <credits>
+      <director>Marcia Paraiso</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/visceralbrasil01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820200000 -0300" channel="Curta! HD">
+    <title lang="pt">Minha Vida na Alemanha de Hitler</title>
+    <desc lang="pt">Da transformação do NSDAP em um partido único para a queima de livros; da Noite das Facas Longas à proclamação de Hitler como Führer.(n)</desc>
+    <credits>
+      <director>Jérôme Frieur</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820212000 -0300" channel="Curta! HD">
+    <title lang="pt">Soldados do Araguaia</title>
+    <desc lang="pt">Entre 1972 e 1975, o Exército Brasileiro enviou milhares de soldados a selva amazônica para exterminar a Guerrilha do Araguaia. 40 anos mais tarde, os soldados que participaram do conflito contam as atrocidades da tortura sofrida.(n)</desc>
+    <credits>
+      <director>Belisario Franca</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820212000 -0300" stop="20210820230000 -0300" channel="Curta! HD">
+    <title lang="pt">Democracia em Preto e Branco</title>
+    <desc lang="pt">O filme mostra como o esporte, política e música se encontraram para mudar o rumo da história do País nos anos 80.(n)</desc>
+    <credits>
+      <director>Pedro Asbeg</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210821000000 -0300" channel="Curta! HD">
+    <title lang="pt">O Voto</title>
+    <desc lang="pt">O quarto episódio da série continua a examinar a crescente disputa sobre estratégias e táticas das sufragistas nos Estados Unidos.(n)</desc>
+    <credits>
+      <director>Michelle Ferrari</director>
+      <actor>Alexander Keyssar</actor>
+      <actor>J.D. Zahniser</actor>
+      <actor>Jad Adams</actor>
+      <actor>Ellen Dubois</actor>
+      <actor>Tina Cassidy</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821000000 -0300" stop="20210821012000 -0300" channel="Curta! HD">
+    <title lang="pt">Soldados do Araguaia</title>
+    <desc lang="pt">Entre 1972 e 1975, o Exército Brasileiro enviou milhares de soldados a selva amazônica para exterminar a Guerrilha do Araguaia. 40 anos mais tarde, os soldados que participaram do conflito contam as atrocidades da tortura sofrida.(n)</desc>
+    <credits>
+      <director>Belisario Franca</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821012000 -0300" stop="20210821030000 -0300" channel="Curta! HD">
+    <title lang="pt">Democracia em Preto e Branco</title>
+    <desc lang="pt">O filme mostra como o esporte, política e música se encontraram para mudar o rumo da história do País nos anos 80.(n)</desc>
+    <credits>
+      <director>Pedro Asbeg</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821030000 -0300" stop="20210821040000 -0300" channel="Curta! HD">
+    <title lang="pt">O Voto</title>
+    <desc lang="pt">O quarto episódio da série continua a examinar a crescente disputa sobre estratégias e táticas das sufragistas nos Estados Unidos.(n)</desc>
+    <credits>
+      <director>Michelle Ferrari</director>
+      <actor>Alexander Keyssar</actor>
+      <actor>J.D. Zahniser</actor>
+      <actor>Jad Adams</actor>
+      <actor>Ellen Dubois</actor>
+      <actor>Tina Cassidy</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821040000 -0300" stop="20210821050000 -0300" channel="Curta! HD">
+    <title lang="pt">Minha Vida na Alemanha de Hitler</title>
+    <desc lang="pt">Da transformação do NSDAP em um partido único para a queima de livros; da Noite das Facas Longas à proclamação de Hitler como Führer.(n)</desc>
+    <credits>
+      <director>Jérôme Frieur</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821050000 -0300" stop="20210821052500 -0300" channel="Curta! HD">
+    <title lang="pt">Intérpretes do Brasil</title>
+    <desc lang="pt">Carlos Serrano fala da sofisticada organização social e administrativa dos povos africanos que, com o tráfico negreiro, vieram para o Brasil. Identifica raízes que, até hoje, estão muito presentes na cultura brasileira.(n)</desc>
+    <credits>
+      <director>Isa Grinspum Ferraz</director>
+    </credits>
+    <date>2001</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821052500 -0300" stop="20210821053000 -0300" channel="Curta! HD">
+    <title lang="pt">Pedro Luis - Vale Quanto Pesa</title>
+    <desc lang="pt">Pedro Luis interpreta canções de Luiz Melodia.(n)</desc>
+    <credits>
+      <director>Pedro Hansen</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821053000 -0300" stop="20210821060000 -0300" channel="Curta! HD">
+    <title lang="pt">Imortais da Academia</title>
+    <desc lang="pt">A cadeira 15 da Academia Brasileira de Letras esbanja a presença de grandes poetas: desde o fundador, Olavo Bilac, e o patrono, Gonçalves Dias, até o modernista Guilherme de Almeida e o atual ocupante, Marco Lucchesi.(n)</desc>
+    <credits>
+      <director>Belisario Franca</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_imortaisdaacademia01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821063000 -0300" channel="Curta! HD">
+    <title lang="pt">Figuras da Dança</title>
+    <desc lang="pt">Penha de Souza, carioca criada em Bauru, em 50 anos de carreira percorreu uma trajetória única, saindo do balé clássico até chegar ao alongamento corretivo postural.(n)</desc>
+    <credits>
+      <director>Inês Bogéa e António Carlos Rebesco</director>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/espeta_arte1nadanca01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821063000 -0300" stop="20210821070000 -0300" channel="Curta! HD">
+    <title lang="pt">Luz &amp; Sombra - Fotógrafos do Cinema Brasileiro</title>
+    <desc lang="pt">Adrian Cooper, inglês radicado no Brasil, fala de seu trabalho como diretor e fotógrafo em filmes que marcaram sua carreira, como Chapeleiros, Marvada Carne e Sonhos sem fim.(n)</desc>
+    <credits>
+      <director>Betse de Paula</director>
+      <director>Jacques Cheuiche</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_luzsombrafotografosdo01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821070000 -0300" stop="20210821073000 -0300" channel="Curta! HD">
+    <title lang="pt">Visceral Brasil</title>
+    <desc lang="pt">O Maçambique é a representação da cerimônia de coroação da Rainha Ginga e do rei de Congo, tradição Africana.(n)</desc>
+    <credits>
+      <director>Marcia Paraiso</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/visceralbrasil01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821073000 -0300" stop="20210821080000 -0300" channel="Curta! HD">
+    <title lang="pt">Expresso</title>
+    <desc lang="pt">Uma visita a Guará, à margem do centro do poder, longe da Brasília das utopias. A cidade satélite é revelada pelo rapper Gog, que acompanha suas transformações urbanas, sociais e culturais.(n)</desc>
+    <credits>
+      <director>Hilton Lacerda</director>
+      <director>Joaquim Castro</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821080000 -0300" stop="20210821083000 -0300" channel="Curta! HD">
+    <title lang="pt">O Povo Brasileiro</title>
+    <desc lang="pt">O sertanejo é oriundo da mistura entre ameríndios e brancos mestiços. O episódio contém gravações em Canudos - interior do sertão baiano - e São Paulo, além de imagens raras de Lampião, Padre Cícero e Luiz Gonzaga.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/opovobrasileiro01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821083000 -0300" stop="20210821090000 -0300" channel="Curta! HD">
+    <title lang="pt">Brasil Visual</title>
+    <desc lang="pt">Neste episódio, iremos entrevistar artistas, críticos e curadores de diversas regiões do Brasil a fim de debater a importância do trabalho artesanal na produção artística brasileira.(n)</desc>
+    <credits>
+      <director>Rosa Melo</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_brasilvisual01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821090000 -0300" stop="20210821100000 -0300" channel="Curta! HD">
+    <title lang="pt">Mark Twain</title>
+    <desc lang="pt">Um documentário sobre a vida do autor americano Mark Twain, produzido e dirigido por Ken Burns. Burns tentou captar a figura pública e privada do escritor, de seu nascimento até sua morte.(n)</desc>
+    <credits>
+      <director>Ken Burns</director>
+      <actor>Keith David</actor>
+      <actor>Kevin Conway</actor>
+      <actor>Philip Bosco</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821100000 -0300" stop="20210821103000 -0300" channel="Curta! HD">
+    <title lang="pt">Fronteiras do Pensamento</title>
+    <desc lang="pt">A moçambicana Graça Machel é considerada uma das mais importantes ativistas africanas da atualidade.(n)</desc>
+    <credits>
+      <director>André Brandão</director>
+      <director>Ricardo Carioba</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_fronteirasdopensamento01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821103000 -0300" stop="20210821110000 -0300" channel="Curta! HD">
+    <title lang="pt">Clássicos do Rock</title>
+    <desc lang="pt">Show da banda de rock irlandesa U2.(n)</desc>
+    <credits>
+      <director>Michel Perin</director>
+    </credits>
+    <date>1973</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Bélgica</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821110000 -0300" stop="20210821113000 -0300" channel="Curta! HD">
+    <title lang="pt">Alegorias do Brasil</title>
+    <desc lang="pt">Uma imersão em nossas raízes históricas, nas mazelas e qualidades que nos tornam brasileiros. Ao longo de 13 capítulos, mais de 50 intelectuais que pensam o Brasil fazem uma revisão crítica dessas formações culturais.(n)</desc>
+    <credits>
+      <director>Murilo Salles</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_alegoriasdobrasil01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821113000 -0300" stop="20210821120000 -0300" channel="Curta! HD">
+    <title lang="pt">Palavras Permanecem</title>
+    <desc lang="pt">Nesse episódio, a dupla Ná Ozzetti e José Miguel Wisnik nos presenteia com números musicais dessa parceria que já dura mais de 30 anos.(n)</desc>
+    <credits>
+      <director>Renata Druck</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821120000 -0300" stop="20210821130000 -0300" channel="Curta! HD">
+    <title lang="pt">O Voto</title>
+    <desc lang="pt">O quarto episódio da série continua a examinar a crescente disputa sobre estratégias e táticas das sufragistas nos Estados Unidos.(n)</desc>
+    <credits>
+      <director>Michelle Ferrari</director>
+      <actor>Alexander Keyssar</actor>
+      <actor>J.D. Zahniser</actor>
+      <actor>Jad Adams</actor>
+      <actor>Ellen Dubois</actor>
+      <actor>Tina Cassidy</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821130000 -0300" stop="20210821142500 -0300" channel="Curta! HD">
+    <title lang="pt">Soldados do Araguaia</title>
+    <desc lang="pt">Entre 1972 e 1975, o Exército Brasileiro enviou milhares de soldados a selva amazônica para exterminar a Guerrilha do Araguaia. 40 anos mais tarde, os soldados que participaram do conflito contam as atrocidades da tortura sofrida.(n)</desc>
+    <credits>
+      <director>Belisario Franca</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821142500 -0300" stop="20210821160000 -0300" channel="Curta! HD">
+    <title lang="pt">Democracia em Preto e Branco</title>
+    <desc lang="pt">O filme mostra como o esporte, política e música se encontraram para mudar o rumo da história do País nos anos 80.(n)</desc>
+    <credits>
+      <director>Pedro Asbeg</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821160000 -0300" stop="20210821170000 -0300" channel="Curta! HD">
+    <title lang="pt">Foucault Contra Ele Mesmo</title>
+    <desc lang="pt">Michel Foucault se foi em junho de 1984, deixando para trás uma obra lendária, traduzida no mundo inteiro, sujeita a milhares de interpretações. O personagem está a altura de sua obra complexa e contrastada.(n)</desc>
+    <credits>
+      <director>François Caillat</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Biografia</category>
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821170000 -0300" stop="20210821173000 -0300" channel="Curta! HD">
+    <title lang="pt">Grandes Mitos</title>
+    <desc lang="pt">Os troianos ficam surpresos ao descobrir que os gregos saíram de repente das margens de Tróia, deixando apenas um cavalo de madeira, tão imponente quanto misterioso.(n)</desc>
+    <credits>
+      <director>Sylvain Bergere</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821173000 -0300" stop="20210821180000 -0300" channel="Curta! HD">
+    <title lang="pt">Matizes do Brasil</title>
+    <desc lang="pt">Um dos grandes nomes da segunda fase do Modernismo brasileiro, Djanira é tema deste episódio de Matizes do Brasil.(n)</desc>
+    <credits>
+      <director>Bianca Lenti</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821180000 -0300" stop="20210821183500 -0300" channel="Curta! HD">
+    <title lang="pt">O Som e o Silêncio</title>
+    <desc lang="pt">Este episódio intercala o encontro de Marcos Suzano e Henrique Cazes no estúdio, onde tocam e conversam, e a visita que Suzano faz à oficina do luthier Rodrigo Gnatali, que fabrica o instrumento.(n)</desc>
+    <credits>
+      <director>José Joffily</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821183500 -0300" stop="20210821191000 -0300" channel="Curta! HD">
+    <title lang="pt">Incertezas Críticas</title>
+    <desc lang="pt">Paulo Arantes é professor de Filosofia na USP e autor de diversos livros. No seu programa, ele fala sobre a importância da ideia de formação para a compreensão da literatura e da filosofia no Brasil.(n)</desc>
+    <credits>
+      <director>Daniel Augusto</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_incertezascriticas01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821191000 -0300" stop="20210821200500 -0300" channel="Curta! HD">
+    <title lang="pt">Saudade</title>
+    <desc lang="pt">Quando o sentimento fica trágico e dramático. A finitude, o fim do ciclo da vida e o luto nas palavras de artistas como: Ruy Guerra, Ângela Mingas, José Celso Martinez, Adriana Falcão e Mozart Fernandes.(n)</desc>
+    <credits>
+      <director>Paulo Caldas</director>
+      <director>Barbara Cunha</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_saudade01_2_2019.jpg" />
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821200500 -0300" stop="20210821210500 -0300" channel="Curta! HD">
+    <title lang="pt">Geografia da Arte</title>
+    <desc lang="pt">Após fundar a agência Magnum, Cartier-Bresson viajou para Índia e tirou as últimas fotos de Gandhi, um dia antes de sua morte. Apaixonado pela cultura local, o fotógrafo retornaria muitas vezes ao país.(n)</desc>
+    <credits>
+      <director>Guto Barra</director>
+      <director>Tatiana Issa</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821210500 -0300" stop="20210821213500 -0300" channel="Curta! HD">
+    <title lang="pt">Palavra Crítica</title>
+    <desc lang="pt">Dos blogs até a importância dos cineclubes, Marcelo fala que os filmes nunca estão fora do seu tempo. Seja qual for o tema ou a abordagem, sempre se conectam com o entorno, sobretudo com o local da história e com o momen.(n)</desc>
+    <credits>
+      <director>Tiago Leitão</director>
+      <actor>Heitor Augusto</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821213500 -0300" stop="20210821223000 -0300" channel="Curta! HD">
+    <title lang="pt">Maria Callas</title>
+    <desc lang="pt">Conhecida como a alta sacerdotisa da ópera italiana, Maria Callas conquistou a admiração de todo o mundo.(n)</desc>
+    <credits>
+      <director>Alan Lewens</director>
+      <director>Alastair Mitchell</director>
+    </credits>
+    <date>1987</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Biografia</category>
+    <country lang="pt">Inglaterra</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821223000 -0300" stop="20210822000000 -0300" channel="Curta! HD">
+    <title lang="pt">Uma Noite em 67</title>
+    <desc lang="pt">O filme registra o momento do tropicalismo, os rachas artísticos e políticos na época da ditadura e a consagração de nomes que se tornaram ídolos até hoje no cenário musical brasileiro.(n)</desc>
+    <credits>
+      <director>Renato Terra</director>
+      <director>Ricardo Calil</director>
+      <actor>Arnaldo Baptista</actor>
+      <actor>Gilberto Gil</actor>
+      <actor>Caetano Veloso</actor>
+      <actor>Chico Buarque de Hollanda</actor>
+      <actor>Roberto Carlos</actor>
+      <actor>Nelson Motta</actor>
+      <actor>Edu Lobo</actor>
+      <actor>Sérgio Cabral</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Musical</category>
+    <country lang="pt">Brasil</country>
     <rating system="BR">
       <value>L</value>
     </rating>
