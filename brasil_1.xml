@@ -236,6 +236,7 @@
   </channel>
   <channel id="FOX Life HD">
     <display-name lang="pt">FOX Life HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="FOX Premium 1">
