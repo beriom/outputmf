@@ -107,6 +107,7 @@
   </channel>
   <channel id="Discovery Channel HD">
     <display-name lang="pt">Discovery Channel HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/discoverychannel.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Discovery Civilization HD">
@@ -15345,6 +15346,565 @@
     <country lang="pt">Brasil</country>
     <rating system="BR">
       <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820135400 -0300" stop="20210820144400 -0300" channel="Discovery Channel HD">
+    <title lang="pt">À Prova de Tudo</title>
+    <desc lang="pt">Bear desce sozinho de paraquedas em uma área isolada e selvagem das Montanhas Rochosas. Sua missão: sobreviver a um dos locais mais conhecidos e perigosos dos Estados Unidos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/aprovadetudoafricadonorte01.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820144400 -0300" stop="20210820153400 -0300" channel="Discovery Channel HD">
+    <title lang="pt">À Prova de Tudo</title>
+    <desc lang="pt">Bear Grylls mostra como se sobrevive nos Alpes, a cadeia de montanhas mais alta da Europa.(n)</desc>
+    <credits>
+      <director>Mark Warner</director>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/aprovadetudoafricadonorte01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820153400 -0300" stop="20210820162400 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+    <desc lang="pt">A 2 mil metros de altitude, nas savanas altas de Ruanda, Ed tenta viver em harmonia com os maiores animais da África. Ele está cercado por elefantes e girafas, mas o alimento é escasso.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/edstafford01.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820162400 -0300" stop="20210820171400 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+    <desc lang="pt">Ed tenta sobreviver sozinho no deserto de Sonora. Ele precisa sobreviver durante dez dias sem água, sem comida e sem uma faca.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/edstafford01.jpg" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820171400 -0300" stop="20210820180400 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+    <desc lang="pt">Ed Stafford cita suas maiores dicas para sobreviver totalmente sozinho, dez dias por vez, em oito dos ambientes mais difíceis do mundo. Ele aprendeu que, às vezes, o inesperado traz recompensas.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/edstafford01.jpg" />
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820180400 -0300" stop="20210820185200 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Largados e Pelados</title>
+    <desc lang="pt">Em uma selva de Belize, a sobrevivencialista Kim Kelly sofre com chuvas torrenciais, carrapatos impiedosos e bugios intimidadores. Sem dormir durante vários dias, Kim corre riscos na floresta.(n)</desc>
+    <credits>
+      <actor>Billy Berger</actor>
+      <actor>Kylie Furneaux</actor>
+      <actor>Michael Brown</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820185200 -0300" stop="20210820194200 -0300" channel="Discovery Channel HD">
+    <title lang="pt">À Prova de Tudo</title>
+    <desc lang="pt">Bear Grylls entra no círculo de fogo do Pacífico e passa uma semana enfrentando desafios na área devastada pelo tsunami de 2004.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/aprovadetudoafricadonorte01.jpg" />
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820194200 -0300" stop="20210820203200 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Vida Remota</title>
+    <desc lang="pt">Os Raineys constroem uma barragem e planejam uma mudança de emergência para uma família que vive em uma zona de inundação no Missouri. Para salvar o negócio da família, Matt reforma sua loja de facas.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_vidaremota01.jpg" />
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820203200 -0300" stop="20210820212200 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Vida Remota</title>
+    <desc lang="pt">Os Raneys reformam o sistema elétrico defeituoso de Kevin Tubbs e constroem o primeiro moinho hidroelétrico do rio Little Susitna, para tornar a propriedade segura para os filhos de Kevin.(n)</desc>
+    <credits>
+      <director>Tim Pastore</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_vidaremota01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820212200 -0300" stop="20210820230200 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Febre do Ouro</title>
+    <desc lang="pt">Parker faz uma segunda baixa e confia tudo a um capataz novato. Tony luta contra um local amaldiçoado. Rick começa sua planta em solo rico. Fred Lewis chama uma lenda da mineração.(n)</desc>
+    <credits>
+      <actor>Parker Schnabel</actor>
+      <actor>Brennan Ruautt</actor>
+      <actor>Ben Hudack</actor>
+      <actor>Rick Ness</actor>
+      <actor>Tony Beets</actor>
+      <actor>Kevin Beets</actor>
+      <actor>Monica Beets</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/febredoourodisputa01.jpg" />
+    <episode-num system="onscreen">S11 E2</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820230200 -0300" stop="20210820235200 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Riquezas do Gelo</title>
+    <desc lang="pt">Em um último esforço para salvar Cloud Island, Doug Stoup leva os mineradores para colher amostras num manto de gelo. Em Ilulissat, os métodos científicos de Eric incomodam os irmãos Feldman.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_riquezasdogelo01.jpg" />
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820235200 -0300" stop="20210821004600 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Tudo Por Ouro</title>
+    <desc lang="pt">As temperaturas altas do verão alteram o leito do mar, fazendo os mineradores procurarem novas estratégias. Shawn enfrenta uma batalha legal. Ken tenta manter sua coroa enquanto Emily e os Kellys querem expandir a operação.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S9 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821004600 -0300" stop="20210821013500 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Tudo Por Ouro</title>
+    <desc lang="pt">Shawn e Ken disputam ombro a ombro enquanto o auge do inverno se aproxima. Ventos perigosos ameaçam a planta de lavagem de Shawn. Emily corre contra a mãe natureza. Vernon arrisca o Goldship enquanto procura um bom ponto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S8 E9</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821013500 -0300" stop="20210821022300 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Vida Remota</title>
+    <desc lang="pt">Os Raneys reformam o sistema elétrico defeituoso de Kevin Tubbs e constroem o primeiro moinho hidroelétrico do rio Little Susitna, para tornar a propriedade segura para os filhos de Kevin.(n)</desc>
+    <credits>
+      <director>Tim Pastore</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_vidaremota01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821022300 -0300" stop="20210821035900 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Febre do Ouro</title>
+    <desc lang="pt">Parker faz uma segunda baixa e confia tudo a um capataz novato. Tony luta contra um local amaldiçoado. Rick começa sua planta em solo rico. Fred Lewis chama uma lenda da mineração.(n)</desc>
+    <credits>
+      <actor>Parker Schnabel</actor>
+      <actor>Brennan Ruautt</actor>
+      <actor>Ben Hudack</actor>
+      <actor>Rick Ness</actor>
+      <actor>Tony Beets</actor>
+      <actor>Kevin Beets</actor>
+      <actor>Monica Beets</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/febredoourodisputa01.jpg" />
+    <episode-num system="onscreen">S11 E2</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821035900 -0300" stop="20210821044600 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Riquezas do Gelo</title>
+    <desc lang="pt">Em um último esforço para salvar Cloud Island, Doug Stoup leva os mineradores para colher amostras num manto de gelo. Em Ilulissat, os métodos científicos de Eric incomodam os irmãos Feldman.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_riquezasdogelo01.jpg" />
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821044600 -0300" stop="20210821051300 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Controle de Fronteiras</title>
+    <desc lang="pt">Um passageiro proveniente de Lima aterrissa em Madri com uma bagagem repleta dos mais diversos produtos: alimentos estragados, notas promissórias, frangos, camisetas falsificadas e protetores para galos de briga.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_controledefronteiras01_2_2019.jpg" />
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821051300 -0300" stop="20210821060000 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Destiladores</title>
+    <desc lang="pt">Mark e Digger buscam a redenção com o alambique de três tanques. Tim convoca Tickle para ser mentor de JT. Patti e David constroem um segundo alambique para dobrar a produção e Lance tenta recuperar a confiança de Jeff.(n)</desc>
+    <credits>
+      <actor>Jeremy Schwartz</actor>
+      <actor>Josh Owens</actor>
+      <actor>Tim Smith</actor>
+      <actor>Red Dog</actor>
+      <actor>Eric 'Digger' Manes</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E5</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821064800 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Caçadores de Venenos</title>
+    <desc lang="pt">As frustrações se acumulam e a tensão aumenta. Em busca da cobra que quase o matou, Tim Fitzer testa os limites de sua equipe. Mas quando a noite cai numa floresta do Texas, um desastre acontece.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/cacadoresdevenenos01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821064800 -0300" stop="20210821073600 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Desvendando os Oceanos com Jeremy Wade</title>
+    <desc lang="pt">Jeremy Wade investiga se um dos desaparecimentos mais famosos no Triângulo das Bermudas foi a conspiração de um agente secreto em guerra com os Estados Unidos.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821073600 -0300" stop="20210821082500 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Caçadores de Venenos</title>
+    <desc lang="pt">As frustrações se acumulam e a tensão aumenta. Em busca da cobra que quase o matou, Tim Fitzer testa os limites de sua equipe. Mas quando a noite cai numa floresta do Texas, um desastre acontece.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/cacadoresdevenenos01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821082500 -0300" stop="20210821091400 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Caçadores de Pítons</title>
+    <desc lang="pt">Quando Dusty Crum captura um píton com marcas incomuns, ele envia uma amostra a um geneticista.(n)</desc>
+    <credits>
+      <actor>Brittany Borges</actor>
+      <actor>Dusty Crum</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821091400 -0300" stop="20210821101000 -0300" channel="Discovery Channel HD">
+    <title lang="pt">A Terra Vista do Espaço</title>
+    <desc lang="pt">Do espaço, a superfície da Terra está coberta de formas incríveis. Os Vombate cavam tocas na Austrália e, no Congo, os elefantes entram na floresta.(n)</desc>
+    <credits>
+      <director>Barn Revill</director>
+      <director>Paul Thompson</director>
+      <actor>Chiwetel Ejiofor</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Inglaterra</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821101000 -0300" stop="20210821110600 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Dinastias</title>
+    <desc lang="pt">Uma colônia de pinguins-imperadores se reúne em Atka Bay, no litoral da Antártida, depois de três meses se alimentando no mar. Eles chegam quando os outros animais antárticos já retornaram para a segurança do oceano.(n)</desc>
+    <credits>
+      <director>Will Lawson</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Reino Unido</country>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821110600 -0300" stop="20210821115700 -0300" channel="Discovery Channel HD">
+    <title lang="pt">África Selvagem</title>
+    <desc lang="pt">O Nilo é um rio que definiu a África por séculos e seu animal mais simbólico talvez seja o crocodilo-do-nilo. Este episódio revela como os animais criam suas famílias ao longo de suas margens.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_africaselvagem01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821115700 -0300" stop="20210821124700 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Sobrevivência Ninja</title>
+    <desc lang="pt">Para cruzar um desfiladeiro de quase três metros de largura, os especialistas em sobrevivência precisam trabalhar juntos para fabricar uma ponte. Um guerreiro precisa superar a fobia de altura para superar o desafio.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_sobrevivencianinja01_2_2019.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821124700 -0300" stop="20210821133700 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Quem Vence</title>
+    <desc lang="pt">Um bombeiro que viu seu melhor amigo ser atacado por um urso enfrenta seu maior temor. Um campeão de rodeios conhece os limites da dor e um dançarino polinésio surpreende Bart com sua primeira derrota.(n)</desc>
+    <credits>
+      <actor>Mike Rosa</actor>
+      <actor>Chrissi Shewchuk</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821133700 -0300" stop="20210821142700 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Caçadores de Pítons</title>
+    <desc lang="pt">Dusty Crum e sua equipe inspecionam uma fábrica de mísseis abandonada que pode abrigar a maior concentração de pítons nos Everglades. A pressão aumenta para capturar os répteis antes que depositem seus ovos.(n)</desc>
+    <credits>
+      <actor>Brittany Borges</actor>
+      <actor>Dusty Crum</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821142700 -0300" stop="20210821151700 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Vale do Diabo</title>
+    <desc lang="pt">No final do inverno, os mineradores estão abaixo da meta. O ponto de escavação de John se mostra quase impenetrável, enquanto os problemas na bomba de Boyce podem obrigá-lo a desistir de tudo.(n)</desc>
+    <credits>
+      <actor>Boyce Goff</actor>
+      <actor>Ben van der Valk</actor>
+      <actor>John Belcik</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_valedodiabo01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821151700 -0300" stop="20210821160700 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+    <desc lang="pt">Felipe e Arnoby mostram como encontrar comida, água e abrigo em uma das montanhas mais letais da América do Sul: a serra de Cocuy, na Colômbia, com picos de mais de 5.000 metros e temperaturas de até 20 graus abaixo de zero.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821160700 -0300" stop="20210821165700 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Sobreviva, Se Puder</title>
+    <desc lang="pt">Jake, nosso ex-SEAL, é capturado e largado no alto de um vulcão, na Islândia. Encarando avalanches, poças de lama borbulhantes e gêiseres sulfúricos, Jake pode perder mais do que o jogo.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/sobrevivasepuder01.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821165700 -0300" stop="20210821174500 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+    <desc lang="pt">Dave e Cody mostram com sobreviver na selva da Tailândia com apenas alguns apetrechos de ecoturista: uma faca, lã de aço, uma pedra de amolar, um celular quebrado e um saco de tabaco.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/desafioemdoseduplanuvensnafloresta01.jpg" />
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821174500 -0300" stop="20210821183300 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Menu Selvagem</title>
+    <desc lang="pt">Josh James e Matt Tebbutt viajam para as Montanhas Rhodope, na Bulgária. Eles são deixados em uma floresta de milhares de quilômetros quadrados, uma das mais intocadas e inóspitas do mundo.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821183300 -0300" stop="20210821192300 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Largados e Pelados</title>
+    <desc lang="pt">Dois fãs de Largados e Pelados ganham a chance de participar de um desafio especial de 14 dias. Uma jovem mãe e um aventureiro tentam sobreviver nas florestas da Nicarágua.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/largadosepelados01.jpg" />
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821192300 -0300" stop="20210821201300 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Largados e Pelados</title>
+    <desc lang="pt">A surfista profissional Anastasia Ashley e o youtuber Cory Williams tentam sobreviver a Largados e Pelados. Longe das facilidades da civilização, eles conseguirão sobreviver às selvas de Belize?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/largadosepelados01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821201300 -0300" stop="20210821210300 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Largados e Pelados</title>
+    <desc lang="pt">Fãs de Largados e Pelados, Molly e Nate aprendem lições difíceis na Floresta Amazônica, um ambiente que já derrotou participantes experientes. Eles encaram chuvas torrenciais, insetos impiedosos e longas noites sem dormir.(n)</desc>
+    <credits>
+      <actor>Angel Rodriguez</actor>
+      <actor>Nicole Terry</actor>
+      <actor>Michael Brown</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/largadosepelados01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E14</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821210300 -0300" stop="20210821215300 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Largados e Pelados</title>
+    <desc lang="pt">Um casal vive uma perigosa aventura na selva filipina. Seu casamento e suas técnicas de sobrevivência são colocados à prova por chuvas torrenciais, insetos implacáveis e porcos selvagens ferozes.(n)</desc>
+    <credits>
+      <actor>Angel Rodriguez</actor>
+      <actor>Nicole Terry</actor>
+      <actor>Michael Brown</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/largadosepelados01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821215300 -0300" stop="20210821222000 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Aeroporto - Área Restrita</title>
+    <desc lang="pt">Um passageiro acima de qualquer suspeita acaba se entregando ao contar mal sua história. Viajantes desavisados precisam acertar as contas - e os impostos - na alfândega.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_aeroportod01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821222000 -0300" stop="20210821224400 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Aeroporto - Área Restrita</title>
+    <desc lang="pt">Um passageiro se recusa a ter seu excesso de mercadoria retido pela Receita Federal. Um casal tenta sair do país com anabolizantes proibidos na bagagem.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_aeroportod01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821224400 -0300" stop="20210821233900 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Operação Fronteira - América do Sul</title>
+    <desc lang="pt">Na região da fronteira Brasil/Paraguai, um motorista foge ao avistar a viatura policial. Depois da perseguição armada, policiais rodoviários pegam o suspeito com mais de 260 kg de maconha.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821233900 -0300" stop="20210822000700 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Operação Fronteira - América do Sul</title>
+    <desc lang="pt">No posto de migração da divisa entre Colômbia e Equador, uma colombiana fugitiva é surpreendida ao tentar voltar ao país depois de muitos anos.(n)</desc>
+    <credits>
+      <director>Rodrigo Adolfo Astiz</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating system="BR">
+      <value>10</value>
     </rating>
   </programme>
 </tv>
