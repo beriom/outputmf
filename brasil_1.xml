@@ -340,10 +340,12 @@
   </channel>
   <channel id="Loading HD">
     <display-name lang="pt">Loading HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/loading.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Love Nature HD">
     <display-name lang="pt">Love Nature HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/lovenature.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Mais na Tela HD">
@@ -11880,6 +11882,195 @@
     <country lang="pt">Austrália</country>
     <rating system="BR">
       <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820160000 -0300" stop="20210820180000 -0300" channel="Loading HD">
+    <title lang="pt">Black Clover</title>
+    <desc lang="pt">Em um mundo onde magia é tudo, Asta e Yuno são abandonados em uma igreja no mesmo dia. Enquanto Yuno possui poderes mágicos excepcionais, Asta é a única pessoa do mundo todo desprovida desse dom.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820200000 -0300" channel="Loading HD">
+    <title lang="pt">Sakura Card Captors</title>
+    <desc lang="pt">As cartas mágicas de um baralho podem causar muita destruição e Sakura terá de reuní-las e colocá-las de volta no lugar de onde sairam.(n)</desc>
+    <credits>
+      <director>Morio Asaka</director>
+      <actor>Vozes de Sakura Tange</actor>
+      <actor>Junko Iwao</actor>
+      <actor>Aya Hisakawa</actor>
+      <actor>Tomokazu Seki</actor>
+      <actor>Megumi Ogata.</actor>
+    </credits>
+    <date>1998</date>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Japão</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820220000 -0300" channel="Loading HD">
+    <title lang="pt">Saint Seiya</title>
+    <desc lang="pt">A série dá destaque ao antigo Cavaleiro de Bronze de Pégaso, Tenma. Tenma é órfão como Seiya, e tem uma ligação forte com Alone, o hospedeiro de Hades na época, e com Sasha, a reencarnação de Athena, que moravam no mesmo orfanato que Tenma.(n)</desc>
+    <credits>
+      <director>Osamu Nabeshima</director>
+      <actor>Vozes de Cristina Valenzuela</actor>
+      <actor>Luciana Baroli</actor>
+      <actor>Beau Billingslea</actor>
+      <actor>Erika Harlacher</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <country lang="pt">Japão</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210821000000 -0300" channel="Loading HD">
+    <title lang="pt">Black Clover</title>
+    <desc lang="pt">Em um mundo onde magia é tudo, Asta e Yuno são abandonados em uma igreja no mesmo dia. Enquanto Yuno possui poderes mágicos excepcionais, Asta é a única pessoa do mundo todo desprovida desse dom.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820162000 -0300" stop="20210820170800 -0300" channel="Love Nature HD">
+    <title lang="pt">Contos de Zâmbia</title>
+    <desc lang="pt">No Vale Luangwa, na Zâmbia, alguns dos maiores animais da Terra vivem lado a lado. Descubra como cada um desses gigantes usa estratégias engenhosas e incríveis adaptações, aperfeiçoadas por milhões de anos, para sobreviver e prosperar.(n)</desc>
+    <credits>
+      <actor>David Vickery</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Canadá</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820170800 -0300" stop="20210820171100 -0300" channel="Love Nature HD">
+    <title lang="pt">Caninópolis</title>
+    <desc lang="pt">Bateria, piano, baixo, violino e violão. Essa é a formação da banda de Otto e seus amigos. Eles resolveram fazer um show pros animais e foi um tremendo sucesso, alguns até tentaram e imitar e deixaram a música ainda melhor.(n)</desc>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820171100 -0300" stop="20210820171300 -0300" channel="Love Nature HD">
+    <title lang="pt">Lubinho, O Lobo Marinho</title>
+    <desc lang="pt">A série conta a história de um filhote de lobo marinho que se perde da mãe na correnteza, durante uma viagem das águas gélidas do sul antártico, rumo ao norte temperado.(n)</desc>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820171300 -0300" stop="20210820171500 -0300" channel="Love Nature HD">
+    <title lang="pt">Lubinho, O Lobo Marinho</title>
+    <desc lang="pt">A série conta a história de um filhote de lobo marinho que se perde da mãe na correnteza, durante uma viagem das águas gélidas do sul antártico, rumo ao norte temperado.(n)</desc>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820171500 -0300" stop="20210820174500 -0300" channel="Love Nature HD">
+    <title lang="pt">Na Trilha da Energia</title>
+    <desc lang="pt">O segundo episódio da 2ª temporada embarca nas fontes complementares de geração de energia. Visitamos um aterro sanitário que gera energia elétrica usando lixo como combustível.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Ecologia</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820174500 -0300" stop="20210820183000 -0300" channel="Love Nature HD">
+    <title lang="pt">A Incrível Madagascar</title>
+    <desc lang="pt">Este filme viaja pela ilha visitando algumas de suas paisagens mais impressionantes para explorar como as espécies de Madagascar evoluíram ao longo do tempo.(n)</desc>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Viagem</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820183000 -0300" stop="20210820192000 -0300" channel="Love Nature HD">
+    <title lang="pt">Contos de Zâmbia</title>
+    <desc lang="pt">No Vale Luangwa, na Zâmbia, alguns dos maiores animais da Terra vivem lado a lado. Descubra como cada um desses gigantes usa estratégias engenhosas e incríveis adaptações, aperfeiçoadas por milhões de anos, para sobreviver e prosperar.(n)</desc>
+    <credits>
+      <actor>David Vickery</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Canadá</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820192000 -0300" stop="20210820201000 -0300" channel="Love Nature HD">
+    <title lang="pt">Mistérios do Rio Mekong</title>
+    <desc lang="pt">O Mekong continua sua jornada sul marcando a fronteira oriental do Sudeste Asiático, na Tailândia. É a junção de muitas regiões importantes.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820201000 -0300" stop="20210820210000 -0300" channel="Love Nature HD">
+    <title lang="pt">Impérios Animais</title>
+    <desc lang="pt">Como personagens populares de canções e histórias, os animais de fazenda são celebrados em todo o mundo. Mas poucas histórias falam de suas espécies irmãs que vivem em estado selvagem.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820210000 -0300" stop="20210820215000 -0300" channel="Love Nature HD">
+    <title lang="pt">A Vida Secreta do Canguru</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820215000 -0300" stop="20210820224000 -0300" channel="Love Nature HD">
+    <title lang="pt">Escola de Orangotangos</title>
+    <desc lang="pt">Orangutan Jungle School é um sistema educacional único, onde centenas de orangotangos órfãos progridem através de uma série de classes de selva e ilhas de pré-lançamento, onde aprendem habilidades que precisam para sobreviver na natureza.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820224000 -0300" stop="20210820233000 -0300" channel="Love Nature HD">
+    <title lang="pt">Esquadrão de Tubarões</title>
+    <desc lang="pt">Os tubarões são ameaçados globalmente - retratados como assassinos irracionais pela mídia e vitimados pela pesca irresponsável.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820233000 -0300" stop="20210821002000 -0300" channel="Love Nature HD">
+    <title lang="pt">Recifes de Naufrágios</title>
+    <desc lang="pt">Existem mais de 3 milhões de locais conhecidos de naufrágios no mundo. Alguns detêm riquezas - outros revelam a história perdida. Mas os destroços mais espetaculares são os que simplesmente se recusam a morrer.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>L</value>
     </rating>
   </programme>
 </tv>
