@@ -117,6 +117,7 @@
   </channel>
   <channel id="Copa do Nordeste 2">
     <display-name lang="pt">Copa do Nordeste 2</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Copa do Nordeste 3">
