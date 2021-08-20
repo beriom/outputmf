@@ -330,10 +330,12 @@
   </channel>
   <channel id="Investigação Discovery HD">
     <display-name lang="pt">Investigação Discovery HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/investigation.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Lifetime HD">
     <display-name lang="pt">Lifetime HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/lifetime.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Loading HD">
@@ -11661,5 +11663,223 @@
     <title lang="pt">Jornal Nacional</title>
     <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
     <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/1526.png" />
+  </programme>
+  <programme start="20210820161700 -0300" stop="20210820170800 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">People Magazine</title>
+    <desc lang="pt">Uma comunidade de Washington fica abalada quando Mechele Linehan é presa por um assassinato ocorrido há uma década no Alasca. Surgem detalhes de um passado sórdido, mas essa mãe suburbana será mesmo uma assassina impiedosa?(n)</desc>
+    <credits>
+      <director>Stephen Schuster</director>
+      <actor>Gary M. Black</actor>
+      <actor>Michael DeBartolo</actor>
+      <actor>Ford Fanter</actor>
+      <actor>Jenn Gulotta</actor>
+      <actor>Tommy Gunns</actor>
+      <actor>Steve Helling</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_peoplemagazine01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820170800 -0300" stop="20210820180000 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">O Crime Quase Perfeito</title>
+    <desc lang="pt">Uma mãe de Orlando desaparece 15 anos depois de ter abandonado um marido abusivo. Ela fugiu da polícia depois de sacar o dinheiro da pensão do marido durante anos ou voltou para se vingar?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ocrimequaseperfeito01.jpg" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820185100 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Intruso Assassino</title>
+    <desc lang="pt">Quando três membros respeitados de uma comunidade de fazendeiros que produz árvores de Natal são mortos a tiros, os moradores locais receiam que um assassino impiedoso esteja entre eles.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820185100 -0300" stop="20210820194300 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Intruso Assassino</title>
+    <desc lang="pt">Quando um médico é torturado e morto em Chicago, seus colegas de profissão se perguntam se o assassino faz parte de um grupo restrito de médicos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820194300 -0300" stop="20210820203400 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Intruso Assassino</title>
+    <desc lang="pt">Depois que uma mulher reencontra a família após anos sem contato, um bairro na Flórida é abalado por escândalos, traições e um duplo assassinato.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820203400 -0300" stop="20210820212500 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Intruso Assassino</title>
+    <desc lang="pt">Um grupo de bombeiros da Virgínia Ocidental descobre que um incêndio suspeito esconde um triplo assassinato.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820212500 -0300" stop="20210820221700 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Amor, Mortal Amor</title>
+    <desc lang="pt">Chris e Teresa parecem feitos um para o outro. Até que o desaparecimento de um deles leva a cinco meses infernais para todos, e um final chocante e revelador.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820221700 -0300" stop="20210820230900 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Amor, Mortal Amor</title>
+    <desc lang="pt">Em 2014, a polícia encontra um cadáver em um trailer em Winona, Missouri. Os proprietários, Jason e Stephanie McClurg, enfrentavam dificuldades sérias, mas ninguém esperava que uma discussão do casal terminaria em assassinato.(n)</desc>
+    <credits>
+      <director>Bill Thomas</director>
+      <actor>Ronan Summers</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820230900 -0300" stop="20210820233500 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Adotados</title>
+    <desc lang="pt">Em Israel, uma mulher quer adotar uma criança, mas não consegue por ser solteira. Ela parte para o Brasil em uma arriscada viagem para realizar seu sonho. E também: em Tel Aviv, um casal lida com a crise de sua filha de 10 anos.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820233500 -0300" stop="20210821000100 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Adotados</title>
+    <desc lang="pt">Uma ligação no meio da noite muda para sempre a vida de um casal e dá início a uma jornada misteriosa entre Brasil e Paraguai. E também: uma jovem viaja de Israel para o Brasil em busca da verdade sobre seu nascimento.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820154300 -0300" stop="20210820172300 -0300" channel="Lifetime HD">
+    <title lang="pt">Os Segredos Obscuros da Minha Mãe</title>
+    <desc lang="pt">Depois de conhecer sua mãe biológica há muito perdida, Ashley se vê presa em uma rede de mentiras e enganos, na qual não tem certeza se sua mãe é inocente ou culpada de um assassinato.(n)</desc>
+    <credits>
+      <director>Curtis Crawford</director>
+      <actor>Laurie Fortier</actor>
+      <actor>Nia Roam</actor>
+      <actor>Kintaro Akiyama</actor>
+      <actor>Ash Catherwood</actor>
+      <actor>Michael Coady</actor>
+      <actor>David Dacosta</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+    <country lang="pt">Canadá</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820172300 -0300" stop="20210820192300 -0300" channel="Lifetime HD">
+    <title lang="pt">De Volta à Estaca Zero</title>
+    <desc lang="pt">Baseado em uma história real, o filme narra a vida de um casal de sucesso, Aaron e Maggie, que esperam a chegada de seu primeiro filho. Descobrem que o bebê está morto no útero.(n)</desc>
+    <credits>
+      <director>Sean Hanish</director>
+      <actor>Minnie Driver</actor>
+      <actor>Alfred Molina</actor>
+      <actor>Connie Nielsen</actor>
+      <actor>Kathy Baker</actor>
+      <actor>Paul Adelstein</actor>
+      <actor>Sarah Jones</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/devoltaaestacazero01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820192300 -0300" stop="20210820210500 -0300" channel="Lifetime HD">
+    <title lang="pt">Vingança Fraterna</title>
+    <desc lang="pt">Michael é um bem sucedido homem de negócios que tem tudo: um restaurante de luxo, uma bela casa e uma família carinhosa. Até que um dia, Suzanne, uma sensual femme fatale, entra em sua vida.(n)</desc>
+    <credits>
+      <director>Curtis Crawford</director>
+      <actor>Brooke Burns</actor>
+      <actor>Tim Rozon</actor>
+      <actor>Ashley Jones</actor>
+      <actor>Rebecca Amzallag</actor>
+      <actor>Ken Proulx</actor>
+      <actor>Brittany Adams</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Canadá</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820210500 -0300" stop="20210820224800 -0300" channel="Lifetime HD">
+    <title lang="pt">Vingança Matrimonial</title>
+    <desc lang="pt">Kent planeja um plano de vingança contra Laurel, cujo marido ele acreditava ter arruinado seu casamento, no entanto, seu plano se torna mortal quando Laurel decide revidar.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820224800 -0300" stop="20210821003100 -0300" channel="Lifetime HD">
+    <title lang="pt">A Vingança da Meia-Irmã</title>
+    <desc lang="pt">Uma mãe realiza o sonho de viajar com seu marido e sua filha de 5 anos à sua cidade natal, na Austrália. Mas quando sua filha desaparece, o seu sonho se transforma em pesadelo.(n)</desc>
+    <credits>
+      <director>Vic Sarin</director>
+      <actor>Claire van der Boom</actor>
+      <actor>Todd Lasance</actor>
+      <actor>Lynn Gilmartin</actor>
+      <actor>Melina Vidler</actor>
+      <actor>Sophie Tilson</actor>
+      <actor>Jason Wilder</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country lang="pt">Austrália</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
   </programme>
 </tv>
