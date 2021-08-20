@@ -137,6 +137,7 @@
   </channel>
   <channel id="Discovery Channel HD">
     <display-name lang="pt">Discovery Channel HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Discovery Civilization HD">
