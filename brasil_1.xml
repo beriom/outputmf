@@ -2,6 +2,7 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="A&amp;E HD">
     <display-name lang="pt">A&amp;E HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/aande.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="AMC HD">
@@ -102,6 +103,7 @@
   </channel>
   <channel id="Discovery Home &amp; Health">
     <display-name lang="pt">Discovery Home &amp; Health</display-name>
+    <icon src="../canais/1614253368.gif|../canais/1601463429.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="Discovery Home &amp; Health HD ³">
