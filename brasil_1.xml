@@ -30487,4 +30487,207 @@
       <value>L</value>
     </rating>
   </programme>
+  <programme start="20210820093000 -0300" stop="20210820120000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">ESPN Knockout: PBC</title>
+    <desc lang="pt">O melhor do boxe internacional nos canais ESPN.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820120000 -0300" stop="20210820130000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Bola da Vez</title>
+    <desc lang="pt">Grandes nomes do esporte em uma conversa franca, direta e, muitas vezes, reveladora. Passado, presente e os projetos para o futuro. Todo sábado, após o Sportscenter, na ESPN Brasil, sob o comando de André Plihal.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_boladavez01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820130000 -0300" stop="20210820150000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Inter de Milão x Dynamo Kiev</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820150000 -0300" stop="20210820170000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">The Rugby Championship: Africa do Sul x Argentina</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Rugby</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820170000 -0300" stop="20210820180000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">WRC: Etapa da Bélgica: Resumo</title>
+    <desc lang="pt">Assista ao resumo das etapas válidas pelo Campeonato Mundial de Raly.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Radical</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820200000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Milan x Panathinaikos</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820230000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Ciclismo: Vuelta A España: Etapa 7: Gandía &gt; Balcón De Alicante</title>
+    <desc lang="pt">Realizada desde 1935, a Vuelta a España é um dos três principais eventos de ciclismo de estrada do mundo (ao lado do Tour de France e do Giro d'Italia). Confira todas as etapas nos canais ESPN.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Ciclismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210821020000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Nascar Cup Series: Indianapolis</title>
+    <desc lang="pt">Assista aos automóveis de passeio americano alcançando mais de 320 km/h dentro das pistas da NASCAR, a principal série de corridas da National Association for Stock Car Auto Racing dos Estados Unidos.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821020000 -0300" stop="20210821040000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Brest x Paris Saint Germain</title>
+    <desc lang="pt">Tradicional e charmoso, o Campeonato Francês passou a receber investimentos milionários nas últimas temporadas. Comandado por Neymar, o jogador mais caro mundo, o PSG busca voltar ao topo com a chegada do craque Lionel Messi.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821040000 -0300" stop="20210821070000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">NFL: Kansas City Chiefs x Arizona Cardinals</title>
+    <desc lang="pt">As equipes da NFL se preparam para a próxima temporada. Assista os confrontos preliminares com o melhor do futebol americano.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_nfloaklandraidersxdenverbronc01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821070000 -0300" stop="20210821073000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">La Liga World</title>
+    <desc lang="pt">Confira, em primeira mão, tudo o que antecede a próxima rodada da Liga espanhola. Análises táticas, curiosidades, perfis e reportagens exclusivas.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821073000 -0300" stop="20210821080000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Mundo Premier League</title>
+    <desc lang="pt">Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_mundopremierleague01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821080000 -0300" stop="20210821090000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">WRC: Etapa da Bélgica: Resumo</title>
+    <desc lang="pt">Assista ao resumo das etapas válidas pelo Campeonato Mundial de Raly.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Radical</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821090000 -0300" stop="20210821093000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Inside Serie A</title>
+    <desc lang="pt">Uma previsão sobre os próximos jogos do Campeonato Italiano.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821093000 -0300" stop="20210821110000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">ESPN Knockout: Jair Valtierra x Alberto Luiz Ibarra</title>
+    <desc lang="pt">O melhor do boxe internacional nos canais ESPN.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Boxe</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821110000 -0300" stop="20210821130000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">NBA Summer League Presented By Mgm Resorts</title>
+    <desc lang="pt">Que tal aquele esquenta antes da nova temporada regular da NBA? Os canais ESPN exibem o torneio de Verão da NBA, a Summer League.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821130000 -0300" stop="20210821140000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">ESPN League</title>
+    <desc lang="pt">Análise completa das principais ligas esportivas americanas: NFL (futebol americano), NBA (basquete), MLB (baseball) e NHL (hóquei).(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_espnleague01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821140000 -0300" stop="20210821160000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Liverpool x Burnley</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821160000 -0300" stop="20210821180000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">The Rugby Championship: Africa do Sul x Argentina</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Rugby</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821180000 -0300" stop="20210821200000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">ESPN Knockout: Hasibullah Ahmadi x Rauf Aghayev</title>
+    <desc lang="pt">O melhor do boxe internacional nos canais ESPN.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Boxe</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821200000 -0300" stop="20210821220000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Ciclismo: Vuelta A España: Etapa 8: Santa Pola &gt; La Manga Del Mar Menor</title>
+    <desc lang="pt">Realizada desde 1935, a Vuelta a España é um dos três principais eventos de ciclismo de estrada do mundo (ao lado do Tour de France e do Giro d'Italia). Confira todas as etapas nos canais ESPN.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Ciclismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821220000 -0300" stop="20210822000000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Gil Vicente x Benfica</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
 </tv>
