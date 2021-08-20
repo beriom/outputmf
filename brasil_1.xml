@@ -71257,4 +71257,951 @@
       <value>L</value>
     </rating>
   </programme>
+  <programme start="20210820090000 -0300" stop="20210820100000 -0300" channel="Record News">
+    <title lang="pt">Alerta Brasil</title>
+    <desc lang="pt">Alerta Brasil terá reportagens próprias mescladas com o conteúdo das edições regionais do Cidade Alerta, exibidas pelas filiadas e afiliadas da Record.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_alertabrasil01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820100000 -0300" stop="20210820104500 -0300" channel="Record News">
+    <title lang="pt">Fala Brasil</title>
+    <desc lang="pt">As manhãs de segunda a sábado da Record TV são marcadas pelo bom jornalismo do Fala Brasil. O telejornal matinal traz, em primeira mão, as notícias do dia do Brasil e do mundo.(n)</desc>
+    <credits>
+      <actor>Mariana Godoy</actor>
+      <actor>Sergio Aguiar</actor>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/falabrasilespecial01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820104500 -0300" stop="20210820104800 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820104800 -0300" stop="20210820110000 -0300" channel="Record News">
+    <title lang="pt">Fala Brasil</title>
+    <desc lang="pt">As manhãs de segunda a sábado da Record TV são marcadas pelo bom jornalismo do Fala Brasil. O telejornal matinal traz, em primeira mão, as notícias do dia do Brasil e do mundo.(n)</desc>
+    <credits>
+      <actor>Mariana Godoy</actor>
+      <actor>Sergio Aguiar</actor>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/falabrasilespecial01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820110000 -0300" stop="20210820115700 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <desc lang="pt">Em diferentes edições, o Hora News atualiza as notícias do Brasil e do mundo para que o telespectador comece e termine o dia bem informado.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_horanews01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820115700 -0300" stop="20210820120000 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820120000 -0300" stop="20210820124500 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <desc lang="pt">Em diferentes edições, o Hora News atualiza as notícias do Brasil e do mundo para que o telespectador comece e termine o dia bem informado.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_horanews01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820124500 -0300" stop="20210820124800 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820124800 -0300" stop="20210820132700 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <desc lang="pt">Em diferentes edições, o Hora News atualiza as notícias do Brasil e do mundo para que o telespectador comece e termine o dia bem informado.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_horanews01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820132700 -0300" stop="20210820133000 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820133000 -0300" stop="20210820135700 -0300" channel="Record News">
+    <title lang="pt">Mundo Record News</title>
+    <desc lang="pt">Telejornal que atualiza o que é notícia pelo mundo.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820135700 -0300" stop="20210820140000 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820140000 -0300" stop="20210820150000 -0300" channel="Record News">
+    <title lang="pt">Record News Séries</title>
+    <desc lang="pt">Matérias marcantes e de grande repercussão no jornalismo nacional. Record News Séries leva até o telespectador grandes reportagens de diversos temas com uma abordagem ampla e aprofundada.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_rnseries01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820150000 -0300" stop="20210820150300 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820150300 -0300" stop="20210820152700 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <desc lang="pt">Em diferentes edições, o Hora News atualiza as notícias do Brasil e do mundo para que o telespectador comece e termine o dia bem informado.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_horanews01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820152700 -0300" stop="20210820153000 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820153000 -0300" stop="20210820154000 -0300" channel="Record News">
+    <title lang="pt">Balanço Geral</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/balancogeral01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820154000 -0300" stop="20210820154300 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820154300 -0300" stop="20210820164500 -0300" channel="Record News">
+    <title lang="pt">Balanço Geral</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/balancogeral01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820164500 -0300" stop="20210820180000 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <desc lang="pt">Em diferentes edições, o Hora News atualiza as notícias do Brasil e do mundo para que o telespectador comece e termine o dia bem informado.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_horanews01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820192200 -0300" channel="Record News">
+    <title lang="pt">Link News</title>
+    <desc lang="pt">Os principais assuntos do dia transformadas em notícia por meio da interatividade com o telespectador.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820192200 -0300" stop="20210820192500 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820192500 -0300" stop="20210820194000 -0300" channel="Record News">
+    <title lang="pt">JR Agro</title>
+    <desc lang="pt">Lúcio Sturm conversa com as principais lideranças políticas do agronegócio brasileiro, além de produtores e representantes de entidades no JR Agro.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820194000 -0300" stop="20210820194300 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820194300 -0300" stop="20210820200000 -0300" channel="Record News">
+    <title lang="pt">JR Agro</title>
+    <desc lang="pt">Lúcio Sturm conversa com as principais lideranças políticas do agronegócio brasileiro, além de produtores e representantes de entidades no JR Agro.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820200300 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200300 -0300" stop="20210820210000 -0300" channel="Record News">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/jornaldarecord01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820210000 -0300" stop="20210820220000 -0300" channel="Record News">
+    <title lang="pt">Jornal da Record News</title>
+    <desc lang="pt">O JR News é o principal telejornal da emissora. Analítico e premiado, o telejornal conta com entrevistados especiais e uma equipe de comentaristas conceituados.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_jornaldarecordnews01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820223800 -0300" channel="Record News">
+    <title lang="pt">News das 10</title>
+    <desc lang="pt">Um jornal ágil e dinâmico com a informação essencial do dia no Brasil e mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820223800 -0300" stop="20210820224000 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820224000 -0300" stop="20210820232800 -0300" channel="Record News">
+    <title lang="pt">Record News Séries</title>
+    <desc lang="pt">Matérias marcantes e de grande repercussão no jornalismo nacional. Record News Séries leva até o telespectador grandes reportagens de diversos temas com uma abordagem ampla e aprofundada.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_rnseries01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820232800 -0300" stop="20210820233000 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820233000 -0300" stop="20210820235700 -0300" channel="Record News">
+    <title lang="pt">Zapping</title>
+    <desc lang="pt">O Zapping mostra as curiosidades e os bastidores da televisão, cinema, moda e música.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820235700 -0300" stop="20210821000000 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821000000 -0300" stop="20210821001500 -0300" channel="Record News">
+    <title lang="pt">Inova 360</title>
+    <desc lang="pt">O programa busca ativar o ímpeto empreendedor e fomentar empresas a agregar valor, gerar mais empregos, inovação e crescimento.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cultural</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821001500 -0300" stop="20210821004500 -0300" channel="Record News">
+    <title lang="pt">Nação dos 318</title>
+    <desc lang="pt">O nome não foi escolhido por acaso, na verdade, é quem deixa a sua marca na história da humanidade que permanece como exemplo e foi o que aconteceu com 318 homens que lutaram ao lado de Abrão e venceram.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821004500 -0300" stop="20210821005800 -0300" channel="Record News">
+    <title lang="pt">Nosso Tempo</title>
+    <desc lang="pt">Um programa da Igreja Universal do Reino de Deus. O Bispo Rogério leva uma palavra de fé e esperança a todos os internautas.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821005800 -0300" stop="20210821010000 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821010000 -0300" stop="20210821013000 -0300" channel="Record News">
+    <title lang="pt">Balanço Geral</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/balancogeral01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821013000 -0300" stop="20210821013300 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821013300 -0300" stop="20210821015700 -0300" channel="Record News">
+    <title lang="pt">Balanço Geral</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/balancogeral01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821015700 -0300" stop="20210821021500 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821021500 -0300" stop="20210821031300 -0300" channel="Record News">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/jornaldarecord01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821031300 -0300" stop="20210821031500 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821031500 -0300" stop="20210821041300 -0300" channel="Record News">
+    <title lang="pt">Fala Brasil</title>
+    <desc lang="pt">As manhãs de segunda a sábado da Record TV são marcadas pelo bom jornalismo do Fala Brasil. O telejornal matinal traz, em primeira mão, as notícias do dia do Brasil e do mundo.(n)</desc>
+    <credits>
+      <actor>Mariana Godoy</actor>
+      <actor>Sergio Aguiar</actor>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/falabrasilespecial01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821041300 -0300" stop="20210821041500 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821041500 -0300" stop="20210821044200 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <desc lang="pt">Em diferentes edições, o Hora News atualiza as notícias do Brasil e do mundo para que o telespectador comece e termine o dia bem informado.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_horanews01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821044200 -0300" stop="20210821044500 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821044500 -0300" stop="20210821053000 -0300" channel="Record News">
+    <title lang="pt">Alerta Brasil</title>
+    <desc lang="pt">Alerta Brasil terá reportagens próprias mescladas com o conteúdo das edições regionais do Cidade Alerta, exibidas pelas filiadas e afiliadas da Record.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_alertabrasil01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821053000 -0300" stop="20210821060000 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <desc lang="pt">Em diferentes edições, o Hora News atualiza as notícias do Brasil e do mundo para que o telespectador comece e termine o dia bem informado.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_horanews01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821060300 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821060300 -0300" stop="20210821061500 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <desc lang="pt">Em diferentes edições, o Hora News atualiza as notícias do Brasil e do mundo para que o telespectador comece e termine o dia bem informado.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_horanews01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821061500 -0300" stop="20210821061800 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821061800 -0300" stop="20210821062700 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <desc lang="pt">Em diferentes edições, o Hora News atualiza as notícias do Brasil e do mundo para que o telespectador comece e termine o dia bem informado.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_horanews01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821062700 -0300" stop="20210821063000 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821063000 -0300" stop="20210821070000 -0300" channel="Record News">
+    <title lang="pt">Nosso Tempo</title>
+    <desc lang="pt">Um programa da Igreja Universal do Reino de Deus. O Bispo Rogério leva uma palavra de fé e esperança a todos os internautas.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821070000 -0300" stop="20210821080000 -0300" channel="Record News">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/jornaldarecord01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821080000 -0300" stop="20210821090000 -0300" channel="Record News">
+    <title lang="pt">Record News Rural</title>
+    <desc lang="pt">O Record News Rural leva as novidades do agronegócio, empreendedorismo agrícola, cotações e comportamento rural.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_recordnewsrural01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821090000 -0300" stop="20210821100000 -0300" channel="Record News">
+    <title lang="pt">Câmera Record</title>
+    <desc lang="pt">Reportagens especiais que abordam assuntos de interesse dos brasileiros e movimentam o país.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/camerarecord01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821100000 -0300" stop="20210821104300 -0300" channel="Record News">
+    <title lang="pt">Fala Brasil Especial</title>
+    <desc lang="pt">Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_falabrasilespecial01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821104300 -0300" stop="20210821104500 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821104500 -0300" stop="20210821111200 -0300" channel="Record News">
+    <title lang="pt">Fala Brasil Especial</title>
+    <desc lang="pt">Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_falabrasilespecial01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821111200 -0300" stop="20210821111500 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821111500 -0300" stop="20210821114300 -0300" channel="Record News">
+    <title lang="pt">Fala Brasil Especial</title>
+    <desc lang="pt">Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_falabrasilespecial01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821114300 -0300" stop="20210821114500 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821114500 -0300" stop="20210821122700 -0300" channel="Record News">
+    <title lang="pt">Fala Brasil Especial</title>
+    <desc lang="pt">Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_falabrasilespecial01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821122700 -0300" stop="20210821123000 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821123000 -0300" stop="20210821132700 -0300" channel="Record News">
+    <title lang="pt">Câmera Record</title>
+    <desc lang="pt">Reportagens especiais que abordam assuntos de interesse dos brasileiros e movimentam o país.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/camerarecord01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821132700 -0300" stop="20210821133000 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821133000 -0300" stop="20210821140000 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <desc lang="pt">Em diferentes edições, o Hora News atualiza as notícias do Brasil e do mundo para que o telespectador comece e termine o dia bem informado.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_horanews01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821140000 -0300" stop="20210821140300 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821140300 -0300" stop="20210821150300 -0300" channel="Record News">
+    <title lang="pt">Câmera Record</title>
+    <desc lang="pt">Reportagens especiais que abordam assuntos de interesse dos brasileiros e movimentam o país.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/camerarecord01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821150300 -0300" stop="20210821150600 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821150600 -0300" stop="20210821153000 -0300" channel="Record News">
+    <title lang="pt">Record News Séries</title>
+    <desc lang="pt">Matérias marcantes e de grande repercussão no jornalismo nacional. Record News Séries leva até o telespectador grandes reportagens de diversos temas com uma abordagem ampla e aprofundada.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_rnseries01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821153000 -0300" stop="20210821153300 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821153300 -0300" stop="20210821170000 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <desc lang="pt">Em diferentes edições, o Hora News atualiza as notícias do Brasil e do mundo para que o telespectador comece e termine o dia bem informado.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_horanews01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821170000 -0300" stop="20210821170300 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821170300 -0300" stop="20210821180000 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <desc lang="pt">Em diferentes edições, o Hora News atualiza as notícias do Brasil e do mundo para que o telespectador comece e termine o dia bem informado.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_horanews01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821180000 -0300" stop="20210821181500 -0300" channel="Record News">
+    <title lang="pt">Record News Séries</title>
+    <desc lang="pt">Matérias marcantes e de grande repercussão no jornalismo nacional. Record News Séries leva até o telespectador grandes reportagens de diversos temas com uma abordagem ampla e aprofundada.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_rnseries01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821181500 -0300" stop="20210821181800 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821181800 -0300" stop="20210821183300 -0300" channel="Record News">
+    <title lang="pt">Record News Séries</title>
+    <desc lang="pt">Matérias marcantes e de grande repercussão no jornalismo nacional. Record News Séries leva até o telespectador grandes reportagens de diversos temas com uma abordagem ampla e aprofundada.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_rnseries01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821183300 -0300" stop="20210821183600 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821183600 -0300" stop="20210821190700 -0300" channel="Record News">
+    <title lang="pt">Repórter Record Investigação</title>
+    <desc lang="pt">Denúncias exclusivas, temas polêmicos e grandes reportagens. O Repórter Record Investigação tem a missão de desvendar temas de interesse público.(n)</desc>
+    <credits>
+      <actor>Roberto Cabrini</actor>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_reporterrecordinvestigacao01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821190700 -0300" stop="20210821191000 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821191000 -0300" stop="20210821200000 -0300" channel="Record News">
+    <title lang="pt">Repórter Record Investigação</title>
+    <desc lang="pt">Denúncias exclusivas, temas polêmicos e grandes reportagens. O Repórter Record Investigação tem a missão de desvendar temas de interesse público.(n)</desc>
+    <credits>
+      <actor>Roberto Cabrini</actor>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_reporterrecordinvestigacao01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821200000 -0300" stop="20210821211500 -0300" channel="Record News">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/jornaldarecord01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821211500 -0300" stop="20210821221500 -0300" channel="Record News">
+    <title lang="pt">Câmera Record</title>
+    <desc lang="pt">Reportagens especiais que abordam assuntos de interesse dos brasileiros e movimentam o país.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/camerarecord01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821221500 -0300" stop="20210821221700 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821221700 -0300" stop="20210821225500 -0300" channel="Record News">
+    <title lang="pt">Estúdio News</title>
+    <desc lang="pt">Apresentado por Tainá Falcão, a atração terá um formato dinâmico, informativo e descontraído, com a proposta de mostrar diferentes pontos de vista os assuntos escolhidos a cada edição.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_estudionews01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821225500 -0300" stop="20210821230000 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821230000 -0300" stop="20210821232700 -0300" channel="Record News">
+    <title lang="pt">Record News Séries</title>
+    <desc lang="pt">Matérias marcantes e de grande repercussão no jornalismo nacional. Record News Séries leva até o telespectador grandes reportagens de diversos temas com uma abordagem ampla e aprofundada.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_rnseries01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821232700 -0300" stop="20210821233000 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821233000 -0300" stop="20210822000000 -0300" channel="Record News">
+    <title lang="pt">O Imponderável</title>
+    <desc lang="pt">Inovação e transformação digital. O futuro do trabalho, das cidades e principalmente das pessoas. Descubra o impacto dessas mudanças no programa O Imponderável.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
 </tv>
