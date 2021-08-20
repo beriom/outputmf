@@ -17,10 +17,12 @@
   </channel>
   <channel id="Arte 1 HD">
     <display-name lang="pt">Arte 1 HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/arte1.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="AXN HD">
     <display-name lang="pt">AXN HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/axnhd.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Band News HD">
@@ -992,6 +994,478 @@
     <episode-num system="onscreen">S1 E5</episode-num>
     <rating system="BR">
       <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820143000 -0300" stop="20210820150000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Protagonistas Invisíveis</title>
+    <desc lang="pt">Camareira do Teatro Oficina há 20 anos, Maria Aparecida Magalhães de Mello, a Cida, conta as histórias por trás das roupas da companhia teatral do diretor Zé Celso.(n)</desc>
+    <credits>
+      <director>Adriana Siqueira Lopes</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820150000 -0300" stop="20210820160000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 Documenta</title>
+    <desc lang="pt">O documentário acompanha a jornada da estilista Coco Chanel desde sua infância, como órfã abandonada, até a subversão das ordens sociais para tornar-se uma das maiores designers de moda do século 20.(n)</desc>
+    <credits>
+      <director>Jean Lauritano</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_arte1documenta01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820160000 -0300" stop="20210820170000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 Documenta</title>
+    <desc lang="pt">O apresentador Alan Yentob viaja para Rússia, a fim de conhecer a opinião popular sobre Leon Tolstói. O filme mostra diferentes facetas do autor e revela um Tolstói para além de "Guerra e Paz" e "Anna Karenina".(n)</desc>
+    <credits>
+      <director>Rupert Edwards</director>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_arte1documenta01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820170000 -0300" stop="20210820173000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Minidocs</title>
+    <desc lang="pt">Neste episódio, conheça mais sobre a luta da cantora e compositora Bia Ferreira sobre a mulher preta na música. A revolução está realmente em curso?(n)</desc>
+    <credits>
+      <director>Carlos Gayotto Rolim</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820173000 -0300" stop="20210820180000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 Encontra</title>
+    <desc lang="pt">A produção do Arte1 aproxima o público de artistas das variadas áreas por meio de encontros em seus estúdios.(n)</desc>
+    <credits>
+      <director>Gisele Kato</director>
+      <director>Ricardo Sêco</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820190000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 Visual</title>
+    <desc lang="pt">O quinto episódio faz uma breve historiografia da representação do nu em obras de arte e busca respostas a questionamentos feitos acerca do tema.(n)</desc>
+    <credits>
+      <director>Marcos Guttmann</director>
+      <director>Fabiano Maciel</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_arte1visual01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820193000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Buscando Buskers</title>
+    <desc lang="pt">Jali Kiari (nome artístico de Jalizete Ferrari) é cantora, compositora e instrumentista. Além de suas composições próprias, Jali interpreta versões musicadas de poesias de Davi Kinski.(n)</desc>
+    <credits>
+      <director>Gabriel Castelhano</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_buscandobuskers01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820193000 -0300" stop="20210820201500 -0300" channel="Arte 1 HD">
+    <title lang="pt">Memórias do Brasil</title>
+    <desc lang="pt">Artistas como Tuzé de Abreu, Marcio Meireles, Jorge Alfredo, Cesare De La Roca e Chico Liberato, ajudam a conhecer e a entender melhor a vida e a obra de Lia Robatto.(n)</desc>
+    <credits>
+      <director>Rodrigo de Luna</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_memoriasdobrasil01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820201500 -0300" stop="20210820203000 -0300" channel="Arte 1 HD">
+    <title lang="pt">A Crucigramista</title>
+    <desc lang="pt">Com um olhar interdisciplinar entre artes plásticas, literatura e cinema, a série dirigida por Paula Parisot e Jessica Mitrani proporciona um panorama sobre o passado e o presente da cultura latino-americana.(n)</desc>
+    <credits>
+      <director>Paula Parisot</director>
+      <director>Jessica Mitrani</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820203000 -0300" stop="20210820213000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Teatros no Brasil</title>
+    <desc lang="pt">Presente nos principais episódios políticos do Rio Grande do Sul, o Theatro São Pedro é considerado uma fortaleza dos palcos e preserva os traços da arquitetura clássica.(n)</desc>
+    <credits>
+      <director>Emilio Gallo</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820213000 -0300" stop="20210820230000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 Apresenta</title>
+    <desc lang="pt">O cantor, compositor e multi-instrumentista americano Ben Harper faz uma apresentação no festival Baloise Session, na Suíça, em que traz composições em diferentes estilos como blues, folk, soul, reggae e rock.(n)</desc>
+    <credits>
+      <director>Roli Bärlocher</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_arte1apresenta01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210821004500 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 em Preto e Branco: Nas Garras do Vício</title>
+    <desc lang="pt">Um jovem parisiense está se recuperando em uma aldeia de Alverne. Lá, encontra-se com um amigo de infância, mergulhado na bebida e mal casado.(n)</desc>
+    <credits>
+      <director>Claude Chabrol</director>
+      <actor>Edmond Beauchamp</actor>
+      <actor>Gérard Blain</actor>
+      <actor>Jean-Claude Brialy</actor>
+      <actor>Bernadette Lafont</actor>
+      <actor>Claude Chabrol</actor>
+      <actor>André Dino</actor>
+      <actor>Jeanne Pérez</actor>
+      <actor>Philippe de Broca</actor>
+    </credits>
+    <date>1958</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820134500 -0300" stop="20210820144000 -0300" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">Quando a identidade do assassino Port-to-Port é finalmente revelada, a equipe NCIS inteira encontra-se em grave perigo.(n)</desc>
+    <credits>
+      <director>Dennis Smith</director>
+      <actor>Mark Harmon</actor>
+      <actor>Cote de Pablo</actor>
+      <actor>Michael Weatherly</actor>
+      <actor>Pauley Perrette</actor>
+      <actor>Sean Murray</actor>
+      <actor>Rocky Carroll</actor>
+      <actor>David McCallum</actor>
+      <actor>Brian Dietzen</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ncis01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S8 E24</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820144000 -0300" stop="20210820153500 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. NY</title>
+    <desc lang="pt">Marc precisa descobrir como capturar um assassino em um voo comercial.(n)</desc>
+    <credits>
+      <director>Matt Earl Beesley</director>
+      <actor>Gary Sinise</actor>
+      <actor>Hill Harper</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Carmine Giovinazzo</actor>
+      <actor>Eddie Cahill</actor>
+      <actor>Anna Belknap</actor>
+      <actor>Robert Joy</actor>
+      <actor>Ben Youcef</actor>
+      <actor>Luna Rocio Cantale</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/csinewyork01.jpg" />
+    <country lang="pt">Canadá</country>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820153500 -0300" stop="20210820163000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt">Catherine e Nick se envolvem com o perigoso mundo dos rachas quando um "piloto" é encontrado morto no deserto, numa pista de aviões abandonada.(n)</desc>
+    <credits>
+      <director>Danny Cannon</director>
+      <actor>William Petersen</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>Gary Dourdan</actor>
+      <actor>Eric Szmanda Robert David Hall</actor>
+      <actor>George Eads</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Paul Guilfoyle</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/csi01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820163000 -0300" stop="20210820172500 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <desc lang="pt">Uma família é o alvo de um ataque com granadas em um restaurante de elite, e os CSIs investigam se as vítimas eram mesmo o alvo dos criminosos.(n)</desc>
+    <credits>
+      <director>Sam Hill</director>
+      <actor>Evan EllingsonSprague Grayden</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/csimiami01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E23</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820172500 -0300" stop="20210820182000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <desc lang="pt">Uma ex-estrela do futebol colegial é assassinada em uma reunião, e os CSIs precisam encontrar o assassino. A vítima era um grande homem no campus durante o Colegial e haviam muitos convidados na reunião com motivos para odiá-lo.(n)</desc>
+    <credits>
+      <director>Norberto Barba</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Sofia Milos</actor>
+      <actor>Jonathan Togo</actor>
+      <actor>Rex Linn</actor>
+      <actor>Max Martini</actor>
+      <actor>Holt McCallany</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/csimiami01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E22</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820182000 -0300" stop="20210820191500 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <desc lang="pt">Um teorista da conspiração ajuda a equipe quando um artefato perdido se torna a chave para resolver um homicídio duplo.(n)</desc>
+    <credits>
+      <director>Duane Clark</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+      <actor>Grace Park</actor>
+      <actor>Masi Oka</actor>
+      <actor>Michelle Borth</actor>
+      <actor>Justin Bruening</actor>
+      <actor>Taylor Wily</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/hawaii5001.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820191500 -0300" stop="20210820201000 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <desc lang="pt">O Five-0 investiga o assassinato de um homem que entrava de penetra em casamentos, e seu principal suspeito é a noiva, que fugiu do altar.(n)</desc>
+    <credits>
+      <director>Bryan Spicer</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+      <actor>Grace Park</actor>
+      <actor>Michelle Borth</actor>
+      <actor>Rebecca De Mornay</actor>
+      <actor>Autumn Reeser</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/hawaii5001.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820201000 -0300" stop="20210820210500 -0300" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">Quando a identidade do assassino Port-to-Port é finalmente revelada, a equipe NCIS inteira encontra-se em grave perigo.(n)</desc>
+    <credits>
+      <director>Dennis Smith</director>
+      <actor>Mark Harmon</actor>
+      <actor>Cote de Pablo</actor>
+      <actor>Michael Weatherly</actor>
+      <actor>Pauley Perrette</actor>
+      <actor>Sean Murray</actor>
+      <actor>Rocky Carroll</actor>
+      <actor>David McCallum</actor>
+      <actor>Brian Dietzen</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ncis01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S8 E24</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820210500 -0300" stop="20210820220000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt">O corpo de uma mulher é encontrado na cabine de locução de um campo de futebol de uma escola, aparentemente vítima de estrangulamento.(n)</desc>
+    <credits>
+      <director>Kenneth Fink</director>
+      <actor>Gary Dourdan</actor>
+      <actor>George Eads</actor>
+      <actor>William Petersen</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Robert David Hall</actor>
+      <actor>Bob Gunton</actor>
+      <actor>Max Martini</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/csi01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">CANADÁ</country>
+    <episode-num system="onscreen">S3 E22</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820225500 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <desc lang="pt">Calleigh é jogado da Estrada para um canal e prejudica algumas evidências coletadas anteriormente. Agora a equipe precisa trabalhar para encontrar novas provas, já que a maioria delas foi prejudicada pela água.(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Jonathan Togo</actor>
+      <actor>Rex Linn</actor>
+      <actor>Eva La Rue</actor>
+      <actor>Johnny Whitworth</actor>
+      <actor>Chad Morgan</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/csimiami01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820225500 -0300" stop="20210820235000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt">Um homem acusado de assassinar a esposa e colegas de trabalho leva os CSIs à uma caçada dentro de um cassino movimentado. Os CSIs colhem as provas na cena do crime.(n)</desc>
+    <credits>
+      <director>Terrence O'Hara</director>
+      <actor>William Petersen</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>Gary Dourdan</actor>
+      <actor>George Eads</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Robert David Hall</actor>
+      <actor>Kelly Carlson</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/csi01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E23</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820235000 -0300" stop="20210821004500 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt">Os CSIs esperam ao lado da cama de um dos membros da equipe, depois que ele foi baleado em um tiroteio.(n)</desc>
+    <credits>
+      <director>Kenneth Fink</director>
+      <actor>William Petersen</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>Gary Dourdan</actor>
+      <actor>George Eads</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Paul Guilfoyle</actor>
+      <actor>Joseph Patrick Kelly</actor>
+      <actor>Patricia Heller</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/csi01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E24</episode-num>
+    <rating system="BR">
+      <value>16</value>
     </rating>
   </programme>
 </tv>
