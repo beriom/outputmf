@@ -366,6 +366,7 @@
   </channel>
   <channel id="MTV Live HD">
     <display-name lang="pt">MTV Live HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/mtvlivehd.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Multishow HD">
@@ -47877,6 +47878,402 @@
     <episode-num system="onscreen">S4 E4</episode-num>
     <rating system="BR">
       <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820130000 -0300" stop="20210820150000 -0300" channel="MTV Live HD">
+    <title lang="pt">Rock Solid Playlist</title>
+    <desc lang="pt">Pegue sua guitarra e festeje forte com nossa playlist de rock sólido!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820150000 -0300" stop="20210820163000 -0300" channel="MTV Live HD">
+    <title lang="pt">20 Biggest Worldwide No.1s!</title>
+    <desc lang="pt">Confira 20 dos maiores sucessos que chegaram ao primeiro lugar no mundo todo!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820163000 -0300" stop="20210820170000 -0300" channel="MTV Live HD">
+    <title lang="pt">Hot Right Now!</title>
+    <desc lang="pt">Nós trazemos a você os vídeos musicais mais quentes do mundo agora!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820170000 -0300" stop="20210820174500 -0300" channel="MTV Live HD">
+    <title lang="pt">World Stage</title>
+    <desc lang="pt">A lendária banda de rock americana Green Day apresenta um cenário explosivo na frente de 10.000 fãs emocionados em Sevilha, exclusivamente para o MTV World Stage, incluindo as faixas Good Riddance e American Idiot.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/worldstageflorida01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E126</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820174500 -0300" stop="20210820180500 -0300" channel="MTV Live HD">
+    <title lang="pt">MTV Diary</title>
+    <desc lang="pt">O primeiro convite para a vida de um artista. De suas casas e vidas pessoais, às experiências na estrada que atestam uma realidade não censurada, vemos os momentos de suas vidas como eles acontecem.(n)</desc>
+    <date>2000</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820180500 -0300" stop="20210820183000 -0300" channel="MTV Live HD">
+    <title lang="pt">MTV Diary</title>
+    <desc lang="pt">O primeiro convite para a vida de um artista. De suas casas e vidas pessoais, às experiências na estrada que atestam uma realidade não censurada, vemos os momentos de suas vidas como eles acontecem.(n)</desc>
+    <date>2002</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820183000 -0300" stop="20210820191500 -0300" channel="MTV Live HD">
+    <title lang="pt">Mtv Unplugged</title>
+    <desc lang="pt">A aclamada série de música acústica da MTV mostra o trabalho do maior artista de hoje e apresenta as estrelas de amanhã.(n)</desc>
+    <date>1999</date>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820191500 -0300" stop="20210820193500 -0300" channel="MTV Live HD">
+    <title lang="pt">MTV Unplugged</title>
+    <desc lang="pt">Aproveitando o sucesso de seu álbum de estreia, o Pearl Jam gravou este episódio Unplugged à meia-noite no Kaufman Astoria Studios em março de 1992.(n)</desc>
+    <date>1992</date>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820193500 -0300" stop="20210820200000 -0300" channel="MTV Live HD">
+    <title lang="pt">Rocks Special: Kings Of Leon</title>
+    <desc lang="pt">Jack Saunders conversa com Caleb e Nathan do Kings Of Leon sobre seu novo álbum enorme, voltar em turnê e jogar golfe!(n)</desc>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820213000 -0300" channel="MTV Live HD">
+    <title lang="pt">20 Biggest Worldwide No.1s!</title>
+    <desc lang="pt">Confira 20 dos maiores sucessos que chegaram ao primeiro lugar no mundo todo!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820213000 -0300" stop="20210820220000 -0300" channel="MTV Live HD">
+    <title lang="pt">Hot Right Now!</title>
+    <desc lang="pt">Nós trazemos a você os vídeos musicais mais quentes do mundo agora!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820224500 -0300" channel="MTV Live HD">
+    <title lang="pt">Behind the Music</title>
+    <desc lang="pt">Esta série de documentários de uma hora examina histórias pessoais convincentes sobre o sucesso, a tragédia e o triunfo de diferentes artistas.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Biografia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/behindthemusic01.jpg" />
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820224500 -0300" stop="20210820230000 -0300" channel="MTV Live HD">
+    <title lang="pt">Jennifer Lopez</title>
+    <desc lang="pt">De "Jenny From The Block" a seu último filme, J. Lo se tornou um ícone do cinema, da moda e da música. The Ride segue sua jornada do Bronx para conquistar Hollywood e as paradas.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210820230500 -0300" channel="MTV Live HD">
+    <title lang="pt">Hot Right Now!</title>
+    <desc lang="pt">Nós trazemos a você os vídeos musicais mais quentes do mundo agora!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820230500 -0300" stop="20210820233000 -0300" channel="MTV Live HD">
+    <title lang="pt">Jennifer Lopez</title>
+    <desc lang="pt">A Parte 2 segue o retorno de J.Lo aos holofotes e seu "segundo ato" pessoal e profissional, incluindo a conquista do Prêmio Vanguard no VMA da MTV e a quebra de recordes de Las Vegas.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820233000 -0300" stop="20210821010000 -0300" channel="MTV Live HD">
+    <title lang="pt">MTV Rewind</title>
+    <desc lang="pt">Entre na MTV Time Machine e viaje de volta a 2016 para verificar quais faixas estavam roubando nossos corações e dominando as paradas!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821010000 -0300" stop="20210821020000 -0300" channel="MTV Live HD">
+    <title lang="pt">Rock Solid Playlist</title>
+    <desc lang="pt">Pegue sua guitarra e festeje forte com nossa playlist de rock sólido!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821020000 -0300" stop="20210821040000 -0300" channel="MTV Live HD">
+    <title lang="pt">Hot Right Now!</title>
+    <desc lang="pt">Nós trazemos a você os vídeos musicais mais quentes do mundo agora!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821040000 -0300" stop="20210821060000 -0300" channel="MTV Live HD">
+    <title lang="pt">Rock Solid Playlist</title>
+    <desc lang="pt">Pegue sua guitarra e festeje forte com nossa playlist de rock sólido!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821064500 -0300" channel="MTV Live HD">
+    <title lang="pt">Storytellers - Taylor Swift</title>
+    <desc lang="pt">As histórias que inspiraram grandes sucessos contadas por seus autores. Detalhes de cada música, fatos sobre suas carreiras e comentários sobre o processo criativo de cada hit.(n)</desc>
+    <credits>
+      <actor>Taylor Swift</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Biografia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/storytellersaliciakeys01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821064500 -0300" stop="20210821070500 -0300" channel="MTV Live HD">
+    <title lang="pt">My Life On Mtv</title>
+    <desc lang="pt">Essas ameaças triplas surgiram nos anos 90 na MTV ... e agora mais de duas décadas depois, ainda estamos obcecados.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821070500 -0300" stop="20210821073000 -0300" channel="MTV Live HD">
+    <title lang="pt">The Ride</title>
+    <desc lang="pt">Nesta edição da série de histórias de artistas de estreia da MTV, vamos para as Bahamas, onde DJ Khaled está recebendo R&amp;R após o lançamento de seu novo álbum, Father Of Asahd.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/fifthharmony01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821073000 -0300" stop="20210821081500 -0300" channel="MTV Live HD">
+    <title lang="pt">MTV Unplugged</title>
+    <desc lang="pt">O MTV Unplugged apresenta o cantor, compositor e pianista britânico Elton John ao ritmo de seus grandes sucessos.(n)</desc>
+    <credits>
+      <director>Milton Lage</director>
+      <actor>Elton John</actor>
+      <actor>Jim Burns</actor>
+      <actor>Robert Small</actor>
+      <actor>Milton Lage</actor>
+      <actor>Joel Gallen</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821081500 -0300" stop="20210821090000 -0300" channel="MTV Live HD">
+    <title lang="pt">MTV Unplugged</title>
+    <desc lang="pt">A aclamada série de música acústica da MTV mostra o trabalho do maior artista de hoje e apresenta as estrelas de amanhã.(n)</desc>
+    <date>1991</date>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821090000 -0300" stop="20210821110000 -0300" channel="MTV Live HD">
+    <title lang="pt">MTV Rewind</title>
+    <desc lang="pt">Entre na MTV Time Machine e viaje de volta a 2017 para verificar quais faixas estavam roubando nossos corações e dominando as paradas!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821110000 -0300" stop="20210821130000 -0300" channel="MTV Live HD">
+    <title lang="pt">High Definition Hits!</title>
+    <desc lang="pt">Nada além do melhor com esses sucessos de alta definição!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821130000 -0300" stop="20210821150000 -0300" channel="MTV Live HD">
+    <title lang="pt">Rock Solid Playlist</title>
+    <desc lang="pt">Pegue sua guitarra e festeje forte com nossa playlist de rock sólido!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821150000 -0300" stop="20210821163000 -0300" channel="MTV Live HD">
+    <title lang="pt">Top 20 Tracks Of The Year So Far!</title>
+    <desc lang="pt">Sintonize enquanto contamos 20 das melhores e maiores faixas do ano até agora!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821163000 -0300" stop="20210821170000 -0300" channel="MTV Live HD">
+    <title lang="pt">Hot Right Now!</title>
+    <desc lang="pt">Nós trazemos a você os vídeos musicais mais quentes do mundo agora!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821170000 -0300" stop="20210821172000 -0300" channel="MTV Live HD">
+    <title lang="pt">MTV Unplugged</title>
+    <desc lang="pt">Filmado inteiramente de sua casa, Miley Cyrus apresentará alguns de seus sucessos mais icônicos, bem como algumas de suas canções favoritas.(n)</desc>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821172000 -0300" stop="20210821174500 -0300" channel="MTV Live HD">
+    <title lang="pt">MTV Unplugged Presents</title>
+    <desc lang="pt">O supergrupo global BTS torna-se 'Unplugged' para tocar não apenas algumas de suas últimas faixas do BE, mas também algumas grandes surpresas tudo neste especial imperdível.(n)</desc>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821174500 -0300" stop="20210821183000 -0300" channel="MTV Live HD">
+    <title lang="pt">AmyWinehouse e Eu</title>
+    <desc lang="pt">Dez anos após a trágica morte de Amy Winehouse, este documentário mostra sua afilhada, Dionne Bromfield, falando pela primeira vez sobre o impacto da morte de Amy em sua vida.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Biografia</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821183000 -0300" stop="20210821200000 -0300" channel="MTV Live HD">
+    <title lang="pt">High Definition Hits!</title>
+    <desc lang="pt">Nada além do melhor com esses sucessos de alta definição!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821200000 -0300" stop="20210821213000 -0300" channel="MTV Live HD">
+    <title lang="pt">Top 20 Tracks Of The Year So Far!</title>
+    <desc lang="pt">Sintonize enquanto contamos 20 das melhores e maiores faixas do ano até agora!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821213000 -0300" stop="20210821220000 -0300" channel="MTV Live HD">
+    <title lang="pt">Hot Right Now!</title>
+    <desc lang="pt">Nós trazemos a você os vídeos musicais mais quentes do mundo agora!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821220000 -0300" stop="20210821224500 -0300" channel="MTV Live HD">
+    <title lang="pt">MTV Unplugged</title>
+    <desc lang="pt">O MTV Unplugged apresenta o cantor, compositor e pianista britânico Elton John ao ritmo de seus grandes sucessos.(n)</desc>
+    <credits>
+      <director>Milton Lage</director>
+      <actor>Elton John</actor>
+      <actor>Jim Burns</actor>
+      <actor>Robert Small</actor>
+      <actor>Milton Lage</actor>
+      <actor>Joel Gallen</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821224500 -0300" stop="20210821233000 -0300" channel="MTV Live HD">
+    <title lang="pt">MTV Unplugged</title>
+    <desc lang="pt">A aclamada série de música acústica da MTV mostra o trabalho do maior artista de hoje e apresenta as estrelas de amanhã.(n)</desc>
+    <date>1991</date>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821233000 -0300" stop="20210822020000 -0300" channel="MTV Live HD">
+    <title lang="pt">MTV Rewind</title>
+    <desc lang="pt">Entre na MTV Time Machine e viaje de volta a 2017 para verificar quais faixas estavam roubando nossos corações e dominando as paradas!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>12</value>
     </rating>
   </programme>
 </tv>
