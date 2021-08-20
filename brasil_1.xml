@@ -1763,4 +1763,708 @@
       <value>16</value>
     </rating>
   </programme>
+  <programme start="20210820091000 -0300" stop="20210820100200 -0300" channel="Animal Planet HD">
+    <title lang="pt">Dinastias</title>
+    <title lang="en">Dynasties</title>
+    <desc lang="pt">Tait pertence à espécie ameaçada de cães selvagens africanos, os mabecos, e é a matriarca de uma das últimas grandes matilhas. Ela governou sua dinastia por muitos anos nas margens do rio Zambeze, no Zimbábue, mantendo a paz dentro da família.(n)</desc>
+    <credits>
+      <director>Will Lawson</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Reino Unido</country>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820100200 -0300" stop="20210820105500 -0300" channel="Animal Planet HD">
+    <title lang="pt">Os Reis da Selva</title>
+    <title lang="en">Big Cat Tales</title>
+    <desc lang="pt">Depois de meses, o bando retorna à Mara durante a migração dos gnus. O bando Marsh desaparece de vista. Surge uma rara coalizão de cinco guepardos machos. A caçada de Bahati é interrompida pela intervenção de um enorme crocodilo.(n)</desc>
+    <credits>
+      <director>Abraham Joffe</director>
+      <actor>Jackson Looseyia</actor>
+      <actor>Angela Scott</actor>
+      <actor>Jonathan Scott</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_osreisdaselva01_2_2019.jpg" />
+    <country lang="pt">Austrália</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820105500 -0300" stop="20210820114800 -0300" channel="Animal Planet HD">
+    <title lang="pt">Nova Zelândia Selvagem</title>
+    <title lang="en">Modern Dinosaurs</title>
+    <desc lang="pt">Muitos animais da Nova Zelândia compartilham uma característica: são gigantes. Suas ilhas abrigam uma grande quantidade de insetos, que crescem até o tamanho de ratos, além de pássaros enormes e serpentes carnívoras.(n)</desc>
+    <credits>
+      <director>Quin Bereston</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820114800 -0300" stop="20210820124100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca Mortal</title>
+    <title lang="en">Deadliest Catch</title>
+    <desc lang="pt">Sig retorna à temporada que quase o matou. Depois de um começo difícil, Keith e seu filho lutam para provar seu valor. Wild Bill dá uma segunda chance a Nick McGlashan. Jake se despede de um amigo.(n)</desc>
+    <credits>
+      <actor>Bill Petrie</actor>
+      <actor>Bill Wichrowski</actor>
+      <actor>Sig Hansen</actor>
+      <actor>Nick McGlashan</actor>
+      <actor>Jake Anderson</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/pescamortal01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S13</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820124100 -0300" stop="20210820133400 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca Mortal</title>
+    <title lang="en">Deadliest Catch</title>
+    <desc lang="pt">Quando o Ártico revela sua fúria invernal, o primeiro de vários furacões atinge a frota. A pesca precária e marinheiros rebeldes também convergem para criar a tempestade perfeita.(n)</desc>
+    <credits>
+      <actor>Bill Petrie</actor>
+      <actor>Bill Wichrowski</actor>
+      <actor>Nick McGlashan</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/pescamortal01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S13 E11</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820133400 -0300" stop="20210820142700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Perdido na África - Entre Cobras e Leões</title>
+    <title lang="en">Wild Frank Vs Darren</title>
+    <desc lang="pt">Frank recorda o desafio que o levou até a África e que superou no final do episódio anterior: ficar cara a cara com um leão. Darran tenta capturar uma das cobras mais perigosas do mundo.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Viagem</category>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820142700 -0300" stop="20210820152000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Perdido no Sudeste Asiático</title>
+    <desc lang="pt">Frank tenta desvendar o mito do dragão, mas não encontra apenas "dragões", lagartos e monitores e fica de frente com um grande felino, o tigre-asiático; uma cobra venenosa letal, a cobra-real.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820152000 -0300" stop="20210820161300 -0300" channel="Animal Planet HD">
+    <title lang="pt">Indonésia Selvagem</title>
+    <title lang="en">Wildest Islands Of Indonesia</title>
+    <desc lang="pt">O calor da Indonésia permite que os répteis locais prosperem. Descubra como seus mares repletos de corais e florestas tropicais se tornaram o domínio desses animais.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ecologia</category>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820161300 -0300" stop="20210820170600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Oriente Médio Selvagem</title>
+    <title lang="en">Wildest Middle East</title>
+    <desc lang="pt">Uma viagem pelo Turcomenistão selvagem.(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820170600 -0300" stop="20210820180000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Europa Selvagem</title>
+    <title lang="en">Wildest Europe</title>
+    <desc lang="pt">No sul da Europa, quando as temperaturas no verão superam os 30 graus Celsius, a vida testa seus limites em terras áridas e desafiadoras.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_europaselvagem01.jpg" />
+    <country lang="pt">Grã-Bretanha</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820185400 -0300" channel="Animal Planet HD">
+    <title lang="pt">Lei da Sobrevivência</title>
+    <title lang="en">Wildest Survival</title>
+    <desc lang="pt">Predadores mortais usam venenos potentes, picadas e ferrões para incapacitar e matar a presa, e também para se defenderem. Descubra as adaptações que os animais desenvolveram para vencer seus rivais.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Grã-Bretanha</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820185400 -0300" stop="20210820194600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Monstros do Rio</title>
+    <title lang="en">River Monsters</title>
+    <desc lang="pt">Jeremy Wade viaja para o Outback, o deserto australiano, para tentar apanhar o raro e temido peixe-serra de água doce. Este predador tem seis metros de comprimento e fama de atacar barcos, mas isso o torna um assassino?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/monstrosdorioassassinoatomico01.jpg" />
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820194600 -0300" stop="20210820203800 -0300" channel="Animal Planet HD">
+    <title lang="pt">Monstros do Rio</title>
+    <title lang="en">River Monsters</title>
+    <desc lang="pt">Jeremy Wade viaja para o Brasil em busca de um monstro do rio que matou três peões. A busca pelo culpado o leva a conhecer pessoas que temem por sua vida. Wade descobre a verdade chocante sobre um peixe que jamais havia capturado.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/monstrosdorioassassinoatomico01.jpg" />
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820203800 -0300" stop="20210820213000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Jeremy Wade</title>
+    <title lang="en">Jeremy Wade's Dark Waters</title>
+    <desc lang="pt">Jeremy Wade passou décadas caçando monstros fluviais nas águas mais remotas. Com habilidades inigualáveis e alguma sorte, ele já capturou muitos peixes, mas ainda há muitos outros em sua lista de desejos.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820213000 -0300" stop="20210820222200 -0300" channel="Animal Planet HD">
+    <title lang="pt">Jeremy Wade</title>
+    <title lang="en">Jeremy Wade's Mighty Rivers</title>
+    <desc lang="pt">O poderoso Rio Mississippi sofre ameaças em várias frentes, de espécies de peixes invasoras a algas verdes que sufocam a vida em suas águas. Jeremy Wade encontra cientistas, pescadores e líderes da luta para salvar o rio.(n)</desc>
+    <credits>
+      <director>Alex Parkinson</director>
+      <actor>Jeremy Wade</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820222200 -0300" stop="20210820231400 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca ao Extremo</title>
+    <title lang="en">Fish Or Die</title>
+    <desc lang="pt">Em Bornéu, a equipe busca um peixe praticamente extinto, o mahseer. Para encontrá-lo, eles se arriscam entrando no território dos Dayaks, um povo de caçadores de cabeças.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820231400 -0300" stop="20210820233900 -0300" channel="Animal Planet HD">
+    <title lang="pt">Terra Brasil</title>
+    <desc lang="pt">Aruay e Anderson vão até a cidade de Paraty-RJ para conhecer algumas ilhas dentro da Área de Proteção Ambiental de Cairuçu, um local com mais de 60 ilhas, e com faunas e floras diversas.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Meio Ambiente</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_terrabrasil01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E25</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820233900 -0300" stop="20210821000700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Vida No Azul</title>
+    <desc lang="pt">Conheça animais marinhos incríveis: cobras venenosas e crocodilos em pleno oceano, peixes minúsculos que imitam corais e até folhas, e peixes que caçam fora d'água! O que estes incríveis animais têm em comum?(n)</desc>
+    <credits>
+      <director>João Paulo Krajewski</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ecologia</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821000700 -0300" stop="20210821010000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Lei da Sobrevivência</title>
+    <title lang="en">Wildest Survival</title>
+    <desc lang="pt">Predadores mortais usam venenos potentes, picadas e ferrões para incapacitar e matar a presa, e também para se defenderem. Descubra as adaptações que os animais desenvolveram para vencer seus rivais.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Grã-Bretanha</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821010000 -0300" stop="20210821015500 -0300" channel="Animal Planet HD">
+    <title lang="pt">Jeremy Wade</title>
+    <title lang="en">Jeremy Wade's Dark Waters</title>
+    <desc lang="pt">Jeremy Wade passou décadas caçando monstros fluviais nas águas mais remotas. Com habilidades inigualáveis e alguma sorte, ele já capturou muitos peixes, mas ainda há muitos outros em sua lista de desejos.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821015500 -0300" stop="20210821025000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Jeremy Wade</title>
+    <title lang="en">Jeremy Wade's Mighty Rivers</title>
+    <desc lang="pt">O poderoso Rio Mississippi sofre ameaças em várias frentes, de espécies de peixes invasoras a algas verdes que sufocam a vida em suas águas. Jeremy Wade encontra cientistas, pescadores e líderes da luta para salvar o rio.(n)</desc>
+    <credits>
+      <director>Alex Parkinson</director>
+      <actor>Jeremy Wade</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821025000 -0300" stop="20210821034400 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca ao Extremo</title>
+    <title lang="en">Fish Or Die</title>
+    <desc lang="pt">Em Bornéu, a equipe busca um peixe praticamente extinto, o mahseer. Para encontrá-lo, eles se arriscam entrando no território dos Dayaks, um povo de caçadores de cabeças.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821034400 -0300" stop="20210821041100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Terra Brasil</title>
+    <desc lang="pt">Aruay e Anderson vão até a cidade de Paraty-RJ para conhecer algumas ilhas dentro da Área de Proteção Ambiental de Cairuçu, um local com mais de 60 ilhas, e com faunas e floras diversas.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Meio Ambiente</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_terrabrasil01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E25</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821041100 -0300" stop="20210821043700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Vida No Azul</title>
+    <desc lang="pt">Conheça animais marinhos incríveis: cobras venenosas e crocodilos em pleno oceano, peixes minúsculos que imitam corais e até folhas, e peixes que caçam fora d'água! O que estes incríveis animais têm em comum?(n)</desc>
+    <credits>
+      <director>João Paulo Krajewski</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ecologia</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821043700 -0300" stop="20210821050400 -0300" channel="Animal Planet HD">
+    <title lang="pt">Mistérios da Natureza</title>
+    <title lang="en">Solved</title>
+    <desc lang="pt">Por que algumas aranhas dançam? Que criatura misteriosa está atacando as ovelhas na Europa? Por que uma cidade inteira foi encoberta por uma espuma borbulhante? Descubra as respostas nesta série.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ecologia</category>
+    <country lang="pt">Grã-Bretanha</country>
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821050400 -0300" stop="20210821053000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Mistérios da Natureza</title>
+    <title lang="en">Solved</title>
+    <desc lang="pt">O que leva um feroz tubarão-tigre a ser carinhoso com um mergulhador? Por que porcos estão nadando no Caribe? O que são as misteriosas bolhas que surgiram aos milhares nas praias do Oregon?(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ecologia</category>
+    <country lang="pt">Grã-Bretanha</country>
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821053000 -0300" stop="20210821060000 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <title lang="en">How Do Animals Do That</title>
+    <desc lang="pt">Como seu cachorro sabe que você está doente? Por que os polvos têm o sangue azul? Que animais constroem os ninhos mais impressionantes? Será que os elefantes realmente nunca esquecem? Descubra as respostas neste episódio.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E26</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821062600 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <title lang="en">How Do Animals Do That</title>
+    <desc lang="pt">Como os cães sabem as horas? Por que a lagosta-boxeadora desfere um golpe tão potente? Qual é o segredo do salto dos cangurus? Por que as abelhas melíferas morrem depois de picar? Descubra as respostas neste episódio.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E27</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821062600 -0300" stop="20210821081000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca Mortal</title>
+    <title lang="en">Deadliest Catch</title>
+    <desc lang="pt">O tempo mais frio em quase uma década ameaça congelar o mar e quebrar os cascos dos barcos. Monte precisa encher os tanques logo para reencontrar o pai doente. Um erro coloca em risco a vida de um membro da família Hansen.(n)</desc>
+    <credits>
+      <actor>Mike Rowe</actor>
+      <actor>Monty Colburn</actor>
+      <actor>Tyler Gateman</actor>
+      <actor>Jake Anderson</actor>
+      <actor>Sean Dunlop</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/pescamortal01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S15 E8</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821081000 -0300" stop="20210821090200 -0300" channel="Animal Planet HD">
+    <title lang="pt">Jeremy Wade</title>
+    <title lang="en">Jeremy Wade's Dark Waters</title>
+    <desc lang="pt">Jeremy Wade passou décadas caçando monstros fluviais nas águas mais remotas. Com habilidades inigualáveis e alguma sorte, ele já capturou muitos peixes, mas ainda há muitos outros em sua lista de desejos.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821090200 -0300" stop="20210821095400 -0300" channel="Animal Planet HD">
+    <title lang="pt">Jeremy Wade</title>
+    <title lang="en">Jeremy Wade's Mighty Rivers</title>
+    <desc lang="pt">O poderoso Rio Mississippi sofre ameaças em várias frentes, de espécies de peixes invasoras a algas verdes que sufocam a vida em suas águas. Jeremy Wade encontra cientistas, pescadores e líderes da luta para salvar o rio.(n)</desc>
+    <credits>
+      <director>Alex Parkinson</director>
+      <actor>Jeremy Wade</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821095400 -0300" stop="20210821104800 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca ao Extremo</title>
+    <title lang="en">Fish Or Die</title>
+    <desc lang="pt">Em Bornéu, a equipe busca um peixe praticamente extinto, o mahseer. Para encontrá-lo, eles se arriscam entrando no território dos Dayaks, um povo de caçadores de cabeças.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821104800 -0300" stop="20210821111400 -0300" channel="Animal Planet HD">
+    <title lang="pt">Terra Brasil</title>
+    <desc lang="pt">Aruay e Anderson vão até a cidade de Paraty-RJ para conhecer algumas ilhas dentro da Área de Proteção Ambiental de Cairuçu, um local com mais de 60 ilhas, e com faunas e floras diversas.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Meio Ambiente</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_terrabrasil01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E25</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821111400 -0300" stop="20210821114200 -0300" channel="Animal Planet HD">
+    <title lang="pt">Vida No Azul</title>
+    <desc lang="pt">Conheça animais marinhos incríveis: cobras venenosas e crocodilos em pleno oceano, peixes minúsculos que imitam corais e até folhas, e peixes que caçam fora d'água! O que estes incríveis animais têm em comum?(n)</desc>
+    <credits>
+      <director>João Paulo Krajewski</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ecologia</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821114200 -0300" stop="20210821123600 -0300" channel="Animal Planet HD">
+    <title lang="pt">A Família Irwin</title>
+    <title lang="en">Untitled Irwin Family Project</title>
+    <desc lang="pt">As tartarugas-aligatores do Zoológico da Austrália precisam fazer um check-up - e cabe a Robert evitar suas mordidas. Terri e Bindi recebem sete novos lêmures dos EUA. A unidade de resgate salva gambás presos numa chaminé.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_afamiliairwin01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821123600 -0300" stop="20210821133000 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Zoológico de San Diego</title>
+    <title lang="en">The San Diego Zoo</title>
+    <desc lang="pt">O zoológico se despede dos adoráveis pandas Bai-Yun e Xiao Liwu, que serão devolvidos à China. Tembo, uma elefanta com artrite, é tratada com um tradicional remédio chinês. A Selva das Borboletas recebe uma pintura nova.(n)</desc>
+    <credits>
+      <actor>Kathy Hawk</actor>
+      <actor>Rick Schwartz</actor>
+      <actor>Robbie Clark</actor>
+      <actor>Deena Brenner</actor>
+      <actor>Jon Rolfs</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821133000 -0300" stop="20210821142400 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Aquário</title>
+    <title lang="en">The Aquarium</title>
+    <desc lang="pt">Uma lontra-marinha é levada às pressas para o centro veterinário. Em Key Largo, a equipe ajuda nos esforços de recuperação de corais. O amor está no ar para um treinador e seu filhote favorito de leão-marinho, Scarlett.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821142400 -0300" stop="20210821151800 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Zoológico</title>
+    <title lang="en">The Zoo</title>
+    <desc lang="pt">Dois filhotes de tigres cresceram demais e precisam ser transferidos para o recinto dos adultos. Um gorila-de-costas-prateadas recebe um tratamento pioneiro para um problema de visão.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ozoologico01.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821151800 -0300" stop="20210821161200 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Zoológico</title>
+    <title lang="en">The Zoo</title>
+    <desc lang="pt">Um enorme macho de leão-marinho ameaça os membros mais jovens do recinto, que precisam ser transferidos. Os veterinários têm uma ideia genial para tratar o tornozelo fraturado de Dinky, o flamingo.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ozoologico01.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821161200 -0300" stop="20210821170600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Família VET</title>
+    <title lang="en">Hanging With The Hendersons</title>
+    <desc lang="pt">O Dr. Ross e o Dr. Ryan tentam descobrir por que um cão não consegue andar. O Dr. Tony prepara para a adoção um cão resgatado com lesões no quadril. O Dr. Ross atende um papagaio que tem idade para ser irmão dos Hendersons.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821170600 -0300" stop="20210821180000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Família VET</title>
+    <title lang="en">Hanging With The Hendersons</title>
+    <desc lang="pt">Dr. Tony realiza um procedimento delicado em um cão da raça borzoi. O Dr. Ryan faz uma bizarra descoberta odontológica. O Dr. Ross cuida de um canguru albino.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821180000 -0300" stop="20210821185400 -0300" channel="Animal Planet HD">
+    <title lang="pt">Casas na Árvore</title>
+    <title lang="en">Treehouse Masters</title>
+    <desc lang="pt">O astro country Zac Brown encarrega Pete de construir uma casa do outro mundo em um acampamento para crianças. A equipe constrói uma casa envolvida em zinco, meio espaçonave, meio caranguejo.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_casasnaarvore01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821185400 -0300" stop="20210821194600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Casas na Árvore</title>
+    <title lang="en">Treehouse Masters</title>
+    <desc lang="pt">Pete viaja para Michigan para ajudar um homem a surpreender a esposa com uma casa inspirada na Família Robinson. Bem mais avançada que a morada dos náufragos, ela é repleta de comodidades modernas.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_casasnaarvore01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821194600 -0300" stop="20210821203800 -0300" channel="Animal Planet HD">
+    <title lang="pt">Piscinas Incríveis</title>
+    <title lang="en">Insane Pools</title>
+    <desc lang="pt">Lucas se encarrega de um projeto muito especial: construir uma piscina enorme para um amigo querido. Além de cascatas, ele instala um forno escavado no chão ao lado da piscina e um bar com telão.(n)</desc>
+    <credits>
+      <actor>Lucas Congdon</actor>
+      <actor>John Messner</actor>
+      <actor>Matt Schuler</actor>
+      <actor>Chris Warren</actor>
+      <actor>Jane Werley</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821203800 -0300" stop="20210821213000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Piscinas Incríveis</title>
+    <title lang="en">Insane Pools</title>
+    <desc lang="pt">Uma cuidadora dedicada quer realizar o sonho de ter sua própria piscina. Lucas enfrenta o desafio de atender às suas expectativas em um quintal pequeno. A equipe transforma o espaço reduzido em um oásis com muito potencial.(n)</desc>
+    <credits>
+      <actor>Lucas Congdon</actor>
+      <actor>John Messner</actor>
+      <actor>Matt Schuler</actor>
+      <actor>Chris Warren</actor>
+      <actor>Jane Werley</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821213000 -0300" stop="20210821222200 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Mestre das Piscinas</title>
+    <title lang="en">The Pool Master</title>
+    <desc lang="pt">Anthony está construindo uma piscina enorme em um rancho de 120 hectares. Mas para criar o oásis do sonho de seus clientes, Anthony e a equipe enfrentam insetos e precisam ter ideias originais.(n)</desc>
+    <credits>
+      <actor>Anthony Archer-Wills</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821222200 -0300" stop="20210821231200 -0300" channel="Animal Planet HD">
+    <title lang="pt">Com Água Até o Pescoço</title>
+    <desc lang="pt">Uma empresa de comunicação precisa de um aquário interativo, com o formato de um telefone gigante. Será que Wayne e Brett darão conta do recado?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_comaguaateopescoco01.jpg" />
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821231200 -0300" stop="20210821234000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Aprendiz Animal</title>
+    <title lang="en">Zoo No Quintal</title>
+    <desc lang="pt">Gui Padoa chega para trabalhar no projeto Anjinhos da Rua, que mobiliza a comunidade em Peruíbe, litoral sul de São Paulo. A rotina do dia começa com a limpeza das baias dos quase 600 cachorros do local.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_aprendizanimal01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821234000 -0300" stop="20210822000800 -0300" channel="Animal Planet HD">
+    <title lang="pt">Aprendiz Animal</title>
+    <title lang="en">Zoo No Quintal</title>
+    <desc lang="pt">Gui se apresenta como voluntário na Associação Mata Ciliar, onde a bióloga Cristina conduz uma rotina intensa com os animais. O dia é puxado e Gui começa suando a camisa, fazendo a leoa Helga se exercitar e limpando o recinto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_aprendizanimal01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
 </tv>
