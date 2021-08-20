@@ -226,6 +226,7 @@
   </channel>
   <channel id="FOX Sports HD">
     <display-name lang="pt">FOX Sports HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/foxsportshd.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Futura HD">
@@ -31403,6 +31404,285 @@
     <desc lang="pt">Desde 2012, o Campeonato Mundial de Endurance da FIA, é uma competição automobilística internacional organizada pela Federação Internacional de Automobilismo e pelo Automobile Club de l'Ouest.(n)</desc>
     <category lang="pt">Esporte</category>
     <category lang="pt">Automobilismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820130000 -0300" stop="20210820163000 -0300" channel="FOX Sports HD">
+    <title lang="pt">ESPN Knockout: Hasibullah Ahmadi x Rauf Aghayev - Ao Vivo</title>
+    <desc lang="pt">O melhor do boxe internacional nos canais ESPN.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820163000 -0300" stop="20210820181500 -0300" channel="FOX Sports HD">
+    <title lang="pt">Barcelona (ECU) x Fluminense</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/time_fluminense.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820181500 -0300" stop="20210820200000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Flamengo x Olimpia</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/time_flamengo.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820203000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Mundo Premier League</title>
+    <desc lang="pt">Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_mundopremierleague01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820203000 -0300" stop="20210820210000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Mundial de Motocross</title>
+    <desc lang="pt">O Mundial de Motocross é o maior evento da categoria realizado pela FIM (Federação Internacional de Motociclismo).(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Radical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_mundialdemotocrossetapaholanda01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820210000 -0300" stop="20210820220000 -0300" channel="FOX Sports HD">
+    <title lang="pt">WRC</title>
+    <desc lang="pt">O Campeonato Mundial de Rally (WRC) é disputado em atmosferas totalmente diferentes. Vai desde o clima frio e congelante da Escandinávia até o forte calor da Jordânia.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Radical</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820230000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Bola da Vez</title>
+    <desc lang="pt">Grandes nomes do esporte em uma conversa franca, direta e, muitas vezes, reveladora. Passado, presente e os projetos para o futuro. Todo sábado, após o Sportscenter, na ESPN Brasil, sob o comando de André Plihal.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_boladavez01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210820233000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Inside Serie A</title>
+    <desc lang="pt">Uma previsão sobre os próximos jogos do Campeonato Italiano.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820233000 -0300" stop="20210821013000 -0300" channel="FOX Sports HD">
+    <title lang="pt">MLS: Los Angeles Galaxy x San Jose Earthquakes - Ao Vivo</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_vtportlandtimbersxcoloradora01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821013000 -0300" stop="20210821020000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Momento ESPN: Junior Urso</title>
+    <desc lang="pt">Especial com o melhor conteúdo dos canais ESPN.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821020000 -0300" stop="20210821030000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Futebol No Mundo</title>
+    <desc lang="pt">O programa trata exclusivamente do futebol internacional. Entrevistas exclusivas, reportagens especiais, e, é claro, muitos gols.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_futebolnomundoaovivo01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821030000 -0300" stop="20210821050000 -0300" channel="FOX Sports HD">
+    <title lang="pt">BB Debate</title>
+    <desc lang="pt">Confira as análises e discussões sobre os principais temas do dia. Participe ativamente, através da internet, e opine sobre os mais polêmicos e relevantes assuntos do mundo da bola.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821050000 -0300" stop="20210821070000 -0300" channel="FOX Sports HD">
+    <title lang="pt">MLS: Los Angeles Galaxy x San Jose Earthquakes</title>
+    <desc lang="pt">A Major League Soccer é o principal campeonato de futebol dos Estados Unidos e do Canadá. Com grandes contratações e um público sempre presente, a MLS vem se tornando mais forte a cada ano.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_vtportlandtimbersxcoloradora01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821070000 -0300" stop="20210821072000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Momento ESPN: Além da Bola: Joel Santana</title>
+    <desc lang="pt">Especial com o melhor conteúdo dos canais ESPN.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821072000 -0300" stop="20210821082000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Resenha de Casa</title>
+    <desc lang="pt">No comando do programa, André Plihal convoca quem mais entende do riscado: jogadores e ex-jogadores de futebol.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821082000 -0300" stop="20210821103000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Liverpool x Burnley - Ao Vivo</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821103000 -0300" stop="20210821110000 -0300" channel="FOX Sports HD">
+    <title lang="pt">La Liga World</title>
+    <desc lang="pt">Confira, em primeira mão, tudo o que antecede a próxima rodada da Liga espanhola. Análises táticas, curiosidades, perfis e reportagens exclusivas.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821110000 -0300" stop="20210821133000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Fia Wec: 24 Horas de Le Mans - Ao Vivo</title>
+    <desc lang="pt">Desde 2012, o Campeonato Mundial de Endurance da FIA, é uma competição automobilística internacional organizada pela Federação Internacional de Automobilismo e pelo Automobile Club de l'Ouest.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821133000 -0300" stop="20210821135500 -0300" channel="FOX Sports HD">
+    <title lang="pt">Abre o Jogo - Ao Vivo</title>
+    <desc lang="pt">O "Abre o Jogo" abre a transmissão dos eventos ao vivo nos canais ESPN. Reportagens especiais, as últimas notícias e as informações atualizadas do torneio que virá a seguir.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_abreojogocampeonatoespanhol01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821135500 -0300" stop="20210821160000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Gil Vicente x Benfica - Ao Vivo</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821160000 -0300" stop="20210821162500 -0300" channel="FOX Sports HD">
+    <title lang="pt">Abre o Jogo - Ao Vivo</title>
+    <desc lang="pt">O "Abre o Jogo" abre a transmissão dos eventos ao vivo nos canais ESPN. Reportagens especiais, as últimas notícias e as informações atualizadas do torneio que virá a seguir.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_abreojogocampeonatoespanhol01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821162500 -0300" stop="20210821183000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Sporting x Belenenses - Ao Vivo</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821183000 -0300" stop="20210821190000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Inside Serie A</title>
+    <desc lang="pt">Uma previsão sobre os próximos jogos do Campeonato Italiano.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821190000 -0300" stop="20210821193000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Mundo Premier League</title>
+    <desc lang="pt">Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_mundopremierleague01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821193000 -0300" stop="20210821200000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Show da Rodada</title>
+    <desc lang="pt">Os principais lances e os gols dos campeonatos internacionais de futebol.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821200000 -0300" stop="20210821201000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Abre o Jogo - Ao Vivo</title>
+    <desc lang="pt">O "Abre o Jogo" abre a transmissão dos eventos ao vivo nos canais ESPN. Reportagens especiais, as últimas notícias e as informações atualizadas do torneio que virá a seguir.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_abreojogocampeonatoespanhol01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821201000 -0300" stop="20210821221500 -0300" channel="FOX Sports HD">
+    <title lang="pt">Boca Juniors x Patronato - Ao Vivo</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821221500 -0300" stop="20210821231500 -0300" channel="FOX Sports HD">
+    <title lang="pt">Resenha de Casa</title>
+    <desc lang="pt">No comando do programa, André Plihal convoca quem mais entende do riscado: jogadores e ex-jogadores de futebol.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821231500 -0300" stop="20210822013000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Palmeiras x São Paulo</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/time_palmeiras.jpg" />
+    <country lang="pt">Brasil</country>
     <rating system="BR">
       <value>L</value>
     </rating>
