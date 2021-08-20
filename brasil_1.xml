@@ -316,6 +316,7 @@
   </channel>
   <channel id="History Channel HD">
     <display-name lang="pt">History Channel HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/history.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Home &amp; Health HD">
@@ -42062,6 +42063,860 @@
     <episode-num system="onscreen">S9 E5</episode-num>
     <rating system="BR">
       <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820141000 -0300" stop="20210820150800 -0300" channel="History Channel HD">
+    <title lang="pt">Alienígenas do Passado</title>
+    <desc lang="pt">Os astrônomos suspeitam que uma nave extraterrestre entrou no nosso sistema solar em 2017. Será que estamos preparados para recebê-los?(n)</desc>
+    <credits>
+      <actor>Robert Clotworthy</actor>
+      <actor>Giorgio Tsoukalos</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/alienigenasdopassado01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S11 E134</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820150800 -0300" stop="20210820160400 -0300" channel="History Channel HD">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <desc lang="pt">Tendo vencido seus duelos, 4 ferreiros se enfrentam no épico final do torneio de segundas chances. Depois de algumas rodadas exaustivas, dois deles voltarão para suas casas para tentar recriar uma das armas mais complexas já propostas.(n)</desc>
+    <credits>
+      <actor>Grady Powell</actor>
+      <actor>J. Neilson</actor>
+      <actor>David Baker</actor>
+      <actor>Doug Marcaida</actor>
+      <actor>Ben Abbott</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_desafiosobfogo01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820160400 -0300" stop="20210820170100 -0300" channel="History Channel HD">
+    <title lang="pt">Batalha de Construtores</title>
+    <desc lang="pt">Tim Allen e Richard Karn querem saber quem tem a lâmpada mais brilhante do grupo de participantes e os desafiam a construir um farol. Mais tarde, os fabricantes terão que dar vida a um dispositivo que seja capaz de varrer as ruas.(n)</desc>
+    <credits>
+      <actor>Tim Allen</actor>
+      <actor>Richard Karn</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820170100 -0300" stop="20210820175700 -0300" channel="History Channel HD">
+    <title lang="pt">Trato Feito</title>
+    <desc lang="pt">Corey e Chum visitam uma exposição de carros Shelby clássicos. Chum se entusiasma com um antigo console Nintendo e uma prancha de snowboard autografada por um competidor olímpico. Rick tenta adquirir um par de binóculos da Segunda Guerra Mundial.(n)</desc>
+    <credits>
+      <actor>Corey Harrison</actor>
+      <actor>Richard Harrison</actor>
+      <actor>Rick Harrison</actor>
+      <actor>Brett K. Maly</actor>
+      <actor>Chris Richardson</actor>
+      <actor>Austin 'Chumlee' Russell</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tratofeitoaguiapousou01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S21 E536</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820175700 -0300" stop="20210820182200 -0300" channel="History Channel HD">
+    <title lang="pt">Quem dá Mais?</title>
+    <desc lang="pt">O deserto é quente, mas os leilões são ainda mais quentes em Palm Desert na Califórnia. Alguns moradores do local decidem competir com Rene, mas nada impede que Mary faça lances mais altos do que deveria.(n)</desc>
+    <credits>
+      <actor>Thom Beers</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Laura Dotson</actor>
+      <actor>Darrell Sheets</actor>
+      <actor>Rene Nezhoda</actor>
+      <actor>Ivy Calvin</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/quemdamaisdisputandoumabolada01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E165</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820182200 -0300" stop="20210820185200 -0300" channel="History Channel HD">
+    <title lang="pt">Quem dá Mais?</title>
+    <desc lang="pt">Todos esperam manter a classe quando vão para San Diego em busca de bons achados. Jarrod e Brandi já tiveram sorte na área e esperam fazer outro bom negócio.(n)</desc>
+    <credits>
+      <actor>Thom Beers</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Laura Dotson</actor>
+      <actor>Darrell Sheets</actor>
+      <actor>Rene Nezhoda</actor>
+      <actor>Ivy Calvin</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/quemdamaisdisputandoumabolada01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E166</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820185200 -0300" stop="20210820192200 -0300" channel="History Channel HD">
+    <title lang="pt">Trato Feito</title>
+    <desc lang="pt">Curta o som de um tambor da Guerra Civil. E depois com um livro de 1834 contendo as regras originais do beisebol. E Chum recebe uma rolha original da época da Lei Seca enquanto Corey examina um raspador de gelo de ferro fundido.(n)</desc>
+    <credits>
+      <actor>Corey Harrison</actor>
+      <actor>Richard Harrison</actor>
+      <actor>Rick Harrison</actor>
+      <actor>Brett K. Maly</actor>
+      <actor>Chris Richardson</actor>
+      <actor>Austin 'Chumlee' Russell</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tratofeitoaguiapousou01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S17</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820192200 -0300" stop="20210820201700 -0300" channel="History Channel HD">
+    <title lang="pt">O Melhor de Caçadores de Relíquias</title>
+    <desc lang="pt">Em um dueto pouco comum, Dani e Mike combinam o seu poder de farejadores de tesouros e viajam em busca de valiosos artigos cobertos de pó. Quando menos esperam, dão de cara com produtos pouco comuns dos Beatles e de Evel Knievel.(n)</desc>
+    <credits>
+      <actor>Mike Wolfe</actor>
+      <actor>Frank Fritz</actor>
+      <actor>Danielle Colby-Cushman</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omelhordecacadoresdereliqui01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S17 E96</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820201700 -0300" stop="20210820204600 -0300" channel="History Channel HD">
+    <title lang="pt">Quem dá Mais?</title>
+    <desc lang="pt">Em Lancaster, na Califórnia Mary tenta fazer negócio com um aliado inesperado. Jarrod e Brandi pressionam não só a concorrência, mas também um ao outro enquanto Rene sai da sua zona de conforto para provar que pode dominar em qualquer lugar!(n)</desc>
+    <credits>
+      <actor>Thom Beers</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Laura Dotson</actor>
+      <actor>Darrell Sheets</actor>
+      <actor>Rene Nezhoda</actor>
+      <actor>Ivy Calvin</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/quemdamaisdisputandoumabolada01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E159</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820204600 -0300" stop="20210820211100 -0300" channel="History Channel HD">
+    <title lang="pt">Quem dá Mais?</title>
+    <desc lang="pt">Muitos riscos e muitos dólares rolam quando os compradores participam do leilão de primeira classe em Arcadia na Califórnia. Dave tem Jarrod e Brandi na mira e as coisas esquentam!(n)</desc>
+    <credits>
+      <actor>Thom Beers</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Laura Dotson</actor>
+      <actor>Darrell Sheets</actor>
+      <actor>Rene Nezhoda</actor>
+      <actor>Ivy Calvin</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/quemdamaisdisputandoumabolada01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E162</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820211100 -0300" stop="20210820220600 -0300" channel="History Channel HD">
+    <title lang="pt">Trato Feito</title>
+    <desc lang="pt">Chumlee está pronto para o combate quando uma figura da luta livre chega à loja. Corey tentará apostar em uma mesa de dados portátil enquanto Rick inspeciona um antigo moinho Eclipse.(n)</desc>
+    <credits>
+      <actor>Corey Harrison</actor>
+      <actor>Rick Harrison</actor>
+      <actor>Brett K. Maly</actor>
+      <actor>Chris Richardson</actor>
+      <actor>Austin 'Chumlee' Russell</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tratofeitoaguiapousou01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S22 E556</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820220600 -0300" stop="20210820230000 -0300" channel="History Channel HD">
+    <title lang="pt">Estradas Mortais</title>
+    <desc lang="pt">Mark, o dono da Polar Industries, precisa de ajuda para transportar uma carga gigante através das estradas congeladas do Norte. Para isso, contrata Lisa Kelly e Reno, filho do lendário Darrell Ward.(n)</desc>
+    <credits>
+      <actor>Lisa Kelly</actor>
+      <actor>Art Burke</actor>
+      <actor>Todd Dewey</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/estradasmortais01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S11 E133</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210821001500 -0300" channel="History Channel HD">
+    <title lang="pt">Sozinhos</title>
+    <desc lang="pt">Um dos competidores corre para garantir sua chance de ganhar um milhão de dólares. Enquanto isso, outro competidor tem dificuldades para terminar seu abrigo a tempo para o inverno, e outro tem que defender seu território de um visitante indesejado.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_sozinhos01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E72</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821001500 -0300" stop="20210821004200 -0300" channel="History Channel HD">
+    <title lang="pt">Quem dá Mais?</title>
+    <desc lang="pt">O deserto é quente, mas os leilões são ainda mais quentes em Palm Desert na Califórnia. Alguns moradores do local decidem competir com Rene, mas nada impede que Mary faça lances mais altos do que deveria.(n)</desc>
+    <credits>
+      <actor>Thom Beers</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Laura Dotson</actor>
+      <actor>Darrell Sheets</actor>
+      <actor>Rene Nezhoda</actor>
+      <actor>Ivy Calvin</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/quemdamaisdisputandoumabolada01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E165</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821004200 -0300" stop="20210821011200 -0300" channel="History Channel HD">
+    <title lang="pt">Quem dá Mais?</title>
+    <desc lang="pt">Em Lancaster, na Califórnia Mary tenta fazer negócio com um aliado inesperado. Jarrod e Brandi pressionam não só a concorrência, mas também um ao outro enquanto Rene sai da sua zona de conforto para provar que pode dominar em qualquer lugar!(n)</desc>
+    <credits>
+      <actor>Thom Beers</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Laura Dotson</actor>
+      <actor>Darrell Sheets</actor>
+      <actor>Rene Nezhoda</actor>
+      <actor>Ivy Calvin</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/quemdamaisdisputandoumabolada01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E159</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821011200 -0300" stop="20210821013700 -0300" channel="History Channel HD">
+    <title lang="pt">Quem dá Mais?</title>
+    <desc lang="pt">Muitos riscos e muitos dólares rolam quando os compradores participam do leilão de primeira classe em Arcadia na Califórnia. Dave tem Jarrod e Brandi na mira e as coisas esquentam!(n)</desc>
+    <credits>
+      <actor>Thom Beers</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Laura Dotson</actor>
+      <actor>Darrell Sheets</actor>
+      <actor>Rene Nezhoda</actor>
+      <actor>Ivy Calvin</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/quemdamaisdisputandoumabolada01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E162</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821013700 -0300" stop="20210821022900 -0300" channel="History Channel HD">
+    <title lang="pt">O Melhor de Caçadores de Relíquias</title>
+    <desc lang="pt">Em um dueto pouco comum, Dani e Mike combinam o seu poder de farejadores de tesouros e viajam em busca de valiosos artigos cobertos de pó. Quando menos esperam, dão de cara com produtos pouco comuns dos Beatles e de Evel Knievel.(n)</desc>
+    <credits>
+      <actor>Mike Wolfe</actor>
+      <actor>Frank Fritz</actor>
+      <actor>Danielle Colby-Cushman</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omelhordecacadoresdereliqui01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S17 E96</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821022900 -0300" stop="20210821025900 -0300" channel="History Channel HD">
+    <title lang="pt">Trato Feito</title>
+    <desc lang="pt">Curta o som de um tambor da Guerra Civil. E depois com um livro de 1834 contendo as regras originais do beisebol. E Chum recebe uma rolha original da época da Lei Seca enquanto Corey examina um raspador de gelo de ferro fundido.(n)</desc>
+    <credits>
+      <actor>Corey Harrison</actor>
+      <actor>Richard Harrison</actor>
+      <actor>Rick Harrison</actor>
+      <actor>Brett K. Maly</actor>
+      <actor>Chris Richardson</actor>
+      <actor>Austin 'Chumlee' Russell</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tratofeitoaguiapousou01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S17</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821025900 -0300" stop="20210821035300 -0300" channel="History Channel HD">
+    <title lang="pt">Trato Feito</title>
+    <desc lang="pt">Chumlee está pronto para o combate quando uma figura da luta livre chega à loja. Corey tentará apostar em uma mesa de dados portátil enquanto Rick inspeciona um antigo moinho Eclipse.(n)</desc>
+    <credits>
+      <actor>Corey Harrison</actor>
+      <actor>Rick Harrison</actor>
+      <actor>Brett K. Maly</actor>
+      <actor>Chris Richardson</actor>
+      <actor>Austin 'Chumlee' Russell</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tratofeitoaguiapousou01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S22 E556</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821035300 -0300" stop="20210821044500 -0300" channel="History Channel HD">
+    <title lang="pt">Estradas Mortais</title>
+    <desc lang="pt">Mark, o dono da Polar Industries, precisa de ajuda para transportar uma carga gigante através das estradas congeladas do Norte. Para isso, contrata Lisa Kelly e Reno, filho do lendário Darrell Ward.(n)</desc>
+    <credits>
+      <actor>Lisa Kelly</actor>
+      <actor>Art Burke</actor>
+      <actor>Todd Dewey</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/estradasmortais01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S11 E133</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821044500 -0300" stop="20210821060000 -0300" channel="History Channel HD">
+    <title lang="pt">Sozinhos</title>
+    <desc lang="pt">Um dos competidores corre para garantir sua chance de ganhar um milhão de dólares. Enquanto isso, outro competidor tem dificuldades para terminar seu abrigo a tempo para o inverno, e outro tem que defender seu território de um visitante indesejado.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_sozinhos01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E72</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821065000 -0300" channel="History Channel HD">
+    <title lang="pt">O Melhor de Caçadores de Relíquias</title>
+    <desc lang="pt">Em um dueto pouco comum, Dani e Mike combinam o seu poder de farejadores de tesouros e viajam em busca de valiosos artigos cobertos de pó. Quando menos esperam, dão de cara com produtos pouco comuns dos Beatles e de Evel Knievel.(n)</desc>
+    <credits>
+      <actor>Mike Wolfe</actor>
+      <actor>Frank Fritz</actor>
+      <actor>Danielle Colby-Cushman</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omelhordecacadoresdereliqui01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S17 E96</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821065000 -0300" stop="20210821071800 -0300" channel="History Channel HD">
+    <title lang="pt">Quem dá Mais?</title>
+    <desc lang="pt">Em Lancaster, na Califórnia Mary tenta fazer negócio com um aliado inesperado. Jarrod e Brandi pressionam não só a concorrência, mas também um ao outro enquanto Rene sai da sua zona de conforto para provar que pode dominar em qualquer lugar!(n)</desc>
+    <credits>
+      <actor>Thom Beers</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Laura Dotson</actor>
+      <actor>Darrell Sheets</actor>
+      <actor>Rene Nezhoda</actor>
+      <actor>Ivy Calvin</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/quemdamaisdisputandoumabolada01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E159</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821071800 -0300" stop="20210821074300 -0300" channel="History Channel HD">
+    <title lang="pt">Quem dá Mais?</title>
+    <desc lang="pt">Muitos riscos e muitos dólares rolam quando os compradores participam do leilão de primeira classe em Arcadia na Califórnia. Dave tem Jarrod e Brandi na mira e as coisas esquentam!(n)</desc>
+    <credits>
+      <actor>Thom Beers</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Laura Dotson</actor>
+      <actor>Darrell Sheets</actor>
+      <actor>Rene Nezhoda</actor>
+      <actor>Ivy Calvin</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/quemdamaisdisputandoumabolada01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E162</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821074300 -0300" stop="20210821081000 -0300" channel="History Channel HD">
+    <title lang="pt">Quem dá Mais?</title>
+    <desc lang="pt">Todos esperam manter a classe quando vão para San Diego em busca de bons achados. Jarrod e Brandi já tiveram sorte na área e esperam fazer outro bom negócio.(n)</desc>
+    <credits>
+      <actor>Thom Beers</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Laura Dotson</actor>
+      <actor>Darrell Sheets</actor>
+      <actor>Rene Nezhoda</actor>
+      <actor>Ivy Calvin</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/quemdamaisdisputandoumabolada01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E166</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821081000 -0300" stop="20210821090400 -0300" channel="History Channel HD">
+    <title lang="pt">Trato Feito</title>
+    <desc lang="pt">Corey e Chum visitam uma exposição de carros Shelby clássicos. Chum se entusiasma com um antigo console Nintendo e uma prancha de snowboard autografada por um competidor olímpico. Rick tenta adquirir um par de binóculos da Segunda Guerra Mundial.(n)</desc>
+    <credits>
+      <actor>Corey Harrison</actor>
+      <actor>Richard Harrison</actor>
+      <actor>Rick Harrison</actor>
+      <actor>Brett K. Maly</actor>
+      <actor>Chris Richardson</actor>
+      <actor>Austin 'Chumlee' Russell</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tratofeitoaguiapousou01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S21 E536</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821090400 -0300" stop="20210821095800 -0300" channel="History Channel HD">
+    <title lang="pt">Trato Feito</title>
+    <desc lang="pt">Chumlee está pronto para o combate quando uma figura da luta livre chega à loja. Corey tentará apostar em uma mesa de dados portátil enquanto Rick inspeciona um antigo moinho Eclipse.(n)</desc>
+    <credits>
+      <actor>Corey Harrison</actor>
+      <actor>Rick Harrison</actor>
+      <actor>Brett K. Maly</actor>
+      <actor>Chris Richardson</actor>
+      <actor>Austin 'Chumlee' Russell</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tratofeitoaguiapousou01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S22 E556</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821095800 -0300" stop="20210821105200 -0300" channel="History Channel HD">
+    <title lang="pt">Estradas Mortais</title>
+    <desc lang="pt">Mark, o dono da Polar Industries, precisa de ajuda para transportar uma carga gigante através das estradas congeladas do Norte. Para isso, contrata Lisa Kelly e Reno, filho do lendário Darrell Ward.(n)</desc>
+    <credits>
+      <actor>Lisa Kelly</actor>
+      <actor>Art Burke</actor>
+      <actor>Todd Dewey</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/estradasmortais01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S11 E133</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821105200 -0300" stop="20210821120700 -0300" channel="History Channel HD">
+    <title lang="pt">Sozinhos</title>
+    <desc lang="pt">Um dos competidores corre para garantir sua chance de ganhar um milhão de dólares. Enquanto isso, outro competidor tem dificuldades para terminar seu abrigo a tempo para o inverno, e outro tem que defender seu território de um visitante indesejado.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_sozinhos01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E72</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821120700 -0300" stop="20210821123400 -0300" channel="History Channel HD">
+    <title lang="pt">Trato Feito</title>
+    <desc lang="pt">Curta o som de um tambor da Guerra Civil. E depois com um livro de 1834 contendo as regras originais do beisebol. E Chum recebe uma rolha original da época da Lei Seca enquanto Corey examina um raspador de gelo de ferro fundido.(n)</desc>
+    <credits>
+      <actor>Corey Harrison</actor>
+      <actor>Richard Harrison</actor>
+      <actor>Rick Harrison</actor>
+      <actor>Brett K. Maly</actor>
+      <actor>Chris Richardson</actor>
+      <actor>Austin 'Chumlee' Russell</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tratofeitoaguiapousou01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S17</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821123400 -0300" stop="20210821132900 -0300" channel="History Channel HD">
+    <title lang="pt">O Melhor de Caçadores de Relíquias</title>
+    <desc lang="pt">Em um dueto pouco comum, Dani e Mike combinam o seu poder de farejadores de tesouros e viajam em busca de valiosos artigos cobertos de pó. Quando menos esperam, dão de cara com produtos pouco comuns dos Beatles e de Evel Knievel.(n)</desc>
+    <credits>
+      <actor>Mike Wolfe</actor>
+      <actor>Frank Fritz</actor>
+      <actor>Danielle Colby-Cushman</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omelhordecacadoresdereliqui01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S17 E96</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821132900 -0300" stop="20210821142500 -0300" channel="History Channel HD">
+    <title lang="pt">Estradas Mortais</title>
+    <desc lang="pt">Mark, o dono da Polar Industries, precisa de ajuda para transportar uma carga gigante através das estradas congeladas do Norte. Para isso, contrata Lisa Kelly e Reno, filho do lendário Darrell Ward.(n)</desc>
+    <credits>
+      <actor>Lisa Kelly</actor>
+      <actor>Art Burke</actor>
+      <actor>Todd Dewey</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/estradasmortais01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S11 E133</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821142500 -0300" stop="20210821145200 -0300" channel="History Channel HD">
+    <title lang="pt">Quem dá Mais?</title>
+    <desc lang="pt">O deserto é quente, mas os leilões são ainda mais quentes em Palm Desert na Califórnia. Alguns moradores do local decidem competir com Rene, mas nada impede que Mary faça lances mais altos do que deveria.(n)</desc>
+    <credits>
+      <actor>Thom Beers</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Laura Dotson</actor>
+      <actor>Darrell Sheets</actor>
+      <actor>Rene Nezhoda</actor>
+      <actor>Ivy Calvin</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/quemdamaisdisputandoumabolada01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E165</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821145200 -0300" stop="20210821152000 -0300" channel="History Channel HD">
+    <title lang="pt">Quem dá Mais?</title>
+    <desc lang="pt">Todos esperam manter a classe quando vão para San Diego em busca de bons achados. Jarrod e Brandi já tiveram sorte na área e esperam fazer outro bom negócio.(n)</desc>
+    <credits>
+      <actor>Thom Beers</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Laura Dotson</actor>
+      <actor>Darrell Sheets</actor>
+      <actor>Rene Nezhoda</actor>
+      <actor>Ivy Calvin</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/quemdamaisdisputandoumabolada01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E166</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821152000 -0300" stop="20210821154800 -0300" channel="History Channel HD">
+    <title lang="pt">Quem dá Mais?</title>
+    <desc lang="pt">Em Lancaster, na Califórnia Mary tenta fazer negócio com um aliado inesperado. Jarrod e Brandi pressionam não só a concorrência, mas também um ao outro enquanto Rene sai da sua zona de conforto para provar que pode dominar em qualquer lugar!(n)</desc>
+    <credits>
+      <actor>Thom Beers</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Laura Dotson</actor>
+      <actor>Darrell Sheets</actor>
+      <actor>Rene Nezhoda</actor>
+      <actor>Ivy Calvin</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/quemdamaisdisputandoumabolada01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E159</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821154800 -0300" stop="20210821161500 -0300" channel="History Channel HD">
+    <title lang="pt">Quem dá Mais?</title>
+    <desc lang="pt">Muitos riscos e muitos dólares rolam quando os compradores participam do leilão de primeira classe em Arcadia na Califórnia. Dave tem Jarrod e Brandi na mira e as coisas esquentam!(n)</desc>
+    <credits>
+      <actor>Thom Beers</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Laura Dotson</actor>
+      <actor>Darrell Sheets</actor>
+      <actor>Rene Nezhoda</actor>
+      <actor>Ivy Calvin</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/quemdamaisdisputandoumabolada01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E162</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821161500 -0300" stop="20210821173000 -0300" channel="History Channel HD">
+    <title lang="pt">Sozinhos</title>
+    <desc lang="pt">Um dos competidores corre para garantir sua chance de ganhar um milhão de dólares. Enquanto isso, outro competidor tem dificuldades para terminar seu abrigo a tempo para o inverno, e outro tem que defender seu território de um visitante indesejado.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_sozinhos01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E72</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821173000 -0300" stop="20210821175700 -0300" channel="History Channel HD">
+    <title lang="pt">Trato Feito</title>
+    <desc lang="pt">Curta o som de um tambor da Guerra Civil. E depois com um livro de 1834 contendo as regras originais do beisebol. E Chum recebe uma rolha original da época da Lei Seca enquanto Corey examina um raspador de gelo de ferro fundido.(n)</desc>
+    <credits>
+      <actor>Corey Harrison</actor>
+      <actor>Richard Harrison</actor>
+      <actor>Rick Harrison</actor>
+      <actor>Brett K. Maly</actor>
+      <actor>Chris Richardson</actor>
+      <actor>Austin 'Chumlee' Russell</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tratofeitoaguiapousou01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S17</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821175700 -0300" stop="20210821185200 -0300" channel="History Channel HD">
+    <title lang="pt">Trato Feito</title>
+    <desc lang="pt">Lembranças dos melhores momentos do "Velho". Um episódio para se despedir do resmungão mais cativante de Trato Feito.(n)</desc>
+    <credits>
+      <actor>Corey Harrison</actor>
+      <actor>Richard Harrison</actor>
+      <actor>Rick Harrison</actor>
+      <actor>Brett K. Maly</actor>
+      <actor>Chris Richardson</actor>
+      <actor>Austin 'Chumlee' Russell</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tratofeitoaguiapousou01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S19 E485</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821185200 -0300" stop="20210821194600 -0300" channel="History Channel HD">
+    <title lang="pt">Maravilhas Modernas</title>
+    <desc lang="pt">De biscoitos da sorte a alguns de seus doces de infância favoritos, Adam analisa quitutes da América, visita a fábrica da gigante de produtos de panificação Entenmann's e descobre como a Otis Spunkmeyer produz cookies para redes de fast-food.(n)</desc>
+    <credits>
+      <actor>Adam Richman</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821194600 -0300" stop="20210821201600 -0300" channel="History Channel HD">
+    <title lang="pt">Gigantes dos Alimentos</title>
+    <desc lang="pt">A empresa de doces mais icônica do planeta tem uma história bastante agridoce. Como uma simples fazenda de gado leiteiro transformou para sempre a indústria de doces?(n)</desc>
+    <credits>
+      <actor>Jim Isler</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821201600 -0300" stop="20210821204000 -0300" channel="History Channel HD">
+    <title lang="pt">Gigantes dos Alimentos</title>
+    <desc lang="pt">Vamos conhecer a história por trás do surgimento da marca de cereais mais icônica do mundo. Como uma descoberta acidental em um laboratório deu vida ao melhor aliado dos cafés da manhã?(n)</desc>
+    <credits>
+      <actor>Jim Isler</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821204000 -0300" stop="20210821213400 -0300" channel="History Channel HD">
+    <title lang="pt">Inexplicável América Latina Com John Leguizamo</title>
+    <desc lang="pt">Dinheiro, ouro, pedras preciosas. Muitos destes tesouros trazem aos que tentam possuí-los um destino de loucura e tragédia. Existe um poder oculto por trás de cada uma destas histórias? São reais as maldições que rondam as grandes fortunas?(n)</desc>
+    <credits>
+      <actor>John Leguizamo</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821213400 -0300" stop="20210821222700 -0300" channel="History Channel HD">
+    <title lang="pt">Inexplicável</title>
+    <desc lang="pt">As histórias de desaparecimentos misteriosos são tão convincentes quanto confusas, como o caso do voo MH370 da Malásia e os incidentes bizarros no Triângulo das Bermudas.(n)</desc>
+    <credits>
+      <actor>William Shatner</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E32</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821222700 -0300" stop="20210821232000 -0300" channel="History Channel HD">
+    <title lang="pt">Alienígenas do Passado</title>
+    <desc lang="pt">O misterioso símbolo do buraco de fechadura está presente em textos antigos, estruturas arquitetônicas e obras de arte em todo o planeta. Poderia representar uma conexão profunda com o cosmos?(n)</desc>
+    <credits>
+      <actor>Robert Clotworthy</actor>
+      <actor>Giorgio Tsoukalos</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/alienigenasdopassado01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S12 E186</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821232000 -0300" stop="20210822001400 -0300" channel="History Channel HD">
+    <title lang="pt">Alienígenas do Passado</title>
+    <desc lang="pt">Os investigadores analisam se os antigos desenhos gravados sobre o solo do deserto podem ser parte de um código extraterrestre.(n)</desc>
+    <credits>
+      <actor>Robert Clotworthy</actor>
+      <actor>Giorgio Tsoukalos</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/alienigenasdopassado01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S11 E136</episode-num>
+    <rating system="BR">
+      <value>10</value>
     </rating>
   </programme>
 </tv>
