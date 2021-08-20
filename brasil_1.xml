@@ -470,10 +470,12 @@
   </channel>
   <channel id="Smithsonian HD">
     <display-name lang="pt">Smithsonian HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/smithsonian.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Canal Sony">
     <display-name lang="pt">Sony HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/sony.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Space HD">
@@ -15264,6 +15266,255 @@
     <category lang="pt">Luta</category>
     <rating system="BR">
       <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820160000 -0300" stop="20210820170000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Britânia Mística</title>
+    <desc lang="pt">A Grã-Bretanha está coberta de indícios de seu passado místico. Do misterioso stonehenge a esqueletos retorcidos nas cavernas gigantes, a paisagem do Reino Unido esconde centenas de segredos de rituais antigos e crenças sagradas.(n)</desc>
+    <credits>
+      <director>John Cavanagh</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820170000 -0300" stop="20210820180000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Máquinas Poderosas</title>
+    <desc lang="pt">Embarque na primeira classe das mais espetaculares máquinas voadoras do mundo.(n)</desc>
+    <credits>
+      <director>Kathryn Oughtred</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820183000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Especial Arte 1</title>
+    <desc lang="pt">Artistas de várias áreas das artes falam sobre suas carreiras e obras. Eles relembram como começaram na profissão, suas referências e parcerias, explicam escolhas e refletem sobre suas trajetórias.(n)</desc>
+    <credits>
+      <director>Serena Ucelli Di Nemi</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820183000 -0300" stop="20210820190000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Especial Arte 1</title>
+    <desc lang="pt">Artistas de várias áreas das artes falam sobre suas carreiras e obras. Eles relembram como começaram na profissão, suas referências e parcerias, explicam escolhas e refletem sobre suas trajetórias.(n)</desc>
+    <credits>
+      <director>Serena Ucelli Di Nemi</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820200000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Máquinas Poderosas</title>
+    <desc lang="pt">Estas maravilhas da tecnologia marítima transportam cargas colossais, levam energia a vilarejos inteiros e proporcionam o melhor do entretenimento a milhares de passageiros.(n)</desc>
+    <credits>
+      <director>Kathryn Oughtred</director>
+      <actor>Anthony Green</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S4 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820210000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Smithsonian Spotlight</title>
+    <desc lang="pt">Estamos comemorando o aniversário de 100 anos do Museu Nacional de História Natural do Smithsonian, lar de artes visuais, dinossauros, do diamante Hope e de mais de 100 milhões de espécimes.(n)</desc>
+    <credits>
+      <director>Tim Gorin</director>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820210000 -0300" stop="20210820220000 -0300" channel="Smithsonian HD">
+    <title lang="pt">A Guerra do Pacífico em Cores</title>
+    <desc lang="pt">Seis meses depois do bombardeio de Pearl Harbor, as ondas de choque da guerra se espalham por todos os cantos do Pacífico, do Alasca a regiões da China e da Nova Guiné. Os soldados americanos partem para encontrar um inimigo incansável.(n)</desc>
+    <credits>
+      <director>Dan Wolf</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820230000 -0300" channel="Smithsonian HD">
+    <title lang="pt">A Guerra do Pacífico em Cores</title>
+    <desc lang="pt">Em 1943, os Estados Unidos avançam sobre o Japão, fazendo uma nova série de invasões as pequenas ilhas no Pacífico Central.(n)</desc>
+    <credits>
+      <director>Dan Wolf</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210821000000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Aéreas África</title>
+    <desc lang="pt">Explore Zâmbia e suas nascentes de montanhas que se transformam em rios turbulentos, lugares sagrados onde tribos reacendem sua história cultural, e um dos santuários de vida selvagem mais intocados da África.(n)</desc>
+    <credits>
+      <director>Peter Lamberti</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820162000 -0300" stop="20210820165000 -0300" channel="Canal Sony">
+    <title lang="pt">American Housewife</title>
+    <desc lang="pt">Enquanto Greg pede ajuda a Oliver e Anna-Kat para recrutar pessoas para o Westport Historical Guild, Katie dá seu melhor para apoiar o sonho de Taylor em se tornar a próxima "American Idol".(n)</desc>
+    <credits>
+      <director>John Putch</director>
+      <actor>Katy Mixon</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Meg Donnelly</actor>
+      <actor>Daniel Dimaggio</actor>
+      <actor>Carly Hughes</actor>
+      <actor>Ali Wong</actor>
+      <actor>Julia Butters</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E15</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820165000 -0300" stop="20210820183500 -0300" channel="Canal Sony">
+    <title lang="pt">Hotel Transilvânia 3: Férias Monstruosas</title>
+    <desc lang="pt">Solitário e infeliz, buscando um novo amor na internet, Drácula é surpreendido com um presente da querida filha: férias em um cruzeiro.(n)</desc>
+    <credits>
+      <director>Genndy Tartakovsky</director>
+      <actor>Vozes de Adam Sandler</actor>
+      <actor>Andy Samberg</actor>
+      <actor>Selena Gomez</actor>
+      <actor>Kevin James</actor>
+      <actor>Fran Drescher</actor>
+      <actor>Steve Buscemi</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820183500 -0300" stop="20210820202500 -0300" channel="Canal Sony">
+    <title lang="pt">Bem-Vindo à Selva</title>
+    <desc lang="pt">Um incansável caçador de recompensas recebe uma nova incumbência: ir para a selva brasileira e achar o filho de um mafioso. Mas o interesse numa peça de ouro e as ações de um ambicioso homem da região atrapalham seus planos.(n)</desc>
+    <credits>
+      <director>Peter Berg</director>
+      <actor>The Rock</actor>
+      <actor>Seann William Scott</actor>
+      <actor>Rosario Dawson</actor>
+      <actor>Christopher Walken</actor>
+      <actor>Ewen Bremner</actor>
+      <actor>Jon Gries</actor>
+      <actor>William Lucking</actor>
+      <actor>Ernie Reyes Jr.</actor>
+      <actor>Dennis Keiffer</actor>
+      <actor>Toby Holguin</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_bemvindoaselva01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820202500 -0300" stop="20210820223000 -0300" channel="Canal Sony">
+    <title lang="pt">Baywatch: S.O.S. Malibu</title>
+    <desc lang="pt">Mitch Buchannon é um devoto salva-vidas, orgulhoso do seu trabalho. Enquanto está treinando o novo e exibido recruta Matt Brody, os dois descobrem uma conspiração criminosa no local que pode ameaçar o futuro da baía.(n)</desc>
+    <credits>
+      <director>Seth Gordon</director>
+      <actor>Dwayne Johnson</actor>
+      <actor>Zac Efron</actor>
+      <actor>Priyanka Chopra</actor>
+      <actor>Alexandra Daddario</actor>
+      <actor>Kelly Rohrbach</actor>
+      <actor>Ilfenesh Hadera</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/filme_baywatchsosmalibu01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820223000 -0300" stop="20210820233000 -0300" channel="Canal Sony">
+    <title lang="pt">The Best Of Shark Tank Brazil</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820233000 -0300" stop="20210821000000 -0300" channel="Canal Sony">
+    <title lang="pt">(Des)Encontros</title>
+    <desc lang="pt">Rafael e Felipe mantêm um relacionamento discreto. A chegada de uma terceira pessoa coloca os sentimentos do casal à prova, e eles precisarão tomar importantes decisões se quiserem ficar juntos.(n)</desc>
+    <credits>
+      <director>Rodrigo Bernardo</director>
+      <actor>Gil Coelho</actor>
+      <actor>Rainer Cadete</actor>
+      <actor>Jacqueline Sato</actor>
+      <actor>Victor Mendes</actor>
+      <actor>Duda Nagle</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Romance</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>12</value>
     </rating>
   </programme>
 </tv>
