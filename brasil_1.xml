@@ -590,10 +590,12 @@
   </channel>
   <channel id="TV Brasil HD">
     <display-name lang="pt">TV Brasil HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/tvcabobranco.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Universal TV HD">
     <display-name lang="pt">Universal TV HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/venus.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="VH1 (HD)">
@@ -18917,6 +18919,292 @@
     <country lang="pt">EUA</country>
     <rating system="BR">
       <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820153000 -0300" stop="20210820170000 -0300" channel="TV Brasil HD">
+    <title lang="pt">Brasil 2050</title>
+    <desc lang="pt">A Série apresenta projetos, ações e iniciativas bem sucedidas de sustentabilidade nas empresas, nos governos e na sociedade civil, que servem de inspiração para um país mais sustentável.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_brasil205001.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820170000 -0300" stop="20210820180000 -0300" channel="TV Brasil HD">
+    <title lang="pt">Histórias de Vida</title>
+    <desc lang="pt">Histórias de Vida revela os mais notáveis instintos animais, mostrando algumas espécies desconhecidas e outras nem tanto, mas cujos comportamentos ainda podem nos surpreender!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820190000 -0300" channel="TV Brasil HD">
+    <title lang="pt">As Fascinantes Cidades do Mundo</title>
+    <desc lang="pt">Visite a rainha em Londres, perca-se nos bazares de Istambul e maravilhe-se com o esplendor de São Petersburgo. E muitas outras cidades que atraem para si o fascínio de todos.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820194000 -0300" channel="TV Brasil HD">
+    <title lang="pt">Repórter Brasil Noite</title>
+    <desc lang="pt">Telejornal apresentado de Brasília com o apoio de emissoras públicas de todo o país. Noticiário isento que mostra o que foi notícia no Brasil e no mundo. O destaque são reportagens com foco no cidadão.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_reporterbrasilnoite01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820194000 -0300" stop="20210820200000 -0300" channel="TV Brasil HD">
+    <title lang="pt">Stadium</title>
+    <desc lang="pt">O programa - criado em 1977 - tem como foco esportes Olímpicos e Paralímpicos, e mostra tudo o que movimenta o meio esportivo, dando espaço para atletas brasileiros que representam grandes promessas de títulos.(n)</desc>
+    <credits>
+      <actor>Paulo Garritano e Marília Arrigoni</actor>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_stadium01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820203000 -0300" channel="TV Brasil HD">
+    <title lang="pt">Brasil Visto de Cima</title>
+    <desc lang="pt">Através de imagens feitas em helicópteros e drones, surgem ângulos, visões e reflexões sobre os encantos, as belezas, as curiosidades e as contradições de um país imenso e cheio de surpresas.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/brasilvistodecima01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820203000 -0300" stop="20210820223000 -0300" channel="TV Brasil HD">
+    <title lang="pt">Os Dez Mandamentos</title>
+    <desc lang="pt">A jornada bíblica de Moisés, desde a escravidão do povo hebreu no Egito até o êxodo em direção à terra prometida, num enredo repleto de referências aos livros Êxodo, Levítico, Números e Deuteronômio.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820223000 -0300" stop="20210821004500 -0300" channel="TV Brasil HD">
+    <title lang="pt">Festival de Cinema</title>
+    <desc lang="pt">Uma sessão de cinema especialmente recomendada aos amantes da sétima arte, com os melhores filmes nacionais e estrangeiros.(n)</desc>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820161000 -0300" stop="20210820170500 -0300" channel="Universal TV HD">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <desc lang="pt">Um jovem é encontrado morto dentro de um armário em um hotel e, durante a investigação, os detetives descobrem que o rapaz foi expulso de um casamento no local momentos antes do crime.(n)</desc>
+    <credits>
+      <director>David Platt</director>
+      <actor>Richard Belzer</actor>
+      <actor>Ice-T</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>B.D. Wong</actor>
+      <actor>Tamara Tunie</actor>
+      <actor>Dann Florek</actor>
+      <actor>John Magaro</actor>
+      <actor>Ernest Waddell</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/lawandordersvu01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S11 E19</episode-num>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210820170500 -0300" stop="20210820180000 -0300" channel="Universal TV HD">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <desc lang="pt">Os detetives investigam o caso de uma jovem que é estuprada e assassinada. Na tentativa de descobrir o que aconteceu, Olivia tem que se infiltrar em uma indústria de manufatura de carnes.(n)</desc>
+    <credits>
+      <director>Peter Leto</director>
+      <actor>Ice-T</actor>
+      <actor>B.D. Wong</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Tamara Tunie</actor>
+      <actor>Dann Florek</actor>
+      <actor>Lynn Cohen</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/lawandordersvu01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S11</episode-num>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820190000 -0300" channel="Universal TV HD">
+    <title lang="pt">Rotas do Ódio</title>
+    <desc lang="pt">A equipe da DECRADI é chamada e eles encontram o corpo do Levi. Buá e Lukeny mantêm Weza preso a mando de Abílio, mas Capitão tenta intervir e pede resgate para a mãe de Weza.(n)</desc>
+    <credits>
+      <director>Susanna Lira</director>
+      <director>Vinícius Reis</director>
+      <actor>Mayana Neiva</actor>
+      <actor>Antônio Saboia</actor>
+      <actor>André Bankoff</actor>
+      <actor>Rafael Losso</actor>
+      <actor>Eduardo Semerjian</actor>
+      <actor>Marat Decartes</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_rotasdoodio01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820195000 -0300" channel="Universal TV HD">
+    <title lang="pt">Chicago Fire</title>
+    <desc lang="pt">Uma tragédia atinge a todos quando uma tentativa de resgate em um edifício residencial não tem êxito. E a tensão aumenta entre Severide e Casey sobre Heather. Shay e Dawson são forçadas a lidar com o comportamento de um viciado louco em uma chamada.(n)</desc>
+    <credits>
+      <director>Darnell Martin</director>
+      <actor>Jesse Spencer</actor>
+      <actor>Taylor Kinney</actor>
+      <actor>Monica Raymund</actor>
+      <actor>Lauren German</actor>
+      <actor>Charlie Barnett</actor>
+      <actor>David Eigenberg</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/chicagofire01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820195000 -0300" stop="20210820204000 -0300" channel="Universal TV HD">
+    <title lang="pt">Chicago Fire</title>
+    <desc lang="pt">Mills é alvo do ressentimento de alguns colegas quando Severide dá apoio ao seu desejo de se juntar ao esquadrão. Tara, uma candidata a paramédica, se junta a Dawson e Shay no trabalho por alguns turnos.(n)</desc>
+    <credits>
+      <director>Arthur W. Forney</director>
+      <actor>Jesse Spencer</actor>
+      <actor>Taylor Kinney</actor>
+      <actor>Monica Raymund</actor>
+      <actor>Lauren German</actor>
+      <actor>Charlie Barnett</actor>
+      <actor>Eamonn Walker</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/chicagofire01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820204000 -0300" stop="20210820213000 -0300" channel="Universal TV HD">
+    <title lang="pt">Chicago P.D.</title>
+    <desc lang="pt">Atwater precisa se disfarçar para derrubar uma organização criminosa, mas descobre que um policial conhecido também está disfarçado na mesma operação.(n)</desc>
+    <credits>
+      <director>Alex Chapple</director>
+      <actor>Jason Beghe</actor>
+      <actor>Jesse Lee Soffer</actor>
+      <actor>Tracy Spiridakos</actor>
+      <actor>LaRoyce Hawkins</actor>
+      <actor>Kara Killmer</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/chicagopd01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820213000 -0300" stop="20210820222000 -0300" channel="Universal TV HD">
+    <title lang="pt">Chicago P.D.</title>
+    <desc lang="pt">Após mortes brutais, o Distrito 21 - liderado pelo sargento Hank Voigh - vão atrás do cartel colombiano em Chicago. Ali eles encontram D'Anthony, que prova ser uma vantagem para a investigação.(n)</desc>
+    <credits>
+      <director>Michael Slovis</director>
+      <actor>Jason Beghe</actor>
+      <actor>Jon Seda</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Jesse Lee Soffer</actor>
+      <actor>Patrick John Flueger</actor>
+      <actor>Marina Squerciati</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/chicagopd01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820222000 -0300" stop="20210820231000 -0300" channel="Universal TV HD">
+    <title lang="pt">Magnum P.I.</title>
+    <desc lang="pt">O trabalho de Higgins para recompor um avião dá errado quando ela e Magnum descobrem que a aeronave estava sendo usada por um cartel de drogas.(n)</desc>
+    <credits>
+      <director>Bryan Spicer</director>
+      <actor>Jay Hernandez</actor>
+      <actor>Perdita Weeks</actor>
+      <actor>Zachary Knighton</actor>
+      <actor>Tim Kang</actor>
+      <actor>Amy Hill</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820231000 -0300" stop="20210821000000 -0300" channel="Universal TV HD">
+    <title lang="pt">The Rookie</title>
+    <desc lang="pt">John Nolan e Nyla Harper são designados a um centro de policiamento comunitário para ajudar a reconstruir a reputação de sua delegacia.(n)</desc>
+    <credits>
+      <director>Michael Goi</director>
+      <actor>Michelle Bernard</actor>
+      <actor>John Billingsley</actor>
+      <actor>Stephen Bralver</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Mekia Cox</actor>
+      <actor>Alyssa Diaz</actor>
+      <actor>Enver Gjokaj</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_therookie01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
     </rating>
   </programme>
 </tv>
