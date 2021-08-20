@@ -49850,4 +49850,1238 @@
       <value>18</value>
     </rating>
   </programme>
+  <programme start="20210820092700 -0300" stop="20210820094900 -0300" channel="HGTV HD">
+    <title lang="pt">A Sonhada Casa do Lago</title>
+    <title lang="en">Lakefront Bargain Hunt</title>
+    <desc lang="pt">Uma família da Geórgia procura uma nova casa para passar as férias no Lago Nottely.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E13</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820094900 -0300" stop="20210820101400 -0300" channel="HGTV HD">
+    <title lang="pt">A Sonhada Casa do Lago</title>
+    <title lang="en">Lakefront Bargain Hunt</title>
+    <desc lang="pt">Um casal procura um chalé à beira de um lago para passar as férias com a família em Innsbrook, Missouri.(n)</desc>
+    <credits>
+      <director>Dean Melton</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820101400 -0300" stop="20210820103700 -0300" channel="HGTV HD">
+    <title lang="pt">Em Busca Da Casa Perfeita - Mundo</title>
+    <title lang="en">House Hunters International</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_embuscadacasaperfeitamundo01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S112 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820103700 -0300" stop="20210820110100 -0300" channel="HGTV HD">
+    <title lang="pt">Em Busca Da Casa Perfeita</title>
+    <title lang="en">House Hunters</title>
+    <desc lang="pt">Uma profissional da área tecnológica industrial em Chicago encontrou uma nova paixão reformando casas. Seu amigo investidor imobiliário experiente que se junta à busca, quer que ela encontre um lugar com o mínimo de trabalho.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_embuscadacasaperfeita01.jpg" />
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820110100 -0300" stop="20210820112400 -0300" channel="HGTV HD">
+    <title lang="pt">Piscinas Espetaculares</title>
+    <title lang="en">Pool Kings</title>
+    <desc lang="pt">A equipe da Pool Kings vai a Austin, Texas, para construir uma piscina ao lado de um campo de golfe.(n)</desc>
+    <credits>
+      <director>Brian Balthazar</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820112400 -0300" stop="20210820114800 -0300" channel="HGTV HD">
+    <title lang="pt">Piscinas Espetaculares</title>
+    <title lang="en">Pool Kings</title>
+    <desc lang="pt">Uma família de Nashville quer ser a sensação com uma piscina enorme, estilo resort. Kyle e Justin enfrentam alguns contratempos inesperados, mas conseguem escavar três metros de rocha sólida para criar a piscina perfeita.(n)</desc>
+    <credits>
+      <director>Brian Balthazar</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820114800 -0300" stop="20210820121100 -0300" channel="HGTV HD">
+    <title lang="pt">Espaços Milionários</title>
+    <title lang="en">Million Dollar Rooms</title>
+    <desc lang="pt">Carter Oosterhouse visita uma mansão na Califórnia com uma piazza italiana no jardim, uma suíte flutuante no Havaí, uma adega extravagante de inspiração francesa e uma garagem decorada como um cassino de Las Vegas.(n)</desc>
+    <credits>
+      <director>Min Lee Larosa</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820121100 -0300" stop="20210820123500 -0300" channel="HGTV HD">
+    <title lang="pt">Espaços Milionários</title>
+    <title lang="en">Million Dollar Rooms</title>
+    <desc lang="pt">Neste episódio, Carter Oosterhouse mostra uma garagem personalizada na Flórida, uma sala ampla espetacular em Palm Springs e a incrível suíte do Pavilhão de Vidro de Santa Barbara, obra do arquiteto Steve Hermann.(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820123500 -0300" stop="20210820132200 -0300" channel="HGTV HD">
+    <title lang="pt">A Batalha dos Decoradores</title>
+    <desc lang="pt">Onze designers devem transformar cômodos brancos idênticos usando apenas o que encontrarem dentro de uma casa e em uma loja de jardinagem.(n)</desc>
+    <credits>
+      <director>Loren Ruch</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820132200 -0300" stop="20210820140900 -0300" channel="HGTV HD">
+    <title lang="pt">Espaços Milionários</title>
+    <title lang="en">Million Dollar Rooms</title>
+    <desc lang="pt">Este episódio destaca alguns dos ambientes mais elaborados do mundo, como um closet de dois andares.(n)</desc>
+    <credits>
+      <director>Min Lee</director>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820140900 -0300" stop="20210820145600 -0300" channel="HGTV HD">
+    <title lang="pt">As Mansões de Candy Spelling</title>
+    <title lang="en">Beyond Spelling Manor</title>
+    <desc lang="pt">Candy Spelling faz compras para um apartamento de dois quartos em Manhattan com um orçamento de 5 milhões de dólares.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820145600 -0300" stop="20210820151900 -0300" channel="HGTV HD">
+    <title lang="pt">24 Horas Pra Redecorar</title>
+    <desc lang="pt">Lara nasceu e cresceu tendo dois ambientes para chamar só de seu: um quarto de dormir e outro de brincar. Mas agora sua família está de mudança para um apartamento e o espaço da pequena cairá pela metade - ou até menos.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820151900 -0300" stop="20210820154200 -0300" channel="HGTV HD">
+    <title lang="pt">24 Horas Pra Redecorar</title>
+    <desc lang="pt">Elisa viu a "família' crescer e sua sala "encolher" depois que passou a dividir apartamento com o namorado, cujos pais são do interior e vêm pelo menos uma vez por mês visitá-los.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820154200 -0300" stop="20210820160600 -0300" channel="HGTV HD">
+    <title lang="pt">Menos É Demais</title>
+    <desc lang="pt">Fernanda e Nicolas deixaram partes da casa serem tomadas por brinquedos das filhas pequenas e objetos sem uso. Apesar dos brinquedos que enchem os cômodos, as filhas ficam grudadas no tablet o tempo todo.(n)</desc>
+    <credits>
+      <actor>Chiara Gadaleta e Fê Cortez</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_menosedemais01.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820160600 -0300" stop="20210820163000 -0300" channel="HGTV HD">
+    <title lang="pt">A Sonhada Casa do Lago</title>
+    <title lang="en">Lakefront Bargain Hunt</title>
+    <desc lang="pt">Um casal procura a casa ideal à beira do Lago Brant, ao sul das Montanhas de Adirondacks, Nova York.(n)</desc>
+    <credits>
+      <director>Dean Melton</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820163000 -0300" stop="20210820165300 -0300" channel="HGTV HD">
+    <title lang="pt">Reforma Relâmpago</title>
+    <desc lang="pt">Matt Blashaw e sua equipe transformam um quintal inexpressivo em um oásis protegido do sol.(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S11 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820165300 -0300" stop="20210820171700 -0300" channel="HGTV HD">
+    <title lang="pt">Reforma Relâmpago</title>
+    <desc lang="pt">Um quintal mal cuidado ganha um novo visual com os barris de vinhos dos proprietários.(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S11 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820171700 -0300" stop="20210820174000 -0300" channel="HGTV HD">
+    <title lang="pt">Piscinas Espetaculares</title>
+    <title lang="en">Pool Kings</title>
+    <desc lang="pt">Agora que o acabamento de sua casa foi concluído, uma família de cinco pessoas de Rancho Cucamonga encarrega a Pool Kings de transformar um quintal negligenciado em um resort particular com vários pavimentos.(n)</desc>
+    <credits>
+      <director>Brian Balthazar</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820174000 -0300" stop="20210820180400 -0300" channel="HGTV HD">
+    <title lang="pt">Piscinas Espetaculares</title>
+    <title lang="en">Pool Kings</title>
+    <desc lang="pt">Uma família de Carlsbad, Califórnia, sonha com um quintal divertido onde seus filhos possam brincar. Mike e Jim constroem uma piscina equipada com spa, vulcão submerso, escorregador e uma gruta toscana.(n)</desc>
+    <credits>
+      <director>Brian Balthazar</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180400 -0300" stop="20210820182700 -0300" channel="HGTV HD">
+    <title lang="pt">A Sonhada Casa do Lago</title>
+    <title lang="en">Lakefront Bargain Hunt</title>
+    <desc lang="pt">Um casal é transferido de cidade e procura uma casa para comprar na região de Chain of Lakes, Winter Haven, Flórida.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E11</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820182700 -0300" stop="20210820185200 -0300" channel="HGTV HD">
+    <title lang="pt">A Sonhada Casa do Lago</title>
+    <title lang="en">Lakefront Bargain Hunt</title>
+    <desc lang="pt">Para escapar da rotina estressante, um casal procura um refúgio às margens do Lago Table Rock - mas encontrar um imóvel que atenda a todas as suas necessidades por 350 mil dólares não será fácil.(n)</desc>
+    <credits>
+      <director>Dean Melton</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820185200 -0300" stop="20210820191400 -0300" channel="HGTV HD">
+    <title lang="pt">Casa Contêiner</title>
+    <desc lang="pt">Um homem visionário projeta uma casa com influências asiáticas e design industrial modernos.(n)</desc>
+    <credits>
+      <director>Sharalynn Cornwall</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820191400 -0300" stop="20210820193800 -0300" channel="HGTV HD">
+    <title lang="pt">Casa Contêiner</title>
+    <desc lang="pt">Um homem visionário projeta uma casa com influências asiáticas e design industrial modernos.(n)</desc>
+    <credits>
+      <director>Sharalynn Cornwall</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820193800 -0300" stop="20210820200100 -0300" channel="HGTV HD">
+    <title lang="pt">Desafio da Renovação</title>
+    <title lang="en">Flea Market Flip</title>
+    <desc lang="pt">Com sua reputação em jogo, vendedores de antiguidades profissionais e amigos de longa data competem para provar que são as melhores do ramo.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200100 -0300" stop="20210820202500 -0300" channel="HGTV HD">
+    <title lang="pt">Desafio da Renovação</title>
+    <title lang="en">Flea Market Flip</title>
+    <desc lang="pt">Com um orçamento de 500 dólares, eles têm apenas uma hora para encontrar os três projetos da lista em uma feira de antiguidades.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S8 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820202500 -0300" stop="20210820204600 -0300" channel="HGTV HD">
+    <title lang="pt">Em Busca Da Casa Perfeita - Mundo</title>
+    <title lang="en">House Hunters International</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_embuscadacasaperfeitamundo01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S112</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820204600 -0300" stop="20210820210800 -0300" channel="HGTV HD">
+    <title lang="pt">Em Busca Da Casa Perfeita - Mundo</title>
+    <title lang="en">House Hunters International</title>
+    <desc lang="pt">Uma corretora de imóveis em Austin, Texas, procura sua primeira casa. Ela quer uma parte superior com 3 quartos e um quintal para uma piscina.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_embuscadacasaperfeitamundo01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S112 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820210800 -0300" stop="20210820215500 -0300" channel="HGTV HD">
+    <title lang="pt">Espaços Milionários</title>
+    <title lang="en">Million Dollar Rooms</title>
+    <desc lang="pt">Neste episódio, Carter Oosterhouse mostra uma garagem personalizada na Flórida, uma sala ampla espetacular em Palm Springs e a incrível suíte do Pavilhão de Vidro de Santa Barbara, obra do arquiteto Steve Hermann.(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820215500 -0300" stop="20210820224200 -0300" channel="HGTV HD">
+    <title lang="pt">As Mansões de Candy Spelling</title>
+    <title lang="en">Beyond Spelling Manor</title>
+    <desc lang="pt">Candy Spelling faz compras para um apartamento de dois quartos em Manhattan com um orçamento de 5 milhões de dólares.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820224200 -0300" stop="20210820230500 -0300" channel="HGTV HD">
+    <title lang="pt">24 Horas Pra Redecorar</title>
+    <desc lang="pt">Neste 24 Horas pra Redecorar, Renato Mendonça transforma o ambiente social no espaço dos sonhos da dupla Deia e Juliette.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820230500 -0300" stop="20210820232900 -0300" channel="HGTV HD">
+    <title lang="pt">24 Horas Pra Redecorar</title>
+    <desc lang="pt">O desejo do casal Patricia e Ricardo era que a varanda e a sala do seu apartamento funcionassem como um grande living, um espaço único de convivência. Mas na prática, o plano nunca deu certo.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820232900 -0300" stop="20210820235400 -0300" channel="HGTV HD">
+    <title lang="pt">Menos é Demais</title>
+    <desc lang="pt">As roupas e os sapatos de Heloisa ocupam o seu quarto e todo um segundo cômodo que deveria ser do futuro filho do casal. O marido e a irmã pedem ajuda para que Heloisa reveja o quanto compra e o quanto realmente precisa ter.(n)</desc>
+    <credits>
+      <actor>Chiara Gadaleta e Fê Cortez</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_menosedemais01.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820235400 -0300" stop="20210821001800 -0300" channel="HGTV HD">
+    <title lang="pt">A Sonhada Casa do Lago</title>
+    <title lang="en">Lakefront Bargain Hunt</title>
+    <desc lang="pt">Uma mulher e seu filho procuram um refúgio na beira de um lago para reunir a família no Condado de Summit, Colorado.(n)</desc>
+    <credits>
+      <director>Dean Melton</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821001800 -0300" stop="20210821004100 -0300" channel="HGTV HD">
+    <title lang="pt">Reforma Relâmpago</title>
+    <desc lang="pt">Matt resgata um quintal cuja reforma feita pelos proprietários acabou mal e o transforma em um espaço moderno.(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S11 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821004100 -0300" stop="20210821010500 -0300" channel="HGTV HD">
+    <title lang="pt">Reforma Relâmpago</title>
+    <desc lang="pt">Matt Blashaw transforma um quintal cheio de lama em um paraíso tropical com estilo praiano.(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S11 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821010500 -0300" stop="20210821012800 -0300" channel="HGTV HD">
+    <title lang="pt">Piscinas Espetaculares</title>
+    <title lang="en">Pool Kings</title>
+    <desc lang="pt">Uma família se muda para uma casa nova e precisa de ajuda para reformar seu quintal e instalar uma piscina de alta qualidade.(n)</desc>
+    <credits>
+      <director>Brian Balthazar</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821012800 -0300" stop="20210821015200 -0300" channel="HGTV HD">
+    <title lang="pt">Piscinas Espetaculares</title>
+    <title lang="en">Pool Kings</title>
+    <desc lang="pt">Uma família decide passar as férias em casa em Austin, Texas, e constrói uma área de lazer com piscina que alia rusticidade e sofisticação.(n)</desc>
+    <credits>
+      <director>Brian Balthazar</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">S4 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821015200 -0300" stop="20210821021400 -0300" channel="HGTV HD">
+    <title lang="pt">Desafio da Renovação</title>
+    <title lang="en">Flea Market Flip</title>
+    <desc lang="pt">Com sua reputação em jogo, vendedores de antiguidades profissionais e amigos de longa data competem para provar que são as melhores do ramo.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821021400 -0300" stop="20210821023700 -0300" channel="HGTV HD">
+    <title lang="pt">Desafio da Renovação</title>
+    <title lang="en">Flea Market Flip</title>
+    <desc lang="pt">Com um orçamento de 500 dólares, eles têm apenas uma hora para encontrar os três projetos da lista em uma feira de antiguidades.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S8 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821023700 -0300" stop="20210821025900 -0300" channel="HGTV HD">
+    <title lang="pt">Em Busca Da Casa Perfeita - Mundo</title>
+    <title lang="en">House Hunters International</title>
+    <desc lang="pt">Uma corretora de imóveis em Austin, Texas, procura sua primeira casa. Ela quer uma parte superior com 3 quartos e um quintal para uma piscina.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_embuscadacasaperfeitamundo01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S112 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821025900 -0300" stop="20210821032200 -0300" channel="HGTV HD">
+    <title lang="pt">Em Busca Da Casa Perfeita - Mundo</title>
+    <title lang="en">House Hunters International</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_embuscadacasaperfeitamundo01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S112</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821032200 -0300" stop="20210821040700 -0300" channel="HGTV HD">
+    <title lang="pt">Espaços Milionários</title>
+    <title lang="en">Million Dollar Rooms</title>
+    <desc lang="pt">Neste episódio, Carter Oosterhouse mostra uma garagem personalizada na Flórida, uma sala ampla espetacular em Palm Springs e a incrível suíte do Pavilhão de Vidro de Santa Barbara, obra do arquiteto Steve Hermann.(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821040700 -0300" stop="20210821045200 -0300" channel="HGTV HD">
+    <title lang="pt">As Mansões de Candy Spelling</title>
+    <title lang="en">Beyond Spelling Manor</title>
+    <desc lang="pt">Candy Spelling faz compras para um apartamento de dois quartos em Manhattan com um orçamento de 5 milhões de dólares.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821045200 -0300" stop="20210821051400 -0300" channel="HGTV HD">
+    <title lang="pt">24 Horas Pra Redecorar</title>
+    <desc lang="pt">Neste 24 Horas pra Redecorar, Renato Mendonça transforma o ambiente social no espaço dos sonhos da dupla Deia e Juliette.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821051400 -0300" stop="20210821053700 -0300" channel="HGTV HD">
+    <title lang="pt">24 Horas Pra Redecorar</title>
+    <desc lang="pt">O desejo do casal Patricia e Ricardo era que a varanda e a sala do seu apartamento funcionassem como um grande living, um espaço único de convivência. Mas na prática, o plano nunca deu certo.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821053700 -0300" stop="20210821060000 -0300" channel="HGTV HD">
+    <title lang="pt">I Want That!</title>
+    <desc lang="pt">Atualizar ou reparar rodapés é simples com esses kits.(n)</desc>
+    <credits>
+      <actor>Dominique Patrice</actor>
+      <actor>Aileen Avery</actor>
+      <actor>Kendis Gibson</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821062300 -0300" channel="HGTV HD">
+    <title lang="pt">Espaços Milionários</title>
+    <title lang="en">Million Dollar Rooms</title>
+    <desc lang="pt">Acompanhe Carter Oosterhouse em uma visita exclusiva a uma parede de escalada indoor de três andares, um incrível aquário de 75 mil litros em Nova Jersey e uma linda piscina coberta com seu próprio ecossistema.(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821062300 -0300" stop="20210821064600 -0300" channel="HGTV HD">
+    <title lang="pt">Em Busca Da Casa Perfeita - Mundo</title>
+    <title lang="en">House Hunters International</title>
+    <desc lang="pt">Uma corretora de imóveis em Austin, Texas, procura sua primeira casa. Ela quer uma parte superior com 3 quartos e um quintal para uma piscina.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_embuscadacasaperfeitamundo01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S112 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821064600 -0300" stop="20210821070900 -0300" channel="HGTV HD">
+    <title lang="pt">Em Busca Da Casa Perfeita - Mundo</title>
+    <title lang="en">House Hunters International</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_embuscadacasaperfeitamundo01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S112</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821070900 -0300" stop="20210821075500 -0300" channel="HGTV HD">
+    <title lang="pt">Espaços Milionários</title>
+    <title lang="en">Million Dollar Rooms</title>
+    <desc lang="pt">Neste episódio, Carter Oosterhouse mostra uma garagem personalizada na Flórida, uma sala ampla espetacular em Palm Springs e a incrível suíte do Pavilhão de Vidro de Santa Barbara, obra do arquiteto Steve Hermann.(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821075500 -0300" stop="20210821084100 -0300" channel="HGTV HD">
+    <title lang="pt">As Mansões de Candy Spelling</title>
+    <title lang="en">Beyond Spelling Manor</title>
+    <desc lang="pt">Candy Spelling faz compras para um apartamento de dois quartos em Manhattan com um orçamento de 5 milhões de dólares.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821084100 -0300" stop="20210821090400 -0300" channel="HGTV HD">
+    <title lang="pt">24 Horas Pra Redecorar</title>
+    <desc lang="pt">Neste 24 Horas pra Redecorar, Renato Mendonça transforma o ambiente social no espaço dos sonhos da dupla Deia e Juliette.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821090400 -0300" stop="20210821092900 -0300" channel="HGTV HD">
+    <title lang="pt">24 Horas Pra Redecorar</title>
+    <desc lang="pt">O desejo do casal Patricia e Ricardo era que a varanda e a sala do seu apartamento funcionassem como um grande living, um espaço único de convivência. Mas na prática, o plano nunca deu certo.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821092900 -0300" stop="20210821094900 -0300" channel="HGTV HD">
+    <title lang="pt">A Sonhada Casa do Lago</title>
+    <title lang="en">Lakefront Bargain Hunt</title>
+    <desc lang="pt">Um casal procura um chalé à beira de um lago para passar as férias com a família em Innsbrook, Missouri.(n)</desc>
+    <credits>
+      <director>Dean Melton</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821094900 -0300" stop="20210821101400 -0300" channel="HGTV HD">
+    <title lang="pt">A Sonhada Casa do Lago</title>
+    <title lang="en">Lakefront Bargain Hunt</title>
+    <desc lang="pt">Uma mulher e seu filho procuram um refúgio na beira de um lago para reunir a família no Condado de Summit, Colorado.(n)</desc>
+    <credits>
+      <director>Dean Melton</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821101400 -0300" stop="20210821103700 -0300" channel="HGTV HD">
+    <title lang="pt">Em Busca Da Casa Perfeita - Mundo</title>
+    <title lang="en">House Hunters International</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_embuscadacasaperfeitamundo01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S112 E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821103700 -0300" stop="20210821110100 -0300" channel="HGTV HD">
+    <title lang="pt">Em Busca Da Casa Perfeita</title>
+    <title lang="en">House Hunters</title>
+    <desc lang="pt">Uma jovem profissional está procurando o apartamento perfeito para chamar de lar em Washington D.C. Ela quer um lugar que tenha vista para o rio, muito espaço para receber os amigos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_embuscadacasaperfeita01.jpg" />
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821110100 -0300" stop="20210821112400 -0300" channel="HGTV HD">
+    <title lang="pt">Piscinas Espetaculares</title>
+    <title lang="en">Pool Kings</title>
+    <desc lang="pt">A equipe da Pool Kings viaja para Corona, Califórnia, para ajudar uma família numerosa que está ficando sem espaço. Eles projetam uma piscina geométrica com uma fonte artística e uma sofisticada área para churrascos.(n)</desc>
+    <credits>
+      <director>Brian Balthazar</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E11</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821112400 -0300" stop="20210821114800 -0300" channel="HGTV HD">
+    <title lang="pt">Piscinas Espetaculares</title>
+    <title lang="en">Pool Kings</title>
+    <desc lang="pt">Uma família de Franklin, Tennessee, vive com uma piscina inacabada há dois anos. A equipe da Pool Kings encontra seu quintal em estado caótico, mas consegue transformar uma obra cheia de problemas em um sonho realizado.(n)</desc>
+    <credits>
+      <director>Brian Balthazar</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">S3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821114800 -0300" stop="20210821121100 -0300" channel="HGTV HD">
+    <title lang="pt">Espaços Milionários</title>
+    <title lang="en">Million Dollar Rooms</title>
+    <desc lang="pt">Acompanhe Carter Oosterhouse em um tour pelas mansões mais incríveis do mundo. Conheça uma mansão no Texas com dois quartos dignos dos soberanos da Roma Antiga e uma casa redonda em San Diego que testa os limites do luxo.(n)</desc>
+    <credits>
+      <director>Min Lee Larosa</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821121100 -0300" stop="20210821123500 -0300" channel="HGTV HD">
+    <title lang="pt">Espaços Milionários</title>
+    <title lang="en">Million Dollar Rooms</title>
+    <desc lang="pt">Acompanhe Carter Oosterhouse em uma visita exclusiva a uma incrível piscina em uma sala de estar de dois andares, uma espetacular cozinha em Montreal e uma garagem equipada com sala de jantar.(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821123500 -0300" stop="20210821132200 -0300" channel="HGTV HD">
+    <title lang="pt">A Batalha dos Decoradores</title>
+    <desc lang="pt">Os designers devem transformar um espaço antiquado em escritórios glamourosos para as Kardashians.(n)</desc>
+    <credits>
+      <director>Loren Ruch</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821132200 -0300" stop="20210821134500 -0300" channel="HGTV HD">
+    <title lang="pt">Desafio da Renovação</title>
+    <title lang="en">Flea Market Flip</title>
+    <desc lang="pt">Melhores amigos competem no Bazar Elephant's Trunk em New Milford, Connecticut: design industrial; obra de arte; patinho feio.(n)</desc>
+    <credits>
+      <director>Terri Murray</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821134500 -0300" stop="20210821140900 -0300" channel="HGTV HD">
+    <title lang="pt">Desafio da Renovação</title>
+    <title lang="en">Flea Market Flip</title>
+    <desc lang="pt">Designers competem no Bazar Elephant's Trunk em New Milford, Connecticut: projeto com tecido; restauração, design orgânico.(n)</desc>
+    <credits>
+      <director>Terri Murray</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821140900 -0300" stop="20210821143200 -0300" channel="HGTV HD">
+    <title lang="pt">Desafio da Renovação</title>
+    <title lang="en">Flea Market Flip</title>
+    <desc lang="pt">Amigos da faculdade competem contra artesãos de Nova York neste episódio.(n)</desc>
+    <credits>
+      <director>Terri Murray</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821143200 -0300" stop="20210821145600 -0300" channel="HGTV HD">
+    <title lang="pt">Desafio da Renovação</title>
+    <title lang="en">Flea Market Flip</title>
+    <desc lang="pt">Caçadores de peças estilosas competem com melhores amigos no Bazar Elephant's Trunk em New Milford, Connecticut: diversão doméstica; assentos estilosos; um pouco de cor.(n)</desc>
+    <credits>
+      <director>Terri Murray</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821145600 -0300" stop="20210821151900 -0300" channel="HGTV HD">
+    <title lang="pt">Desafio da Renovação</title>
+    <title lang="en">Flea Market Flip</title>
+    <desc lang="pt">Namorados góticos enfrentam fashionistas no Bazar Elephant's Trunk em New Milford, Connecticut: luminárias; mesa de café; projeto de reimaginação.(n)</desc>
+    <credits>
+      <director>Terri Murray</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821151900 -0300" stop="20210821154300 -0300" channel="HGTV HD">
+    <title lang="pt">Desafio da Renovação</title>
+    <title lang="en">Flea Market Flip</title>
+    <desc lang="pt">Amigos designers competem contra um casal no Bazar Elephant's Trunk em New Milford, Connecticut: achados valiosos; design mundial; combinações diversas.(n)</desc>
+    <credits>
+      <director>Terri Murray</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821154300 -0300" stop="20210821160600 -0300" channel="HGTV HD">
+    <title lang="pt">Reformas Incríveis</title>
+    <title lang="en">Elbow Room</title>
+    <desc lang="pt">O decorador e empreiteiro Chip Wade reforma uma cozinha antiga para melhor acomodar os proprietários da casa, que adoram cozinhar e receber convidados.(n)</desc>
+    <credits>
+      <director>Courtney White</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821160600 -0300" stop="20210821163000 -0300" channel="HGTV HD">
+    <title lang="pt">Reforma Relâmpago</title>
+    <title lang="en">Bath Crashers</title>
+    <desc lang="pt">Com uma expansão na área externa da casa e janelas em três paredes diferentes, um banheiro ganha espaço para uma banheira de imersão.(n)</desc>
+    <credits>
+      <director>Sarah Kuban</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S9 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821163000 -0300" stop="20210821165300 -0300" channel="HGTV HD">
+    <title lang="pt">Reforma Relâmpago</title>
+    <title lang="en">Bath Crashers</title>
+    <desc lang="pt">O minúsculo banheiro de uma suíte é transformado em um espaço enorme, com lavanderia embutida e equipamento de som no box do chuveiro.(n)</desc>
+    <credits>
+      <director>Sarah Kuban</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S9 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821165300 -0300" stop="20210821171700 -0300" channel="HGTV HD">
+    <title lang="pt">Reforma dos Sonhos</title>
+    <desc lang="pt">Um casal volta de férias e descobre que ganhou uma cozinha e um quintal novos em folha.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821171700 -0300" stop="20210821174000 -0300" channel="HGTV HD">
+    <title lang="pt">Reforma dos Sonhos</title>
+    <desc lang="pt">Os Primos viajam ao México para executar uma reforma em uma casa de praia - um presente de aniversário inesquecível para a esposa do cliente.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821174000 -0300" stop="20210821180400 -0300" channel="HGTV HD">
+    <title lang="pt">O Novo Vintage</title>
+    <title lang="en">Vintage</title>
+    <desc lang="pt">Jessie e Tina compram uma casa em Echo Park, Los Angeles, e descobrem que o terreno tem uma edícula que não é ocupada há 40 anos. A propriedade exige muitas reformas, mas o bairro é promissor e promete atrair compradores.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821180400 -0300" stop="20210821182700 -0300" channel="HGTV HD">
+    <title lang="pt">A Sonhada Casa do Lago</title>
+    <title lang="en">Lakefront Bargain Hunt</title>
+    <desc lang="pt">Uma família da Geórgia procura uma nova casa para passar as férias no Lago Nottely.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E12</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821182700 -0300" stop="20210821185200 -0300" channel="HGTV HD">
+    <title lang="pt">A Sonhada Casa do Lago</title>
+    <title lang="en">Lakefront Bargain Hunt</title>
+    <desc lang="pt">Uma família de Auburn procura uma alternativa à praia e decide comprar uma casa à beira do Lago Martin para relaxar e passar as férias.(n)</desc>
+    <credits>
+      <director>Dean Melton</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821185200 -0300" stop="20210821191400 -0300" channel="HGTV HD">
+    <title lang="pt">Casa Contêiner</title>
+    <desc lang="pt">Em Mineral Point, Wisconsin, Andy E Jackie Spoor sonham em ter uma casa que seja uma fusão entre os estilos rústico e contemporâneo. A saída para não gastar uma fortuna na decoração é uma casa-contâiner.(n)</desc>
+    <credits>
+      <director>Sharalynn Cornwall</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821191400 -0300" stop="20210821193900 -0300" channel="HGTV HD">
+    <title lang="pt">Casa Contêiner</title>
+    <desc lang="pt">Em Mineral Point, Wisconsin, Andy E Jackie Spoor sonham em ter uma casa que seja uma fusão entre os estilos rústico e contemporâneo. A saída para não gastar uma fortuna na decoração é uma casa-contâiner.(n)</desc>
+    <credits>
+      <director>Sharalynn Cornwall</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821193900 -0300" stop="20210821200200 -0300" channel="HGTV HD">
+    <title lang="pt">Reforma Relâmpago</title>
+    <title lang="en">Room Crashers</title>
+    <desc lang="pt">Uma sala é dividida em dois espaços rústicos e coloridos para uma mulher e sua filha.(n)</desc>
+    <credits>
+      <actor>Todd Davis</actor>
+      <actor>Lea Gulino</actor>
+      <actor>Facundo Reyes</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821200200 -0300" stop="20210821202600 -0300" channel="HGTV HD">
+    <title lang="pt">Reforma Relâmpago</title>
+    <title lang="en">Room Crashers</title>
+    <desc lang="pt">Uma garagem é transformada em um ambiente moderno e aconchegante, com uma porta de vidro e uma cama retrátil personalizada.(n)</desc>
+    <credits>
+      <actor>Todd Davis</actor>
+      <actor>Lea Gulino</actor>
+      <actor>Facundo Reyes</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821202600 -0300" stop="20210821204700 -0300" channel="HGTV HD">
+    <title lang="pt">Tendas Modernas</title>
+    <title lang="en">Love Yurts</title>
+    <desc lang="pt">Um jovem casal dá asas à imaginação no projeto de seu yurt modular.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821204700 -0300" stop="20210821210800 -0300" channel="HGTV HD">
+    <title lang="pt">Tendas Modernas</title>
+    <title lang="en">Love Yurts</title>
+    <desc lang="pt">Jenny e Nathan correm contra o tempo e enfrentam a fúria dos elementos para concluir um yurt dentro do prazo.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821210800 -0300" stop="20210821213100 -0300" channel="HGTV HD">
+    <title lang="pt">Desafio da Renovação</title>
+    <title lang="en">Flea Market Flip</title>
+    <desc lang="pt">Duas irmãs estilistas competem contra uma dupla experiente para concluir três projetos originais no Grand Bazaar em Nova York. Os temas incluem a simplicidade zen e uma sala de jantar pouco convencional.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S8 E11</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821213100 -0300" stop="20210821215500 -0300" channel="HGTV HD">
+    <title lang="pt">Desafio da Renovação</title>
+    <title lang="en">Flea Market Flip</title>
+    <desc lang="pt">Para faturar alto no Grand Bazaar, em Nova York, as competidoras renovam emblemas de troféus e armários de remédios enferrujados.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S8 E14</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821215500 -0300" stop="20210821221800 -0300" channel="HGTV HD">
+    <title lang="pt">Desafio da Renovação</title>
+    <title lang="en">Flea Market Flip</title>
+    <desc lang="pt">Um casal criativo enfrenta uma dupla de namorados que fez a lição de casa sobre renovação. As equipes começam na feira Brimfield Antique Show, em Massachusetts.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S8 E13</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821221800 -0300" stop="20210821224200 -0300" channel="HGTV HD">
+    <title lang="pt">Desafio da Renovação</title>
+    <title lang="en">Flea Market Flip</title>
+    <desc lang="pt">Os namorados Marco e Ali enfrentam uma dupla com experiência no ramo, Cara e Mike. Cara exerce sua paixão por peles falsas na oficina.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S8 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821224200 -0300" stop="20210821230500 -0300" channel="HGTV HD">
+    <title lang="pt">Desafio da Renovação</title>
+    <title lang="en">Flea Market Flip</title>
+    <desc lang="pt">Com um orçamento de 500 dólares, eles têm apenas uma hora para encontrar os três projetos da lista em uma feira de antiguidades.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S8 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821230500 -0300" stop="20210821232900 -0300" channel="HGTV HD">
+    <title lang="pt">Desafio da Renovação</title>
+    <title lang="en">Flea Market Flip</title>
+    <desc lang="pt">Candy e Courtney competem contra os músicos Joe e Bob para ver quais projetos combinam mais com seus compradores.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S8 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821232900 -0300" stop="20210821235500 -0300" channel="HGTV HD">
+    <title lang="pt">Reformas Incríveis</title>
+    <title lang="en">Elbow Room</title>
+    <desc lang="pt">Loren Soloman e Seth Einstein dividem, a contragosto, um escritório em casa. Ela trabalha em casa durante o dia, enquanto ele estuda à noite. O problema é que o cômodo está abarrotado de objetos, roupas e móveis aleatórios.(n)</desc>
+    <credits>
+      <director>Courtney White</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821235500 -0300" stop="20210822001800 -0300" channel="HGTV HD">
+    <title lang="pt">Reforma Relâmpago</title>
+    <title lang="en">Bath Crashers</title>
+    <desc lang="pt">Um banheiro amplo permite uma reforma radical, transformando o espaço em um espetáculo para os olhos.(n)</desc>
+    <credits>
+      <director>Sarah Kuban</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S9 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
 </tv>
