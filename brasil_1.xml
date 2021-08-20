@@ -191,6 +191,7 @@
   </channel>
   <channel id="E! HD">
     <display-name lang="pt">E! HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="ESPN 2 HD">
