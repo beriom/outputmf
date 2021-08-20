@@ -145,10 +145,12 @@
   </channel>
   <channel id="Discovery Turbo HD">
     <display-name lang="pt">Discovery Turbo HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/discoveryturbo.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Disney Channel HD">
     <display-name lang="pt">Disney Channel HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/disneyhd.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Disney Junior HD">
@@ -5506,6 +5508,408 @@
     <episode-num system="onscreen">S3 E3</episode-num>
     <rating system="BR">
       <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820162400 -0300" stop="20210820171800 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Invasão de Garagens</title>
+    <desc lang="pt">Um Daytona 1969 recupera seu charme.(n)</desc>
+    <credits>
+      <director>Ted Lega</director>
+      <actor>Ron Gregurich</actor>
+      <actor>Cy Kellogg</actor>
+      <actor>Jeff King</actor>
+      <actor>Bruno Massel</actor>
+      <actor>Zoe Zolper</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820171800 -0300" stop="20210820180900 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Battlebots</title>
+    <desc lang="pt">As lendas das batalhas de robôs, Hypershock e Biteforce, travam um confronto épico, enquanto estrelas em ascensão tentam provar que são dignos de vencer o campeonato mundial.(n)</desc>
+    <credits>
+      <director>Mark Polonia</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Ciência</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_battlebots01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820180900 -0300" stop="20210820183600 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Tunadas</title>
+    <desc lang="pt">Suzane treina com o supercampeão Jean Azevedo para correr na Copa Adrenalina Cross Country em Guarulhos-SP.(n)</desc>
+    <credits>
+      <director>Carla Maria Albuquerque de Sá</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820183600 -0300" stop="20210820190300 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Tunadas</title>
+    <desc lang="pt">Com um Audi, Suzane tenta ser o melhor tempo do Track Day na Fazenda Capuava em Indaiatuba-SP.(n)</desc>
+    <credits>
+      <director>Carla Maria Albuquerque de Sá</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820190300 -0300" stop="20210820195500 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Carros Irados</title>
+    <desc lang="pt">A funilaria do Coronet 1967 é concluída e a equipe da Kindig It Design agora se concentra na pintura. Vinnie se dedica ao máximo para concluir o projeto e Dave desenha uma de suas criações mais inovadoras.(n)</desc>
+    <credits>
+      <director>Nick Meagher</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/carrosirados01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E14</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820195500 -0300" stop="20210820204700 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Os Reis da Sucata</title>
+    <desc lang="pt">As pessoas que olham para o ferro-velho de Andy só veem lixo, mas ele vê oportunidades. Com o terreno abarrotado, Andy tenta encontrar novas formas de mover as peças para tentar aumentar os lucros.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Competição</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_osreisdasucata01.jpg" />
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820204700 -0300" stop="20210820214000 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Overhaulin'</title>
+    <desc lang="pt">Um grupo de fabricantes de carros por encomenda trabalha em velocidade máxima com orçamento limitado e transforma um carro velho numa máquina poderosa sem que o dono perceba.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/overhaulin2012picapechevy195401.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820214000 -0300" stop="20210820223200 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Joias Sobre Rodas</title>
+    <desc lang="pt">Mike sempre quis reformar um Caterham em sua oficina, mas nunca conseguiu encontrar um em bom estado a um preço acessível. Dessa vez, ele compra um modelo direto da fábrica.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/jewelsonwheelsgolf01.jpg" />
+    <episode-num system="onscreen">S12 E13</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820223200 -0300" stop="20210820232700 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Corridas de Arrancada</title>
+    <desc lang="pt">Depois de um péssimo começo de temporada e uma batida que quase explodiu um dos carros da equipe, o 256 se une para ajudar Britt a reconstruir o Bull, enquanto um novo time ameaça tomar o título de "carros mais velozes".(n)</desc>
+    <credits>
+      <director>Sam Wackerle</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820232700 -0300" stop="20210821001900 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Caçador de Autopeças</title>
+    <desc lang="pt">Uma coletânea do melhores momentos da série. Quais foram os carros que mais chamaram a atenção de Paul Cowland e Dave Southall?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820162500 -0300" stop="20210820170000 -0300" channel="Disney Channel HD">
+    <title lang="pt">Gabby Duran - Babá de Aliens</title>
+    <desc lang="pt">Uma garota finalmente encontra seu momento de brilhar quando consegue um emprego para cuidar de um grupo indisciplinado de crianças extraterrestres muito importantes que estão se escondendo na Terra com suas famílias, disfarçadas de crianças comuns.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820170000 -0300" stop="20210820173000 -0300" channel="Disney Channel HD">
+    <title lang="pt">Juacas</title>
+    <desc lang="pt">Todo ano, no auge das férias, acontece o CAOSS, que atrai milhares de turistas, surfistas e centenas de jovens em busca de um sonho: se tornarem surfistas profissionais.(n)</desc>
+    <credits>
+      <director>Juliana Vonlanten</director>
+      <director>Daniel Caselli</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/juacas01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E37</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820173000 -0300" stop="20210820174200 -0300" channel="Disney Channel HD">
+    <title lang="pt">Amphibia</title>
+    <desc lang="pt">A ordinária Anne Boonchuy, de 13 anos, encontra uma arca do tesouro que a envia para Amphibia, um mundo cheio de rãs, sapos e insetos gigantes.(n)</desc>
+    <credits>
+      <director>Derek Kirk Kim</director>
+      <actor>Brenda Song</actor>
+      <actor>Justin Felbinger</actor>
+      <actor>Bill Farmer</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E22</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820174200 -0300" stop="20210820180000 -0300" channel="Disney Channel HD">
+    <title lang="pt">Os Vizinhos Green</title>
+    <desc lang="pt">A série conta a vida aventureira de um menino do campo que se muda com sua família da fazenda para uma metrópole moderna.(n)</desc>
+    <credits>
+      <actor>Vozes de Chris Houghton</actor>
+      <actor>Artemis Pebdani</actor>
+      <actor>Marieve Herington</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_osvizinhosgreen01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820182700 -0300" channel="Disney Channel HD">
+    <title lang="pt">Me Encontra em Paris</title>
+    <desc lang="pt">Uma jovem bailarina de 1905 é transportada para o século XXI com o poder de um colar mágico. Enquanto seu namorado procura uma maneira de trazê-la de volta, ela deve encontrar uma maneira de se encaixar e evitar os agentes do tempo sinistros.(n)</desc>
+    <credits>
+      <actor>Rik Young</actor>
+      <actor>Jessica Lord</actor>
+      <actor>Eubha Akilade</actor>
+      <actor>Hannah Dodd</actor>
+      <actor>Rory J. Saper</actor>
+      <actor>Christy O'Donnell</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">S3 E72</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820182700 -0300" stop="20210820190000 -0300" channel="Disney Channel HD">
+    <title lang="pt">Holly Hobbie</title>
+    <desc lang="pt">Holly Hobbie viveu toda a sua vida na pequena cidade de Collinsville. Holly é uma cantora e compositora de 13 anos que tem seus melhores amigos e uma família unida ao seu lado, mas ela sonha em maneiras de salvar o mundo.(n)</desc>
+    <credits>
+      <director>Mitchell Ness</director>
+      <director>Megan Follows</director>
+      <director>Mars Horodyski</director>
+      <actor>Ruby Jay</actor>
+      <actor>Saara Chaudry</actor>
+      <actor>Kamaia Fairburn</actor>
+      <actor>Charles Vandervaart</actor>
+      <actor>Kate Moyer</actor>
+      <actor>Hunter Dillon</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820192900 -0300" channel="Disney Channel HD">
+    <title lang="pt">Star vs. as Forças do Mal</title>
+    <desc lang="pt">Depois de enfrentar uma série de monstros perigosos, Star Butterfly chega à Terra para viver com a família Diaz. No entanto, em vez de viver uma vida normal, Star continua a batalhar contra vilões tanto em todo o universo.(n)</desc>
+    <credits>
+      <director>Dave Wasson</director>
+      <actor>Vozes de Eden Sher</actor>
+      <actor>Adam McArthur</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Jeff Bennett</actor>
+      <actor>Alan Tudyk</actor>
+      <actor>Daron Nefcy</actor>
+      <actor>Nate Torrence</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/starforcasmal01.jpg" />
+    <episode-num system="onscreen">S4 E57</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820192900 -0300" stop="20210820195500 -0300" channel="Disney Channel HD">
+    <title lang="pt">As Visões da Raven</title>
+    <desc lang="pt">Uma adolescente que tem a estranha capacidade de prever o futuro próximo e de arrumar confusões ao tentar fazer com que essas visões aconteçam.(n)</desc>
+    <credits>
+      <director>Richard Correll</director>
+      <director>Sean McNamara</director>
+      <actor>Raven-Symoné</actor>
+      <actor>Orlando Brown</actor>
+      <actor>T'Keyah Criystal Keymáh</actor>
+      <actor>Ernie Sabella</actor>
+      <actor>Rondell Sheridan</actor>
+      <actor>Kyle Massey</actor>
+      <actor>Anneliese van der Pol</actor>
+      <actor>Ashley Drane</actor>
+      <actor>Johari Johnson</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/visoesdaraven01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820195500 -0300" stop="20210820202100 -0300" channel="Disney Channel HD">
+    <title lang="pt">A Casa da Raven</title>
+    <desc lang="pt">Raven e Chelsea vivem com seus filhos na mesma casa. Raven vê o futuro e seu filho descobre que tem a mesma habilidade. Juntos resolvem qualquer situação como uma grande família feliz.(n)</desc>
+    <credits>
+      <actor>Raven-Symoné</actor>
+      <actor>Issac Ryan Brown</actor>
+      <actor>Navia Ziraili Robinson</actor>
+      <actor>Anneliese van der Pol</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_acasadaraven01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E63</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820202100 -0300" stop="20210820204800 -0300" channel="Disney Channel HD">
+    <title lang="pt">Andi Mack</title>
+    <desc lang="pt">Andi Mack é uma história contemporânea sobre uma garota que está tentando determinar as muitas maneiras incríveis de poder viver sua vida.(n)</desc>
+    <credits>
+      <actor>Peyton Elizabeth Lee</actor>
+      <actor>Joshua Rush</actor>
+      <actor>Sofia Wylie</actor>
+      <actor>Asher Angel</actor>
+      <actor>Emily Skinner</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_andimack01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E23</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820204800 -0300" stop="20210820210000 -0300" channel="Disney Channel HD">
+    <title lang="pt">Star vs. as Forças do Mal</title>
+    <desc lang="pt">Depois de enfrentar uma série de monstros perigosos, Star Butterfly chega à Terra para viver com a família Diaz. No entanto, em vez de viver uma vida normal, Star continua a batalhar contra vilões tanto em todo o universo.(n)</desc>
+    <credits>
+      <director>Dave Wasson</director>
+      <actor>Vozes de Eden Sher</actor>
+      <actor>Adam McArthur</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Jeff Bennett</actor>
+      <actor>Alan Tudyk</actor>
+      <actor>Daron Nefcy</actor>
+      <actor>Nate Torrence</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/starforcasmal01.jpg" />
+    <episode-num system="onscreen">S2 E33</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820210000 -0300" stop="20210820224100 -0300" channel="Disney Channel HD">
+    <title lang="pt">Zombies</title>
+    <desc lang="pt">Um zumbi e uma líder de torcida trabalham juntos para mostrar à cidade o que podem alcançar quando todos abraçam suas diferenças e celebram o que pode ser feito para a comunidade.(n)</desc>
+    <credits>
+      <director>Paul Hoen</director>
+      <actor>Milo Manheim</actor>
+      <actor>Meg Donnelly</actor>
+      <actor>Trevor Tordjman</actor>
+      <actor>Kylee Russell</actor>
+      <actor>Carla Zeffery</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Musical</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820224100 -0300" stop="20210821002600 -0300" channel="Disney Channel HD">
+    <title lang="pt">Goosebumps: Monstros e Arrepios</title>
+    <desc lang="pt">O jovem Zach se muda de Nova York para uma cidade pequena. Depois de escutar gritos vindo da propriedade ao lado, Zach invade a residência com a ajuda do colega e acaba, acidentalmente, abrindo um livro.(n)</desc>
+    <credits>
+      <director>Rob Letterman</director>
+      <actor>Jack Black</actor>
+      <actor>Dylan Minnette</actor>
+      <actor>Odeya Rush</actor>
+      <actor>Ryan Lee</actor>
+      <actor>Amy Ryan</actor>
+      <actor>Jillian Bell</actor>
+      <actor>Steven Krueger</actor>
+      <actor>Keith Arthur Bolden</actor>
+      <actor>Amanda Lund</actor>
+      <actor>Timothy Simons</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_goosebumps01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Austrália</country>
+    <rating system="BR">
+      <value>10</value>
     </rating>
   </programme>
 </tv>
