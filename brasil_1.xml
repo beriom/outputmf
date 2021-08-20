@@ -291,6 +291,7 @@
   </channel>
   <channel id="HBO Plus HD">
     <display-name lang="pt">HBO Plus HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/hboplus.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="HBO Pop HD">
@@ -39199,6 +39200,420 @@
     <country lang="pt">EUA</country>
     <rating system="BR">
       <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820143500 -0300" stop="20210820151000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Last Week Tonight With John Oliver</title>
+    <desc lang="pt">Em apenas 30 minutos, o comediante John Oliver cobre as notícias, política e eventos atuais da semana.(n)</desc>
+    <credits>
+      <director>Paul Pennolino</director>
+      <director>Christopher Werner</director>
+      <actor>John Oliver</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/lastweektonightwithjohnoliver01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S8 E21</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820151000 -0300" stop="20210820164500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Resident Evil 3: A Extinção</title>
+    <desc lang="pt">O vírus experimental infectou a população, que se transformou em zumbi. Os poucos sobreviventes seguem em comboio rumo ao Alasca, onde acreditam que estarão a salvo.(n)</desc>
+    <credits>
+      <director>Russell Mulcahy</director>
+      <actor>Milla Jovovich</actor>
+      <actor>Oded Fehr</actor>
+      <actor>Ali Larter</actor>
+      <actor>Mike Epps</actor>
+      <actor>Spencer Locke</actor>
+      <actor>Christopher Egan</actor>
+      <actor>Matthew Marsden</actor>
+      <actor>Jason O'Mara</actor>
+      <actor>John Eric Bentley</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_residenteil301.jpg" />
+    <country lang="pt">França</country>
+    <country lang="pt">Austrália</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820164500 -0300" stop="20210820183500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Anjos da Noite - A Evolução</title>
+    <desc lang="pt">Uma cruel guerra está em curso entre vampiros e lobisomens. Quando Selene, uma guerreira vampira, e Michael, o híbrido, desvendam os segredos de suas linhagens, Selene descobre que foi traída.(n)</desc>
+    <credits>
+      <director>Len Wiseman</director>
+      <actor>Kate Beckinsale</actor>
+      <actor>Scott Speedman</actor>
+      <actor>Tony Curran</actor>
+      <actor>Derek Jacobi</actor>
+      <actor>Bill Nighy</actor>
+      <actor>Steven Mackintosh</actor>
+      <actor>Zita Görög</actor>
+      <actor>Shane Brolly</actor>
+      <actor>Michael Sheen</actor>
+      <actor>Sophia Myles</actor>
+      <actor>Richard Cetrone</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filmes/anjosanoiteevolucao01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820183500 -0300" stop="20210820200500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Superman: O Homem do Amanhã</title>
+    <desc lang="pt">É o início de uma nova era de heróis, e Metrópolis acaba de conhecer o primeiro. Siga Clark Kent em seus primeiros passos como Superman.(n)</desc>
+    <credits>
+      <director>Chris Palmer</director>
+      <actor>Vozes de Darren Criss</actor>
+      <actor>Zachary Quinto</actor>
+      <actor>Alexandra Daddario</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820200500 -0300" stop="20210820220000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Promare</title>
+    <desc lang="pt">O mundo está prestes a ser consumido em chamas nesta incendiária aventura sobre rivais que se unem para salvar o que sobrou do mundo.(n)</desc>
+    <credits>
+      <director>Hiroyuki Imaishi</director>
+      <actor>Billy Kametz</actor>
+      <actor>Yuri Lowenthal</actor>
+      <actor>Johnny Yong Bosch</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ficção</category>
+    <country lang="pt">Taiwan</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210821001500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Os Instrumentos Mortais: Cidade dos Ossos</title>
+    <desc lang="pt">Baseado no romance de Cassandra Clare, o filme narra a guerra entre os demônios e os caçadores de sombras, um grupo de seres metade anjo e metade humano que procuram proteger toda a humanidade.(n)</desc>
+    <credits>
+      <director>Harald Zwart</director>
+      <actor>Lily Collins</actor>
+      <actor>Kevin Zegers</actor>
+      <actor>Jamie Campbell Bower</actor>
+      <actor>Jemima West</actor>
+      <actor>Robert Sheehan</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_osinstrumentosmortaiscidadedosossos01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Alemanha</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821001500 -0300" stop="20210821024500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Harry Potter e as Relíquias da Morte: Parte 1</title>
+    <desc lang="pt">Voldemort está ficando mais poderoso. Ele agora controla o Ministério da Magia e Hogwarts. Harry, Ron e Hermione decidem terminar o trabalho de Dumbledore e encontrar as outras Horcruxes para poderem derrotar o Lorde das Trevas.(n)</desc>
+    <credits>
+      <director>David Yates</director>
+      <actor>Alan Rickman</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Julie Walters</actor>
+      <actor>Emma Watson</actor>
+      <actor>Bill Nighy</actor>
+      <actor>Helena Bonham Carter</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filmes/harrypotterreliquias01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Grã-Bretanha</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821024500 -0300" stop="20210821042500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Atirador: O Fim de um Assassino</title>
+    <desc lang="pt">Uma conspiração força Brandon e Thomas Beckett a confrontar mercenários russos e um franco-atirador tão habilidoso quanto eles mesmos.(n)</desc>
+    <credits>
+      <director>Kaare Andrews</director>
+      <actor>Chad Michael Collins</actor>
+      <actor>Sayaka Akimoto</actor>
+      <actor>Tom Berenger</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821042500 -0300" stop="20210821060000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Contrabando Brilhante</title>
+    <desc lang="pt">Uma mãe solteira luta pela liberdade de sua filha adolescente, presa por agentes federais por estar envolvida em uma operação ilegal de contrabando de diamantes.(n)</desc>
+    <credits>
+      <director>Doug Campbell</director>
+      <actor>Darlene Vogel</actor>
+      <actor>Monroe Cline</actor>
+      <actor>Shelby Yardley</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821073500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Identidade</title>
+    <desc lang="pt">Em meio a uma tormenta, dez estranhos se refugiam num lúgubre hotel. Não demora muito, misteriosos assassinatos começam a acontecer.(n)</desc>
+    <credits>
+      <director>James Mangold</director>
+      <actor>John Cusack</actor>
+      <actor>Ray Liotta</actor>
+      <actor>Amanda Peet</actor>
+      <actor>John Hawkes</actor>
+      <actor>Alfred Molina</actor>
+      <actor>Clea DuVall</actor>
+      <actor>John C. McGinley</actor>
+      <actor>William Lee Scott</actor>
+      <actor>Jake Busey</actor>
+      <actor>Pruitt Taylor Vince</actor>
+      <actor>Rebbeca De Mornay</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_identidade01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821073500 -0300" stop="20210821092500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Conexão Perigosa</title>
+    <desc lang="pt">Adam é um jovem muito ambicioso. Após ser despedido da Wyatt Mobile, o dono lhe propõe voltar, mas para espionar a concorrência em troca de muito dinheiro. Adam se encontrará no meio de implacáveis magnatas e estará em risco a cada segundo.(n)</desc>
+    <credits>
+      <director>Robert Luketic</director>
+      <actor>Liam Hemsworth</actor>
+      <actor>Gary Oldman</actor>
+      <actor>Amber Heard</actor>
+      <actor>Harrison Ford</actor>
+      <actor>Lucas Till</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/filme_conexaoperigosa01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821092500 -0300" stop="20210821112000 -0300" channel="HBO Plus HD">
+    <title lang="pt">O Caminho de Volta</title>
+    <desc lang="pt">O vencedor do Oscar® Ben Affleck é Jack Cunningham, um homem que enfrenta seus demônios ao aceitar treinar um time escolar de basquete.(n)</desc>
+    <credits>
+      <director>Ben Affleck</director>
+      <director>Al Madrigal</director>
+      <director>Janina Gavankar</director>
+      <actor>Gavin O'Connor</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <country lang="pt">Canadá</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821112000 -0300" stop="20210821122500 -0300" channel="HBO Plus HD">
+    <title lang="pt">We're Here</title>
+    <desc lang="pt">As queens viajam para Branson, Missouri, uma comunidade que se orgulha de seus valores religiosos tradicionais.(n)</desc>
+    <credits>
+      <director>Peter LoGreco</director>
+      <actor>David Huggard</actor>
+      <actor>D.J. 'Shangela' Pierce</actor>
+      <actor>Caldwell Tidicue</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821122500 -0300" stop="20210821142000 -0300" channel="HBO Plus HD">
+    <title lang="pt">A Ilha da Fantasia</title>
+    <desc lang="pt">Lucy Hale e Michael Peña protagonizam esta assustadora aventura baseada na famosa série homônima dos anos 70 sobre uma ilha misteriosa.(n)</desc>
+    <credits>
+      <director>Jeff Wadlow</director>
+      <actor>Michael Peña</actor>
+      <actor>Maggie Q</actor>
+      <actor>Lucy Hale</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821142000 -0300" stop="20210821162500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Invasão do Mundo: Batalha de Los Angeles</title>
+    <desc lang="pt">Uma chuva de meteoros repentinamente atinge a Terra. Logo se descobre que eles na verdade são naves alienígenas, que desejam exterminar os seres humanos a qualquer custo. A cidade de Los Angeles é alvo de uma das principais batalhas.(n)</desc>
+    <credits>
+      <director>Jonathan Liebesman</director>
+      <actor>Michelle Rodriguez</actor>
+      <actor>Aaron Eckhart</actor>
+      <actor>Bridget Moynahan</actor>
+      <actor>Lucas Till</actor>
+      <actor>Jim Parrack</actor>
+      <actor>Michael Peña</actor>
+      <actor>Joey King</actor>
+      <actor>Taylor Handley</actor>
+      <actor>Ramon Rodriguez</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ficção</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filmes/filme_invasaodomundo01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821162500 -0300" stop="20210821181500 -0300" channel="HBO Plus HD">
+    <title lang="pt">My Hero Academia: O Filme - Ascensão dos Heróis</title>
+    <desc lang="pt">Os aprendizes de heróis Classe 1-A devem enfrentar um vilão com um dom estranhamente familiar para proteger uma pacífica ilha.(n)</desc>
+    <credits>
+      <director>Kenji Nagasaki</director>
+      <actor>Daiki Yamashita</actor>
+      <actor>Nobuhiko Okamoto</actor>
+      <actor>Yuka Terasaki</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Japão</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821181500 -0300" stop="20210821201500 -0300" channel="HBO Plus HD">
+    <title lang="pt">A Casa de Cera</title>
+    <desc lang="pt">O que deveria ser um divertido final de semana, se tornou uma terrível luta contra morte! Seis amigos decidem viajar, mas um estranho acidente deixa-os impossibilitados de seguir caminho.(n)</desc>
+    <credits>
+      <director>Jaume Collet-Serra</director>
+      <actor>Elisha Cuthbert</actor>
+      <actor>Chad Michael Murray</actor>
+      <actor>Brian Van Holt</actor>
+      <actor>Paris Hilton</actor>
+      <actor>Jared Padalecki</actor>
+      <actor>Jon Abrahams</actor>
+      <actor>Robert Ri'chard</actor>
+      <actor>Dragicia Debert</actor>
+      <actor>Thomas Adamson</actor>
+      <actor>Murray Smith</actor>
+      <actor>Sam Harkess</actor>
+      <actor>Damon Herriman</actor>
+      <actor>Andy Anderson</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_acasadecera01.jpg" />
+    <country lang="pt">Austrália</country>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821201500 -0300" stop="20210821220000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Annabelle</title>
+    <desc lang="pt">Após sua casa ter sido invadida por praticantes de um culto satânico, eventos sobrenaturais aterrorizantes envolvendo uma boneca começam a acontecer com um casal.(n)</desc>
+    <credits>
+      <director>John R. Leonetti</director>
+      <actor>Annabelle Wallis</actor>
+      <actor>Ward Horton</actor>
+      <actor>Tony Amendola</actor>
+      <actor>Alfre Woodard</actor>
+      <actor>Kerry O'Malley</actor>
+      <actor>Brian Howe</actor>
+      <actor>Eric Ladin</actor>
+      <actor>Ivar Brogger</actor>
+      <actor>Geoff Wehner</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_anabelle01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821220000 -0300" stop="20210821234500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Zumbilândia: Atire Duas Vezes</title>
+    <desc lang="pt">As regras para sobreviver ao apocalipse zumbi foram atualizadas. Columbus, Tallahassee, Wichita e Little Rock devem enfrentar novos zumbis evoluídos e outros sobreviventes.(n)</desc>
+    <credits>
+      <director>Ruben Fleischer</director>
+      <actor>Abigail Breslin</actor>
+      <actor>Woody Harrelson</actor>
+      <actor>Emma Stone</actor>
+      <actor>Jesse Eisenberg</actor>
+      <actor>Luke Wilson</actor>
+      <actor>Zoey Deutch</actor>
+      <actor>Thomas Middleditch</actor>
+      <actor>Rosario Dawson</actor>
+      <actor>Avan Jogia</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821234500 -0300" stop="20210822014300 -0300" channel="HBO Plus HD">
+    <title lang="pt">A Ilha da Fantasia</title>
+    <desc lang="pt">Lucy Hale e Michael Peña protagonizam esta assustadora aventura baseada na famosa série homônima dos anos 70 sobre uma ilha misteriosa.(n)</desc>
+    <credits>
+      <director>Jeff Wadlow</director>
+      <actor>Michael Peña</actor>
+      <actor>Maggie Q</actor>
+      <actor>Lucy Hale</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
     </rating>
   </programme>
 </tv>
