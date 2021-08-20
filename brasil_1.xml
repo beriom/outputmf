@@ -441,6 +441,7 @@
   </channel>
   <channel id="Nick Jr. HD">
     <display-name lang="pt">Nick Jr. HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Nickelodeon HD">
