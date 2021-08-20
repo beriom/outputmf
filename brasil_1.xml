@@ -2,7 +2,6 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="A&amp;E HD">
     <display-name lang="pt">A&amp;E HD</display-name>
-    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="AMC HD">
@@ -545,4 +544,1225 @@
     <display-name lang="pt">ZooMoo HD</display-name>
     <url>http://www.tvmagazine.com.br</url>
   </channel>
+  <programme start="20210820093600 -0300" stop="20210820103200 -0300" channel="A&amp;E HD">
+    <title lang="pt">Without a Trace</title>
+    <title lang="en">Without a Trace: Little Big Man</title>
+    <desc lang="pt">Jack e sua equipe vão atrás da pista de William Hope, um adolescente considerado um bom rapaz, que morava com uma família substituta depois de ter passado 18 meses na rua.(n)</desc>
+    <credits>
+      <director>Paul Holahan</director>
+      <actor>Anthony Lapaglia</actor>
+      <actor>Poppy Montgomery</actor>
+      <actor>Enrique Murciano</actor>
+      <actor>Eric Close</actor>
+      <actor>Marianne Jean-Baptiste</actor>
+      <actor>Marcus Andrews</actor>
+      <actor>John Lafayette</actor>
+      <actor>Kim Rhodes</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/desaparecidos01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820103200 -0300" stop="20210820112800 -0300" channel="A&amp;E HD">
+    <title lang="pt">Reencarnação</title>
+    <title lang="en">The Ghost Inside My Child</title>
+    <desc lang="pt">Aos 2 anos, Shane era obcecado por armas e lembrava de ter sido um soldado adolescente que foi assassinado. Taylor lembra de uma vida passada na pele de um homem que foi morto antes de enviar uma carta importante.(n)</desc>
+    <credits>
+      <actor>Tyler McMichael</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E11</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820112800 -0300" stop="20210820122400 -0300" channel="A&amp;E HD">
+    <title lang="pt">Reencarnação</title>
+    <title lang="en">The Ghost Inside My Child</title>
+    <desc lang="pt">Kimberly brincava constantemente com a sua irmã invisível, a Sarah. O que a sua mãe fez quando ela contou que Sarah a havia matado jogando-a em direção ao fogo?(n)</desc>
+    <credits>
+      <actor>Tyler McMichael</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820122400 -0300" stop="20210820132000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">A equipe NCIS se dispõe a investigar o desaparecimento de uma pintura avaliada em 40 milhões de dólares depois de descobrir que em diversas salas de chat online corre o boato de que está sendo vendida no mercado negro.(n)</desc>
+    <credits>
+      <director>Dennis Smith</director>
+      <actor>Linda Hunt</actor>
+      <actor>Chris O'Donnell</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Barrett Foa</actor>
+      <actor>LL Cool J</actor>
+      <actor>Renée Felice Smith</actor>
+      <actor>Anny Rosario</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ncisla01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S11 E6</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820132000 -0300" stop="20210820134800 -0300" channel="A&amp;E HD">
+    <title lang="pt">Flagrantes Das Câmeras</title>
+    <title lang="en">Court Cam</title>
+    <desc lang="pt">Um réu possui uma arma improvável e paga o preço final; umjuiz persegue dois réus fugitivos; o sorriso de um assassino condenado no tribunal poderia colocá-lo na prisão pelo resto da vida.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820134800 -0300" stop="20210820141600 -0300" channel="A&amp;E HD">
+    <title lang="pt">Flagrantes Das Câmeras</title>
+    <title lang="en">Court Cam</title>
+    <desc lang="pt">Um suspeito de assassino corta a própria garganta no tribunal; um de boca sujao réu solta o juiz; uma jovem tenta salvar a vida do homem que está processando sua família.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820141600 -0300" stop="20210820144400 -0300" channel="A&amp;E HD">
+    <title lang="pt">Resgates Ao Vivo</title>
+    <title lang="en">Live Rescue</title>
+    <desc lang="pt">Em Nova Jersey, os oficiais devem encontrar o suspeito de ter atropelado e abandonado uma vítima. Em outra ocorrência, uma pessoa fica presa em uma ponte e os agentes do Arizona farão o possível para salvá-la.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Diversos</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820144400 -0300" stop="20210820151200 -0300" channel="A&amp;E HD">
+    <title lang="pt">Resgates Ao Vivo</title>
+    <title lang="en">Live Rescue</title>
+    <desc lang="pt">Agentes encontram um carro incendiado no Texas. Será que eles chegam a tempo de salvar o motorista? Oficiais respondem a um pedido de ajuda por conta de um tiroteio na Califórnia.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Diversos</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820151200 -0300" stop="20210820160800 -0300" channel="A&amp;E HD">
+    <title lang="pt">Máfia Gotti</title>
+    <title lang="en">Gotti</title>
+    <desc lang="pt">Anos depois, após se formar, em vez de seguir a carreira militar por insistência de seu pai, John Junior tira um ano de folga. É quando seus problemas começam e ele entra em uma briga de bar.(n)</desc>
+    <credits>
+      <director>Richard Stratton</director>
+      <actor>John Gotti Jr.</actor>
+      <actor>Jim Abbott</actor>
+      <actor>Ralph Bracco</actor>
+      <actor>Daniel Brausch</actor>
+      <actor>Angel Gotti</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820160800 -0300" stop="20210820170400 -0300" channel="A&amp;E HD">
+    <title lang="pt">Without a Trace</title>
+    <title lang="en">Without a Trace: Little Big Man</title>
+    <desc lang="pt">Jack e sua equipe vão atrás da pista de William Hope, um adolescente considerado um bom rapaz, que morava com uma família substituta depois de ter passado 18 meses na rua.(n)</desc>
+    <credits>
+      <director>Paul Holahan</director>
+      <actor>Anthony Lapaglia</actor>
+      <actor>Poppy Montgomery</actor>
+      <actor>Enrique Murciano</actor>
+      <actor>Eric Close</actor>
+      <actor>Marianne Jean-Baptiste</actor>
+      <actor>Marcus Andrews</actor>
+      <actor>John Lafayette</actor>
+      <actor>Kim Rhodes</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/desaparecidos01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820170400 -0300" stop="20210820180000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">Beale é sequestrado enquanto participava de uma missão clandestina que lhe foi atribuída por Hetty. Callen e Sam se dirigem então à cidade de São Francisco para tentar encontrar o seu paradeiro.(n)</desc>
+    <credits>
+      <director>Dennis Smith</director>
+      <actor>Linda Hunt</actor>
+      <actor>Chris O'Donnell</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Barrett Foa</actor>
+      <actor>LL Cool J</actor>
+      <actor>Renée Felice Smith</actor>
+      <actor>Anny Rosario</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ncisla01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S11 E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820183200 -0300" channel="A&amp;E HD">
+    <title lang="pt">Cinema em Transe</title>
+    <desc lang="pt">Este episódio mostra as expectativas finais da trajetória de um filme, quando precisa chegar às salas e as estratégias de marketing para se conseguir um bom público.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820183200 -0300" stop="20210820190400 -0300" channel="A&amp;E HD">
+    <title lang="pt">Cinema em Transe</title>
+    <desc lang="pt">Os bastidores e as expectativas dos diretores, elenco e profissionais, na competição de festivais de cinema. O episódio acompanha os bastidores do Festival de Cinema de Brasília, onde é grande a expectativa de bons personagens.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820190400 -0300" stop="20210820200100 -0300" channel="A&amp;E HD">
+    <title lang="pt">Without a Trace</title>
+    <title lang="en">Without a Trace: Little Big Man</title>
+    <desc lang="pt">Jack e sua equipe vão atrás da pista de William Hope, um adolescente considerado um bom rapaz, que morava com uma família substituta depois de ter passado 18 meses na rua.(n)</desc>
+    <credits>
+      <director>Paul Holahan</director>
+      <actor>Anthony Lapaglia</actor>
+      <actor>Poppy Montgomery</actor>
+      <actor>Enrique Murciano</actor>
+      <actor>Eric Close</actor>
+      <actor>Marianne Jean-Baptiste</actor>
+      <actor>Marcus Andrews</actor>
+      <actor>John Lafayette</actor>
+      <actor>Kim Rhodes</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/desaparecidos01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820200100 -0300" stop="20210820205600 -0300" channel="A&amp;E HD">
+    <title lang="pt">Cold Case</title>
+    <title lang="en">Cold Case: Iced</title>
+    <desc lang="pt">A equipe volta a investigar um caso de 1980, em que um jogador de hockey foi assassinado.(n)</desc>
+    <credits>
+      <director>Peter Medak</director>
+      <actor>Danny Pino</actor>
+      <actor>John Finn</actor>
+      <actor>Kathryn Morris</actor>
+      <actor>Jeremy Ratchford</actor>
+      <actor>Thom Barry</actor>
+      <actor>Tracie Thoms</actor>
+      <actor>Jonathan LaPaglia</actor>
+      <actor>Michelle Alexis</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/coldcase01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820205600 -0300" stop="20210820215300 -0300" channel="A&amp;E HD">
+    <title lang="pt">Cold Case</title>
+    <title lang="en">Cold Case: The Good Soldier</title>
+    <desc lang="pt">A equipe investiga o assassinato cometido em 2005 de um soldado suspeito de roubar joalherias quando seu antigo colega traz novas provas de sua inocência.(n)</desc>
+    <credits>
+      <director>Gwyneth Horder-Payton</director>
+      <actor>Danny Pino</actor>
+      <actor>John Finn</actor>
+      <actor>Kathryn Morris</actor>
+      <actor>Jeremy Ratchford</actor>
+      <actor>Thom Barry</actor>
+      <actor>Tracie Thoms</actor>
+      <actor>Raymond J. Barry</actor>
+      <actor>Fred Berry Jr.</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/coldcase01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E11</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820215300 -0300" stop="20210820223600 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">A fim de obter informações vitais para uma questão de segurança nacional, Kensi terá que enfrentar um sociopata obcecado por ela desde que ela o colocou na prisão há vários anos.(n)</desc>
+    <credits>
+      <director>Dennis Smith</director>
+      <actor>Linda Hunt</actor>
+      <actor>Chris O'Donnell</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Barrett Foa</actor>
+      <actor>LL Cool J</actor>
+      <actor>Renée Felice Smith</actor>
+      <actor>Anny Rosario</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ncisla01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S12 E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820223600 -0300" stop="20210821002400 -0300" channel="A&amp;E HD">
+    <title lang="pt">O Dragão Chinês</title>
+    <title lang="en">Fists of Fury</title>
+    <desc lang="pt">Cheng passa a trabalhar na fábrica de gelo em Bancoc cujo proprietário está envolvido com tráfico de drogas e prostituição. Cheng revela-se profundo conhecedor das artes marciais e derrota a quadrilha.(n)</desc>
+    <credits>
+      <director>Wei Lo</director>
+      <actor>Bruce Lee</actor>
+      <actor>Maria YI</actor>
+      <actor>James Tien</actor>
+      <actor>Nora Miao</actor>
+      <actor>Tony Liu</actor>
+      <actor>San Chin</actor>
+      <actor>Fu Ching Chen</actor>
+      <actor>Yin-Chieh Han</actor>
+      <actor>Riki Hashimoto</actor>
+      <actor>Jun Arimura</actor>
+      <actor>Chung-Hsin Huang</actor>
+      <actor>Wei Lo</actor>
+    </credits>
+    <date>1972</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">China</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821002400 -0300" stop="20210821012000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">A fim de obter informações vitais para uma questão de segurança nacional, Kensi terá que enfrentar um sociopata obcecado por ela desde que ela o colocou na prisão há vários anos.(n)</desc>
+    <credits>
+      <director>Dennis Smith</director>
+      <actor>Linda Hunt</actor>
+      <actor>Chris O'Donnell</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Barrett Foa</actor>
+      <actor>LL Cool J</actor>
+      <actor>Renée Felice Smith</actor>
+      <actor>Anny Rosario</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ncisla01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S12 E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821012000 -0300" stop="20210821021500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Os Melhores Cães Policiais</title>
+    <desc lang="pt">Com alguns dos cachorrinhos mais decorados de todos os tempos a colocar a pata no K9 Combine, pode ser uma noite recorde.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821021500 -0300" stop="20210821031000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">Beale é sequestrado enquanto participava de uma missão clandestina que lhe foi atribuída por Hetty. Callen e Sam se dirigem então à cidade de São Francisco para tentar encontrar o seu paradeiro.(n)</desc>
+    <credits>
+      <director>Dennis Smith</director>
+      <actor>Linda Hunt</actor>
+      <actor>Chris O'Donnell</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Barrett Foa</actor>
+      <actor>LL Cool J</actor>
+      <actor>Renée Felice Smith</actor>
+      <actor>Anny Rosario</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ncisla01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S11 E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821031000 -0300" stop="20210821040500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Reencarnação</title>
+    <title lang="en">The Ghost Inside My Child</title>
+    <desc lang="pt">O que você faria se sua filha se lembrasse de estar dentro do Empire State Building quando um avião colidisse com ele, ou se seu filho sofresse terrores noturnos com as lembranças do massacre dos nativos americanos?(n)</desc>
+    <credits>
+      <actor>Liam Nicosia</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821040500 -0300" stop="20210821050000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Reencarnação</title>
+    <title lang="en">The Ghost Inside My Child</title>
+    <desc lang="pt">Com apenas 5 anos de idade, Olivia descreve graficamente sua família pioneira vivendo com nativos americanos e sendo assassinada.(n)</desc>
+    <credits>
+      <actor>De'Marco Arrington</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821050000 -0300" stop="20210821053000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Resgates Ao Vivo</title>
+    <title lang="en">Live Rescue</title>
+    <desc lang="pt">Em Nova Jersey, os oficiais devem encontrar o suspeito de ter atropelado e abandonado uma vítima. Em outra ocorrência, uma pessoa fica presa em uma ponte e os agentes do Arizona farão o possível para salvá-la.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Diversos</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821053000 -0300" stop="20210821060000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Resgates Ao Vivo</title>
+    <title lang="en">Live Rescue</title>
+    <desc lang="pt">Agentes encontram um carro incendiado no Texas. Será que eles chegam a tempo de salvar o motorista? Oficiais respondem a um pedido de ajuda por conta de um tiroteio na Califórnia.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Diversos</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821065200 -0300" channel="A&amp;E HD">
+    <title lang="pt">Último Dia Em Liberdade</title>
+    <desc lang="pt">Ali quer aproveitar suas últimas 24 horas em liberdade para acertar contas com sua família e contar aos seus pais que não quer voltar à sua cidade quando for libertada.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <episode-num system="onscreen">S2 E11</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821065200 -0300" stop="20210821074700 -0300" channel="A&amp;E HD">
+    <title lang="pt">Máfia Gotti</title>
+    <title lang="en">Gotti</title>
+    <desc lang="pt">Anos depois, após se formar, em vez de seguir a carreira militar por insistência de seu pai, John Junior tira um ano de folga. É quando seus problemas começam e ele entra em uma briga de bar.(n)</desc>
+    <credits>
+      <director>Richard Stratton</director>
+      <actor>John Gotti Jr.</actor>
+      <actor>Jim Abbott</actor>
+      <actor>Ralph Bracco</actor>
+      <actor>Daniel Brausch</actor>
+      <actor>Angel Gotti</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821074700 -0300" stop="20210821084100 -0300" channel="A&amp;E HD">
+    <title lang="pt">Minha Vida C/ Síndrome De Down</title>
+    <desc lang="pt">Rachel, que nunca teve sorte no amor, se prepara para o primeiro encontro com alguém do grupo de teatro por quem está muito interessada.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821084100 -0300" stop="20210821093600 -0300" channel="A&amp;E HD">
+    <title lang="pt">Palavra de Assassino</title>
+    <title lang="en">The Killer Speaks</title>
+    <desc lang="pt">Duas semanas antes do Natal, Earl Forrest invadiu a casa de um amigo e atirou em duas pessoas a sangue frio. Ainda com sede de matar,Forrest atira em outras quatro pessoas.(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/palavradeassassinooretornoearlforrest01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821093600 -0300" stop="20210821103200 -0300" channel="A&amp;E HD">
+    <title lang="pt">Os Melhores Cães Policiais</title>
+    <desc lang="pt">Com alguns dos cachorrinhos mais decorados de todos os tempos a colocar a pata no K9 Combine, pode ser uma noite recorde.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821103200 -0300" stop="20210821112800 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">A fim de obter informações vitais para uma questão de segurança nacional, Kensi terá que enfrentar um sociopata obcecado por ela desde que ela o colocou na prisão há vários anos.(n)</desc>
+    <credits>
+      <director>Dennis Smith</director>
+      <actor>Linda Hunt</actor>
+      <actor>Chris O'Donnell</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Barrett Foa</actor>
+      <actor>LL Cool J</actor>
+      <actor>Renée Felice Smith</actor>
+      <actor>Anny Rosario</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ncisla01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S12 E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821112800 -0300" stop="20210821122400 -0300" channel="A&amp;E HD">
+    <title lang="pt">Quem Matou Tupac?</title>
+    <title lang="en">Who Killed Tupac?</title>
+    <desc lang="pt">O advogado dos direitos civis Benjamin Crump e sua equipe examinam a teoria de que o membro da gangue Orlando Anderson pode ter sido o responsável pelo assassinato de Tupac Shakur.(n)</desc>
+    <credits>
+      <director>Jason Sklaver</director>
+      <actor>Alex Alonso</actor>
+      <actor>Chuck D</actor>
+      <actor>Lolita Files</actor>
+      <actor>'Freeway' Ricky Ross</actor>
+      <actor>P. Frank Williams</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821122400 -0300" stop="20210821132000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Quem Matou Tupac?</title>
+    <title lang="en">Who Killed Tupac?</title>
+    <desc lang="pt">A equipe investiga a teoria de que uma rivalidade de rap da Costa Leste vs. Costa Oeste levou ao assassinato de Tupac Shakur, e que os artistas de rap Biggie e P. Diddy podem estar envolvidos.(n)</desc>
+    <credits>
+      <director>Jason Sklaver</director>
+      <actor>Big Boy</actor>
+      <actor>Kirk Burrowes</actor>
+      <actor>Chopmaster-J</actor>
+      <actor>Sean 'Diddy' Combs</actor>
+      <actor>Chuck D</actor>
+      <actor>Benjamin Crump</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821132000 -0300" stop="20210821141600 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">Beale é sequestrado enquanto participava de uma missão clandestina que lhe foi atribuída por Hetty. Callen e Sam se dirigem então à cidade de São Francisco para tentar encontrar o seu paradeiro.(n)</desc>
+    <credits>
+      <director>Dennis Smith</director>
+      <actor>Linda Hunt</actor>
+      <actor>Chris O'Donnell</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Barrett Foa</actor>
+      <actor>LL Cool J</actor>
+      <actor>Renée Felice Smith</actor>
+      <actor>Anny Rosario</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ncisla01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S11 E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821141600 -0300" stop="20210821151200 -0300" channel="A&amp;E HD">
+    <title lang="pt">Famosos Mal-assombrados</title>
+    <title lang="en">Celebrity Ghost Stories</title>
+    <desc lang="pt">Junto a Kim, o famoso ator Taye Diggs investiga um inesquecível encontro paranormal que viveu há alguns anos em Nova York. Lá eles vão descobrir algo significativo sobre essa noite que poderia responder a muitas de suas perguntas.(n)</desc>
+    <credits>
+      <director>Seth Jarrett</director>
+      <actor>Elizabeth Abate</actor>
+      <actor>Matthew Bretschneider</actor>
+      <actor>Christopher Calabrisotto</actor>
+      <actor>Federico Castelluccio</actor>
+      <actor>Adriana Farino</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821151200 -0300" stop="20210821160900 -0300" channel="A&amp;E HD">
+    <title lang="pt">Reencarnação</title>
+    <title lang="en">The Ghost Inside My Child</title>
+    <desc lang="pt">Desde tenra idade, Jamey tinha um medo paralisante da água e teria intensos terrores noturnos por afogamento. Ele ficou assustadoramente obcecado com o Titanic e seria consumido pela culpa pelas vidas perdidas naquela noite fria.(n)</desc>
+    <credits>
+      <actor>Liam Nicosia</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821160900 -0300" stop="20210821164100 -0300" channel="A&amp;E HD">
+    <title lang="pt">Resgates Em Ação</title>
+    <title lang="en">Rescue Cam</title>
+    <desc lang="pt">Dois aviões colidem no ar. Mais tarde, um homem inconsciente é salvo de afogamento em um riacho e um voluntário corre para assumir o volante quando um motorista sofre uma crise de convulsões.(n)</desc>
+    <credits>
+      <director>Matt Iseman</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821164100 -0300" stop="20210821171300 -0300" channel="A&amp;E HD">
+    <title lang="pt">Flagrantes Das Câmeras</title>
+    <title lang="en">Court Cam</title>
+    <desc lang="pt">Uma adolescente está disposta a processar seus pais. Ela chegará às vias de fato? Mais tarde, ouvimos o testemunho assustador de um fugitivo da prisão disposto a fazer qualquer coisa para escapar.(n)</desc>
+    <credits>
+      <actor>Dan Abrams</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E32</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821171300 -0300" stop="20210821181000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Palavra de Assassino</title>
+    <title lang="en">The Killer Speaks</title>
+    <desc lang="pt">Duas semanas antes do Natal, Earl Forrest invadiu a casa de um amigo e atirou em duas pessoas a sangue frio. Ainda com sede de matar,Forrest atira em outras quatro pessoas.(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/palavradeassassinooretornoearlforrest01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821181000 -0300" stop="20210821190700 -0300" channel="A&amp;E HD">
+    <title lang="pt">Palavra de Assassino</title>
+    <title lang="en">The Killer Speaks</title>
+    <desc lang="pt">Em 2011, MaksimGelman se envolveu em uma onda de ataques brutais em Nova York, que deixou quatro mortos e quatro feridos.(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/palavradeassassinooretornoearlforrest01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821190700 -0300" stop="20210821191200 -0300" channel="A&amp;E HD">
+    <title lang="pt">Listas</title>
+    <desc lang="pt">O programa "Listas" recomenda filmes e/ou séries e programas com um tema em comum, podendo variar desde temas abrangentes como "5 Comédias dos Anos 80", até assuntos inusitados.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821191200 -0300" stop="20210821205000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Michael Jackson e Neverland</title>
+    <title lang="en">Michael Jackson</title>
+    <desc lang="pt">O que aconteceu com Michael Jackson? Esta é a história dos últimos dias do Rei do Pop e dos problemas que o levaram à morte.(n)</desc>
+    <credits>
+      <director>Dianne Houston</director>
+      <actor>Navi</actor>
+      <actor>Chad L. Coleman</actor>
+      <actor>Sam Adegoke</actor>
+      <actor>Starletta DuPois</actor>
+      <actor>A. Russell Andrews</actor>
+      <actor>Isabella Hofmann</actor>
+      <actor>Ken Colquitt</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Biografia</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821205000 -0300" stop="20210821223000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Biography</title>
+    <desc lang="pt">Através de entrevistas exclusivas e material de arquivo, este documentário mostra a incrível carreira do homem que personificou o rock and roll durante décadas.(n)</desc>
+    <credits>
+      <actor>Ozzy Osbourne</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Biografia</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821223000 -0300" stop="20210822001000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Kisstory</title>
+    <desc lang="pt">O documentário sobre a banda mais reconhecida do mundo, o KISS. Ele narra as cinco décadas da banda no mundo da música, enquanto os fundadores Paul Stanley e Gene Simmons refletem sobre suas carreiras históricas.(n)</desc>
+    <credits>
+      <actor>Gene Simmons</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Biografia</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210822001000 -0300" stop="20210822010000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Without a Trace</title>
+    <title lang="en">Without a Trace: Little Big Man</title>
+    <desc lang="pt">Jack e sua equipe vão atrás da pista de William Hope, um adolescente considerado um bom rapaz, que morava com uma família substituta depois de ter passado 18 meses na rua.(n)</desc>
+    <credits>
+      <director>Paul Holahan</director>
+      <actor>Anthony Lapaglia</actor>
+      <actor>Poppy Montgomery</actor>
+      <actor>Enrique Murciano</actor>
+      <actor>Eric Close</actor>
+      <actor>Marianne Jean-Baptiste</actor>
+      <actor>Marcus Andrews</actor>
+      <actor>John Lafayette</actor>
+      <actor>Kim Rhodes</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/desaparecidos01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210822010000 -0300" stop="20210822015000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Último Dia Em Liberdade</title>
+    <desc lang="pt">Ali quer aproveitar suas últimas 24 horas em liberdade para acertar contas com sua família e contar aos seus pais que não quer voltar à sua cidade quando for libertada.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <episode-num system="onscreen">S2 E11</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210822015000 -0300" stop="20210822024000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Máfia Gotti</title>
+    <title lang="en">Gotti</title>
+    <desc lang="pt">Anos depois, após se formar, em vez de seguir a carreira militar por insistência de seu pai, John Junior tira um ano de folga. É quando seus problemas começam e ele entra em uma briga de bar.(n)</desc>
+    <credits>
+      <director>Richard Stratton</director>
+      <actor>John Gotti Jr.</actor>
+      <actor>Jim Abbott</actor>
+      <actor>Ralph Bracco</actor>
+      <actor>Daniel Brausch</actor>
+      <actor>Angel Gotti</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210822024000 -0300" stop="20210822033000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Minha Vida C/ Síndrome De Down</title>
+    <desc lang="pt">Rachel, que nunca teve sorte no amor, se prepara para o primeiro encontro com alguém do grupo de teatro por quem está muito interessada.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210822033000 -0300" stop="20210822042000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Palavra de Assassino</title>
+    <title lang="en">The Killer Speaks</title>
+    <desc lang="pt">Duas semanas antes do Natal, Earl Forrest invadiu a casa de um amigo e atirou em duas pessoas a sangue frio. Ainda com sede de matar,Forrest atira em outras quatro pessoas.(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/palavradeassassinooretornoearlforrest01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210822042000 -0300" stop="20210822051000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Os Melhores Cães Policiais</title>
+    <desc lang="pt">Com alguns dos cachorrinhos mais decorados de todos os tempos a colocar a pata no K9 Combine, pode ser uma noite recorde.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210822051000 -0300" stop="20210822060000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Quem Matou Tupac?</title>
+    <title lang="en">Who Killed Tupac?</title>
+    <desc lang="pt">O advogado dos direitos civis Benjamin Crump e sua equipe examinam a teoria de que o membro da gangue Orlando Anderson pode ter sido o responsável pelo assassinato de Tupac Shakur.(n)</desc>
+    <credits>
+      <director>Jason Sklaver</director>
+      <actor>Alex Alonso</actor>
+      <actor>Chuck D</actor>
+      <actor>Lolita Files</actor>
+      <actor>'Freeway' Ricky Ross</actor>
+      <actor>P. Frank Williams</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210822060000 -0300" stop="20210822065200 -0300" channel="A&amp;E HD">
+    <title lang="pt">Metrópole</title>
+    <desc lang="pt">Para as forças de segurança e resgate da Cidade do México, nenhum dia é o mesmo. A polícia entra na área de Tepito para interromper um ponto de vendas de drogas em uma operação impressionante.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210822065200 -0300" stop="20210822071900 -0300" channel="A&amp;E HD">
+    <title lang="pt">Flagrantes Das Câmeras</title>
+    <title lang="en">Court Cam</title>
+    <desc lang="pt">Uma olhada em alguns dos momentos mais loucos do tribunal: um réu pula sobre uma sacada de cabeça em uma tentativa de fuga que desafia a morte.(n)</desc>
+    <credits>
+      <actor>Dan Abrams</actor>
+      <actor>Patrick Nielson</actor>
+      <actor>Sharon Ray</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210822071900 -0300" stop="20210822074700 -0300" channel="A&amp;E HD">
+    <title lang="pt">Flagrantes Das Câmeras</title>
+    <title lang="en">Court Cam</title>
+    <desc lang="pt">Um pai de luto faz uma tentativa desesperada de atacar a filha do assassino; um juiz tira a túnica para ajudar a subjugar um réu indisciplinado; uma o réu tenta cantar seu caminho para uma sentença mais leve.(n)</desc>
+    <credits>
+      <actor>Dan Abrams</actor>
+      <actor>Belinda Minor</actor>
+      <actor>Darlene O'Brien</actor>
+      <actor>Van Terry</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210822074700 -0300" stop="20210822084100 -0300" channel="A&amp;E HD">
+    <title lang="pt">Famosos Mal-assombrados</title>
+    <title lang="en">Celebrity Ghost Stories</title>
+    <desc lang="pt">Junto a Kim, o famoso ator Taye Diggs investiga um inesquecível encontro paranormal que viveu há alguns anos em Nova York. Lá eles vão descobrir algo significativo sobre essa noite que poderia responder a muitas de suas perguntas.(n)</desc>
+    <credits>
+      <director>Seth Jarrett</director>
+      <actor>Elizabeth Abate</actor>
+      <actor>Matthew Bretschneider</actor>
+      <actor>Christopher Calabrisotto</actor>
+      <actor>Federico Castelluccio</actor>
+      <actor>Adriana Farino</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210822084100 -0300" stop="20210822093600 -0300" channel="A&amp;E HD">
+    <title lang="pt">Famosos Mal-assombrados</title>
+    <title lang="en">Celebrity Ghost Stories</title>
+    <desc lang="pt">A protagonista de "The Real Housewives of Atlanta", Nene Leakes, investiga com a ajuda de Kim eventos paranormais que ocorreram durante uma festa de casamento que ela participou.(n)</desc>
+    <credits>
+      <director>Seth Jarrett</director>
+      <actor>Elizabeth Abate</actor>
+      <actor>Carrie Fisher</actor>
+      <actor>Matthew Bretschneider</actor>
+      <actor>Christopher Calabrisotto</actor>
+      <actor>Federico Castelluccio</actor>
+      <actor>Monica Hammond</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210822093600 -0300" stop="20210822103300 -0300" channel="A&amp;E HD">
+    <title lang="pt">Quem Matou Tupac?</title>
+    <title lang="en">Who Killed Tupac?</title>
+    <desc lang="pt">O advogado dos direitos civis Benjamin Crump forma uma equipe para investigar o assassinato de Tupac Shakur em 1996, na esperança de levar o devido processo à família do artista de rap.(n)</desc>
+    <credits>
+      <director>Jason Sklaver</director>
+      <actor>Alex Alonso</actor>
+      <actor>Chuck D</actor>
+      <actor>Lolita Files</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210822103300 -0300" stop="20210822113000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Quem Matou Tupac?</title>
+    <title lang="en">Who Killed Tupac?</title>
+    <desc lang="pt">O advogado dos direitos civis Benjamin Crump e sua equipe examinam a teoria de que o membro da gangue Orlando Anderson pode ter sido o responsável pelo assassinato de Tupac Shakur.(n)</desc>
+    <credits>
+      <director>Jason Sklaver</director>
+      <actor>Alex Alonso</actor>
+      <actor>Chuck D</actor>
+      <actor>Lolita Files</actor>
+      <actor>'Freeway' Ricky Ross</actor>
+      <actor>P. Frank Williams</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210822113000 -0300" stop="20210822122700 -0300" channel="A&amp;E HD">
+    <title lang="pt">Palavra de Assassino</title>
+    <title lang="en">The Killer Speaks</title>
+    <desc lang="pt">Em 2011, MaksimGelman se envolveu em uma onda de ataques brutais em Nova York, que deixou quatro mortos e quatro feridos.(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/palavradeassassinooretornoearlforrest01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210822122700 -0300" stop="20210822132400 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <title lang="en">Hoarders</title>
+    <desc lang="pt">Conheça de forma direta e sem condescendência, o lado obscuro dos colecionistas e acumuladores compulsivos, e sua luta para vencer sua tola obsessão por guardar.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/obsessivoscompulsivosalanejulie01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S12 E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210822132400 -0300" stop="20210822142100 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <title lang="en">Hoarders</title>
+    <desc lang="pt">Conheça de forma direta e sem condescendência, o lado obscuro dos colecionistas e acumuladores compulsivos, e sua luta para vencer sua tola obsessão por guardar.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/obsessivoscompulsivosalanejulie01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S12 E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210822142100 -0300" stop="20210822160100 -0300" channel="A&amp;E HD">
+    <title lang="pt">Complô Contra Os Estados Unidos</title>
+    <title lang="en">The Plot Against America</title>
+    <desc lang="pt">Charles Lindbergh, o herói da aviação historicamente populista, derrota Franklin D. Roosevelt e se torna então presidente dos Estados Unidos.(n)</desc>
+    <credits>
+      <director>Minkie Spiro</director>
+      <director>Thomas Schlamme</director>
+      <actor>Winona Ryder</actor>
+      <actor>Anthony Boyle</actor>
+      <actor>Zoe Kazan</actor>
+      <actor>Ben Cole</actor>
+      <actor>Caroline Kaplan</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210822160100 -0300" stop="20210822165800 -0300" channel="A&amp;E HD">
+    <title lang="pt">El Chapo</title>
+    <desc lang="pt">O governo mexicano decide oferecer uma recompensa em troca da captura de Joaquín "El Chapo" Guzmán.(n)</desc>
+    <credits>
+      <actor>Marco de la O</actor>
+      <actor>Humberto Busto</actor>
+      <actor>Alejandro Aguilar</actor>
+      <actor>Juan Carlos Olivas</actor>
+      <actor>Diego Vásquez</actor>
+      <actor>Joseph Fussey</actor>
+      <actor>Rolf Petersen</actor>
+      <actor>Carlos Hernan Romo</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">México</country>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210822165800 -0300" stop="20210822175500 -0300" channel="A&amp;E HD">
+    <title lang="pt">El Chapo</title>
+    <desc lang="pt">Don Sol disponibiliza informação importante a Gabriela que pode servir de ajuda durante a sua procura por uma vítima que poderia declarar contra o General Blanco.(n)</desc>
+    <credits>
+      <actor>Marco de la O</actor>
+      <actor>Humberto Busto</actor>
+      <actor>Alejandro Aguilar</actor>
+      <actor>Juan Carlos Olivas</actor>
+      <actor>Diego Vásquez</actor>
+      <actor>Joseph Fussey</actor>
+      <actor>Rolf Petersen</actor>
+      <actor>Carlos Hernan Romo</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">México</country>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210822175500 -0300" stop="20210822180000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Listas</title>
+    <desc lang="pt">O programa "Listas" recomenda filmes e/ou séries e programas com um tema em comum, podendo variar desde temas abrangentes como "5 Comédias dos Anos 80", até assuntos inusitados.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210822180000 -0300" stop="20210822185500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Metrópole</title>
+    <desc lang="pt">Para as forças de segurança e resgate da Cidade do México, nenhum dia é o mesmo. A polícia entra na área de Tepito para interromper um ponto de vendas de drogas em uma operação impressionante.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210822185500 -0300" stop="20210822190000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Listas</title>
+    <desc lang="pt">O programa "Listas" recomenda filmes e/ou séries e programas com um tema em comum, podendo variar desde temas abrangentes como "5 Comédias dos Anos 80", até assuntos inusitados.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210822190000 -0300" stop="20210822205000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Trainspotting - Sem Limites</title>
+    <title lang="en">Trainspotting</title>
+    <desc lang="pt">O intenso e perigoso mundo das drogas de Edimburgo, na Escócia, é visto pelo jovem viciado em heroína, Renton, que luta ao lado dos amigos para fazer algo diferente com sua vida.(n)</desc>
+    <credits>
+      <director>Danny Boyle</director>
+      <actor>Ewan McGregor</actor>
+      <actor>Ewen Bremner</actor>
+      <actor>Jonny Lee Miller</actor>
+      <actor>Kevin McKidd</actor>
+      <actor>Robert Carlyle</actor>
+      <actor>Kelly Macdonald</actor>
+      <actor>Peter Mullan</actor>
+      <actor>James Cosmo</actor>
+      <actor>Eileen Nicholas</actor>
+      <actor>Susan Vidler</actor>
+      <actor>Shirley Henderson</actor>
+    </credits>
+    <date>1996</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">Inglaterra</country>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210822205000 -0300" stop="20210822223000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Kisstory</title>
+    <desc lang="pt">O documentário sobre a banda mais reconhecida do mundo, o KISS. Ele narra as cinco décadas da banda no mundo da música, enquanto os fundadores Paul Stanley e Gene Simmons refletem sobre suas carreiras históricas.(n)</desc>
+    <credits>
+      <actor>Gene Simmons</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Biografia</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210822223000 -0300" stop="20210823001000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Kisstory</title>
+    <desc lang="pt">O documentário sobre a banda mais reconhecida do mundo, o KISS. Ele narra as cinco décadas da banda no mundo da música, enquanto os fundadores Paul Stanley e Gene Simmons refletem sobre suas carreiras históricas.(n)</desc>
+    <credits>
+      <actor>Gene Simmons</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Biografia</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
 </tv>
