@@ -281,6 +281,7 @@
   </channel>
   <channel id="Globo SP HD">
     <display-name lang="pt">Globo SP HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Gloob HD">
