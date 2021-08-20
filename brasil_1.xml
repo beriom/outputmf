@@ -22,10 +22,12 @@
   </channel>
   <channel id="AXN HD">
     <display-name lang="pt">AXN HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/axnhd.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Band News HD">
     <display-name lang="pt">Band News HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/bandnews.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Band Sports HD">
@@ -1205,6 +1207,392 @@
     <country lang="pt">França</country>
     <rating system="BR">
       <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820134500 -0300" stop="20210820144000 -0300" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">Quando a identidade do assassino Port-to-Port é finalmente revelada, a equipe NCIS inteira encontra-se em grave perigo.(n)</desc>
+    <credits>
+      <director>Dennis Smith</director>
+      <actor>Mark Harmon</actor>
+      <actor>Cote de Pablo</actor>
+      <actor>Michael Weatherly</actor>
+      <actor>Pauley Perrette</actor>
+      <actor>Sean Murray</actor>
+      <actor>Rocky Carroll</actor>
+      <actor>David McCallum</actor>
+      <actor>Brian Dietzen</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ncis01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S8 E24</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820144000 -0300" stop="20210820153500 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. NY</title>
+    <desc lang="pt">Marc precisa descobrir como capturar um assassino em um voo comercial.(n)</desc>
+    <credits>
+      <director>Matt Earl Beesley</director>
+      <actor>Gary Sinise</actor>
+      <actor>Hill Harper</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Carmine Giovinazzo</actor>
+      <actor>Eddie Cahill</actor>
+      <actor>Anna Belknap</actor>
+      <actor>Robert Joy</actor>
+      <actor>Ben Youcef</actor>
+      <actor>Luna Rocio Cantale</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/csinewyork01.jpg" />
+    <country lang="pt">Canadá</country>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820153500 -0300" stop="20210820163000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt">Catherine e Nick se envolvem com o perigoso mundo dos rachas quando um "piloto" é encontrado morto no deserto, numa pista de aviões abandonada.(n)</desc>
+    <credits>
+      <director>Danny Cannon</director>
+      <actor>William Petersen</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>Gary Dourdan</actor>
+      <actor>Eric Szmanda Robert David Hall</actor>
+      <actor>George Eads</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Paul Guilfoyle</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/csi01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820163000 -0300" stop="20210820172500 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <desc lang="pt">Uma família é o alvo de um ataque com granadas em um restaurante de elite, e os CSIs investigam se as vítimas eram mesmo o alvo dos criminosos.(n)</desc>
+    <credits>
+      <director>Sam Hill</director>
+      <actor>Evan EllingsonSprague Grayden</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/csimiami01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E23</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820172500 -0300" stop="20210820182000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <desc lang="pt">Uma ex-estrela do futebol colegial é assassinada em uma reunião, e os CSIs precisam encontrar o assassino. A vítima era um grande homem no campus durante o Colegial e haviam muitos convidados na reunião com motivos para odiá-lo.(n)</desc>
+    <credits>
+      <director>Norberto Barba</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Sofia Milos</actor>
+      <actor>Jonathan Togo</actor>
+      <actor>Rex Linn</actor>
+      <actor>Max Martini</actor>
+      <actor>Holt McCallany</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/csimiami01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E22</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820182000 -0300" stop="20210820191500 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <desc lang="pt">Um teorista da conspiração ajuda a equipe quando um artefato perdido se torna a chave para resolver um homicídio duplo.(n)</desc>
+    <credits>
+      <director>Duane Clark</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+      <actor>Grace Park</actor>
+      <actor>Masi Oka</actor>
+      <actor>Michelle Borth</actor>
+      <actor>Justin Bruening</actor>
+      <actor>Taylor Wily</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/hawaii5001.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820191500 -0300" stop="20210820201000 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <desc lang="pt">O Five-0 investiga o assassinato de um homem que entrava de penetra em casamentos, e seu principal suspeito é a noiva, que fugiu do altar.(n)</desc>
+    <credits>
+      <director>Bryan Spicer</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+      <actor>Grace Park</actor>
+      <actor>Michelle Borth</actor>
+      <actor>Rebecca De Mornay</actor>
+      <actor>Autumn Reeser</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/hawaii5001.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820201000 -0300" stop="20210820210500 -0300" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">Quando a identidade do assassino Port-to-Port é finalmente revelada, a equipe NCIS inteira encontra-se em grave perigo.(n)</desc>
+    <credits>
+      <director>Dennis Smith</director>
+      <actor>Mark Harmon</actor>
+      <actor>Cote de Pablo</actor>
+      <actor>Michael Weatherly</actor>
+      <actor>Pauley Perrette</actor>
+      <actor>Sean Murray</actor>
+      <actor>Rocky Carroll</actor>
+      <actor>David McCallum</actor>
+      <actor>Brian Dietzen</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ncis01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S8 E24</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820210500 -0300" stop="20210820220000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt">O corpo de uma mulher é encontrado na cabine de locução de um campo de futebol de uma escola, aparentemente vítima de estrangulamento.(n)</desc>
+    <credits>
+      <director>Kenneth Fink</director>
+      <actor>Gary Dourdan</actor>
+      <actor>George Eads</actor>
+      <actor>William Petersen</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Robert David Hall</actor>
+      <actor>Bob Gunton</actor>
+      <actor>Max Martini</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/csi01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">CANADÁ</country>
+    <episode-num system="onscreen">S3 E22</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820225500 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <desc lang="pt">Calleigh é jogado da Estrada para um canal e prejudica algumas evidências coletadas anteriormente. Agora a equipe precisa trabalhar para encontrar novas provas, já que a maioria delas foi prejudicada pela água.(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Jonathan Togo</actor>
+      <actor>Rex Linn</actor>
+      <actor>Eva La Rue</actor>
+      <actor>Johnny Whitworth</actor>
+      <actor>Chad Morgan</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/csimiami01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820225500 -0300" stop="20210820235000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt">Um homem acusado de assassinar a esposa e colegas de trabalho leva os CSIs à uma caçada dentro de um cassino movimentado. Os CSIs colhem as provas na cena do crime.(n)</desc>
+    <credits>
+      <director>Terrence O'Hara</director>
+      <actor>William Petersen</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>Gary Dourdan</actor>
+      <actor>George Eads</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Robert David Hall</actor>
+      <actor>Kelly Carlson</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/csi01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E23</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820235000 -0300" stop="20210821004500 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt">Os CSIs esperam ao lado da cama de um dos membros da equipe, depois que ele foi baleado em um tiroteio.(n)</desc>
+    <credits>
+      <director>Kenneth Fink</director>
+      <actor>William Petersen</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>Gary Dourdan</actor>
+      <actor>George Eads</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Paul Guilfoyle</actor>
+      <actor>Joseph Patrick Kelly</actor>
+      <actor>Patricia Heller</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/csi01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E24</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820140000 -0300" stop="20210820180000 -0300" channel="Band News HD">
+    <title lang="pt">Tarde Bandnews</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, você encontra no Tarde BandNews. Coberturas ao vivo e a participação de repórteres espalhados por todo o país e pelo exterior.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_tardebandnews01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820184500 -0300" channel="Band News HD">
+    <title lang="pt">Jornal BandNews</title>
+    <desc lang="pt">No fim da tarde, você fica bem informado sobre tudo o que aconteceu de importante e também as notícias do momento no Jornal BandNews: 2ª Edição.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820184500 -0300" stop="20210820190000 -0300" channel="Band News HD">
+    <title lang="pt">Mercado Bnews Com Juliana Rosa</title>
+    <desc lang="pt">Confira as principais notícias de economia do dia com Juliana Rosa.(n)</desc>
+    <credits>
+      <actor>Juliana Rosa</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820200000 -0300" channel="Band News HD">
+    <title lang="pt">Jornal BandNews</title>
+    <desc lang="pt">No fim da tarde, você fica bem informado sobre tudo o que aconteceu de importante e também as notícias do momento no Jornal BandNews: 2ª Edição.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820203000 -0300" channel="Band News HD">
+    <title lang="pt">Expresso Bandnews</title>
+    <desc lang="pt">Um telejornal para quem não tem tempo a perder. As principais notícias em um formato rápido e dinâmico.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_expressobandnews01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820203000 -0300" stop="20210820213000 -0300" channel="Band News HD">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/jornaldaband01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820213000 -0300" stop="20210820220000 -0300" channel="Band News HD">
+    <title lang="pt">Expresso Bandnews</title>
+    <desc lang="pt">Um telejornal para quem não tem tempo a perder. As principais notícias em um formato rápido e dinâmico.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_expressobandnews01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820230000 -0300" channel="Band News HD">
+    <title lang="pt">Jornal BandNews Edição da Noite</title>
+    <desc lang="pt">Tudo o que foi notícia e a análise dos principais fatos do dia, você encontra no Jornal BandNews: Edição da Noite.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210820233000 -0300" channel="Band News HD">
+    <title lang="pt">Conexão com The New York Times</title>
+    <desc lang="pt">Programa com matérias jornalisticas em parceria com o The New York Times.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_conexaocomthenewyorktim01.jpg" />
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820233000 -0300" stop="20210821000000 -0300" channel="Band News HD">
+    <title lang="pt">Jornal BandNews Edição da Noite</title>
+    <desc lang="pt">Tudo o que foi notícia e a análise dos principais fatos do dia, você encontra no Jornal BandNews: Edição da Noite.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
     </rating>
   </programme>
 </tv>
