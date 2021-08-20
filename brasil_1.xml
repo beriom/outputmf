@@ -376,6 +376,7 @@
   </channel>
   <channel id="Lifetime HD">
     <display-name lang="pt">Lifetime HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Loading HD">
