@@ -386,6 +386,7 @@
   </channel>
   <channel id="Love Nature HD">
     <display-name lang="pt">Love Nature HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Mais na Tela HD">
