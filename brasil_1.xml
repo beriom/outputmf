@@ -122,6 +122,7 @@
   </channel>
   <channel id="Discovery HD World">
     <display-name lang="pt">Discovery HD World</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/discoveryworld.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Discovery Home &amp; Health">
@@ -4392,6 +4393,466 @@
     <episode-num system="onscreen">E11</episode-num>
     <rating system="BR">
       <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820162400 -0300" stop="20210820164800 -0300" channel="Discovery HD World">
+    <title lang="pt">7 Piscinas Incríveis</title>
+    <desc lang="pt">Venha mergulhar nas melhores piscinas VIP do planeta. Conheça um dos melhores lugares para relaxar à beira da piscina em Miami, uma experiência digna de um astro de rock e uma piscina para a família inteira.(n)</desc>
+    <credits>
+      <actor>Rick Federman</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820164800 -0300" stop="20210820173600 -0300" channel="Discovery HD World">
+    <title lang="pt">Hotéis Extraordinários</title>
+    <desc lang="pt">Anthony Melchiorri visita quatro dos hotéis mais apavorantes do mundo, incluindo um castelo do século 12 assombrado pelas vítimas de sua câmera de tortura.(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820173600 -0300" stop="20210820182400 -0300" channel="Discovery HD World">
+    <title lang="pt">Lugares Secretos para Nadar</title>
+    <desc lang="pt">Vamos visitar locais com águas praticamente intocadas, conhecidas apenas pelos locais da República Dominicana, Utah, Ilha de Páscoa e Havaí.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820182400 -0300" stop="20210820184800 -0300" channel="Discovery HD World">
+    <title lang="pt">Menos É Demais</title>
+    <desc lang="pt">Fernanda controla os gastos da empresa onde trabalha, mas não tem ideia do quanto já gastou em calças e sapatos! Ela tem 40 calças jeans e transformou seu quarto em um caos de roupas e sapatos!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_menosedemais01.jpg" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820184800 -0300" stop="20210820191200 -0300" channel="Discovery HD World">
+    <title lang="pt">Menos É Demais</title>
+    <desc lang="pt">A Carol gosta tanto de sapatos que passa por verdadeiras aventuras atrás de um par. Agora, vai precisar da ajuda de Chiara Gadaleta para desapegar e conseguir realizar o sonho de receber amigos na varanda da sua casa.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_menosedemais01.jpg" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820191200 -0300" stop="20210820193600 -0300" channel="Discovery HD World">
+    <title lang="pt">Vende-se Pântano</title>
+    <desc lang="pt">Mac, Kelsey e sua filha de 5 meses procuram uma casa no rio Bogue Chitto. Eles estão dispostos a vasculhar os estados de Mississippi e Louisiana até achar o ponto perfeito para entrar no rio de boia.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820193600 -0300" stop="20210820200000 -0300" channel="Discovery HD World">
+    <title lang="pt">Vende-se Pântano</title>
+    <desc lang="pt">Alligator Point, na Flórida, é uma cidade tão pantanosa e selvagem que ficou conhecida como "costa esquecida". A região parece um pântano, e por isso Richard e Julia querem uma casa aqui.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <episode-num system="onscreen">S2 E14</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820202400 -0300" channel="Discovery HD World">
+    <title lang="pt">Vida Nova em um Novo País</title>
+    <desc lang="pt">Depois de receber uma proposta de emprego em Medellín, Marius pensa em se mudar da Califórnia para a cidade colombiana com a namorada, Kristie. Como ele pretende trazer os filhos, a segurança é uma preocupação.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Viagem</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820202400 -0300" stop="20210820204800 -0300" channel="Discovery HD World">
+    <title lang="pt">Vida Nova em um Novo País</title>
+    <desc lang="pt">Mishka recebe uma proposta de emprego em Berlim, mas não tem certeza se deve se mudar para a capital alemã com seu namorado, Blake. Depois de uma noite de música, comida e arte, eles precisam tomar uma decisão.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Viagem</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820204800 -0300" stop="20210820211200 -0300" channel="Discovery HD World">
+    <title lang="pt">7 Piscinas Incríveis</title>
+    <desc lang="pt">Resorts de todo o mundo estão reinventando os momentos de lazer à beira da piscina. De um elevador de água a um aquário onde se pode nadar, venha mergulhar nas piscinas mais incríveis do planeta.(n)</desc>
+    <credits>
+      <actor>Rick Federman</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820211200 -0300" stop="20210820213600 -0300" channel="Discovery HD World">
+    <title lang="pt">7 Piscinas Incríveis</title>
+    <desc lang="pt">Venha mergulhar nas melhores piscinas VIP do planeta. Conheça um dos melhores lugares para relaxar à beira da piscina em Miami, uma experiência digna de um astro de rock e uma piscina para a família inteira.(n)</desc>
+    <credits>
+      <actor>Rick Federman</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820213600 -0300" stop="20210820222400 -0300" channel="Discovery HD World">
+    <title lang="pt">Hotéis Extraordinários</title>
+    <desc lang="pt">Anthony Melchiorri visita quatro dos hotéis mais apavorantes do mundo, incluindo um castelo do século 12 assombrado pelas vítimas de sua câmera de tortura.(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820222400 -0300" stop="20210820231200 -0300" channel="Discovery HD World">
+    <title lang="pt">Lugares Secretos para Nadar</title>
+    <desc lang="pt">Vamos visitar locais com águas praticamente intocadas, conhecidas apenas pelos locais da República Dominicana, Utah, Ilha de Páscoa e Havaí.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820231200 -0300" stop="20210821000000 -0300" channel="Discovery HD World">
+    <title lang="pt">Trailers Incríveis</title>
+    <desc lang="pt">No Texas, a Foretravel Motorcoach constrói um trailer de 1,2 milhão de dólares. Em Indiana, a empresa American Coach constrói um trailer luxuoso para festas para uma empresa de marketing esportivo.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820005300 -0300" stop="20210820014200 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Ame-a ou Deixe-a: Austrália</title>
+    <desc lang="pt">Em Sutherland Shire, Nova Gales do Sul, Isaac e Renee enfrentam um dilema: mudar para um imóvel novo ou continuar em uma casa pequena que já não atende a suas necessidades.(n)</desc>
+    <credits>
+      <actor>Neale Whitaker</actor>
+      <actor>Andrew Winter</actor>
+    </credits>
+    <category lang="pt">Comportamento</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820014200 -0300" stop="20210820024800 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Te Devo Essa! Brasil</title>
+    <desc lang="pt">Desde que voltou a morar no brasil, a apresentadora Luciana Gimenez tem Lorice como sua melhor amiga e companheira de todas as horas. Luciana se une a dony de nuccioe renato mendonça para repaginar o apartamento da amiga.(n)</desc>
+    <credits>
+      <director>Rafael Gessulo</director>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820024800 -0300" stop="20210820033700 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
+    <desc lang="pt">Um casal recebe a notícia de que não poderia ter filhos, mas depois de adquirir uma casa pequena de dois dormitórios, agora essa família terá 4 membros.(n)</desc>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820033700 -0300" stop="20210820042500 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
+    <desc lang="pt">Depois de sete anos morando no exterior, um casal volta ao país para criar seus filhos, mas a casa está ficando apertada e eles precisam de Jonathan e Drew para deixar o espaço aberto e funcional.(n)</desc>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820042500 -0300" stop="20210820051200 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Irmãos À Obra: O Duelo</title>
+    <desc lang="pt">Jonathan cria um espaço para o escritório da residência, enquanto Drew enfrenta dificuldades para executar sua ideia para a “ala de bem-estar”. O vencedor será escolhido pela jurada convidada Breegan Jane.(n)</desc>
+    <category lang="pt">Competição</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820051200 -0300" stop="20210820060000 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Ame-a ou Deixe-a: Austrália</title>
+    <desc lang="pt">Tracey dedicou dez anos de sua vida cuidando do belo jardim de sua casa. Mas seu marido, Antony adora mudanças e está ansioso para mudar para um lugar novo.(n)</desc>
+    <credits>
+      <actor>Neale Whitaker</actor>
+      <actor>Andrew Winter</actor>
+    </credits>
+    <category lang="pt">Comportamento</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820060000 -0300" stop="20210820062200 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Em Busca Da Casa Perfeita</title>
+    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <credits>
+      <actor>Andromeda Dunker</actor>
+      <actor>Suzanne Whang</actor>
+      <actor>Heather Atwood-Maher</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820062200 -0300" stop="20210820064600 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Em Busca Da Casa Perfeita</title>
+    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <credits>
+      <actor>Andromeda Dunker</actor>
+      <actor>Suzanne Whang</actor>
+      <actor>Heather Atwood-Maher</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820064600 -0300" stop="20210820083200 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Masterchef</title>
+    <desc lang="pt">Ana Paula Padrão apresenta o maior reality de culinária do mundo, que revela os novos talentos da cozinha brasileira.(n)</desc>
+    <category lang="pt">Culinária</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820083200 -0300" stop="20210820092100 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">SOS Restaurante</title>
+    <desc lang="pt">Há três anos, Gigi abriu o Gigi's Music Café em Sunrise, Flórida, mas, agora, seu péssimo gerenciamento está levando o restaurante à falência e afetando sua filha Semone.(n)</desc>
+    <credits>
+      <actor>Robert Irvine</actor>
+    </credits>
+    <category lang="pt">Culinária</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820092100 -0300" stop="20210820101000 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">SOS Restaurante</title>
+    <desc lang="pt">A fim de melhor demonstrar os problemas do restaurante, Robert chega de surpresa na Tornatore's Pizzeria em Orlando, Flórida, e ninguém sabe o que vai acontecer.(n)</desc>
+    <credits>
+      <actor>Robert Irvine</actor>
+    </credits>
+    <category lang="pt">Culinária</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820101000 -0300" stop="20210820105900 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Ame-a ou Deixe-a: Austrália</title>
+    <desc lang="pt">Vicki está ansiosa para se mudar de sua casa atual, que é antiga e pouco funcional. Seu marido, Mark, adora a vista do imóvel e acredita que os problemas atuais podem ser resolvidos.(n)</desc>
+    <credits>
+      <director>Brian Walsh</director>
+      <actor>Neale Whitaker</actor>
+      <actor>Andrew Winter</actor>
+    </credits>
+    <category lang="pt">Comportamento</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820105900 -0300" stop="20210820114900 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Irmãos à Obra</title>
+    <sub-title lang="pt">Compra e Venda</sub-title>
+    <desc lang="pt">Charlie, Renee e suas três filhas adoram cozinhar. Mas com uma cozinha do tamanho de um apartamento e muitas escadas, eles estão ansiosos por um imóvel mais bem distribuído.(n)</desc>
+    <credits>
+      <actor>Drew Scott</actor>
+      <actor>Jonathan Silver Scott</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820114900 -0300" stop="20210820124200 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Irmãos à Obra</title>
+    <desc lang="pt">Sukhvir e Beeban se cansaram de viver em um apartamento e decidiram começar uma família numa casa espaçosa no subúrbio. O único problema é uma lista interminável de desejos com orçamento limitado.(n)</desc>
+    <credits>
+      <director>Marc Simard</director>
+      <actor>Drew Scott</actor>
+      <actor>Jonathan Silver Scott</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820124200 -0300" stop="20210820142800 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Os Busbys + 5</title>
+    <desc lang="pt">Adam e Danielle querem que as meninas tenham uma alimentação mais saudável, mas nem todas gostam das novas opções vegetarianas. A família recebe uma notícia sobre a casa e precisa tomar uma decisão importante.(n)</desc>
+    <credits>
+      <director>Jason Cooper</director>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820142800 -0300" stop="20210820152100 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">A Família Derrico</title>
+    <desc lang="pt">Dawsyn está em casa, mas falta pouco para a última cirurgia e o clima anda tenso. A divisão de responsabilidades faz Karen questionar se ela e Dawsyn estariam recebendo o apoio necessário.(n)</desc>
+    <category lang="pt">Comportamento</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820152100 -0300" stop="20210820161400 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Nosso Primeiro Filho</title>
+    <desc lang="pt">Ashley e Tyson levam seus quádruplos para casa. Doug e Mars têm mais um problema enquanto tentam cuidar de Sofia. Destiny dá à luz ao bebê Capri. Kristina volta ao trabalho depois de ter Lincoln.(n)</desc>
+    <category lang="pt">Comportamento</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820161400 -0300" stop="20210820170700 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Reforma Total Com Nate E Jeremiah</title>
+    <desc lang="pt">A reforma dos sonhos de Allan e Janelle foi interrompida há seis meses devido a problemas de saúde. O casal vive em meio a obras inacabadas, o que representa um grande desafio para Nate e Jeremiah.(n)</desc>
+    <category lang="pt">Comportamento</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820170700 -0300" stop="20210820180000 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Ame-a ou Deixe-a: Vancouver</title>
+    <desc lang="pt">A casa de Karalyn e Todd foi construída nos anos 60 e precisa de mais do que uma reforma. Jillian precisa recriar toda a disposição dos cômodos, enquanto Todd tenta encantar o casal com uma casa de vista espetacular.(n)</desc>
+    <category lang="pt">Comportamento</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820182700 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Um Dia de Chef</title>
+    <desc lang="pt">Edson é um paulistano que está acostumado com as mulheres na cozinha. Primeiro, era a mãe e as irmãs que preparavam as refeições. Agora, a comida fica por conta da esposa. Mas esse pensamento ultrapassado vai acabar...(n)</desc>
+    <credits>
+      <actor>Emmanuel Bassoleil</actor>
+    </credits>
+    <category lang="pt">Culinária</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820182700 -0300" stop="20210820185300 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Um Dia de Chef</title>
+    <desc lang="pt">Rafael - ou ‘Batata’ para os íntimos - tem vinte e nove anos, é estudante de filosofia e cartunista e apesar de amar comer carne, mora em uma república com três amigos vegetarianos e veganos que comandam a cozinha.(n)</desc>
+    <credits>
+      <actor>Emmanuel Bassoleil</actor>
+    </credits>
+    <category lang="pt">Culinária</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820185300 -0300" stop="20210820192000 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Um Dia de Chef</title>
+    <desc lang="pt">Giovanna é uma jovem de origem italiana que morou sozinha durante 8 anos na China e, apesar da experiência, não aprendeu a cozinhar absolutamente nada!(n)</desc>
+    <credits>
+      <actor>Emmanuel Bassoleil</actor>
+    </credits>
+    <category lang="pt">Culinária</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820192000 -0300" stop="20210820194600 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Duff: Desafio da Madrugada</title>
+    <desc lang="pt">Conforme o Sol se põe na padaria, dois times seguem para águas turbulentas. Duff Goldman os desafia a criar bolos no formato de navios antes do amanhecer.(n)</desc>
+    <credits>
+      <director>Mark Lafleur</director>
+      <actor>Duff Goldman</actor>
+      <actor>Kelis</actor>
+      <actor>Sherry Yard</actor>
+    </credits>
+    <category lang="pt">Culinária</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820194600 -0300" stop="20210820213900 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Masterchef</title>
+    <desc lang="pt">Ana Paula Padrão apresenta o maior reality de culinária do mundo, que revela os novos talentos da cozinha brasileira.(n)</desc>
+    <category lang="pt">Culinária</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820213900 -0300" stop="20210820223000 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">SOS Restaurante</title>
+    <desc lang="pt">O chef Robert Irvine estará muito ocupado com um café que parece uma sala entulhada, uma cozinha sem nenhum equipamento profissional, uma dona inexperiente e muito teimosa e, além disso, a renovação de uma barbearia!(n)</desc>
+    <credits>
+      <actor>Robert Irvine</actor>
+    </credits>
+    <category lang="pt">Culinária</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820223000 -0300" stop="20210820232100 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">SOS Restaurante</title>
+    <desc lang="pt">Em sua próxima missão, o Chef  Robert Irvine embosca Jodi, dona do restaurante Theresa's em Bradenton, Flórida,depois que sua amiga e contadora, Miriam, enviou um pedido de socorro.(n)</desc>
+    <credits>
+      <actor>Robert Irvine</actor>
+    </credits>
+    <category lang="pt">Culinária</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820232100 -0300" stop="20210821010600 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Bake Off Brasil</title>
+    <sub-title lang="pt">Mão na Massa</sub-title>
+    <desc lang="pt">Confeiteiros amadores são submetidos a provas técnicas e criativas e precisam colocar a mão na massa.(n)</desc>
+    <category lang="pt">Culinária</category>
+    <rating system="BR">
+      <value>5</value>
     </rating>
   </programme>
 </tv>
