@@ -181,6 +181,7 @@
   </channel>
   <channel id="Disney Channel HD">
     <display-name lang="pt">Disney Channel HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Disney Junior HD">
