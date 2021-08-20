@@ -78782,4 +78782,1031 @@
       <value>16</value>
     </rating>
   </programme>
+  <programme start="20210820090700 -0300" stop="20210820095200 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <desc lang="pt">Uma missão para encontrar veículos e combustível sai errado. Ao mesmo tempo, Cochise compartilha informações preocupantes com Anne.(n)</desc>
+    <credits>
+      <director>Peter Leto</director>
+      <actor>Maxim Knight</actor>
+      <actor>Noah Wyle</actor>
+      <actor>Treva Etienne</actor>
+      <actor>Julia Sarah Stone</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/fallingskies01.jpg" />
+    <country lang="pt">Canadá</country>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820095200 -0300" stop="20210820101500 -0300" channel="TBS HD">
+    <title lang="pt">Tesouros de Garagem</title>
+    <title lang="en">Storage Hunters</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tesourosdegaragem01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820101500 -0300" stop="20210820104300 -0300" channel="TBS HD">
+    <title lang="pt">Tesouros de Garagem</title>
+    <title lang="en">Storage Hunters</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tesourosdegaragem01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820104300 -0300" stop="20210820110500 -0300" channel="TBS HD">
+    <title lang="pt">Tesouros de Garagem</title>
+    <title lang="en">Storage Hunters</title>
+    <desc lang="pt">Com instinto assassino, os Bernier vão atrás das melhores unidades de depósito do país e percorrem distâncias extremas para pôr suas mãos no que há dentro delas.(n)</desc>
+    <credits>
+      <director>Jenny Daly</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tesourosdegaragem01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820110500 -0300" stop="20210820112800 -0300" channel="TBS HD">
+    <title lang="pt">Rebocadores</title>
+    <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820112800 -0300" stop="20210820115100 -0300" channel="TBS HD">
+    <title lang="pt">Rebocadores</title>
+    <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820115100 -0300" stop="20210820121300 -0300" channel="TBS HD">
+    <title lang="pt">Rebocadores</title>
+    <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820121300 -0300" stop="20210820123900 -0300" channel="TBS HD">
+    <title lang="pt">I'm Sorry</title>
+    <desc lang="pt">Andrea tenta fazer sua amiga Jennifer se abrir sobre o divórcio, e Andrea e Mike exploram um novo território em seu relacionamento.(n)</desc>
+    <credits>
+      <director>Andrea Savage</director>
+      <actor>Andrea Savage</actor>
+      <actor>Tom Everett Scott</actor>
+      <actor>Oliver Petrucci</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_imsorry01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820123900 -0300" stop="20210820130500 -0300" channel="TBS HD">
+    <title lang="pt">I'm Sorry</title>
+    <desc lang="pt">Quando Amelia começa a pré-escola, Andrea e Mike aprendem como é que outras pessoas influenciam sua vida. Além disso, Andrea se pergunta quanto ela ganharia como prostituta.(n)</desc>
+    <credits>
+      <director>Andrea Savage</director>
+      <actor>Andrea Savage</actor>
+      <actor>Tom Everett Scott</actor>
+      <actor>Oliver Petrucci</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_imsorry01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820130500 -0300" stop="20210820133200 -0300" channel="TBS HD">
+    <title lang="pt">I'm Sorry</title>
+    <desc lang="pt">Depois que as crianças têm contato indevido com drogas, Andrea e Mike são obrigados a explicar uma importante lição para Amelia. E depois, Andrea descobre que às vezes piadas podem ir longe demais.(n)</desc>
+    <credits>
+      <director>Andrea Savage</director>
+      <actor>Andrea Savage</actor>
+      <actor>Tom Everett Scott</actor>
+      <actor>Oliver Petrucci</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_imsorry01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820133200 -0300" stop="20210820141700 -0300" channel="TBS HD">
+    <title lang="pt">Os Vídeos Mais Idiotas do Mundo</title>
+    <title lang="en">World's Dumbest</title>
+    <desc lang="pt">A estupidez é levada ao extremo. As gargalhadas se sucedem em uma sequência de situações reais ridículas protagonizadas por personagens como motoristas imprudentes, criminosos atrapalhados, pessoas ousadas ou bêbadas.(n)</desc>
+    <credits>
+      <director>Jason Cilo</director>
+      <actor>Todd Bridges</actor>
+      <actor>Chip Bolcik</actor>
+      <actor>Danny Bonaduce</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/osvideosmaisidiotasdomundo01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S13 E13</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820141700 -0300" stop="20210820150000 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <desc lang="pt">O 2º regimento descobre a fonte das forças do inimigo. Enquanto isso, Hal desobedece o pai.(n)</desc>
+    <credits>
+      <director>Robert Lieberman</director>
+      <actor>Maxim Knight</actor>
+      <actor>Noah Wyle</actor>
+      <actor>Treva Etienne</actor>
+      <actor>Julia Sarah Stone</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/fallingskies01.jpg" />
+    <country lang="pt">Canadá</country>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820150000 -0300" stop="20210820154400 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <desc lang="pt">Uma missão para encontrar veículos e combustível sai errado. Ao mesmo tempo, Cochise compartilha informações preocupantes com Anne.(n)</desc>
+    <credits>
+      <director>Peter Leto</director>
+      <actor>Maxim Knight</actor>
+      <actor>Noah Wyle</actor>
+      <actor>Treva Etienne</actor>
+      <actor>Julia Sarah Stone</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/fallingskies01.jpg" />
+    <country lang="pt">Canadá</country>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820154400 -0300" stop="20210820160700 -0300" channel="TBS HD">
+    <title lang="pt">Tesouros de Garagem</title>
+    <title lang="en">Storage Hunters</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tesourosdegaragem01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820160700 -0300" stop="20210820163000 -0300" channel="TBS HD">
+    <title lang="pt">Tesouros de Garagem</title>
+    <title lang="en">Storage Hunters</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tesourosdegaragem01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820163000 -0300" stop="20210820165400 -0300" channel="TBS HD">
+    <title lang="pt">Tesouros de Garagem</title>
+    <title lang="en">Storage Hunters</title>
+    <desc lang="pt">Com instinto assassino, os Bernier vão atrás das melhores unidades de depósito do país e percorrem distâncias extremas para pôr suas mãos no que há dentro delas.(n)</desc>
+    <credits>
+      <director>Jenny Daly</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tesourosdegaragem01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820165400 -0300" stop="20210820171800 -0300" channel="TBS HD">
+    <title lang="pt">Rebocadores</title>
+    <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820171800 -0300" stop="20210820173900 -0300" channel="TBS HD">
+    <title lang="pt">Rebocadores</title>
+    <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820173900 -0300" stop="20210820180300 -0300" channel="TBS HD">
+    <title lang="pt">Rebocadores</title>
+    <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820180300 -0300" stop="20210820194100 -0300" channel="TBS HD">
+    <title lang="pt">Eu Sinto Muito</title>
+    <desc lang="pt">Júlio está tentando rodar um documentário sobre pessoas que sofrem do transtorno de personalidade borderline, mas tem encontrado dificuldade em encontrar quem esteja disposto a falar sobre o tema, e se expôr, na telona.(n)</desc>
+    <credits>
+      <director>Cristiano Vieira</director>
+      <actor>Juliana Schalch</actor>
+      <actor>Rocco Pitanga</actor>
+      <actor>Victor Abrão</actor>
+      <actor>Carolina Monte Rosa</actor>
+      <actor>Juliana Drummond</actor>
+      <actor>Marcelo Pelucio</actor>
+      <actor>Wellington Abreu</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820194100 -0300" stop="20210820220000 -0300" channel="TBS HD">
+    <title lang="pt">Foxcatcher: Uma História que Chocou o Mundo</title>
+    <title lang="en">Foxcatcher:</title>
+    <desc lang="pt">Campeão olímpico de luta greco-romana, Mark Schultz sempre treinou com seu irmão mais velho, David. Um dia, recebe um convite para visitar o milionário, e apaixonado pelo esporte, John du Pont.(n)</desc>
+    <credits>
+      <director>Bennett Miller</director>
+      <actor>Steve Carell</actor>
+      <actor>Channing Tatum</actor>
+      <actor>Mark Ruffalo</actor>
+      <actor>Sienna Miller</actor>
+      <actor>Vanessa Redgrave</actor>
+      <actor>Anthony Michael Hall</actor>
+      <actor>Guy Boyd</actor>
+      <actor>Brett Rice</actor>
+      <actor>Jackson Frazer</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_foxcatcher01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820232300 -0300" channel="TBS HD">
+    <title lang="pt">Piranha 2</title>
+    <title lang="en">Piranha 3dd</title>
+    <desc lang="pt">O Lago Vitória já abrigou piranhas pré-históricas, mas todos pensavam que estavam mortas. Próximo ao lago, há um parque aquático que promete muita diversão a quem o visita. Desta vez, o cardume aparece mais faminto.(n)</desc>
+    <credits>
+      <director>John Gulager</director>
+      <actor>Danielle Panabaker</actor>
+      <actor>Ving Rhames</actor>
+      <actor>David Hasselhoff</actor>
+      <actor>Matt Bush</actor>
+      <actor>Katrina Bowden</actor>
+      <actor>Jean-Luc Bilodeau</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_piranha201.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820232300 -0300" stop="20210821010500 -0300" channel="TBS HD">
+    <title lang="pt">Artista do Desastre</title>
+    <title lang="en">The Disaster Artist</title>
+    <desc lang="pt">Greg Sestero se aproxima do excêntrico Tommy Wiseau após uma aula de atuação e os dois desenvolvem uma intensa amizade ancorada no sonho em comum de fazer sucesso nas artes dramáticas. Juntos eles partem para Hollywood.(n)</desc>
+    <credits>
+      <director>James Franco</director>
+      <actor>Dave Franco</actor>
+      <actor>James Franco</actor>
+      <actor>Seth Rogen</actor>
+      <actor>Ari Graynor</actor>
+      <actor>Alison Brie</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821010500 -0300" stop="20210821013100 -0300" channel="TBS HD">
+    <title lang="pt">I'm Sorry</title>
+    <desc lang="pt">Andrea tenta fazer sua amiga Jennifer se abrir sobre o divórcio, e Andrea e Mike exploram um novo território em seu relacionamento.(n)</desc>
+    <credits>
+      <director>Andrea Savage</director>
+      <actor>Andrea Savage</actor>
+      <actor>Tom Everett Scott</actor>
+      <actor>Oliver Petrucci</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_imsorry01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821013100 -0300" stop="20210821015700 -0300" channel="TBS HD">
+    <title lang="pt">I'm Sorry</title>
+    <desc lang="pt">Quando Amelia começa a pré-escola, Andrea e Mike aprendem como é que outras pessoas influenciam sua vida. Além disso, Andrea se pergunta quanto ela ganharia como prostituta.(n)</desc>
+    <credits>
+      <director>Andrea Savage</director>
+      <actor>Andrea Savage</actor>
+      <actor>Tom Everett Scott</actor>
+      <actor>Oliver Petrucci</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_imsorry01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821015700 -0300" stop="20210821022100 -0300" channel="TBS HD">
+    <title lang="pt">I'm Sorry</title>
+    <desc lang="pt">Depois que as crianças têm contato indevido com drogas, Andrea e Mike são obrigados a explicar uma importante lição para Amelia. E depois, Andrea descobre que às vezes piadas podem ir longe demais.(n)</desc>
+    <credits>
+      <director>Andrea Savage</director>
+      <actor>Andrea Savage</actor>
+      <actor>Tom Everett Scott</actor>
+      <actor>Oliver Petrucci</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_imsorry01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821022100 -0300" stop="20210821030200 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <desc lang="pt">O 2º regimento descobre a fonte das forças do inimigo. Enquanto isso, Hal desobedece o pai.(n)</desc>
+    <credits>
+      <director>Robert Lieberman</director>
+      <actor>Maxim Knight</actor>
+      <actor>Noah Wyle</actor>
+      <actor>Treva Etienne</actor>
+      <actor>Julia Sarah Stone</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/fallingskies01.jpg" />
+    <country lang="pt">Canadá</country>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821030200 -0300" stop="20210821034400 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <desc lang="pt">Uma missão para encontrar veículos e combustível sai errado. Ao mesmo tempo, Cochise compartilha informações preocupantes com Anne.(n)</desc>
+    <credits>
+      <director>Peter Leto</director>
+      <actor>Maxim Knight</actor>
+      <actor>Noah Wyle</actor>
+      <actor>Treva Etienne</actor>
+      <actor>Julia Sarah Stone</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/fallingskies01.jpg" />
+    <country lang="pt">Canadá</country>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821034400 -0300" stop="20210821040500 -0300" channel="TBS HD">
+    <title lang="pt">Tesouros de Garagem</title>
+    <title lang="en">Storage Hunters</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tesourosdegaragem01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821040500 -0300" stop="20210821042700 -0300" channel="TBS HD">
+    <title lang="pt">Tesouros de Garagem</title>
+    <title lang="en">Storage Hunters</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tesourosdegaragem01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821042700 -0300" stop="20210821044800 -0300" channel="TBS HD">
+    <title lang="pt">Tesouros de Garagem</title>
+    <title lang="en">Storage Hunters</title>
+    <desc lang="pt">Com instinto assassino, os Bernier vão atrás das melhores unidades de depósito do país e percorrem distâncias extremas para pôr suas mãos no que há dentro delas.(n)</desc>
+    <credits>
+      <director>Jenny Daly</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tesourosdegaragem01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821044800 -0300" stop="20210821065700 -0300" channel="TBS HD">
+    <title lang="pt">Os Vídeos Mais Idiotas do Mundo</title>
+    <title lang="en">World's Dumbest</title>
+    <desc lang="pt">A estupidez é levada ao extremo. As gargalhadas se sucedem em uma sequência de situações reais ridículas protagonizadas por personagens como motoristas imprudentes, criminosos atrapalhados, pessoas ousadas ou bêbadas.(n)</desc>
+    <credits>
+      <director>Jason Cilo</director>
+      <actor>Todd Bridges</actor>
+      <actor>Chip Bolcik</actor>
+      <actor>Danny Bonaduce</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/osvideosmaisidiotasdomundo01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S13 E13</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821065700 -0300" stop="20210821073900 -0300" channel="TBS HD">
+    <title lang="pt">Os Vídeos Mais Idiotas do Mundo</title>
+    <title lang="en">World's Dumbest</title>
+    <desc lang="pt">A estupidez é levada ao extremo. As gargalhadas se sucedem em uma sequência de situações reais ridículas protagonizadas por personagens como motoristas imprudentes, criminosos atrapalhados, pessoas ousadas ou bêbadas.(n)</desc>
+    <credits>
+      <director>Jason Cilo</director>
+      <actor>Todd Bridges</actor>
+      <actor>Chip Bolcik</actor>
+      <actor>Danny Bonaduce</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/osvideosmaisidiotasdomundo01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S13 E6</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821073900 -0300" stop="20210821080100 -0300" channel="TBS HD">
+    <title lang="pt">Wrecked</title>
+    <desc lang="pt">Danny começa uma investigação depois que os sobreviventes descobrem que alguém sabotou o navio explodindo o motor. Steve faz uma descoberta chocante no fundo do navio. Honestamente, agora, ninguém é o capitão.(n)</desc>
+    <credits>
+      <director>Griffiths James</director>
+      <actor>Zach Cregger</actor>
+      <actor>Jordan Shipley</actor>
+      <actor>Asif Ali</actor>
+      <actor>Rhys Darby</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_wrecked01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821080100 -0300" stop="20210821082400 -0300" channel="TBS HD">
+    <title lang="pt">Wrecked</title>
+    <desc lang="pt">À medida em que o navio afunda, os sobreviventes tentam escapar. Alguém será o capitão novamente?(n)</desc>
+    <credits>
+      <director>Griffiths James</director>
+      <actor>Zach Cregger</actor>
+      <actor>Jordan Shipley</actor>
+      <actor>Asif Ali</actor>
+      <actor>Rhys Darby</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_wrecked01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821082400 -0300" stop="20210821084700 -0300" channel="TBS HD">
+    <title lang="pt">Wrecked</title>
+    <desc lang="pt">Os piratas que acabaram de chegar tentam resgatar Danny - e deixar os outros para trás. Steve tenta consertar a situação após assassinar um sobrevivente. Agora os piratas são os capitães.(n)</desc>
+    <credits>
+      <director>Griffiths James</director>
+      <actor>Zach Cregger</actor>
+      <actor>Jordan Shipley</actor>
+      <actor>Asif Ali</actor>
+      <actor>Rhys Darby</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_wrecked01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821084700 -0300" stop="20210821092900 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <desc lang="pt">O 2º regimento deixa Chinatown. Enquanto isso, uma pessoa armada e descontrolada faz Weaver refém. Para completar, Tom organiza uma investida para resgatar Hal.(n)</desc>
+    <credits>
+      <director>Olatunde Osunsanmi</director>
+      <actor>Maxim Knight</actor>
+      <actor>Noah Wyle</actor>
+      <actor>Treva Etienne</actor>
+      <actor>Michelle Sabat</actor>
+      <actor>Timothy Webber</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/fallingskies01.jpg" />
+    <country lang="pt">Canadá</country>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E5</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821092900 -0300" stop="20210821101200 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <desc lang="pt">Tom se refugia com sua família, o que o distancia da luta.(n)</desc>
+    <credits>
+      <director>Jonathan Frakes</director>
+      <actor>Maxim Knight</actor>
+      <actor>Noah Wyle</actor>
+      <actor>Treva Etienne</actor>
+      <actor>Julia Sarah Stone</actor>
+      <actor>Brendan Meyer</actor>
+      <actor>Dean Petriw</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/fallingskies01.jpg" />
+    <country lang="pt">Canadá</country>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E6</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821101200 -0300" stop="20210821103400 -0300" channel="TBS HD">
+    <title lang="pt">Tesouros de Garagem</title>
+    <title lang="en">Storage Hunters</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tesourosdegaragem01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821103400 -0300" stop="20210821105700 -0300" channel="TBS HD">
+    <title lang="pt">Tesouros de Garagem</title>
+    <title lang="en">Storage Hunters</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tesourosdegaragem01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821105700 -0300" stop="20210821111900 -0300" channel="TBS HD">
+    <title lang="pt">Tesouros de Garagem</title>
+    <title lang="en">Storage Hunters</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tesourosdegaragem01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821111900 -0300" stop="20210821113900 -0300" channel="TBS HD">
+    <title lang="pt">Rebocadores</title>
+    <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821113900 -0300" stop="20210821120200 -0300" channel="TBS HD">
+    <title lang="pt">Rebocadores</title>
+    <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821120200 -0300" stop="20210821122500 -0300" channel="TBS HD">
+    <title lang="pt">Rebocadores</title>
+    <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821122500 -0300" stop="20210821124700 -0300" channel="TBS HD">
+    <title lang="pt">Wrecked</title>
+    <desc lang="pt">Danny começa uma investigação depois que os sobreviventes descobrem que alguém sabotou o navio explodindo o motor. Steve faz uma descoberta chocante no fundo do navio. Honestamente, agora, ninguém é o capitão.(n)</desc>
+    <credits>
+      <director>Griffiths James</director>
+      <actor>Zach Cregger</actor>
+      <actor>Jordan Shipley</actor>
+      <actor>Asif Ali</actor>
+      <actor>Rhys Darby</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_wrecked01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821124700 -0300" stop="20210821130900 -0300" channel="TBS HD">
+    <title lang="pt">Wrecked</title>
+    <desc lang="pt">À medida em que o navio afunda, os sobreviventes tentam escapar. Alguém será o capitão novamente?(n)</desc>
+    <credits>
+      <director>Griffiths James</director>
+      <actor>Zach Cregger</actor>
+      <actor>Jordan Shipley</actor>
+      <actor>Asif Ali</actor>
+      <actor>Rhys Darby</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_wrecked01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821130900 -0300" stop="20210821133200 -0300" channel="TBS HD">
+    <title lang="pt">Wrecked</title>
+    <desc lang="pt">Os piratas que acabaram de chegar tentam resgatar Danny - e deixar os outros para trás. Steve tenta consertar a situação após assassinar um sobrevivente. Agora os piratas são os capitães.(n)</desc>
+    <credits>
+      <director>Griffiths James</director>
+      <actor>Zach Cregger</actor>
+      <actor>Jordan Shipley</actor>
+      <actor>Asif Ali</actor>
+      <actor>Rhys Darby</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_wrecked01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821133200 -0300" stop="20210821141600 -0300" channel="TBS HD">
+    <title lang="pt">Os Vídeos Mais Idiotas do Mundo</title>
+    <title lang="en">World's Dumbest</title>
+    <desc lang="pt">A estupidez é levada ao extremo. As gargalhadas se sucedem em uma sequência de situações reais ridículas protagonizadas por personagens como motoristas imprudentes, criminosos atrapalhados, pessoas ousadas ou bêbadas.(n)</desc>
+    <credits>
+      <director>Jason Cilo</director>
+      <actor>Todd Bridges</actor>
+      <actor>Chip Bolcik</actor>
+      <actor>Danny Bonaduce</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/osvideosmaisidiotasdomundo01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S13 E6</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821141600 -0300" stop="20210821150000 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <desc lang="pt">O 2º regimento deixa Chinatown. Enquanto isso, uma pessoa armada e descontrolada faz Weaver refém. Para completar, Tom organiza uma investida para resgatar Hal.(n)</desc>
+    <credits>
+      <director>Olatunde Osunsanmi</director>
+      <actor>Maxim Knight</actor>
+      <actor>Noah Wyle</actor>
+      <actor>Treva Etienne</actor>
+      <actor>Michelle Sabat</actor>
+      <actor>Timothy Webber</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/fallingskies01.jpg" />
+    <country lang="pt">Canadá</country>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E5</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821150000 -0300" stop="20210821154400 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <desc lang="pt">Tom se refugia com sua família, o que o distancia da luta.(n)</desc>
+    <credits>
+      <director>Jonathan Frakes</director>
+      <actor>Maxim Knight</actor>
+      <actor>Noah Wyle</actor>
+      <actor>Treva Etienne</actor>
+      <actor>Julia Sarah Stone</actor>
+      <actor>Brendan Meyer</actor>
+      <actor>Dean Petriw</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/fallingskies01.jpg" />
+    <country lang="pt">Canadá</country>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E6</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821154400 -0300" stop="20210821160600 -0300" channel="TBS HD">
+    <title lang="pt">Tesouros de Garagem</title>
+    <title lang="en">Storage Hunters</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tesourosdegaragem01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821160600 -0300" stop="20210821162900 -0300" channel="TBS HD">
+    <title lang="pt">Tesouros de Garagem</title>
+    <title lang="en">Storage Hunters</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tesourosdegaragem01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821162900 -0300" stop="20210821165100 -0300" channel="TBS HD">
+    <title lang="pt">Tesouros de Garagem</title>
+    <title lang="en">Storage Hunters</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tesourosdegaragem01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821165100 -0300" stop="20210821171200 -0300" channel="TBS HD">
+    <title lang="pt">Rebocadores</title>
+    <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821171200 -0300" stop="20210821173400 -0300" channel="TBS HD">
+    <title lang="pt">Rebocadores</title>
+    <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821173400 -0300" stop="20210821175700 -0300" channel="TBS HD">
+    <title lang="pt">Rebocadores</title>
+    <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821175700 -0300" stop="20210821201600 -0300" channel="TBS HD">
+    <title lang="pt">Foxcatcher: Uma História que Chocou o Mundo</title>
+    <title lang="en">Foxcatcher:</title>
+    <desc lang="pt">Campeão olímpico de luta greco-romana, Mark Schultz sempre treinou com seu irmão mais velho, David. Um dia, recebe um convite para visitar o milionário, e apaixonado pelo esporte, John du Pont.(n)</desc>
+    <credits>
+      <director>Bennett Miller</director>
+      <actor>Steve Carell</actor>
+      <actor>Channing Tatum</actor>
+      <actor>Mark Ruffalo</actor>
+      <actor>Sienna Miller</actor>
+      <actor>Vanessa Redgrave</actor>
+      <actor>Anthony Michael Hall</actor>
+      <actor>Guy Boyd</actor>
+      <actor>Brett Rice</actor>
+      <actor>Jackson Frazer</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_foxcatcher01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821201600 -0300" stop="20210821220000 -0300" channel="TBS HD">
+    <title lang="pt">Snatch - Porcos e Diamantes</title>
+    <title lang="en">Snatch</title>
+    <desc lang="pt">Ladrão de jóias ao parar em Londres com um diamante roubado desencadeia uma avalanche de sinistros e cômicos acontecimentos.(n)</desc>
+    <credits>
+      <director>Guy Ritchie</director>
+      <actor>Jason Staham</actor>
+      <actor>Stephen Grahan</actor>
+      <actor>Brad Pitt</actor>
+      <actor>Benicio Del Toro</actor>
+      <actor>Dennis Farina</actor>
+      <actor>Vinnie Jones</actor>
+      <actor>Rade Serbedzija</actor>
+      <actor>Alan Ford</actor>
+      <actor>Mike Reid</actor>
+      <actor>Robbie Gee</actor>
+      <actor>Lennie James</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_snatchporcosediamantes01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821220000 -0300" stop="20210821234200 -0300" channel="TBS HD">
+    <title lang="pt">Artista do Desastre</title>
+    <title lang="en">The Disaster Artist</title>
+    <desc lang="pt">Greg Sestero se aproxima do excêntrico Tommy Wiseau após uma aula de atuação e os dois desenvolvem uma intensa amizade ancorada no sonho em comum de fazer sucesso nas artes dramáticas. Juntos eles partem para Hollywood.(n)</desc>
+    <credits>
+      <director>James Franco</director>
+      <actor>Dave Franco</actor>
+      <actor>James Franco</actor>
+      <actor>Seth Rogen</actor>
+      <actor>Ari Graynor</actor>
+      <actor>Alison Brie</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821234200 -0300" stop="20210822013500 -0300" channel="TBS HD">
+    <title lang="pt">O Cantor</title>
+    <title lang="en">El Cantante</title>
+    <desc lang="pt">Hector Lavoe, o rei da salsa, foi um dos maiores cantores de língua espanhola do mundo. Além de narrar o movimento da salsa nos Estados Unidos, o filme revela os segredos da vida particular de Lavoe.(n)</desc>
+    <credits>
+      <director>Leon Ichaso</director>
+      <actor>Jennifer Lopez</actor>
+      <actor>Marc Anthony</actor>
+      <actor>John Ortiz</actor>
+      <actor>Manny Perez</actor>
+      <actor>Vincent Laresca</actor>
+      <actor>Federico Castelluccio</actor>
+      <actor>Nelson Vasquez</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
 </tv>
