@@ -7,72 +7,58 @@
   </channel>
   <channel id="AMC HD">
     <display-name lang="pt">AMC HD</display-name>
-    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/amc.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Animal Planet HD">
     <display-name lang="pt">Animal Planet HD</display-name>
-    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/animalplanet2019.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Arte 1 HD">
     <display-name lang="pt">Arte 1 HD</display-name>
-    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/arte1.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="AXN HD">
     <display-name lang="pt">AXN HD</display-name>
-    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/axnhd.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Band News HD">
     <display-name lang="pt">Band News HD</display-name>
-    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/bandnews.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Band Sports HD">
     <display-name lang="pt">Band Sports HD</display-name>
-    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/bandsports.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="BIS HD">
     <display-name lang="pt">BIS HD</display-name>
-    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/bis.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Boomerang HD">
     <display-name lang="pt">Boomerang HD</display-name>
-    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/boomerang.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Canal Brasil HD">
     <display-name lang="pt">Canal Brasil HD</display-name>
-    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/canalbrasil.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Cartoon Network HD">
     <display-name lang="pt">Cartoon Network HD</display-name>
-    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/cartoonnetworkhd.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="CGTN HD">
     <display-name lang="pt">CGTN HD</display-name>
-    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/cgtn.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Cinemax HD">
     <display-name lang="pt">Cinemax HD</display-name>
-    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/cinemax.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="CNN Brasil HD">
     <display-name lang="pt">CNN Brasil HD</display-name>
-    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/cnnbrasil.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Combate HD">
     <display-name lang="pt">Combate HD</display-name>
-    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/combate.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Comedy Central HD">
@@ -763,3375 +749,418 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20210820140500 -0300" stop="20210820161000 -0300" channel="AMC HD">
-    <title lang="pt">Território Restrito</title>
-    <desc lang="pt">Imigrantes de diferentes nacionalidades lutam para viver com dignidade, em Los Angeles, e conseguir documentos legais.(n)</desc>
-    <credits>
-      <director>Wayne Kramer</director>
-      <actor>Harrison Ford</actor>
-      <actor>Ashley Judd</actor>
-      <actor>Ray Liotta</actor>
-      <actor>Jim Sturgess</actor>
-      <actor>Cliff Curtis</actor>
-      <actor>Alice Braga</actor>
-      <actor>Jacqueline Obradors</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Drama</category>
-    <country lang="pt">EUA</country>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20210820161000 -0300" stop="20210820180000 -0300" channel="AMC HD">
-    <title lang="pt">Centurião</title>
-    <desc lang="pt">117 A.C. O Império Romano controla do Egito Espanha, do leste até o Mar Negro. Entretanto ele enfrenta problemas no norte da Grã-Bretanha, devido às táticas de guerrilha usadas por seus inimigos.(n)</desc>
-    <credits>
-      <director>Neil Marshall</director>
-      <actor>Michael Fassbender</actor>
-      <actor>Dominic West</actor>
-      <actor>Olga Kurylenko</actor>
-      <actor>Paul Freeman</actor>
-      <actor>Simon Chadwick</actor>
-      <actor>Andreas Wisniewski</actor>
-    </credits>
-    <date>2010</date>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-    <country lang="pt">Reino Unido</country>
-    <country lang="pt">França</country>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20210820180000 -0300" stop="20210820200000 -0300" channel="AMC HD">
-    <title lang="pt">Os Especialistas</title>
-    <desc lang="pt">Baseado em uma história real, o filme conta a história de Danny, um ex-agente britânico, ele tem uma última missão: ajudar a salvar seu parceiro, Hunter, que está nas mãos do perigoso Spike, um de seus grandes inimigos.(n)</desc>
-    <credits>
-      <director>Gary McKendry</director>
-      <actor>Jason Statham</actor>
-      <actor>Clive Owen</actor>
-      <actor>Robert De Niro</actor>
-      <actor>Dominic Purcell</actor>
-      <actor>Yvonne Strahovski</actor>
-    </credits>
-    <date>2011</date>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_osespecialistas01.jpg" />
-    <country lang="pt">EUA</country>
-    <country lang="pt">Austrália</country>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20210820200000 -0300" stop="20210820220000 -0300" channel="AMC HD">
-    <title lang="pt">Colombiana - Em Busca de Vingança</title>
-    <desc lang="pt">Cataleya testemunhou a morte dos pais quando era pequena. Desde então, seu objetivo principal é vingar a morte daqueles que amava.(n)</desc>
-    <credits>
-      <director>Olivier Megaton</director>
-      <actor>Callum Blue</actor>
-      <actor>Michael Vartan</actor>
-      <actor>Zoe Saldana</actor>
-    </credits>
-    <date>2011</date>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-    <country lang="pt">EUA</country>
-    <country lang="pt">França</country>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20210820220000 -0300" stop="20210821000000 -0300" channel="AMC HD">
-    <title lang="pt">O Homem Mais Procurado Do Mundo</title>
-    <desc lang="pt">Baseada na história real, a trama se foca na ação conjunta da CIA em parceria com os operativos das forças especiais do Exército norte-americano, os chamados SEALs.(n)</desc>
-    <credits>
-      <director>John Stockwell</director>
-      <actor>Cam Gigandet</actor>
-    </credits>
-    <date>2012</date>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-    <country lang="pt">EUA</country>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20210820142700 -0300" stop="20210820152000 -0300" channel="Animal Planet HD">
-    <title lang="pt">Perdido no Sudeste Asiático</title>
-    <desc lang="pt">Frank tenta desvendar o mito do dragão, mas não encontra apenas "dragões", lagartos e monitores e fica de frente com um grande felino, o tigre-asiático; uma cobra venenosa letal, a cobra-real.(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820152000 -0300" stop="20210820161300 -0300" channel="Animal Planet HD">
-    <title lang="pt">Indonésia Selvagem</title>
-    <desc lang="pt">O calor da Indonésia permite que os répteis locais prosperem. Descubra como seus mares repletos de corais e florestas tropicais se tornaram o domínio desses animais.(n)</desc>
-    <date>2015</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Ecologia</category>
-    <episode-num system="onscreen">E5</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820161300 -0300" stop="20210820170600 -0300" channel="Animal Planet HD">
-    <title lang="pt">Oriente Médio Selvagem</title>
-    <desc lang="pt">Uma viagem pelo Turcomenistão selvagem.(n)</desc>
-    <date>2014</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <episode-num system="onscreen">E5</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820170600 -0300" stop="20210820180000 -0300" channel="Animal Planet HD">
-    <title lang="pt">Europa Selvagem</title>
-    <desc lang="pt">No sul da Europa, quando as temperaturas no verão superam os 30 graus Celsius, a vida testa seus limites em terras áridas e desafiadoras.(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_europaselvagem01.jpg" />
-    <country lang="pt">Grã-Bretanha</country>
-    <episode-num system="onscreen">E5</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820180000 -0300" stop="20210820185400 -0300" channel="Animal Planet HD">
-    <title lang="pt">Lei da Sobrevivência</title>
-    <desc lang="pt">Predadores mortais usam venenos potentes, picadas e ferrões para incapacitar e matar a presa, e também para se defenderem. Descubra as adaptações que os animais desenvolveram para vencer seus rivais.(n)</desc>
-    <date>2017</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country lang="pt">Grã-Bretanha</country>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="BR">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20210820185400 -0300" stop="20210820194600 -0300" channel="Animal Planet HD">
-    <title lang="pt">Monstros do Rio</title>
-    <desc lang="pt">Jeremy Wade viaja para o Outback, o deserto australiano, para tentar apanhar o raro e temido peixe-serra de água doce. Este predador tem seis metros de comprimento e fama de atacar barcos, mas isso o torna um assassino?(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/monstrosdorioassassinoatomico01.jpg" />
-    <episode-num system="onscreen">S3 E4</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820194600 -0300" stop="20210820203800 -0300" channel="Animal Planet HD">
-    <title lang="pt">Monstros do Rio</title>
-    <desc lang="pt">Jeremy Wade viaja para o Brasil em busca de um monstro do rio que matou três peões. A busca pelo culpado o leva a conhecer pessoas que temem por sua vida. Wade descobre a verdade chocante sobre um peixe que jamais havia capturado.(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/monstrosdorioassassinoatomico01.jpg" />
-    <episode-num system="onscreen">S3 E5</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820203800 -0300" stop="20210820213000 -0300" channel="Animal Planet HD">
-    <title lang="pt">Jeremy Wade</title>
-    <desc lang="pt">Jeremy Wade passou décadas caçando monstros fluviais nas águas mais remotas. Com habilidades inigualáveis e alguma sorte, ele já capturou muitos peixes, mas ainda há muitos outros em sua lista de desejos.(n)</desc>
-    <date>2019</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">E5</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820213000 -0300" stop="20210820222200 -0300" channel="Animal Planet HD">
-    <title lang="pt">Jeremy Wade</title>
-    <desc lang="pt">O poderoso Rio Mississippi sofre ameaças em várias frentes, de espécies de peixes invasoras a algas verdes que sufocam a vida em suas águas. Jeremy Wade encontra cientistas, pescadores e líderes da luta para salvar o rio.(n)</desc>
-    <credits>
-      <director>Alex Parkinson</director>
-      <actor>Jeremy Wade</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820222200 -0300" stop="20210820231400 -0300" channel="Animal Planet HD">
-    <title lang="pt">Pesca ao Extremo</title>
-    <desc lang="pt">Em Bornéu, a equipe busca um peixe praticamente extinto, o mahseer. Para encontrá-lo, eles se arriscam entrando no território dos Dayaks, um povo de caçadores de cabeças.(n)</desc>
-    <date>2019</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="BR">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20210820231400 -0300" stop="20210820233900 -0300" channel="Animal Planet HD">
-    <title lang="pt">Terra Brasil</title>
-    <desc lang="pt">Aruay e Anderson vão até a cidade de Paraty-RJ para conhecer algumas ilhas dentro da Área de Proteção Ambiental de Cairuçu, um local com mais de 60 ilhas, e com faunas e floras diversas.(n)</desc>
-    <date>2019</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Meio Ambiente</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_terrabrasil01.jpg" />
-    <country lang="pt">Brasil</country>
-    <episode-num system="onscreen">S2 E25</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820233900 -0300" stop="20210821000700 -0300" channel="Animal Planet HD">
-    <title lang="pt">Vida No Azul</title>
-    <desc lang="pt">Conheça animais marinhos incríveis: cobras venenosas e crocodilos em pleno oceano, peixes minúsculos que imitam corais e até folhas, e peixes que caçam fora d'água! O que estes incríveis animais têm em comum?(n)</desc>
-    <credits>
-      <director>João Paulo Krajewski</director>
-    </credits>
-    <date>2019</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Ecologia</category>
-    <country lang="pt">Brasil</country>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820143000 -0300" stop="20210820150000 -0300" channel="Arte 1 HD">
-    <title lang="pt">Protagonistas Invisíveis</title>
-    <desc lang="pt">Camareira do Teatro Oficina há 20 anos, Maria Aparecida Magalhães de Mello, a Cida, conta as histórias por trás das roupas da companhia teatral do diretor Zé Celso.(n)</desc>
-    <credits>
-      <director>Adriana Siqueira Lopes</director>
-    </credits>
-    <date>2020</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Diversos</category>
-    <country lang="pt">Brasil</country>
-    <episode-num system="onscreen">E4</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820150000 -0300" stop="20210820160000 -0300" channel="Arte 1 HD">
-    <title lang="pt">Arte 1 Documenta</title>
-    <desc lang="pt">O documentário acompanha a jornada da estilista Coco Chanel desde sua infância, como órfã abandonada, até a subversão das ordens sociais para tornar-se uma das maiores designers de moda do século 20.(n)</desc>
-    <credits>
-      <director>Jean Lauritano</director>
-    </credits>
-    <date>2018</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_arte1documenta01.jpg" />
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820160000 -0300" stop="20210820170000 -0300" channel="Arte 1 HD">
-    <title lang="pt">Arte 1 Documenta</title>
-    <desc lang="pt">O apresentador Alan Yentob viaja para Rússia, a fim de conhecer a opinião popular sobre Leon Tolstói. O filme mostra diferentes facetas do autor e revela um Tolstói para além de "Guerra e Paz" e "Anna Karenina".(n)</desc>
-    <credits>
-      <director>Rupert Edwards</director>
-    </credits>
-    <date>2011</date>
-    <category lang="pt">Documentário</category>
-    <category lang="pt">Diversos</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_arte1documenta01.jpg" />
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820170000 -0300" stop="20210820173000 -0300" channel="Arte 1 HD">
-    <title lang="pt">Minidocs</title>
-    <desc lang="pt">Neste episódio, conheça mais sobre a luta da cantora e compositora Bia Ferreira sobre a mulher preta na música. A revolução está realmente em curso?(n)</desc>
-    <credits>
-      <director>Carlos Gayotto Rolim</director>
-    </credits>
-    <date>2020</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country lang="pt">Brasil</country>
-    <episode-num system="onscreen">S4 E9</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820173000 -0300" stop="20210820180000 -0300" channel="Arte 1 HD">
-    <title lang="pt">Arte 1 Encontra</title>
-    <desc lang="pt">A produção do Arte1 aproxima o público de artistas das variadas áreas por meio de encontros em seus estúdios.(n)</desc>
-    <credits>
-      <director>Gisele Kato</director>
-      <director>Ricardo Sêco</director>
-    </credits>
-    <date>2021</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <episode-num system="onscreen">S2 E8</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820180000 -0300" stop="20210820190000 -0300" channel="Arte 1 HD">
-    <title lang="pt">Arte 1 Visual</title>
-    <desc lang="pt">O quinto episódio faz uma breve historiografia da representação do nu em obras de arte e busca respostas a questionamentos feitos acerca do tema.(n)</desc>
-    <credits>
-      <director>Marcos Guttmann</director>
-      <director>Fabiano Maciel</director>
-    </credits>
-    <date>2017</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_arte1visual01.jpg" />
-    <country lang="pt">Brasil</country>
-    <episode-num system="onscreen">E5</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820190000 -0300" stop="20210820193000 -0300" channel="Arte 1 HD">
-    <title lang="pt">Buscando Buskers</title>
-    <desc lang="pt">Jali Kiari (nome artístico de Jalizete Ferrari) é cantora, compositora e instrumentista. Além de suas composições próprias, Jali interpreta versões musicadas de poesias de Davi Kinski.(n)</desc>
-    <credits>
-      <director>Gabriel Castelhano</director>
-    </credits>
-    <date>2018</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Musical</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_buscandobuskers01_2_2019.jpg" />
-    <country lang="pt">Brasil</country>
-    <episode-num system="onscreen">S2 E2</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820193000 -0300" stop="20210820201500 -0300" channel="Arte 1 HD">
-    <title lang="pt">Memórias do Brasil</title>
-    <desc lang="pt">Artistas como Tuzé de Abreu, Marcio Meireles, Jorge Alfredo, Cesare De La Roca e Chico Liberato, ajudam a conhecer e a entender melhor a vida e a obra de Lia Robatto.(n)</desc>
-    <credits>
-      <director>Rodrigo de Luna</director>
-    </credits>
-    <date>2017</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_memoriasdobrasil01.jpg" />
-    <country lang="pt">Brasil</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820201500 -0300" stop="20210820203000 -0300" channel="Arte 1 HD">
-    <title lang="pt">A Crucigramista</title>
-    <desc lang="pt">Com um olhar interdisciplinar entre artes plásticas, literatura e cinema, a série dirigida por Paula Parisot e Jessica Mitrani proporciona um panorama sobre o passado e o presente da cultura latino-americana.(n)</desc>
-    <credits>
-      <director>Paula Parisot</director>
-      <director>Jessica Mitrani</director>
-    </credits>
-    <date>2018</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Cultural</category>
-    <episode-num system="onscreen">E3</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820203000 -0300" stop="20210820213000 -0300" channel="Arte 1 HD">
-    <title lang="pt">Teatros no Brasil</title>
-    <desc lang="pt">Presente nos principais episódios políticos do Rio Grande do Sul, o Theatro São Pedro é considerado uma fortaleza dos palcos e preserva os traços da arquitetura clássica.(n)</desc>
-    <credits>
-      <director>Emilio Gallo</director>
-    </credits>
-    <date>2019</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Cultural</category>
-    <country lang="pt">Brasil</country>
-    <episode-num system="onscreen">E5</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820213000 -0300" stop="20210820230000 -0300" channel="Arte 1 HD">
-    <title lang="pt">Arte 1 Apresenta</title>
-    <desc lang="pt">O cantor, compositor e multi-instrumentista americano Ben Harper faz uma apresentação no festival Baloise Session, na Suíça, em que traz composições em diferentes estilos como blues, folk, soul, reggae e rock.(n)</desc>
-    <credits>
-      <director>Roli Bärlocher</director>
-    </credits>
-    <date>2018</date>
-    <category lang="pt">Espetáculo</category>
-    <category lang="pt">Musical</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_arte1apresenta01.jpg" />
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820230000 -0300" stop="20210821004500 -0300" channel="Arte 1 HD">
-    <title lang="pt">Arte 1 em Preto e Branco: Nas Garras do Vício</title>
-    <desc lang="pt">Um jovem parisiense está se recuperando em uma aldeia de Alverne. Lá, encontra-se com um amigo de infância, mergulhado na bebida e mal casado.(n)</desc>
-    <credits>
-      <director>Claude Chabrol</director>
-      <actor>Edmond Beauchamp</actor>
-      <actor>Gérard Blain</actor>
-      <actor>Jean-Claude Brialy</actor>
-      <actor>Bernadette Lafont</actor>
-      <actor>Claude Chabrol</actor>
-      <actor>André Dino</actor>
-      <actor>Jeanne Pérez</actor>
-      <actor>Philippe de Broca</actor>
-    </credits>
-    <date>1958</date>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Drama</category>
-    <country lang="pt">França</country>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20210820134500 -0300" stop="20210820144000 -0300" channel="AXN HD">
+  <programme start="20210821002400 -0300" stop="20210821012000 -0300" channel="A&amp;E HD">
     <title lang="pt">NCIS</title>
-    <desc lang="pt">Quando a identidade do assassino Port-to-Port é finalmente revelada, a equipe NCIS inteira encontra-se em grave perigo.(n)</desc>
+    <desc lang="pt">A fim de obter informações vitais para uma questão de segurança nacional, Kensi terá que enfrentar um sociopata obcecado por ela desde que ela o colocou na prisão há vários anos.(n)</desc>
     <credits>
       <director>Dennis Smith</director>
-      <actor>Mark Harmon</actor>
-      <actor>Cote de Pablo</actor>
-      <actor>Michael Weatherly</actor>
-      <actor>Pauley Perrette</actor>
-      <actor>Sean Murray</actor>
-      <actor>Rocky Carroll</actor>
-      <actor>David McCallum</actor>
-      <actor>Brian Dietzen</actor>
+      <actor>Linda Hunt</actor>
+      <actor>Chris O'Donnell</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Barrett Foa</actor>
+      <actor>LL Cool J</actor>
+      <actor>Renée Felice Smith</actor>
+      <actor>Anny Rosario</actor>
     </credits>
-    <date>2011</date>
+    <date>2020</date>
     <category lang="pt">Séries</category>
     <category lang="pt">Ação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/ncis01.jpg" />
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ncisla01.jpg" />
     <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S8 E24</episode-num>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20210820144000 -0300" stop="20210820153500 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I. NY</title>
-    <desc lang="pt">Marc precisa descobrir como capturar um assassino em um voo comercial.(n)</desc>
-    <credits>
-      <director>Matt Earl Beesley</director>
-      <actor>Gary Sinise</actor>
-      <actor>Hill Harper</actor>
-      <actor>Melina Kanakaredes</actor>
-      <actor>Carmine Giovinazzo</actor>
-      <actor>Eddie Cahill</actor>
-      <actor>Anna Belknap</actor>
-      <actor>Robert Joy</actor>
-      <actor>Ben Youcef</actor>
-      <actor>Luna Rocio Cantale</actor>
-    </credits>
-    <date>2008</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/csinewyork01.jpg" />
-    <country lang="pt">Canadá</country>
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S5 E3</episode-num>
+    <episode-num system="onscreen">S12 E5</episode-num>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20210820153500 -0300" stop="20210820163000 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I</title>
-    <desc lang="pt">Catherine e Nick se envolvem com o perigoso mundo dos rachas quando um "piloto" é encontrado morto no deserto, numa pista de aviões abandonada.(n)</desc>
-    <credits>
-      <director>Danny Cannon</director>
-      <actor>William Petersen</actor>
-      <actor>Marg Helgenberger</actor>
-      <actor>Gary Dourdan</actor>
-      <actor>Eric Szmanda Robert David Hall</actor>
-      <actor>George Eads</actor>
-      <actor>Jorja Fox</actor>
-      <actor>Paul Guilfoyle</actor>
-    </credits>
-    <date>2002</date>
+  <programme start="20210821012000 -0300" stop="20210821021500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Os Melhores Cães Policiais</title>
+    <desc lang="pt">Com alguns dos cachorrinhos mais decorados de todos os tempos a colocar a pata no K9 Combine, pode ser uma noite recorde.(n)</desc>
+    <date>2020</date>
     <category lang="pt">Séries</category>
     <category lang="pt">Policial</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/csi01.jpg" />
-    <country lang="pt">EUA</country>
-    <country lang="pt">Canadá</country>
-    <episode-num system="onscreen">S3 E1</episode-num>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20210820163000 -0300" stop="20210820172500 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I. Miami</title>
-    <desc lang="pt">Uma família é o alvo de um ataque com granadas em um restaurante de elite, e os CSIs investigam se as vítimas eram mesmo o alvo dos criminosos.(n)</desc>
-    <credits>
-      <director>Sam Hill</director>
-      <actor>Evan EllingsonSprague Grayden</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/csimiami01.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S7 E23</episode-num>
+    <episode-num system="onscreen">S1 E8</episode-num>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20210820172500 -0300" stop="20210820182000 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I. Miami</title>
-    <desc lang="pt">Uma ex-estrela do futebol colegial é assassinada em uma reunião, e os CSIs precisam encontrar o assassino. A vítima era um grande homem no campus durante o Colegial e haviam muitos convidados na reunião com motivos para odiá-lo.(n)</desc>
+  <programme start="20210821021500 -0300" stop="20210821031000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">Beale é sequestrado enquanto participava de uma missão clandestina que lhe foi atribuída por Hetty. Callen e Sam se dirigem então à cidade de São Francisco para tentar encontrar o seu paradeiro.(n)</desc>
     <credits>
-      <director>Norberto Barba</director>
-      <actor>David Caruso</actor>
-      <actor>Emily Procter</actor>
-      <actor>Adam Rodriguez</actor>
-      <actor>Khandi Alexander</actor>
-      <actor>Sofia Milos</actor>
-      <actor>Jonathan Togo</actor>
-      <actor>Rex Linn</actor>
-      <actor>Max Martini</actor>
-      <actor>Holt McCallany</actor>
+      <director>Dennis Smith</director>
+      <actor>Linda Hunt</actor>
+      <actor>Chris O'Donnell</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Barrett Foa</actor>
+      <actor>LL Cool J</actor>
+      <actor>Renée Felice Smith</actor>
+      <actor>Anny Rosario</actor>
     </credits>
-    <date>2005</date>
+    <date>2019</date>
     <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/csimiami01.jpg" />
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ncisla01.jpg" />
     <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S3 E22</episode-num>
+    <episode-num system="onscreen">S11 E7</episode-num>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20210820182000 -0300" stop="20210820191500 -0300" channel="AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-    <desc lang="pt">Um teorista da conspiração ajuda a equipe quando um artefato perdido se torna a chave para resolver um homicídio duplo.(n)</desc>
+  <programme start="20210821031000 -0300" stop="20210821040500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Reencarnação</title>
+    <desc lang="pt">O que você faria se sua filha se lembrasse de estar dentro do Empire State Building quando um avião colidisse com ele, ou se seu filho sofresse terrores noturnos com as lembranças do massacre dos nativos americanos?(n)</desc>
     <credits>
-      <director>Duane Clark</director>
-      <actor>Alex O'Loughlin</actor>
-      <actor>Scott Caan</actor>
-      <actor>Daniel Dae Kim</actor>
-      <actor>Grace Park</actor>
-      <actor>Masi Oka</actor>
-      <actor>Michelle Borth</actor>
-      <actor>Justin Bruening</actor>
-      <actor>Taylor Wily</actor>
+      <actor>Liam Nicosia</actor>
     </credits>
     <date>2013</date>
     <category lang="pt">Séries</category>
-    <category lang="pt">Ação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/hawaii5001.jpg" />
+    <category lang="pt">Documentário</category>
     <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S4 E3</episode-num>
+    <episode-num system="onscreen">S2 E5</episode-num>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20210820191500 -0300" stop="20210820201000 -0300" channel="AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-    <desc lang="pt">O Five-0 investiga o assassinato de um homem que entrava de penetra em casamentos, e seu principal suspeito é a noiva, que fugiu do altar.(n)</desc>
+  <programme start="20210821040500 -0300" stop="20210821050000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Reencarnação</title>
+    <desc lang="pt">Com apenas 5 anos de idade, Olivia descreve graficamente sua família pioneira vivendo com nativos americanos e sendo assassinada.(n)</desc>
     <credits>
-      <director>Bryan Spicer</director>
-      <actor>Alex O'Loughlin</actor>
-      <actor>Scott Caan</actor>
-      <actor>Daniel Dae Kim</actor>
-      <actor>Grace Park</actor>
-      <actor>Michelle Borth</actor>
-      <actor>Rebecca De Mornay</actor>
-      <actor>Autumn Reeser</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Ação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/hawaii5001.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S4 E4</episode-num>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20210820201000 -0300" stop="20210820210500 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-    <desc lang="pt">Quando a identidade do assassino Port-to-Port é finalmente revelada, a equipe NCIS inteira encontra-se em grave perigo.(n)</desc>
-    <credits>
-      <director>Dennis Smith</director>
-      <actor>Mark Harmon</actor>
-      <actor>Cote de Pablo</actor>
-      <actor>Michael Weatherly</actor>
-      <actor>Pauley Perrette</actor>
-      <actor>Sean Murray</actor>
-      <actor>Rocky Carroll</actor>
-      <actor>David McCallum</actor>
-      <actor>Brian Dietzen</actor>
-    </credits>
-    <date>2011</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Ação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/ncis01.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S8 E24</episode-num>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20210820210500 -0300" stop="20210820220000 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I</title>
-    <desc lang="pt">O corpo de uma mulher é encontrado na cabine de locução de um campo de futebol de uma escola, aparentemente vítima de estrangulamento.(n)</desc>
-    <credits>
-      <director>Kenneth Fink</director>
-      <actor>Gary Dourdan</actor>
-      <actor>George Eads</actor>
-      <actor>William Petersen</actor>
-      <actor>Marg Helgenberger</actor>
-      <actor>Jorja Fox</actor>
-      <actor>Eric Szmanda</actor>
-      <actor>Robert David Hall</actor>
-      <actor>Bob Gunton</actor>
-      <actor>Max Martini</actor>
-    </credits>
-    <date>2003</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/csi01.jpg" />
-    <country lang="pt">EUA</country>
-    <country lang="pt">CANADÁ</country>
-    <episode-num system="onscreen">S3 E22</episode-num>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20210820220000 -0300" stop="20210820225500 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I. Miami</title>
-    <desc lang="pt">Calleigh é jogado da Estrada para um canal e prejudica algumas evidências coletadas anteriormente. Agora a equipe precisa trabalhar para encontrar novas provas, já que a maioria delas foi prejudicada pela água.(n)</desc>
-    <credits>
-      <actor>David Caruso</actor>
-      <actor>Emily Procter</actor>
-      <actor>Adam Rodriguez</actor>
-      <actor>Khandi Alexander</actor>
-      <actor>Jonathan Togo</actor>
-      <actor>Rex Linn</actor>
-      <actor>Eva La Rue</actor>
-      <actor>Johnny Whitworth</actor>
-      <actor>Chad Morgan</actor>
-    </credits>
-    <date>2006</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/csimiami01.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S5 E2</episode-num>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20210820225500 -0300" stop="20210820235000 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I</title>
-    <desc lang="pt">Um homem acusado de assassinar a esposa e colegas de trabalho leva os CSIs à uma caçada dentro de um cassino movimentado. Os CSIs colhem as provas na cena do crime.(n)</desc>
-    <credits>
-      <director>Terrence O'Hara</director>
-      <actor>William Petersen</actor>
-      <actor>Marg Helgenberger</actor>
-      <actor>Gary Dourdan</actor>
-      <actor>George Eads</actor>
-      <actor>Jorja Fox</actor>
-      <actor>Eric Szmanda</actor>
-      <actor>Robert David Hall</actor>
-      <actor>Kelly Carlson</actor>
-    </credits>
-    <date>2006</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/csi01.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S6 E23</episode-num>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20210820235000 -0300" stop="20210821004500 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I</title>
-    <desc lang="pt">Os CSIs esperam ao lado da cama de um dos membros da equipe, depois que ele foi baleado em um tiroteio.(n)</desc>
-    <credits>
-      <director>Kenneth Fink</director>
-      <actor>William Petersen</actor>
-      <actor>Marg Helgenberger</actor>
-      <actor>Gary Dourdan</actor>
-      <actor>George Eads</actor>
-      <actor>Eric Szmanda</actor>
-      <actor>Paul Guilfoyle</actor>
-      <actor>Joseph Patrick Kelly</actor>
-      <actor>Patricia Heller</actor>
-    </credits>
-    <date>2006</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/csi01.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S6 E24</episode-num>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20210820140000 -0300" stop="20210820180000 -0300" channel="Band News HD">
-    <title lang="pt">Tarde Bandnews</title>
-    <desc lang="pt">As principais notícias do Brasil e do mundo, você encontra no Tarde BandNews. Coberturas ao vivo e a participação de repórteres espalhados por todo o país e pelo exterior.(n)</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_tardebandnews01.jpg" />
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820180000 -0300" stop="20210820184500 -0300" channel="Band News HD">
-    <title lang="pt">Jornal BandNews</title>
-    <desc lang="pt">No fim da tarde, você fica bem informado sobre tudo o que aconteceu de importante e também as notícias do momento no Jornal BandNews: 2ª Edição.(n)</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820184500 -0300" stop="20210820190000 -0300" channel="Band News HD">
-    <title lang="pt">Mercado Bnews Com Juliana Rosa</title>
-    <desc lang="pt">Confira as principais notícias de economia do dia com Juliana Rosa.(n)</desc>
-    <credits>
-      <actor>Juliana Rosa</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Informativo</category>
-    <country lang="pt">Brasil</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820190000 -0300" stop="20210820200000 -0300" channel="Band News HD">
-    <title lang="pt">Jornal BandNews</title>
-    <desc lang="pt">No fim da tarde, você fica bem informado sobre tudo o que aconteceu de importante e também as notícias do momento no Jornal BandNews: 2ª Edição.(n)</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820200000 -0300" stop="20210820203000 -0300" channel="Band News HD">
-    <title lang="pt">Expresso Bandnews</title>
-    <desc lang="pt">Um telejornal para quem não tem tempo a perder. As principais notícias em um formato rápido e dinâmico.(n)</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_expressobandnews01.jpg" />
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820203000 -0300" stop="20210820213000 -0300" channel="Band News HD">
-    <title lang="pt">Jornal da Band</title>
-    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.(n)</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/jornaldaband01.jpg" />
-    <country lang="pt">Brasil</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820213000 -0300" stop="20210820220000 -0300" channel="Band News HD">
-    <title lang="pt">Expresso Bandnews</title>
-    <desc lang="pt">Um telejornal para quem não tem tempo a perder. As principais notícias em um formato rápido e dinâmico.(n)</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_expressobandnews01.jpg" />
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820220000 -0300" stop="20210820230000 -0300" channel="Band News HD">
-    <title lang="pt">Jornal BandNews Edição da Noite</title>
-    <desc lang="pt">Tudo o que foi notícia e a análise dos principais fatos do dia, você encontra no Jornal BandNews: Edição da Noite.(n)</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820230000 -0300" stop="20210820233000 -0300" channel="Band News HD">
-    <title lang="pt">Conexão com The New York Times</title>
-    <desc lang="pt">Programa com matérias jornalisticas em parceria com o The New York Times.(n)</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_conexaocomthenewyorktim01.jpg" />
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20210820233000 -0300" stop="20210821000000 -0300" channel="Band News HD">
-    <title lang="pt">Jornal BandNews Edição da Noite</title>
-    <desc lang="pt">Tudo o que foi notícia e a análise dos principais fatos do dia, você encontra no Jornal BandNews: Edição da Noite.(n)</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820143000 -0300" stop="20210820153000 -0300" channel="Band Sports HD">
-    <title lang="pt">Tiki Taka</title>
-    <desc lang="pt">Apresentado por Mauricio Barros e comentários de Marilia Ruiz e Eduardo Tironi o programa é um mesa redonda sempre as sextas feiras para debater tudo da rodada do fim de semana.(n)</desc>
-    <credits>
-      <actor>Mauricio Barros</actor>
-    </credits>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Debate</category>
-    <country lang="pt">Brasil</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820153000 -0300" stop="20210820160000 -0300" channel="Band Sports HD">
-    <title lang="pt">Sapiando</title>
-    <desc lang="pt">Bate-papos descontraídos e intimistas com personalidades esportivas.(n)</desc>
-    <credits>
-      <actor>Luizão Goulart</actor>
-      <actor>Yara Fantoni</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Debate</category>
-    <country lang="pt">Brasil</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820160000 -0300" stop="20210820170000 -0300" channel="Band Sports HD">
-    <title lang="pt">A Busca da Medalha</title>
-    <desc lang="pt">Programa semanal que mostra a preparação das quatro duplas de vôlei de praia representantes do Brasil nos Jogos Olímpicos de Tóquio. A atração acompanha a preparação física e mental dos atletas.(n)</desc>
-    <date>2021</date>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Vôlei de Praia</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820170000 -0300" stop="20210820180000 -0300" channel="Band Sports HD">
-    <title lang="pt">Bola Rolando</title>
-    <desc lang="pt">No final da tarde, logo que as atividades dos clubes se encerram, a bola rola na tela do Bandsports. Informação, discussão e projeção sobre o dia do futebol no Brasil e no Mundo.(n)</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Esportivo</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820180000 -0300" stop="20210820200000 -0300" channel="Band Sports HD">
-    <title lang="pt">Hipismo: Longiness XTC</title>
-    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Hipismo</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820200000 -0300" stop="20210820220000 -0300" channel="Band Sports HD">
-    <title lang="pt">Baita Amigos</title>
-    <desc lang="pt">O craque Neto e amigos debatem o futebol do Brasil. Todas as segundas (pós rodada) e sextas (previa da rodada).(n)</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Esportivo</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_baitaamigos01.jpg" />
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820220000 -0300" stop="20210820223000 -0300" channel="Band Sports HD">
-    <title lang="pt">Compacto Campeonato Russo</title>
-    <desc lang="pt">Acompanhe o Compacto de jogos do campeonato russo.(n)</desc>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Futebol</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820223000 -0300" stop="20210820230000 -0300" channel="Band Sports HD">
-    <title lang="pt">Rally dos Sertões</title>
-    <desc lang="pt">Entre os dias 13 e 22 de agosto, acontece o Rally dos Sertões e você confere tudo aqui na Band.(n)</desc>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Radical</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820230000 -0300" stop="20210821000000 -0300" channel="Band Sports HD">
-    <title lang="pt">Tiki Taka</title>
-    <desc lang="pt">Apresentado por Mauricio Barros e comentários de Marilia Ruiz e Eduardo Tironi o programa é um mesa redonda sempre as sextas feiras para debater tudo da rodada do fim de semana.(n)</desc>
-    <credits>
-      <actor>Mauricio Barros</actor>
-    </credits>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Debate</category>
-    <country lang="pt">Brasil</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820140100 -0300" stop="20210820160300 -0300" channel="BIS HD">
-    <title lang="pt">Madonna: Rebel Heart Tour</title>
-    <desc lang="pt">Show da décima turnê feita pela cantora para divulgar o álbum Rebel Heart. Vai ser no dia 09 de dezembro.(n)</desc>
-    <credits>
-      <director>Jamie King</director>
-    </credits>
-    <date>2015</date>
-    <category lang="pt">Espetáculo</category>
-    <category lang="pt">Show</category>
-    <country lang="pt">EUA</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820160300 -0300" stop="20210820163000 -0300" channel="BIS HD">
-    <title lang="pt">Rock Legends - Songs For The People</title>
-    <desc lang="pt">Série sobre os grandes nomes do rock internacional.(n)</desc>
-    <credits>
-      <director>Cal Saville</director>
-      <director>Lindy Saville</director>
-    </credits>
-    <date>2019</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Musical</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_rocklegendstompetty01.jpg" />
-    <country lang="pt">Inglaterra</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820163000 -0300" stop="20210820170000 -0300" channel="BIS HD">
-    <title lang="pt">Estúdio Do Dado</title>
-    <desc lang="pt">Caetano Veloso e seu filho Moreno foram recebidos por Dado Villa-Lobos no Estúdio para uma sessão de músicas especiais.(n)</desc>
-    <credits>
-      <director>Gabriela Gastal</director>
+      <actor>De'Marco Arrington</actor>
     </credits>
     <date>2014</date>
     <category lang="pt">Séries</category>
-    <category lang="pt">Musical</category>
-    <country lang="pt">Brasil</country>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820170000 -0300" stop="20210820180000 -0300" channel="BIS HD">
-    <title lang="pt">Dhani Harrison</title>
-    <desc lang="pt">Faixa dedicada aos shows dos maiores artistas da atualidade.(n)</desc>
-    <credits>
-      <director>Rich Bond</director>
-    </credits>
-    <date>2019</date>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Musical</category>
+    <category lang="pt">Documentário</category>
     <country lang="pt">EUA</country>
-    <rating system="BR">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20210820180000 -0300" stop="20210820190000 -0300" channel="BIS HD">
-    <title lang="pt">Setlist</title>
-    <desc lang="pt">Faixa que reúne os melhores clipes nacionais e internacionais.(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Musical</category>
-    <country lang="pt">Brasil</country>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20210820190000 -0300" stop="20210820193300 -0300" channel="BIS HD">
-    <title lang="pt">Cena Londres</title>
-    <desc lang="pt">O programa mostra shows de bandas já consagradas ou em ascensão apenas na cena de Londres.(n)</desc>
-    <credits>
-      <director>Marcia Leite</director>
-    </credits>
-    <date>2015</date>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Musical</category>
-    <country lang="pt">Brasil</country>
-    <episode-num system="onscreen">S2 E7</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820193300 -0300" stop="20210820200400 -0300" channel="BIS HD">
-    <title lang="pt">Música Sertaneja Do Brasil</title>
-    <desc lang="pt">Em formato intimista, novos artistas do sertanejo cantam clássicos com músicos consagrados do gênero. Nesse episódio, Zé Geraldo faz uma participação especial e canta senhorita com Chico Teixeira.(n)</desc>
-    <credits>
-      <director>Roberto T. Oliveira</director>
-    </credits>
-    <date>2019</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Musical</category>
-    <country lang="pt">Brasil</country>
-    <episode-num system="onscreen">S1 E12</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820200400 -0300" stop="20210820203400 -0300" channel="BIS HD">
-    <title lang="pt">Minha Loja De Discos</title>
-    <desc lang="pt">Série que coloca o espectador por dentro das mitológicas, charmosas e maiores lojas de discos do mundo.(n)</desc>
-    <credits>
-      <director>Rodrigo Pinto</director>
-    </credits>
-    <date>2015</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Musical</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/minhalojadediscos01.jpg" />
-    <country lang="pt">Brasil</country>
-    <episode-num system="onscreen">S3 E4</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820203400 -0300" stop="20210820210000 -0300" channel="BIS HD">
-    <title lang="pt">Rock Icons</title>
-    <desc lang="pt">Série de perfis de astros do rock, com entrevistas e imagens de arquivo. Neste episódio, Daryl Hall, o tecladista, guitarrista e compositor que ajudou a fundar o duo Hall &amp; Oates, de muito sucesso no final dos anos 70 e início dos anos 80.(n)</desc>
-    <credits>
-      <director>Sam Dunn</director>
-    </credits>
-    <date>2015</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Musical</category>
-    <country lang="pt">Canadá</country>
-    <episode-num system="onscreen">E8</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820210000 -0300" stop="20210820220000 -0300" channel="BIS HD">
-    <title lang="pt">Iggy Pop Plays Baloise</title>
-    <desc lang="pt">Há uma razão pela qual Iggy Pop é o padrinho do punk: cada banda punk do passado e presente já pegou emprestado uma ou duas coisas desse grande artista.(n)</desc>
-    <credits>
-      <director>Roli Bärlocher</director>
-    </credits>
-    <date>2017</date>
-    <category lang="pt">Espetáculo</category>
-    <category lang="pt">Show</category>
-    <country lang="pt">Suiça</country>
+    <episode-num system="onscreen">S2 E6</episode-num>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20210820220000 -0300" stop="20210820230000 -0300" channel="BIS HD">
-    <title lang="pt">Sex Pistols - There Will Always Be An England</title>
-    <desc lang="pt">30 anos depois do lançamento estrondoso do álbum "Never Mind The Bollocks", este show, gravado em 2007 na Brixton Academy e registrado pelas lentes do diretor Julien Temple.(n)</desc>
-    <credits>
-      <director>Julian Temple</director>
-    </credits>
-    <date>2008</date>
-    <category lang="pt">Espetáculo</category>
-    <category lang="pt">Show</category>
-    <country lang="pt">Reino Unido</country>
+  <programme start="20210821050000 -0300" stop="20210821053000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Resgates Ao Vivo</title>
+    <desc lang="pt">Em Nova Jersey, os oficiais devem encontrar o suspeito de ter atropelado e abandonado uma vítima. Em outra ocorrência, uma pessoa fica presa em uma ponte e os agentes do Arizona farão o possível para salvá-la.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Diversos</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
     <rating system="BR">
-      <value>L</value>
+      <value>14</value>
     </rating>
   </programme>
-  <programme start="20210820230000 -0300" stop="20210820233100 -0300" channel="BIS HD">
-    <title lang="pt">Depois Daquele Álbum</title>
-    <desc lang="pt">A cada episódio um artista convidado toca seu álbum preferido de algum outro músico. Nesse episódio, Paulo Ricardo toca "Sticky Fingers" dos Rolling Stones. Ele comenta as músicas e conta o quanto o álbum o influenciou.(n)</desc>
-    <credits>
-      <director>Felipe Ariani</director>
-    </credits>
-    <date>2019</date>
+  <programme start="20210821053000 -0300" stop="20210821060000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Resgates Ao Vivo</title>
+    <desc lang="pt">Agentes encontram um carro incendiado no Texas. Será que eles chegam a tempo de salvar o motorista? Oficiais respondem a um pedido de ajuda por conta de um tiroteio na Califórnia.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Diversos</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821065200 -0300" channel="A&amp;E HD">
+    <title lang="pt">Último Dia Em Liberdade</title>
+    <desc lang="pt">Ali quer aproveitar suas últimas 24 horas em liberdade para acertar contas com sua família e contar aos seus pais que não quer voltar à sua cidade quando for libertada.(n)</desc>
+    <date>2017</date>
     <category lang="pt">Séries</category>
-    <category lang="pt">Musical</category>
-    <country lang="pt">Brasil</country>
+    <category lang="pt">Suspense</category>
+    <episode-num system="onscreen">S2 E11</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821065200 -0300" stop="20210821074700 -0300" channel="A&amp;E HD">
+    <title lang="pt">Máfia Gotti</title>
+    <desc lang="pt">Anos depois, após se formar, em vez de seguir a carreira militar por insistência de seu pai, John Junior tira um ano de folga. É quando seus problemas começam e ele entra em uma briga de bar.(n)</desc>
+    <credits>
+      <director>Richard Stratton</director>
+      <actor>John Gotti Jr.</actor>
+      <actor>Jim Abbott</actor>
+      <actor>Ralph Bracco</actor>
+      <actor>Daniel Brausch</actor>
+      <actor>Angel Gotti</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">EUA</country>
     <episode-num system="onscreen">S1 E2</episode-num>
     <rating system="BR">
-      <value>L</value>
+      <value>14</value>
     </rating>
   </programme>
-  <programme start="20210820233100 -0300" stop="20210821000000 -0300" channel="BIS HD">
-    <title lang="pt">Música Sertaneja Do Brasil</title>
-    <desc lang="pt">Em formato intimista, novos artistas do sertanejo cantam clássicos com músicos consagrados do gênero. Nesse episódio, a dupla César Menotti e Fabiano faz uma participação especial e canta "Chico Mineiro".(n)</desc>
-    <credits>
-      <director>Roberto T. Oliveira</director>
-    </credits>
-    <date>2019</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Musical</category>
-    <country lang="pt">Brasil</country>
-    <episode-num system="onscreen">S1 E13</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820142500 -0300" stop="20210820143100 -0300" channel="Boomerang HD">
-    <title lang="pt">New Looney Tunes</title>
-    <desc lang="pt">O Pernalonga está à solta na sociedade moderna! O coelho travesso enfrentará novos adversários, mas também terá o apoio de alguns novos e velhos amigos!(n)</desc>
+  <programme start="20210821074700 -0300" stop="20210821084100 -0300" channel="A&amp;E HD">
+    <title lang="pt">Minha Vida C/ Síndrome De Down</title>
+    <desc lang="pt">Rachel, que nunca teve sorte no amor, se prepara para o primeiro encontro com alguém do grupo de teatro por quem está muito interessada.(n)</desc>
     <date>2015</date>
     <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/wabbit01.jpg" />
-    <country lang="pt">EUA</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820143100 -0300" stop="20210820143800 -0300" channel="Boomerang HD">
-    <title lang="pt">Grizzy e os Lemmings</title>
-    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
-    <country lang="pt">França</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820143800 -0300" stop="20210820144500 -0300" channel="Boomerang HD">
-    <title lang="pt">Grizzy e os Lemmings</title>
-    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
-    <country lang="pt">França</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820144500 -0300" stop="20210820145500 -0300" channel="Boomerang HD">
-    <title lang="pt">Grizzy e os Lemmings</title>
-    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
-    <country lang="pt">França</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820145500 -0300" stop="20210820150200 -0300" channel="Boomerang HD">
-    <title lang="pt">Grizzy e os Lemmings</title>
-    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
-    <country lang="pt">França</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820150200 -0300" stop="20210820150900 -0300" channel="Boomerang HD">
-    <title lang="pt">Grizzy e os Lemmings</title>
-    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
-    <country lang="pt">França</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820150900 -0300" stop="20210820151800 -0300" channel="Boomerang HD">
-    <title lang="pt">Grizzy e os Lemmings</title>
-    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
-    <country lang="pt">França</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820151800 -0300" stop="20210820152500 -0300" channel="Boomerang HD">
-    <title lang="pt">Grizzy e os Lemmings</title>
-    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
-    <country lang="pt">França</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820152500 -0300" stop="20210820153200 -0300" channel="Boomerang HD">
-    <title lang="pt">Grizzy e os Lemmings</title>
-    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
-    <country lang="pt">França</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820153200 -0300" stop="20210820154600 -0300" channel="Boomerang HD">
-    <title lang="pt">Corrida Maluca</title>
-    <desc lang="pt">Um musical de Bollywood invade a velha cidade indiana.(n)</desc>
-    <credits>
-      <director>Matt Whitlock</director>
-      <actor>Vozes de Christopher Judge</actor>
-      <actor>Diedrich Bader</actor>
-      <actor>Tom Kenny</actor>
-      <actor>Nicole Parker</actor>
-      <actor>Peter Woodward</actor>
-      <actor>Daws Butler</actor>
-      <actor>Don Messick</actor>
-      <actor>John Stephenson</actor>
-      <actor>Paul Winchell</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_corridamaluca01.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S1 E37</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820154600 -0300" stop="20210820155700 -0300" channel="Boomerang HD">
-    <title lang="pt">Corrida Maluca</title>
-    <desc lang="pt">Penélope é sequestrada por aliens e obrigada a competir numa corrida espacial contra alienígenas esquisitos, mas familiares. E somente Space Ghost poderá nos salvar!(n)</desc>
-    <credits>
-      <director>Matt Whitlock</director>
-      <actor>Vozes de Christopher Judge</actor>
-      <actor>Diedrich Bader</actor>
-      <actor>Tom Kenny</actor>
-      <actor>Nicole Parker</actor>
-      <actor>Peter Woodward</actor>
-      <actor>Daws Butler</actor>
-      <actor>Don Messick</actor>
-      <actor>John Stephenson</actor>
-      <actor>Paul Winchell</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_corridamaluca01.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S2 E59</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820155700 -0300" stop="20210820162200 -0300" channel="Boomerang HD">
-    <title lang="pt">Barbie Dreamhouse Adventures</title>
-    <desc lang="pt">Com suas irmãs envolvidas numa confusão, caberá a Barbie provar a inocência delas e encontrar o verdadeiro culpado enquanto usa uma fantasia de sereia.(n)</desc>
-    <credits>
-      <director>Patrice Berube</director>
-      <actor>Vozes de America Young</actor>
-      <actor>Kirsten Day</actor>
-      <actor>Cassandra Lee Morris</actor>
-      <actor>America Young</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S3 E25</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820162200 -0300" stop="20210820162900 -0300" channel="Boomerang HD">
-    <title lang="pt">Masha e o Urso</title>
-    <desc lang="pt">Verão é o tempo certo para descansar e se delirar com pequenas milagres. Como é bom ficar sentado na beira do rio na companhia de melhores amigos!(n)</desc>
-    <credits>
-      <director>Oleg Kuzovkov</director>
-      <actor>Vozes de Alina Kukushkina</actor>
-      <actor>Boris Kutnevich</actor>
-      <actor>Rebecca Bloom</actor>
-    </credits>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/mashabear01.jpg" />
-    <country lang="pt">Rússia</country>
-    <episode-num system="onscreen">S3 E73</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820162900 -0300" stop="20210820164000 -0300" channel="Boomerang HD">
-    <title lang="pt">Lego Friends</title>
-    <desc lang="pt">As meninas juntam pistas com um mapa da área de Velho Centro e encontram um caminho para o navio Coração do Oceano e seu tesouro!(n)</desc>
-    <credits>
-      <director>Kacey Arnold</director>
-      <actor>Vozes de Alex Cartañá</actor>
-      <actor>Jasmine St. Clair</actor>
-      <actor>Amaya Harrow</actor>
-      <actor>Kira Buckland</actor>
-      <actor>Allegra Clark</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <country lang="pt">Dinamarca</country>
-    <episode-num system="onscreen">S4 E12</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820164000 -0300" stop="20210820165300 -0300" channel="Boomerang HD">
-    <title lang="pt">Lego Friends</title>
-    <desc lang="pt">Determinadas a proteger o Coração do Oceano e a história da cidade de Heartlake, as garotas saem para encontrar o tesouro em uma corrida para ver quem consegue chegar primeiro!(n)</desc>
-    <credits>
-      <director>Kacey Arnold</director>
-      <actor>Vozes de Alex Cartañá</actor>
-      <actor>Jasmine St. Clair</actor>
-      <actor>Amaya Harrow</actor>
-      <actor>Kira Buckland</actor>
-      <actor>Allegra Clark</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <country lang="pt">Dinamarca</country>
-    <episode-num system="onscreen">S4 E13</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820165300 -0300" stop="20210820170400 -0300" channel="Boomerang HD">
-    <title lang="pt">Lego Friends</title>
-    <desc lang="pt">A determinação de Andrea em ganhar o show de talentos da cidade faz com que ela perca o foco do que é realmente importante.(n)</desc>
-    <credits>
-      <director>Kacey Arnold</director>
-      <actor>Vozes de Alex Cartañá</actor>
-      <actor>Jasmine St. Clair</actor>
-      <actor>Amaya Harrow</actor>
-      <actor>Kira Buckland</actor>
-      <actor>Allegra Clark</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <country lang="pt">Dinamarca</country>
-    <episode-num system="onscreen">S4 E14</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820170400 -0300" stop="20210820171200 -0300" channel="Boomerang HD">
-    <title lang="pt">O Show de Tom e Jerry</title>
-    <desc lang="pt">Jerry descobre que os gatos têm uma fobia misteriosa a pepinos e decide testar Tom. Após vê-lo se assustar diversas vezes, Butch resolve ajudar Tom a vencer seu medo. O problema é que o próprio Butch morre de medo também.(n)</desc>
-    <credits>
-      <director>Darrell Van Citters</director>
-      <actor>Voz de Julie Wittner</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdotomjerry01.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S3 E145</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820171200 -0300" stop="20210820172200 -0300" channel="Boomerang HD">
-    <title lang="pt">O Show de Tom e Jerry</title>
-    <desc lang="pt">Quando Tom e Jerry vão a uma festa na piscina de Toodles, Tom começa a fazer malabarismos absurdos. Butch e Meathead chegam e a rivalidade aumenta.(n)</desc>
-    <credits>
-      <director>Darrell Van Citters</director>
-      <actor>Voz de Julie Wittner</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdotomjerry01.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S3 E167</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820172200 -0300" stop="20210820172900 -0300" channel="Boomerang HD">
-    <title lang="pt">O Show de Tom e Jerry</title>
-    <desc lang="pt">Tom e Jerry acordam com o cheiro de ovos cozidos na cozinha - Ginger e Rick estão preparando o café da manhã com os ovos fresquinhos presenteados pelo vizinho. Os dois conversam sobre o galinheiro do novo morador, que produz seus próprios ovos.(n)</desc>
-    <credits>
-      <director>Darrell Van Citters</director>
-      <actor>Voz de Julie Wittner</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdotomjerry01.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S3 E155</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820172900 -0300" stop="20210820174100 -0300" channel="Boomerang HD">
-    <title lang="pt">Ben 10</title>
-    <desc lang="pt">Após Ben se livrar facilmente dos Climáticos, a Equipe Tennyson viaja a uma estação de esqui para se divertir um pouco. Mas, quando Ben se depara com os Climáticos de novo, ele é obrigado a lidar com eles...(n)</desc>
-    <credits>
-      <actor>Vozes Tara Strong</actor>
-      <actor>John Di Maggio</actor>
-      <actor>Montse Hernandez</actor>
-      <actor>David Kaye</actor>
-      <actor>Travis Willingham</actor>
-      <actor>Todd Haberkorn</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ben1001.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S3 E225</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820174100 -0300" stop="20210820175400 -0300" channel="Boomerang HD">
-    <title lang="pt">Ben 10</title>
-    <desc lang="pt">Quando Ben testemunha Vin Ethanol impressionado com o conhecimento automotivo de Kevin, seu ciúme lhe convence de que ele precisa superar Kevin antes que Vin seja influenciado e abrace seu lado mau numa corrida beneficente.(n)</desc>
-    <credits>
-      <actor>Vozes Tara Strong</actor>
-      <actor>John Di Maggio</actor>
-      <actor>Montse Hernandez</actor>
-      <actor>David Kaye</actor>
-      <actor>Travis Willingham</actor>
-      <actor>Todd Haberkorn</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ben1001.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S3 E226</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820175400 -0300" stop="20210820180600 -0300" channel="Boomerang HD">
-    <title lang="pt">Ben 10</title>
-    <desc lang="pt">Tudo que Ben deseja é impedir que a Abelha Rainha roube um banco. Mas, quando Kevin aparece e tenta ser o herói para levar a glória, Ben precisará salvar o dia duas vezes.(n)</desc>
-    <credits>
-      <actor>Vozes Tara Strong</actor>
-      <actor>John Di Maggio</actor>
-      <actor>Montse Hernandez</actor>
-      <actor>David Kaye</actor>
-      <actor>Travis Willingham</actor>
-      <actor>Todd Haberkorn</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ben1001.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S3 E227</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820180600 -0300" stop="20210820183200 -0300" channel="Boomerang HD">
-    <title lang="pt">Que Legal, Scooby-Doo!</title>
-    <desc lang="pt">Fred e a gangue são chamados para solucionar um mistério envolvendo uma figura do passado de Fred, o Professor Huh.(n)</desc>
-    <credits>
-      <director>Kyle Stafford</director>
-      <actor>Vozes de Grey DeLisle</actor>
-      <actor>Matthew Lillard</actor>
-      <actor>Kate Micucci</actor>
-      <actor>Frank Welker</actor>
-      <actor>Jeff Bennett</actor>
-      <actor>Phil Morris</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/quelegalscooby01.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S2</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820183200 -0300" stop="20210820185600 -0300" channel="Boomerang HD">
-    <title lang="pt">Que Legal, Scooby-Doo!</title>
-    <desc lang="pt">Fred e a gangue são chamados para solucionar um mistério envolvendo uma figura do passado de Fred, o Professor Huh.(n)</desc>
-    <credits>
-      <director>Kyle Stafford</director>
-      <actor>Vozes de Grey DeLisle</actor>
-      <actor>Matthew Lillard</actor>
-      <actor>Kate Micucci</actor>
-      <actor>Frank Welker</actor>
-      <actor>Jeff Bennett</actor>
-      <actor>Phil Morris</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/quelegalscooby01.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S2 E51</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820185600 -0300" stop="20210820190300 -0300" channel="Boomerang HD">
-    <title lang="pt">Zuzubalândia</title>
-    <desc lang="pt">A Bruxa recebe a visita de um lobisomem por alguns dias. Apesar de mal educado, o amigo peludo acaba dando uma ideia de como ela pode ser tornar rainha de Zuzubalândia.(n)</desc>
-    <date>2018</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_zuzubalandia01.jpg" />
-    <country lang="pt">Brasil</country>
-    <episode-num system="onscreen">S1 E28</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820190300 -0300" stop="20210820191300 -0300" channel="Boomerang HD">
-    <title lang="pt">Zuzubalândia</title>
-    <desc lang="pt">Nessa versão da história, Zuzu faz o papel de Zinderela. A Bruxa é a madrasta e Brigadeiro e Laricão as irmãs feias. Diferente da história original, Zinderela quer ir ao baile para cantar com o Melvis e não conhecer um príncipe.(n)</desc>
-    <credits>
-      <director>Mariana Caltabiano</director>
-      <actor>Vozes de Eduardo Jardim</actor>
-      <actor>Luiza Porto</actor>
-      <actor>Hugo Picchi</actor>
-      <actor>Daniel Costa</actor>
-      <actor>Bruna Guerin</actor>
-      <actor>Antoniela Canto</actor>
-    </credits>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_zuzubalandia01.jpg" />
-    <country lang="pt">Brasil</country>
-    <episode-num system="onscreen">S2 E12</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820191300 -0300" stop="20210820193900 -0300" channel="Boomerang HD">
-    <title lang="pt">Barbie Dreamhouse Adventures</title>
-    <desc lang="pt">Enquanto toda a familia se prepara para as ferias, Ken e Barbie descobrem o verdadeiro significado da amizade quando tentam encontrar presentes perfeitos um para o outro.(n)</desc>
-    <credits>
-      <director>Patrice Berube</director>
-      <actor>Vozes de America Young</actor>
-      <actor>Kirsten Day</actor>
-      <actor>Cassandra Lee Morris</actor>
-      <actor>America Young</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S2 E25</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820193900 -0300" stop="20210820194600 -0300" channel="Boomerang HD">
-    <title lang="pt">Weeboom</title>
-    <desc lang="pt">Procurar Boomies pode ser muito estressante. Boom resolve levar Wee para relaxar em um Spa em Bangkok, na Tailândia. Quem diria que haveria um Boomie num Spa?(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <country lang="pt">Brasil</country>
-    <episode-num system="onscreen">S1</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820194600 -0300" stop="20210820195300 -0300" channel="Boomerang HD">
-    <title lang="pt">Weeboom</title>
-    <desc lang="pt">Wee e Boom estão em Orlando, EUA, para o famoso parque de diversões, a Diverlândia! No entanto, algo parece estranho. Onde foram parar todos os adultos?(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <country lang="pt">Brasil</country>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820195300 -0300" stop="20210820200500 -0300" channel="Boomerang HD">
-    <title lang="pt">DC Super Hero Girls</title>
-    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
-    <credits>
-      <director>Noëlle Raffaele</director>
-      <actor>Vozes de Kimberly Brooks</actor>
-      <actor>Grey Griffin</actor>
-      <actor>Tara Strong</actor>
-      <actor>Nicole Sullivan</actor>
-      <actor>Myrna Velasco</actor>
-      <actor>Kari Wahlgren</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S1 E17</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820200500 -0300" stop="20210820201900 -0300" channel="Boomerang HD">
-    <title lang="pt">DC Super Hero Girls</title>
-    <desc lang="pt">Jessica Cruz está convencida de que pode encontrar o lar perfeito para Dexter, um gato considerado inadotável por ser basicamente o pior gato do mundo.(n)</desc>
-    <credits>
-      <director>Noëlle Raffaele</director>
-      <actor>Vozes de Kimberly Brooks</actor>
-      <actor>Grey Griffin</actor>
-      <actor>Tara Strong</actor>
-      <actor>Nicole Sullivan</actor>
-      <actor>Myrna Velasco</actor>
-      <actor>Kari Wahlgren</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S1 E23</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820201900 -0300" stop="20210820203000 -0300" channel="Boomerang HD">
-    <title lang="pt">DC Super Hero Girls</title>
-    <desc lang="pt">Tudo está indo bem para Kara Danvers, tanto como uma adolescente quanto como uma super-heroína.(n)</desc>
-    <credits>
-      <director>Noëlle Raffaele</director>
-      <actor>Vozes de Kimberly Brooks</actor>
-      <actor>Grey Griffin</actor>
-      <actor>Tara Strong</actor>
-      <actor>Nicole Sullivan</actor>
-      <actor>Myrna Velasco</actor>
-      <actor>Kari Wahlgren</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S1 E28</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820203000 -0300" stop="20210820203600 -0300" channel="Boomerang HD">
-    <title lang="pt">New Looney Tunes</title>
-    <desc lang="pt">O Pernalonga está à solta na sociedade moderna! O coelho travesso enfrentará novos adversários, mas também terá o apoio de alguns novos e velhos amigos!(n)</desc>
-    <date>2015</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/wabbit01.jpg" />
-    <country lang="pt">EUA</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820203600 -0300" stop="20210820204400 -0300" channel="Boomerang HD">
-    <title lang="pt">New Looney Tunes</title>
-    <desc lang="pt">O Pernalonga está à solta na sociedade moderna! O coelho travesso enfrentará novos adversários, mas também terá o apoio de alguns novos e velhos amigos!(n)</desc>
-    <date>2015</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/wabbit01.jpg" />
-    <country lang="pt">EUA</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820204400 -0300" stop="20210820205000 -0300" channel="Boomerang HD">
-    <title lang="pt">New Looney Tunes</title>
-    <desc lang="pt">O Pernalonga está à solta na sociedade moderna! O coelho travesso enfrentará novos adversários, mas também terá o apoio de alguns novos e velhos amigos!(n)</desc>
-    <date>2015</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/wabbit01.jpg" />
-    <country lang="pt">EUA</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820205000 -0300" stop="20210820205600 -0300" channel="Boomerang HD">
-    <title lang="pt">New Looney Tunes</title>
-    <desc lang="pt">O Pernalonga está à solta na sociedade moderna! O coelho travesso enfrentará novos adversários, mas também terá o apoio de alguns novos e velhos amigos!(n)</desc>
-    <date>2015</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/wabbit01.jpg" />
-    <country lang="pt">EUA</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820205600 -0300" stop="20210820210700 -0300" channel="Boomerang HD">
-    <title lang="pt">Mr. Bean</title>
-    <desc lang="pt">Irma quer fazer uma viagem romântica, mas Bean não quer. É caro demais. Até que ela sequestra Teddy e se recusa a devolvê-lo, se Bean não prometer levá-la a Paris. Entre não querer gastar e seu amor por Teddy, Bean não sabe o que fazer!(n)</desc>
-    <credits>
-      <actor>Vozes de Rowan Atkinson</actor>
-      <actor>Teddy</actor>
-      <actor>Gary Martin</actor>
-    </credits>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/mrbeananimado01.jpg" />
-    <country lang="pt">Inglaterra</country>
-    <episode-num system="onscreen">S3 E17</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820210700 -0300" stop="20210820212100 -0300" channel="Boomerang HD">
-    <title lang="pt">Mr. Bean</title>
-    <desc lang="pt">Bean quer se livrar de um almoço com a mãe de Irma a qualquer custo. Ele então convence a Sra. Wicket a deixá-lo acompanhá-la numa excursão a um show, mas precisa se disfarçar de idoso, se quiser participar.(n)</desc>
-    <credits>
-      <actor>Vozes de Rowan Atkinson</actor>
-      <actor>Teddy</actor>
-      <actor>Gary Martin</actor>
-    </credits>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/mrbeananimado01.jpg" />
-    <country lang="pt">Inglaterra</country>
-    <episode-num system="onscreen">S3 E18</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820212100 -0300" stop="20210820213200 -0300" channel="Boomerang HD">
-    <title lang="pt">Mr. Bean</title>
-    <desc lang="pt">Enquanto mostra para Irma sua árvore favorita no parque, Bean se depara com um sujeito que está prestes a derrubá-la. Ele então escala a árvore e se recusa a descer. Irma se encanta com esse novo lado de Bean-ey!(n)</desc>
-    <credits>
-      <actor>Vozes de Rowan Atkinson</actor>
-      <actor>Teddy</actor>
-      <actor>Gary Martin</actor>
-    </credits>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/mrbeananimado01.jpg" />
-    <country lang="pt">Inglaterra</country>
-    <episode-num system="onscreen">S3 E19</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820213200 -0300" stop="20210820213900 -0300" channel="Boomerang HD">
-    <title lang="pt">Taffy</title>
-    <desc lang="pt">Taffy se torna um astro da internet! Todos pensam que ele é um gatinho superfofo e engraçado. Duque fica enciumado e furioso. Mas talvez a internet possa ser muito útil! Duque tentará descobrir a verdadeira identidade desse guaxinim pestilento!(n)</desc>
-    <credits>
-      <director>Ahmed Guerrouache</director>
-      <actor>Voz de Serra Hirsch</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <country lang="pt">Reino Unido</country>
-    <episode-num system="onscreen">S1 E12</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820213900 -0300" stop="20210820214800 -0300" channel="Boomerang HD">
-    <title lang="pt">Taffy</title>
-    <desc lang="pt">Esnobert está em busca de um astro para o seu próximo filme! Dona Madame está com pressa... mas, primeiro de tudo, Duque precisa passar nos testes. Taffy, enciumado, fará de tudo para sabotar o momento de glória do cão!(n)</desc>
-    <credits>
-      <director>Ahmed Guerrouache</director>
-      <actor>Voz de Serra Hirsch</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <country lang="pt">Reino Unido</country>
-    <episode-num system="onscreen">S1 E39</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820214800 -0300" stop="20210820215600 -0300" channel="Boomerang HD">
-    <title lang="pt">Taffy</title>
-    <desc lang="pt">Dona Madame está em boa forma, mas deseja melhorar sua saúde. Biniko então põe a mansão inteira numa dieta de couve. Taffy fica enlouquecido.(n)</desc>
-    <credits>
-      <director>Ahmed Guerrouache</director>
-      <actor>Voz de Serra Hirsch</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <country lang="pt">Reino Unido</country>
-    <episode-num system="onscreen">S1 E21</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820215600 -0300" stop="20210820220300 -0300" channel="Boomerang HD">
-    <title lang="pt">Taffy</title>
-    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
-    <credits>
-      <director>Ahmed Guerrouache</director>
-      <actor>Voz de Serra Hirsch</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <country lang="pt">Reino Unido</country>
-    <episode-num system="onscreen">S1 E36</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820220300 -0300" stop="20210820221000 -0300" channel="Boomerang HD">
-    <title lang="pt">Grizzy e os Lemmings</title>
-    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
-    <country lang="pt">França</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820221000 -0300" stop="20210820221800 -0300" channel="Boomerang HD">
-    <title lang="pt">Grizzy e os Lemmings</title>
-    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
-    <country lang="pt">França</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820221800 -0300" stop="20210820222500 -0300" channel="Boomerang HD">
-    <title lang="pt">Grizzy e os Lemmings</title>
-    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
-    <country lang="pt">França</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820222500 -0300" stop="20210820223200 -0300" channel="Boomerang HD">
-    <title lang="pt">Grizzy e os Lemmings</title>
-    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
-    <country lang="pt">França</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820223200 -0300" stop="20210820224100 -0300" channel="Boomerang HD">
-    <title lang="pt">Grizzy e os Lemmings</title>
-    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
-    <country lang="pt">França</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820224100 -0300" stop="20210820224800 -0300" channel="Boomerang HD">
-    <title lang="pt">Grizzy e os Lemmings</title>
-    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
-    <country lang="pt">França</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820224800 -0300" stop="20210820225500 -0300" channel="Boomerang HD">
-    <title lang="pt">Grizzy e os Lemmings</title>
-    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
-    <country lang="pt">França</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820225500 -0300" stop="20210820230200 -0300" channel="Boomerang HD">
-    <title lang="pt">Grizzy e os Lemmings</title>
-    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
-    <country lang="pt">França</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820230200 -0300" stop="20210820231300 -0300" channel="Boomerang HD">
-    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
-    <desc lang="pt">Bunnicula sem querer faz um clone de si mesmo.(n)</desc>
-    <credits>
-      <actor>Vozes de Sean Astin</actor>
-      <actor>Chris Kattan</actor>
-      <actor>Brian Kimmet</actor>
-      <actor>Harland Williams</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/bunnicula01.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S3 E85</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820231300 -0300" stop="20210820232500 -0300" channel="Boomerang HD">
-    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
-    <desc lang="pt">Bunnicula apresenta um caso fatal de soluço.(n)</desc>
-    <credits>
-      <actor>Vozes de Sean Astin</actor>
-      <actor>Chris Kattan</actor>
-      <actor>Brian Kimmet</actor>
-      <actor>Harland Williams</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/bunnicula01.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S3 E86</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820232500 -0300" stop="20210820233700 -0300" channel="Boomerang HD">
-    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
-    <desc lang="pt">As nove vidas de Chester estão se esgotando e os fantasmas de suas outras oito vidas voltam para protegê-lo.(n)</desc>
-    <credits>
-      <actor>Vozes de Sean Astin</actor>
-      <actor>Chris Kattan</actor>
-      <actor>Brian Kimmet</actor>
-      <actor>Harland Williams</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/bunnicula01.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S3 E87</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820233700 -0300" stop="20210820234800 -0300" channel="Boomerang HD">
-    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
-    <desc lang="pt">Harold sem querer vence uma corrida de cachorros. Mas o perdedor não sossegará enquanto não conseguir uma revanche!(n)</desc>
-    <credits>
-      <actor>Vozes de Sean Astin</actor>
-      <actor>Chris Kattan</actor>
-      <actor>Brian Kimmet</actor>
-      <actor>Harland Williams</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/bunnicula01.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S3 E88</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820234800 -0300" stop="20210820235900 -0300" channel="Boomerang HD">
-    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
-    <desc lang="pt">Bunnicula e sua gangue, os "Bunny Boyz", se aventuram em Nova Orleans para recuperar as orelhas roubadas dele.(n)</desc>
-    <credits>
-      <actor>Vozes de Sean Astin</actor>
-      <actor>Chris Kattan</actor>
-      <actor>Brian Kimmet</actor>
-      <actor>Harland Williams</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/bunnicula01.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S3</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820235900 -0300" stop="20210821000700 -0300" channel="Boomerang HD">
-    <title lang="pt">O Show de Tom e Jerry</title>
-    <desc lang="pt">O gato do vizinho é um sujeito descolado cujo comportamento despreocupado é copiado por Tom e os outros gatos do beco. Incomodado, Jerry decide pôr um fim a essa bobagem.(n)</desc>
-    <credits>
-      <director>Darrell Van Citters</director>
-      <actor>Vozes de Stephen Stanton</actor>
-      <actor>Rick Zieff</actor>
-      <actor>Grey Griffin</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdotomjerry01.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S4 E223</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820134500 -0300" stop="20210820143500 -0300" channel="Canal Brasil HD">
-    <title lang="pt">Ney Matogrosso - 80 Anos</title>
-    <desc lang="pt">Uma das grandes revelações da MPB, Dan Nakagawa recebe Ney Matogrosso para o registro de sua terceira incursão musical. O cantor toca canções próprias e sucessos como "Um Pouco de Calor" e "Sangue Latino".(n)</desc>
-    <credits>
-      <director>Halei Rembrandt</director>
-    </credits>
-    <date>2014</date>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Musical</category>
-    <country lang="pt">Brasil</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820143500 -0300" stop="20210820160000 -0300" channel="Canal Brasil HD">
-    <title lang="pt">É Tudo Verdade: Flores do Cárcere</title>
-    <desc lang="pt">Ex-detentas da Cadeia Feminina de Santos, retornam após 12 anos, ao espaço prisional, hoje abandonado, para revisitar a antiga experiência e refletir sobre o encarceramento feminino.(n)</desc>
-    <credits>
-      <director>Bárbara Cunha</director>
-      <director>Paulo Caldas</director>
-    </credits>
-    <date>2019</date>
-    <category lang="pt">Filme</category>
     <category lang="pt">Documentário</category>
-    <country lang="pt">Brasil</country>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20210820160000 -0300" stop="20210820183300 -0300" channel="Canal Brasil HD">
-    <title lang="pt">Mostra Glauber Rocha: A Idade da Terra</title>
-    <desc lang="pt">Vida de Cristo que se desenrola em Salvador, Rio e Brasília, se desdobrando em várias imagens, o que levou o diretor a ver seu filme como um Cristo.(n)</desc>
-    <credits>
-      <director>Glauber Rocha</director>
-      <actor>Ana Maria Magalhães</actor>
-      <actor>Jesse Valadao</actor>
-      <actor>Norma Bengel</actor>
-      <actor>Danuza Leão</actor>
-      <actor>Antõnio Pitanga</actor>
-      <actor>Geraldo del Rey</actor>
-      <actor>Adelmo Rodrigues da Silva</actor>
-      <actor>Tarcísio Meira</actor>
-      <actor>Paloma Rocha</actor>
-    </credits>
-    <date>1980</date>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Drama</category>
-    <country lang="pt">Brasil</country>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20210820183300 -0300" stop="20210820195000 -0300" channel="Canal Brasil HD">
-    <title lang="pt">Entrando numa Roubada</title>
-    <desc lang="pt">Um roteirista chama um diretor e atores fracassados com a ideia de filmar enquanto assaltam lojas e postos de gasolina. Apesar de os assaltos serem reais, os atores acham que as vítimas fazem parte da cena.(n)</desc>
-    <credits>
-      <director>André Moraes</director>
-      <actor>Deborah Secco</actor>
-      <actor>Lúcio Mauro Filho</actor>
-      <actor>Júlio Andrade</actor>
-      <actor>Bruno Torres</actor>
-      <actor>Ana Carolina Machado</actor>
-      <actor>Marcos Veras</actor>
-      <actor>Tadeu Mello</actor>
-      <actor>Tonico Pereira</actor>
-      <actor>Thogun</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Comédia</category>
-    <country lang="pt">Brasil</country>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20210820195000 -0300" stop="20210820213000 -0300" channel="Canal Brasil HD">
-    <title lang="pt">Giovanni Improtta</title>
-    <desc lang="pt">Para conquistar a tão sonhada ascensão social, o contraventor Giovanni Improtta decide entrar para o ramo dos cassinos.(n)</desc>
-    <credits>
-      <director>José Wilker</director>
-      <actor>José Wilker</actor>
-      <actor>Gregório Duvivier</actor>
-      <actor>Jô Soares</actor>
-      <actor>Otávio Augusto</actor>
-      <actor>Andrea Beltrão</actor>
-      <actor>Hugo Carvana</actor>
-      <actor>Paulo Goulart</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Comédia</category>
-    <country lang="pt">Brasil</country>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20210820213000 -0300" stop="20210820213700 -0300" channel="Canal Brasil HD">
-    <title lang="pt">Apresentação Festival de Gramado 2021</title>
-    <desc lang="pt">Apresentação do Festival de Cinema de Gramado no Canal Brasil.(n)</desc>
-    <credits>
-      <director>Rubens Bandeira</director>
-    </credits>
-    <date>2021</date>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Cinema</category>
-    <country lang="pt">Brasil</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820213700 -0300" stop="20210820230000 -0300" channel="Canal Brasil HD">
-    <title lang="pt">49º Festival de Cinema de Gramado 2021: Fourth Grade</title>
-    <desc lang="pt">Remake de "Quarta B"', também de Marcelo Galvão. Os pais dos alunos de uma escola de elite são chamados para discutir um problema: um pacote de maconha foi encontrado no local.(n)</desc>
-    <credits>
-      <director>Marcelo Galvão</director>
-      <actor>Mena Suvari</actor>
-      <actor>Robert Pine</actor>
-      <actor>Teri Polo</actor>
-      <actor>William Baldwin</actor>
-      <actor>Ben Begley</actor>
-      <actor>Boti Bliss</actor>
-      <actor>Pamela Dunlap</actor>
-      <actor>Roland Kickinger</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Drama</category>
-    <country lang="pt">Brasil</country>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20210820230000 -0300" stop="20210820232500 -0300" channel="Canal Brasil HD">
-    <title lang="pt">Curta na Tela: A Dama do Estácio</title>
-    <desc lang="pt">Zulmira é uma velha prostituta. Um dia, ela acorda obcecada com a ideia de que vai morrer e decide que precisa de um caixão.(n)</desc>
-    <credits>
-      <director>Eduardo Ades</director>
-      <actor>Fernanda Montenegro</actor>
-      <actor>Nelson Xavier</actor>
-      <actor>Joel Barcellos</actor>
-      <actor>Rafael Souza-Ribeiro</actor>
-    </credits>
-    <date>2012</date>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Documentário</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/filme_curtanatelaretalho01.jpg" />
-    <country lang="pt">Brasil</country>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20210820232500 -0300" stop="20210820234500 -0300" channel="Canal Brasil HD">
-    <title lang="pt">Pornolândia</title>
-    <desc lang="pt">"Escrever é como abrir as pernas, e sempre mandam a gente fechar". Clara Averbuck, escritora que renovou a literatura erótica, conta os desafios de ocupar um local majoritariamente machista.(n)</desc>
-    <credits>
-      <director>Roy Di Paul</director>
-    </credits>
-    <date>2018</date>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Entrevista</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_pornolandia01.jpg" />
-    <country lang="pt">Brasil</country>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20210820234500 -0300" stop="20210821012000 -0300" channel="Canal Brasil HD">
-    <title lang="pt">Homenagem a Tarcísio Meira: Não Se Preocupe, Nada Vai Dar Certo!</title>
-    <desc lang="pt">Lalau se apresenta pelo interior do país com seu show de piadas, cujo tema principal é seu pai, Ramon Velasco, um ator que sempre se mete em trambiques.(n)</desc>
-    <credits>
-      <director>Hugo Carvana</director>
-      <actor>Tarcísio Meira</actor>
-      <actor>Flávia Alessandra</actor>
-      <actor>Gregório Duvivier</actor>
-    </credits>
-    <date>2011</date>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Comédia</category>
-    <country lang="pt">Brasil</country>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20210820143000 -0300" stop="20210820143300 -0300" channel="Cartoon Network HD">
-    <title lang="pt">Lego Jurassic World</title>
-    <desc lang="pt">Um assustador dinossauro híbrido está solto pelo parque, causando caos e tirando a atenção de Danny e Sinjin enquanto eles tentam roubar a fita do Nedry.(n)</desc>
-    <credits>
-      <actor>Vozes de Bethany Brown</actor>
-      <actor>Britt McKillip</actor>
-      <actor>Alex Zahara</actor>
-      <actor>Adrian Petriw</actor>
-      <actor>Vincent Tong</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <country lang="pt">EUA</country>
     <episode-num system="onscreen">S1 E3</episode-num>
     <rating system="BR">
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20210820143300 -0300" stop="20210820145000 -0300" channel="Cartoon Network HD">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <desc lang="pt">Os Titãs contam suas imprecisas histórias de origem.(n)</desc>
-    <credits>
-      <director>Luke Cormican</director>
-      <actor>Vozes de Greg Cipes</actor>
-      <actor>Scott Menville</actor>
-      <actor>Khary Payton</actor>
-      <actor>Tara Strong</actor>
-      <actor>Hynden Walch</actor>
-      <actor>Kevin Michael Richardson</actor>
-      <actor>Lauren Tom</actor>
-    </credits>
-    <date>2017</date>
+  <programme start="20210821084100 -0300" stop="20210821093600 -0300" channel="A&amp;E HD">
+    <title lang="pt">Palavra de Assassino</title>
+    <desc lang="pt">Duas semanas antes do Natal, Earl Forrest invadiu a casa de um amigo e atirou em duas pessoas a sangue frio. Ainda com sede de matar,Forrest atira em outras quatro pessoas.(n)</desc>
+    <date>2012</date>
     <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/teentitansgo01.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S4 E22</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820145000 -0300" stop="20210820150000 -0300" channel="Cartoon Network HD">
-    <title lang="pt">Lego Ninjago</title>
-    <desc lang="pt">O Feiticeiro da Caveira caça os ninjas que fugiram da Caverna-Forte dos Geckles. O Feiticeiro da Caveira promete libertar os Munce e Geckles se estes entregarem os ninjas.(n)</desc>
-    <credits>
-      <director>Adam Wood</director>
-      <director>Rich Johnson</director>
-      <director>Daniel Ife</director>
-      <actor>Vozes de Kelly Metzger</actor>
-      <actor>Michael Adamthwaite</actor>
-      <actor>Sam Vincent</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S2 E29</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820150000 -0300" stop="20210820151100 -0300" channel="Cartoon Network HD">
-    <title lang="pt">Ursos Sem Curso</title>
-    <desc lang="pt">Panda usa um aplicativo para encontrar um amigo com quem tenha coisas em comum. Mas sua nova amizade logo sai do controle quando o amigo se mostra superpossessivo.(n)</desc>
-    <credits>
-      <director>Daniel Chong</director>
-      <actor>Vozes de Eric Edelstein</actor>
-      <actor>Jim Ward</actor>
-      <actor>Demetri Martin</actor>
-      <actor>Bobby Moynihan</actor>
-      <actor>Edi Patterson</actor>
-      <actor>Kyla Rae Kowalewski</actor>
-      <actor>Austin Rogers</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/ursossemcurso01.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S2</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820151100 -0300" stop="20210820152700 -0300" channel="Cartoon Network HD">
-    <title lang="pt">Ursos Sem Curso</title>
-    <desc lang="pt">Bebê urso vive sozinho no Ártico e conhece um homem misterioso chamado Yuri. Juntos, eles tentam sobreviver ao frio.(n)</desc>
-    <credits>
-      <director>Daniel Chong</director>
-      <actor>Vozes de Eric Edelstein</actor>
-      <actor>Jim Ward</actor>
-      <actor>Demetri Martin</actor>
-      <actor>Bobby Moynihan</actor>
-      <actor>Edi Patterson</actor>
-      <actor>Kyla Rae Kowalewski</actor>
-      <actor>Austin Rogers</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/ursossemcurso01.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S2</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820152700 -0300" stop="20210820154300 -0300" channel="Cartoon Network HD">
-    <title lang="pt">Ursos Sem Curso</title>
-    <desc lang="pt">Os ursos ficam presos na plataforma depois de perderem o metrô. Enquanto esperam, eles deverão recuperar alguns itens perdidos.(n)</desc>
-    <credits>
-      <director>Daniel Chong</director>
-      <actor>Vozes de Eric Edelstein</actor>
-      <actor>Jim Ward</actor>
-      <actor>Demetri Martin</actor>
-      <actor>Bobby Moynihan</actor>
-      <actor>Edi Patterson</actor>
-      <actor>Kyla Rae Kowalewski</actor>
-      <actor>Austin Rogers</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/ursossemcurso01.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S3 E53</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820154300 -0300" stop="20210820160000 -0300" channel="Cartoon Network HD">
-    <title lang="pt">Ursos Sem Curso</title>
-    <desc lang="pt">Charlie conhece uma criatura igual a ele chamada Ralph. Charlie adora seu novo amigo, já os ursos acham que Ralph não tem boas intenções.(n)</desc>
-    <credits>
-      <director>Manny Hernandez</director>
-      <actor>Vozes de Eric Edelstein</actor>
-      <actor>Jason Lee</actor>
-      <actor>Demetri Martin</actor>
-      <actor>Ashly Burch</actor>
-      <actor>John DiMaggio</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/ursossemcurso01.jpg" />
-    <country lang="pt">EUA</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820160000 -0300" stop="20210820161100 -0300" channel="Cartoon Network HD">
-    <title lang="pt">Drama Total Kids</title>
-    <desc lang="pt">O Chef luta para manter sua sanidade quando as crianças insistem em culpar um coelho de pelúcia chamado Pulinho por tudo que eles fazem de errado.(n)</desc>
-    <credits>
-      <director>Tom McGillis</director>
-      <actor>Vozes de Wyatt White</actor>
-      <actor>Lilly Bartlam</actor>
-      <actor>Emilie-Claire Barlow</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <country lang="pt">Canadá</country>
-    <episode-num system="onscreen">S1 E37</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820161100 -0300" stop="20210820162600 -0300" channel="Cartoon Network HD">
-    <title lang="pt">Drama Total Kids</title>
-    <desc lang="pt">Duncan foge durante um passeio pelo bairro só para descobrir que precisará cuidar de Cody e Bridgette.(n)</desc>
-    <credits>
-      <director>Tom McGillis</director>
-      <actor>Vozes de Wyatt White</actor>
-      <actor>Lilly Bartlam</actor>
-      <actor>Emilie-Claire Barlow</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <country lang="pt">Canadá</country>
-    <episode-num system="onscreen">S1 E38</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820162600 -0300" stop="20210820164100 -0300" channel="Cartoon Network HD">
-    <title lang="pt">Drama Total Kids</title>
-    <desc lang="pt">Duncan finalmente consegue escapar, mas descobre que esqueceu sua chupeta e precisa voltar para a escola para buscá-la.(n)</desc>
-    <credits>
-      <director>Tom McGillis</director>
-      <actor>Vozes de Wyatt White</actor>
-      <actor>Lilly Bartlam</actor>
-      <actor>Emilie-Claire Barlow</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <country lang="pt">Canadá</country>
-    <episode-num system="onscreen">S1 E39</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820164100 -0300" stop="20210820164500 -0300" channel="Cartoon Network HD">
-    <title lang="pt">Drama Total Kids</title>
-    <desc lang="pt">Após hipnotizar sem querer o Owen para que seja um cãozinho, Harold acha que precisa reverter a hipnose para evitar ir para a prisão.(n)</desc>
-    <credits>
-      <director>Tom McGillis</director>
-      <actor>Vozes de Wyatt White</actor>
-      <actor>Lilly Bartlam</actor>
-      <actor>Emilie-Claire Barlow</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <country lang="pt">Canadá</country>
-    <episode-num system="onscreen">S1</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820164500 -0300" stop="20210820165600 -0300" channel="Cartoon Network HD">
-    <title lang="pt">Victor e Valentino</title>
-    <desc lang="pt">Em vez de celebrar o Dia dos Namorados, Vic e Val encaram uma aposta para explorar uma mansão assombrada ao lado de seus rivais, Charlene e Pineapple.(n)</desc>
-    <credits>
-      <director>Diego Molano</director>
-      <actor>Vozes de Diego Molano</actor>
-      <actor>Sean-Ryan Petersen</actor>
-      <actor>Laura Patalano</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S1 E11</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820165600 -0300" stop="20210820170000 -0300" channel="Cartoon Network HD">
-    <title lang="pt">Victor e Valentino</title>
-    <desc lang="pt">Quando Vic e Val sem querer transformam eles mesmos e Don em bebês, todos deverão fugir de uma creche para voltar às suas idades reais.(n)</desc>
-    <credits>
-      <director>Diego Molano</director>
-      <actor>Vozes de Diego Molano</actor>
-      <actor>Sean-Ryan Petersen</actor>
-      <actor>Laura Patalano</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S1 E31</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820170000 -0300" stop="20210820171100 -0300" channel="Cartoon Network HD">
-    <title lang="pt">O Mundo de Greg</title>
-    <desc lang="pt">JP decide seguir seu coração e tenta se unir às Horse Girls.(n)</desc>
-    <credits>
-      <director>Stu Livingston</director>
-      <actor>Vozes de Philip Solomon</actor>
-      <actor>Georgie Kidder</actor>
-      <actor>Michael Croner</actor>
-      <actor>Phil LaMarr</actor>
-      <actor>Dana Davis</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
-    <country lang="pt">EUA</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820171100 -0300" stop="20210820172700 -0300" channel="Cartoon Network HD">
-    <title lang="pt">O Mundo de Greg</title>
-    <desc lang="pt">Craig e seus amigos viajam em busca de uma madressilva no riacho e acabam encontrando algo que nunca haviam visto.(n)</desc>
-    <credits>
-      <director>Stu Livingston</director>
-      <actor>Vozes de Philip Solomon</actor>
-      <actor>Georgie Kidder</actor>
-      <actor>Michael Croner</actor>
-      <actor>Phil LaMarr</actor>
-      <actor>Dana Davis</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S1 E16</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820172700 -0300" stop="20210820173800 -0300" channel="Cartoon Network HD">
-    <title lang="pt">O Mundo de Greg</title>
-    <desc lang="pt">Craig e seus amigos são convidados para uma festa do chá, exclusiva com sobremesas deliciosas. Isso se conseguirem ficar até o fim...(n)</desc>
-    <credits>
-      <director>Stu Livingston</director>
-      <actor>Vozes de Philip Solomon</actor>
-      <actor>Georgie Kidder</actor>
-      <actor>Michael Croner</actor>
-      <actor>Phil LaMarr</actor>
-      <actor>Dana Davis</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S1 E17</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820173800 -0300" stop="20210820174500 -0300" channel="Cartoon Network HD">
-    <title lang="pt">O Mundo de Greg</title>
-    <desc lang="pt">Greg e seus amigos montam uma banda, mas Greg é perseguido por um pesadelo assustador.(n)</desc>
-    <credits>
-      <director>Stu Livingston</director>
-      <actor>Vozes de Philip Solomon</actor>
-      <actor>Georgie Kidder</actor>
-      <actor>Michael Croner</actor>
-      <actor>Phil LaMarr</actor>
-      <actor>Dana Davis</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S1 E18</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820174500 -0300" stop="20210820175400 -0300" channel="Cartoon Network HD">
-    <title lang="pt">Elliott, O Terráqueo</title>
-    <desc lang="pt">No primeiro dia de Elliott na Colmeia, ele conhece os personagens mais estranhos que já havia visto.(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <country lang="pt">Inglaterra</country>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820175400 -0300" stop="20210820180000 -0300" channel="Cartoon Network HD">
-    <title lang="pt">O Mundo de Greg</title>
-    <desc lang="pt">Greg pretende tornar o jogo de Quatro Quadrados divertido de novo desafiando seu melhor jogador!(n)</desc>
-    <credits>
-      <director>Stu Livingston</director>
-      <actor>Vozes de Philip Solomon</actor>
-      <actor>Georgie Kidder</actor>
-      <actor>Michael Croner</actor>
-      <actor>Phil LaMarr</actor>
-      <actor>Dana Davis</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S1 E21</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820180000 -0300" stop="20210820181100 -0300" channel="Cartoon Network HD">
-    <title lang="pt">O Mundo de Greg</title>
-    <desc lang="pt">Quando abelhas infestam a Árvore da Troca, Greg deverá instaurar o Conselho do Riacho para impedir uma tragédia.(n)</desc>
-    <credits>
-      <director>Stu Livingston</director>
-      <actor>Vozes de Philip Solomon</actor>
-      <actor>Georgie Kidder</actor>
-      <actor>Michael Croner</actor>
-      <actor>Phil LaMarr</actor>
-      <actor>Dana Davis</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S3 E85</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820181100 -0300" stop="20210820182700 -0300" channel="Cartoon Network HD">
-    <title lang="pt">O Mundo de Greg</title>
-    <desc lang="pt">A missão de Craig para mapear todo o riacho o leva ao lado de seus amigos ao perigoso bosque de heras venenosas.(n)</desc>
-    <credits>
-      <director>Stu Livingston</director>
-      <actor>Vozes de Philip Solomon</actor>
-      <actor>Georgie Kidder</actor>
-      <actor>Michael Croner</actor>
-      <actor>Phil LaMarr</actor>
-      <actor>Dana Davis</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/palavradeassassinooretornoearlforrest01.jpg" />
     <country lang="pt">EUA</country>
     <episode-num system="onscreen">S1 E2</episode-num>
     <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820182700 -0300" stop="20210820184200 -0300" channel="Cartoon Network HD">
-    <title lang="pt">O Mundo de Greg</title>
-    <desc lang="pt">Greg descobre que os Patrulheiros da Madressilva entraram em seu lado do riacho para roubar seu bem mais valioso.(n)</desc>
-    <credits>
-      <director>Stu Livingston</director>
-      <actor>Vozes de Philip Solomon</actor>
-      <actor>Georgie Kidder</actor>
-      <actor>Michael Croner</actor>
-      <actor>Phil LaMarr</actor>
-      <actor>Dana Davis</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S2 E43</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820184200 -0300" stop="20210820184500 -0300" channel="Cartoon Network HD">
-    <title lang="pt">O Mundo de Greg</title>
-    <desc lang="pt">Greg resgata um girino e decide transformá-lo num sapo de nível 100!(n)</desc>
-    <credits>
-      <director>Stu Livingston</director>
-      <actor>Vozes de Philip Solomon</actor>
-      <actor>Georgie Kidder</actor>
-      <actor>Michael Croner</actor>
-      <actor>Phil LaMarr</actor>
-      <actor>Dana Davis</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S2</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820184500 -0300" stop="20210820185600 -0300" channel="Cartoon Network HD">
-    <title lang="pt">DC Super Hero Girls</title>
-    <desc lang="pt">Depois de se mudar para um bairro entediante de Metropolis, Batgirl fica animadíssima ao interceptar uma ligação de Batman pedindo ajuda. Mas, antes que ela consiga deter um vilão em Gotham, terá que despistar seu pai, o comissário de polícia Gordon.(n)</desc>
-    <credits>
-      <director>Noëlle Raffaele</director>
-      <actor>Vozes de Kimberly Brooks</actor>
-      <actor>Grey Griffin</actor>
-      <actor>Tara Strong</actor>
-      <actor>Nicole Sullivan</actor>
-      <actor>Myrna Velasco</actor>
-      <actor>Kari Wahlgren</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S1 E11</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820185600 -0300" stop="20210820190000 -0300" channel="Cartoon Network HD">
-    <title lang="pt">DC Super Hero Girls</title>
-    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
-    <credits>
-      <director>Noëlle Raffaele</director>
-      <actor>Vozes de Kimberly Brooks</actor>
-      <actor>Grey Griffin</actor>
-      <actor>Tara Strong</actor>
-      <actor>Nicole Sullivan</actor>
-      <actor>Myrna Velasco</actor>
-      <actor>Kari Wahlgren</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S1 E41</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820190000 -0300" stop="20210820194500 -0300" channel="Cartoon Network HD">
-    <title lang="pt">Ben Gen 10</title>
-    <desc lang="pt">Quando Ben conhece um jovem Mutante Rex fugindo de Providence, ele deverá resolver uma série de desentendimentos e derrotar o feiticeiro Hex para impedir que um Omnitrix defeituoso infecte a população humana com DNA alienígena.(n)</desc>
-    <credits>
-      <director>Henrique Jardim</director>
-      <actor>Vozes de Tara Strong</actor>
-      <actor>David Kaye</actor>
-      <actor>Travis Willingham</actor>
-      <actor>Daryl Sabara</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Animação</category>
-    <country lang="pt">EUA</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820194500 -0300" stop="20210820200000 -0300" channel="Cartoon Network HD">
-    <title lang="pt">Looney Tunes</title>
-    <desc lang="pt">Acompanhe os parceiros Pernalonga, Patolino e seus amigos nesta aventura muito doida, na qual cada um deles sempre arranja um parceiro muito louco para dividir a casa e morar nos subúrbios da Califórnia, com vizinhos mais loucos ainda!(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/looneytunes01.jpg" />
-    <country lang="pt">EUA</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820200000 -0300" stop="20210820201100 -0300" channel="Cartoon Network HD">
-    <title lang="pt">O Incrível Mundo de Gumball</title>
-    <desc lang="pt">Daisy, a Burrinha, está desaparecida e Anaís precisa seguir as pistas para encontrá-la.(n)</desc>
-    <credits>
-      <director>Mic Graves</director>
-      <actor>Vozes de Logan Grove</actor>
-      <actor>Kwesi Boakye</actor>
-      <actor>Kyla Rae Kowalewski</actor>
-      <actor>Teresa Gallagher</actor>
-      <actor>Dan Russell</actor>
-      <actor>Jacob Hopkins</actor>
-      <actor>Terrell Ransom Jr.</actor>
-      <actor>Tamia Cerrate</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/oincrivelmundodegumball01.jpg" />
-    <country lang="pt">EUA</country>
-    <country lang="pt">Irlanda</country>
-    <episode-num system="onscreen">S4 E95</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820201100 -0300" stop="20210820202700 -0300" channel="Cartoon Network HD">
-    <title lang="pt">O Incrível Mundo de Gumball</title>
-    <desc lang="pt">Os Wattersons conhecem uma família de imitadores que copia todos os movimentos deles.(n)</desc>
-    <credits>
-      <director>Mic Graves</director>
-      <actor>Vozes de Logan Grove</actor>
-      <actor>Kwesi Boakye</actor>
-      <actor>Kyla Rae Kowalewski</actor>
-      <actor>Teresa Gallagher</actor>
-      <actor>Dan Russell</actor>
-      <actor>Jacob Hopkins</actor>
-      <actor>Terrell Ransom Jr.</actor>
-      <actor>Tamia Cerrate</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/oincrivelmundodegumball01.jpg" />
-    <country lang="pt">EUA</country>
-    <country lang="pt">Irlanda</country>
-    <episode-num system="onscreen">S5 E117</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820202700 -0300" stop="20210820204300 -0300" channel="Cartoon Network HD">
-    <title lang="pt">O Incrível Mundo de Gumball</title>
-    <desc lang="pt">Os meninos descobrem que o papai tem se vestido de mulher para fazer amizades.(n)</desc>
-    <credits>
-      <director>Mic Graves</director>
-      <actor>Vozes de Logan Grove</actor>
-      <actor>Kwesi Boakye</actor>
-      <actor>Kyla Rae Kowalewski</actor>
-      <actor>Teresa Gallagher</actor>
-      <actor>Dan Russell</actor>
-      <actor>Jacob Hopkins</actor>
-      <actor>Terrell Ransom Jr.</actor>
-      <actor>Tamia Cerrate</actor>
-    </credits>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/oincrivelmundodegumball01.jpg" />
-    <country lang="pt">EUA</country>
-    <country lang="pt">Irlanda</country>
-    <episode-num system="onscreen">S6 E139</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820204300 -0300" stop="20210820204500 -0300" channel="Cartoon Network HD">
-    <title lang="pt">O Incrível Mundo de Gumball</title>
-    <desc lang="pt">Rob cria uma série de programas e formatos baseados em Elmore para substituir Gumball.(n)</desc>
-    <credits>
-      <director>Mic Graves</director>
-      <actor>Vozes de Logan Grove</actor>
-      <actor>Kwesi Boakye</actor>
-      <actor>Kyla Rae Kowalewski</actor>
-      <actor>Teresa Gallagher</actor>
-      <actor>Dan Russell</actor>
-      <actor>Jacob Hopkins</actor>
-      <actor>Terrell Ransom Jr.</actor>
-      <actor>Tamia Cerrate</actor>
-    </credits>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/oincrivelmundodegumball01.jpg" />
-    <country lang="pt">EUA</country>
-    <country lang="pt">Irlanda</country>
-    <episode-num system="onscreen">S6 E161</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820204500 -0300" stop="20210820210000 -0300" channel="Cartoon Network HD">
-    <title lang="pt">Victor e Valentino</title>
-    <desc lang="pt">Quando o time preferido de Escaramuza de Val perde um integrante, ele convence Xochi a se unir à equipe. Como treinador dela, ele fará de tudo para vencer o grande torneio.(n)</desc>
-    <credits>
-      <director>Diego Molano</director>
-      <actor>Vozes de Diego Molano</actor>
-      <actor>Sean-Ryan Petersen</actor>
-      <actor>Laura Patalano</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S2 E67</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820210000 -0300" stop="20210820224500 -0300" channel="Cartoon Network HD">
-    <title lang="pt">Hotel Transilvânia 2</title>
-    <desc lang="pt">A vampira Mavis e o humano Jonathan se casaram e continuaram morando no Hotel Transilvânia, já que Drácula ofereceu um emprego ao genro.(n)</desc>
-    <credits>
-      <director>Genndy Tartakovsky</director>
-      <actor>Vozes de Adam Sandler</actor>
-      <actor>Andy Samberg</actor>
-      <actor>Selena Gomez</actor>
-      <actor>Kevin James</actor>
-      <actor>Steve Buscemi</actor>
-      <actor>David Spade</actor>
-      <actor>Keegan-Michael Key</actor>
-      <actor>Asher Blinkoff</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Animação</category>
-    <country lang="pt">EUA</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820224500 -0300" stop="20210820225700 -0300" channel="Cartoon Network HD">
-    <title lang="pt">O Incrível Mundo de Gumball</title>
-    <desc lang="pt">Gumball e o Diretor Brown fazem um pacto para contar à namorada um do outro sobre os problemas que estão enfrentando.(n)</desc>
-    <credits>
-      <director>Mic Graves</director>
-      <actor>Vozes de Logan Grove</actor>
-      <actor>Kwesi Boakye</actor>
-      <actor>Kyla Rae Kowalewski</actor>
-      <actor>Teresa Gallagher</actor>
-      <actor>Dan Russell</actor>
-      <actor>Jacob Hopkins</actor>
-      <actor>Terrell Ransom Jr.</actor>
-      <actor>Tamia Cerrate</actor>
-    </credits>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/oincrivelmundodegumball01.jpg" />
-    <country lang="pt">EUA</country>
-    <country lang="pt">Irlanda</country>
-    <episode-num system="onscreen">S6 E148</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820225700 -0300" stop="20210820230000 -0300" channel="Cartoon Network HD">
-    <title lang="pt">O Incrível Mundo de Gumball</title>
-    <desc lang="pt">Alan perdeu a fé na humanidade e deixou o mundo preto e branco. Agora, Gumball deverá passar por cima de sua raiva por ele para resgatar as cores por meio da música.(n)</desc>
-    <credits>
-      <director>Mic Graves</director>
-      <actor>Vozes de Logan Grove</actor>
-      <actor>Kwesi Boakye</actor>
-      <actor>Kyla Rae Kowalewski</actor>
-      <actor>Teresa Gallagher</actor>
-      <actor>Dan Russell</actor>
-      <actor>Jacob Hopkins</actor>
-      <actor>Terrell Ransom Jr.</actor>
-      <actor>Tamia Cerrate</actor>
-    </credits>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/oincrivelmundodegumball01.jpg" />
-    <country lang="pt">EUA</country>
-    <country lang="pt">Irlanda</country>
-    <episode-num system="onscreen">S6 E149</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820230000 -0300" stop="20210820230800 -0300" channel="Cartoon Network HD">
-    <title lang="pt">O Mundo de Greg</title>
-    <desc lang="pt">JP decide seguir seu coração e tenta se unir às Horse Girls.(n)</desc>
-    <credits>
-      <director>Stu Livingston</director>
-      <actor>Vozes de Philip Solomon</actor>
-      <actor>Georgie Kidder</actor>
-      <actor>Michael Croner</actor>
-      <actor>Phil LaMarr</actor>
-      <actor>Dana Davis</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
-    <country lang="pt">EUA</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820230800 -0300" stop="20210820231100 -0300" channel="Cartoon Network HD">
-    <title lang="pt">O Incrível Mundo de Gumball</title>
-    <desc lang="pt">Um grupo de crianças fica preso na escola depois de seus pais participarem de um evento beneficente. E elas escolhem Gumball como o líder, para tirá-las de lá. Mas o caos se instala.(n)</desc>
-    <credits>
-      <director>Mic Graves</director>
-      <actor>Vozes de Logan Grove</actor>
-      <actor>Kwesi Boakye</actor>
-      <actor>Kyla Rae Kowalewski</actor>
-      <actor>Teresa Gallagher</actor>
-      <actor>Dan Russell</actor>
-      <actor>Jacob Hopkins</actor>
-      <actor>Terrell Ransom Jr.</actor>
-      <actor>Tamia Cerrate</actor>
-    </credits>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/oincrivelmundodegumball01.jpg" />
-    <country lang="pt">EUA</country>
-    <country lang="pt">Irlanda</country>
-    <episode-num system="onscreen">S6</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820231100 -0300" stop="20210820232700 -0300" channel="Cartoon Network HD">
-    <title lang="pt">O Mundo de Greg</title>
-    <desc lang="pt">Craig e seus amigos viajam em busca de uma madressilva no riacho e acabam encontrando algo que nunca haviam visto.(n)</desc>
-    <credits>
-      <director>Stu Livingston</director>
-      <actor>Vozes de Philip Solomon</actor>
-      <actor>Georgie Kidder</actor>
-      <actor>Michael Croner</actor>
-      <actor>Phil LaMarr</actor>
-      <actor>Dana Davis</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S1 E16</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820232700 -0300" stop="20210820233800 -0300" channel="Cartoon Network HD">
-    <title lang="pt">O Mundo de Greg</title>
-    <desc lang="pt">Craig e seus amigos são convidados para uma festa do chá, exclusiva com sobremesas deliciosas. Isso se conseguirem ficar até o fim...(n)</desc>
-    <credits>
-      <director>Stu Livingston</director>
-      <actor>Vozes de Philip Solomon</actor>
-      <actor>Georgie Kidder</actor>
-      <actor>Michael Croner</actor>
-      <actor>Phil LaMarr</actor>
-      <actor>Dana Davis</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S1 E17</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820233800 -0300" stop="20210820235400 -0300" channel="Cartoon Network HD">
-    <title lang="pt">O Mundo de Greg</title>
-    <desc lang="pt">Greg e seus amigos montam uma banda, mas Greg é perseguido por um pesadelo assustador.(n)</desc>
-    <credits>
-      <director>Stu Livingston</director>
-      <actor>Vozes de Philip Solomon</actor>
-      <actor>Georgie Kidder</actor>
-      <actor>Michael Croner</actor>
-      <actor>Phil LaMarr</actor>
-      <actor>Dana Davis</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S1 E18</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820235400 -0300" stop="20210821000000 -0300" channel="Cartoon Network HD">
-    <title lang="pt">O Mundo de Greg</title>
-    <desc lang="pt">Greg pretende tornar o jogo de Quatro Quadrados divertido de novo desafiando seu melhor jogador!(n)</desc>
-    <credits>
-      <director>Stu Livingston</director>
-      <actor>Vozes de Philip Solomon</actor>
-      <actor>Georgie Kidder</actor>
-      <actor>Michael Croner</actor>
-      <actor>Phil LaMarr</actor>
-      <actor>Dana Davis</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S1 E21</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820140000 -0300" stop="20210820180000 -0300" channel="CGTN HD">
-    <title lang="pt">The World Today</title>
-    <desc lang="pt">O World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.(n)</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <country lang="pt">EUA</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820180000 -0300" stop="20210820183000 -0300" channel="CGTN HD">
-    <title lang="pt">Global Business</title>
-    <desc lang="pt">Rápido, nítido e perspicaz, o Global Business é o principal show de negócios da TV.(n)</desc>
-    <date>2019</date>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820183000 -0300" stop="20210820200000 -0300" channel="CGTN HD">
-    <title lang="pt">The World Today</title>
-    <desc lang="pt">O World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.(n)</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <country lang="pt">EUA</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820200000 -0300" stop="20210820203000 -0300" channel="CGTN HD">
-    <title lang="pt">The Heat</title>
-    <desc lang="pt">Programa diário de notícias dedicado a entrevistas importantes, análises e debates envolventes sobre os EUA, a China e questões globais. Ancorado por Anand Naidoo.(n)</desc>
-    <date>2019</date>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Entrevista</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820203000 -0300" stop="20210820210000 -0300" channel="CGTN HD">
-    <title lang="pt">The World Today</title>
-    <desc lang="pt">O World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.(n)</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <country lang="pt">EUA</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820210000 -0300" stop="20210820220000 -0300" channel="CGTN HD">
-    <title lang="pt">Global Business</title>
-    <desc lang="pt">Rápido, nítido e perspicaz, o Global Business é o principal show de negócios da TV.(n)</desc>
-    <date>2019</date>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820220000 -0300" stop="20210820223000 -0300" channel="CGTN HD">
-    <title lang="pt">The World Today</title>
-    <desc lang="pt">O World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.(n)</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <country lang="pt">EUA</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820223000 -0300" stop="20210820230000 -0300" channel="CGTN HD">
-    <title lang="pt">China 24</title>
-    <desc lang="pt">O China 24 é um programa de notícias no horário nobre do CCTV News que traz as histórias mais importantes deste país em rápida mudança, com mais de 1,3 bilhão de pessoas.(n)</desc>
-    <date>2019</date>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820230000 -0300" stop="20210820233000 -0300" channel="CGTN HD">
-    <title lang="pt">The World Today</title>
-    <desc lang="pt">O World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.(n)</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <country lang="pt">EUA</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820233000 -0300" stop="20210821000000 -0300" channel="CGTN HD">
-    <title lang="pt">The Point With Liu Xin</title>
-    <desc lang="pt">O programa traz notícias globais através da perspectiva única de Liu Xin. Com duas décadas de experiência como âncora de notícias e correspondente no exterior, Liu Xin tem um estilo pessoal e envolvente.(n)</desc>
-    <date>2021</date>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820125600 -0300" stop="20210820144800 -0300" channel="Cinemax HD">
-    <title lang="pt">Na Mira do Chefe</title>
-    <desc lang="pt">Dois matadores são enviados por seu chefe a uma bela cidade da Bélgica, para que possam descansar para o trabalho seguinte. Sem imaginar que o chefão planeja que um mate o outro.(n)</desc>
-    <credits>
-      <director>Martin McDonagh</director>
-      <actor>Colin Farrell</actor>
-      <actor>Brendan Gleeson</actor>
-      <actor>Ralph Fiennes</actor>
-      <actor>Clémence Poésy</actor>
-      <actor>Jérémie Renier</actor>
-      <actor>Thekla Reuten</actor>
-      <actor>Jordan Prentice</actor>
-      <actor>Elizabeth Berrington</actor>
-    </credits>
-    <date>2008</date>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Comédia</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_namiradochefe01.jpg" />
-    <country lang="pt">Reino Unido</country>
-    <country lang="pt">EUA</country>
-    <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210820144800 -0300" stop="20210820164000 -0300" channel="Cinemax HD">
-    <title lang="pt">Assalto Ao Poder</title>
-    <desc lang="pt">Quando um banco é assaltado, as evidências apontam para o dono e seus poderosos sócios. No entanto, quando os assaltos continuam, um grupo de agentes do FBI começa a investigar o caso e percebe uma conspiração.(n)</desc>
-    <credits>
-      <director>Steven C. Miller</director>
-      <actor>Christopher Meloni</actor>
-      <actor>Bruce Willis</actor>
-      <actor>Dave Bautista</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-    <country lang="pt">Canadá</country>
-    <country lang="pt">EUA</country>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20210820164000 -0300" stop="20210820183500 -0300" channel="Cinemax HD">
-    <title lang="pt">O Exterminador do Futuro 3: A Rebelião das Máquinas</title>
-    <desc lang="pt">Na intenção de concluir a missão ainda inacabada, a bela e perigosa máquina mortífera T-X é enviada para matar John Connor, líder da resistência humana contra as máquinas da Skynet.(n)</desc>
-    <credits>
-      <director>Jonathan Mostow</director>
-      <actor>Arnold Schwarzenegger</actor>
-      <actor>Claire Danes</actor>
-      <actor>Nick Stahl</actor>
-    </credits>
-    <date>2003</date>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-    <country lang="pt">EUA</country>
-    <country lang="pt">Inglaterra</country>
+  <programme start="20210821093600 -0300" stop="20210821103200 -0300" channel="A&amp;E HD">
+    <title lang="pt">Os Melhores Cães Policiais</title>
+    <desc lang="pt">Com alguns dos cachorrinhos mais decorados de todos os tempos a colocar a pata no K9 Combine, pode ser uma noite recorde.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20210820183500 -0300" stop="20210820203900 -0300" channel="Cinemax HD">
-    <title lang="pt">Os Vigaristas</title>
-    <desc lang="pt">Dois amigos trapaceiros planejam um golpe lucrativo, até que a filha adolescente desconhecida de um deles aparece e muda os planos e a vida da dupla.(n)</desc>
+  <programme start="20210821103200 -0300" stop="20210821112800 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">A fim de obter informações vitais para uma questão de segurança nacional, Kensi terá que enfrentar um sociopata obcecado por ela desde que ela o colocou na prisão há vários anos.(n)</desc>
     <credits>
-      <director>Ridley Scott</director>
-      <actor>Nicolas Cage</actor>
-      <actor>Sam Rockwell</actor>
-      <actor>Lynn Ann Leveridge</actor>
-      <actor>Alison Lohman</actor>
-      <actor>Bruce Altman</actor>
-      <actor>Bruce McGill</actor>
-      <actor>Jenny O'Hara</actor>
-      <actor>Steve Eastin</actor>
-      <actor>Beth Grant</actor>
-      <actor>Sheila Kelley</actor>
-      <actor>Tim Kelleher</actor>
+      <director>Dennis Smith</director>
+      <actor>Linda Hunt</actor>
+      <actor>Chris O'Donnell</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Barrett Foa</actor>
+      <actor>LL Cool J</actor>
+      <actor>Renée Felice Smith</actor>
+      <actor>Anny Rosario</actor>
     </credits>
-    <date>2003</date>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Comédia</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_osvigaristas01.jpg" />
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ncisla01.jpg" />
     <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S12 E5</episode-num>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20210820203900 -0300" stop="20210820221500 -0300" channel="Cinemax HD">
-    <title lang="pt">Zona de Tubarões</title>
-    <desc lang="pt">Bandido exige que chefe de segurança o leve até o local de um famoso naufrágio e ignora seus alertas de que essa é uma área infestada de perigosos tubarões brancos.(n)</desc>
+  <programme start="20210821112800 -0300" stop="20210821122400 -0300" channel="A&amp;E HD">
+    <title lang="pt">Quem Matou Tupac?</title>
+    <desc lang="pt">O advogado dos direitos civis Benjamin Crump e sua equipe examinam a teoria de que o membro da gangue Orlando Anderson pode ter sido o responsável pelo assassinato de Tupac Shakur.(n)</desc>
     <credits>
-      <director>Danny Lerner</director>
-      <actor>Dean Cochran</actor>
-      <actor>Alan Austin</actor>
-      <actor>Brandi Sherwood</actor>
-      <actor>Velizar Binev</actor>
-      <actor>Luke Leavitt</actor>
+      <director>Jason Sklaver</director>
+      <actor>Alex Alonso</actor>
+      <actor>Chuck D</actor>
+      <actor>Lolita Files</actor>
+      <actor>'Freeway' Ricky Ross</actor>
+      <actor>P. Frank Williams</actor>
     </credits>
-    <date>2003</date>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Terror</category>
+    <date>2017</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Investigação</category>
     <country lang="pt">EUA</country>
-    <country lang="pt">Bulgária</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821122400 -0300" stop="20210821132000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Quem Matou Tupac?</title>
+    <desc lang="pt">A equipe investiga a teoria de que uma rivalidade de rap da Costa Leste vs. Costa Oeste levou ao assassinato de Tupac Shakur, e que os artistas de rap Biggie e P. Diddy podem estar envolvidos.(n)</desc>
+    <credits>
+      <director>Jason Sklaver</director>
+      <actor>Big Boy</actor>
+      <actor>Kirk Burrowes</actor>
+      <actor>Chopmaster-J</actor>
+      <actor>Sean 'Diddy' Combs</actor>
+      <actor>Chuck D</actor>
+      <actor>Benjamin Crump</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821132000 -0300" stop="20210821141600 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">Beale é sequestrado enquanto participava de uma missão clandestina que lhe foi atribuída por Hetty. Callen e Sam se dirigem então à cidade de São Francisco para tentar encontrar o seu paradeiro.(n)</desc>
+    <credits>
+      <director>Dennis Smith</director>
+      <actor>Linda Hunt</actor>
+      <actor>Chris O'Donnell</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Barrett Foa</actor>
+      <actor>LL Cool J</actor>
+      <actor>Renée Felice Smith</actor>
+      <actor>Anny Rosario</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ncisla01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S11 E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821141600 -0300" stop="20210821151200 -0300" channel="A&amp;E HD">
+    <title lang="pt">Famosos Mal-assombrados</title>
+    <desc lang="pt">Junto a Kim, o famoso ator Taye Diggs investiga um inesquecível encontro paranormal que viveu há alguns anos em Nova York. Lá eles vão descobrir algo significativo sobre essa noite que poderia responder a muitas de suas perguntas.(n)</desc>
+    <credits>
+      <director>Seth Jarrett</director>
+      <actor>Elizabeth Abate</actor>
+      <actor>Matthew Bretschneider</actor>
+      <actor>Christopher Calabrisotto</actor>
+      <actor>Federico Castelluccio</actor>
+      <actor>Adriana Farino</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821151200 -0300" stop="20210821160900 -0300" channel="A&amp;E HD">
+    <title lang="pt">Reencarnação</title>
+    <desc lang="pt">Desde tenra idade, Jamey tinha um medo paralisante da água e teria intensos terrores noturnos por afogamento. Ele ficou assustadoramente obcecado com o Titanic e seria consumido pela culpa pelas vidas perdidas naquela noite fria.(n)</desc>
+    <credits>
+      <actor>Liam Nicosia</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821160900 -0300" stop="20210821164100 -0300" channel="A&amp;E HD">
+    <title lang="pt">Resgates Em Ação</title>
+    <desc lang="pt">Dois aviões colidem no ar. Mais tarde, um homem inconsciente é salvo de afogamento em um riacho e um voluntário corre para assumir o volante quando um motorista sofre uma crise de convulsões.(n)</desc>
+    <credits>
+      <director>Matt Iseman</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821164100 -0300" stop="20210821171300 -0300" channel="A&amp;E HD">
+    <title lang="pt">Flagrantes Das Câmeras</title>
+    <desc lang="pt">Uma adolescente está disposta a processar seus pais. Ela chegará às vias de fato? Mais tarde, ouvimos o testemunho assustador de um fugitivo da prisão disposto a fazer qualquer coisa para escapar.(n)</desc>
+    <credits>
+      <actor>Dan Abrams</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E32</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821171300 -0300" stop="20210821181000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Palavra de Assassino</title>
+    <desc lang="pt">Duas semanas antes do Natal, Earl Forrest invadiu a casa de um amigo e atirou em duas pessoas a sangue frio. Ainda com sede de matar,Forrest atira em outras quatro pessoas.(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/palavradeassassinooretornoearlforrest01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210820221500 -0300" stop="20210821000900 -0300" channel="Cinemax HD">
-    <title lang="pt">O Exterminador do Futuro 3: A Rebelião das Máquinas</title>
-    <desc lang="pt">Na intenção de concluir a missão ainda inacabada, a bela e perigosa máquina mortífera T-X é enviada para matar John Connor, líder da resistência humana contra as máquinas da Skynet.(n)</desc>
-    <credits>
-      <director>Jonathan Mostow</director>
-      <actor>Arnold Schwarzenegger</actor>
-      <actor>Claire Danes</actor>
-      <actor>Nick Stahl</actor>
-    </credits>
-    <date>2003</date>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
+  <programme start="20210821181000 -0300" stop="20210821190700 -0300" channel="A&amp;E HD">
+    <title lang="pt">Palavra de Assassino</title>
+    <desc lang="pt">Em 2011, MaksimGelman se envolveu em uma onda de ataques brutais em Nova York, que deixou quatro mortos e quatro feridos.(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/palavradeassassinooretornoearlforrest01.jpg" />
     <country lang="pt">EUA</country>
-    <country lang="pt">Inglaterra</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821190700 -0300" stop="20210821191200 -0300" channel="A&amp;E HD">
+    <title lang="pt">Listas</title>
+    <desc lang="pt">O programa "Listas" recomenda filmes e/ou séries e programas com um tema em comum, podendo variar desde temas abrangentes como "5 Comédias dos Anos 80", até assuntos inusitados.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821191200 -0300" stop="20210821205000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Michael Jackson e Neverland</title>
+    <desc lang="pt">O que aconteceu com Michael Jackson? Esta é a história dos últimos dias do Rei do Pop e dos problemas que o levaram à morte.(n)</desc>
+    <credits>
+      <director>Dianne Houston</director>
+      <actor>Navi</actor>
+      <actor>Chad L. Coleman</actor>
+      <actor>Sam Adegoke</actor>
+      <actor>Starletta DuPois</actor>
+      <actor>A. Russell Andrews</actor>
+      <actor>Isabella Hofmann</actor>
+      <actor>Ken Colquitt</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Biografia</category>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20210820133000 -0300" stop="20210820153000 -0300" channel="CNN Brasil HD">
-    <title lang="pt">Visão CNN - Ao Vivo</title>
-    <desc lang="pt">Um fato isolado não explica o contexto. A notícia completa não tem só um lado da história. É preciso ir além. É preciso ter análise.(n)</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_visaocnn01.jpg" />
-    <country lang="pt">Brasil</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820153000 -0300" stop="20210820180000 -0300" channel="CNN Brasil HD">
-    <title lang="pt">CNN 360º - Ao Vivo</title>
-    <desc lang="pt">Todos os ângulos das notícias mais importantes do dia com atualizações, debates e apurações em tempo real com Daniela Lima e Carol Nogueira.(n)</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_cnn36001.jpg" />
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820180000 -0300" stop="20210820193000 -0300" channel="CNN Brasil HD">
-    <title lang="pt">CNN Prime Time - Ao Vivo</title>
-    <desc lang="pt">Márcio Gomes apresenta os fatos mais importantes do dia no Brasil e no mundo.(n)</desc>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820193000 -0300" stop="20210820213000 -0300" channel="CNN Brasil HD">
-    <title lang="pt">Expresso CNN - Ao Vivo</title>
-    <desc lang="pt">As notícias do Brasil e do mundo, em tempo real, apresentadas por Monalisa Perrone e Caio Junqueira, com informações exclusivas e análise de comentaristas, convidados e O Grande Debate.(n)</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_expressocnn01.jpg" />
-    <country lang="pt">Brasil</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820213000 -0300" stop="20210820223000 -0300" channel="CNN Brasil HD">
-    <title lang="pt">Jornal da CNN - Ao Vivo</title>
-    <desc lang="pt">William Waack apresenta e analisa os principais fatos do Brasil e do mundo e aprofunda os temas que foram assunto no dia.(n)</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_jornaldacnn01.jpg" />
-    <country lang="pt">Brasil</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820223000 -0300" stop="20210820231500 -0300" channel="CNN Brasil HD">
-    <title lang="pt">CNN Nosso Mundo</title>
-    <desc lang="pt">A escritora e PHD em Nutrição fala sobre o tema: COMO MELHORAR NOSSA RELAÇÃO COM A COMIDA.(n)</desc>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Entrevista</category>
-    <country lang="pt">Brasil</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820231500 -0300" stop="20210821001500 -0300" channel="CNN Brasil HD">
-    <title lang="pt">Agora CNN - Ao Vivo</title>
-    <desc lang="pt">Apresentado por Muriel Porfiro, jornal traz reportagens para começar o dia com informações que importam.(n)</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_agoracnn01.jpg" />
-    <country lang="pt">Brasil</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820140000 -0300" stop="20210820172000 -0300" channel="Combate HD">
-    <title lang="pt">UFC 265: Lewis x Gane</title>
-    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
-    <date>2021</date>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Luta</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas/ufc01.jpg" />
-    <country lang="pt">EUA</country>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20210820172000 -0300" stop="20210820183000 -0300" channel="Combate HD">
-    <title lang="pt">Arena Combate: Karate Combat</title>
-    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+  <programme start="20210821205000 -0300" stop="20210821223000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Biography</title>
+    <desc lang="pt">Através de entrevistas exclusivas e material de arquivo, este documentário mostra a incrível carreira do homem que personificou o rock and roll durante décadas.(n)</desc>
     <credits>
-      <director>Renato Ribeiro</director>
+      <actor>Ozzy Osbourne</actor>
     </credits>
-    <date>2021</date>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Luta</category>
-    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_ufcunleashed01.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S3 E7</episode-num>
+    <date>2019</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Biografia</category>
     <rating system="BR">
-      <value>L</value>
+      <value>14</value>
     </rating>
   </programme>
-  <programme start="20210820183000 -0300" stop="20210821003000 -0300" channel="Combate HD">
-    <title lang="pt">PFL 2021 - Playoffs 2: Pesos Meio-Pesados e Médios - Ao Vivo</title>
-    <desc lang="pt">As grandes estrelas do MMA estão no PFL. Aqui no SporTV. Somos todos campeões!(n)</desc>
-    <date>2021</date>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Luta</category>
-    <country lang="pt">EUA</country>
+  <programme start="20210821223000 -0300" stop="20210822001000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Kisstory</title>
+    <desc lang="pt">O documentário sobre a banda mais reconhecida do mundo, o KISS. Ele narra as cinco décadas da banda no mundo da música, enquanto os fundadores Paul Stanley e Gene Simmons refletem sobre suas carreiras históricas.(n)</desc>
+    <credits>
+      <actor>Gene Simmons</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Biografia</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="BR">
-      <value>L</value>
+      <value>12</value>
     </rating>
   </programme>
 </tv>
