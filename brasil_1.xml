@@ -5063,4 +5063,292 @@
       <value>16</value>
     </rating>
   </programme>
+  <programme start="20210820093000 -0300" stop="20210820103000 -0300" channel="Band Sports HD">
+    <title lang="pt">Maratona Bandsports</title>
+    <desc lang="pt">Maratona é a revista mensal que mostra noticiais, materias especiais e detalhes da preparação dos atletas brasileiros.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820103000 -0300" stop="20210820110000 -0300" channel="Band Sports HD">
+    <title lang="pt">Viva o Esporte</title>
+    <desc lang="pt">Esporte é saúde! Julio Bergamo e Lucilene Cetano trazem tudo que você precisa para viver o esporte e se sentir bem. Prestação de serviço é o nosso jogo. Especialistas, interatividade e muita descontração.(n)</desc>
+    <credits>
+      <director>Denis Gavazzi</director>
+      <actor>Julio Bergamo e Lucilene Cetano</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820110000 -0300" stop="20210820130000 -0300" channel="Band Sports HD">
+    <title lang="pt">Primeiro Tempo</title>
+    <desc lang="pt">Para deixar sua manhã bem informada, o Primeiro Tempo, tradicional programa apresentado por Elia Junior, faz um giro por todos os esportes. Sempre com convidados e comentaristas, o Primeiro Tempo abre o dia jornalístico.(n)</desc>
+    <credits>
+      <actor>Elia Junior</actor>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820130000 -0300" stop="20210820143000 -0300" channel="Band Sports HD">
+    <title lang="pt">Bandsports News</title>
+    <desc lang="pt">Logo depois, ao meio dia, mais informação para o assinante Bandsports. Com uma mistura de telejornal e debate, o News 1 passa a limpo o esporte e discute o futebol. Informação, jornalismo, prioridades.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/bandsportsnews01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820143000 -0300" stop="20210820153000 -0300" channel="Band Sports HD">
+    <title lang="pt">Tiki Taka</title>
+    <desc lang="pt">Apresentado por Mauricio Barros e comentários de Marilia Ruiz e Eduardo Tironi o programa é um mesa redonda sempre as sextas feiras para debater tudo da rodada do fim de semana.(n)</desc>
+    <credits>
+      <actor>Mauricio Barros</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Debate</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820153000 -0300" stop="20210820160000 -0300" channel="Band Sports HD">
+    <title lang="pt">Sapiando</title>
+    <desc lang="pt">Bate-papos descontraídos e intimistas com personalidades esportivas.(n)</desc>
+    <credits>
+      <actor>Luizão Goulart</actor>
+      <actor>Yara Fantoni</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Debate</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820160000 -0300" stop="20210820170000 -0300" channel="Band Sports HD">
+    <title lang="pt">A Busca da Medalha</title>
+    <desc lang="pt">Programa semanal que mostra a preparação das quatro duplas de vôlei de praia representantes do Brasil nos Jogos Olímpicos de Tóquio. A atração acompanha a preparação física e mental dos atletas.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Vôlei de Praia</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820170000 -0300" stop="20210820180000 -0300" channel="Band Sports HD">
+    <title lang="pt">Bola Rolando</title>
+    <desc lang="pt">No final da tarde, logo que as atividades dos clubes se encerram, a bola rola na tela do Bandsports. Informação, discussão e projeção sobre o dia do futebol no Brasil e no Mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820200000 -0300" channel="Band Sports HD">
+    <title lang="pt">Hipismo: Longiness XTC</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Hipismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820220000 -0300" channel="Band Sports HD">
+    <title lang="pt">Baita Amigos</title>
+    <desc lang="pt">O craque Neto e amigos debatem o futebol do Brasil. Todas as segundas (pós rodada) e sextas (previa da rodada).(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_baitaamigos01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820223000 -0300" channel="Band Sports HD">
+    <title lang="pt">Compacto Campeonato Russo</title>
+    <desc lang="pt">Acompanhe o Compacto de jogos do campeonato russo.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820223000 -0300" stop="20210820230000 -0300" channel="Band Sports HD">
+    <title lang="pt">Rally dos Sertões</title>
+    <desc lang="pt">Entre os dias 13 e 22 de agosto, acontece o Rally dos Sertões e você confere tudo aqui na Band.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Radical</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210821000000 -0300" channel="Band Sports HD">
+    <title lang="pt">Tiki Taka</title>
+    <desc lang="pt">Apresentado por Mauricio Barros e comentários de Marilia Ruiz e Eduardo Tironi o programa é um mesa redonda sempre as sextas feiras para debater tudo da rodada do fim de semana.(n)</desc>
+    <credits>
+      <actor>Mauricio Barros</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Debate</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821000000 -0300" stop="20210821020000 -0300" channel="Band Sports HD">
+    <title lang="pt">Baita Amigos</title>
+    <desc lang="pt">O craque Neto e amigos debatem o futebol do Brasil. Todas as segundas (pós rodada) e sextas (previa da rodada).(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_baitaamigos01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821020000 -0300" stop="20210821030000 -0300" channel="Band Sports HD">
+    <title lang="pt">Reprise - Jogos Olímpicos Tokyo 2020</title>
+    <desc lang="pt">O BandSports fará uma megacobertura dos Jogos Olímpicos de Tóquio. Com a abertura da Olimpíada, serão 24 horas de conteúdo disponível na sua casa, na sua TV, do maior torneio esportivo do mundo.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Japão</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821030000 -0300" stop="20210821050000 -0300" channel="Band Sports HD">
+    <title lang="pt">Baita Amigos</title>
+    <desc lang="pt">O craque Neto e amigos debatem o futebol do Brasil. Todas as segundas (pós rodada) e sextas (previa da rodada).(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_baitaamigos01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821050000 -0300" stop="20210821060000 -0300" channel="Band Sports HD">
+    <title lang="pt">Hipismo: Longiness XTC</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Hipismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821070000 -0300" channel="Band Sports HD">
+    <title lang="pt">Hipismo: Longiness XTC</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Hipismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821070000 -0300" stop="20210821090000 -0300" channel="Band Sports HD">
+    <title lang="pt">Baita Amigos</title>
+    <desc lang="pt">O craque Neto e amigos debatem o futebol do Brasil. Todas as segundas (pós rodada) e sextas (previa da rodada).(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_baitaamigos01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821090000 -0300" stop="20210821100000 -0300" channel="Band Sports HD">
+    <title lang="pt">Tiki Taka</title>
+    <desc lang="pt">Apresentado por Mauricio Barros e comentários de Marilia Ruiz e Eduardo Tironi o programa é um mesa redonda sempre as sextas feiras para debater tudo da rodada do fim de semana.(n)</desc>
+    <credits>
+      <actor>Mauricio Barros</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Debate</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821100000 -0300" stop="20210821120000 -0300" channel="Band Sports HD">
+    <title lang="pt">Campeonato Russo: CSKA x FC Akhmat - Ao Vivo</title>
+    <desc lang="pt">Torneio da principal liga de futebol profissional da Rússia, a Rosískaya Futbólnaya Premier-League.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821120000 -0300" stop="20210821140000 -0300" channel="Band Sports HD">
+    <title lang="pt">Campeonato Russo: UFA x Zenit - Ao Vivo</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821140000 -0300" stop="20210821153000 -0300" channel="Band Sports HD">
+    <title lang="pt">Sail GP</title>
+    <desc lang="pt">SailGP é uma competição internacional de vela que utiliza catamarãs de florete F50 de alto desempenho.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Dinamarca</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821153000 -0300" stop="20210821163000 -0300" channel="Band Sports HD">
+    <title lang="pt">Tiki Taka</title>
+    <desc lang="pt">Apresentado por Mauricio Barros e comentários de Marilia Ruiz e Eduardo Tironi o programa é um mesa redonda sempre as sextas feiras para debater tudo da rodada do fim de semana.(n)</desc>
+    <credits>
+      <actor>Mauricio Barros</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Debate</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821163000 -0300" stop="20210821170000 -0300" channel="Band Sports HD">
+    <title lang="pt">Bandsports News</title>
+    <desc lang="pt">Logo depois, ao meio dia, mais informação para o assinante Bandsports. Com uma mistura de telejornal e debate, o News 1 passa a limpo o esporte e discute o futebol. Informação, jornalismo, prioridades.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/bandsportsnews01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821170000 -0300" stop="20210821190000 -0300" channel="Band Sports HD">
+    <title lang="pt">Diamond League: Eugene</title>
+    <desc lang="pt">O mais importante torneio de atletismo do mundo, onde os principais astros do esporte disputam um circuito mundial com provas em diversos países.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Atletismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821190000 -0300" stop="20210822000000 -0300" channel="Band Sports HD">
+    <title lang="pt">Arte Boxe</title>
+    <desc lang="pt">A partir de agora, você confere o evento Arte do Boxe, que acontece em Mogi Mirim, São Paulo.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Boxe</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
 </tv>
