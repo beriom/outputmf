@@ -2467,4 +2467,735 @@
       <value>L</value>
     </rating>
   </programme>
+  <programme start="20210820073000 -0300" stop="20210820100000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 Documenta</title>
+    <desc lang="pt">O documentário acompanha a jornada da estilista Coco Chanel desde sua infância, como órfã abandonada, até a subversão das ordens sociais para tornar-se uma das maiores designers de moda do século 20.(n)</desc>
+    <credits>
+      <director>Jean Lauritano</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_arte1documenta01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820100000 -0300" stop="20210820101500 -0300" channel="Arte 1 HD">
+    <title lang="pt">A Crucigramista</title>
+    <desc lang="pt">Com um olhar interdisciplinar entre artes plásticas, literatura e cinema, a série dirigida por Paula Parisot e Jessica Mitrani proporciona um panorama sobre o passado e o presente da cultura latino-americana.(n)</desc>
+    <credits>
+      <director>Paula Parisot</director>
+      <director>Jessica Mitrani</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820101500 -0300" stop="20210820120000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 In Concert</title>
+    <desc lang="pt">A Berliner Philharmoniker celebra seu aniversário em uma cidade europeia diferente a cada ano. Em 2016, eles viajaram para Røros, na Noruega, para executar o concerto para violino de Mendelssohn em Mi Menor.(n)</desc>
+    <credits>
+      <director>Henning Kasten</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/espeta_arte1inconcert01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820120000 -0300" stop="20210820130000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Teatros no Brasil</title>
+    <desc lang="pt">Para arquitetos, artistas e intelectuais, o Teatro Nacional Claudio Santoro descreve a curta trajetória que um teatro pode ter, pontuando o descaso com as obras de Burle Marx, Niemeyer, Bulcão e tantos outros.(n)</desc>
+    <credits>
+      <director>Emilio Gallo</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820130000 -0300" stop="20210820140000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Live Arte 1</title>
+    <desc lang="pt">O cantor e compositor tropicalista Tom Zé participa da live do canal Arte1.(n)</desc>
+    <credits>
+      <director>Caio Luiz de Carvalho</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820140000 -0300" stop="20210820143000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Curta Arte 1</title>
+    <desc lang="pt">Novidades de estilo e tecnologias computacionais possibilitaram inspiração e execução para o novo projeto do Teatro Ópera de Guangzhou, na China, pela arquiteta iraquiana Zaha Hadid.(n)</desc>
+    <credits>
+      <director>Igor Vahitov</director>
+      <director>Elena Mamontova</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/filme_curtaarte101.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820143000 -0300" stop="20210820150000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Protagonistas Invisíveis</title>
+    <desc lang="pt">Camareira do Teatro Oficina há 20 anos, Maria Aparecida Magalhães de Mello, a Cida, conta as histórias por trás das roupas da companhia teatral do diretor Zé Celso.(n)</desc>
+    <credits>
+      <director>Adriana Siqueira Lopes</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820150000 -0300" stop="20210820160000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 Documenta</title>
+    <desc lang="pt">O documentário acompanha a jornada da estilista Coco Chanel desde sua infância, como órfã abandonada, até a subversão das ordens sociais para tornar-se uma das maiores designers de moda do século 20.(n)</desc>
+    <credits>
+      <director>Jean Lauritano</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_arte1documenta01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820160000 -0300" stop="20210820170000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 Documenta</title>
+    <desc lang="pt">O apresentador Alan Yentob viaja para Rússia, a fim de conhecer a opinião popular sobre Leon Tolstói. O filme mostra diferentes facetas do autor e revela um Tolstói para além de "Guerra e Paz" e "Anna Karenina".(n)</desc>
+    <credits>
+      <director>Rupert Edwards</director>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_arte1documenta01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820170000 -0300" stop="20210820173000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Minidocs</title>
+    <desc lang="pt">Neste episódio, conheça mais sobre a luta da cantora e compositora Bia Ferreira sobre a mulher preta na música. A revolução está realmente em curso?(n)</desc>
+    <credits>
+      <director>Carlos Gayotto Rolim</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820173000 -0300" stop="20210820180000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 Encontra</title>
+    <desc lang="pt">A produção do Arte1 aproxima o público de artistas das variadas áreas por meio de encontros em seus estúdios.(n)</desc>
+    <credits>
+      <director>Gisele Kato</director>
+      <director>Ricardo Sêco</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820190000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 Visual</title>
+    <desc lang="pt">O quinto episódio faz uma breve historiografia da representação do nu em obras de arte e busca respostas a questionamentos feitos acerca do tema.(n)</desc>
+    <credits>
+      <director>Marcos Guttmann</director>
+      <director>Fabiano Maciel</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_arte1visual01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820193000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Buscando Buskers</title>
+    <desc lang="pt">Jali Kiari (nome artístico de Jalizete Ferrari) é cantora, compositora e instrumentista. Além de suas composições próprias, Jali interpreta versões musicadas de poesias de Davi Kinski.(n)</desc>
+    <credits>
+      <director>Gabriel Castelhano</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_buscandobuskers01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820193000 -0300" stop="20210820201500 -0300" channel="Arte 1 HD">
+    <title lang="pt">Memórias do Brasil</title>
+    <desc lang="pt">Artistas como Tuzé de Abreu, Marcio Meireles, Jorge Alfredo, Cesare De La Roca e Chico Liberato, ajudam a conhecer e a entender melhor a vida e a obra de Lia Robatto.(n)</desc>
+    <credits>
+      <director>Rodrigo de Luna</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_memoriasdobrasil01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820201500 -0300" stop="20210820203000 -0300" channel="Arte 1 HD">
+    <title lang="pt">A Crucigramista</title>
+    <desc lang="pt">Com um olhar interdisciplinar entre artes plásticas, literatura e cinema, a série dirigida por Paula Parisot e Jessica Mitrani proporciona um panorama sobre o passado e o presente da cultura latino-americana.(n)</desc>
+    <credits>
+      <director>Paula Parisot</director>
+      <director>Jessica Mitrani</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820203000 -0300" stop="20210820213000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Teatros no Brasil</title>
+    <desc lang="pt">Presente nos principais episódios políticos do Rio Grande do Sul, o Theatro São Pedro é considerado uma fortaleza dos palcos e preserva os traços da arquitetura clássica.(n)</desc>
+    <credits>
+      <director>Emilio Gallo</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820213000 -0300" stop="20210820230000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 Apresenta</title>
+    <desc lang="pt">O cantor, compositor e multi-instrumentista americano Ben Harper faz uma apresentação no festival Baloise Session, na Suíça, em que traz composições em diferentes estilos como blues, folk, soul, reggae e rock.(n)</desc>
+    <credits>
+      <director>Roli Bärlocher</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_arte1apresenta01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210821004500 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 em Preto e Branco: Nas Garras do Vício</title>
+    <title lang="en">Le Beau Serge</title>
+    <desc lang="pt">Um jovem parisiense está se recuperando em uma aldeia de Alverne. Lá, encontra-se com um amigo de infância, mergulhado na bebida e mal casado.(n)</desc>
+    <credits>
+      <director>Claude Chabrol</director>
+      <actor>Edmond Beauchamp</actor>
+      <actor>Gérard Blain</actor>
+      <actor>Jean-Claude Brialy</actor>
+      <actor>Bernadette Lafont</actor>
+      <actor>Claude Chabrol</actor>
+      <actor>André Dino</actor>
+      <actor>Jeanne Pérez</actor>
+      <actor>Philippe de Broca</actor>
+    </credits>
+    <date>1958</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821004500 -0300" stop="20210821014500 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 Documenta</title>
+    <desc lang="pt">Durante a maior parte do século XX, a guitarra sacudiu o planeta como símbolo de embates ideológicos, revolta e resistência. Descubra outra história desse instrumento nas vozes de quem o empunhou com maestria.(n)</desc>
+    <credits>
+      <director>Pierre-Paul Pujiz</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_arte1documenta01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821014500 -0300" stop="20210821024500 -0300" channel="Arte 1 HD">
+    <title lang="pt">Teatros no Brasil</title>
+    <desc lang="pt">Presente nos principais episódios políticos do Rio Grande do Sul, o Theatro São Pedro é considerado uma fortaleza dos palcos e preserva os traços da arquitetura clássica.(n)</desc>
+    <credits>
+      <director>Emilio Gallo</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821024500 -0300" stop="20210821031500 -0300" channel="Arte 1 HD">
+    <title lang="pt">Estilo Arte 1</title>
+    <desc lang="pt">Produção própria do canal, o programa Estilo Arte 1 apresenta as principais tendências em arquitetura, design, moda e alta gastronomia no Brasil e no mundo.(n)</desc>
+    <credits>
+      <director>Caio Luiz de Carvalho</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_estiloarte101.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S8 E18</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821031500 -0300" stop="20210821041500 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte na Fotografia</title>
+    <desc lang="pt">Em um parque de diversões, os fotógrafos vão viajar no tempo e transformar lembranças em imagens, revirando seus próprios baús do passado para construir ensaios sobre a memória.(n)</desc>
+    <credits>
+      <director>Otavio Chamorro</director>
+      <actor>Cláudio Feijó</actor>
+      <actor>Éder Chiodetto</actor>
+      <actor>Renata Calmon</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_artenafotografia01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821041500 -0300" stop="20210821044500 -0300" channel="Arte 1 HD">
+    <title lang="pt">Minidocs</title>
+    <desc lang="pt">Neste episódio, conheça mais sobre a luta da cantora e compositora Bia Ferreira sobre a mulher preta na música. A revolução está realmente em curso?(n)</desc>
+    <credits>
+      <director>Carlos Gayotto Rolim</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821044500 -0300" stop="20210821051500 -0300" channel="Arte 1 HD">
+    <title lang="pt">Especial Arte 1</title>
+    <desc lang="pt">Artistas de várias áreas das artes falam sobre suas carreiras e obras. Eles relembram como começaram na profissão, suas referências e parcerias.(n)</desc>
+    <credits>
+      <director>Gisele Kato</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821051500 -0300" stop="20210821064500 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 Apresenta</title>
+    <desc lang="pt">O cantor, compositor e multi-instrumentista americano Ben Harper faz uma apresentação no festival Baloise Session, na Suíça, em que traz composições em diferentes estilos como blues, folk, soul, reggae e rock.(n)</desc>
+    <credits>
+      <director>Roli Bärlocher</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_arte1apresenta01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821064500 -0300" stop="20210821083000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 In Concert</title>
+    <desc lang="pt">A Berliner Philharmoniker celebra seu aniversário em uma cidade europeia diferente a cada ano. Em 2016, eles viajaram para Røros, na Noruega, para executar o concerto para violino de Mendelssohn em Mi Menor.(n)</desc>
+    <credits>
+      <director>Henning Kasten</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/espeta_arte1inconcert01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821083000 -0300" stop="20210821090000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 Encontra</title>
+    <desc lang="pt">A produção do Arte1 aproxima o público de artistas das variadas áreas por meio de encontros em seus estúdios.(n)</desc>
+    <credits>
+      <director>Gisele Kato</director>
+      <director>Ricardo Sêco</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821090000 -0300" stop="20210821103000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 Documenta</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Agnès Varda</director>
+      <director>J.R.</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_arte1documenta01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821103000 -0300" stop="20210821110000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 na Dança</title>
+    <desc lang="pt">O documentário narra a trajetória da mestra da dança Aracy Evans, desde seu início, passando pelo período em Londres que recebeu o título de maître de ballet e quando se tornou membro da Royal Academy of Dance.(n)</desc>
+    <credits>
+      <director>Inês Bogéa</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821110000 -0300" stop="20210821113000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Estilo Arte 1</title>
+    <desc lang="pt">Produção própria do canal, o programa Estilo Arte 1 apresenta as principais tendências em arquitetura, design, moda e alta gastronomia no Brasil e no mundo.(n)</desc>
+    <credits>
+      <director>Caio Luiz de Carvalho</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_estiloarte101.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821113000 -0300" stop="20210821131500 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 em Preto e Branco: Nas Garras do Vício</title>
+    <title lang="en">Le Beau Serge</title>
+    <desc lang="pt">Um jovem parisiense está se recuperando em uma aldeia de Alverne. Lá, encontra-se com um amigo de infância, mergulhado na bebida e mal casado.(n)</desc>
+    <credits>
+      <director>Claude Chabrol</director>
+      <actor>Edmond Beauchamp</actor>
+      <actor>Gérard Blain</actor>
+      <actor>Jean-Claude Brialy</actor>
+      <actor>Bernadette Lafont</actor>
+      <actor>Claude Chabrol</actor>
+      <actor>André Dino</actor>
+      <actor>Jeanne Pérez</actor>
+      <actor>Philippe de Broca</actor>
+    </credits>
+    <date>1958</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821131500 -0300" stop="20210821133000 -0300" channel="Arte 1 HD">
+    <title lang="pt">A Crucigramista</title>
+    <desc lang="pt">Com um olhar interdisciplinar entre artes plásticas, literatura e cinema, a série dirigida por Paula Parisot e Jessica Mitrani proporciona um panorama sobre o passado e o presente da cultura latino-americana.(n)</desc>
+    <credits>
+      <director>Paula Parisot</director>
+      <director>Jessica Mitrani</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821133000 -0300" stop="20210821140000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Buscando Buskers</title>
+    <desc lang="pt">Jali Kiari (nome artístico de Jalizete Ferrari) é cantora, compositora e instrumentista. Além de suas composições próprias, Jali interpreta versões musicadas de poesias de Davi Kinski.(n)</desc>
+    <credits>
+      <director>Gabriel Castelhano</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_buscandobuskers01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821140000 -0300" stop="20210821143000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Invenções da Alma</title>
+    <desc lang="pt">A mudança de Alagoas para São Paulo de Raimundo Batista, quando ainda era criança, marcou profundamente sua vida, fazendo com que sua expressão e seu recorte da periferia ficasse cravado na madeira de suas obras esculpidas.(n)</desc>
+    <credits>
+      <director>Marcia Paraiso</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_invencoesdaalma01.jpg" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821143000 -0300" stop="20210821153000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 em Série</title>
+    <desc lang="pt">Stephen vai à Inglaterra para descobrir as brilhantes carreiras de Aubrey Beardsley e Marry Watts na Art Nouveau, seguindo a Escócia para conhecer os feitos do casal Charles Mackintosh e Margaret MacDonald.(n)</desc>
+    <credits>
+      <director>Mary Downes</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_arte1emserie01.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821153000 -0300" stop="20210821163000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 em Série</title>
+    <desc lang="pt">Stephen Smith explora artistas de Viena como Gustav Klimt, Josef Hoffmann, Koloman Moser, e Egon Schiele, que se rebelaram contra o establishment e trouxeram suas versões altamente sexuadas da Art Nouveau.(n)</desc>
+    <credits>
+      <director>Mary Downes</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_arte1emserie01.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821163000 -0300" stop="20210821173000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 na Dança</title>
+    <desc lang="pt">O documentário narra a trajetória do Balé da Cidade de São Paulo desde a sua fundação há 50 anos, quando ainda se chamava Corpo de Baile Municipal, até hoje.(n)</desc>
+    <credits>
+      <director>Diego de Godoy</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821173000 -0300" stop="20210821180000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 na Dança</title>
+    <desc lang="pt">O documentário narra a trajetória da mestra da dança Aracy Evans, desde seu início, passando pelo período em Londres que recebeu o título de maître de ballet e quando se tornou membro da Royal Academy of Dance.(n)</desc>
+    <credits>
+      <director>Inês Bogéa</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821180000 -0300" stop="20210821193000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 Nacional: Animal Político</title>
+    <title lang="en">Animal Político</title>
+    <desc lang="pt">Uma vaca sempre levou uma vida tranquila: tem pais que a amam e muitos amigos. Ela sai, se diverte, faz compras e passa o tempo na academia. Mesmo assim, existe uma sensação de vazio.(n)</desc>
+    <credits>
+      <director>Tião</director>
+      <actor>Elisa Heidrich</actor>
+      <actor>Jean Santos</actor>
+      <actor>Thiago Gonçalo da Silva</actor>
+      <actor>Victor Laet</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/docume_arte1nacional01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821193000 -0300" stop="20210821200000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Especial Arte 1</title>
+    <desc lang="pt">Artistas de várias áreas das artes falam sobre suas carreiras e obras. Eles relembram como começaram na profissão, suas referências e parcerias.(n)</desc>
+    <credits>
+      <director>Gisele Kato</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821200000 -0300" stop="20210821203000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 em Movimento</title>
+    <desc lang="pt">Produção própria do Arte1, o programa apresentado por Gisele Kato abre espaço para: música, cinema, teatro, dança, literatura e artes visuais.(n)</desc>
+    <credits>
+      <director>Caio Luiz de Carvalho</director>
+      <actor>Gisele Kato</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Cultural</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/arte1movimento01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S9 E33</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821203000 -0300" stop="20210821211500 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte na Fotografia</title>
+    <desc lang="pt">Em um parque de diversões, os fotógrafos vão viajar no tempo e transformar lembranças em imagens, revirando seus próprios baús do passado para construir ensaios sobre a memória.(n)</desc>
+    <credits>
+      <director>Otavio Chamorro</director>
+      <actor>Cláudio Feijó</actor>
+      <actor>Éder Chiodetto</actor>
+      <actor>Renata Calmon</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_artenafotografia01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821211500 -0300" stop="20210821213000 -0300" channel="Arte 1 HD">
+    <title lang="pt">A Crucigramista</title>
+    <desc lang="pt">Com um olhar interdisciplinar entre artes plásticas, literatura e cinema, a série dirigida por Paula Parisot e Jessica Mitrani proporciona um panorama sobre o passado e o presente da cultura latino-americana.(n)</desc>
+    <credits>
+      <director>Paula Parisot</director>
+      <director>Jessica Mitrani</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821213000 -0300" stop="20210821220000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Estilo Arte 1</title>
+    <desc lang="pt">Produção própria do canal, o programa Estilo Arte 1 apresenta as principais tendências em arquitetura, design, moda e alta gastronomia no Brasil e no mundo.(n)</desc>
+    <credits>
+      <director>Caio Luiz de Carvalho</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_estiloarte101.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S8 E19</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821220000 -0300" stop="20210821230000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 Documenta</title>
+    <desc lang="pt">Vencedor do Oscar, o ator Eddie Redmayne explora como conflitos e guerras são estímulos poderosos para criações artísticas. Formado em história da arte, ele visita estúdios, museus e locais de batalha.(n)</desc>
+    <credits>
+      <director>Margy Kinmonth</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_arte1documenta01.jpg" />
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821230000 -0300" stop="20210821233000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 em Série</title>
+    <desc lang="pt">Este episódio reflete sobre a diversidade do cinema alemão, percorrendo de filmes mudos do íncio do século XX ao recente sucesso de Toni Erdmann, de 2016.(n)</desc>
+    <credits>
+      <director>Laurent Heynemann</director>
+      <director>Matthias Luthardt</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_arte1emserie01.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821233000 -0300" stop="20210822000000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 em Série</title>
+    <desc lang="pt">O episódio mostra como o cinema faz parte da essência da França, desde o nascimento dessa arte com os irmãos Lumière em 1895, até obras contemporâneas como "O Fabuloso Destino de Amélie Poulain".(n)</desc>
+    <credits>
+      <director>Laurent Heynemann</director>
+      <director>Matthias Luthardt</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_arte1emserie01.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
 </tv>
