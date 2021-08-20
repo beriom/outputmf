@@ -82,10 +82,12 @@
   </channel>
   <channel id="Conmebol TV 1">
     <display-name lang="pt">Conmebol TV 1</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/conmebol.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Conmebol TV 2">
     <display-name lang="pt">Conmebol TV 2</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/conmebol.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Conmebol TV 3">
@@ -3796,6 +3798,42 @@
     <category lang="pt">Aventura</category>
     <icon src="https://www.tvmagazine.com.br/imagens/programas1/filme_ilhadosdinossauros01_2_2019.jpg" />
     <country lang="pt">Austrália</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820120000 -0300" stop="20210820180000 -0300" channel="Conmebol TV 1">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210821000000 -0300" channel="Conmebol TV 1">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820120000 -0300" stop="20210820180000 -0300" channel="Conmebol TV 2">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210821000000 -0300" channel="Conmebol TV 2">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>L</value>
     </rating>
