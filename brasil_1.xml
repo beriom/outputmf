@@ -72,6 +72,7 @@
   </channel>
   <channel id="Combate HD">
     <display-name lang="pt">Combate HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/combate.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Comedy Central HD">
@@ -4090,6 +4091,45 @@
     <category lang="pt">Informativo</category>
     <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_agoracnn01.jpg" />
     <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820140000 -0300" stop="20210820172000 -0300" channel="Combate HD">
+    <title lang="pt">UFC 265: Lewis x Gane</title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ufc01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820172000 -0300" stop="20210820183000 -0300" channel="Combate HD">
+    <title lang="pt">Arena Combate: Karate Combat</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_ufcunleashed01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820183000 -0300" stop="20210821003000 -0300" channel="Combate HD">
+    <title lang="pt">PFL 2021 - Playoffs 2: Pesos Meio-Pesados e Médios - Ao Vivo</title>
+    <desc lang="pt">As grandes estrelas do MMA estão no PFL. Aqui no SporTV. Somos todos campeões!(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <country lang="pt">EUA</country>
     <rating system="BR">
       <value>L</value>
     </rating>
