@@ -460,10 +460,12 @@
   </channel>
   <channel id="Prime Box Brazil HD">
     <display-name lang="pt">Prime Box Brazil HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/primeboxbrazil.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Rede TV! HD">
     <display-name lang="pt">Rede TV! HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/redetv.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Smithsonian HD">
@@ -14991,6 +14993,277 @@
     <icon src="https://www.tvmagazine.com.br/imagens/programas/time_cruzeiro.jpg" />
     <rating system="BR">
       <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820150000 -0300" stop="20210820184500 -0300" channel="Prime Box Brazil HD">
+    <title lang="pt">1001 Noites</title>
+    <desc lang="pt">Programa de venda de jóias.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Televendas</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820184500 -0300" stop="20210820190000 -0300" channel="Prime Box Brazil HD">
+    <title lang="pt">Por Trás das Câmeras</title>
+    <desc lang="pt">O filme Chico Xavier, adaptado do livro as vidas de Chico Xavier de Marcel Souto Maior, e foi, sem dúvida, um dos filmes mais difíceis de ser produzido.(n)</desc>
+    <credits>
+      <director>Cadu Rodrigues</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820193000 -0300" channel="Prime Box Brazil HD">
+    <title lang="pt">Imagem Vinil</title>
+    <desc lang="pt">Betina é casada há 49 anos. Pimenta, seu marido, é ausente e não dá atenção a ela.(n)</desc>
+    <credits>
+      <director>Frederico Cardoso</director>
+      <actor>Roberto Rodrigues</actor>
+      <actor>Julia Cartier Bresson</actor>
+      <actor>Frederico Cardoso</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820193000 -0300" stop="20210820200000 -0300" channel="Prime Box Brazil HD">
+    <title lang="pt">Em Busca de Kardec</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Karim Akadiri Soumaila</director>
+      <actor>Guillaume Cuchet</actor>
+      <actor>Florence Claval</actor>
+      <actor>Marion Aubrée</actor>
+      <actor>François Laplantine</actor>
+      <actor>Charles Kempf</actor>
+      <actor>François Gaudin</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820203000 -0300" channel="Prime Box Brazil HD">
+    <title lang="pt">Sankofa, A África Que Te Habita</title>
+    <desc lang="pt">Cesar e Mauricio chegam a Angola, país com grande afinidade cultural com o Brasil, onde se emocionam ao fotografar em uma caverna a pegada da Rainha Ginga, uma grande guerreira na luta contra o colonialismo português.(n)</desc>
+    <credits>
+      <director>Monteiro De Miranda Adriana Maria</director>
+      <director>Pereira Braga Rozane Martins</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820203000 -0300" stop="20210820213000 -0300" channel="Prime Box Brazil HD">
+    <title lang="pt">Nas Margens do Lalin</title>
+    <desc lang="pt">Este documentário nos levará a viajar pelo noroeste da China, através das margens do Rio Lalin, apreciando belas paisagens, culturas e o dia a dia do povo chinês da área rural de maior produção de alimentos.(n)</desc>
+    <credits>
+      <director>Shen Shu</director>
+      <director>Dong Changqing</director>
+      <director>Yan Zhiyong</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820213000 -0300" stop="20210820220000 -0300" channel="Prime Box Brazil HD">
+    <title lang="pt">O Cinema e as Cidades</title>
+    <desc lang="pt">A partir de produções mais recentes, o último episódio revela temas urgentes do cinema contemporâneo brasileiro.(n)</desc>
+    <credits>
+      <director>Eduardo Wannmacher</director>
+      <actor>Cacá Nazario</actor>
+      <actor>Camila de Moraes</actor>
+      <actor>Mariani Ferreira</actor>
+      <actor>Bruno Carboni</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820233600 -0300" channel="Prime Box Brazil HD">
+    <title lang="pt">Sessão Prime Box: Real Beleza</title>
+    <desc lang="pt">João é um fotógrafo decadente, procurando uma nova modelo para relançar a sua carreira. Ele parte para o sul do Brasil, onde capta dezenas de adolescentes, até se encantar com a beleza de Maria.(n)</desc>
+    <credits>
+      <director>Jorge Furtado</director>
+      <actor>Adriana Esteves</actor>
+      <actor>Francisco Cuoco</actor>
+      <actor>Vladimir Brichta</actor>
+      <actor>Vitoria Strada</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/filme_sessaoprimeboxcaraouco01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820233600 -0300" stop="20210820233900 -0300" channel="Prime Box Brazil HD">
+    <title lang="pt">Curta In Box: Isolation</title>
+    <desc lang="pt">Isolation, de forma experimental é um filme que explora uma nova realidade, apresentando a mídia e a informação como nosso meio de escape.(n)</desc>
+    <credits>
+      <director>Clério Augusto Back</director>
+      <actor>Richard Matheus</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/filme_curtainboxterceirotoque01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820233900 -0300" stop="20210820235400 -0300" channel="Prime Box Brazil HD">
+    <title lang="pt">Imortais da Academia Maranhense de Letras</title>
+    <desc lang="pt">Filho de imigrantes libaneses, João Mohana, por vontade do pai, foi médico. Por vocação, se tornou padre. Por talento, foi escritor.(n)</desc>
+    <credits>
+      <director>Joaquim Haickel</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820235400 -0300" stop="20210821000000 -0300" channel="Prime Box Brazil HD">
+    <title lang="pt">Curta In Box: Entre Reticências</title>
+    <desc lang="pt">Mulher vivendo um relacionamento decadente, perde a esperança de dias melhores após uma terrível descoberta.(n)</desc>
+    <credits>
+      <director>Rafael Lo Ouang</director>
+      <actor>Sheila Ley</actor>
+      <actor>André Nepomuceno</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/filme_curtainboxterceirotoque01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820150000 -0300" stop="20210820170000 -0300" channel="Rede TV! HD">
+    <title lang="pt">A Tarde é Sua</title>
+    <desc lang="pt">Sonia Abrão exibe entrevistas exclusivas, fala sobre comportamento e traz muita informação.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_atardeesua01_2_2019.jpg" />
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820170000 -0300" stop="20210820180000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820193000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Alerta Nacional</title>
+    <desc lang="pt">Programa jornalístico com ampla cobertura dos principais acontecimentos do país, marcada pela autenticidade de Sikêra Júnior em um formato único, que é sucesso de audiência no Amazonas.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820193000 -0300" stop="20210820203000 -0300" channel="Rede TV! HD">
+    <title lang="pt">TV Fama</title>
+    <desc lang="pt">Referência no Brasil quando o assunto é celebridade, o TV FAMA traz, de forma leve e descontraída, as notícias mais quentes do mundo dos famosos. Apresentado por Alinne Prado, Lígia Mendes e Julio Rocha.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_tvfama01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820203000 -0300" stop="20210820213000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Igreja Internacional Da Graça De Deus</title>
+    <desc lang="pt">Programa Religioso.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820213000 -0300" stop="20210820223000 -0300" channel="Rede TV! HD">
+    <title lang="pt">RedeTV! News</title>
+    <desc lang="pt">Um telejornal dinâmico, moderno e crítico.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/redetvnews01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820223000 -0300" stop="20210820230000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Resgate 193</title>
+    <desc lang="pt">Bombeiros, médicos e socorristas correm contra o tempo para salvar as vítimas dos mais diferentes tipos de acidentes: incêndio, atropelamento, acidente de trânsito, afogamento...(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Medicina</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210820233000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Operação de Risco</title>
+    <desc lang="pt">Jorge Lordello mostra cenas reais e eletrizantes de ações policiais.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_operacaoderisco01_2_2019.jpg" />
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820233000 -0300" stop="20210821003000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Redetv! Extreme Fighting</title>
+    <desc lang="pt">Toda semana, o fã de MMA vai vibrar com as principais lutas do One Championship - a maior liga de MMA da Ásia. O One já é sucesso em mais de 150 países e carrega toda a tradição de mais de 5 mil anos das artes marciais.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>16</value>
     </rating>
   </programme>
 </tv>
