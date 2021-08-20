@@ -450,10 +450,12 @@
   </channel>
   <channel id="Premiere 9 HD">
     <display-name lang="pt">Premiere 9 HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Premiere Clubes HD">
     <display-name lang="pt">Premiere Clubes HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Prime Box Brazil HD">
@@ -14910,6 +14912,83 @@
     <desc lang="pt">Sinopse Não Disponível.(n)</desc>
     <category lang="pt">Esporte</category>
     <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820160000 -0300" stop="20210820190000 -0300" channel="Premiere 9 HD">
+    <title lang="pt">Premiere 9</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_premiere901_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820220000 -0300" channel="Premiere 9 HD">
+    <title lang="pt">Premiere 9</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_premiere901_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210821010000 -0300" channel="Premiere 9 HD">
+    <title lang="pt">Premiere 9</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_premiere901_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820160000 -0300" stop="20210820170000 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">VT de Eventos</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820170000 -0300" stop="20210820180000 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">VT de Eventos</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820211000 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Avaí x Coritiba - Campeonato Brasileiro Série B</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/time_avai.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820211000 -0300" stop="20210820212000 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Pré Jogo - Ao Vivo</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820212000 -0300" stop="20210821000000 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Cruzeiro x Confiança - Campeonato Brasileiro Série B</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/time_cruzeiro.jpg" />
     <rating system="BR">
       <value>L</value>
     </rating>
