@@ -72638,4 +72638,457 @@
       <value>16</value>
     </rating>
   </programme>
+  <programme start="20210820093000 -0300" stop="20210820104500 -0300" channel="Rede TV! HD">
+    <title lang="pt">Vou Te Contar</title>
+    <desc lang="pt">Claudete Troiano leva para as manhãs informação e diversão para toda a família. O programa VOU TE CONTAR, vai mesclar notícias, culinária, mundo das celebridades, saúde, beleza e muito mais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820104500 -0300" stop="20210820120000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Você na TV</title>
+    <desc lang="pt">De forma bem humorada, leve e descontraída, o programa apresenta casos reais de pessoas que enfrentam conflitos de relacionamento e outras dificuldades cotidianas.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_vocenatv01.jpg" />
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820120000 -0300" stop="20210820130000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Opinião no Ar</title>
+    <desc lang="pt">OPINIÃO NO AR irá abordar temas relacionados ao comportamento, política, economia, cultura e esporte, o programa contará com a opinião do apresnetador Luís Ernesto Lacombe e seus convidados.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820130000 -0300" stop="20210820150000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820150000 -0300" stop="20210820170000 -0300" channel="Rede TV! HD">
+    <title lang="pt">A Tarde é Sua</title>
+    <desc lang="pt">Sonia Abrão exibe entrevistas exclusivas, fala sobre comportamento e traz muita informação.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_atardeesua01_2_2019.jpg" />
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820170000 -0300" stop="20210820180000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820193000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Alerta Nacional</title>
+    <desc lang="pt">Programa jornalístico com ampla cobertura dos principais acontecimentos do país, marcada pela autenticidade de Sikêra Júnior em um formato único, que é sucesso de audiência no Amazonas.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820193000 -0300" stop="20210820203000 -0300" channel="Rede TV! HD">
+    <title lang="pt">TV Fama</title>
+    <desc lang="pt">Referência no Brasil quando o assunto é celebridade, o TV FAMA traz, de forma leve e descontraída, as notícias mais quentes do mundo dos famosos. Apresentado por Alinne Prado, Lígia Mendes e Julio Rocha.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_tvfama01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820203000 -0300" stop="20210820213000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Igreja Internacional Da Graça De Deus</title>
+    <desc lang="pt">Programa Religioso.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820213000 -0300" stop="20210820223000 -0300" channel="Rede TV! HD">
+    <title lang="pt">RedeTV! News</title>
+    <desc lang="pt">Um telejornal dinâmico, moderno e crítico.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/redetvnews01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820223000 -0300" stop="20210820230000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Resgate 193</title>
+    <desc lang="pt">Bombeiros, médicos e socorristas correm contra o tempo para salvar as vítimas dos mais diferentes tipos de acidentes: incêndio, atropelamento, acidente de trânsito, afogamento...(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Medicina</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210820233000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Operação de Risco</title>
+    <desc lang="pt">Jorge Lordello mostra cenas reais e eletrizantes de ações policiais.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_operacaoderisco01_2_2019.jpg" />
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820233000 -0300" stop="20210821003000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Redetv! Extreme Fighting</title>
+    <desc lang="pt">Toda semana, o fã de MMA vai vibrar com as principais lutas do One Championship - a maior liga de MMA da Ásia. O One já é sucesso em mais de 150 países e carrega toda a tradição de mais de 5 mil anos das artes marciais.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821003000 -0300" stop="20210821011500 -0300" channel="Rede TV! HD">
+    <title lang="pt">Leitura Dinâmica</title>
+    <desc lang="pt">O seu final de noite com muito mais cultura, entretenimento e informação.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_leituradinamica01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821011500 -0300" stop="20210821021500 -0300" channel="Rede TV! HD">
+    <title lang="pt">Amaury Jr.</title>
+    <title lang="en">Amaury Jr. Show</title>
+    <desc lang="pt">Amaury Jr no ar há 40 anos, mostra as festas mais concorridas, entrevistas com celebridades, políticos e pessoas que fazem o Brasil acontecer.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_amauryjr01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821021500 -0300" stop="20210821025000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Peanuts Apresenta</title>
+    <desc lang="pt">PEANUTS APRESENTA, um programa de TV onde todos os conteúdos originais e exclusivos da Peanuts se reúnem.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821025000 -0300" stop="20210821030000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Te Peguei</title>
+    <desc lang="pt">Programa de pegadinhas, brincadeiras entre atores e a população na rua.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_tepeguei01.jpg" />
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821030000 -0300" stop="20210821050000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Igreja da Graça No Seu Lar</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821050000 -0300" stop="20210821060000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Operação de Risco</title>
+    <desc lang="pt">Jorge Lordello mostra cenas reais e eletrizantes de ações policiais.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_operacaoderisco01_2_2019.jpg" />
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821061500 -0300" channel="Rede TV! HD">
+    <title lang="pt">SKY</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821061500 -0300" stop="20210821064500 -0300" channel="Rede TV! HD">
+    <title lang="pt">RedeTV! News</title>
+    <desc lang="pt">Um telejornal dinâmico, moderno e crítico.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/redetvnews01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821064500 -0300" stop="20210821070000 -0300" channel="Rede TV! HD">
+    <title lang="pt">SKY</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821070000 -0300" stop="20210821071500 -0300" channel="Rede TV! HD">
+    <title lang="pt">Te Peguei</title>
+    <desc lang="pt">Programa de pegadinhas, brincadeiras entre atores e a população na rua.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_tepeguei01.jpg" />
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821071500 -0300" stop="20210821073000 -0300" channel="Rede TV! HD">
+    <title lang="pt">SKY</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821073000 -0300" stop="20210821074500 -0300" channel="Rede TV! HD">
+    <title lang="pt">Te Peguei</title>
+    <desc lang="pt">Programa de pegadinhas, brincadeiras entre atores e a população na rua.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_tepeguei01.jpg" />
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821074500 -0300" stop="20210821080000 -0300" channel="Rede TV! HD">
+    <title lang="pt">SKY</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821080000 -0300" stop="20210821090000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Igreja Cristã Maranata</title>
+    <desc lang="pt">Programa Religioso.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821090000 -0300" stop="20210821093000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Vitória em Cristo</title>
+    <desc lang="pt">O programa tem a missão de propagar a mensagem do evangelho e de defender a fé cristã e os valores éticos, morais e espirituais da Igreja de Cristo.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/vitoriaemcristo01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821093000 -0300" stop="20210821100000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Comunidade Evangélica da Zona Sul</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821100000 -0300" stop="20210821103000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Show da Saúde</title>
+    <desc lang="pt">Programa Local.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Saúde</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821103000 -0300" stop="20210821110000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Netmotors</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821110000 -0300" stop="20210821120000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821120000 -0300" stop="20210821130000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Assembleia de Deus do Brás</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821130000 -0300" stop="20210821140000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Show da Saúde</title>
+    <desc lang="pt">Programa Local.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Saúde</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821140000 -0300" stop="20210821143000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Polishop</title>
+    <desc lang="pt">Informercial e Independente.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821143000 -0300" stop="20210821150000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Empresários de Sucesso</title>
+    <desc lang="pt">Empresários de Sucesso, tem como objetivo apresentar empresários de diversos setores, que através de suas empresas e ideias inovadoras ganharam destaque junto aos consumidores.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821150000 -0300" stop="20210821153000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Qual Imóveis</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821153000 -0300" stop="20210821163000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Polishop</title>
+    <desc lang="pt">Informercial e Independente.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821163000 -0300" stop="20210821170000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Peanuts Apresenta</title>
+    <desc lang="pt">PEANUTS APRESENTA, um programa de TV onde todos os conteúdos originais e exclusivos da Peanuts se reúnem.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821170000 -0300" stop="20210821180000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Festival Redetvplus</title>
+    <desc lang="pt">Um programa com quadros interativos com o telespectador.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Game Show</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821180000 -0300" stop="20210821193000 -0300" channel="Rede TV! HD">
+    <title lang="pt">TV Fama</title>
+    <desc lang="pt">Referência no Brasil quando o assunto é celebridade, o TV FAMA traz, de forma leve e descontraída, as notícias mais quentes do mundo dos famosos. Apresentado por Alinne Prado, Lígia Mendes e Julio Rocha.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_tvfama01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821193000 -0300" stop="20210821203000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Luciana by Night</title>
+    <desc lang="pt">Luciana Gimenez comanda um talk show moderno e atual.(n)</desc>
+    <credits>
+      <actor>Luciana Gimenez</actor>
+      <actor>Diogo Portugal</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_lucianabynight01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821203000 -0300" stop="20210821213000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Igreja Internacional Da Graça De Deus</title>
+    <desc lang="pt">Programa Religioso.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821213000 -0300" stop="20210821221000 -0300" channel="Rede TV! HD">
+    <title lang="pt">RedeTV! News</title>
+    <desc lang="pt">Um telejornal dinâmico, moderno e crítico.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/redetvnews01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821221000 -0300" stop="20210821230000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Operação de Risco</title>
+    <desc lang="pt">Jorge Lordello mostra cenas reais e eletrizantes de ações policiais.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_operacaoderisco01_2_2019.jpg" />
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821230000 -0300" stop="20210822003000 -0300" channel="Rede TV! HD">
+    <title lang="pt">Mega Senha</title>
+    <desc lang="pt">Um teste de conhecimento, raciocínio rápido e trabalho em equipe que pode dar ao vencedor um prêmio de R$ 1 milhão de reais.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Game Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_megasenha01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
 </tv>
