@@ -112,10 +112,12 @@
   </channel>
   <channel id="Discovery Civilization HD">
     <display-name lang="pt">Discovery Civilization HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/discoverycivilization.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Discovery HD Theater">
     <display-name lang="pt">Discovery HD Theater</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/discoverytheater.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Discovery HD World">
@@ -4119,6 +4121,277 @@
     <episode-num system="onscreen">S9 E1</episode-num>
     <rating system="BR">
       <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820162400 -0300" stop="20210820171200 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Segredos dos Amish</title>
+    <desc lang="pt">Jolin e Levi planejam se livrar de Freeman. Merlin vai até um centro de cura amish na Dakota do Sul. Alan procura o bispo com informações sobre Levi. Esther e Levi passam algum tempo juntos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820171200 -0300" stop="20210820180000 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Os Anti-heróis do Velho Oeste</title>
+    <desc lang="pt">Este atirador bem-vestido era jogador, caçador e, acima de tudo, um homem da lei. Como xerife do Condado de Ford, no Kansas, Bat Masterson mantinha a paz em uma fronteira instável.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820184800 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">À Prova de Tudo</title>
+    <desc lang="pt">Bear Grylls mostra como sobreviver na ilha de Havaí, lar do Kilauea, o vulcão mais ativo do mundo.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/aprovadetudoafricadonorte01.jpg" />
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820184800 -0300" stop="20210820193600 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Crimes.Com</title>
+    <desc lang="pt">Este episódio começa com a história de uma senhora acima de qualquer suspeita que acaba sendo acusada de participar de um esquema de roubo digital por meio de comércio eletrônico.(n)</desc>
+    <credits>
+      <director>Fabio José De Melo</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820193600 -0300" stop="20210820200000 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Ideias que Mudaram o Mundo</title>
+    <desc lang="pt">Quando Samuel Morse descobre que sua esposa está agonizando, ele viaja para encontrá-la. Se tivesse chegado a tempo, a comunicação instantânea jamais existiria.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820202400 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Ideias que Mudaram o Mundo</title>
+    <desc lang="pt">Se o comerciante Jacob Davis não sobrevivesse à corrida do ouro na Califórnia, jamais conheceria Levi Strauss - e o rebite de cobre das calças jeans não seria inventado.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820202400 -0300" stop="20210820211200 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">O Preço da Escalada</title>
+    <desc lang="pt">A equipe 1 se esforça para chegar ao acampamento 4, a mais de 8.300 metros, dentro da zona da morte, onde a falta de oxigênio pode ser fatal. Ao chegarem, eles se deparam com um cadáver na neve.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_oprecodaescalada01.jpg" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820211200 -0300" stop="20210820220000 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">As Expedições de Josh Bernstein</title>
+    <desc lang="pt">Num ato de respeito, o povo Kukukuku da Papua-Nova Guiné mumifica os mortos e se recusa a enterrá-los. Mas este ritual logo desaparecerá. Josh Bernstein encontra uma das tribos mais primitivas da Terra.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820224800 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Desafio no Alasca</title>
+    <desc lang="pt">Os voluntários deixam suas cabanas e caminham para pegar um avião de volta à civilização. No caminho, alguns enfrentam temperaturas abaixo de zero e desidratação.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_desafionoalasca01.jpg" />
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820224800 -0300" stop="20210820233600 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Homens de Madeira</title>
+    <desc lang="pt">O frio do inverno chega a Millinocket e interrompe os trabalhos. Um motorista novato não consegue se adaptar às estradas e acaba prejudicando os Pelletiers. Todos terão de enfrentar a primeira nevasca do ano.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820233600 -0300" stop="20210821002400 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Homens de Madeira</title>
+    <desc lang="pt">O inverno é um problema para os Pelletiers. As equipes se esforçam, mas três motoristas sofrem acidentes e um cano estourado deixa o acampamento Telos fedendo.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820160000 -0300" stop="20210820164800 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Rota Perigosa</title>
+    <desc lang="pt">Todd volta a Uganda para enfrentar os homens que incendiaram uma escola que ele ajudou a construir. Quando uma série de choques culturais frustra seus esforços, Todd precisa fechar um acordo para sustentar a escola.(n)</desc>
+    <credits>
+      <actor>Todd Carmichael</actor>
+      <actor>Jean-Georges Vongerichten</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820164800 -0300" stop="20210820173600 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Rota Perigosa</title>
+    <desc lang="pt">Os ventos da mudança chegam ao hotel Four Seasons quando um novo gerente pede que Todd encontre o mítico café tanzaniano AAA. Mas quando enfrenta leões e caçadores, Todd precisa se armar para sair da África vivo.(n)</desc>
+    <credits>
+      <actor>Todd Carmichael</actor>
+      <actor>Jean-Georges Vongerichten</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820173600 -0300" stop="20210820182400 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Criadores de Sonhos</title>
+    <desc lang="pt">Tiroteios, lutas e uma cabana em chamas compõem o cenário de espetáculo numa atração histórica no Missouri. A equipe da Daniels Wood Land também cria um estande de tiro original.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <episode-num system="onscreen">S1 E18</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820182400 -0300" stop="20210820191200 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Nova Zelândia Selvagem</title>
+    <desc lang="pt">A maioria dos papagaios é colorida, mas os kakapos da Nova Zelândia rompem com todos os padrões. Eles são conhecidos como os papagaios mais estranhos do mundo, mas a que devem essa reputação?(n)</desc>
+    <credits>
+      <director>Quin Bereston</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820191200 -0300" stop="20210820200000 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Supercaminhões</title>
+    <desc lang="pt">Conheça o mundo dos supercaminhões nesta série cativante. A rivalidade e a competição por rotas e trabalho é acirrada, mas os caminhoneiros sabem que podem contar com a ajuda dos colegas quando precisam de ajuda.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_supercaminhoes01.jpg" />
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820204800 -0300" channel="Discovery HD Theater">
+    <title lang="pt">American Titans</title>
+    <desc lang="pt">O magnata do aço, Andrew Carnegie, e o rei do carvão, Henry Clay Frick, unem forças para dominar uma segunda Revolução Industrial. Seu império irá esmagar rivais e destruir o movimento trabalhista.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820204800 -0300" stop="20210820213600 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Baía de Bristol</title>
+    <desc lang="pt">Em Naknek, Taran aciona os potentes motores de seu barco para explorar a baía e a primeira rede vem cheia de peixes. Em Egegik, Luke e a tripulação tentam consertar o barco Jimmy Jeff.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Competição</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820213600 -0300" stop="20210820220000 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Tesouros Perdidos</title>
+    <desc lang="pt">Philippe e Ashlan Cousteau trabalham com a Marinha peruana para investigar um desastre ocorrido no século 17, um mistério que ainda assombra o país e seu povo.(n)</desc>
+    <credits>
+      <actor>Philippe Cousteau Jr.</actor>
+      <actor>Ashlan Gorse Cousteau</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820222400 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Tesouros Perdidos</title>
+    <desc lang="pt">Ashlan e Philippe Cousteau viajam para Bermuda para desvendar o mistério do Roanoke, um navio da Guerra Civil que foi dominado por piratas. Há mais de 150 anos, ninguém consegue encontrar sua misteriosa carga.(n)</desc>
+    <credits>
+      <actor>Philippe Cousteau Jr.</actor>
+      <actor>Ashlan Gorse Cousteau</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820222400 -0300" stop="20210820231200 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Mistérios no Museu</title>
+    <desc lang="pt">Don Wildman investiga uma conspiração para roubar um diamante valioso, o tubarão sedento de sangue que inspirou um filme de terror e o famoso encontro entre um presidente renomado e o rei do rock &amp; roll.(n)</desc>
+    <credits>
+      <actor>Paul Meltzer</actor>
+      <actor>Keith Rodriguez</actor>
+      <actor>Claire Sanderson</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820231200 -0300" stop="20210821000000 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Mistérios no Museu</title>
+    <desc lang="pt">Don Wildman estuda a réplica do sino mais famoso dos EUA, analisa a fotografia de um chef suspeito de um crime e investiga um livro ilustrado que retrata uma figura lendária.(n)</desc>
+    <credits>
+      <actor>Paul Meltzer</actor>
+      <actor>Keith Rodriguez</actor>
+      <actor>Claire Sanderson</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E11</episode-num>
+    <rating system="BR">
+      <value>16</value>
     </rating>
   </programme>
 </tv>
