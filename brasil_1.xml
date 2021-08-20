@@ -301,6 +301,7 @@
   </channel>
   <channel id="HBO (HD)">
     <display-name lang="pt">HBO (HD)</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="HBO 2 HD">
