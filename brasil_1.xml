@@ -480,10 +480,12 @@
   </channel>
   <channel id="Space HD">
     <display-name lang="pt">Space HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/spacehd.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="SPORTV 2 HD">
     <display-name lang="pt">SPORTV 2 HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/sportv2.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="SPORTV 3 HD">
@@ -15515,6 +15517,142 @@
     <episode-num system="onscreen">S2 E5</episode-num>
     <rating system="BR">
       <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820163500 -0300" stop="20210820183500 -0300" channel="Space HD">
+    <title lang="pt">Street Fighter: A Última Batalha</title>
+    <desc lang="pt">Coronel do Exército tem 72 horas para encontrar o ditador da Nação Unida e pôr fim à ameaça de morte de 72 reféns, pelos quais ele pede bilhões.(n)</desc>
+    <credits>
+      <director>Steven E. de Souza</director>
+      <actor>Jean-Claude Van Damme</actor>
+      <actor>Raul Julia</actor>
+      <actor>Ming-Na</actor>
+      <actor>Simon Callow</actor>
+      <actor>Wes Studi</actor>
+      <actor>Damian Chapa</actor>
+      <actor>Kylie Minogue</actor>
+      <actor>Roshan Seth</actor>
+      <actor>Grand L. Bush</actor>
+      <actor>Miguel A. Núñez Jr</actor>
+    </credits>
+    <date>1994</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">Japão</country>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820183500 -0300" stop="20210820202500 -0300" channel="Space HD">
+    <title lang="pt">Operação Fronteira</title>
+    <desc lang="pt">Um grupo das Forças Especiais Americanas planeja passar um carregamento de drogas do México aos Estados Unidos. Mas o guarda de fronteira Jack Robideaux será um obstáculo e não terá piedade para destruir o cartel.(n)</desc>
+    <credits>
+      <director>Isaac Florentine</director>
+      <actor>Jean-Claude Van Damme</actor>
+      <actor>Scott Adkins</actor>
+      <actor>Stephen Lord</actor>
+      <actor>Gary McDonald</actor>
+      <actor>Natalie Robb</actor>
+      <actor>Daniel Perrone</actor>
+      <actor>Andrée Bernard</actor>
+      <actor>Miles Anderson</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/operacaofronteira01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820202500 -0300" stop="20210820223000 -0300" channel="Space HD">
+    <title lang="pt">Assalto Sobre Trilhos</title>
+    <desc lang="pt">Dois irmãos de criação que trabalham como guardas no metrô de Nova Iorque, decidem levar a cabo audacioso golpe: roubar o trem pagador.(n)</desc>
+    <credits>
+      <director>Joseph Ruben</director>
+      <actor>Wesley Snipes</actor>
+      <actor>Woody Harrelson</actor>
+      <actor>Jennifer Lopez</actor>
+      <actor>Robert Blake</actor>
+      <actor>Chris Cooper</actor>
+      <actor>Joe Grifasi</actor>
+      <actor>Scott Sowers</actor>
+      <actor>Skipp Sudduth</actor>
+      <actor>Vincent Laresca</actor>
+      <actor>Nelson Vasquez</actor>
+      <actor>Aida Turturro</actor>
+    </credits>
+    <date>1995</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_assaltosobretrilho01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820223000 -0300" stop="20210821000100 -0300" channel="Space HD">
+    <title lang="pt">Quando as Luzes se Apagam</title>
+    <desc lang="pt">Quando pequena, Rebecca tinha muitos medos, especialmente quando as luzes se apagavam. Ela acreditava ser perseguida por uma mulher e anos mais tarde seu irmão mais novo começa a sofrer do mesmo problema.(n)</desc>
+    <credits>
+      <director>David F. Sandberg</director>
+      <actor>Teresa Palmer</actor>
+      <actor>Gabriel Bateman</actor>
+      <actor>Alexander DiPersia</actor>
+      <actor>Billy Burke</actor>
+      <actor>Maria Bello</actor>
+      <actor>Alicia Vela-Bailey</actor>
+      <actor>Andi Osho</actor>
+      <actor>Rolando Boyce</actor>
+      <actor>Maria Russell</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filmes/quandoasluzes01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820150000 -0300" stop="20210820192500 -0300" channel="SPORTV 2 HD">
+    <title lang="pt">Mundial De Atletismo Sub-20</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Atletismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820192500 -0300" stop="20210820204000 -0300" channel="SPORTV 2 HD">
+    <title lang="pt">Copa do Mundo da FIFA de Futebol de Areia: Suiça x Brasil</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol de Areia</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820204000 -0300" stop="20210820233000 -0300" channel="SPORTV 2 HD">
+    <title lang="pt">Tóquio 2020: Vôlei Masculino - Brasil x França</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Vôlei Masculino</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/tokio2020.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820233000 -0300" stop="20210821003000 -0300" channel="SPORTV 2 HD">
+    <title lang="pt">Faixa Olímpica</title>
+    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_faixaolimpica.jpg" />
+    <rating system="BR">
+      <value>L</value>
     </rating>
   </programme>
 </tv>
