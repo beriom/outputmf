@@ -136,6 +136,7 @@
   </channel>
   <channel id="Discovery Kids HD">
     <display-name lang="pt">Discovery Kids HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/discoverykidshd.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Discovery Science HD">
@@ -18570,5 +18571,2324 @@
     <star-rating system="BR">
       <value>3</value>
     </star-rating>
+  </programme>
+  <programme start="20210820143600 -0300" stop="20210820144400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Os Baby Rockers ganham de Dolores fraldas coloridas, mas eles não sabem que é um truque para que ela possa controlá-los. Os bebês dançam ao som do swing para desativar as fraldas.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820144400 -0300" stop="20210820144900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Dolores descobre que a batuta controla os músicos de uma orquestra e decide usá-la nos Baby Rockers. Mas o feitiço não dura muito e os bebês começam a tocar uma peça clássica.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820144900 -0300" stop="20210820145400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Quando Candy substitui Dolores nas férias, os bebês descobrem que a nova babá adora cantar e dançar. Mas nem tudo sai como eles esperam e eles acabam sentindo mais falta de Dolores do que imaginavam.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <episode-num system="onscreen">E11</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820145400 -0300" stop="20210820145900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">A Mestre Babá visita a creche para avaliar o desempenho de Dolores. Os Baby Rockers quase fazem a babá ser reprovada no teste, mas acabam ensinando a ela uma importante lição.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <episode-num system="onscreen">E13</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820145900 -0300" stop="20210820150400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Carlos captura a voz de Dolores por acidente com seu chapéu, mas ela ganha vida e foge. Para surpresa de todos, a voz de Dolores adora música e quer ser soprano.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <episode-num system="onscreen">E15</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820150400 -0300" stop="20210820153000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820153000 -0300" stop="20210820154100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">The Dog &amp; Pony Show</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <country lang="pt">Canadá</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820154100 -0300" stop="20210820155200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">The Dog &amp; Pony Show</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <country lang="pt">Canadá</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820155200 -0300" stop="20210820160700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">The Dog &amp; Pony Show</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <country lang="pt">Canadá</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820160700 -0300" stop="20210820161800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">The Dog &amp; Pony Show</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <country lang="pt">Canadá</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820161800 -0300" stop="20210820162500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Lelê e Linguiça</title>
+    <desc lang="pt">Lola está ensaiando para o recital de flauta que vai apresentar à noite.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_leleelinguica01.jpg" />
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">E61</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820162500 -0300" stop="20210820163200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Lelê e Linguiça</title>
+    <desc lang="pt">Lola e seus amigos estão organizando uma arrecadação de comida para o canil da cidade.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_leleelinguica01.jpg" />
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">E62</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820163200 -0300" stop="20210820163900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Lelê e Linguiça</title>
+    <desc lang="pt">Lola está planejando um jantar surpresa pelo aniversário de casamento de seus pais. Ela se instala na cozinha para preparar uma refeição.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_leleelinguica01.jpg" />
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">E63</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820163900 -0300" stop="20210820164400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820164400 -0300" stop="20210820171100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820171100 -0300" stop="20210820171200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mundo Ripilica</title>
+    <desc lang="pt">É o aniversário de Zep e Donna e Lilica querem muito agradar esse grande amigo! O melhor amigo de todos! Mas Donna fica um pouco enciumada: 'melhor amigo de todos?'.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <episode-num system="onscreen">E23</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820171200 -0300" stop="20210820171700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Quando a música dos Baby Rockers chega ao espaço, os marcianos se tornam seus fãs número 1. Os bebês precisam construir uma espaçonave para dar um concerto do outro mundo.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <episode-num system="onscreen">E18</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820171700 -0300" stop="20210820172200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Dolores cria uma máquina de clonagem para ajudá-la nas tarefas da creche. Mas um pequeno defeito leva os clones a se apaixonarem pela música dos Baby Rockers.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <episode-num system="onscreen">E22</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820172200 -0300" stop="20210820172700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">O bebê Ninja chega à creche fazendo estrago. Para poder recuperar seus instrumentos do cofre de segurança máxima de Dolores, os bebês serão treinados em artes ninjas.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <episode-num system="onscreen">E24</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820172700 -0300" stop="20210820173200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820173200 -0300" stop="20210820174100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Está na hora de tirar a foto oficial. Dolores consegue finalmente ver o rosto de Fuz, fica meio hipnotizada e os bebês começam a se aproveitar dessa vantagem.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <country lang="pt">Argentina</country>
+    <episode-num system="onscreen">E28</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820174100 -0300" stop="20210820174600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Dolores usa um aplicativo para monitorar o nível de exercícios dos bebês, mas os bebês estão com sono e farão de tudo para evitar a academia.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <country lang="pt">Argentina</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820174600 -0300" stop="20210820175100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Quando Dolores leva a TV da sala de brinquedos, os Baby Rockers precisam usar o Poder da Partitura para trazer de volta seus heróis e vivem uma grande aventura.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <country lang="pt">Argentina</country>
+    <episode-num system="onscreen">E32</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820175100 -0300" stop="20210820175600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Quando o carrinho de Fuz quebra, Bebê Rockabilly é encarregado de consertá-lo. Os Baby Rockers decidem apostar corrida de carrinho, mas são interrompidos por Dolores, que não quer saber de bagunça.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <country lang="pt">Argentina</country>
+    <episode-num system="onscreen">E34</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820175600 -0300" stop="20210820180100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180100 -0300" stop="20210820191700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Leo da Vinci: Missão Mona Lisa</title>
+    <desc lang="pt">Leonardo Da Vinci vive no campo e conta com a ajuda de seu amigo Lorenzo para dar vida às suas invenções. Quando descobre que há um tesouro escondido, a dupla embarca numa grande aventura para encontrá-lo.(n)</desc>
+    <credits>
+      <director>Sergio Manfio</director>
+      <actor>Johnny Bosch</actor>
+      <actor>Bryce Papenbrook</actor>
+      <actor>Cherami Leigh</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Itália</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820191700 -0300" stop="20210820192900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+    <desc lang="pt">Luna é uma garotinha curiosa e alegre, que está sempre às voltas com perguntas sobre o mundo. Para ela, o planeta Terra é um laboratório gigante e todos os acontecimentos são fenômenos a serem investigados.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdaluna01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820192900 -0300" stop="20210820194100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+    <desc lang="pt">Luna é uma garotinha curiosa e alegre, que está sempre às voltas com perguntas sobre o mundo. Para ela, o planeta Terra é um laboratório gigante e todos os acontecimentos são fenômenos a serem investigados.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdaluna01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820194100 -0300" stop="20210820195500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+    <desc lang="pt">Luna é uma garotinha curiosa e alegre, que está sempre às voltas com perguntas sobre o mundo. Para ela, o planeta Terra é um laboratório gigante e todos os acontecimentos são fenômenos a serem investigados.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdaluna01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820195500 -0300" stop="20210820200000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820200500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200500 -0300" stop="20210820201000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820201000 -0300" stop="20210820203300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820203300 -0300" stop="20210820210000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820210000 -0300" stop="20210820210500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820210500 -0300" stop="20210820211000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Fuz sonha que a creche se transformou em um enorme castelo onde os bebês são vigiados pela Mestre Babá. Os bebês compõem uma canção para distraí-la com rimas.(n)</desc>
+    <credits>
+      <director>Pedro Blumenbaum</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <country lang="pt">Argentina</country>
+    <episode-num system="onscreen">S2 E54</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820211000 -0300" stop="20210820211500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820211500 -0300" stop="20210820212200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">As aventuras cheias de ritmo de um improvável grupo de bebês músicos em uma creche.(n)</desc>
+    <credits>
+      <director>Pedro Blumenbaum</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <country lang="pt">Argentina</country>
+    <episode-num system="onscreen">S2 E37</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820212200 -0300" stop="20210820212700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820212700 -0300" stop="20210820213200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Dolores descobre um jeito de fazer os bebês dormirem tocando a flauta shakuhachi. O feitiço se volta contra o feiticeiro quando Dolores também adormece sob o efeito do som mágico.(n)</desc>
+    <credits>
+      <director>Pedro Blumenbaum</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <country lang="pt">Argentina</country>
+    <episode-num system="onscreen">S2 E53</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820213200 -0300" stop="20210820213700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820213700 -0300" stop="20210820214600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Os Power Rockers querem cultivar um jardim de sucesso. Mas quando uma seca ocorre, eles precisam recrutar um baby, cuja dança da chuva especial pode fazer o jardim prosperar.(n)</desc>
+    <credits>
+      <director>Gustavo Cova</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <country lang="pt">Argentina</country>
+    <episode-num system="onscreen">S2 E36</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820214600 -0300" stop="20210820215100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Os bebês viajam ao passado e descobrem que a lendária Mestre Babá foi a babá de Dolores quando era bebê. Eles também descobrem que Dolores estava longe de ser uma bebê comportada, como sempre insiste em dizer.(n)</desc>
+    <credits>
+      <director>Pedro Blumenbaum</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <country lang="pt">Argentina</country>
+    <episode-num system="onscreen">S2 E51</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820215100 -0300" stop="20210820215600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Dolores quer homenagear uma babá importante durante uma visita à creche, mas o bolo que preparou para a ocasião é destruído. Quando ela deixa Carlos de castigo, os outros bebês criam uma canção sobre justiça.(n)</desc>
+    <credits>
+      <director>Pedro Blumenbaum</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <country lang="pt">Argentina</country>
+    <episode-num system="onscreen">S2 E35</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820215600 -0300" stop="20210820232200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Cada um na sua Casa</title>
+    <desc lang="pt">Um alienígena na fuga de sua própria raça faz amizade com uma garota. Ele tenta ajudá-la em sua trajetória, mas pode ser uma interferência.(n)</desc>
+    <credits>
+      <director>Tim Johnson</director>
+      <actor>Jim Parsons</actor>
+      <actor>Rihanna</actor>
+      <actor>Steve Martin</actor>
+      <actor>Jennifer Lopez</actor>
+      <actor>Matt Jones</actor>
+      <actor>Brian Stepanek</actor>
+      <actor>Stephen Kearin</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filmes/cadaumnasuacasa01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820232200 -0300" stop="20210820233300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">As Aventuras Dos Boonie Bears</title>
+    <desc lang="pt">Vick finge que sabe onde o tigre está para manter Carly por perto. Quando usa comida como isca para atraí-lo, quem aparece é Bramble. Perseguida pelos ursos, Carly se perde na floresta e passa a noite acampada.(n)</desc>
+    <credits>
+      <director>Ding Liang</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">China</country>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820233300 -0300" stop="20210820234400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">As Aventuras Dos Boonie Bears</title>
+    <desc lang="pt">Vick cai em uma armadilha enquanto procura Carly e acaba adormecendo. Enquanto isso, Carly decide dormir amarrada no alto de uma árvore. Quando vê Carly, Bramble decide ficar sob a árvore para protegê-la.(n)</desc>
+    <credits>
+      <director>Ding Liang</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">China</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820234400 -0300" stop="20210820235900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Caçadores de Monstros</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Scott Vanden Bosch</director>
+      <actor>Vozes de Julian Dennison</actor>
+      <actor>Charlotte Nicdao</actor>
+      <actor>Michael Philippou</actor>
+      <actor>Nick Tate</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820235900 -0300" stop="20210821001000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Caçadores de Monstros</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Scott Vanden Bosch</director>
+      <actor>Vozes de Julian Dennison</actor>
+      <actor>Charlotte Nicdao</actor>
+      <actor>Michael Philippou</actor>
+      <actor>Nick Tate</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821001000 -0300" stop="20210821001700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mr. Magoo</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <actor>Voz de Jim Backus</actor>
+    </credits>
+    <date>1960</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E38</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821001700 -0300" stop="20210821002400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mr. Magoo</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <actor>Voz de Jim Backus</actor>
+    </credits>
+    <date>1960</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E39</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821002400 -0300" stop="20210821003500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Doki</title>
+    <desc lang="pt">Quando um vídeo do brinquedo surfista de Fico, RC, chega a uma equipe de expedição em Coolangatta, Austrália, eles o confundem com o próprio Fico.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/doki01.jpg" />
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S4 E37</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821003500 -0300" stop="20210821004600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Floogals</title>
+    <desc lang="pt">Sem querer, os Floogals entram no carro dos Lumanos durante uma viagem para acampar. Mas o que é essa estranha casa que anda? Eles acabam descobrindo que têm mais em com comum com os Lumanos do que imaginavam.(n)</desc>
+    <credits>
+      <actor>Vozes de Rasmus Hardiker</actor>
+      <actor>Jules de Jongh</actor>
+      <actor>Lucinda Rhodes Thakrar</actor>
+      <actor>Joseph Steyne</actor>
+      <actor>Hugo Harold-Harrison</actor>
+      <actor>Paul Leyshon</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/floogals01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S2 E11</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821004600 -0300" stop="20210821005600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Floogals</title>
+    <desc lang="pt">Quando Boomer vai parar numa biblioteca, seus amigos tentam desesperadamente recuperar um objeto que perderam entre os livros. Durante a aventura, Fleeker descobre uma paixão por histórias que desconhecia.(n)</desc>
+    <credits>
+      <director>Paul Donnellon</director>
+      <director>Ruth Ducker</director>
+      <actor>Vozes de Rasmus Hardiker</actor>
+      <actor>Jules de Jongh</actor>
+      <actor>Lucinda Rhodes Thakrar</actor>
+      <actor>Joseph Steyne</actor>
+      <actor>Hugo Harold-Harrison</actor>
+      <actor>Paul Leyshon</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/floogals01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821005600 -0300" stop="20210821010700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Vivi Viravento</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_viviviravento01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821010700 -0300" stop="20210821013000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Parque Patati Patatá</title>
+    <desc lang="pt">Patati e Patatá resolvem brincar de bloco de carnaval com as crianças. Azedo ouve e decide acabar com a festa e convencer a turma toda a brincar separadamente.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/parquepatatipatata01.jpg" />
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821013000 -0300" stop="20210821013700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Cantando Com Ping e Pong</title>
+    <desc lang="pt">Ping é uma passarinha e Pong um cachorrinho. Eles vivem no Jardim com seus amigos, Sr. Espeto, um porco-espinho cheio de manias, Matilda, uma gata que adora dançar, e Trixie, uma robô apaixonada por música.(n)</desc>
+    <credits>
+      <director>Annick De Vries</director>
+      <actor>Vozes de Sonia Ball</actor>
+      <actor>Thor Bishopric</actor>
+      <actor>Holly Gauthier-Frankel</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_cantandocompingepong01_2_2019.jpg" />
+    <country lang="pt">Canadá</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821013700 -0300" stop="20210821014400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Cantando Com Ping e Pong</title>
+    <desc lang="pt">Ping é uma passarinha e Pong um cachorrinho. Eles vivem no Jardim com seus amigos, Sr. Espeto, um porco-espinho cheio de manias, Matilda, uma gata que adora dançar, e Trixie, uma robô apaixonada por música.(n)</desc>
+    <credits>
+      <director>Annick De Vries</director>
+      <actor>Vozes de Sonia Ball</actor>
+      <actor>Thor Bishopric</actor>
+      <actor>Holly Gauthier-Frankel</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_cantandocompingepong01_2_2019.jpg" />
+    <country lang="pt">Canadá</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821014400 -0300" stop="20210821020500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Lelê e Linguiça</title>
+    <desc lang="pt">Lola e seus amigos vão visitar um parque.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_leleelinguica01.jpg" />
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821020500 -0300" stop="20210821022700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Miss Moon</title>
+    <desc lang="pt">Em Nova York, a família McGuffle decide contratar uma babá para cuidar de seus três filhos, mas como seria a vida deles se essa babá tivesse poderes mágicos?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/missmoon01.jpg" />
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821022700 -0300" stop="20210821024900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">My Little Pony</title>
+    <desc lang="pt">Numa terra mística, lar de criaturas mágicas, pequenos pôneis vivem pacificamente cantando e brincando. Mas nem todas as criaturas são pacíficas e vez por outra os pôneis precisam combater bruxas, duendes e outros seres.(n)</desc>
+    <credits>
+      <director>Michael Joens</director>
+      <actor>Vozes de Charles Adler</actor>
+      <actor>Sheryl Bernstein</actor>
+      <actor>Susan Blu</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Danny DeVito</actor>
+      <actor>Cloris Leachman</actor>
+      <actor>Tony Randall</actor>
+    </credits>
+    <date>1986</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mylittleponyaamizadeemagica01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821024900 -0300" stop="20210821031100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Zoo da Zu</title>
+    <desc lang="pt">Tia Mimi quer participar de um concurso de vídeos para uma marca de ração de animais, Zu e Lila decidem ajudá-la mas Tio Passarinho descobre o concurso e também decide participar com a ajuda de Nuno.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ozoodazu01.jpg" />
+    <episode-num system="onscreen">E17</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821031100 -0300" stop="20210821032300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Miss Moon</title>
+    <desc lang="pt">Fluffmaster adoraria ir ao Baile dos Feiticeiros, mas não tem uma parceira! Ele pergunta se Miss Moon não gostaria de acompanhá-lo, mas durante sua visita, ele logo se apaixona pela Baronesa.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/missmoon01.jpg" />
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">E45</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821032300 -0300" stop="20210821033400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Super Wings</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <actor>Vozes de Anna Fikhman</actor>
+      <actor>Alex Sapozhnik</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/superwings01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Coreia do Sul</country>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821033400 -0300" stop="20210821034500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Super Wings</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <actor>Vozes de Anna Fikhman</actor>
+      <actor>Alex Sapozhnik</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/superwings01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Coreia do Sul</country>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821034500 -0300" stop="20210821035600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Ollie e Moon Pelo Mundo</title>
+    <desc lang="pt">Em uma aventura na floresta da Costa Rica, a impaciente Moon quer que seu novo amigo preguiça seja mais rápido. Mas no fim, descobre que precisa deixar as pessoas serem como são.(n)</desc>
+    <credits>
+      <director>Florian Thouret</director>
+      <actor>Vozes de Mattea Conforti</actor>
+      <actor>Kobi Frumer</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ollieemoonpelomundo01.jpg" />
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">S1 E25</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821035600 -0300" stop="20210821040700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Ollie e Moon Pelo Mundo</title>
+    <desc lang="pt">Quando Moon garante a Ollie que o ajudará a encontrar um trevo de quatro folhas, ele acha que é uma missão impossível. Eles descobrem como tornar tudo possível trabalhando juntos.(n)</desc>
+    <credits>
+      <director>Florian Thouret</director>
+      <actor>Vozes de Mattea Conforti</actor>
+      <actor>Kobi Frumer</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ollieemoonpelomundo01.jpg" />
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">S1 E26</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821040700 -0300" stop="20210821041900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Natugato</title>
+    <desc lang="pt">Natugato está muito triste: alguém está sumindo com todos os seus brinquedos de gato, incluindo o Sr. Silly Sock.(n)</desc>
+    <credits>
+      <actor>Vozes de Taran Killam</actor>
+      <actor>Kate McKinnon</actor>
+      <actor>Kate Micucci</actor>
+      <actor>Bobby Moynihan</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/natugato01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E72</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821041900 -0300" stop="20210821043100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Natugato</title>
+    <desc lang="pt">Em uma viagem a um parque nacional para apreciar a natureza em todo o seu esplendor, Natugato e seus amigos encontram Shelby, uma tartaruga muito triste.(n)</desc>
+    <credits>
+      <actor>Vozes de Taran Killam</actor>
+      <actor>Kate McKinnon</actor>
+      <actor>Kate Micucci</actor>
+      <actor>Bobby Moynihan</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/natugato01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E73</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821043100 -0300" stop="20210821044200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+    <desc lang="pt">Luna é uma garotinha curiosa e alegre, que está sempre às voltas com perguntas sobre o mundo. Para ela, o planeta Terra é um laboratório gigante e todos os acontecimentos são fenômenos a serem investigados.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdaluna01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821044200 -0300" stop="20210821045300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+    <desc lang="pt">Acompanhe as aventuras de Luna nesta série sobre ciência para crianças em idade pré-escolar. Luna percebe coisas à sua volta e questiona como o mundo funciona.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdaluna01.jpg" />
+    <episode-num system="onscreen">S3 E24</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821045300 -0300" stop="20210821051600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821051600 -0300" stop="20210821053800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Frankie e os Zhu Zhu Pets</title>
+    <desc lang="pt">Frankie e os Zhus viajam até o fim do arco-íris para pedir um favor. Frankie e os Zhus dão uma versão diferente dos fatos quando uma lâmpada é quebrada.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/frankiezhu01.jpg" />
+    <episode-num system="onscreen">E11</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821053800 -0300" stop="20210821060000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Miss Moon</title>
+    <desc lang="pt">Em Nova York, a família McGuffle decide contratar uma babá para cuidar de seus três filhos, mas como seria a vida deles se essa babá tivesse poderes mágicos?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/missmoon01.jpg" />
+    <episode-num system="onscreen">E16</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821071600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">As Aventuras de Robinson Crusoé</title>
+    <desc lang="pt">Um papagaio vê a chance de realizar o sonho de conhecer o mundo quando um náufrago aparece sua ilha.(n)</desc>
+    <credits>
+      <director>Vincent Kesteloot</director>
+      <director>Ben Stassen</director>
+      <actor>Vozes de Matthias Schweighöfer</actor>
+      <actor>Kaya Yanar</actor>
+      <actor>Ilka Bessin</actor>
+      <actor>Dieter Hallervorden</actor>
+      <actor>Melanie Hinze</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/filme_asaventurasderobinsoncrusoe01_2_2019.jpg" />
+    <country lang="pt">Bélgica</country>
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821071600 -0300" stop="20210821072100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821072100 -0300" stop="20210821072600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821072600 -0300" stop="20210821075200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Pedro passa o dia como um caubói de verdade./Vovô traz sementes para Peppa...(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S5 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821075200 -0300" stop="20210821075700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821075700 -0300" stop="20210821080200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821080200 -0300" stop="20210821080700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821080700 -0300" stop="20210821081500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821081500 -0300" stop="20210821082000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821082000 -0300" stop="20210821083200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Ricky Zoom</title>
+    <desc lang="pt">Ricky fica chateado quando Loop é eleito ajudante de trânsito ao invés dele. Porém, quando a tarefa fica pesada para Loop, Ricky se dispõe imediatamente a ajudá-lo.(n)</desc>
+    <credits>
+      <director>Olivier Dumont</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821083200 -0300" stop="20210821084400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Ricky Zoom</title>
+    <desc lang="pt">Ricky e cada um dos amigos colocam um objeto numa cápsula do tempo. Ricky põe um brinquedo de quando era bebê. Ele se arrepende, mas descobre que a cápsula já havia sido enterrada.(n)</desc>
+    <credits>
+      <director>Olivier Dumont</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">E19</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821084400 -0300" stop="20210821085900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Ricky Zoom</title>
+    <desc lang="pt">Construído para correr, Ricky Zoom é uma pequena motocicleta de resgate vermelha que compartilha suas experiências com seus amigos. Juntos, eles transformam tudo em uma grande aventura.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821085900 -0300" stop="20210821091100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Ricky Zoom</title>
+    <desc lang="pt">Scootio quer mostrar aos pais que é responsável, e é escolhida para coordenar o trabalho de uma equipe de pintura. Quando seus amigos pintam faixas erradas, porém, ela precisa ficar calma para achar uma solução.(n)</desc>
+    <credits>
+      <director>Olivier Dumont</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">E17</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821091100 -0300" stop="20210821092300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">44 Gatos</title>
+    <desc lang="pt">Os Buffycats encontram um dinossauro de plástico no jardim. Eles decidem levá-lo ao parque, mas quando o dinossauro começa a pregar todo tipo de peças, Edison, o gato inventor, revela que ele não é apenas um brinquedo.(n)</desc>
+    <credits>
+      <director>Iginio Straffi</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Itália</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821092300 -0300" stop="20210821093000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Lelê e Linguiça</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_leleelinguica01.jpg" />
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">E16</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821093000 -0300" stop="20210821093700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Lelê e Linguiça</title>
+    <desc lang="pt">É o aniversário de Pat, e Lola decide presenteá-lo com um balão enorme, que ela mesmo personalizou em sua homenagem.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_leleelinguica01.jpg" />
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">E17</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821093700 -0300" stop="20210821100200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Lelê e Linguiça</title>
+    <desc lang="pt">Lola precisa cuidar de um filhotinho durante o dia.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_leleelinguica01.jpg" />
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">E23</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821100200 -0300" stop="20210821100900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Lelê e Linguiça</title>
+    <desc lang="pt">Lola pega um pássaro que entrou voando pela janela.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_leleelinguica01.jpg" />
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">E18</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821100900 -0300" stop="20210821103000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Lelê e Linguiça</title>
+    <desc lang="pt">Lola e Lucy decidem passar a noite acampando.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_leleelinguica01.jpg" />
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">E22</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821103000 -0300" stop="20210821105500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821105500 -0300" stop="20210821110000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821110000 -0300" stop="20210821121600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Leo da Vinci: Missão Mona Lisa</title>
+    <desc lang="pt">Leonardo Da Vinci vive no campo e conta com a ajuda de seu amigo Lorenzo para dar vida às suas invenções. Quando descobre que há um tesouro escondido, a dupla embarca numa grande aventura para encontrá-lo.(n)</desc>
+    <credits>
+      <director>Sergio Manfio</director>
+      <actor>Johnny Bosch</actor>
+      <actor>Bryce Papenbrook</actor>
+      <actor>Cherami Leigh</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Itália</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821121600 -0300" stop="20210821122700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Agente Binky Ao Resgate!</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Derek Prout</director>
+      <actor>Vozes de Jesse Camacho</actor>
+      <actor>Paul Braunstein</actor>
+      <actor>Aurora Browne</actor>
+      <actor>Melody A. Johnson</actor>
+      <actor>Boyd Banks</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Canadá</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821122700 -0300" stop="20210821123800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Agente Binky Ao Resgate!</title>
+    <desc lang="pt">Gordon se impressiona com as habilidades felinas de Binky e Gracie, que decidem treiná-lo para ser um gato. Os jogos anuais PURST são interrompidos quando um alienígena (gafanhoto) aparece para competir no evento.(n)</desc>
+    <credits>
+      <actor>Vozes de Jesse Camacho</actor>
+      <actor>Paul Braunstein</actor>
+      <actor>Aurora Browne</actor>
+      <actor>Melody A. Johnson</actor>
+      <actor>Boyd Banks</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">E14</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821123800 -0300" stop="20210821125100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Agente Binky Ao Resgate!</title>
+    <desc lang="pt">A equipe PURST tenta se livrar dos alienígenas (cupins) que estão devorando a árvore do Humano Menor. A missão de hoje é retirar um alienígena (abelha) que entrou pela janela do caminhão de sorvete.(n)</desc>
+    <credits>
+      <actor>Vozes de Jesse Camacho</actor>
+      <actor>Paul Braunstein</actor>
+      <actor>Aurora Browne</actor>
+      <actor>Melody A. Johnson</actor>
+      <actor>Boyd Banks</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821125100 -0300" stop="20210821130200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Agente Binky Ao Resgate!</title>
+    <desc lang="pt">Ted está testando uma sonda quando o controle remoto é dominado por um alienígena (lesma). A equipe tenta recuperar um pedaço de fruta que foi levado por alienígenas (formigas).(n)</desc>
+    <credits>
+      <actor>Vozes de Jesse Camacho</actor>
+      <actor>Paul Braunstein</actor>
+      <actor>Aurora Browne</actor>
+      <actor>Melody A. Johnson</actor>
+      <actor>Boyd Banks</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821130200 -0300" stop="20210821131300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Agente Binky Ao Resgate!</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Derek Prout</director>
+      <actor>Vozes de Jesse Camacho</actor>
+      <actor>Paul Braunstein</actor>
+      <actor>Aurora Browne</actor>
+      <actor>Melody A. Johnson</actor>
+      <actor>Boyd Banks</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Canadá</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821131300 -0300" stop="20210821132600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Agente Binky Ao Resgate!</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Derek Prout</director>
+      <actor>Vozes de Jesse Camacho</actor>
+      <actor>Paul Braunstein</actor>
+      <actor>Aurora Browne</actor>
+      <actor>Melody A. Johnson</actor>
+      <actor>Boyd Banks</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Canadá</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821132600 -0300" stop="20210821133700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">The Dog &amp; Pony Show</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <country lang="pt">Canadá</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821133700 -0300" stop="20210821134900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">The Dog &amp; Pony Show</title>
+    <desc lang="pt">É o aniversário de Dog, mas as coisas ficam um pouco estranhas quando o rabo de cabelo mágico de Pony transforma seu prédio em um bolo gigante.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <episode-num system="onscreen">E13</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821134900 -0300" stop="20210821140300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">The Dog &amp; Pony Show</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <country lang="pt">Canadá</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821140300 -0300" stop="20210821141400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">The Dog &amp; Pony Show</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <country lang="pt">Canadá</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821141400 -0300" stop="20210821142900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa ao Redor do Mundo</title>
+    <desc lang="pt">Peppa e sua família vão até o parque para comemorar o início das férias de verão. Quando o carro quebra, a família pega um avião emprestado e embarca em uma aventura divertida ao redor do mundo.(n)</desc>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filmes/pepparedormundo01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821142900 -0300" stop="20210821145500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821145500 -0300" stop="20210821151800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821151800 -0300" stop="20210821152300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821152300 -0300" stop="20210821152800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821152800 -0300" stop="20210821153300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821153300 -0300" stop="20210821153800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Os Power Rockers querem cultivar um jardim de sucesso. Mas quando uma seca ocorre, eles precisam recrutar um baby, cuja dança da chuva especial pode fazer o jardim prosperar.(n)</desc>
+    <credits>
+      <director>Gustavo Cova</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <country lang="pt">Argentina</country>
+    <episode-num system="onscreen">S2 E36</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821153800 -0300" stop="20210821154300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821154300 -0300" stop="20210821155200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821155200 -0300" stop="20210821155700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821155700 -0300" stop="20210821160200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Quando a música dos Baby Rockers chega ao espaço, os marcianos se tornam seus fãs número 1. Os bebês precisam construir uma espaçonave para dar um concerto do outro mundo.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <episode-num system="onscreen">E18</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821160200 -0300" stop="20210821160700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">As aventuras cheias de ritmo de um improvável grupo de bebês músicos em uma creche.(n)</desc>
+    <credits>
+      <director>Pedro Blumenbaum</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <country lang="pt">Argentina</country>
+    <episode-num system="onscreen">S2 E31</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821160700 -0300" stop="20210821161200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">O bebê Ninja chega à creche fazendo estrago. Para poder recuperar seus instrumentos do cofre de segurança máxima de Dolores, os bebês serão treinados em artes ninjas.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <episode-num system="onscreen">E24</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821161200 -0300" stop="20210821161900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">As aventuras cheias de ritmo de um improvável grupo de bebês músicos em uma creche.(n)</desc>
+    <credits>
+      <director>Pedro Blumenbaum</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <country lang="pt">Argentina</country>
+    <episode-num system="onscreen">S2 E37</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821161900 -0300" stop="20210821162400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821162400 -0300" stop="20210821162900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821162900 -0300" stop="20210821163600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Lelê e Linguiça</title>
+    <desc lang="pt">Lola decide usar seu livro de hipnose para hipnotizar seu cachorro.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_leleelinguica01.jpg" />
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">E41</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821163600 -0300" stop="20210821164300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Lelê e Linguiça</title>
+    <desc lang="pt">Pat não está se sentindo muito bem.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_leleelinguica01.jpg" />
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">E42</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821164300 -0300" stop="20210821170800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Lelê e Linguiça</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_leleelinguica01.jpg" />
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821170800 -0300" stop="20210821172000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">The Dog &amp; Pony Show</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <country lang="pt">Canadá</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821172000 -0300" stop="20210821173400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">The Dog &amp; Pony Show</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <country lang="pt">Canadá</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821173400 -0300" stop="20210821174500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">The Dog &amp; Pony Show</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <country lang="pt">Canadá</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821174500 -0300" stop="20210821190100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Tá Dando Onda 2</title>
+    <desc lang="pt">O pinguim surfista Cadu Maverick está de volta e em busca de novas aventuras.(n)</desc>
+    <credits>
+      <director>Henry Yu</director>
+      <actor>Vozes de Jeremy Shada</actor>
+      <actor>Melissa Sturm</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Saraya Jade Bevis</actor>
+      <actor>Mark Calaway</actor>
+      <actor>Declan Carter</actor>
+      <actor>John Cena</actor>
+      <actor>Michael Coulthard</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821190100 -0300" stop="20210821191900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821191900 -0300" stop="20210821192400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821192400 -0300" stop="20210821192900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821192900 -0300" stop="20210821193400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821193400 -0300" stop="20210821200000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Todo mundo leva seus bichinhos para uma competição de animais de estimação na escola. /Mamãe Porquinho encontra uma aranha na casa e pede para Papai Porquinho se livrar dela...(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S5 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821200000 -0300" stop="20210821202300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821202300 -0300" stop="20210821202800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821202800 -0300" stop="20210821203300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821203300 -0300" stop="20210821203800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821203800 -0300" stop="20210821210500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821210500 -0300" stop="20210821212800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Peppa e Suzy não têm nada para fazer e estão entediadas. Papai Porquinho encontra uma velha caixa de jogos para elas brincarem, mas nem todos são fáceis para o pequeno George.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S6 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821212800 -0300" stop="20210821213300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821213300 -0300" stop="20210821213800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821213800 -0300" stop="20210821220500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821220500 -0300" stop="20210821221000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821221000 -0300" stop="20210821221500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821221500 -0300" stop="20210821223800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821223800 -0300" stop="20210821230500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Peppa e sua família visitam um novo parque temático: a Cidade da Batata. Lá, eles descobrem que a magia dos legumes nunca acaba...(n)</desc>
+    <credits>
+      <actor>Vozes de Lily Snowden-Fine</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwena Banks</actor>
+      <actor>Oliver May</actor>
+      <actor>Alice May</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821230500 -0300" stop="20210821231000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821231000 -0300" stop="20210821231500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821231500 -0300" stop="20210821232000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821232000 -0300" stop="20210821234300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821234300 -0300" stop="20210822000900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
 </tv>
