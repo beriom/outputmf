@@ -321,10 +321,12 @@
   </channel>
   <channel id="Home &amp; Health HD">
     <display-name lang="pt">Home &amp; Health HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/discoveryhomeandhealth.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Inter TV RN - natal">
     <display-name lang="pt">Inter TV RN - natal</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
     <url>http://www.redeglobo.globo.com</url>
   </channel>
   <channel id="Investigação Discovery HD">
@@ -42918,5 +42920,946 @@
     <rating system="BR">
       <value>10</value>
     </rating>
+  </programme>
+  <programme start="20210820142800 -0300" stop="20210820152100 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">A Família Derrico</title>
+    <desc lang="pt">Dawsyn está em casa, mas falta pouco para a última cirurgia e o clima anda tenso. A divisão de responsabilidades faz Karen questionar se ela e Dawsyn estariam recebendo o apoio necessário.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820152100 -0300" stop="20210820161400 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Nosso Primeiro Filho</title>
+    <desc lang="pt">Ashley e Tyson levam seus quádruplos para casa. Doug e Mars têm mais um problema enquanto tentam cuidar de Sofia. Destiny dá à luz ao bebê Capri. Kristina volta ao trabalho depois de ter Lincoln.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820161400 -0300" stop="20210820170700 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Reforma Total Com Nate E Jeremiah</title>
+    <desc lang="pt">A reforma dos sonhos de Allan e Janelle foi interrompida há seis meses devido a problemas de saúde. O casal vive em meio a obras inacabadas, o que representa um grande desafio para Nate e Jeremiah.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_reformatotalcomnateejeremiah01.jpg" />
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820170700 -0300" stop="20210820180000 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Ame-a ou Deixe-a</title>
+    <desc lang="pt">A casa de Karalyn e Todd foi construída nos anos 60 e precisa de mais do que uma reforma. Jillian precisa recriar toda a disposição dos cômodos, enquanto Todd tenta encantar o casal com uma casa de vista espetacular.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ameaoudeixea01.jpg" />
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S5 E25</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820182700 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Um Dia de Chef</title>
+    <desc lang="pt">Edson é um paulistano que está acostumado com as mulheres na cozinha. Primeiro, era a mãe e as irmãs que preparavam as refeições. Agora, a comida fica por conta da esposa. Mas esse pensamento ultrapassado vai acabar...(n)</desc>
+    <credits>
+      <actor>Emmanuel Bassoleil</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_umdiadechef01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820182700 -0300" stop="20210820185300 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Um Dia de Chef</title>
+    <desc lang="pt">Rafael - ou 'Batata' para os íntimos - tem vinte e nove anos, é estudante de filosofia e cartunista e apesar de amar comer carne, mora em uma república com três amigos vegetarianos e veganos que comandam a cozinha.(n)</desc>
+    <credits>
+      <actor>Emmanuel Bassoleil</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_umdiadechef01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820185300 -0300" stop="20210820192000 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Um Dia de Chef</title>
+    <desc lang="pt">Giovanna é uma jovem de origem italiana que morou sozinha durante 8 anos na China e, apesar da experiência, não aprendeu a cozinhar absolutamente nada!(n)</desc>
+    <credits>
+      <actor>Emmanuel Bassoleil</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_umdiadechef01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820192000 -0300" stop="20210820194600 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Duff</title>
+    <desc lang="pt">Conforme o Sol se põe na padaria, dois times seguem para águas turbulentas. Duff Goldman os desafia a criar bolos no formato de navios antes do amanhecer.(n)</desc>
+    <credits>
+      <director>Mark Lafleur</director>
+      <actor>Duff Goldman</actor>
+      <actor>Kelis</actor>
+      <actor>Sherry Yard</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820194600 -0300" stop="20210820213900 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Masterchef</title>
+    <desc lang="pt">Ana Paula Padrão apresenta o maior reality de culinária do mundo, que revela os novos talentos da cozinha brasileira.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/masterchef01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820213900 -0300" stop="20210820223000 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">SOS Restaurante</title>
+    <desc lang="pt">O chef Robert Irvine estará muito ocupado com um café que parece uma sala entulhada, uma cozinha sem nenhum equipamento profissional, uma dona inexperiente e muito teimosa e, além disso, a renovação de uma barbearia!(n)</desc>
+    <credits>
+      <actor>Robert Irvine</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_sosrestaurante01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S11 E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820223000 -0300" stop="20210820232100 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">SOS Restaurante</title>
+    <desc lang="pt">Em sua próxima missão, o Chef Robert Irvine embosca Jodi, dona do restaurante Theresa's em Bradenton, Flórida,depois que sua amiga e contadora, Miriam, enviou um pedido de socorro.(n)</desc>
+    <credits>
+      <actor>Robert Irvine</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_sosrestaurante01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S12 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820232100 -0300" stop="20210821010600 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Bake Off Brasil - Mão na Massa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/bakeoffbrasil01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S7 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821010600 -0300" stop="20210821015000 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Ame-a ou Deixe-a</title>
+    <desc lang="pt">Tracey dedicou dez anos de sua vida cuidando do belo jardim de sua casa. Mas seu marido, Antony adora mudanças e está ansioso para mudar para um lugar novo.(n)</desc>
+    <credits>
+      <actor>Neale Whitaker</actor>
+      <actor>Andrew Winter</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <country lang="pt">Austrália</country>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821015000 -0300" stop="20210821033700 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Masterchef</title>
+    <desc lang="pt">Ana Paula Padrão apresenta o maior reality de culinária do mundo, que revela os novos talentos da cozinha brasileira.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/masterchef01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821033700 -0300" stop="20210821051600 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Bake Off Brasil - Mão na Massa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/bakeoffbrasil01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S7 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821051600 -0300" stop="20210821060000 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Ame-a ou Deixe-a</title>
+    <desc lang="pt">Nat e Tim moram muito longe do trabalho. Tim quer se mudar para gastar menos tempo no trânsito, mas Nat é apegada à casa atual.(n)</desc>
+    <credits>
+      <actor>Neale Whitaker</actor>
+      <actor>Andrew Winter</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <country lang="pt">Austrália</country>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821062500 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">A Sonhada Casa de Praia</title>
+    <desc lang="pt">Depois de visitar a Emerald Isle durante anos, um casal procura um refúgio espaçoso e confortável para receber as filhas adultas durante as férias.(n)</desc>
+    <credits>
+      <actor>John Beach</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821062500 -0300" stop="20210821064900 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Em Busca Da Casa De Praia</title>
+    <desc lang="pt">Um casal do Arizona quer trocar a areia do deserto pela areia da praia em Brookings, no Oregon.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821064900 -0300" stop="20210821071400 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Casa na Praia</title>
+    <desc lang="pt">Um casal da cidade de Nova York quer trocar a selva de pedra pelas praias de Long Beach.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Religião</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821071400 -0300" stop="20210821073900 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Vida No Paraíso</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <actor>Lannon Killea</actor>
+      <actor>Daniel Lovasz Jr.</actor>
+      <actor>Catalina Lovasz</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821073900 -0300" stop="20210821080400 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Vida No Paraíso</title>
+    <desc lang="pt">Recém-casados da costa oeste americana compram sua primeira casa em Porto Rico.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821080400 -0300" stop="20210821082900 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Vida No Paraíso</title>
+    <desc lang="pt">Um homem da Flórida tenta realizar o sonho de seu pai ao comprar uma casa nas Bahamas, mantendo seu legado vivo.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Viagem</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821082900 -0300" stop="20210821085400 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Christina Reforma</title>
+    <desc lang="pt">Cassie, uma velha amiga de Christina, volta a morar na casa de sua infância em Anaheim Hills, Califórnia. A residência não é reformada há 17 anos e Cassie quer uma cozinha e uma sala de jantar novos em folha.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821085400 -0300" stop="20210821091900 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Christina Reforma</title>
+    <desc lang="pt">A suíte antiquada de um casal precisa de uma reforma urgente. Christina arregaça as mangas e transforma o dormitório em um espaço elegante e funcional.(n)</desc>
+    <credits>
+      <actor>Christina Anstead</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821091900 -0300" stop="20210821094400 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Reforma À Venda</title>
+    <desc lang="pt">Uma casa de veraneio da década de 1930 é modernizada em Long Beach, Califórnia.(n)</desc>
+    <credits>
+      <actor>Christina Anstead</actor>
+      <actor>Tarek El Moussa</actor>
+      <actor>Taylor El Moussa</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_reformaavenda01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821094400 -0300" stop="20210821100900 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Reforma À Venda</title>
+    <desc lang="pt">Uma casa de quatro dormitórios e um banheiro é reformada segundo os padrões modernos.(n)</desc>
+    <credits>
+      <actor>Christina Anstead</actor>
+      <actor>Thadius Daniels</actor>
+      <actor>Pete de Best</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_reformaavenda01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821100900 -0300" stop="20210821103400 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Reformas A Todo Vapor</title>
+    <desc lang="pt">Eric e Lindsey Bennett se arriscam comprando uma casa modesta em um bairro elegante. Eles precisam tornar a casa competitiva em um mercado difícil, mas uma infestação de cupins ameaça seus planos.(n)</desc>
+    <credits>
+      <director>Ronn Kulisek</director>
+      <actor>Eric Bennett</actor>
+      <actor>Lindsey Bennett</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821103400 -0300" stop="20210821105900 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Reformas A Todo Vapor</title>
+    <desc lang="pt">Lindsey e Eric Bennett ignoram o lema "escolha bem a localização" e compram uma casa em uma rua movimentada. A casa dos anos 90 ganha espaços com conceito aberto e uma reforma sofisticada para atrair compradores.(n)</desc>
+    <credits>
+      <director>Ronn Kulisek</director>
+      <actor>Eric Bennett</actor>
+      <actor>Lindsey Bennett</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821105900 -0300" stop="20210821114900 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Ame-a ou Deixe-a</title>
+    <desc lang="pt">Geneva e David fizeram um ótimo negócio quando compraram um imóvel que é um verdadeiro diamante em estado bruto. Agora, eles pretendem transformá-la na casa dos seus sonhos com uma grande reforma.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ameaoudeixea01.jpg" />
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821114900 -0300" stop="20210821124200 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Irmãos À Obra</title>
+    <desc lang="pt">Depois de ter dois filhos, um casal não conseguiu concluir as reformas necessárias em sua residência. Drew e Jonathan criam um projeto para aumentar a funcionalidade das sala de estar e de jantar e da cozinha.(n)</desc>
+    <credits>
+      <actor>Drew Scott</actor>
+      <actor>Jonathan Silver Scott</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821124200 -0300" stop="20210821130900 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Casas Exuberantes</title>
+    <desc lang="pt">Depois de ganhar cinco milhões de dólares em uma raspadinha, um homem compra a propriedade rural dos seus sonhos na Califórnia.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821130900 -0300" stop="20210821133500 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Casas Exuberantes</title>
+    <desc lang="pt">Um casal aposentado ganha um milhão de dólares na loteria e começa a procurar uma casa de veraneio para toda a família.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821133500 -0300" stop="20210821140200 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">A Casa de Jennie Garth</title>
+    <desc lang="pt">Para Jennie, a cozinha é a alma da casa, um espaço com uma posição especial no imóvel. No entanto, alguns ângulos incomuns dificultam a execução do projeto.(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821140200 -0300" stop="20210821142800 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">A Casa de Jennie Garth</title>
+    <desc lang="pt">Pela primeira vez, Jennie projeta uma suíte só para ela. Ela se diverte personalizando o espaço com um closet digno de uma mestra da decoração.(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821142800 -0300" stop="20210821145500 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">O Novo Retrô Com Dan e Maureen</title>
+    <desc lang="pt">Um casal de colecionadores de arte adora oferecer recepções, mas a disposição dos cômodos de sua casa dos anos 60 não é funcional. Maureen e Dan os ajudam a modernizar a cozinha e a sala, preservando o charme retrô do imóvel.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821145500 -0300" stop="20210821154800 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">De Casa Nova</title>
+    <desc lang="pt">Ben e Erin Napier ajudam amigos de longa data a se estabelecer em uma casa repleta de charme e história.(n)</desc>
+    <credits>
+      <director>Patrick McMahill</director>
+      <actor>Ben Napier</actor>
+      <actor>Erin Napier</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821154800 -0300" stop="20210821164100 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">De Casa Nova</title>
+    <desc lang="pt">Ben e Erin Napier ajudam um pastor apaixonado por culinária e jardinagem a encontrar um imóvel onde possa se dedicar a esses hobbies.(n)</desc>
+    <credits>
+      <director>Patrick McMahill</director>
+      <actor>Ben Napier</actor>
+      <actor>Erin Napier</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821164100 -0300" stop="20210821173400 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Ame-a ou Deixe-a</title>
+    <desc lang="pt">Danielle adora a casa da família, mas Spencer quer morar em um lugar mais espaçoso e com outra disposição. Jillian tenta tornar o imóvel mais funcional, enquanto Todd mostra que uma casa mais espaçosa faz toda a diferença.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ameaoudeixea01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821173400 -0300" stop="20210821182700 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Ame-a ou Deixe-a</title>
+    <desc lang="pt">Danielle está cansada de morar em uma casa escura e pouco funcional, enquanto Joel adora ter um quintal espaçoso. Enquanto Jill tenta consertar uma longa lista de problemas, Todd precisa encontrar uma casa espaçosa.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ameaoudeixea01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E11</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821182700 -0300" stop="20210821192000 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Ame-a ou Deixe-a</title>
+    <desc lang="pt">Surpresas desagradáveis atrás das paredes ameaçam a reforma de Jill na casa espaçosa de Julia e Brett. Enquanto isso, Todd precisa encontrar um imóvel pronto para morar que seja próximo do trabalho de Julia.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ameaoudeixea01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E12</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821192000 -0300" stop="20210821201400 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Irmãos À Obra</title>
+    <desc lang="pt">Um casal recebe a notícia de que não poderia ter filhos, mas depois de adquirir uma casa pequena de dois dormitórios, agora essa família terá 4 membros.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821201400 -0300" stop="20210821210800 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Irmãos à Obra - Compra e Venda</title>
+    <desc lang="pt">David e Siobhan estão ansiosos para encontrar uma nova casa, mas não conseguem fechar um bom negócio com o mercado de imóveis aquecido. Agora, eles pretendem começar uma guerra de lances.(n)</desc>
+    <credits>
+      <actor>Drew Scott</actor>
+      <actor>Jonathan Silver Scott</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/irmaosaobra01.jpg" />
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821210800 -0300" stop="20210821213500 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Espaços Únicos Com Grace Mitchell</title>
+    <desc lang="pt">Grace e sua equipe transformam um chalé abarrotado de coisas em um espaço perfeito para encontros familiares em Fort Worth, Texas.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821213500 -0300" stop="20210821220200 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Espaços Únicos Com Grace Mitchell</title>
+    <desc lang="pt">A equipe ajuda um casal a realizar o sonho de ter um espaço em casa para cozinhar e receber convidados.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821220200 -0300" stop="20210821222900 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Reformar Para Vender</title>
+    <desc lang="pt">Um casal reforma uma casa em Playa del Rey, Califórnia, mas enquanto ela prefere um acabamento de primeira linha, ele insiste em reduzir custos. Tarek os ajuda a fazer as melhores escolhas sem estourar o orçamento.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821222900 -0300" stop="20210821225700 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Reforma À Venda</title>
+    <desc lang="pt">Tarek e Christina planeja visitar um imóvel em Diamond Bar, Califórnia. Mas enquanto Tarek sai apressado para um encontro, Christina o provoca e uma discussão acalorada que pode atrapalhar seus planos.(n)</desc>
+    <credits>
+      <actor>Christina Anstead</actor>
+      <actor>Israel Battres</actor>
+      <actor>Al Brown</actor>
+      <actor>Tarek El Moussa</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_reformaavenda01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E13</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821225700 -0300" stop="20210821235200 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">Prova de Noiva</title>
+    <desc lang="pt">Após vencer uma delicada doença, a blogueira e jornalista Érika vai se casar com o amor de sua vida em uma cerimônia inspirada na região da Toscana.(n)</desc>
+    <credits>
+      <director>Cassia Dian</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821235200 -0300" stop="20210822004700 -0300" channel="Home &amp; Health HD">
+    <title lang="pt">O Vestido Ideal - Atlanta</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820003000 +0000" stop="20210820013500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Império</title>
+    <desc lang="pt">João Lucas se casa com Du e descobre que será pai de gêmeos.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/11099.jpg" />
+  </programme>
+  <programme start="20210820013500 +0000" stop="20210820022500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Sob Pressão</title>
+    <desc lang="pt">A quarta temporada se passa no grandioso Hospital Edith de Magalhães. É nesse lugar que os personagens enfrentam o cotidiano caótico de uma emergência pública, mas com a pressão da rotina ainda maior, já que o hospital, localizado agora no centro da cidade, é referência de atendimento.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/12125.jpg" />
+  </programme>
+  <programme start="20210820022500 +0000" stop="20210820031500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Ilha De Ferro</title>
+    <desc lang="pt">A série mostra a realidade dos funcionários da plataforma PLT-137, que se dividem entre os dilemas em terra firme e o clima de ebulição em alto-mar.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/12119.jpg" />
+  </programme>
+  <programme start="20210820031500 +0000" stop="20210820040500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/30.jpg" />
+  </programme>
+  <programme start="20210820040500 +0000" stop="20210820044500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Homenagem ao cineasta Glauber Rocha, um dos criadores do Cinema Novo, pelo olhar de seus filhos Paloma e Eryk, também diretores.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/31.jpg" />
+  </programme>
+  <programme start="20210820044500 +0000" stop="20210820060500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Corujão I - Marcas Do Passado</title>
+    <title lang="en">Aloft</title>
+    <desc lang="pt">A vida de Nana Kunning foi complicada. Vinte anos depois de ter abandonado seu filho e de passar por inúmeras dificuldades, ela consegue se estabelecer como uma artista renomada e curadora. Só que uma jovem jornalista, Jannia, está determinada a investigar o destino do filho distante de Nana, Ivan, colocando em dúvida o próprio significado da vida de mãe e filho.(n)</desc>
+    <credits>
+      <director>Claudia Llosa</director>
+      <actor>Cillian Murphy</actor>
+      <actor>Jennifer Connelly</actor>
+      <actor>Melanie Laurent</actor>
+      <actor>William Shimel</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/33.jpg" />
+    <country lang="pt">Espanhola</country>
+  </programme>
+  <programme start="20210820060500 +0000" stop="20210820070000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Corujão II - Prova De Coragem</title>
+    <title lang="en">Prova De Coragem</title>
+    <desc lang="pt">Hermano é um médico bem-sucedido que está planejando uma escalada de alto risco em uma montanha na terra do fogo. Neste período, sua mulher, Adri, com quem vive há sete anos, descobre que está grávida. Mesmo na iminência de se tornar pai, ele dá prosseguimento a seus planos. Esta é a prova de coragem que Hermano deve a si mesmo, após ter testemunhado seu melhor amigo ser agredido até a morte e não ter feito nada para ajudá-lo.(n)</desc>
+    <credits>
+      <director>Roberto Gervitz</director>
+      <actor>Armando Babaioff</actor>
+      <actor>Áurea Maranhão</actor>
+      <actor>Caio Pereira</actor>
+      <actor>César Troncoso</actor>
+      <actor>Daniel Volpi</actor>
+      <actor>Mariana Ximenes</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/33.jpg" />
+    <country lang="pt">Brasileira, uruguaia</country>
+  </programme>
+  <programme start="20210820070000 +0000" stop="20210820090000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5.jpg" />
+  </programme>
+  <programme start="20210820090000 +0000" stop="20210820113000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Bom Dia RN</title>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/4414.png" />
+  </programme>
+  <programme start="20210820113000 +0000" stop="20210820123000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/7.jpg" />
+  </programme>
+  <programme start="20210820123000 +0000" stop="20210820134500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/10807.jpeg" />
+  </programme>
+  <programme start="20210820134500 +0000" stop="20210820144500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/571.jpg" />
+  </programme>
+  <programme start="20210820144500 +0000" stop="20210820154500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">RN 1</title>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/4436.png" />
+  </programme>
+  <programme start="20210820154500 +0000" stop="20210820161000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/36.jpg" />
+  </programme>
+  <programme start="20210820161000 +0000" stop="20210820172000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/20.jpg" />
+  </programme>
+  <programme start="20210820172000 +0000" stop="20210820184000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Copa Do Mundo De Futebol De Areia</title>
+    <desc lang="pt">Suíça x Brasil.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/76.jpg" />
+  </programme>
+  <programme start="20210820184000 +0000" stop="20210820195000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Sessão da Tarde - Sonhos De Papel</title>
+    <title lang="en">Paper Planes</title>
+    <desc lang="pt">Um garoto de 11 anos é criado por seu pai em uma remota cidade do interior da Austrália. A vida de Dylan se altera completamente ao conquistar um lugar no campeonato de aviões de papel de Sydney. É uma história emocionante da jornada de um garoto e seu pai reconectando após a luta de sua família que vai nos deixar torcendo para eles no campeonato mundial de aviões de papel no Japão.(n)</desc>
+    <credits>
+      <director>Robert Connolly</director>
+      <actor>Sam Worthington</actor>
+      <actor>Ed Oxenbould</actor>
+      <actor>Deborah Mailman</actor>
+      <actor>Nicholas Bakopoulos-cooke</actor>
+      <actor>Ena Imai</actor>
+      <actor>Terry Norris</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/22.jpg" />
+    <country lang="pt">Australiana</country>
+  </programme>
+  <programme start="20210820195000 +0000" stop="20210820205500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Vale a Pena Ver de Novo - Ti Ti Ti</title>
+    <desc lang="pt">Exame de DNA confirma que Armandinho e Magali pertencem a família Bianchi.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/23.jpg" />
+  </programme>
+  <programme start="20210820205500 +0000" stop="20210820212500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Tomtom tenta contar para Karina sobre o acordo de Pedro e Bianca, mas desiste ao perceber a reação da menina.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/10640.jpg" />
+  </programme>
+  <programme start="20210820212500 +0000" stop="20210820221000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Nos Tempos do Imperador</title>
+    <desc lang="pt">Pilar revelará à Luísa que D. Pedro II tem 'coleção de amantes'.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/12122.jpg" />
+  </programme>
+  <programme start="20210820221000 +0000" stop="20210820224000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">RN 2</title>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/4439.png" />
+  </programme>
+  <programme start="20210820224000 +0000" stop="20210820233000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Pega Pega</title>
+    <desc lang="pt">Maria Pia arma para Eric ir até a boate onde Luiza trabalha.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/12012.png" />
+  </programme>
+  <programme start="20210820233000 +0000" stop="20210821003000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/1526.png" />
+  </programme>
+  <programme start="20210821003000 +0000" stop="20210821013500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Império</title>
+    <desc lang="pt">Du corre risco de morrer no parto e José Alfredo retorna ao Rio de Janeiro.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/11099.jpg" />
+  </programme>
+  <programme start="20210821013500 +0000" stop="20210821022500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Globo Repórter</title>
+    <desc lang="pt">Do Amapá até Santa Catarina, ‘Globo Repórter’ desbrava os manguezais brasileiros.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/44.jpg" />
+  </programme>
+  <programme start="20210821022500 +0000" stop="20210821033000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Ilha De Ferro</title>
+    <desc lang="pt">A série mostra a realidade dos funcionários da plataforma PLT-137, que se dividem entre os dilemas em terra firme e o clima de ebulição em alto-mar.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/12119.jpg" />
+  </programme>
+  <programme start="20210821033000 +0000" stop="20210821042000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/30.jpg" />
+  </programme>
+  <programme start="20210821042000 +0000" stop="20210821050000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Papo com os atores Selton Mello e Alexandre Nero, que estrelam sua primeira novela juntos, “Nos Tempos do Imperador”, a primeira totalmente inédita a estrear depois da pandemia, e a primeira de Mello desde o ano 2000.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/31.jpg" />
+  </programme>
+  <programme start="20210821050000 +0000" stop="20210821061500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Corujão I - Qualquer Gato Vira-Lata</title>
+    <title lang="en">Qualquer Gato Vira-Lata</title>
+    <desc lang="pt">Tati era apaixonada por seu namorado, o mimado e riquinho Marcelo, e fazia tudo para mantê-lo sob controle. Mas o cara era um mulherengo e eles acabaram dando um tempo. Disposta a reconquistá-lo, ela se oferece como cobaia para um professor de biologia, que defende uma tese polêmica sobre a relação entre a sedução dos humanos e as atitudes dos animais. No início a experiência dá certo, mas, com o passar dos dias, surge um clima de romance entre Tati e o professor. Baseado na peça de Juca de Oliveira.(n)</desc>
+    <credits>
+      <director>Tomas Portella</director>
+      <actor>Cleo Pires</actor>
+      <actor>Malvino Salvador</actor>
+      <actor>Dudu Azevedo</actor>
+      <actor>Rita Guedes</actor>
+      <actor>Álamo Facó</actor>
+      <actor>Leticia Novaes</actor>
+    </credits>
+    <category lang="pt">Comédia romântica</category>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/33.jpg" />
+    <country lang="pt">Brasileira</country>
+  </programme>
+  <programme start="20210821061500 +0000" stop="20210821073500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Corujão II - Dia De Casamento 2</title>
+    <title lang="en">Wedding March 2: Resorting To Love</title>
+    <desc lang="pt">Olivia e Mick viveram um grande amor na época da faculdade e, depois de 25 anos, acabaram se reencontrando. Agora, eles são sócios em um resort para casamentos. Enquanto eles desenvolvem seu relacionamento como colegas de trabalho, eles percebem que um romance pode estar em seu destino.(n)</desc>
+    <credits>
+      <director>David Weaver</director>
+      <actor>Jack Wagner</actor>
+      <actor>Josie Bissett</actor>
+      <actor>Aren Buchholz</actor>
+      <actor>Sarah Grey</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/33.jpg" />
+    <country lang="pt">Americana</country>
+  </programme>
+  <programme start="20210821073500 +0000" stop="20210821085500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Corujão III - Minutos Atrás</title>
+    <title lang="en">Minutos Atrás</title>
+    <desc lang="pt">Nildo e alonso são dois catadores, cujas almas solitárias vagam pela vida atrás de restos de sonhos e medos jogados fora em busca de um motivo para suas vidas. Junto com o cavalo ruminante, seu companheiro, os dois partilham estórias fantásticas e surreais que, às vezes, beiram a insanidade. Eles caminham rumo à construção de um novo destino para sua existência, angustiados pela passagem do tempo.(n)</desc>
+    <credits>
+      <director>Caio Sóh</director>
+    </credits>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/33.jpg" />
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20210821085500 +0000" stop="20210821095000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Como Será?</title>
+    <desc lang="pt">Reportagens sobre cidadania, educação, ecologia, trabalho e inovação, com apresentação de Sandra Annenberg.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/46.jpg" />
+  </programme>
+  <programme start="20210821095000 +0000" stop="20210821105000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Resenhas do RN</title>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/4446.png" />
+  </programme>
+  <programme start="20210821105000 +0000" stop="20210821144500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">É de Casa</title>
+    <desc lang="pt">Ana Furtado, André Marques, Cissa Guimarães e Patrícia Poeta comandam programa de variedades das manhãs de sábado, ao vivo.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/47.jpg" />
+  </programme>
+  <programme start="20210821144500 +0000" stop="20210821160000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">RN 1</title>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/4436.png" />
+  </programme>
+  <programme start="20210821160000 +0000" stop="20210821162500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/36.jpg" />
+  </programme>
+  <programme start="20210821162500 +0000" stop="20210821171000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/20.jpg" />
+  </programme>
+  <programme start="20210821171000 +0000" stop="20210821175000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Rota Inter TV</title>
+    <desc lang="pt">Programa de Aventura.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/4448.png" />
+  </programme>
+  <programme start="20210821175000 +0000" stop="20210821190000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Se Joga</title>
+    <desc lang="pt">Apresentado por Fernanda Gentil, ‘Se Joga’ traz entretenimento e informação de forma leve e criativa com o melhor da semana no mundo das celebridades, da TV, do cinema, da música e das redes sociais.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/10870.jpg" />
+  </programme>
+  <programme start="20210821190000 +0000" stop="20210821214000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Caldeirão do Huck</title>
+    <desc lang="pt">Programa de auditório de Luciano Huck, com quadros como ‘Mandando Bem’, 'Olha a Minha Banda’, ‘Lar Doce Lar’, ‘Lata Velha’ e ‘Agora ou Nunca 5 Estrelas’.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/1531.jpg" />
+  </programme>
+  <programme start="20210821214000 +0000" stop="20210821222500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Nos Tempos do Imperador</title>
+    <desc lang="pt">A novela acompanha momentos importantes da vida de Pilar, Jorge/Samuel, o imperador Dom Pedro II, a imperatriz Teresa Cristina e Luísa, a condessa de Barral, ao longo dos anos, e traz uma história de amor e esperança, com elementos históricos, que remetem aos dias atuais.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/12122.jpg" />
+  </programme>
+  <programme start="20210821222500 +0000" stop="20210821225000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">RN 2</title>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/4439.png" />
+  </programme>
+  <programme start="20210821225000 +0000" stop="20210821233000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Pega Pega</title>
+    <desc lang="pt">'Pega Pega’ vai mostrar como o roubo de 40 milhões de dólares do cofre de um hotel cinco estrelas, praticado por quatro funcionários, afeta a vida de todos os personagens.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/12012.png" />
+  </programme>
+  <programme start="20210821233000 +0000" stop="20210822002500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/1526.png" />
   </programme>
 </tv>
