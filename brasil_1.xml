@@ -52,6 +52,7 @@
   </channel>
   <channel id="Campeonato Carioca 1">
     <display-name lang="pt">Campeonato Carioca 1</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Campeonato Carioca 2">
