@@ -600,10 +600,12 @@
   </channel>
   <channel id="VH1 (HD)">
     <display-name lang="pt">VH1 (HD)</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/vh1hd.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="VH1 HD">
     <display-name lang="pt">VH1 HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/vh1megahits.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="VH1 Megahits">
@@ -19205,6 +19207,162 @@
     <episode-num system="onscreen">S3 E2</episode-num>
     <rating system="BR">
       <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820160000 -0300" stop="20210820170000 -0300" channel="VH1 (HD)">
+    <title lang="pt">Music Box</title>
+    <desc lang="pt">Music Box apresenta a melhor seleção de videclipes em alta defnição.(n)</desc>
+    <credits>
+      <director>Caio Corsalette</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_musicbox01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820170000 -0300" stop="20210820180000 -0300" channel="VH1 (HD)">
+    <title lang="pt">Music Box</title>
+    <desc lang="pt">Music Box apresenta a melhor seleção de videclipes em alta defnição.(n)</desc>
+    <credits>
+      <director>Caio Corsalette</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_musicbox01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820190000 -0300" channel="VH1 (HD)">
+    <title lang="pt">Top Hits</title>
+    <desc lang="pt">Top Hits apresenta a melhor seleção de clipes em alta definição.(n)</desc>
+    <credits>
+      <director>Caio Corsalette</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_tophits01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820200000 -0300" channel="VH1 (HD)">
+    <title lang="pt">Top Hits</title>
+    <desc lang="pt">Top Hits apresenta a melhor seleção de clipes em alta definição.(n)</desc>
+    <credits>
+      <director>Caio Corsalette</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_tophits01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820210000 -0300" channel="VH1 (HD)">
+    <title lang="pt">Music Box</title>
+    <desc lang="pt">Music Box apresenta a melhor seleção de videclipes em alta defnição.(n)</desc>
+    <credits>
+      <director>Caio Corsalette</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_musicbox01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820210000 -0300" stop="20210820220000 -0300" channel="VH1 (HD)">
+    <title lang="pt">Top Hits</title>
+    <desc lang="pt">Top Hits apresenta a melhor seleção de clipes em alta definição.(n)</desc>
+    <credits>
+      <director>Caio Corsalette</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_tophits01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820230000 -0300" channel="VH1 (HD)">
+    <title lang="pt">Music Box</title>
+    <desc lang="pt">Music Box apresenta a melhor seleção de videclipes em alta defnição.(n)</desc>
+    <credits>
+      <director>Caio Corsalette</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_musicbox01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210821000000 -0300" channel="VH1 (HD)">
+    <title lang="pt">Music Box</title>
+    <desc lang="pt">Music Box apresenta a melhor seleção de videclipes em alta defnição.(n)</desc>
+    <credits>
+      <director>Caio Corsalette</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_musicbox01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820160000 -0300" stop="20210820170000 -0300" channel="VH1 HD">
+    <title lang="pt">Destiny's Child Vs Beyonce</title>
+    <desc lang="pt">Estamos colocando as maiores estrelas frente a frente com seus vídeos mais quentes em uma batalha de vídeo de superstar! Será que Destiny's Child ou Beyonce sairá por cima? Sintonize para descobrir!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820170000 -0300" stop="20210820210000 -0300" channel="VH1 HD">
+    <title lang="pt">Hits Don't Lie!</title>
+    <desc lang="pt">Os sucessos da MTV não mentem! Esta contagem regressiva de retrocesso está agora com os maiores sucessos que nos fizeram dançar.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820210000 -0300" stop="20210820220000 -0300" channel="VH1 HD">
+    <title lang="pt">Dancefloor Fillers!</title>
+    <desc lang="pt">Coloque seus sapatos de dança e prepare-se para agitar a pista.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210821004000 -0300" channel="VH1 HD">
+    <title lang="pt">The 40 Greatest Collabs!</title>
+    <desc lang="pt">Não há nada melhor quando dois ou mais dos nossos artistas favoritos se juntam para fazer uma música incrível!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>12</value>
     </rating>
   </programme>
 </tv>
