@@ -341,6 +341,7 @@
   </channel>
   <channel id="HBO Xtreme HD">
     <display-name lang="pt">HBO Xtreme HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="HGTV HD">
