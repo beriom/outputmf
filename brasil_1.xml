@@ -232,6 +232,7 @@
   </channel>
   <channel id="HBO HD">
     <display-name lang="en">HBO HD</display-name>
+    <icon src="https://oisa.tmsimg.com/assets/s76101_h3_ba.png" />
     <url>http://www.oi.com.br</url>
   </channel>
   <channel id="HBO Mundi HD">
@@ -268,6 +269,7 @@
   </channel>
   <channel id="Inter TV RN - natal">
     <display-name lang="pt">Inter TV RN - natal</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
     <url>http://www.redeglobo.globo.com</url>
   </channel>
   <channel id="Investigação Discovery HD">
@@ -514,4 +516,443 @@
     <display-name lang="pt">ZooMoo HD</display-name>
     <url>http://www.tvmagazine.com.br</url>
   </channel>
+  <programme start="20210820010000 +0000" stop="20210820013500 +0000" channel="HBO HD">
+    <title lang="en">Hard</title>
+    <desc lang="en">Uma ministra e seu marido contratam a SofiX para uma megaprodução e consideram Marcelo para o papel principal; Sofia desconfia que o filho seja homossexual; Sofia suspeita que esteja grávida. Henrique faz nova proposta a Sofia.(n)</desc>
+    <credits>
+      <actor role="Sofia">Natália Lage</actor>
+      <actor role="Marcello Mastroduro">Julio Machado</actor>
+      <actor role="Margot">Denise Del Vecchio</actor>
+      <actor role="Lúcia">Martha Nowill</actor>
+      <actor>Nathalia Falcão</actor>
+      <actor role="Pierre">Fernando Alves Pinto</actor>
+      <actor>Brunna Martins</actor>
+      <actor>Carolina Ferraz</actor>
+      <actor>Pedro Konop</actor>
+      <writer>Danilo Gullane</writer>
+      <producer>Roberto Rios</producer>
+      <producer>Eduardo Zaca</producer>
+      <producer>Rafaella Giannini</producer>
+    </credits>
+    <category lang="en">Comédia</category>
+    <icon src="https://oisa.tmsimg.com/assets/p18199909_b_h8_ab.jpg" />
+    <episode-num system="onscreen">S1 E13/16</episode-num>
+    <rating>
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210820013500 +0000" stop="20210820020500 +0000" channel="HBO HD">
+    <title lang="en">Catch and Kill: The Podcast Tapes</title>
+    <sub-title lang="en">The Wire</sub-title>
+    <desc lang="en">A modelo Ambra Gutierrez revela a operação policial secreta de alto risco que resultou em uma confissão arrepiante de Harvey Weinstein.(n)</desc>
+    <category lang="en">Documentário</category>
+    <icon src="https://oisa.tmsimg.com/assets/p20150186_e_h8_aa.jpg" />
+    <episode-num system="onscreen">S1 E1/4</episode-num>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820020500 +0000" stop="20210820031500 +0000" channel="HBO HD">
+    <title lang="en">The White Lotus</title>
+    <sub-title lang="en">Departures</sub-title>
+    <desc lang="en">Rachel compartilha algumas verdades duras com Shane e confia em Belinda, que está sofrendo com más notícias; enquanto os Mossbachers viram a página em seu terrível susto, Quinn revela planos importantes; Armond entra em crise e exige vingança.(n)</desc>
+    <credits>
+      <actor>Murray Bartlett</actor>
+      <actor>Connie Britton</actor>
+      <actor>Jennifer Coolidge</actor>
+      <actor>Alexandra Daddario</actor>
+      <actor>Fred Hechinger</actor>
+      <actor>Jake Lacy</actor>
+      <actor>Brittany O'Grady</actor>
+      <actor>Natasha Rothwell</actor>
+      <actor>Sydney Sweeney</actor>
+      <actor>Steve Zahn</actor>
+      <writer>Mike White</writer>
+    </credits>
+    <category lang="en">Comédia</category>
+    <category lang="en">Minissérie</category>
+    <icon src="https://oisa.tmsimg.com/assets/p19964708_e_h10_aa.jpg" />
+    <episode-num system="onscreen">S1 E6/6</episode-num>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820031500 +0000" stop="20210820050500 +0000" channel="HBO HD">
+    <title lang="en">Antebellum</title>
+    <desc lang="en">Veronica Henley, uma escritora bem-sucedida, se vê presa em uma realidade horrível que a força a confrontar o passado, o presente e o futuro antes que seja tarde demais.(n)</desc>
+    <credits>
+      <actor role="Veronica/Eden">Janelle Monáe</actor>
+      <actor role="Elizabeth">Jena Malone</actor>
+      <actor role="Jasper">Jack Huston</actor>
+      <actor role="Julia">Kiersey Clemons</actor>
+      <actor role="Dawn">Gabourey Sidibe</actor>
+      <actor role="Senator Denton">Eric Lange</actor>
+      <actor role="Nick">Marque Richardson</actor>
+      <actor role="Eli/Professor">Tongayi Chirisa</actor>
+      <actor role="Daniel">Robert Aramayo</actor>
+      <actor role="Sarah">Lily Cowles</actor>
+      <producer>Raymond Mansfield</producer>
+      <producer>Sean McKittrick</producer>
+      <producer>Zev Foreman</producer>
+      <producer>Gerard Bush</producer>
+      <producer>Christopher Renz</producer>
+      <producer>Lezlie Wills</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Suspense</category>
+    <icon src="https://oisa.tmsimg.com/assets/p17661976_v_h8_ab.jpg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820050500 +0000" stop="20210820065500 +0000" channel="HBO HD">
+    <title lang="en">Gilberto Gil - Um Deus em Seu Jardim</title>
+    <desc lang="en">Após quase quatro décadas de turnês anuais agendadas pela Europa, sempre passando pela França, os planos de 2020 foram suspensos por causa da pandemia por Covid-19. Veja um programa especial, repleto das melhores músicas de Gil em sua própria casa.(n)</desc>
+    <category lang="en">Especial</category>
+    <category lang="en">Música</category>
+    <icon src="https://oisa.tmsimg.com/assets/p20241374_b_h10_ab.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820065500 +0000" stop="20210820090000 +0000" channel="HBO HD">
+    <title lang="en">Um Ato de Coragem</title>
+    <desc lang="en">O filho de John Q. Archibald precisa com urgência de um transplante de coração. Desesperado por não ter condições de pagar pela cirurgia, ele toma como refém toda a emergência de um hospital e passa a discutir uma solução o chefe da polícia.(n)</desc>
+    <credits>
+      <actor role="John Q. Archibald">Denzel Washington</actor>
+      <actor role="Grimes">Robert Duvall</actor>
+      <actor role="Dr. Turner">James Woods</actor>
+      <actor role="Rebecca Payne">Anne Heche</actor>
+      <actor role="Lester">Eddie Griffin</actor>
+      <actor role="Denise Archibald">Kimberly Elise</actor>
+      <actor role="Mitch">Shawn Hatosy</actor>
+      <actor role="Monroe">Ray Liotta</actor>
+      <actor role="Michael 'Mike' Archibald">Daniel E. Smith</actor>
+      <actor role="Jimmy Palumbo">David Thornton</actor>
+      <writer>James Kearns</writer>
+      <producer>Mark Burg</producer>
+      <producer>Oren Koules</producer>
+    </credits>
+    <date>2002</date>
+    <category lang="en">Drama</category>
+    <icon src="https://oisa.tmsimg.com/assets/p29423_v_h11_ac.jpg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820090000 +0000" stop="20210820093500 +0000" channel="HBO HD">
+    <title lang="en">Greg News com Gregório Duvivier</title>
+    <desc lang="en">O comediante Gregório Duvivier traz um olhar crítico e cômico para pautas fundamentais do Brasil e do mundo e vai além da conjuntura para destrinchar temas relevantes de forma acessível e divertida.(n)</desc>
+    <credits>
+      <presenter>Gregório Duvivier</presenter>
+    </credits>
+    <category lang="en">Bate-papo</category>
+    <icon src="https://oisa.tmsimg.com/assets/p14014964_b_h10_aq.jpg" />
+    <episode-num system="onscreen">E19</episode-num>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820093500 +0000" stop="20210820113500 +0000" channel="HBO HD">
+    <title lang="en">Pavarotti</title>
+    <desc lang="en">Com cenas inéditas, performances de concertos e entrevistas íntimas, acompanhe uma análise da vida e da carreira do famoso tenor de ópera Luciano Pavarotti.(n)</desc>
+    <credits>
+      <actor>Bono</actor>
+      <actor>Luciano Pavarotti</actor>
+      <actor>Andrea Griminelli</actor>
+      <actor>Nicoletta Mantovani</actor>
+      <actor>Placido Domingo</actor>
+      <actor>Angela Gheorghiu</actor>
+      <actor>Carol Vaness</actor>
+      <actor>Vittorio Grigòlo</actor>
+      <writer>Mark Monroe</writer>
+      <producer>Nigel Sinclair</producer>
+      <producer>Brian Grazer</producer>
+      <producer>Ron Howard</producer>
+      <producer>Michael Rosenberg</producer>
+      <producer>Jeanne Elfant Festa</producer>
+      <composer>Ric Markmann</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Documentário</category>
+    <category lang="en">Música</category>
+    <icon src="https://oisa.tmsimg.com/assets/p16595679_v_h8_ae.jpg" />
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820113500 +0000" stop="20210820132000 +0000" channel="HBO HD">
+    <title lang="en">Eu Sou a Lenda</title>
+    <desc lang="en">Robert Neville é um brilhante cientista e o único sobrevivente de uma epidemia que transformou os humanos em mutantes sedentos por sangue. Andando pela cidade de Nova York, ele procura por outros possíveis sobreviventes e tenta achar a cura da praga usando seu próprio sangue, que é imune.(n)</desc>
+    <credits>
+      <actor role="Robert Neville">Will Smith</actor>
+      <actor role="Anna">Alice Braga</actor>
+      <actor role="Alpha Male">Dash Mihok</actor>
+      <actor role="Ethan">Charlie Tahan</actor>
+      <actor role="Zoe">Salli Richardson</actor>
+      <actor role="Marley">Willow Smith</actor>
+      <actor role="Mike - Military Escort">Darrell Foster</actor>
+      <actor role="TV Personality">April Grace</actor>
+      <actor role="Alpha Female">Joanna Numata</actor>
+      <actor role="Jay - Military Driver">Samuel Glen</actor>
+      <producer>Akiva Goldsman</producer>
+      <producer>James Lassiter</producer>
+      <producer>David Heyman</producer>
+      <producer>Neil Moritz</producer>
+    </credits>
+    <date>2007</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Ficção Científica</category>
+    <icon src="https://oisa.tmsimg.com/assets/p170977_v_h8_ad.jpg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820132000 +0000" stop="20210820151500 +0000" channel="HBO HD">
+    <title lang="en">A Grande Mentira</title>
+    <desc lang="en">Em um jogo de gato e rato, o golpista Roy Courtnay não resiste aplicar seu golpe mais uma vez quando conhece a recém-viúva Betty McLeish. Porém, à medida em que a mulher abre sua casa e sua vida para o vigarista, ele se surpreende quando começa a se importar com ela.(n)</desc>
+    <credits>
+      <actor role="Betty McLeish">Helen Mirren</actor>
+      <actor role="Roy Courtnay">Ian McKellen</actor>
+      <actor role="Steven">Russell Tovey</actor>
+      <actor role="Vincent">Jim Carter</actor>
+      <actor role="Bryn">Mark Lewis Jones</actor>
+      <actor role="Young Roy">Phil Dunster</actor>
+      <actor role="Beni">Lucian Msamati</actor>
+      <actor role="Hans Taub">Laurie Davidson</actor>
+      <actor role="Vlad">Jóhannes Haukur Jóhannesson</actor>
+      <actor role="Charlotte">Athena Strates</actor>
+      <producer>Greg Yolen</producer>
+      <producer>Bill Condon</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Drama criminal</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://oisa.tmsimg.com/assets/p16940558_v_h8_ac.jpg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820151500 +0000" stop="20210820175000 +0000" channel="HBO HD">
+    <title lang="en">Tenet</title>
+    <desc lang="en">Um agente secreto embarca em uma missão perigosa para evitar o início da Terceira Guerra Mundial.(n)</desc>
+    <credits>
+      <actor role="Protagonist">John David Washington</actor>
+      <actor role="Neil">Robert Pattinson</actor>
+      <actor role="Kat">Elizabeth Debicki</actor>
+      <actor role="Sator">Kenneth Branagh</actor>
+      <actor role="Priya">Dimple Kapadia</actor>
+      <actor role="Ives">Aaron Taylor-Johnson</actor>
+      <actor role="Mahir">Himesh Patel</actor>
+      <actor role="Barbara">Clémence Poésy</actor>
+      <actor role="Crosby">Michael Caine</actor>
+      <actor role="Fay">Martin Donovan</actor>
+      <producer>Emma Thomas</producer>
+      <producer>Christopher Nolan</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Ação</category>
+    <category lang="en">Ficção Científica</category>
+    <icon src="https://oisa.tmsimg.com/assets/p17758177_v_h8_ad.jpg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820175000 +0000" stop="20210820185000 +0000" channel="HBO HD">
+    <title lang="en">Hierro</title>
+    <desc lang="en">A investigação traz à tona alguns pontos sombrios da vida de Fran: ele teve contatos perigosos na Holanda e manteve uma amante.(n)</desc>
+    <credits>
+      <actor>Candela Peña</actor>
+      <actor>Darío Grandinetti</actor>
+      <actor>Mónica López</actor>
+      <actor>Yaiza Guimaré</actor>
+      <actor>Kimberley Tell</actor>
+      <actor>Mari Carmen Sánchez</actor>
+      <actor>Antonia San Juan</actor>
+    </credits>
+    <category lang="en">Aventura</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://oisa.tmsimg.com/assets/p17034616_e_h8_aa.jpg" />
+    <episode-num system="onscreen">S1 E3/5</episode-num>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820185000 +0000" stop="20210820210000 +0000" channel="HBO HD">
+    <title lang="en">Jumanji - Próxima Fase</title>
+    <desc lang="en">Spencer volta ao mundo fantástico de Jumanji. Os amigos Martha, Fridge e Bethany entram no jogo e tentam trazê-lo para casa. Mas eles logo descobrem mais obstáculos e perigos a serem superados.(n)</desc>
+    <credits>
+      <actor role="Bravestone">Dwayne Johnson</actor>
+      <actor role="Mouse">Kevin Hart</actor>
+      <actor role="Oberon">Jack Black</actor>
+      <actor role="Ruby">Karen Gillan</actor>
+      <actor role="Ming">Awkwafina</actor>
+      <actor role="Seaplane">Nick Jonas</actor>
+      <actor role="Spencer">Alex Wolff</actor>
+      <actor role="Martha">Morgan Turner</actor>
+      <actor role="Ashley">Ashley Scott</actor>
+      <actor role="Bethany">Madison Iseman</actor>
+      <producer>Dany Garcia</producer>
+      <producer>Hiram Garcia</producer>
+      <producer>Dwayne Johnson</producer>
+      <producer>Jake Kasdan</producer>
+      <producer>Matt Tolmach</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Ação</category>
+    <category lang="en">Aventura</category>
+    <icon src="https://oisa.tmsimg.com/assets/p15446613_v_h8_ak.jpg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820003000 +0000" stop="20210820013500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Império</title>
+    <desc lang="pt">João Lucas se casa com Du e descobre que será pai de gêmeos.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/11099.jpg" />
+  </programme>
+  <programme start="20210820013500 +0000" stop="20210820022500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Sob Pressão</title>
+    <desc lang="pt">A quarta temporada se passa no grandioso Hospital Edith de Magalhães. É nesse lugar que os personagens enfrentam o cotidiano caótico de uma emergência pública, mas com a pressão da rotina ainda maior, já que o hospital, localizado agora no centro da cidade, é referência de atendimento.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/12125.jpg" />
+  </programme>
+  <programme start="20210820022500 +0000" stop="20210820031500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Ilha De Ferro</title>
+    <desc lang="pt">A série mostra a realidade dos funcionários da plataforma PLT-137, que se dividem entre os dilemas em terra firme e o clima de ebulição em alto-mar.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/12119.jpg" />
+  </programme>
+  <programme start="20210820031500 +0000" stop="20210820040500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/30.jpg" />
+  </programme>
+  <programme start="20210820040500 +0000" stop="20210820044500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Homenagem ao cineasta Glauber Rocha, um dos criadores do Cinema Novo, pelo olhar de seus filhos Paloma e Eryk, também diretores.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/31.jpg" />
+  </programme>
+  <programme start="20210820044500 +0000" stop="20210820060500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Corujão I - Marcas Do Passado</title>
+    <title lang="en">Aloft</title>
+    <desc lang="pt">A vida de Nana Kunning foi complicada. Vinte anos depois de ter abandonado seu filho e de passar por inúmeras dificuldades, ela consegue se estabelecer como uma artista renomada e curadora. Só que uma jovem jornalista, Jannia, está determinada a investigar o destino do filho distante de Nana, Ivan, colocando em dúvida o próprio significado da vida de mãe e filho.(n)</desc>
+    <credits>
+      <director>Claudia Llosa</director>
+      <actor>Cillian Murphy</actor>
+      <actor>Jennifer Connelly</actor>
+      <actor>Melanie Laurent</actor>
+      <actor>William Shimel</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/33.jpg" />
+    <country lang="pt">Espanhola</country>
+  </programme>
+  <programme start="20210820060500 +0000" stop="20210820070000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Corujão II - Prova De Coragem</title>
+    <title lang="en">Prova De Coragem</title>
+    <desc lang="pt">Hermano é um médico bem-sucedido que está planejando uma escalada de alto risco em uma montanha na terra do fogo. Neste período, sua mulher, Adri, com quem vive há sete anos, descobre que está grávida. Mesmo na iminência de se tornar pai, ele dá prosseguimento a seus planos. Esta é a prova de coragem que Hermano deve a si mesmo, após ter testemunhado seu melhor amigo ser agredido até a morte e não ter feito nada para ajudá-lo.(n)</desc>
+    <credits>
+      <director>Roberto Gervitz</director>
+      <actor>Armando Babaioff</actor>
+      <actor>Áurea Maranhão</actor>
+      <actor>Caio Pereira</actor>
+      <actor>César Troncoso</actor>
+      <actor>Daniel Volpi</actor>
+      <actor>Mariana Ximenes</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/33.jpg" />
+    <country lang="pt">Brasileira, uruguaia</country>
+  </programme>
+  <programme start="20210820070000 +0000" stop="20210820090000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5.jpg" />
+  </programme>
+  <programme start="20210820090000 +0000" stop="20210820113000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Bom Dia São Paulo</title>
+    <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia SP, que traz ainda orientações de trânsito.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/606.jpg" />
+  </programme>
+  <programme start="20210820113000 +0000" stop="20210820123000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/7.jpg" />
+  </programme>
+  <programme start="20210820123000 +0000" stop="20210820134000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/10807.jpeg" />
+  </programme>
+  <programme start="20210820134000 +0000" stop="20210820144500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/571.jpg" />
+  </programme>
+  <programme start="20210820144500 +0000" stop="20210820154500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">SP1</title>
+    <desc lang="pt">César Tralli mostra o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/609.jpg" />
+  </programme>
+  <programme start="20210820154500 +0000" stop="20210820161000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/36.jpg" />
+  </programme>
+  <programme start="20210820161000 +0000" stop="20210820172000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/20.jpg" />
+  </programme>
+  <programme start="20210820172000 +0000" stop="20210820184000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Copa Do Mundo De Futebol De Areia</title>
+    <desc lang="pt">Suíça x Brasil.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/76.jpg" />
+  </programme>
+  <programme start="20210820184000 +0000" stop="20210820201000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Sessão da Tarde - Sonhos De Papel</title>
+    <title lang="en">Paper Planes</title>
+    <desc lang="pt">Um garoto de 11 anos é criado por seu pai em uma remota cidade do interior da Austrália. A vida de Dylan se altera completamente ao conquistar um lugar no campeonato de aviões de papel de Sydney. É uma história emocionante da jornada de um garoto e seu pai reconectando após a luta de sua família que vai nos deixar torcendo para eles no campeonato mundial de aviões de papel no Japão.(n)</desc>
+    <credits>
+      <director>Robert Connolly</director>
+      <actor>Sam Worthington</actor>
+      <actor>Ed Oxenbould</actor>
+      <actor>Deborah Mailman</actor>
+      <actor>Nicholas Bakopoulos-cooke</actor>
+      <actor>Ena Imai</actor>
+      <actor>Terry Norris</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/22.jpg" />
+    <country lang="pt">Australiana</country>
+  </programme>
+  <programme start="20210820201000 +0000" stop="20210820210500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Vale a Pena Ver de Novo - Ti Ti Ti</title>
+    <desc lang="pt">Exame de DNA confirma que Armandinho e Magali pertencem a família Bianchi.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/23.jpg" />
+  </programme>
+  <programme start="20210820210500 +0000" stop="20210820213000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Tomtom tenta contar para Karina sobre o acordo de Pedro e Bianca, mas desiste ao perceber a reação da menina.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/10640.jpg" />
+  </programme>
+  <programme start="20210820213000 +0000" stop="20210820221500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Nos Tempos do Imperador</title>
+    <desc lang="pt">Pilar revelará à Luísa que D. Pedro II tem 'coleção de amantes'.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/12122.jpg" />
+  </programme>
+  <programme start="20210820221500 +0000" stop="20210820224500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">SP2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/3841.jpg" />
+  </programme>
+  <programme start="20210820224500 +0000" stop="20210820233000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Pega Pega</title>
+    <desc lang="pt">Maria Pia arma para Eric ir até a boate onde Luiza trabalha.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/12012.png" />
+  </programme>
+  <programme start="20210820233000 +0000" stop="20210821003000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/1526.png" />
+  </programme>
 </tv>
