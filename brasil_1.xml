@@ -22,6 +22,7 @@
   </channel>
   <channel id="AXN HD">
     <display-name lang="pt">AXN HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/axnhd.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Band News HD">
@@ -2731,6 +2732,910 @@
     <episode-num system="onscreen">E2</episode-num>
     <rating system="BR">
       <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820134500 -0300" stop="20210820144000 -0300" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">Quando a identidade do assassino Port-to-Port é finalmente revelada, a equipe NCIS inteira encontra-se em grave perigo.(n)</desc>
+    <credits>
+      <director>Dennis Smith</director>
+      <actor>Mark Harmon</actor>
+      <actor>Cote de Pablo</actor>
+      <actor>Michael Weatherly</actor>
+      <actor>Pauley Perrette</actor>
+      <actor>Sean Murray</actor>
+      <actor>Rocky Carroll</actor>
+      <actor>David McCallum</actor>
+      <actor>Brian Dietzen</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ncis01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S8 E24</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820144000 -0300" stop="20210820153500 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. NY</title>
+    <desc lang="pt">Marc precisa descobrir como capturar um assassino em um voo comercial.(n)</desc>
+    <credits>
+      <director>Matt Earl Beesley</director>
+      <actor>Gary Sinise</actor>
+      <actor>Hill Harper</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Carmine Giovinazzo</actor>
+      <actor>Eddie Cahill</actor>
+      <actor>Anna Belknap</actor>
+      <actor>Robert Joy</actor>
+      <actor>Ben Youcef</actor>
+      <actor>Luna Rocio Cantale</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/csinewyork01.jpg" />
+    <country lang="pt">Canadá</country>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820153500 -0300" stop="20210820163000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt">Catherine e Nick se envolvem com o perigoso mundo dos rachas quando um "piloto" é encontrado morto no deserto, numa pista de aviões abandonada.(n)</desc>
+    <credits>
+      <director>Danny Cannon</director>
+      <actor>William Petersen</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>Gary Dourdan</actor>
+      <actor>Eric Szmanda Robert David Hall</actor>
+      <actor>George Eads</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Paul Guilfoyle</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/csi01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820163000 -0300" stop="20210820172500 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <desc lang="pt">Uma família é o alvo de um ataque com granadas em um restaurante de elite, e os CSIs investigam se as vítimas eram mesmo o alvo dos criminosos.(n)</desc>
+    <credits>
+      <director>Sam Hill</director>
+      <actor>Evan EllingsonSprague Grayden</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/csimiami01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E23</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820172500 -0300" stop="20210820182000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <desc lang="pt">Uma ex-estrela do futebol colegial é assassinada em uma reunião, e os CSIs precisam encontrar o assassino. A vítima era um grande homem no campus durante o Colegial e haviam muitos convidados na reunião com motivos para odiá-lo.(n)</desc>
+    <credits>
+      <director>Norberto Barba</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Sofia Milos</actor>
+      <actor>Jonathan Togo</actor>
+      <actor>Rex Linn</actor>
+      <actor>Max Martini</actor>
+      <actor>Holt McCallany</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/csimiami01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E22</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820182000 -0300" stop="20210820191500 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <desc lang="pt">Um teorista da conspiração ajuda a equipe quando um artefato perdido se torna a chave para resolver um homicídio duplo.(n)</desc>
+    <credits>
+      <director>Duane Clark</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+      <actor>Grace Park</actor>
+      <actor>Masi Oka</actor>
+      <actor>Michelle Borth</actor>
+      <actor>Justin Bruening</actor>
+      <actor>Taylor Wily</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/hawaii5001.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820191500 -0300" stop="20210820201000 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <desc lang="pt">O Five-0 investiga o assassinato de um homem que entrava de penetra em casamentos, e seu principal suspeito é a noiva, que fugiu do altar.(n)</desc>
+    <credits>
+      <director>Bryan Spicer</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+      <actor>Grace Park</actor>
+      <actor>Michelle Borth</actor>
+      <actor>Rebecca De Mornay</actor>
+      <actor>Autumn Reeser</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/hawaii5001.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820201000 -0300" stop="20210820210500 -0300" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">Quando a identidade do assassino Port-to-Port é finalmente revelada, a equipe NCIS inteira encontra-se em grave perigo.(n)</desc>
+    <credits>
+      <director>Dennis Smith</director>
+      <actor>Mark Harmon</actor>
+      <actor>Cote de Pablo</actor>
+      <actor>Michael Weatherly</actor>
+      <actor>Pauley Perrette</actor>
+      <actor>Sean Murray</actor>
+      <actor>Rocky Carroll</actor>
+      <actor>David McCallum</actor>
+      <actor>Brian Dietzen</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ncis01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S8 E24</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820210500 -0300" stop="20210820220000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt">O corpo de uma mulher é encontrado na cabine de locução de um campo de futebol de uma escola, aparentemente vítima de estrangulamento.(n)</desc>
+    <credits>
+      <director>Kenneth Fink</director>
+      <actor>Gary Dourdan</actor>
+      <actor>George Eads</actor>
+      <actor>William Petersen</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Robert David Hall</actor>
+      <actor>Bob Gunton</actor>
+      <actor>Max Martini</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/csi01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">CANADÁ</country>
+    <episode-num system="onscreen">S3 E22</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820225500 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <desc lang="pt">Calleigh é jogado da Estrada para um canal e prejudica algumas evidências coletadas anteriormente. Agora a equipe precisa trabalhar para encontrar novas provas, já que a maioria delas foi prejudicada pela água.(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Jonathan Togo</actor>
+      <actor>Rex Linn</actor>
+      <actor>Eva La Rue</actor>
+      <actor>Johnny Whitworth</actor>
+      <actor>Chad Morgan</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/csimiami01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820225500 -0300" stop="20210820235000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt">Um homem acusado de assassinar a esposa e colegas de trabalho leva os CSIs à uma caçada dentro de um cassino movimentado. Os CSIs colhem as provas na cena do crime.(n)</desc>
+    <credits>
+      <director>Terrence O'Hara</director>
+      <actor>William Petersen</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>Gary Dourdan</actor>
+      <actor>George Eads</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Robert David Hall</actor>
+      <actor>Kelly Carlson</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/csi01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E23</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820235000 -0300" stop="20210821004500 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt">Os CSIs esperam ao lado da cama de um dos membros da equipe, depois que ele foi baleado em um tiroteio.(n)</desc>
+    <credits>
+      <director>Kenneth Fink</director>
+      <actor>William Petersen</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>Gary Dourdan</actor>
+      <actor>George Eads</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Paul Guilfoyle</actor>
+      <actor>Joseph Patrick Kelly</actor>
+      <actor>Patricia Heller</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/csi01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E24</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821004500 -0300" stop="20210821014000 -0300" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">Kensi e Deeks participam de uma operação secreta numa usina nuclear desativada enquanto a equipe investiga o envenenamento por radiação de um sargento que trabalhava lá ocasionalmente como segurança.(n)</desc>
+    <credits>
+      <director>Karen Gaviola</director>
+      <actor>Linda Hunt</actor>
+      <actor>Chris O'Donnell</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Barrett Foa</actor>
+      <actor>LL Cool J</actor>
+      <actor>Renée Felice Smith</actor>
+      <actor>Anny Rosario</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ncisla01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E12</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821014000 -0300" stop="20210821023500 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">Adam Rodriguez se junta ao elenco como Luke Alvez, um novo recruta da BAU vindo da força-tarefa de fugitivos do FBI, responsável por ajudar a capturar um dos assassinos à solta na temporada passada.(n)</desc>
+    <credits>
+      <director>Glenn Kershaw</director>
+      <actor>Joe Mantegna</actor>
+      <actor>Matt Battaglia</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>Aisha Tyler</actor>
+      <actor>Jonathan Camp</actor>
+      <actor>Kirsten Vangsness</actor>
+      <actor>A.J.Cook</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Patrick Bristow</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/criminalminds01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S12 E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821023500 -0300" stop="20210821033000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <desc lang="pt">Calleigh é jogado da Estrada para um canal e prejudica algumas evidências coletadas anteriormente. Agora a equipe precisa trabalhar para encontrar novas provas, já que a maioria delas foi prejudicada pela água.(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Jonathan Togo</actor>
+      <actor>Rex Linn</actor>
+      <actor>Eva La Rue</actor>
+      <actor>Johnny Whitworth</actor>
+      <actor>Chad Morgan</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/csimiami01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821033000 -0300" stop="20210821042000 -0300" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">Sam reflete sobre sua própria educação e seu relacionamento com o pai quando a equipe investiga os assassinatos de soldados que têm filhos em academias militares.(n)</desc>
+    <credits>
+      <director>Christine Moore</director>
+      <actor>Linda Hunt</actor>
+      <actor>Chris O'Donnell</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Barrett Foa</actor>
+      <actor>LL Cool J</actor>
+      <actor>Renée Felice Smith</actor>
+      <actor>Bart Johnson</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ncisla01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821042000 -0300" stop="20210821051000 -0300" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">A equipe investiga um roubo numa companhia de segurança cibernética, mas Callen precisa ficar longe da cena do crime depois que Hetty revela que sua namorada Joelle é uma das testemunhas chave.(n)</desc>
+    <credits>
+      <director>Tony Wharmby</director>
+      <actor>Linda Hunt</actor>
+      <actor>Chris O'Donnell</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Barrett Foa</actor>
+      <actor>LL Cool J</actor>
+      <actor>Renée Felice Smith</actor>
+      <actor>Elizabeth Bogush</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ncisla01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E11</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821051000 -0300" stop="20210821060000 -0300" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">Enquanto Callen se disfarça em um prédio de escritórios para investigar um traficante de armas, o prédio é invadido por terroristas e ele é feito refém. A equipe chega para ajudar e percebe que o edifício inteiro está conectado com explosivos.(n)</desc>
+    <credits>
+      <director>Larry Teng</director>
+      <actor>Linda Hunt</actor>
+      <actor>Chris O'Donnell</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Barrett Foa</actor>
+      <actor>LL Cool J</actor>
+      <actor>Renée Felice Smith</actor>
+      <actor>Miguel Ferrer</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ncisla01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E12</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821065000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">Uma série de sequestros e assassinatos em Seattle manda a BAU na busca de um suspeito que sofreu abusos no passado e agora está atrás de vingança.(n)</desc>
+    <credits>
+      <director>Karen Gaviola</director>
+      <actor>Joe Mantegna</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Vivian Kerr</actor>
+      <actor>Blair Dickens</actor>
+      <actor>Kirsten Vangsness</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Harrison Holzer</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/criminalminds01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821065000 -0300" stop="20210821074000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">Quando um avião com passageiros colide no Colorado, a BAU é chamada para construir um perfil por trás das circunstâncias suspeitas. Além disso, o caso vira pessoal para Kate, que lembra-se de uma tragédia pessoal.(n)</desc>
+    <credits>
+      <director>Glenn Kershaw</director>
+      <actor>Joe Mantegna</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Sean Cook</actor>
+      <actor>Kirsten Vangsness</actor>
+      <actor>John Grady</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/criminalminds01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821074000 -0300" stop="20210821083000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">Quando um corpo é descoberto em Atlanta, coberto de arranhões, a BAU descobre que a morte os assassinatos subsequentes podem estar ligados a um suspeito com uma desordem compulsiva ligada à pele do corpo.(n)</desc>
+    <credits>
+      <director>Larry Teng</director>
+      <actor>Joe Mantegna</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Jeff Lorch</actor>
+      <actor>François Chau</actor>
+      <actor>Kirsten Vangsness</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Jennifer Love Hewitt</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/criminalminds01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821083000 -0300" stop="20210821092000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">Quando um garoto que desapareceu em San Diego na noite de Dia das Bruxas ressurge um ano depois, a BAU deve trabalhar rápido antes que mais alguém desapareça nas mesmas circunstâncias.(n)</desc>
+    <credits>
+      <director>Thomas Gibson</director>
+      <actor>Joe Mantegna</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Pamela Reed</actor>
+      <actor>Anjali Bhimani</actor>
+      <actor>Kirsten Vangsness</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>J. Michael Trautmann</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/criminalminds01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821092000 -0300" stop="20210821101000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">Uma série de sequestros e assassinatos em Seattle manda a BAU na busca de um suspeito que sofreu abusos no passado e agora está atrás de vingança.(n)</desc>
+    <credits>
+      <director>Karen Gaviola</director>
+      <actor>Joe Mantegna</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Vivian Kerr</actor>
+      <actor>Blair Dickens</actor>
+      <actor>Kirsten Vangsness</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Harrison Holzer</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/criminalminds01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821101000 -0300" stop="20210821110000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <desc lang="pt">O julgamento da gangue "Mal Noche" é prejudicado quando o acusado fica livre com a ajuda de uma testemunha que depôs em seu favor.(n)</desc>
+    <credits>
+      <director>Duane Clark</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Jonathan Togo</actor>
+      <actor>Rex Linn</actor>
+      <actor>Eva La Rue</actor>
+      <actor>Karl Makinen</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/csimiami01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E24</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821110000 -0300" stop="20210821115000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <desc lang="pt">No último episódio da temporada, a perda de um dos membros é o primeiro golpe que a equipe terá que enfrentar.(n)</desc>
+    <credits>
+      <director>Matt Earl Beesley</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Jonathan Togo</actor>
+      <actor>Rex Linn</actor>
+      <actor>Eva La Rue</actor>
+      <actor>Michael B. Silver</actor>
+      <actor>Bellamy Young</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/csimiami01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E25</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821115000 -0300" stop="20210821124000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <desc lang="pt">Horatio e Delko chegaram ao Rio de Janeiro para procurar Antonio Riaz, que ordenou a execução de Marisol. O problema é que Horatio não consegue parar de pensar em sua esposa, e as autoridades brasileiras não estão colaborando.(n)</desc>
+    <credits>
+      <director>Joe Chappelle</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Jonathan Togo</actor>
+      <actor>Rex Linn</actor>
+      <actor>Eva La Rue</actor>
+      <actor>Sofia Milos</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/csimiami01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821124000 -0300" stop="20210821133000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">Quando um policial some, a equipe BAU acredita que um serial killer tem algo a ver com o sumiço.(n)</desc>
+    <credits>
+      <director>Peter Ellis</director>
+      <actor>Mandy Patinkin</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Lola Glaudini</actor>
+      <actor>Shemar Moore</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Larkin Campbell</actor>
+      <actor>Deborah Geffner</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/criminalminds01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821133000 -0300" stop="20210821142000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">Com Gideon deixado de lado nos quartéis do FBI, Hotchner e a equipe pretendem entrar na mente de um assassino psicótico cujas fantasias desorganizadas e instáveis o levam a matar.(n)</desc>
+    <credits>
+      <director>Charles Haid</director>
+      <actor>Mandy Patinkin</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Lola Glaudini</actor>
+      <actor>Shemar Moore</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Kirsten Vangsness</actor>
+      <actor>Lindsay Crouse</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/criminalminds01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821142000 -0300" stop="20210821151000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">Depois de entrevistar um casal que está no corredor da morte por ter cometido assassinatos em série, Gideon suspeita que a mulher seja inocente.(n)</desc>
+    <credits>
+      <director>Chris Long</director>
+      <actor>Mandy Patinkin</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Lola Glaudini</actor>
+      <actor>Shemar Moore</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Kirsten Vangsness</actor>
+      <actor>Jeanetta Arnette</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/criminalminds01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821151000 -0300" stop="20210821160000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">Um serial killer reaparece depois de 20 anos de silencio e entra em contato com a BAU por meio do mentor aposentado de Gideon, que passou sua carreira procurando este assassino.(n)</desc>
+    <credits>
+      <director>J. Miller Tobin</director>
+      <actor>Mandy Patinkin</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Lola Glaudini</actor>
+      <actor>Shemar Moore</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Kirsten Vangsness</actor>
+      <actor>Geoffrey Pierson</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/criminalminds01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821160000 -0300" stop="20210821165000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">Quando estudantes são encontrados torturados e assassinados em uma casa abandonada, a equipe suspeita que um grupo de assassinos com conhecimento em rituais seja o responsável pelo crime.(n)</desc>
+    <credits>
+      <director>Matt Earl Beesley</director>
+      <actor>Mandy Patinkin</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Lola Glaudini</actor>
+      <actor>Shemar Moore</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Kirsten Vangsness</actor>
+      <actor>Gregory Cruz</actor>
+      <actor>Chris Ellis</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/criminalminds01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821165000 -0300" stop="20210821174000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">A BAU viaja para Seattle para identificar e capturar um serial bomber que está aterrorizando a cidade e que tem como alvo centros de tecnologia.(n)</desc>
+    <credits>
+      <director>Elodie Keene</director>
+      <actor>Thomas Gibson</actor>
+      <actor>Shemar Moore</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Kirsten Vangsness</actor>
+      <actor>JoBeth Williams</actor>
+      <actor>Jamie Elman</actor>
+      <actor>Gary Werntz</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/criminalminds01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821174000 -0300" stop="20210821183000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">A equipe investiga um assassino serial que está escolhendo mulheres em uma pequena faculdade de Flagstaff, Arizona. A BAU desativa o campus, cria um perfil detalhado do assassino e prende um suspeito.(n)</desc>
+    <credits>
+      <director>Gloria Muzio</director>
+      <actor>Vince Grant</actor>
+      <actor>Mandy Patinkin</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Paget Brewster</actor>
+      <actor>Shemar Moore</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>A.J. Cook</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/criminalminds01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821183000 -0300" stop="20210821192000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">Prentiss e Reid disfarçam-se para investigar uma denúncia de abuso infantil no templo de um culto no Colorado. Mas eles são feitos reféns quando uma ação policial sai errado.(n)</desc>
+    <credits>
+      <director>Félix Enríquez Alcalá</director>
+      <actor>Joe Mantegna</actor>
+      <actor>Paget Brewster</actor>
+      <actor>Shemar Moore</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Kirsten Vangsness</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Luke Perry</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/criminalminds01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821192000 -0300" stop="20210821201000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">A BAU vai até Boston quando o assassino serial de um dos primeiros casos do agente Hotchner, que envolveu um dos mais conhecidos criminosos da história de New England, reaparece depois de 10 anos.(n)</desc>
+    <credits>
+      <director>Nelson McCormick</director>
+      <actor>Joe Mantegna</actor>
+      <actor>Paget Brewster</actor>
+      <actor>Shemar Moore</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Kirsten Vangsness</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Jeffy Branion</actor>
+      <actor>Keith Carr</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/criminalminds01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S4 E18</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821201000 -0300" stop="20210821210000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">Quando um assassino serial, em Buffalo, manda uma filmagem de um de seus crimes para a BAU a equipe descobre uma mensagem do assassino que implora por ajuda para parar com a matança.(n)</desc>
+    <credits>
+      <director>Rob Hardy</director>
+      <actor>Kirsten Vangsness</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Erika Alexander</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/criminalminds01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S4 E22</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821210000 -0300" stop="20210821230000 -0300" channel="AXN HD">
+    <title lang="pt">Kill Bill: Vol. 1</title>
+    <desc lang="pt">Durante uma cerimônia de casamento, assassinos chegam atirando para todos os lados. O alvo: a noiva, ex-membro do grupo comandado por seu antigo chefe e amante, Bill.(n)</desc>
+    <credits>
+      <director>Quentin Tarantino</director>
+      <actor>Uma Thurman</actor>
+      <actor>Lucy Liu</actor>
+      <actor>Vivica A. Fox</actor>
+      <actor>Daryl Hannah</actor>
+      <actor>David Carradine</actor>
+      <actor>Michael Madsen</actor>
+      <actor>Julie Dreyfus</actor>
+      <actor>Sony Chiba</actor>
+      <actor>Michael Bowen</actor>
+      <actor>Jun Kunimura</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filmes/killbill01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821230000 -0300" stop="20210822000000 -0300" channel="AXN HD">
+    <title lang="pt">Baile de Máscaras</title>
+    <desc lang="pt">O processo eleitoral está prestes a começar e os índices de Fábio ainda estão perigosamente baixos.(n)</desc>
+    <credits>
+      <director>Belisario Franca</director>
+      <director>Eduardo Hunter Moura</director>
+      <director>Flávio Tambellini</director>
+      <actor>Leo Bahia</actor>
+      <actor>Diogo Cardoso</actor>
+      <actor>Jayme del Cueto</actor>
+      <actor>Gabriel Delfino</actor>
+      <actor>Rodrigo dos Santos</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
     </rating>
   </programme>
 </tv>
