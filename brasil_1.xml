@@ -112,6 +112,7 @@
   </channel>
   <channel id="Discovery Civilization HD">
     <display-name lang="pt">Discovery Civilization HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/discoverycivilization.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Discovery HD Theater">
@@ -15905,6 +15906,527 @@
     <episode-num system="onscreen">S1 E14</episode-num>
     <rating system="BR">
       <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820140000 -0300" stop="20210820144800 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Mistérios da Ásia</title>
+    <desc lang="pt">Há diferentes teorias que explicam as origens das ruinas de Angkor. Uns afirmam que foram os judeus que as construiram, outros dizem que foi Alexandre "O Grande". De fato, Angkor foi construída pelos ancestrais do povo Khmer.(n)</desc>
+    <date>1999</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820144800 -0300" stop="20210820153600 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Mistérios da Ásia</title>
+    <desc lang="pt">Os reis da Índia, há 1000 anos, empregavam elefantes treinados para o transporte de milhões de blocos de pedras usados na construção de gigantescos templos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820153600 -0300" stop="20210820162400 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Esquadrão Antibomba</title>
+    <desc lang="pt">O 23º Batalhão de Infantaria está abrindo caminho através do Afeganistão. A missão da Segunda Divisão é explodir uma bomba em uma rota de suprimentos, enquanto a Terceira Divisão utiliza tanques para repelir ataques.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820162400 -0300" stop="20210820171200 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Segredos dos Amish</title>
+    <desc lang="pt">Jolin e Levi planejam se livrar de Freeman. Merlin vai até um centro de cura amish na Dakota do Sul. Alan procura o bispo com informações sobre Levi. Esther e Levi passam algum tempo juntos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820171200 -0300" stop="20210820180000 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Os Anti-heróis do Velho Oeste</title>
+    <desc lang="pt">Este atirador bem-vestido era jogador, caçador e, acima de tudo, um homem da lei. Como xerife do Condado de Ford, no Kansas, Bat Masterson mantinha a paz em uma fronteira instável.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820184800 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">À Prova de Tudo</title>
+    <desc lang="pt">Bear Grylls mostra como sobreviver na ilha de Havaí, lar do Kilauea, o vulcão mais ativo do mundo.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/aprovadetudoafricadonorte01.jpg" />
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820184800 -0300" stop="20210820193600 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Crimes.Com</title>
+    <desc lang="pt">Este episódio começa com a história de uma senhora acima de qualquer suspeita que acaba sendo acusada de participar de um esquema de roubo digital por meio de comércio eletrônico.(n)</desc>
+    <credits>
+      <director>Fabio José De Melo</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820193600 -0300" stop="20210820200000 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Ideias que Mudaram o Mundo</title>
+    <desc lang="pt">Quando Samuel Morse descobre que sua esposa está agonizando, ele viaja para encontrá-la. Se tivesse chegado a tempo, a comunicação instantânea jamais existiria.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820202400 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Ideias que Mudaram o Mundo</title>
+    <desc lang="pt">Se o comerciante Jacob Davis não sobrevivesse à corrida do ouro na Califórnia, jamais conheceria Levi Strauss - e o rebite de cobre das calças jeans não seria inventado.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820202400 -0300" stop="20210820211200 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">O Preço da Escalada</title>
+    <desc lang="pt">A equipe 1 se esforça para chegar ao acampamento 4, a mais de 8.300 metros, dentro da zona da morte, onde a falta de oxigênio pode ser fatal. Ao chegarem, eles se deparam com um cadáver na neve.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_oprecodaescalada01.jpg" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820211200 -0300" stop="20210820220000 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">As Expedições de Josh Bernstein</title>
+    <desc lang="pt">Num ato de respeito, o povo Kukukuku da Papua-Nova Guiné mumifica os mortos e se recusa a enterrá-los. Mas este ritual logo desaparecerá. Josh Bernstein encontra uma das tribos mais primitivas da Terra.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820224800 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Desafio no Alasca</title>
+    <desc lang="pt">Os voluntários deixam suas cabanas e caminham para pegar um avião de volta à civilização. No caminho, alguns enfrentam temperaturas abaixo de zero e desidratação.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_desafionoalasca01.jpg" />
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820224800 -0300" stop="20210820233600 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Homens de Madeira</title>
+    <desc lang="pt">O frio do inverno chega a Millinocket e interrompe os trabalhos. Um motorista novato não consegue se adaptar às estradas e acaba prejudicando os Pelletiers. Todos terão de enfrentar a primeira nevasca do ano.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820233600 -0300" stop="20210821002400 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Homens de Madeira</title>
+    <desc lang="pt">O inverno é um problema para os Pelletiers. As equipes se esforçam, mas três motoristas sofrem acidentes e um cano estourado deixa o acampamento Telos fedendo.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821002400 -0300" stop="20210821011200 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">À Prova de Tudo</title>
+    <desc lang="pt">Nas montanhas escocesas, Bear Grylls demonstra como sobreviver enfrentando nevascas árticas, usando pele de veado como abrigo e fazendo armadilhas para coelhos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/aprovadetudoafricadonorte01.jpg" />
+    <episode-num system="onscreen">E15</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821011200 -0300" stop="20210821020000 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">A Colônia</title>
+    <desc lang="pt">VOPA retorna, com consequências inesperadas. Os colonizadores então se concentram em se armar para um ataque iminente e concluir o barco para explorar a baía atrás de recursos, alimentos e uma rota de fuga.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/acolonia01.jpg" />
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821020000 -0300" stop="20210821024800 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Segredos dos Amish</title>
+    <desc lang="pt">Merlin e Alan unem forças para ir atrás dos negócios de Levi. A autoridade de Jolin é testada. Big Steve é encontrado e uma vingança é realizada. A amizade entre Merlin e Wayne chega ao fim.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821024800 -0300" stop="20210821033600 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Tesouros Perdidos</title>
+    <desc lang="pt">A equipe da Odyssey explora um dos mais perigosos pontos de naufrágio do Canal da Mancha. Com as novas pistas fornecidas pelo ROV, o fim de quatro submarinos pode ser desvendado.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821033600 -0300" stop="20210821042400 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Mistérios Revelados</title>
+    <desc lang="pt">Scotty Moore viaja ao litoral da Islândia onde arqueólogos encontraram a ossada de um homem quase em perfeitas condições, nas ruínas de um mosteiro do século XVI.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/misteriosreveladosamumiaescondida01.jpg" />
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821042400 -0300" stop="20210821051200 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Arquivos Secretos</title>
+    <desc lang="pt">A Delta Force, unidade mais secreta do exército norte-americano, nunca teve sua existência oficialmente reconhecida. Eles foram os responsáveis por algumas das operações mais sigilosas da história.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821051200 -0300" stop="20210821060000 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Reescrevendo a História</title>
+    <desc lang="pt">O julgamento das bruxas de Salem, em 1692, foi um dos períodos mais negros da história dos EUA. Mas o que causou essa "caça às bruxas"?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821064800 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Tudo Por Ouro</title>
+    <desc lang="pt">A draga de Scott se enche de fumaça. O novato Glen discute com Zeke sobre a direção da draga. Emily perde a paciência com seu pai. Shawn encontra um veio que vai além dos limites de sua concessão.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821064800 -0300" stop="20210821073600 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Arquivos Secretos</title>
+    <desc lang="pt">Eles formam a divisão especial da CIA e são encarregados das missões mais importantes. Ex-oficiais falam sobre as operações mais obscuras da agência.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821073600 -0300" stop="20210821082400 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">A Colônia</title>
+    <desc lang="pt">Uma milícia de invasores ataca os colonizadores. Em seguida, o grupo se divide, e alguns usam o barco para fazer uma missão de reconhecimento em busca de suprimentos e um lugar para escapar. Mas nem todos retornam da missão.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/acolonia01.jpg" />
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821082400 -0300" stop="20210821091200 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Desafio no Alasca</title>
+    <desc lang="pt">Quatro grupos de pessoas comuns tenta sobreviver num meio selvagem no Alasca. Não faltam desafios no Alasca, onde tudo é maior, mais difícil e mais frio do que se imagina.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_desafionoalasca01.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821091200 -0300" stop="20210821093600 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Aventuras em Porter Ridge</title>
+    <desc lang="pt">Terry compra uma limusine em um leilão e Dirty Andy o convence a iniciar um serviço de limusines. O problema começa quando eles marcam com dois clientes na primeira noite do negócio.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821093600 -0300" stop="20210821100000 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Aventuras em Porter Ridge</title>
+    <desc lang="pt">Depois de ficar irritado com o trabalho exigido para se juntar a um clube de motocicletas, Terry decide criar seu próprio clube.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821100000 -0300" stop="20210821104800 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">American Lawmen</title>
+    <desc lang="pt">O detetive particular Allan Pinkerton é contratado para proteger uma ferrovia estratégica de ataques, mas ele acaba descobrindo uma conspiração para assassinar o presidente Lincoln.(n)</desc>
+    <credits>
+      <director>Mark Mainguy</director>
+      <director>Jeff Vanderwal</director>
+      <actor>Todd Schick</actor>
+      <actor>Mathieu Burdan</actor>
+      <actor>Scott Garland</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_americanlawmenoshomensdalei01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821104800 -0300" stop="20210821113600 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Legados do Egito</title>
+    <desc lang="pt">A egiptóloga Dra. Kara Cooney analisa múmias, tumbas e cemitérios antigos para explicar que, em muitas culturas, a preparação dos mortos era um mecanismo para lidar com a própria morte, um fato inevitável que conecta todas as pessoas do mundo.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/legadosdoegitoaspiramides01.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821113600 -0300" stop="20210821122400 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Mistérios Revelados</title>
+    <desc lang="pt">Scotty Moore viaja ao litoral norte do Peru, onde arqueólogos descobriram uma adolescente enterrada num local estranho.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/misteriosreveladosamumiaescondida01.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821122400 -0300" stop="20210821124800 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Grandes Palácios</title>
+    <desc lang="pt">O Escorial, que já foi palácio, mosteiro e cidadela, foi construído no século XVI pelo rei católico, Felipe II, da Espanha e se converteu no centro do grande império espanhol.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">E11</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821124800 -0300" stop="20210821131200 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Grandes Palácios</title>
+    <desc lang="pt">Este palácio data do século 12, mas o auge do seu esplendor foi durante a dinastia Manchu e em especial na época da poderosa e impiedosa imperadora Cixi.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">E12</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821131200 -0300" stop="20210821140000 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Os Anti-heróis do Velho Oeste</title>
+    <desc lang="pt">Bass Reeves não era um xerife comum. Escravo liberto pela Guerra Civil, ele caçava criminosos em regiões perigosas e existem evidências de que ele teria inspirado a lenda do Cavaleiro Solitário.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821140000 -0300" stop="20210821144800 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">American Lawmen</title>
+    <desc lang="pt">Os Everglades escondem assaltantes de bancos, fugitivos e assassinos cruéis. E o xerife Bob Baker está decidido a prender algumas das gangues mais mortais da história da Flórida.(n)</desc>
+    <credits>
+      <director>Mark Mainguy</director>
+      <director>Jeff Vanderwal</director>
+      <actor>Bubba Baker</actor>
+      <actor>Sarah Chahley</actor>
+      <actor>Len Greenaway</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_americanlawmenoshomensdalei01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821144800 -0300" stop="20210821153600 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">O Que a História Esqueceu</title>
+    <desc lang="pt">Esta série aborda fatos históricos esquecidos e obscuros. Todos sabem dos bombardeios dos EUA contra a Alemanha na Segunda Guerra, mas e quanto ao vilarejo queimado por seus pilotos de caça?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821153600 -0300" stop="20210821162400 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">O Que a História Esqueceu</title>
+    <desc lang="pt">Todos conhecem George Washington, a Febre do Ouro na Califórnia e as guerras entre os EUA e a Grã-Bretanha. Mas e quanto às histórias esquecidas e aos segredos que formaram o país?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821162400 -0300" stop="20210821171200 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Virando o Jogo</title>
+    <desc lang="pt">A cidade de Hue foi palco de uma das batalhas mais violentas da guerra do Vietnã, onde três batalhões da Marinha, com menos de 2.500 soldados, foram atacados e conseguiram se defender dos inimigos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821171200 -0300" stop="20210821180000 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Virando o Jogo</title>
+    <desc lang="pt">Vamos conhecer a verdadeira história de uma companhia de atiradores da Marinha que foi chamada às pressas para lutar na guerra da Coreia, em 1950. Sua coragem seria lendária, e sua luta, épica.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821180000 -0300" stop="20210821184800 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Mistérios da Ásia</title>
+    <desc lang="pt">Os reis da Índia, há 1000 anos, empregavam elefantes treinados para o transporte de milhões de blocos de pedras usados na construção de gigantescos templos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821184800 -0300" stop="20210821193600 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Crimes.Com</title>
+    <desc lang="pt">A primeira história do episódio traz um adolescente, vítima de bullying no colégio, que acaba se envolvendo com uma gangue virtual capaz de levá-lo às últimas consequências.(n)</desc>
+    <credits>
+      <director>Fabio José De Melo</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821193600 -0300" stop="20210821202400 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">A Colônia</title>
+    <desc lang="pt">Os colonizadores armam um contra-ataque para deter a milícia responsável pelos últimos assaltos à Colônia. Em seguida, eles se concentram em terminar o barco de fuga. Mas antes de partir, deparam-se com uma última escolha difícil.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/acolonia01.jpg" />
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821202400 -0300" stop="20210821211200 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">O Que a História Esqueceu</title>
+    <desc lang="pt">Você sabia que Rosa Parks não foi a primeira negra a se recusar a ceder seu assento a um branco? E que um dos melhores rifles de guerra foi inventado por um fabricante de bebidas clandestinas?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821211200 -0300" stop="20210821220000 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Nascidos Para O Crime</title>
+    <desc lang="pt">Bonnie Parker e Clyde Barrow estão entre os bandidos mais famosos do mundo. Assassinos e assaltantes habilidosos, eles roubaram bancos, postos de combustível e lojas e mataram pelo menos nove pessoas.(n)</desc>
+    <credits>
+      <actor>Emile Hirsch</actor>
+      <actor>Holliday Grainger</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_nascidosparaocrime01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821220000 -0300" stop="20210821224800 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Legados do Egito</title>
+    <desc lang="pt">A devoção pelas relíquias de santos já falecidos representa um comportamento universal na cultura humana, sejam objetos ou partes de seus corpos. A egiptóloga, Dra. Kara Cooney, visita locais de peregrinação antigos e modernos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/legadosdoegitoaspiramides01.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821224800 -0300" stop="20210821233600 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Destiladores - Riscos e Desafios</title>
+    <desc lang="pt">Acostumados a arriscar sua liberdade por uma das tradições mais antigas dos Estados Unidos, Tim, Tickle, Mark e Digger relembram seus momentos mais difíceis.(n)</desc>
+    <credits>
+      <director>Noah Danoff</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821233600 -0300" stop="20210822002400 -0300" channel="Discovery Civilization HD">
+    <title lang="pt">Destiladores - Riscos e Desafios</title>
+    <desc lang="pt">Tim, Tickle, Mark e Digger relembram suas maiores falhas, de erros de novatos a desastres que acabaram com uma produção. Todo destilador tem um momento memorável que gostaria de esquecer.(n)</desc>
+    <credits>
+      <director>Noah Danoff</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
     </rating>
   </programme>
 </tv>
