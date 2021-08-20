@@ -530,10 +530,12 @@
   </channel>
   <channel id="TBS HD">
     <display-name lang="pt">TBS HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/tbs.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Telecine Action HD">
     <display-name lang="pt">Telecine Action HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/tcaction.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Telecine Cult HD">
@@ -16894,6 +16896,229 @@
     <country lang="pt">EUA</country>
     <rating system="BR">
       <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820163000 -0300" stop="20210820165400 -0300" channel="TBS HD">
+    <title lang="pt">Tesouros de Garagem</title>
+    <desc lang="pt">Com instinto assassino, os Bernier vão atrás das melhores unidades de depósito do país e percorrem distâncias extremas para pôr suas mãos no que há dentro delas.(n)</desc>
+    <credits>
+      <director>Jenny Daly</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tesourosdegaragem01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820165400 -0300" stop="20210820171800 -0300" channel="TBS HD">
+    <title lang="pt">Rebocadores</title>
+    <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820171800 -0300" stop="20210820173900 -0300" channel="TBS HD">
+    <title lang="pt">Rebocadores</title>
+    <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820173900 -0300" stop="20210820180300 -0300" channel="TBS HD">
+    <title lang="pt">Rebocadores</title>
+    <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820180300 -0300" stop="20210820194100 -0300" channel="TBS HD">
+    <title lang="pt">Eu Sinto Muito</title>
+    <desc lang="pt">Júlio está tentando rodar um documentário sobre pessoas que sofrem do transtorno de personalidade borderline, mas tem encontrado dificuldade em encontrar quem esteja disposto a falar sobre o tema, e se expôr, na telona.(n)</desc>
+    <credits>
+      <director>Cristiano Vieira</director>
+      <actor>Juliana Schalch</actor>
+      <actor>Rocco Pitanga</actor>
+      <actor>Victor Abrão</actor>
+      <actor>Carolina Monte Rosa</actor>
+      <actor>Juliana Drummond</actor>
+      <actor>Marcelo Pelucio</actor>
+      <actor>Wellington Abreu</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820194100 -0300" stop="20210820220000 -0300" channel="TBS HD">
+    <title lang="pt">Foxcatcher: Uma História que Chocou o Mundo</title>
+    <desc lang="pt">Campeão olímpico de luta greco-romana, Mark Schultz sempre treinou com seu irmão mais velho, David. Um dia, recebe um convite para visitar o milionário, e apaixonado pelo esporte, John du Pont.(n)</desc>
+    <credits>
+      <director>Bennett Miller</director>
+      <actor>Steve Carell</actor>
+      <actor>Channing Tatum</actor>
+      <actor>Mark Ruffalo</actor>
+      <actor>Sienna Miller</actor>
+      <actor>Vanessa Redgrave</actor>
+      <actor>Anthony Michael Hall</actor>
+      <actor>Guy Boyd</actor>
+      <actor>Brett Rice</actor>
+      <actor>Jackson Frazer</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_foxcatcher01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820232300 -0300" channel="TBS HD">
+    <title lang="pt">Piranha 2</title>
+    <desc lang="pt">O Lago Vitória já abrigou piranhas pré-históricas, mas todos pensavam que estavam mortas. Próximo ao lago, há um parque aquático que promete muita diversão a quem o visita. Desta vez, o cardume aparece mais faminto.(n)</desc>
+    <credits>
+      <director>John Gulager</director>
+      <actor>Danielle Panabaker</actor>
+      <actor>Ving Rhames</actor>
+      <actor>David Hasselhoff</actor>
+      <actor>Matt Bush</actor>
+      <actor>Katrina Bowden</actor>
+      <actor>Jean-Luc Bilodeau</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_piranha201.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820232300 -0300" stop="20210821010500 -0300" channel="TBS HD">
+    <title lang="pt">Artista do Desastre</title>
+    <desc lang="pt">Greg Sestero se aproxima do excêntrico Tommy Wiseau após uma aula de atuação e os dois desenvolvem uma intensa amizade ancorada no sonho em comum de fazer sucesso nas artes dramáticas. Juntos eles partem para Hollywood.(n)</desc>
+    <credits>
+      <director>James Franco</director>
+      <actor>Dave Franco</actor>
+      <actor>James Franco</actor>
+      <actor>Seth Rogen</actor>
+      <actor>Ari Graynor</actor>
+      <actor>Alison Brie</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820162000 -0300" stop="20210820181000 -0300" channel="Telecine Action HD">
+    <title lang="pt">Rogue Warfare - Ameaça Global</title>
+    <desc lang="pt">Terroristas criam uma arma química capaz de causar danos de proporções catastróficas. Os Estados Unidos então unem forças com a China, a Rússia, a Grã-Bretanha e a França para tentar pôr fim à ameaça global.(n)</desc>
+    <credits>
+      <director>Mike Gunther</director>
+      <actor>Will Yun Lee</actor>
+      <actor>Jermaine Love</actor>
+      <actor>Rory Markham</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820181000 -0300" stop="20210820201500 -0300" channel="Telecine Action HD">
+    <title lang="pt">Alemão</title>
+    <desc lang="pt">Em 2010, cinco policiais infiltrados no Complexo do Alemão são descobertos pelos traficantes e devem aguardar por sua execução ou por seu resgate. Mas o resgate significa divulgar uma missão secreta realizada pela polícia militar.(n)</desc>
+    <credits>
+      <director>José Eduardo Belmonte</director>
+      <actor>Caio Blat</actor>
+      <actor>Cauã Reymond</actor>
+      <actor>Milhem Cortaz</actor>
+      <actor>Otávio Müller</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820201500 -0300" stop="20210820220000 -0300" channel="Telecine Action HD">
+    <title lang="pt">Plano De Fuga</title>
+    <desc lang="pt">O criminoso Driver atravessa a fronteira entre EUA e México durante uma fuga. No entanto, ele é capturado pelas autoridades mexicanas e jogado em uma prisão violenta.(n)</desc>
+    <credits>
+      <director>Adrian Grunberg</director>
+      <actor>Mel Gibson</actor>
+      <actor>Daniel Cacho</actor>
+      <actor>Kevin Balmore</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+    <country lang="pt">México</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820235000 -0300" channel="Telecine Action HD">
+    <title lang="pt">O Lutador (2006)</title>
+    <desc lang="pt">O boxeador George 'Iceman' Chambers cai em uma cilada e vai preso por tráfico de drogas. Conhecido pelos golpes que dá dentro dos ringues, ele terá que aplicá-los também dentro da prisão para sair vivo.(n)</desc>
+    <credits>
+      <director>Isaac Florentine</director>
+      <actor>Michael Jai White</actor>
+      <actor>Ben Cross</actor>
+      <actor>Eli Danker</actor>
+      <actor>Ken Lerner</actor>
+      <actor>Scott Adkins</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820235000 -0300" stop="20210821020500 -0300" channel="Telecine Action HD">
+    <title lang="pt">Kingsman: Serviço Secreto</title>
+    <desc lang="pt">A agência de espionagem Kingsman recruta o indisciplinado, mas promissor, Eggsy para o programa de treinamento. Enquanto isso, o mentor Harry deve impedir a ascensão do vilão Valentine.(n)</desc>
+    <credits>
+      <director>Matthew Vaughn</director>
+      <actor>Colin Firth</actor>
+      <actor>Samuel L. Jackson</actor>
+      <actor>Taron Egerton</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">Inglaterra</country>
+    <rating system="BR">
+      <value>16</value>
     </rating>
   </programme>
 </tv>
