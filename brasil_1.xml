@@ -451,6 +451,7 @@
   </channel>
   <channel id="OFF HD">
     <display-name lang="pt">OFF HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Paramount Channel HD">
