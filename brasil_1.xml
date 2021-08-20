@@ -471,6 +471,7 @@
   </channel>
   <channel id="Premiere 3 HD">
     <display-name lang="pt">Premiere 3 HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Premiere 4 HD">
