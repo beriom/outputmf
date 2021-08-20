@@ -221,6 +221,7 @@
   </channel>
   <channel id="Fish TV HD">
     <display-name lang="pt">Fish TV HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Food Network HD">
