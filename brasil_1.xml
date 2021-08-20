@@ -610,10 +610,12 @@
   </channel>
   <channel id="VH1 Megahits">
     <display-name lang="pt">VH1 Megahits</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/viva2018.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Viva HD">
     <display-name lang="pt">Viva HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/warnerchannel.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Warner Channel HD">
@@ -19363,6 +19365,363 @@
     <category lang="pt">Musical</category>
     <rating system="BR">
       <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820160000 -0300" stop="20210820170000 -0300" channel="VH1 Megahits">
+    <title lang="pt">Nothing But Classics</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820170000 -0300" stop="20210820180000 -0300" channel="VH1 Megahits">
+    <title lang="pt">In Motion</title>
+    <desc lang="pt">O melhor playlist da atualidade, com vídeo clipes dos artistas mais badalados do momento.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820190000 -0300" channel="VH1 Megahits">
+    <title lang="pt">VH1Shuffle</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820200000 -0300" channel="VH1 Megahits">
+    <title lang="pt">In Motion</title>
+    <desc lang="pt">O melhor playlist da atualidade, com vídeo clipes dos artistas mais badalados do momento.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820210000 -0300" channel="VH1 Megahits">
+    <title lang="pt">Moods Greatest Hits</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820210000 -0300" stop="20210820220000 -0300" channel="VH1 Megahits">
+    <title lang="pt">VH1Shuffle</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820230000 -0300" channel="VH1 Megahits">
+    <title lang="pt">Nothing But Classics</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210821000000 -0300" channel="VH1 Megahits">
+    <title lang="pt">In Motion</title>
+    <desc lang="pt">O melhor playlist da atualidade, com vídeo clipes dos artistas mais badalados do momento.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820161500 -0300" stop="20210820164500 -0300" channel="Viva HD">
+    <title lang="pt">Malhação 2009</title>
+    <desc lang="pt">Marina é apaixonada por seu melhor amigo, Luciano. O romance acaba não decolando até que tudo muda quando Alex, Veridiana e Norma Jean aparecem em suas vidas.(n)</desc>
+    <credits>
+      <director>Marcos Paulo</director>
+      <actor>Bianca Bin</actor>
+      <actor>Humberto Carrão</actor>
+      <actor>Micael Borges</actor>
+      <actor>Amanda Richter</actor>
+      <actor>Milena Toscano</actor>
+      <actor>Daniel Dalcin</actor>
+      <actor>Jéssika Alves</actor>
+      <actor>Mariana Rios</actor>
+      <actor>Jonatas Faro</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820164500 -0300" stop="20210820171500 -0300" channel="Viva HD">
+    <title lang="pt">A Grande Família</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <actor>Marieta Severo</actor>
+      <actor>Marco Nanini</actor>
+      <actor>Lúcio Mauro Filho</actor>
+      <actor>Guta Stresser</actor>
+      <actor>Marcos Oliveira</actor>
+      <actor>Andréa Beltrão</actor>
+      <actor>Rogério Cardoso</actor>
+      <actor>Leandra Leal</actor>
+      <actor>Diogo Vilela</actor>
+      <actor>Francisco Milani</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/agrandefamilia01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820171500 -0300" stop="20210820183000 -0300" channel="Viva HD">
+    <title lang="pt">Carga Pesada</title>
+    <desc lang="pt">Pedro da Boleia (Antônio Fagundes), o caminhoneiro mulherengo e que gosta de sua liberdade, ficará bastante comovido ao encontrar uma criança abandonada na cabine do caminhão.(n)</desc>
+    <credits>
+      <director>Mário Márcio Bandarra</director>
+      <actor>Nadia Rovinsky</actor>
+      <actor>Chico Diaz</actor>
+      <actor>Tânia Alves</actor>
+      <actor>Patricia Pillar</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/cargapesada01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820183000 -0300" stop="20210820193000 -0300" channel="Viva HD">
+    <title lang="pt">Sai de Baixo</title>
+    <desc lang="pt">Reynaldo Gianecchini vive o caminhoneiro Marlonbrandson, que se casará com Sirene. Cassandra terá um talk-show e Magda descobre seu talento na veterinária. E Caco deslancha como trambiqueiro profissional.(n)</desc>
+    <credits>
+      <director>Daniel Filho</director>
+      <director>Dennis Carvalho</director>
+      <actor>Miguel Falabella</actor>
+      <actor>Marisa Orth</actor>
+      <actor>Luís Gustavo</actor>
+      <actor>Aracy Balabanian</actor>
+    </credits>
+    <date>1996</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/saidebaixo01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S7 E241</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820193000 -0300" stop="20210820200000 -0300" channel="Viva HD">
+    <title lang="pt">Big Brother Brasil 2</title>
+    <desc lang="pt">A casa do BBB2 recebe participantes que topam ficar confinados em busca de um prêmio milionário.(n)</desc>
+    <credits>
+      <director>Boninho</director>
+      <director>Carlos Magalhães</director>
+      <director>Eugenia Moreyra</director>
+      <director>Rodrigo Dourado</director>
+      <director>Warllem Machado</director>
+      <actor>Rodrigo Fraga Leonel</actor>
+      <actor>Manuela Santos Saadeh</actor>
+      <actor>Maria Aparecida Junqueira de Moraes</actor>
+      <actor>Thyrso Mattos Martins</actor>
+      <actor>Tarciana de Lima Mafra</actor>
+      <actor>Fabrício Luiz do Amaral</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820203000 -0300" channel="Viva HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+    <desc lang="pt">Chico Anysio comanda uma turma da pesada que apronta altas confusões na Escolinha do Professor Raimundo. Em matéria de humor, eles são nota dez.(n)</desc>
+    <credits>
+      <director>Cininha Paula</director>
+      <director>Cassiano Filho</director>
+      <director>Paulo Ghelli</director>
+      <actor>Antônio Carlos Pires</actor>
+      <actor>Antônio Pedro</actor>
+      <actor>Brandão Filho</actor>
+      <actor>Castrinho</actor>
+      <actor>Cláudia Jimenez</actor>
+      <actor>Francisco Milani</actor>
+      <actor>Grande Otelo</actor>
+      <actor>Jayme Filho</actor>
+      <actor>Lúcio Mauro</actor>
+      <actor>Lug de Paula</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/escolinha01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820203000 -0300" stop="20210820211500 -0300" channel="Viva HD">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mauro Mendonça Filho</director>
+      <director>Cininha Paula</director>
+      <actor>Diogo Vilela</actor>
+      <actor>Norma Bengell</actor>
+      <actor>Arlete Salles</actor>
+      <actor>Marisa Orth</actor>
+      <actor>Fernanda de Souza</actor>
+      <actor>Leonardo Miggiorin</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/tomalacada01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E72</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820211500 -0300" stop="20210820214500 -0300" channel="Viva HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+    <desc lang="pt">Chico Anysio comanda uma turma da pesada que apronta altas confusões na Escolinha do Professor Raimundo. Em matéria de humor, eles são nota dez.(n)</desc>
+    <credits>
+      <director>Cininha Paula</director>
+      <director>Cassiano Filho</director>
+      <director>Paulo Ghelli</director>
+      <actor>Antônio Carlos Pires</actor>
+      <actor>Antônio Pedro</actor>
+      <actor>Brandão Filho</actor>
+      <actor>Castrinho</actor>
+      <actor>Cláudia Jimenez</actor>
+      <actor>Francisco Milani</actor>
+      <actor>Grande Otelo</actor>
+      <actor>Jayme Filho</actor>
+      <actor>Lúcio Mauro</actor>
+      <actor>Lug de Paula</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/escolinha01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820214500 -0300" stop="20210820221500 -0300" channel="Viva HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+    <desc lang="pt">Chico Anysio comanda uma turma da pesada que apronta altas confusões na Escolinha do Professor Raimundo. Em matéria de humor, eles são nota dez.(n)</desc>
+    <credits>
+      <director>Cininha Paula</director>
+      <director>Cassiano Filho</director>
+      <director>Paulo Ghelli</director>
+      <actor>Antônio Carlos Pires</actor>
+      <actor>Antônio Pedro</actor>
+      <actor>Brandão Filho</actor>
+      <actor>Castrinho</actor>
+      <actor>Cláudia Jimenez</actor>
+      <actor>Francisco Milani</actor>
+      <actor>Grande Otelo</actor>
+      <actor>Jayme Filho</actor>
+      <actor>Lúcio Mauro</actor>
+      <actor>Lug de Paula</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/escolinha01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820221500 -0300" stop="20210820230000 -0300" channel="Viva HD">
+    <title lang="pt">A Grande Família</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <actor>Marieta Severo</actor>
+      <actor>Marco Nanini</actor>
+      <actor>Lúcio Mauro Filho</actor>
+      <actor>Guta Stresser</actor>
+      <actor>Marcos Oliveira</actor>
+      <actor>Andréa Beltrão</actor>
+      <actor>Rogério Cardoso</actor>
+      <actor>Leandra Leal</actor>
+      <actor>Diogo Vilela</actor>
+      <actor>Francisco Milani</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/agrandefamilia01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210820234500 -0300" channel="Viva HD">
+    <title lang="pt">Da Cor do Pecado</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Denise Saraceni</director>
+      <director>Luis Henrique Rios</director>
+      <actor>Taís Araújo</actor>
+      <actor>Reynaldo Gianecchini</actor>
+      <actor>Giovanna Antonelli</actor>
+      <actor>Lima Duarte</actor>
+      <actor>Rosi Campos</actor>
+      <actor>Guilherme Weber</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/dacordopecado01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820234500 -0300" stop="20210821003000 -0300" channel="Viva HD">
+    <title lang="pt">Paraíso Tropical</title>
+    <desc lang="pt">Paula e Taís são gêmeas idênticas, mas com personalidades completamente opostas. Paula nasceu na fictícia cidade de Marapuã, no interior da Bahia, mas se muda para o Rio de Janeiro e, lá, conhece Taís.(n)</desc>
+    <credits>
+      <director>Dennis Carvalho</director>
+      <director>José Luiz Villamarim</director>
+      <actor>Tony Ramos</actor>
+      <actor>Glória Pires</actor>
+      <actor>Alessandra Negrini</actor>
+      <actor>Camila Pitanga</actor>
+      <actor>Wagner Moura</actor>
+      <actor>Fábio Assunção</actor>
+      <actor>Marcelo Antony</actor>
+      <actor>Bruno Gagliasso</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>14</value>
     </rating>
   </programme>
 </tv>
