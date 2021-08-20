@@ -1324,4 +1324,443 @@
       <value>12</value>
     </rating>
   </programme>
+  <programme start="20210820090000 -0300" stop="20210820100000 -0300" channel="AMC HD">
+    <title lang="pt">Fear The Walking Dead</title>
+    <desc lang="pt">A jornada de Morgan é interrompida por novos conhecidos.(n)</desc>
+    <credits>
+      <director>Tara Nicole Weyr</director>
+      <actor>Colman Domingo</actor>
+      <actor>Jenna Elfman</actor>
+      <actor>Garret Dillahunt</actor>
+      <actor>Lennie James</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Terror</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/fearthewalking01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E11</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820100000 -0300" stop="20210820120500 -0300" channel="AMC HD">
+    <title lang="pt">Garota Fantástica</title>
+    <title lang="en">Whip It!</title>
+    <desc lang="pt">Bliss Cavendar, uma texana de 17 anos se vê diante de duas opções: levar a sério o concurso de beleza da cidadezinha onde vive ou tentar a sorte no circuito do "roller derby", modalidade esportiva predominantemente feminina.(n)</desc>
+    <credits>
+      <director>Drew Barrymore</director>
+      <actor>Ellen Page</actor>
+      <actor>Marcia Gay Harden</actor>
+      <actor>Kristen Wiig</actor>
+      <actor>Drew Barrymore</actor>
+      <actor>Juliette Lewis</actor>
+      <actor>Jimmy Fallon</actor>
+      <actor>Alia Shawkat</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820120500 -0300" stop="20210820140500 -0300" channel="AMC HD">
+    <title lang="pt">O Livro Do Amor</title>
+    <title lang="en">The Book Of Love</title>
+    <desc lang="pt">Jason Sudeikis estrela como um arquiteto viúvo de Nova Orleans que inicia um relacionamento improvável com a adolescente fugitiva Maisie Williams.(n)</desc>
+    <credits>
+      <director>Bill Purple</director>
+      <actor>Jason Sudeikis</actor>
+      <actor>Maisie Williams</actor>
+      <actor>Jessica Biel</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820140500 -0300" stop="20210820161000 -0300" channel="AMC HD">
+    <title lang="pt">Território Restrito</title>
+    <title lang="en">Crossing Over</title>
+    <desc lang="pt">Imigrantes de diferentes nacionalidades lutam para viver com dignidade, em Los Angeles, e conseguir documentos legais.(n)</desc>
+    <credits>
+      <director>Wayne Kramer</director>
+      <actor>Harrison Ford</actor>
+      <actor>Ashley Judd</actor>
+      <actor>Ray Liotta</actor>
+      <actor>Jim Sturgess</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Alice Braga</actor>
+      <actor>Jacqueline Obradors</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820161000 -0300" stop="20210820180000 -0300" channel="AMC HD">
+    <title lang="pt">Centurião</title>
+    <title lang="en">Centurion</title>
+    <desc lang="pt">117 A.C. O Império Romano controla do Egito Espanha, do leste até o Mar Negro. Entretanto ele enfrenta problemas no norte da Grã-Bretanha, devido às táticas de guerrilha usadas por seus inimigos.(n)</desc>
+    <credits>
+      <director>Neil Marshall</director>
+      <actor>Michael Fassbender</actor>
+      <actor>Dominic West</actor>
+      <actor>Olga Kurylenko</actor>
+      <actor>Paul Freeman</actor>
+      <actor>Simon Chadwick</actor>
+      <actor>Andreas Wisniewski</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">Reino Unido</country>
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820200000 -0300" channel="AMC HD">
+    <title lang="pt">Os Especialistas</title>
+    <title lang="en">Killer Elite</title>
+    <desc lang="pt">Baseado em uma história real, o filme conta a história de Danny, um ex-agente britânico, ele tem uma última missão: ajudar a salvar seu parceiro, Hunter, que está nas mãos do perigoso Spike, um de seus grandes inimigos.(n)</desc>
+    <credits>
+      <director>Gary McKendry</director>
+      <actor>Jason Statham</actor>
+      <actor>Clive Owen</actor>
+      <actor>Robert De Niro</actor>
+      <actor>Dominic Purcell</actor>
+      <actor>Yvonne Strahovski</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_osespecialistas01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Austrália</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820220000 -0300" channel="AMC HD">
+    <title lang="pt">Colombiana - Em Busca de Vingança</title>
+    <title lang="en">Colombiana</title>
+    <desc lang="pt">Cataleya testemunhou a morte dos pais quando era pequena. Desde então, seu objetivo principal é vingar a morte daqueles que amava.(n)</desc>
+    <credits>
+      <director>Olivier Megaton</director>
+      <actor>Callum Blue</actor>
+      <actor>Michael Vartan</actor>
+      <actor>Zoe Saldana</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210821000000 -0300" channel="AMC HD">
+    <title lang="pt">O Homem Mais Procurado Do Mundo</title>
+    <title lang="en">Seal Team Six</title>
+    <desc lang="pt">Baseada na história real, a trama se foca na ação conjunta da CIA em parceria com os operativos das forças especiais do Exército norte-americano, os chamados SEALs.(n)</desc>
+    <credits>
+      <director>John Stockwell</director>
+      <actor>Cam Gigandet</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821000000 -0300" stop="20210821022500 -0300" channel="AMC HD">
+    <title lang="pt">Corações de Ferro</title>
+    <title lang="en">Fury</title>
+    <desc lang="pt">Durante o final da Segunda Guerra Mundial, um grupo de cinco soldados americanos é encarregado de atacar os nazistas dentro da própria Alemanha.(n)</desc>
+    <credits>
+      <director>David Ayer</director>
+      <actor>Brad Pitt</actor>
+      <actor>Shia LaBeouf</actor>
+      <actor>Logan Lerman</actor>
+      <actor>Michael Peña</actor>
+      <actor>Jon Bernthal</actor>
+      <actor>Jim Parrack</actor>
+      <actor>Brad William Henke</actor>
+      <actor>Kevin Vance</actor>
+      <actor>Xavier Samuel</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Guerra</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/filme_coracoesdeferro01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">China</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821022500 -0300" stop="20210821044500 -0300" channel="AMC HD">
+    <title lang="pt">Caçadores de Emoção</title>
+    <title lang="en">Point Break</title>
+    <desc lang="pt">Jovem agente do FBI se faz passar por surfista para se infiltrar em uma quadrilha que rouba bancos e que está aterrorizando a cidade.(n)</desc>
+    <credits>
+      <director>Kathryn Bigelow</director>
+      <actor>Patrick Swayze</actor>
+      <actor>Keanu Reeves</actor>
+      <actor>Lory Petti</actor>
+      <actor>John Philbin</actor>
+      <actor>Gary Busey</actor>
+      <actor>James LeGros</actor>
+      <actor>Bojesse Christopher</actor>
+      <actor>Julian Reyes</actor>
+      <actor>Daniel Beer</actor>
+      <actor>Chris Pedersen</actor>
+      <actor>Vincent Klyn</actor>
+      <actor>Lee Tegersen</actor>
+    </credits>
+    <date>1991</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_cacadoresdeemocao01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821044500 -0300" stop="20210821063000 -0300" channel="AMC HD">
+    <title lang="pt">Vampiras</title>
+    <title lang="en">Vamps</title>
+    <desc lang="pt">Goody e Stacy são vampiras que moram em Manhattan. As amigas fazem faculdade, trabalham à noite e não bebem sangue humano. Stacy acaba se apaixonando mas, descobre que ele é filho do caçador de vampiros , Van Helsing.(n)</desc>
+    <credits>
+      <director>Amy Heckerling</director>
+      <actor>Alicia Silverstone</actor>
+      <actor>Krysten Ritter</actor>
+      <actor>Sigourney Weaver</actor>
+      <actor>Larry Wilmore</actor>
+      <actor>Wallace Shawn</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/vampiras01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821063000 -0300" stop="20210821070000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone 2020</title>
+    <title lang="en">Action Zone</title>
+    <desc lang="pt">Action Zone é uma série de TV de 25 minutos que mantém os espectadores completamente atualizados com os filmes mais recentes, efeitos especiais surpreendentes e muitas informações.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cinema</category>
+    <country lang="pt">Holanda</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821070000 -0300" stop="20210821073000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone 2020</title>
+    <title lang="en">Action Zone</title>
+    <desc lang="pt">Action Zone é uma série de TV de 25 minutos que mantém os espectadores completamente atualizados com os filmes mais recentes, efeitos especiais surpreendentes e muitas informações.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cinema</category>
+    <country lang="pt">Holanda</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821073000 -0300" stop="20210821080000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone 2020</title>
+    <title lang="en">Action Zone</title>
+    <desc lang="pt">Action Zone é uma série de TV de 25 minutos que mantém os espectadores completamente atualizados com os filmes mais recentes, efeitos especiais surpreendentes e muitas informações.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cinema</category>
+    <country lang="pt">Holanda</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821080000 -0300" stop="20210821102500 -0300" channel="AMC HD">
+    <title lang="pt">Um Homem de Família</title>
+    <title lang="en">The Family Man</title>
+    <desc lang="pt">Jack Campbell há 13 anos desistiu de um grande amor para se tornar um empresário bem-sucedido. No entanto, a véspera de Natal traz uma surpresa: ele acorda em outra vida, casado e pai de dois filhos.(n)</desc>
+    <credits>
+      <director>Brett Ratner</director>
+      <actor>Nicolas Cage</actor>
+      <actor>Don Cheadle</actor>
+      <actor>Jeremy Piven</actor>
+      <actor>Saul Rubinek</actor>
+      <actor>Téa Leoni</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821102500 -0300" stop="20210821123000 -0300" channel="AMC HD">
+    <title lang="pt">A Perseguição</title>
+    <title lang="en">The Grey</title>
+    <desc lang="pt">Uma equipe de perfuração de petróleo luta para sobreviver após um acidente de avião no Alaska.(n)</desc>
+    <credits>
+      <director>Joe Carnahan</director>
+      <actor>Liam Neeson</actor>
+      <actor>Frank Grillo</actor>
+      <actor>Dermot Mulroney</actor>
+      <actor>Dallas Roberts</actor>
+      <actor>Joe Anderson</actor>
+      <actor>James Badge Dale</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821123000 -0300" stop="20210821142000 -0300" channel="AMC HD">
+    <title lang="pt">Redenção (2013)</title>
+    <title lang="en">Hummingbird</title>
+    <desc lang="pt">Um veterano do exército americano que lutou na guerra do Afeganistão vai para Londres. Após sua namorada ser assassinada, ele terá que utilizar seus contatos na máfia chinesa para descobrir o responsável pelo crime.(n)</desc>
+    <credits>
+      <director>Steven Knight</director>
+      <actor>Jason Statham</actor>
+      <actor>Agata Buzek</actor>
+      <actor>Benedict Wong</actor>
+      <actor>Vicky McClure</actor>
+      <actor>Anthony Morris</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/redencao201301.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821142000 -0300" stop="20210821162000 -0300" channel="AMC HD">
+    <title lang="pt">O Homem Mais Procurado Do Mundo</title>
+    <title lang="en">Seal Team Six</title>
+    <desc lang="pt">Baseada na história real, a trama se foca na ação conjunta da CIA em parceria com os operativos das forças especiais do Exército norte-americano, os chamados SEALs.(n)</desc>
+    <credits>
+      <director>John Stockwell</director>
+      <actor>Cam Gigandet</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821162000 -0300" stop="20210821182000 -0300" channel="AMC HD">
+    <title lang="pt">Colombiana - Em Busca de Vingança</title>
+    <title lang="en">Colombiana</title>
+    <desc lang="pt">Cataleya testemunhou a morte dos pais quando era pequena. Desde então, seu objetivo principal é vingar a morte daqueles que amava.(n)</desc>
+    <credits>
+      <director>Olivier Megaton</director>
+      <actor>Callum Blue</actor>
+      <actor>Michael Vartan</actor>
+      <actor>Zoe Saldana</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821182000 -0300" stop="20210821201000 -0300" channel="AMC HD">
+    <title lang="pt">Em Busca da Justiça</title>
+    <title lang="en">Jane Got a Gun</title>
+    <desc lang="pt">Jane Hammond é a esposa de Bill, um dos maiores bandidos da região. Um dia ele retorna para casa após levar oito tiros de integrantes de sua própria gangue, que se voltaram contra ele.(n)</desc>
+    <credits>
+      <director>Gavin O'Connor</director>
+      <actor>Natalie Portman</actor>
+      <actor>Joel Edgerton</actor>
+      <actor>Ewan McGregor</actor>
+      <actor>Noah Emmerich</actor>
+      <actor>Boyd Holbrook</actor>
+      <actor>Rodrigo Santoro</actor>
+      <actor>James Burnett</actor>
+      <actor>Sam Quinn</actor>
+      <actor>Maisie McMaster</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/filme_embuscadajustica01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821201000 -0300" stop="20210821220000 -0300" channel="AMC HD">
+    <title lang="pt">Salt</title>
+    <desc lang="pt">Antes de se tornar agente da CIA, Evelyn Salt prestou juramento de servir e honrar o seu país. Ela colocará o seu juramento em prática, quando um desertor russo a acusa de ser uma espiã russa. Salt foge, usando todas as sua habilidades.(n)</desc>
+    <credits>
+      <director>Phillip Noyce</director>
+      <actor>Angelina Jolie</actor>
+      <actor>Liev Schreiber</actor>
+      <actor>Chiwetel Ejiofor</actor>
+      <actor>August Diehl</actor>
+      <actor>Daniel Pearce</actor>
+      <actor>Vladislav Koulikov</actor>
+      <actor>Gaius Charles</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/salt01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821220000 -0300" stop="20210822001500 -0300" channel="AMC HD">
+    <title lang="pt">Marcados Pela Guerra</title>
+    <title lang="en">Camp X-Ray</title>
+    <desc lang="pt">Tentando deixar para trás a pacata vida de uma cidade do interior, uma jovem decide se alistar no exército na esperança de ser mandada para o Iraque, onde entraria em contato com uma nova cultura. No entanto, acaba sendo realocada para Guantánamo.(n)</desc>
+    <credits>
+      <director>Peter Sattler</director>
+      <actor>Kristen Stewart</actor>
+      <actor>Peyman Moaadi</actor>
+      <actor>John Carroll Lynch</actor>
+      <actor>Nawal Bengholam</actor>
+      <actor>Lane Garrison</actor>
+      <actor>Cory Michael Smith</actor>
+      <actor>Brandon Seider</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
 </tv>
