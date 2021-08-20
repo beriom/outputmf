@@ -220,10 +220,12 @@
   </channel>
   <channel id="FOX Sports 2 HD">
     <display-name lang="pt">FOX Sports 2 HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/foxsports2hd.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="FOX Sports HD">
     <display-name lang="pt">FOX Sports HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/foxsportshd.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Futura HD">
@@ -8391,5 +8393,142 @@
     <star-rating system="BR">
       <value>4</value>
     </star-rating>
+  </programme>
+  <programme start="20210820140000 -0300" stop="20210820170000 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">Nascar Cup Séries</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820170000 -0300" stop="20210820190000 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">Palmeiras x São Paulo</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/time_palmeiras.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820193000 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">Mundial de Motocross</title>
+    <desc lang="pt">O Mundial de Motocross é o maior evento da categoria realizado pela FIM (Federação Internacional de Motociclismo).(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Radical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_mundialdemotocrossetapaholanda01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820193000 -0300" stop="20210820210000 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">WRC</title>
+    <desc lang="pt">O Campeonato Mundial de Rally (WRC) é disputado em atmosferas totalmente diferentes. Vai desde o clima frio e congelante da Escandinávia até o forte calor da Jordânia.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Radical</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820210000 -0300" stop="20210820230000 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">WWE Smackdown - Ao Vivo</title>
+    <desc lang="pt">O WWE é a principal organização de Pro Wrestling no mundo e reúne as maiores estrelas da modalidade em fantásticos combates de tirar o fôlego.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_wwesmackdownaovivo01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210821013000 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">ESPN Knockout: Jair Valtierra x Alberto Luiz Ibarra - Ao Vivo</title>
+    <desc lang="pt">O melhor do boxe internacional nos canais ESPN.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Boxe</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820163000 -0300" stop="20210820181500 -0300" channel="FOX Sports HD">
+    <title lang="pt">Barcelona (ECU) x Fluminense</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/time_fluminense.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820181500 -0300" stop="20210820200000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Flamengo x Olimpia</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/time_flamengo.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820203000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Mundo Premier League</title>
+    <desc lang="pt">Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_mundopremierleague01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820203000 -0300" stop="20210820210000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Mundial de Motocross</title>
+    <desc lang="pt">O Mundial de Motocross é o maior evento da categoria realizado pela FIM (Federação Internacional de Motociclismo).(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Radical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_mundialdemotocrossetapaholanda01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820210000 -0300" stop="20210820220000 -0300" channel="FOX Sports HD">
+    <title lang="pt">WRC</title>
+    <desc lang="pt">O Campeonato Mundial de Rally (WRC) é disputado em atmosferas totalmente diferentes. Vai desde o clima frio e congelante da Escandinávia até o forte calor da Jordânia.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Radical</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820230000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Bola da Vez</title>
+    <desc lang="pt">Grandes nomes do esporte em uma conversa franca, direta e, muitas vezes, reveladora. Passado, presente e os projetos para o futuro. Todo sábado, após o Sportscenter, na ESPN Brasil, sob o comando de André Plihal.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_boladavez01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210820233000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Inside Serie A</title>
+    <desc lang="pt">Uma previsão sobre os próximos jogos do Campeonato Italiano.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820233000 -0300" stop="20210821013000 -0300" channel="FOX Sports HD">
+    <title lang="pt">MLS: Los Angeles Galaxy x San Jose Earthquakes - Ao Vivo</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_vtportlandtimbersxcoloradora01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
 </tv>
