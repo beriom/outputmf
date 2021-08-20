@@ -61515,4 +61515,711 @@
       <value>12</value>
     </rating>
   </programme>
+  <programme start="20210820094500 -0300" stop="20210820103000 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Dra K</title>
+    <title lang="en">Dr. K's Exotic Animal</title>
+    <desc lang="pt">A equipe da Dra. K está ocupada com casos surpreendentes, incluindo um anfíbio diferente que perdeu seu sulco, uma tartaruga de casco mole selvagem atropelada por um carro precisa de atenção imediata.(n)</desc>
+    <credits>
+      <director>Elaine Pugliese</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_drak01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E19</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820103000 -0300" stop="20210820113000 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">O Melhor de Loucuras Animais</title>
+    <desc lang="pt">Às vezes a natureza fica perto demais - e não há como escapar destes encontros potencialmente mortais entre homens e feras.(n)</desc>
+    <credits>
+      <director>Michael Hoff</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omelhordeloucurasanimais01.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820113000 -0300" stop="20210820121500 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Incredible Dr. Pol</title>
+    <desc lang="pt">Nem tudo é diversão na clínica veterinária do Dr. Pol. Ser veterinário significa ajudar os animais debaixo de chuvas torrenciais.(n)</desc>
+    <credits>
+      <director>Ted Duvall</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S8 E5</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820121500 -0300" stop="20210820130000 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Maravilhas Ocultas da África</title>
+    <desc lang="pt">Entre os suntuosos lagos e altos picos da Etiópia, as espécies se adaptaram para sobreviver.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820130000 -0300" stop="20210820134500 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Clube da Luta Animal</title>
+    <desc lang="pt">Este episódio revela como mesmo as mais épicas batalhas podem ser vencidas ou perdidas em uma fração de segundo. No mundo das brigas de animais selvagens.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_clubedalutaanimal01.jpg" />
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820134500 -0300" stop="20210820143000 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Maravilhas Ocultas da África</title>
+    <desc lang="pt">Ruanda é um país cheio de mistério, coberto de névoa e cercado de densas selvas.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820143000 -0300" stop="20210820151500 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Maravilhas Ocultas da África</title>
+    <desc lang="pt">Entre os suntuosos lagos e altos picos da Etiópia, as espécies se adaptaram para sobreviver.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820151500 -0300" stop="20210820160000 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Maravilhas Ocultas da África</title>
+    <desc lang="pt">O Saara é o maior deserto do mundo e cobre uma vasta faixa do norte da África.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820160000 -0300" stop="20210820164500 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Yukon</title>
+    <title lang="en">Dr Oakley</title>
+    <desc lang="pt">Na clínica, a Dra. Oakley examina os filhotes de Bindi para prepará-los para adoção.(n)</desc>
+    <credits>
+      <director>Breanna Hoepner</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_yukon01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820164500 -0300" stop="20210820173000 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Os Segredos do Zoológico</title>
+    <desc lang="pt">O mandril Kinshasa mostra sua verdadeira natureza, uma enorme bisão fêmea passa por um exame médico e uma jovem antilocapra caminha com orgulho.(n)</desc>
+    <credits>
+      <director>Ahsley Hoppin</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820173000 -0300" stop="20210820181500 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Alasca</title>
+    <title lang="en">Alaska Animal Rescue</title>
+    <desc lang="pt">Um porco-espinho de três patas no Wildlife Conservation Center do Alasca quer ser o rei da colina, enquanto uma garça azul luta para ser uma das poucas de sua espécie a retornar à natureza após passar pelo Alaska Raptor Center.(n)</desc>
+    <credits>
+      <director>Pamela Caragol Wells</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820181500 -0300" stop="20210820190000 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Incredible Dr. Pol</title>
+    <desc lang="pt">Nem tudo é diversão na clínica veterinária do Dr. Pol. Ser veterinário significa ajudar os animais debaixo de chuvas torrenciais.(n)</desc>
+    <credits>
+      <director>Ted Duvall</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S8 E5</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820194500 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Brasil Selvagem</title>
+    <desc lang="pt">A costa do Brasil Selvagem é uma das mais ricas e diversas do planeta. No entanto, sofre com ameaças de todos os lados.(n)</desc>
+    <credits>
+      <director>Cristian Dimitrius</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820194500 -0300" stop="20210820203000 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Quando os Predadores Atacam</title>
+    <title lang="en">When Predators Attack</title>
+    <desc lang="pt">Na natureza e nas nossas casas, as cobras são répteis formidáveis, usando venenos mortais e a capacidade de estrangulamento para derrotar suas presas e pessoas.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820203000 -0300" stop="20210820211500 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Quando os Predadores Atacam</title>
+    <title lang="en">When Predators Attack</title>
+    <desc lang="pt">Crocodilos são super répteis, antigos sobreviventes de tempos pré-históricos. Há mais de 200 milhões de anos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820211500 -0300" stop="20210820220000 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Quando os Predadores Atacam</title>
+    <title lang="en">When Predators Attack</title>
+    <desc lang="pt">Veja o que acontece quando ursos-negros, ursos-pardos e ursos polares entram em confronto com presas e com pessoas.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820224500 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Deserto Inundado</title>
+    <title lang="en">The Flooded Desert</title>
+    <desc lang="pt">Nas profundezas do deserto de Kalahari existe um pântano verde, uma joia vasta e aquosa que transforma os arredores.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820224500 -0300" stop="20210820233000 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Delta do Okavango</title>
+    <desc lang="pt">O Delta do Okavango. Todos os anos, a chegada de uma inundação transforma o deserto em um maravilhoso terreno aquático. É um dos habitats mais diversos da Terra.(n)</desc>
+    <credits>
+      <director>Janet Vissering</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820233000 -0300" stop="20210821001500 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Uganda</title>
+    <title lang="en">Wild Uganda</title>
+    <desc lang="pt">O coração de Uganda é um oásis para a vida selvagem. Mas os perigos aguardam inclusive no paraíso.(n)</desc>
+    <credits>
+      <director>Melanie Sams</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821001500 -0300" stop="20210821010000 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Os Vídeos Mais Divertidos</title>
+    <title lang="en">America's Funniest Home Videos</title>
+    <desc lang="pt">Um encontro terrível com um grande tubarão-branco, um filhote em um escorregador, um homem perseguido por um puma, uma gralha e um cão com ciúme de um casal feliz.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821010000 -0300" stop="20210821014500 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Clube da Luta Animal</title>
+    <desc lang="pt">Este episódio revela como mesmo as mais épicas batalhas podem ser vencidas ou perdidas em uma fração de segundo. No mundo das brigas de animais selvagens.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_clubedalutaanimal01.jpg" />
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821014500 -0300" stop="20210821023000 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Incredible Dr. Pol</title>
+    <desc lang="pt">Nem tudo é diversão na clínica veterinária do Dr. Pol. Ser veterinário significa ajudar os animais debaixo de chuvas torrenciais.(n)</desc>
+    <credits>
+      <director>Ted Duvall</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S8 E5</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821023000 -0300" stop="20210821031500 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Yukon</title>
+    <title lang="en">Dr Oakley</title>
+    <desc lang="pt">Na clínica, a Dra. Oakley examina os filhotes de Bindi para prepará-los para adoção.(n)</desc>
+    <credits>
+      <director>Breanna Hoepner</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_yukon01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821031500 -0300" stop="20210821040000 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Os Segredos do Zoológico</title>
+    <desc lang="pt">O mandril Kinshasa mostra sua verdadeira natureza, uma enorme bisão fêmea passa por um exame médico e uma jovem antilocapra caminha com orgulho.(n)</desc>
+    <credits>
+      <director>Ahsley Hoppin</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821040000 -0300" stop="20210821044500 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Alasca</title>
+    <title lang="en">Alaska Animal Rescue</title>
+    <desc lang="pt">Neste episódio, a equipe do Alaska Sealife Center ajuda uma lontra-marinha com uma braçadeira embutida em uma de suas patas.(n)</desc>
+    <credits>
+      <director>Pamela Caragol Wells</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821044500 -0300" stop="20210821053000 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Deserto Inundado</title>
+    <title lang="en">The Flooded Desert</title>
+    <desc lang="pt">Nas profundezas do deserto de Kalahari existe um pântano verde, uma joia vasta e aquosa que transforma os arredores.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821053000 -0300" stop="20210821061500 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Delta do Okavango</title>
+    <desc lang="pt">O Delta do Okavango. Todos os anos, a chegada de uma inundação transforma o deserto em um maravilhoso terreno aquático. É um dos habitats mais diversos da Terra.(n)</desc>
+    <credits>
+      <director>Janet Vissering</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821061500 -0300" stop="20210821070000 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Os Segredos Do Zoológico</title>
+    <desc lang="pt">No bioparque, os veterinários começam a marcar alguns cervos bebês da neve, ajudando a dobrar o número de um animal que está extinto na natureza.(n)</desc>
+    <credits>
+      <director>Jeanine Butler</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821070000 -0300" stop="20210821074500 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Europa Selvagem</title>
+    <title lang="en">Europe's New Wild</title>
+    <desc lang="pt">Na Itália e na Croácia, os esforços para salvar uma espécie rara de urso ajudam a fazer com que muitos outros animais e paisagens prosperem.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821074500 -0300" stop="20210821081500 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Os Segredos Do Zoológico</title>
+    <desc lang="pt">Vai ser uma semana muito agitada no Zoológico de Columbus com a chegada de recém-nascidos e uma cirurgia de emergência.(n)</desc>
+    <credits>
+      <director>Jeanine Butler</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821081500 -0300" stop="20210821090000 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Loucuras Animais</title>
+    <title lang="en">Animals Gone Wild 2</title>
+    <desc lang="pt">Um elefante aposta uma corrida com um carro de turistas. Uma leoa mostra que seus instintos naturais não podem ser domesticados. Um pequeno Chihuahua cuida de ladrões armados.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_loucurasanimais01.jpg" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821090000 -0300" stop="20210821094500 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Clínica Animal</title>
+    <title lang="en">Bugged Bunny</title>
+    <desc lang="pt">Esta equipe de veterinários enfrenta desafio após desafio, do mais particular ao mais bizarro.(n)</desc>
+    <credits>
+      <director>Ted Duvall</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_clinicaanimal01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821094500 -0300" stop="20210821103000 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Clínica Animal</title>
+    <title lang="en">Bugged Bunny</title>
+    <desc lang="pt">De filhotes constipados a sérias doenças e feias brigas, os cães que chegam à clínica estão tendo um dia difícil. A Clínica trata quase 40 mil pacientes caninos.(n)</desc>
+    <credits>
+      <director>Ted Duvall</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_clinicaanimal01.jpg" />
+    <episode-num system="onscreen">S6 E3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821103000 -0300" stop="20210821111500 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Clube da Luta Animal</title>
+    <desc lang="pt">Este episódio revela o que acontece quando as espécies mais ferozes do reino animal ficam cara a cara, e te leva para mais perto do que nunca de lutas cheias de adrenalina dos Estados Unidos e além.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_clubedalutaanimal01.jpg" />
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821111500 -0300" stop="20210821120000 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Deserto Inundado</title>
+    <title lang="en">The Flooded Desert</title>
+    <desc lang="pt">Nas profundezas do deserto de Kalahari existe um pântano verde, uma joia vasta e aquosa que transforma os arredores.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821120000 -0300" stop="20210821124500 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Delta do Okavango</title>
+    <desc lang="pt">O Delta do Okavango. Todos os anos, a chegada de uma inundação transforma o deserto em um maravilhoso terreno aquático. É um dos habitats mais diversos da Terra.(n)</desc>
+    <credits>
+      <director>Janet Vissering</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821124500 -0300" stop="20210821130000 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Planeta Hostil</title>
+    <desc lang="pt">A vida é uma luta constante até nos climas mais temperados. Para sobreviver nos habitats mais frios do mundo, os Senhores do Gelo têm corpos e comportamentos aprimorados.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821130000 -0300" stop="20210821142200 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Filhotes Do Zoológico</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821142200 -0300" stop="20210821150700 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Filhotes Do Zoológico</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821150700 -0300" stop="20210821155200 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Amizades Insólitas</title>
+    <title lang="en">Unlikely Animal Friend: 04</title>
+    <desc lang="pt">Este episódio inclui uma cabra que é melhor amiga de um porco; um cão que ama passear nas costas de um pônei; uma mulher que ajudou a salvar e a vestir uma águia do Alasca com uma prótese de bico.(n)</desc>
+    <credits>
+      <director>David M. Frank</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/amizadesinsolitas01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821155200 -0300" stop="20210821163700 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Amizades Insólitas</title>
+    <title lang="en">Unlikely Animal Friend: 03</title>
+    <desc lang="pt">Este episódio de Amizades Insólitas conta com histórias emocionantes de laços inquebráveis formados entre dois animais de espécies diferentes, ou um animal e um amigo humano.(n)</desc>
+    <credits>
+      <director>David M. Frank</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/amizadesinsolitas01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821163700 -0300" stop="20210821172200 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Amizades Insólitas</title>
+    <title lang="en">Unlikely Animal Friend: 01</title>
+    <desc lang="pt">Este episódio de Amizades Insólitas conta com histórias emocionantes de laços inquebráveis formados entre dois animais de espécies diferentes, ou um animal e um amigo humano.(n)</desc>
+    <credits>
+      <director>David M. Frank</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/amizadesinsolitas01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821172200 -0300" stop="20210821180700 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Amizades Insólitas</title>
+    <title lang="en">Unlikely Animal Friend: 02</title>
+    <desc lang="pt">Este episódio de Amizades Insólitas conta com histórias emocionantes de laços inquebráveis formados entre dois animais de espécies diferentes, ou um animal e um amigo humano.(n)</desc>
+    <credits>
+      <director>David M. Frank</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/amizadesinsolitas01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821180700 -0300" stop="20210821184500 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Amizades Insólitas</title>
+    <title lang="en">Unlikely Animal Friend: 06</title>
+    <desc lang="pt">Amizades Insólitas conta com histórias emocionantes de laços inquebráveis formados entre dois animais de espécies diferentes, ou um animal e um amigo humano.(n)</desc>
+    <credits>
+      <director>David M. Frank</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/amizadesinsolitas01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821184500 -0300" stop="20210821191000 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Em Busca das Cobras</title>
+    <desc lang="pt">RATO e VINI vão em busca da Sucuri Verde, uma das maiores cobras do mundo. Capturá-la não será fácil!(n)</desc>
+    <credits>
+      <director>Rafael Calil</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821191000 -0300" stop="20210821193000 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Em Busca das Cobras</title>
+    <desc lang="pt">RATO e VINI vão em busca da Caninana, que tem fama de briguenta, mas não é venenosa. Para provar que ela é inofensiva.(n)</desc>
+    <credits>
+      <director>Rafael Calil</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821193000 -0300" stop="20210821201500 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">SOS Cobra</title>
+    <title lang="en">Snakes in The City</title>
+    <desc lang="pt">Simon está ocupado com uma enorme mamba-negra que não quer ser pega, uma cobra escondida em um quarto cheio de bolsas velhas e uma cobra em um carro.(n)</desc>
+    <credits>
+      <director>Benjamin Hewett</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_soscobra01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E5</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821201500 -0300" stop="20210821210000 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Alasca</title>
+    <title lang="en">Alaska Animal Rescue</title>
+    <desc lang="pt">Uma equipe do Alaska Wildlife Conservation Center ajuda um urso-negro a preparar sua toca para a hibernação.(n)</desc>
+    <credits>
+      <director>Pamela Caragol Wells</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821210000 -0300" stop="20210821214500 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Ilhas de Gelo</title>
+    <title lang="en">Frozen Islands</title>
+    <desc lang="pt">Nos oceanos Atlântico Sul e Índico, entre as latitudes de 40 e 60 graus sul, há uma diversidade de pequenas ilhas inóspitas que são cruciais para a sobrevivência de milhões de criaturas marinhas.(n)</desc>
+    <credits>
+      <director>Breanna Hoepner-cowe</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821214500 -0300" stop="20210821223000 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Ilhas de Gelo</title>
+    <title lang="en">Frozen Islands</title>
+    <desc lang="pt">As ilhas situadas nos oceanos Índico Sul e Pacífico são tão remotas que o homem quase nunca põe seus pés por lá.(n)</desc>
+    <credits>
+      <director>Breanna Hoepner-cowe</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821223000 -0300" stop="20210821231500 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Lapônia Selvagem</title>
+    <title lang="en">Wild Lapland</title>
+    <desc lang="pt">Um retrato lírico das encantadoras criaturas selvagens que vivem na Lapônia.(n)</desc>
+    <credits>
+      <director>Pam Caragol Wells</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Áustria</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821231500 -0300" stop="20210822000000 -0300" channel="NatGeo Wild HD">
+    <title lang="pt">Clínica Animal</title>
+    <title lang="en">Bugged Bunny</title>
+    <desc lang="pt">Esta equipe de veterinários enfrenta desafio após desafio, do mais particular ao mais bizarro.(n)</desc>
+    <credits>
+      <director>Ted Duvall</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_clinicaanimal01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
 </tv>
