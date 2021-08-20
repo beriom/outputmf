@@ -53822,4 +53822,747 @@
       <value>12</value>
     </rating>
   </programme>
+  <programme start="20210820092200 -0300" stop="20210820101400 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Vivendo com o Inimigo</title>
+    <title lang="en">Evil Lives Here</title>
+    <desc lang="pt">Vickie nem se surpreendeu quando o filho avisou que a polícia poderia aparecer procurando por ele. Mas desta vez ela sentiu que seria diferente. Há limite para o amor de mãe, quando o filho é acusado do mal maior?(n)</desc>
+    <credits>
+      <director>Joel Pincosy</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_vivendocomoinimigo01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E18</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820101400 -0300" stop="20210820110600 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Amor, Mortal Amor</title>
+    <title lang="en">Til Death Do Us Part</title>
+    <desc lang="pt">Cynthia e David sentiram uma conexão imediata ao se conhecer, o perfeito exemplo de "opostos que se atraem". Mas uma doença trágica colocará à prova seus votos de casamento.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820110600 -0300" stop="20210820115800 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Amor, Mortal Amor</title>
+    <title lang="en">Til Death Do Us Part</title>
+    <desc lang="pt">Hope se muda para Oklahoma para se casar com Jerry Meek, mas o relacionamento desmorona depois do nascimento dos filhos. Na noite de 21 de fevereiro de 2002, a família é vítima de uma série de crimes misteriosos.(n)</desc>
+    <credits>
+      <director>Bill Thomas</director>
+      <actor>Ronan Summers</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820115800 -0300" stop="20210820125000 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">DNA Criminoso</title>
+    <title lang="en">Evil Kin</title>
+    <desc lang="pt">Quando uma jovem de Utah foi sequestrada e morta, ninguém imaginou que seria o começo de uma onda de homicídios, provocada por uma família que viajou por dois anos deixando um rastro de corpos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820125000 -0300" stop="20210820134200 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">DNA Criminoso</title>
+    <title lang="en">Evil Kin</title>
+    <desc lang="pt">A fazenda da família era o playground dos irmãos Harpe, até virar o local do assassinato de seus pais. Depois, os irmãos aprenderam a matar e viraram os primeiros serial killers dos Estados Unidos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820134200 -0300" stop="20210820143400 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">DNA Criminoso</title>
+    <title lang="en">Evil Kin</title>
+    <desc lang="pt">Uma família perfeita adotou Jeff Landrigan, mas ninguém poderia imaginar o poder dos genes. Mesmo sem conhecer seu pai biológico, Jeff seguiu o mesmo caminho de morte e destruição traçado por ele.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820143400 -0300" stop="20210820152500 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Irmãs Perversas</title>
+    <title lang="en">Twisted Sisters</title>
+    <desc lang="pt">Quando um marido galanteador desaparece, a polícia logo desconfia de um assassinato. As suspeitas recaem sobre a esposa e a cunhada da vítima.(n)</desc>
+    <credits>
+      <actor>Sarah Marie Casey</actor>
+      <actor>Stuart Todd Martin</actor>
+      <actor>James M Tweedie</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820152500 -0300" stop="20210820161700 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Irmãs Perversas</title>
+    <title lang="en">Twisted Sisters</title>
+    <desc lang="pt">Uma amizade de infância entre duas gêmeas idênticas e um garoto da vizinhança evolui para um triângulo amoroso na vida adulta. O romance turbulento termina de forma trágica.(n)</desc>
+    <credits>
+      <actor>R Scott Hoffman</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820161700 -0300" stop="20210820170800 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">People Magazine</title>
+    <title lang="en">People Magazine Investigates</title>
+    <desc lang="pt">Uma comunidade de Washington fica abalada quando Mechele Linehan é presa por um assassinato ocorrido há uma década no Alasca. Surgem detalhes de um passado sórdido, mas essa mãe suburbana será mesmo uma assassina impiedosa?(n)</desc>
+    <credits>
+      <director>Stephen Schuster</director>
+      <actor>Gary M. Black</actor>
+      <actor>Michael DeBartolo</actor>
+      <actor>Ford Fanter</actor>
+      <actor>Jenn Gulotta</actor>
+      <actor>Tommy Gunns</actor>
+      <actor>Steve Helling</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_peoplemagazine01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820170800 -0300" stop="20210820180000 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">O Crime Quase Perfeito</title>
+    <title lang="en">The Perfect Murder</title>
+    <desc lang="pt">Uma mãe de Orlando desaparece 15 anos depois de ter abandonado um marido abusivo. Ela fugiu da polícia depois de sacar o dinheiro da pensão do marido durante anos ou voltou para se vingar?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ocrimequaseperfeito01.jpg" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820185100 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Intruso Assassino</title>
+    <title lang="en">Stranger Among Us</title>
+    <desc lang="pt">Quando três membros respeitados de uma comunidade de fazendeiros que produz árvores de Natal são mortos a tiros, os moradores locais receiam que um assassino impiedoso esteja entre eles.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820185100 -0300" stop="20210820194300 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Intruso Assassino</title>
+    <title lang="en">Stranger Among Us</title>
+    <desc lang="pt">Quando um médico é torturado e morto em Chicago, seus colegas de profissão se perguntam se o assassino faz parte de um grupo restrito de médicos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820194300 -0300" stop="20210820203400 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Intruso Assassino</title>
+    <title lang="en">Stranger Among Us</title>
+    <desc lang="pt">Depois que uma mulher reencontra a família após anos sem contato, um bairro na Flórida é abalado por escândalos, traições e um duplo assassinato.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820203400 -0300" stop="20210820212500 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Intruso Assassino</title>
+    <title lang="en">Stranger Among Us</title>
+    <desc lang="pt">Um grupo de bombeiros da Virgínia Ocidental descobre que um incêndio suspeito esconde um triplo assassinato.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820212500 -0300" stop="20210820221700 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Amor, Mortal Amor</title>
+    <title lang="en">Til Death Do Us Part</title>
+    <desc lang="pt">Chris e Teresa parecem feitos um para o outro. Até que o desaparecimento de um deles leva a cinco meses infernais para todos, e um final chocante e revelador.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820221700 -0300" stop="20210820230900 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Amor, Mortal Amor</title>
+    <title lang="en">Til Death Do Us Part</title>
+    <desc lang="pt">Em 2014, a polícia encontra um cadáver em um trailer em Winona, Missouri. Os proprietários, Jason e Stephanie McClurg, enfrentavam dificuldades sérias, mas ninguém esperava que uma discussão do casal terminaria em assassinato.(n)</desc>
+    <credits>
+      <director>Bill Thomas</director>
+      <actor>Ronan Summers</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820230900 -0300" stop="20210820233500 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Adotados</title>
+    <desc lang="pt">Em Israel, uma mulher quer adotar uma criança, mas não consegue por ser solteira. Ela parte para o Brasil em uma arriscada viagem para realizar seu sonho. E também: em Tel Aviv, um casal lida com a crise de sua filha de 10 anos.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820233500 -0300" stop="20210821000100 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Adotados</title>
+    <desc lang="pt">Uma ligação no meio da noite muda para sempre a vida de um casal e dá início a uma jornada misteriosa entre Brasil e Paraguai. E também: uma jovem viaja de Israel para o Brasil em busca da verdade sobre seu nascimento.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821000100 -0300" stop="20210821005300 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Pecados Mortais</title>
+    <title lang="en">Deadly Sins</title>
+    <desc lang="pt">Movida pela ira, uma dona de casa passa a aterrorizar todos ao seu redor e se envolve em vários assassinatos. Um homem pacato transforma a vida da esposa em um verdadeiro inferno.(n)</desc>
+    <credits>
+      <director>Todd Hilyard</director>
+      <actor>Darren Kavinoky</actor>
+      <actor>Judy Ho</actor>
+      <actor>Russell Becker</actor>
+      <actor>Nicola Hamilton</actor>
+      <actor>Jamie Avera</actor>
+      <actor>Sophia Eileen Martin</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E7</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821005300 -0300" stop="20210821014500 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Pecados Mortais</title>
+    <title lang="en">Deadly Sins</title>
+    <desc lang="pt">Uma esposa instável deixa um rastro de destruição à sua passagem. Um namorado que abusa de esteroides perde o controle, e um homem que escapou a uma condenação explode com uma ira imprevisível.(n)</desc>
+    <credits>
+      <director>Erik S. Weigel</director>
+      <actor>Darren Kavinoky</actor>
+      <actor>Mat Duey</actor>
+      <actor>Matthew Café</actor>
+      <actor>Amanda Godepski</actor>
+      <actor>Jon Gillette</actor>
+      <actor>Ashley Nyman</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E8</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821014500 -0300" stop="20210821023600 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Pecados Mortais</title>
+    <title lang="en">Deadly Sins</title>
+    <desc lang="pt">Uma esposa desprezada se vinga cometendo um crime terrível, mas acaba pagando um preço alto demais. Uma combinação de ganância e desejo transforma um casamento recente num inferno.(n)</desc>
+    <credits>
+      <director>Erik S. Weigel</director>
+      <actor>Darren Kavinoky</actor>
+      <actor>Mat Duey</actor>
+      <actor>Matthew Café</actor>
+      <actor>Amanda Godepski</actor>
+      <actor>Jon Gillette</actor>
+      <actor>Ashley Nyman</actor>
+      <actor>Bianca Alexa</actor>
+      <actor>Braeden Baade</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E9</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821023600 -0300" stop="20210821032700 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Intruso Assassino</title>
+    <title lang="en">Stranger Among Us</title>
+    <desc lang="pt">Depois que uma mulher reencontra a família após anos sem contato, um bairro na Flórida é abalado por escândalos, traições e um duplo assassinato.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821032700 -0300" stop="20210821041800 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Intruso Assassino</title>
+    <title lang="en">Stranger Among Us</title>
+    <desc lang="pt">Um grupo de bombeiros da Virgínia Ocidental descobre que um incêndio suspeito esconde um triplo assassinato.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821041800 -0300" stop="20210821050900 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Amor, Mortal Amor</title>
+    <title lang="en">Til Death Do Us Part</title>
+    <desc lang="pt">Chris e Teresa parecem feitos um para o outro. Até que o desaparecimento de um deles leva a cinco meses infernais para todos, e um final chocante e revelador.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821050900 -0300" stop="20210821060000 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Amor, Mortal Amor</title>
+    <title lang="en">Til Death Do Us Part</title>
+    <desc lang="pt">Em 2014, a polícia encontra um cadáver em um trailer em Winona, Missouri. Os proprietários, Jason e Stephanie McClurg, enfrentavam dificuldades sérias, mas ninguém esperava que uma discussão do casal terminaria em assassinato.(n)</desc>
+    <credits>
+      <director>Bill Thomas</director>
+      <actor>Ronan Summers</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821065000 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">O Crime Quase Perfeito</title>
+    <title lang="en">The Perfect Murder</title>
+    <desc lang="pt">A polícia encontra o corpo carbonizado de Kimberly Antonakos, de 20 anos, em um incêndio no Bronx. Os suspeitos são um namorado instável e seu pai, mas a verdade é bem mais trágica.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ocrimequaseperfeito01.jpg" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821065000 -0300" stop="20210821074000 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">O Crime Quase Perfeito</title>
+    <title lang="en">The Perfect Murder</title>
+    <desc lang="pt">Uma judia ortodoxa encontra a filha estrangulada. Ela era assediada por um ex-namorado e marcava encontros pela internet, mas o verdadeiro assassino está mais perto do que todos imaginam.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ocrimequaseperfeito01.jpg" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821074000 -0300" stop="20210821083000 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">O Crime Quase Perfeito</title>
+    <title lang="en">The Perfect Murder</title>
+    <desc lang="pt">Quando um executivo da Exxon desaparece, a polícia recebe um pedido de resgate de uma organização ecoterrorista. Durante as negociações, o comportamento do sequestrador fica cada vez mais bizarro.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ocrimequaseperfeito01.jpg" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821083000 -0300" stop="20210821092200 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">O Crime Quase Perfeito</title>
+    <title lang="en">The Perfect Murder</title>
+    <desc lang="pt">A polícia descobre que um empresário morto a tiros estava cheio de dívidas. Sua esposa o teria matado para receber o dinheiro do seguro? Teria ele planejado tudo para que a família não ficasse desamparada?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ocrimequaseperfeito01.jpg" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821092200 -0300" stop="20210821101400 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">O Crime Quase Perfeito</title>
+    <title lang="en">The Perfect Murder</title>
+    <desc lang="pt">Uma mulher é assassinada em 1981. Seus filhos viram um suspeito mascarado fugindo do local do crime. Seria o assassino seu ex-marido ou um vizinho cuja arma foi supostamente roubada?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ocrimequaseperfeito01.jpg" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821101400 -0300" stop="20210821110600 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">O Crime Quase Perfeito</title>
+    <title lang="en">The Perfect Murder</title>
+    <desc lang="pt">Uma mãe solteira é morta a facadas em Cape Cod. Teria sido o pai de seu filho, esposa dele ou a namorada viciada de seu pai? Nessa pequena cidade, todos são suspeitos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ocrimequaseperfeito01.jpg" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821110600 -0300" stop="20210821115800 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">O Crime Quase Perfeito</title>
+    <title lang="en">The Perfect Murder</title>
+    <desc lang="pt">Uma mãe de Orlando desaparece 15 anos depois de ter abandonado um marido abusivo. Ela fugiu da polícia depois de sacar o dinheiro da pensão do marido durante anos ou voltou para se vingar?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ocrimequaseperfeito01.jpg" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821115800 -0300" stop="20210821125000 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">O Crime Quase Perfeito</title>
+    <title lang="en">The Perfect Murder</title>
+    <desc lang="pt">Quando Karen Gregory é estuprada e esfaqueada na casa de seu namorado na Flórida, o detetive Larry Tosi pede a ajuda de um amigo bombeiro para solucionar o crime e faz uma terrível descoberta.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ocrimequaseperfeito01.jpg" />
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821125000 -0300" stop="20210821134200 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">O Crime Quase Perfeito</title>
+    <title lang="en">The Perfect Murder</title>
+    <desc lang="pt">Uma mulher é encontrada morta num quarto de hotel. O marido da vítima acredita que o assassino é seu amante, mas a revelação de uma prostituta provoca uma reviravolta nas investigações.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ocrimequaseperfeito01.jpg" />
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821134200 -0300" stop="20210821143400 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">O Crime Quase Perfeito</title>
+    <title lang="en">The Perfect Murder</title>
+    <desc lang="pt">Uma jovem grávida é estuprada e espancada na Califórnia. Um assassino famoso é o principal suspeito, mas quando a vítima recupera a memória, ela culpa o próprio marido pelo crime.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ocrimequaseperfeito01.jpg" />
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821143400 -0300" stop="20210821152500 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">O Crime Quase Perfeito</title>
+    <title lang="en">The Perfect Murder</title>
+    <desc lang="pt">O astro do Washington Redskins, Sean Taylor, é morto a tiros por um intruso em sua casa em Miami. Em crimes envolvendo ricos e famosos, parece que todos têm um motivo.(n)</desc>
+    <credits>
+      <actor>Jade Elysan</actor>
+      <actor>Patrick Pitu</actor>
+      <actor>Eugene Avella</actor>
+      <actor>Mary Ashley</actor>
+      <actor>Peter Barkouras</actor>
+      <actor>Richard Barowski</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ocrimequaseperfeito01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821152500 -0300" stop="20210821161700 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">O Crime Quase Perfeito</title>
+    <title lang="en">The Perfect Murder</title>
+    <desc lang="pt">Raquel Calderin, de 42 anos, desaparece a caminho de casa em 2012. A investigação leva os detetives a descobrir um perturbador histórico familiar - e a verdade ira assombrá-los durante anos.(n)</desc>
+    <credits>
+      <actor>Jade Elysan</actor>
+      <actor>Patrick Pitu</actor>
+      <actor>Eugene Avella</actor>
+      <actor>Mary Ashley</actor>
+      <actor>Peter Barkouras</actor>
+      <actor>Richard Barowski</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ocrimequaseperfeito01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821161700 -0300" stop="20210821170800 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">O Crime Quase Perfeito</title>
+    <title lang="en">The Perfect Murder</title>
+    <desc lang="pt">O vendedor de carros Christopher O'Brien, leva um estranho para um test drive e desaparece. O passado de crimes teria cobrado seu preço? Ou a verdade é ainda mais sinistra?(n)</desc>
+    <credits>
+      <actor>Jade Elysan</actor>
+      <actor>Patrick Pitu</actor>
+      <actor>Eugene Avella</actor>
+      <actor>Mary Ashley</actor>
+      <actor>Peter Barkouras</actor>
+      <actor>Richard Barowski</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ocrimequaseperfeito01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821170800 -0300" stop="20210821180000 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">O Crime Quase Perfeito</title>
+    <title lang="en">The Perfect Murder</title>
+    <desc lang="pt">Adrienne Shelly é encontrada enforcada no banheiro. Parece suicídio, mas seu marido insiste que foi assassinato - e os detetives começam a acreditar nele.(n)</desc>
+    <credits>
+      <director>Kevin Kaufman</director>
+      <actor>Jeff Alley</actor>
+      <actor>Jose Amezquita</actor>
+      <actor>Robert Berlin</actor>
+      <actor>Emelia Brawn</actor>
+      <actor>Matthew L. Brown</actor>
+      <actor>Anthony Caravana</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ocrimequaseperfeito01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821180000 -0300" stop="20210821185100 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">O Crime Quase Perfeito</title>
+    <title lang="en">The Perfect Murder</title>
+    <desc lang="pt">O fotográfo de moda Joel Schoenfeld é morto a tiros em seu estúdio em Greenwich Village, Nova York. Durante a investigação, detetives descobrem um segredo sombrio e uma história de vingança.(n)</desc>
+    <credits>
+      <director>Laura Zaboras</director>
+      <actor>Juan Ayala</actor>
+      <actor>Joe Bello</actor>
+      <actor>Lauren Biazzo</actor>
+      <actor>Louis Anthony Colello</actor>
+      <actor>Lance Coughlin</actor>
+      <actor>Matt Garafalo</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ocrimequaseperfeito01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821185100 -0300" stop="20210821194300 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">O Crime Quase Perfeito</title>
+    <title lang="en">The Perfect Murder</title>
+    <desc lang="pt">Robert Schwartz, pai de três filhos, é esfaqueado 32 vezes e tem um X riscado o pescoço. Parece ser um homicídio ritualístico, mas a investigação revela que o assassino conhecia bem a vítima.(n)</desc>
+    <credits>
+      <director>Kevin Kaufman</director>
+      <director>Laura Zaboras</director>
+      <actor>David Denowitz</actor>
+      <actor>Leah Barker</actor>
+      <actor>Trevor Jones</actor>
+      <actor>Pete Panuccio</actor>
+      <actor>Connor Dylan</actor>
+      <actor>Jamie Flanagan</actor>
+      <actor>Robyn Babina</actor>
+      <actor>Joe Belllo</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ocrimequaseperfeito01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E6</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821194300 -0300" stop="20210821203400 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">O Crime Quase Perfeito</title>
+    <title lang="en">The Perfect Murder</title>
+    <desc lang="pt">Professora da pré-escola, Julie Love desaparece uma semana depois de ficar noiva do namorado, Mark. Os detetives investigam vários suspeitos, mas a verdade é pior do que imaginavam.(n)</desc>
+    <credits>
+      <director>Kevin Kaufman</director>
+      <director>Laura Zaboras</director>
+      <actor>Bobby Alongi</actor>
+      <actor>Christopher Anderson</actor>
+      <actor>Noelia Antweiler</actor>
+      <actor>Gavin Bazalar</actor>
+      <actor>Evan T. Cannon</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ocrimequaseperfeito01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821203400 -0300" stop="20210821212500 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">O Crime Quase Perfeito</title>
+    <title lang="en">The Perfect Murder</title>
+    <desc lang="pt">Robert Schwartz, pai de três filhos, é esfaqueado 32 vezes e tem um X riscado o pescoço. Parece ser um homicídio ritualístico, mas a investigação revela que o assassino conhecia bem a vítima.(n)</desc>
+    <credits>
+      <actor>Laura Frenzer</actor>
+      <actor>Rhianna Radick</actor>
+      <actor>William Ryder</actor>
+      <actor>Jeffrey Vincent Thompson</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ocrimequaseperfeito01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821212500 -0300" stop="20210821221700 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">O Crime Quase Perfeito</title>
+    <title lang="en">The Perfect Murder</title>
+    <desc lang="pt">Professora da pré-escola, Julie Love desaparece uma semana depois de ficar noiva do namorado, Mark. Os detetives investigam vários suspeitos, mas a verdade é pior do que imaginavam.(n)</desc>
+    <credits>
+      <director>Kevin Kaufman</director>
+      <director>Laura Zaboras</director>
+      <actor>Danny Agan</actor>
+      <actor>Alexandru Aldea</actor>
+      <actor>Erica Becker</actor>
+      <actor>Carly Belko</actor>
+      <actor>Tiffan Borelli</actor>
+      <actor>Negesti Brown</actor>
+      <actor>Robert fantone</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ocrimequaseperfeito01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E9</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821221700 -0300" stop="20210821230900 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">O Crime Quase Perfeito</title>
+    <title lang="en">The Perfect Murder</title>
+    <desc lang="pt">Quando a família de Randy Scheffield o encontra morto na cama, a primeira hipótese é um infarto. Mas a polícia descobre uma conspiração de assassinato que abalará sua pequena cidade.(n)</desc>
+    <credits>
+      <director>Kevin Kaufman</director>
+      <director>Laura Zaboras</director>
+      <actor>Danny Agan</actor>
+      <actor>Alexandru Aldea</actor>
+      <actor>Erica Becker</actor>
+      <actor>Carly Belko</actor>
+      <actor>Tiffan Borelli</actor>
+      <actor>Negesti Brown</actor>
+      <actor>Robert fantone</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ocrimequaseperfeito01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821230900 -0300" stop="20210822000100 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">O Crime Quase Perfeito</title>
+    <title lang="en">The Perfect Murder</title>
+    <desc lang="pt">Henry Diaz desaparece na noite anterior a uma viagem de férias. Os inimigos nos negócios são os primeiros suspeitos, mas primeiro, a polícia precisa encontrar o corpo do empresário.(n)</desc>
+    <credits>
+      <director>Kevin Kaufman</director>
+      <actor>Jade Elysan</actor>
+      <actor>Patrick Pitu</actor>
+      <actor>Eugene Avella</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ocrimequaseperfeito01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
 </tv>
