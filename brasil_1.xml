@@ -241,6 +241,7 @@
   </channel>
   <channel id="Globo News HD">
     <display-name lang="pt">Globo News HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/globonews.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Globo Nordeste">
@@ -33355,6 +33356,325 @@
     <country lang="pt">Reino Unido</country>
     <rating system="BR">
       <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820130000 -0300" stop="20210820160000 -0300" channel="Globo News HD">
+    <title lang="pt">Estúdio i - Ao Vivo</title>
+    <desc lang="pt">Entretenimento. Artistas e comentaristas discutem as principais notícias do dia. Interatividade com o público.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/estudioi01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820160000 -0300" stop="20210820180000 -0300" channel="Globo News HD">
+    <title lang="pt">Jornal GloboNews - Edição das 16h - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo.(n)</desc>
+    <credits>
+      <actor>Christiane Pelajo</actor>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/jornalglobonews16h01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820200000 -0300" channel="Globo News HD">
+    <title lang="pt">Jornal GloboNews - Edição das 18h</title>
+    <desc lang="pt">Cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no Mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/jornalglobonews18h01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820220000 -0300" channel="Globo News HD">
+    <title lang="pt">GloboNews em Pauta</title>
+    <desc lang="pt">Telejornal diário, com comentaristas que aprofundam as notícias do dia, com um convidado no estúdio. Destaque para política, cenário internacional e cultura.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/globonewsempauta01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820233000 -0300" channel="Globo News HD">
+    <title lang="pt">Jornal das Dez</title>
+    <desc lang="pt">Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/jornaldasdez01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820233000 -0300" stop="20210821000000 -0300" channel="Globo News HD">
+    <title lang="pt">Diálogos com Mario Sergio Conti</title>
+    <desc lang="pt">Programa de entrevistas, sobre temas políticos, culturais, artísticos, científicos e sociais, sempre da atualidade.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/dialogos01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821000000 -0300" stop="20210821013000 -0300" channel="Globo News HD">
+    <title lang="pt">Jornal Globonews - Edição da Meia-Noite - Ao Vivo</title>
+    <desc lang="pt">O que foi destaque ao longo do dia e o que será manchete amanhã.(n)</desc>
+    <credits>
+      <actor>Erick Bang</actor>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/jornalglobonews12h01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821013000 -0300" stop="20210821030000 -0300" channel="Globo News HD">
+    <title lang="pt">Jornal GloboNews - Edição das 18h</title>
+    <desc lang="pt">Cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no Mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/jornalglobonews18h01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821030000 -0300" stop="20210821033000 -0300" channel="Globo News HD">
+    <title lang="pt">Jornal Globonews - Edição das 03h - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821033000 -0300" stop="20210821050000 -0300" channel="Globo News HD">
+    <title lang="pt">GloboNews em Pauta</title>
+    <desc lang="pt">Telejornal diário, com comentaristas que aprofundam as notícias do dia, com um convidado no estúdio. Destaque para política, cenário internacional e cultura.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/globonewsempauta01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821050000 -0300" stop="20210821060000 -0300" channel="Globo News HD">
+    <title lang="pt">Jornal das Dez</title>
+    <desc lang="pt">Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/jornaldasdez01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821070000 -0300" channel="Globo News HD">
+    <title lang="pt">Jornal Globonews - Edição das 06h - Ao Vivo</title>
+    <desc lang="pt">As notícias mais importantes do início do dia com correspondentes ao vivo, os assuntos econômicos e políticos, tudo para o assinante sair de casa informado.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/jornalglobonews06h01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821070000 -0300" stop="20210821080000 -0300" channel="Globo News HD">
+    <title lang="pt">Jornal Globonews - Edição das 07h - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_jornalglobonewsedicaodas07h01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821080000 -0300" stop="20210821090000 -0300" channel="Globo News HD">
+    <title lang="pt">Jornal Globonews - Edição das 08h - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_jornalglobonewsedicaodas08h01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821090000 -0300" stop="20210821100000 -0300" channel="Globo News HD">
+    <title lang="pt">Globo Repórter</title>
+    <desc lang="pt">Programa de reportagens com foco em comportamento, aventura, ciência e natureza. Apresenta destinos do Brasil e do mundo, além de novas pesquisas nas áreas de saúde e tecnologia.(n)</desc>
+    <credits>
+      <director>Silvia Sayão</director>
+      <actor>Glória Maria e Sandra Annenberg</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/globoreporter01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821100000 -0300" stop="20210821123000 -0300" channel="Globo News HD">
+    <title lang="pt">Jornal GloboNews - Edição das 10h - Ao Vivo</title>
+    <desc lang="pt">Notícias da manhã, debates interativos, previsão do tempo, prestação de serviços e colunas: consumidor, tecnologia, profissões, cultura e as datas marcantes.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/jornalglobonews10h01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821123000 -0300" stop="20210821133000 -0300" channel="Globo News HD">
+    <title lang="pt">Jornal Globonews - Edição da Meio-Dia - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo.(n)</desc>
+    <credits>
+      <director>Ali Kamel</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821133000 -0300" stop="20210821140000 -0300" channel="Globo News HD">
+    <title lang="pt">Papo de Política</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821140000 -0300" stop="20210821150000 -0300" channel="Globo News HD">
+    <title lang="pt">Jornal GloboNews - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/jornalglobonews01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821150000 -0300" stop="20210821161000 -0300" channel="Globo News HD">
+    <title lang="pt">Jornal Globonews - Edição das 15h - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_jornalglobonewsedicaodas15h01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821161000 -0300" stop="20210821170000 -0300" channel="Globo News HD">
+    <title lang="pt">Profissão Repórter</title>
+    <desc lang="pt">Sob o comando de Caco Barcellos, equipe de jovens repórteres busca os bastidores da notícia e o telespectador confere todas as dificuldades da profissão.(n)</desc>
+    <credits>
+      <director>Ali Kamel</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/profissaoreporter01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821170000 -0300" stop="20210821180000 -0300" channel="Globo News HD">
+    <title lang="pt">Jornal GloboNews - Edição das 17h - Ao Vivo</title>
+    <desc lang="pt">Direto do Estúdio da GloboNews, em São Paulo, o Edição das 16 horas traz as principais notícias da tarde e a repercussão no Brasil e no mundo de todos os assuntos do dia.(n)</desc>
+    <credits>
+      <actor>Christiane Pelajo</actor>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821180000 -0300" stop="20210821200000 -0300" channel="Globo News HD">
+    <title lang="pt">Jornal GloboNews - Edição das 18h</title>
+    <desc lang="pt">Cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no Mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/jornalglobonews18h01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821200000 -0300" stop="20210821210000 -0300" channel="Globo News HD">
+    <title lang="pt">Jornal GloboNews - Edição das 20h - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_jornalglobonewsedicaodas20h01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821210000 -0300" stop="20210821220000 -0300" channel="Globo News HD">
+    <title lang="pt">Globo Repórter</title>
+    <desc lang="pt">Programa de reportagens com foco em comportamento, aventura, ciência e natureza. Apresenta destinos do Brasil e do mundo, além de novas pesquisas nas áreas de saúde e tecnologia.(n)</desc>
+    <credits>
+      <director>Silvia Sayão</director>
+      <actor>Glória Maria e Sandra Annenberg</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/globoreporter01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821220000 -0300" stop="20210821230000 -0300" channel="Globo News HD">
+    <title lang="pt">Jornal das Dez</title>
+    <desc lang="pt">Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/jornaldasdez01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821230000 -0300" stop="20210822000000 -0300" channel="Globo News HD">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Com experiência de décadas de reportagem e o espírito curioso pela história do outro, Pedro Bial apresenta um amplo espaço para escutar, opinar e multiplicar opiniões.(n)</desc>
+    <credits>
+      <director>Monica Almeida</director>
+      <actor>Pedro Bial</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/conversacombial01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>12</value>
     </rating>
   </programme>
 </tv>
