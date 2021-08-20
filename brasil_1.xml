@@ -135,10 +135,12 @@
   </channel>
   <channel id="Discovery Kids HD">
     <display-name lang="pt">Discovery Kids HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/discoverykidshd.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Discovery Science HD">
     <display-name lang="pt">Discovery Science HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/discoveryscience.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Discovery Turbo HD">
@@ -4853,6 +4855,657 @@
     <category lang="pt">Culinária</category>
     <rating system="BR">
       <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820163900 -0300" stop="20210820164400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820164400 -0300" stop="20210820171100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820171100 -0300" stop="20210820171200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mundo Ripilica</title>
+    <desc lang="pt">É o aniversário de Zep e Donna e Lilica querem muito agradar esse grande amigo! O melhor amigo de todos! Mas Donna fica um pouco enciumada: 'melhor amigo de todos?'.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <episode-num system="onscreen">E23</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820171200 -0300" stop="20210820171700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Quando a música dos Baby Rockers chega ao espaço, os marcianos se tornam seus fãs número 1. Os bebês precisam construir uma espaçonave para dar um concerto do outro mundo.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <episode-num system="onscreen">E18</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820171700 -0300" stop="20210820172200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Dolores cria uma máquina de clonagem para ajudá-la nas tarefas da creche. Mas um pequeno defeito leva os clones a se apaixonarem pela música dos Baby Rockers.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <episode-num system="onscreen">E22</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820172200 -0300" stop="20210820172700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">O bebê Ninja chega à creche fazendo estrago. Para poder recuperar seus instrumentos do cofre de segurança máxima de Dolores, os bebês serão treinados em artes ninjas.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <episode-num system="onscreen">E24</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820172700 -0300" stop="20210820173200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820173200 -0300" stop="20210820174100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Está na hora de tirar a foto oficial. Dolores consegue finalmente ver o rosto de Fuz, fica meio hipnotizada e os bebês começam a se aproveitar dessa vantagem.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <country lang="pt">Argentina</country>
+    <episode-num system="onscreen">E28</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820174100 -0300" stop="20210820174600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Dolores usa um aplicativo para monitorar o nível de exercícios dos bebês, mas os bebês estão com sono e farão de tudo para evitar a academia.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <country lang="pt">Argentina</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820174600 -0300" stop="20210820175100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Quando Dolores leva a TV da sala de brinquedos, os Baby Rockers precisam usar o Poder da Partitura para trazer de volta seus heróis e vivem uma grande aventura.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <country lang="pt">Argentina</country>
+    <episode-num system="onscreen">E32</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820175100 -0300" stop="20210820175600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Quando o carrinho de Fuz quebra, Bebê Rockabilly é encarregado de consertá-lo. Os Baby Rockers decidem apostar corrida de carrinho, mas são interrompidos por Dolores, que não quer saber de bagunça.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <country lang="pt">Argentina</country>
+    <episode-num system="onscreen">E34</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820175600 -0300" stop="20210820180100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180100 -0300" stop="20210820191700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Leo da Vinci: Missão Mona Lisa</title>
+    <desc lang="pt">Leonardo Da Vinci vive no campo e conta com a ajuda de seu amigo Lorenzo para dar vida às suas invenções. Quando descobre que há um tesouro escondido, a dupla embarca numa grande aventura para encontrá-lo.(n)</desc>
+    <credits>
+      <director>Sergio Manfio</director>
+      <actor>Johnny Bosch</actor>
+      <actor>Bryce Papenbrook</actor>
+      <actor>Cherami Leigh</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Itália</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820191700 -0300" stop="20210820192900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+    <desc lang="pt">Luna é uma garotinha curiosa e alegre, que está sempre às voltas com perguntas sobre o mundo. Para ela, o planeta Terra é um laboratório gigante e todos os acontecimentos são fenômenos a serem investigados.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdaluna01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820192900 -0300" stop="20210820194100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+    <desc lang="pt">Luna é uma garotinha curiosa e alegre, que está sempre às voltas com perguntas sobre o mundo. Para ela, o planeta Terra é um laboratório gigante e todos os acontecimentos são fenômenos a serem investigados.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdaluna01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820194100 -0300" stop="20210820195500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+    <desc lang="pt">Luna é uma garotinha curiosa e alegre, que está sempre às voltas com perguntas sobre o mundo. Para ela, o planeta Terra é um laboratório gigante e todos os acontecimentos são fenômenos a serem investigados.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdaluna01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820195500 -0300" stop="20210820200000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820200500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200500 -0300" stop="20210820201000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820201000 -0300" stop="20210820203300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820203300 -0300" stop="20210820210000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mark Baker</director>
+      <director>Neville Astley</director>
+      <actor>Vozes de Harley Bird</actor>
+      <actor>Oliver May</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Morwenna Banks</actor>
+      <actor>John Sparkes</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/peppa01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820210000 -0300" stop="20210820210500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820210500 -0300" stop="20210820211000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Fuz sonha que a creche se transformou em um enorme castelo onde os bebês são vigiados pela Mestre Babá. Os bebês compõem uma canção para distraí-la com rimas.(n)</desc>
+    <credits>
+      <director>Pedro Blumenbaum</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <country lang="pt">Argentina</country>
+    <episode-num system="onscreen">S2 E54</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820211000 -0300" stop="20210820211500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820211500 -0300" stop="20210820212200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">As aventuras cheias de ritmo de um improvável grupo de bebês músicos em uma creche.(n)</desc>
+    <credits>
+      <director>Pedro Blumenbaum</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <country lang="pt">Argentina</country>
+    <episode-num system="onscreen">S2 E37</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820212200 -0300" stop="20210820212700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820212700 -0300" stop="20210820213200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Dolores descobre um jeito de fazer os bebês dormirem tocando a flauta shakuhachi. O feitiço se volta contra o feiticeiro quando Dolores também adormece sob o efeito do som mágico.(n)</desc>
+    <credits>
+      <director>Pedro Blumenbaum</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <country lang="pt">Argentina</country>
+    <episode-num system="onscreen">S2 E53</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820213200 -0300" stop="20210820213700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820213700 -0300" stop="20210820214600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Os Power Rockers querem cultivar um jardim de sucesso. Mas quando uma seca ocorre, eles precisam recrutar um baby, cuja dança da chuva especial pode fazer o jardim prosperar.(n)</desc>
+    <credits>
+      <director>Gustavo Cova</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <country lang="pt">Argentina</country>
+    <episode-num system="onscreen">S2 E36</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820214600 -0300" stop="20210820215100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Os bebês viajam ao passado e descobrem que a lendária Mestre Babá foi a babá de Dolores quando era bebê. Eles também descobrem que Dolores estava longe de ser uma bebê comportada, como sempre insiste em dizer.(n)</desc>
+    <credits>
+      <director>Pedro Blumenbaum</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <country lang="pt">Argentina</country>
+    <episode-num system="onscreen">S2 E51</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820215100 -0300" stop="20210820215600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <desc lang="pt">Dolores quer homenagear uma babá importante durante uma visita à creche, mas o bolo que preparou para a ocasião é destruído. Quando ela deixa Carlos de castigo, os outros bebês criam uma canção sobre justiça.(n)</desc>
+    <credits>
+      <director>Pedro Blumenbaum</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_minibeatpowerrockers01.jpg" />
+    <country lang="pt">Argentina</country>
+    <episode-num system="onscreen">S2 E35</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820215600 -0300" stop="20210820232200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Cada um na sua Casa</title>
+    <desc lang="pt">Um alienígena na fuga de sua própria raça faz amizade com uma garota. Ele tenta ajudá-la em sua trajetória, mas pode ser uma interferência.(n)</desc>
+    <credits>
+      <director>Tim Johnson</director>
+      <actor>Jim Parsons</actor>
+      <actor>Rihanna</actor>
+      <actor>Steve Martin</actor>
+      <actor>Jennifer Lopez</actor>
+      <actor>Matt Jones</actor>
+      <actor>Brian Stepanek</actor>
+      <actor>Stephen Kearin</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filmes/cadaumnasuacasa01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820232200 -0300" stop="20210820233300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">As Aventuras Dos Boonie Bears</title>
+    <desc lang="pt">Vick finge que sabe onde o tigre está para manter Carly por perto. Quando usa comida como isca para atraí-lo, quem aparece é Bramble. Perseguida pelos ursos, Carly se perde na floresta e passa a noite acampada.(n)</desc>
+    <credits>
+      <director>Ding Liang</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">China</country>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820233300 -0300" stop="20210820234400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">As Aventuras Dos Boonie Bears</title>
+    <desc lang="pt">Vick cai em uma armadilha enquanto procura Carly e acaba adormecendo. Enquanto isso, Carly decide dormir amarrada no alto de uma árvore. Quando vê Carly, Bramble decide ficar sob a árvore para protegê-la.(n)</desc>
+    <credits>
+      <director>Ding Liang</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">China</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820234400 -0300" stop="20210820235900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Caçadores de Monstros</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Scott Vanden Bosch</director>
+      <actor>Vozes de Julian Dennison</actor>
+      <actor>Charlotte Nicdao</actor>
+      <actor>Michael Philippou</actor>
+      <actor>Nick Tate</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820235900 -0300" stop="20210821001000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Caçadores de Monstros</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Scott Vanden Bosch</director>
+      <actor>Vozes de Julian Dennison</actor>
+      <actor>Charlotte Nicdao</actor>
+      <actor>Michael Philippou</actor>
+      <actor>Nick Tate</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820162400 -0300" stop="20210820164800 -0300" channel="Discovery Science HD">
+    <title lang="pt">O Segredo das Coisas</title>
+    <desc lang="pt">Descubra como são feitos os móveis de estilo chinês, os interruptores elétricos, o molho de peixe tailandês e as chapelarias.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S14 E12</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820164800 -0300" stop="20210820173600 -0300" channel="Discovery Science HD">
+    <title lang="pt">Projeto Greensburg</title>
+    <desc lang="pt">Estudantes de arquitetura da Universidade do Kansas se encarregaram da reconstrução sustentável do centro comunitário de Greensburg.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820173600 -0300" stop="20210820182400 -0300" channel="Discovery Science HD">
+    <title lang="pt">American Titans</title>
+    <desc lang="pt">O magnata do aço, Andrew Carnegie, e o rei do carvão, Henry Clay Frick, unem forças para dominar uma segunda Revolução Industrial. Seu império irá esmagar rivais e destruir o movimento trabalhista.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820182400 -0300" stop="20210820191200 -0300" channel="Discovery Science HD">
+    <title lang="pt">Projeto Greensburg</title>
+    <desc lang="pt">O prefeito Steve Hewitt concebeu a construção de uma incubadora para abrigar empresas prejudicadas pela passagem de um tornado em Greensburg.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820191200 -0300" stop="20210820200000 -0300" channel="Discovery Science HD">
+    <title lang="pt">Em Busca dos Vikings</title>
+    <desc lang="pt">Arqueólogos investigam o primeiro assentamento viking na América do Norte. Usando tecnologias de ponta, eles fazem novas descobertas que podem mudar tudo o que conhecemos sobre a história norte-americana.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820202400 -0300" channel="Discovery Science HD">
+    <title lang="pt">Transplantes</title>
+    <desc lang="pt">O transplante de medula óssea é o meio mais eficaz de cura para leucemia e outras doenças do sangue. Existem duas modalidades do procedimento: autólogo e halogênico.(n)</desc>
+    <credits>
+      <director>Carla Maria Albuquerque De Sá</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820202400 -0300" stop="20210820204800 -0300" channel="Discovery Science HD">
+    <title lang="pt">Transplantes</title>
+    <desc lang="pt">Conheça a história de uma mulher que já recebeu uma córnea e está na fila novamente. Descubra também uma nova técnica que foi capaz de resolver o problema de um homem que realizou 12 transplantes de córnea.(n)</desc>
+    <credits>
+      <director>Carla Maria Albuquerque De Sá</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820204800 -0300" stop="20210820213600 -0300" channel="Discovery Science HD">
+    <title lang="pt">Em Busca dos Vikings</title>
+    <desc lang="pt">Novos indícios revelam que os vikings e os nativos norte-americanos podem ter entrado em confronto há mil anos. Usando tecnologias de ponta, especialistas testam suas armas e táticas para descobrir quem venceu o conflito.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820213600 -0300" stop="20210820222400 -0300" channel="Discovery Science HD">
+    <title lang="pt">A Verdade por trás do Homem na Lua</title>
+    <desc lang="pt">As fitas da NASA que registraram o pouso na Lua da Apollo 11 estão faltando, e alguns acreditam que seu desaparecimento faz parte de um encobrimento para esconder a verdade.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820222400 -0300" stop="20210820231200 -0300" channel="Discovery Science HD">
+    <title lang="pt">Veículos Lunares</title>
+    <desc lang="pt">Em 20 de julho de 1969, durante os primeiros passos do homem na Lua, um pequeno grupo de engenheiros prendia a respiração. Sete anos antes, a NASA os contratara para projetar uma ferramenta indispensável para a caminhada lunar: o traje espacial.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/veiculoslunaresroverlunar01.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820231200 -0300" stop="20210821000000 -0300" channel="Discovery Science HD">
+    <title lang="pt">Experiências Superloucas</title>
+    <desc lang="pt">Nossos cientistas tentam descobrir se os incríveis vídeos da internet são verdadeiros ou não, como o de um piloto de wingsuit que é rebocado por um carro e as imagens de um perigoso encontro com um tubarão-branco.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/experienciassuperloucas01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
     </rating>
   </programme>
 </tv>
