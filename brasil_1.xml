@@ -87,6 +87,7 @@
   </channel>
   <channel id="Comedy Central HD">
     <display-name lang="pt">Comedy Central HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Conmebol TV 1">
