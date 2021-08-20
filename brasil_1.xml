@@ -57,6 +57,7 @@
   </channel>
   <channel id="CGTN HD">
     <display-name lang="pt">CGTN HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/cgtn.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Cinemax HD">
@@ -11564,6 +11565,564 @@
     <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
     <country lang="pt">EUA</country>
     <episode-num system="onscreen">S1 E26</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820140000 -0300" stop="20210820180000 -0300" channel="CGTN HD">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">O World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820183000 -0300" channel="CGTN HD">
+    <title lang="pt">Global Business</title>
+    <desc lang="pt">Rápido, nítido e perspicaz, o Global Business é o principal show de negócios da TV.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820183000 -0300" stop="20210820200000 -0300" channel="CGTN HD">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">O World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820203000 -0300" channel="CGTN HD">
+    <title lang="pt">The Heat</title>
+    <desc lang="pt">Programa diário de notícias dedicado a entrevistas importantes, análises e debates envolventes sobre os EUA, a China e questões globais. Ancorado por Anand Naidoo.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820203000 -0300" stop="20210820210000 -0300" channel="CGTN HD">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">O World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820210000 -0300" stop="20210820220000 -0300" channel="CGTN HD">
+    <title lang="pt">Global Business</title>
+    <desc lang="pt">Rápido, nítido e perspicaz, o Global Business é o principal show de negócios da TV.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820223000 -0300" channel="CGTN HD">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">O World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820223000 -0300" stop="20210820230000 -0300" channel="CGTN HD">
+    <title lang="pt">China 24</title>
+    <desc lang="pt">O China 24 é um programa de notícias no horário nobre do CCTV News que traz as histórias mais importantes deste país em rápida mudança, com mais de 1,3 bilhão de pessoas.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210820233000 -0300" channel="CGTN HD">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">O World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820233000 -0300" stop="20210821000000 -0300" channel="CGTN HD">
+    <title lang="pt">The Point With Liu Xin</title>
+    <desc lang="pt">O programa traz notícias globais através da perspectiva única de Liu Xin. Com duas décadas de experiência como âncora de notícias e correspondente no exterior, Liu Xin tem um estilo pessoal e envolvente.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821000000 -0300" stop="20210821001500 -0300" channel="CGTN HD">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">O World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821001500 -0300" stop="20210821003000 -0300" channel="CGTN HD">
+    <title lang="pt">Sports Scene</title>
+    <desc lang="pt">O programa é especializado em fornecer notícias sobre atletas chineses, ligas e também sobre os concorrentes estrangeiros mais importantes que jogam no país mais populoso do mundo.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821003000 -0300" stop="20210821010000 -0300" channel="CGTN HD">
+    <title lang="pt">Dialogue</title>
+    <desc lang="pt">Um talk show de 30 minutos no horário nobre que abrange uma ampla variedade de tópicos nacionais e internacionais.(n)</desc>
+    <credits>
+      <actor>Yang Rui</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821010000 -0300" stop="20210821020000 -0300" channel="CGTN HD">
+    <title lang="pt">Global Watch</title>
+    <desc lang="pt">O Global Watch leva você ao redor do mundo todos os dias na CGTN, trazendo as notícias mais recentes e chegando ao coração das notícias de última hora.(n)</desc>
+    <credits>
+      <actor>Daljit Dhaliwal</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821020000 -0300" stop="20210821030000 -0300" channel="CGTN HD">
+    <title lang="pt">China's Archaeological Missing Link</title>
+    <desc lang="pt">As ruínas foram descobertas há quase cem anos. Gao Yiming nos mostra as décadas de escavação.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821030000 -0300" stop="20210821033000 -0300" channel="CGTN HD">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">O World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821033000 -0300" stop="20210821040000 -0300" channel="CGTN HD">
+    <title lang="pt">The Heat</title>
+    <desc lang="pt">Programa diário de notícias dedicado a entrevistas importantes, análises e debates envolventes sobre os EUA, a China e questões globais. Ancorado por Anand Naidoo.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821040000 -0300" stop="20210821043000 -0300" channel="CGTN HD">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">O World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821043000 -0300" stop="20210821050000 -0300" channel="CGTN HD">
+    <title lang="pt">Sports Scene</title>
+    <desc lang="pt">O programa é especializado em fornecer notícias sobre atletas chineses, ligas e também sobre os concorrentes estrangeiros mais importantes que jogam no país mais populoso do mundo.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821050000 -0300" stop="20210821053000 -0300" channel="CGTN HD">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">O World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821053000 -0300" stop="20210821060000 -0300" channel="CGTN HD">
+    <title lang="pt">Biz Talk</title>
+    <desc lang="pt">Um inovador programa de entrevistas de 30 minutos, com uma visão aprofundada de como as principais empresas do mundo conduzem negócios e como os formuladores de políticas veem a economia mundial.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821063000 -0300" channel="CGTN HD">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">O World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821063000 -0300" stop="20210821070000 -0300" channel="CGTN HD">
+    <title lang="pt">Icon</title>
+    <desc lang="pt">Um talk show semanal que oferece um encontro de perto com os principais ícones culturais de hoje.(n)</desc>
+    <credits>
+      <actor>Ji Xiaojun</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821070000 -0300" stop="20210821080000 -0300" channel="CGTN HD">
+    <title lang="pt">Africa Live</title>
+    <desc lang="pt">Africa Live na CGTN.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821080000 -0300" stop="20210821083000 -0300" channel="CGTN HD">
+    <title lang="pt">Asia Today</title>
+    <desc lang="pt">O Asia Today mantém os telespectadores informados sobre as últimas notícias e desenvolvimentos na grande região asiática e além. Concentrando-se nas últimas novidades em política, economia, bem como as tendências socias e culturais em toda a Ásia.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Política</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821083000 -0300" stop="20210821090000 -0300" channel="CGTN HD">
+    <title lang="pt">Dialogue</title>
+    <desc lang="pt">Um talk show de 30 minutos no horário nobre que abrange uma ampla variedade de tópicos nacionais e internacionais.(n)</desc>
+    <credits>
+      <actor>Yang Rui</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821090000 -0300" stop="20210821091500 -0300" channel="CGTN HD">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">O World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821091500 -0300" stop="20210821100000 -0300" channel="CGTN HD">
+    <title lang="pt">China 24</title>
+    <desc lang="pt">O China 24 é um programa de notícias no horário nobre do CCTV News que traz as histórias mais importantes deste país em rápida mudança, com mais de 1,3 bilhão de pessoas.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821100000 -0300" stop="20210821103000 -0300" channel="CGTN HD">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">O World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821103000 -0300" stop="20210821110000 -0300" channel="CGTN HD">
+    <title lang="pt">Assignment Asia</title>
+    <desc lang="pt">Lançado no início de 2015, o Assignment Asia é um premiado programa de assuntos atuais e documentário na CGTN, a rede internacional de notícias da China Central Television.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821110000 -0300" stop="20210821113000 -0300" channel="CGTN HD">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">O World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821113000 -0300" stop="20210821120000 -0300" channel="CGTN HD">
+    <title lang="pt">Biz Talk</title>
+    <desc lang="pt">Um inovador programa de entrevistas de 30 minutos, com uma visão aprofundada de como as principais empresas do mundo conduzem negócios e como os formuladores de políticas veem a economia mundial.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821120000 -0300" stop="20210821123000 -0300" channel="CGTN HD">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">O World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821123000 -0300" stop="20210821130000 -0300" channel="CGTN HD">
+    <title lang="pt">Icon</title>
+    <desc lang="pt">Um talk show semanal que oferece um encontro de perto com os principais ícones culturais de hoje.(n)</desc>
+    <credits>
+      <actor>Ji Xiaojun</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821130000 -0300" stop="20210821133000 -0300" channel="CGTN HD">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">O World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821133000 -0300" stop="20210821140000 -0300" channel="CGTN HD">
+    <title lang="pt">The Agenda</title>
+    <desc lang="pt">Um programa de entrevistas semanal que vai além das manchetes e da "sabedoria aceita" para encontrar a história real.(n)</desc>
+    <credits>
+      <actor>Stephen Cole</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821140000 -0300" stop="20210821143000 -0300" channel="CGTN HD">
+    <title lang="pt">Africa Live</title>
+    <desc lang="pt">Africa Live na CGTN.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821143000 -0300" stop="20210821150000 -0300" channel="CGTN HD">
+    <title lang="pt">Talk Africa</title>
+    <desc lang="pt">O Talk Africa oferece variedade e profundidade para levar os espectadores além das manchetes, sendo uma fonte de interações instigantes que geram sugestões e soluções valiosas.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821150000 -0300" stop="20210821153000 -0300" channel="CGTN HD">
+    <title lang="pt">Sports Scene</title>
+    <desc lang="pt">O programa é especializado em fornecer notícias sobre atletas chineses, ligas e também sobre os concorrentes estrangeiros mais importantes que jogam no país mais populoso do mundo.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821153000 -0300" stop="20210821160000 -0300" channel="CGTN HD">
+    <title lang="pt">Icon</title>
+    <desc lang="pt">Um talk show semanal que oferece um encontro de perto com os principais ícones culturais de hoje.(n)</desc>
+    <credits>
+      <actor>Ji Xiaojun</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821160000 -0300" stop="20210821163000 -0300" channel="CGTN HD">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">O World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821163000 -0300" stop="20210821170000 -0300" channel="CGTN HD">
+    <title lang="pt">Dialogue</title>
+    <desc lang="pt">Um talk show de 30 minutos no horário nobre que abrange uma ampla variedade de tópicos nacionais e internacionais.(n)</desc>
+    <credits>
+      <actor>Yang Rui</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821170000 -0300" stop="20210821173000 -0300" channel="CGTN HD">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">O World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821173000 -0300" stop="20210821180000 -0300" channel="CGTN HD">
+    <title lang="pt">The Agenda</title>
+    <desc lang="pt">Um programa de entrevistas semanal que vai além das manchetes e da "sabedoria aceita" para encontrar a história real.(n)</desc>
+    <credits>
+      <actor>Stephen Cole</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821180000 -0300" stop="20210821183000 -0300" channel="CGTN HD">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">O World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821183000 -0300" stop="20210821190000 -0300" channel="CGTN HD">
+    <title lang="pt">Assignment Asia</title>
+    <desc lang="pt">Lançado no início de 2015, o Assignment Asia é um premiado programa de assuntos atuais e documentário na CGTN, a rede internacional de notícias da China Central Television.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821190000 -0300" stop="20210821200000 -0300" channel="CGTN HD">
+    <title lang="pt">Full Frame</title>
+    <desc lang="pt">Programa de palestras focado em questões culturais e vivas para uma audiência global.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cultural</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821200000 -0300" stop="20210821203000 -0300" channel="CGTN HD">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">O World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821203000 -0300" stop="20210821210000 -0300" channel="CGTN HD">
+    <title lang="pt">Travelogue</title>
+    <desc lang="pt">Curioso sobre a China? Quer explorar a China escondida? Então assista no Travelogue. Somos o principal programa de viagens da CGTN.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Turismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821210000 -0300" stop="20210821213000 -0300" channel="CGTN HD">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">O World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821213000 -0300" stop="20210821220000 -0300" channel="CGTN HD">
+    <title lang="pt">Closer to China With Robert Kuhn</title>
+    <desc lang="pt">Mais perto da China com RL Kuhn, é uma revista semanal que apresenta as discussões exclusivas de Robert Lawrence Kuhn com tomadores de decisão e líderes de opinião da China.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Debate</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821220000 -0300" stop="20210821230000 -0300" channel="CGTN HD">
+    <title lang="pt">Big Story</title>
+    <desc lang="pt">Documentários independentes de todo o mundo.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821230000 -0300" stop="20210821233000 -0300" channel="CGTN HD">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">O World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821233000 -0300" stop="20210822000000 -0300" channel="CGTN HD">
+    <title lang="pt">Rediscovering China</title>
+    <desc lang="pt">Com seu acesso incomparável às pessoas e lugares do país, Redescobrindo a China traz relatórios detalhados sobre os principais problemas que a China enfrenta em um momento de rápidas mudanças.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>L</value>
     </rating>
