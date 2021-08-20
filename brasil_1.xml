@@ -189,10 +189,12 @@
   </channel>
   <channel id="Film &amp; Arts HD">
     <display-name lang="pt">Film &amp; Arts HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/filmandarts2018.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Fish TV HD">
     <display-name lang="pt">Fish TV HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/fishtv.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Food Network HD">
@@ -6813,6 +6815,302 @@
     <category lang="pt">Futebol Americano</category>
     <rating system="BR">
       <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820160000 -0300" stop="20210820181500 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Os Intocáveis</title>
+    <desc lang="pt">Neste clássico do cinema contemporâneo dirigido por Brian De Palma, Eliot Ness é um agente federal que vai a Chicago combater o crime organizado.(n)</desc>
+    <credits>
+      <director>Brian De Palma</director>
+      <actor>Kevin Costner</actor>
+      <actor>Andy Garcia</actor>
+      <actor>Charles Martin Smith</actor>
+      <actor>Patricia Clarkson</actor>
+      <actor>Robert De Niro</actor>
+      <actor>Sean Connery</actor>
+    </credits>
+    <date>1987</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820181500 -0300" stop="20210820200000 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Ermione 2018 Gustav Kuhn</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Furore Di Montegral</director>
+      <director>Gustav Kuhn</director>
+      <actor>Maria Radoeva</actor>
+      <actor>Svetlana Kotina</actor>
+      <actor>Ferdinand Von Bothme</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Alemanhã</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820210500 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Novena de Beethoven, uma sinfonia para o mundo</title>
+    <desc lang="pt">Patrimônio da Humanidade desde 2001, a Nona Sinfonia criada em 1824 representa o testamento de Beethoven. O documentário mostra as interpretações atuais desta peça e apresenta apaixonantes personalidades que nos aproximam do artista e de sua obra.(n)</desc>
+    <credits>
+      <director>Christian Berger</director>
+      <actor>Teodor Currentzis</actor>
+      <actor>Tan Dun</actor>
+      <actor>Paul Whittaker</actor>
+      <actor>Yutaka Sado</actor>
+      <actor>Orchestre Symphonique Kimbanguiste</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Musical</category>
+    <country lang="pt">Alemanhã</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820210500 -0300" stop="20210820220000 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">O show de Graham Norton</title>
+    <desc lang="pt">Os homens mais importantes no mundo do espetáculo chegam à sala de Graham Norton para participar de um programa de entrevistas com muito humor.(n)</desc>
+    <credits>
+      <actor>Graham Norton</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820235500 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Pronto para Recomeçar</title>
+    <desc lang="pt">Nick foi despedido, abandonado pela esposa e despejado de sua casa por ela. Tentando recomeçar a vida, Nick faz um bazar e conhece um vizinho que pode ajudá-lo a se recuperar.(n)</desc>
+    <credits>
+      <director>Dan Rush</director>
+      <actor>Will Ferrell</actor>
+      <actor>Rebecca Hall</actor>
+      <actor>Christopher Wallace</actor>
+      <actor>Rosalie Michaels</actor>
+      <actor>Stephen Root</actor>
+      <actor>Laura Dern</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820235500 -0300" stop="20210821005000 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Kieler Street</title>
+    <desc lang="pt">Após a descoberto do sapato, o detetive especial Marius Borge se envolve no caso e a comunidade reage com preocupação.(n)</desc>
+    <credits>
+      <director>Patrik Syversen</director>
+      <actor>Thorbjorn Harr</actor>
+      <actor>Andrea Bræin Hovig</actor>
+      <actor>Ylva Fuglerud</actor>
+      <actor>Jenny Strøm Bjørntvedt</actor>
+      <actor>Nicolai Cleve Broch</actor>
+      <actor>Joachim Cossais</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Suécia</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820163000 -0300" stop="20210820170000 -0300" channel="Fish TV HD">
+    <title lang="pt">Fish TV News</title>
+    <desc lang="pt">Neste episódio do Fish TV News, veja uma entrevista com duas pousadas que já estão operando: Rio Manso e Pantanal Norte.(n)</desc>
+    <credits>
+      <director>Guilherme Motta</director>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_fishtvnews01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820170000 -0300" stop="20210820180000 -0300" channel="Fish TV HD">
+    <title lang="pt">Fish TV Show</title>
+    <desc lang="pt">Gustavo Sarti entrevista Thiago Felzezn, Capitão de IGFA (International Game Fish Association), e bate um papo com Kid Ocelos e alguns brasileiros que bateram recordes mundiais.(n)</desc>
+    <credits>
+      <director>Guilherme Motta</director>
+      <actor>Gustavo Sarti</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820183000 -0300" channel="Fish TV HD">
+    <title lang="pt">Natureza Urbana</title>
+    <desc lang="pt">O Natureza Urbana está no Parcel de Dom Pedro, localizado no Litoral Sul de São Paulo. Tiago Papan, com os guias Murilo e Andrem, embarcam em uma aventura nas águas salgadas em busca de belas espécies.(n)</desc>
+    <credits>
+      <director>Priscila Guimaraes Correa Gomes</director>
+      <actor>Tiago Papan</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820183000 -0300" stop="20210820190000 -0300" channel="Fish TV HD">
+    <title lang="pt">Contos</title>
+    <desc lang="pt">Qual o seu legado? O que deixará aos seus filhos e para as próximas gerações? No quarto episódio de Contos, Rubinho narra como o pesque e solte o fez repensar valores e mudar percepções.(n)</desc>
+    <credits>
+      <director>Vitor Guilherme Muller de David</director>
+      <director>Guilherme Motta</director>
+      <actor>Rubens de Almeida Prado</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820193000 -0300" channel="Fish TV HD">
+    <title lang="pt">Planeta Turismo</title>
+    <desc lang="pt">Ruy Façanário segue no Amazonas, mas agora desbravando o Rio Paxiúba. Com a presença de diversos animais silvestres, o apresentador navega pelo local e captura os peixes da região.(n)</desc>
+    <credits>
+      <director>Ruy Façanario</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820193000 -0300" stop="20210820203000 -0300" channel="Fish TV HD">
+    <title lang="pt">Família Nakamura</title>
+    <desc lang="pt">A Família Nakamura se aventura na região da Ilha da Queimada Grande, na baixada santista, para uma pescaria no mar.(n)</desc>
+    <credits>
+      <director>Nelson Nakamura</director>
+      <actor>Nelson</actor>
+      <actor>Renan</actor>
+      <actor>Vitor</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Pesca</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820203000 -0300" stop="20210820213000 -0300" channel="Fish TV HD">
+    <title lang="pt">A Meta</title>
+    <desc lang="pt">A Fase 3 de A Meta 5 começa hoje em Passo Fundo, no Rio Grande do Sul. Gaba está indo em busca da sua primeira meta, enquanto enfrenta um grande desafio: o frio.(n)</desc>
+    <credits>
+      <director>Maurício Brenner</director>
+      <director>Johnny Hoffmann</director>
+      <actor>Gaba</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ameta01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S5 E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820213000 -0300" stop="20210820220000 -0300" channel="Fish TV HD">
+    <title lang="pt">Remos e Rumos</title>
+    <desc lang="pt">Em Santa Catarina, o Remos e Rumos vai até Florianópolis, para uma aventura um pouco diferente. Desta vez, Zinho vai estar acompanhado do seu amigo e guia de pesca com caiaque, Felipe. Nesta aventura o caiaqueiro embarca em algo diferente.(n)</desc>
+    <credits>
+      <director>Josué Pires Santiago</director>
+      <actor>Zinho</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Pesca</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820223000 -0300" channel="Fish TV HD">
+    <title lang="pt">Guaíba</title>
+    <desc lang="pt">De pequenos pesqueiros a navios de grande calado, construir embarcações é uma atividade que fez sempre parte do cotidiano das populações do Guaíba.(n)</desc>
+    <credits>
+      <director>Pedro Alipio Carneiro Zimmermann</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820223000 -0300" stop="20210820230000 -0300" channel="Fish TV HD">
+    <title lang="pt">Pesqueiros do Brasil</title>
+    <desc lang="pt">Kleber Sanches está no Pesque Pague Taguatinga, no Distrito Federal, para uma pescaria de espécies variadas. E com os convidados Adriano e Glauter, vai em busca de mais troféus para o seu repertório. Venha conferir!(n)</desc>
+    <credits>
+      <director>Vitor Guilherme Muller de David</director>
+      <director>Guilherme Motta</director>
+      <actor>Kleber Sanches</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E15</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210820233000 -0300" channel="Fish TV HD">
+    <title lang="pt">Pesca em Ação</title>
+    <desc lang="pt">Léo Barabas vai até a Pousada Rio Xingu, na Amazônia, para uma pescaria de tucunarés. Com apoio do guia Reginaldo, o apresentador captura o embaixador da pesca nos pedrais do Rio Xingu.(n)</desc>
+    <credits>
+      <director>Marcel Eidy Nishiyama</director>
+      <actor>Léo Barabas</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Pesca</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820233000 -0300" stop="20210821000000 -0300" channel="Fish TV HD">
+    <title lang="pt">Slow Fishing</title>
+    <desc lang="pt">Cauê Ogata está no Hotel Fazenda Cabana do Pescador, em Bonito/MS, em busca das piraputangas do rio Miranda. Após passar por um perrengue para chegar ao local, Cauê é surpreendido pela beleza do lugar e pelas espécies que consegue fisgar.(n)</desc>
+    <credits>
+      <actor>Cauê Ogata</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Pesca</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
     </rating>
   </programme>
 </tv>
