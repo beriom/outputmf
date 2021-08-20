@@ -560,10 +560,12 @@
   </channel>
   <channel id="Telecine Touch HD">
     <display-name lang="pt">Telecine Touch HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/tctouch.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="TLC HD">
     <display-name lang="pt">TLC HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/tlchd.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="TNT HD">
@@ -17494,6 +17496,263 @@
     <country lang="pt">EUA</country>
     <rating system="BR">
       <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820164000 -0300" stop="20210820183500 -0300" channel="Telecine Touch HD">
+    <title lang="pt">Um Dia de Chuva em Nova York</title>
+    <desc lang="pt">Os jovens Ashleigh (Elle Fanning) e Gatsby (Timothée Chalamet) formam um casal que planeja uma viagem romântica a Nova York.(n)</desc>
+    <credits>
+      <director>Woody Allen</director>
+      <actor>Timothée Chalamet</actor>
+      <actor>Annaleigh Ashford</actor>
+      <actor>Ben Warheit</actor>
+      <actor>Diego Luna</actor>
+      <actor>Elle Fanning</actor>
+      <actor>Jude Law</actor>
+      <actor>Liev Schreiber</actor>
+      <actor>Rebecca Hall</actor>
+      <actor>Selena Gomez</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820183500 -0300" stop="20210820201500 -0300" channel="Telecine Touch HD">
+    <title lang="pt">Casamento Grego 2</title>
+    <desc lang="pt">Casados e com uma filha adolescente, Toula e Ian descobrem que uma união da família nunca foi oficializada. A única saída então é fazer com que os Portokalos se preparem para mais um casamento grego.(n)</desc>
+    <credits>
+      <director>Kirk Jones</director>
+      <actor>Nia Vardalos</actor>
+      <actor>Elena Kampouris</actor>
+      <actor>John Corbett</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">Canadá</country>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820201500 -0300" stop="20210820220000 -0300" channel="Telecine Touch HD">
+    <title lang="pt">Tudo e Todas as Coisas</title>
+    <desc lang="pt">Maddie tem 18 anos e nunca pôde sair de casa devido à uma rara imunodeficiência. Um dia chegam novos vizinhos, e o jovem da família, Olly, se sente atraído pela garota que observa pela janela.(n)</desc>
+    <credits>
+      <director>Stella Meghie</director>
+      <actor>Amandla Stenberg</actor>
+      <actor>Nick Robinson</actor>
+      <actor>Anika Rose</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Romance</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820234500 -0300" channel="Telecine Touch HD">
+    <title lang="pt">Armações do Amor</title>
+    <desc lang="pt">Tripp já passou da idade de deixar a casa dos pais. A fim de dar um empurrãozinho, seus pais contratam Paula, uma mulher perfeita que pode ser a solução para o filho e para eles também.(n)</desc>
+    <credits>
+      <director>Tom Dey</director>
+      <actor>Sarah Jessica Parker</actor>
+      <actor>Matthew McConaughey</actor>
+      <actor>Zooey Deschanel</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820234500 -0300" stop="20210821012000 -0300" channel="Telecine Touch HD">
+    <title lang="pt">Como Não Perder Essa Mulher</title>
+    <desc lang="pt">Jon é um garoto mulherengo e viciado em pornografia. Ele se apaixona por Barbara, mas para conquistá-la precisa se tornar algo que ele não é. Até que conhece Esther, que confronta seu modo de viver.(n)</desc>
+    <credits>
+      <director>Joseph Gordon-Levitt</director>
+      <actor>Joseph Gordon-Levitt</actor>
+      <actor>Brie Larson</actor>
+      <actor>Julianne Moore</actor>
+      <actor>Scarlett Johansson</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Romance</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820161800 -0300" stop="20210820180000 -0300" channel="TLC HD">
+    <title lang="pt">De Volta ao Mundo Amish</title>
+    <desc lang="pt">O elenco retorna com novos objetivos e dilemas. Sabrina trava uma nova batalha pela guarda de Oakley. Jeremiah e Carmela querem construir uma casa nova na Flórida. O pai de Mary falece.(n)</desc>
+    <credits>
+      <actor>Jeremiah Raber</actor>
+      <actor>Rebecca</actor>
+      <actor>Sabrina</actor>
+      <actor>Abe Schmucker</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820182600 -0300" channel="TLC HD">
+    <title lang="pt">Tempero na Mochila</title>
+    <desc lang="pt">Na tradicional São João Del Rey, o jovem chef Felipe Oliveira é o guia de Pedro em um tour cheio de sabor, histórias e muita identidade.(n)</desc>
+    <credits>
+      <actor>Pedro Benoliel</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_temperonamochila01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820182600 -0300" stop="20210820185100 -0300" channel="TLC HD">
+    <title lang="pt">Tempero na Mochila</title>
+    <desc lang="pt">Pedro faz escala em Ouro Preto para descobrir a tradição gastronômica da cidade Patrimônio Cultural da Humanidade e, nessa missão, tem a ajuda da cozinheira Renata Queiroz.(n)</desc>
+    <credits>
+      <actor>Pedro Benoliel</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_temperonamochila01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820185100 -0300" stop="20210820194100 -0300" channel="TLC HD">
+    <title lang="pt">David Tutera Faz a Festa</title>
+    <desc lang="pt">A atriz Wendy Raquel Robinson contrata David para organizar uma festa beneficente para a escola de teatro infantil que fundou. David precisa lidar com a controladora Wendy para que as crianças tenham o evento que merecem.(n)</desc>
+    <credits>
+      <director>Craig Piligian</director>
+      <actor>Montré Burton</actor>
+      <actor>Slomique Hawrylo</actor>
+      <actor>David Tutera</actor>
+      <actor>Porsha Williams</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820194100 -0300" stop="20210820203100 -0300" channel="TLC HD">
+    <title lang="pt">David Tutera Faz a Festa</title>
+    <desc lang="pt">Kim Kimble, a cabeleireira das celebridades, contrata David Tutera para organizar um desfile de perucas. Quando ela viaja até a véspera do evento, David precisa tomar decisões sem sua aprovação.(n)</desc>
+    <credits>
+      <director>Craig Piligian</director>
+      <actor>Montré Burton</actor>
+      <actor>Slomique Hawrylo</actor>
+      <actor>David Tutera</actor>
+      <actor>Porsha Williams</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820203100 -0300" stop="20210820212100 -0300" channel="TLC HD">
+    <title lang="pt">Bem-vindo à Família Plath</title>
+    <desc lang="pt">Ethan e Olivia continuam sua aventura pela Califórnia e curtem uma experiência tântrica inesperada. Kim, Barry, Micah, Moriah e os filhos mais novos se reúnem para lembrar o saudoso Joshua.(n)</desc>
+    <credits>
+      <director>Frank Sinton</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820212100 -0300" stop="20210820221100 -0300" channel="TLC HD">
+    <title lang="pt">Os Pequenos Johnstons</title>
+    <desc lang="pt">A família compete no 'Boliche de Peru' anual no Ação de Graças, e esse ano é importante, pois Jonah e Liz levaram seus namorados pra apresentar ao resto da família. Trent e Amber dão um ultimado a Jonah.(n)</desc>
+    <credits>
+      <director>Matt Hightower</director>
+      <actor>Alex Johnston</actor>
+      <actor>Amber Johnston</actor>
+      <actor>Anna Johnston</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E8</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820221100 -0300" stop="20210820230100 -0300" channel="TLC HD">
+    <title lang="pt">Quebrando Barreiras com a Família Klein</title>
+    <desc lang="pt">Bill e as crianças ajudam a organizar uma festa surpresa no aniversário de Jen. Eles preparam presentes caseiros enquanto Jen e seus pais visitam a casa de sua infância.(n)</desc>
+    <credits>
+      <director>Nancy Mackenzie</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820230100 -0300" stop="20210820235300 -0300" channel="TLC HD">
+    <title lang="pt">Quebrando Barreiras com a Família Klein</title>
+    <desc lang="pt">Bill e Jen levam as crianças ao festival Holi, uma celebração hindu da primavera, onde brincam com pistolas de água e pós multicoloridos. Na casa de Pop-Pop, a família testa o barco de Bill Sr.(n)</desc>
+    <credits>
+      <director>Nancy Mackenzie</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820235300 -0300" stop="20210821004500 -0300" channel="TLC HD">
+    <title lang="pt">A Médium</title>
+    <desc lang="pt">Um grupo de mulheres recebe a visita de uma grande amiga que faleceu. Os pais de Theresa ajudam a trazer paz para seus amigos que sofrem. Uma mulher se surpreende durante uma leitura.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/medium01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S9 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
     </rating>
   </programme>
 </tv>
