@@ -42,6 +42,7 @@
   </channel>
   <channel id="Boomerang HD">
     <display-name lang="pt">Boomerang HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/boomerang.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Canal Brasil HD">
@@ -4824,6 +4825,3069 @@
     <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_vamostocar01.jpg" />
     <country lang="pt">Brasil</country>
     <episode-num system="onscreen">S4 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820143100 -0300" stop="20210820143800 -0300" channel="Boomerang HD">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820143800 -0300" stop="20210820144500 -0300" channel="Boomerang HD">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820144500 -0300" stop="20210820145500 -0300" channel="Boomerang HD">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820145500 -0300" stop="20210820150200 -0300" channel="Boomerang HD">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820150200 -0300" stop="20210820150900 -0300" channel="Boomerang HD">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820150900 -0300" stop="20210820151800 -0300" channel="Boomerang HD">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820151800 -0300" stop="20210820152500 -0300" channel="Boomerang HD">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820152500 -0300" stop="20210820153200 -0300" channel="Boomerang HD">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820153200 -0300" stop="20210820154600 -0300" channel="Boomerang HD">
+    <title lang="pt">Corrida Maluca</title>
+    <desc lang="pt">Um musical de Bollywood invade a velha cidade indiana.(n)</desc>
+    <credits>
+      <director>Matt Whitlock</director>
+      <actor>Vozes de Christopher Judge</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Tom Kenny</actor>
+      <actor>Nicole Parker</actor>
+      <actor>Peter Woodward</actor>
+      <actor>Daws Butler</actor>
+      <actor>Don Messick</actor>
+      <actor>John Stephenson</actor>
+      <actor>Paul Winchell</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_corridamaluca01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E37</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820154600 -0300" stop="20210820155700 -0300" channel="Boomerang HD">
+    <title lang="pt">Corrida Maluca</title>
+    <desc lang="pt">Penélope é sequestrada por aliens e obrigada a competir numa corrida espacial contra alienígenas esquisitos, mas familiares. E somente Space Ghost poderá nos salvar!(n)</desc>
+    <credits>
+      <director>Matt Whitlock</director>
+      <actor>Vozes de Christopher Judge</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Tom Kenny</actor>
+      <actor>Nicole Parker</actor>
+      <actor>Peter Woodward</actor>
+      <actor>Daws Butler</actor>
+      <actor>Don Messick</actor>
+      <actor>John Stephenson</actor>
+      <actor>Paul Winchell</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_corridamaluca01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E59</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820155700 -0300" stop="20210820162200 -0300" channel="Boomerang HD">
+    <title lang="pt">Barbie Dreamhouse Adventures</title>
+    <desc lang="pt">Com suas irmãs envolvidas numa confusão, caberá a Barbie provar a inocência delas e encontrar o verdadeiro culpado enquanto usa uma fantasia de sereia.(n)</desc>
+    <credits>
+      <director>Patrice Berube</director>
+      <actor>Vozes de America Young</actor>
+      <actor>Kirsten Day</actor>
+      <actor>Cassandra Lee Morris</actor>
+      <actor>America Young</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E25</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820162200 -0300" stop="20210820162900 -0300" channel="Boomerang HD">
+    <title lang="pt">Masha e o Urso</title>
+    <desc lang="pt">Verão é o tempo certo para descansar e se delirar com pequenas milagres. Como é bom ficar sentado na beira do rio na companhia de melhores amigos!(n)</desc>
+    <credits>
+      <director>Oleg Kuzovkov</director>
+      <actor>Vozes de Alina Kukushkina</actor>
+      <actor>Boris Kutnevich</actor>
+      <actor>Rebecca Bloom</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mashabear01.jpg" />
+    <country lang="pt">Rússia</country>
+    <episode-num system="onscreen">S3 E73</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820162900 -0300" stop="20210820164000 -0300" channel="Boomerang HD">
+    <title lang="pt">Lego Friends</title>
+    <desc lang="pt">As meninas juntam pistas com um mapa da área de Velho Centro e encontram um caminho para o navio Coração do Oceano e seu tesouro!(n)</desc>
+    <credits>
+      <director>Kacey Arnold</director>
+      <actor>Vozes de Alex Cartañá</actor>
+      <actor>Jasmine St. Clair</actor>
+      <actor>Amaya Harrow</actor>
+      <actor>Kira Buckland</actor>
+      <actor>Allegra Clark</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Dinamarca</country>
+    <episode-num system="onscreen">S4 E12</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820164000 -0300" stop="20210820165300 -0300" channel="Boomerang HD">
+    <title lang="pt">Lego Friends</title>
+    <desc lang="pt">Determinadas a proteger o Coração do Oceano e a história da cidade de Heartlake, as garotas saem para encontrar o tesouro em uma corrida para ver quem consegue chegar primeiro!(n)</desc>
+    <credits>
+      <director>Kacey Arnold</director>
+      <actor>Vozes de Alex Cartañá</actor>
+      <actor>Jasmine St. Clair</actor>
+      <actor>Amaya Harrow</actor>
+      <actor>Kira Buckland</actor>
+      <actor>Allegra Clark</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Dinamarca</country>
+    <episode-num system="onscreen">S4 E13</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820165300 -0300" stop="20210820170400 -0300" channel="Boomerang HD">
+    <title lang="pt">Lego Friends</title>
+    <desc lang="pt">A determinação de Andrea em ganhar o show de talentos da cidade faz com que ela perca o foco do que é realmente importante.(n)</desc>
+    <credits>
+      <director>Kacey Arnold</director>
+      <actor>Vozes de Alex Cartañá</actor>
+      <actor>Jasmine St. Clair</actor>
+      <actor>Amaya Harrow</actor>
+      <actor>Kira Buckland</actor>
+      <actor>Allegra Clark</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Dinamarca</country>
+    <episode-num system="onscreen">S4 E14</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820170400 -0300" stop="20210820171200 -0300" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <desc lang="pt">Jerry descobre que os gatos têm uma fobia misteriosa a pepinos e decide testar Tom. Após vê-lo se assustar diversas vezes, Butch resolve ajudar Tom a vencer seu medo. O problema é que o próprio Butch morre de medo também.(n)</desc>
+    <credits>
+      <director>Darrell Van Citters</director>
+      <actor>Voz de Julie Wittner</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdotomjerry01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E145</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820171200 -0300" stop="20210820172200 -0300" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <desc lang="pt">Quando Tom e Jerry vão a uma festa na piscina de Toodles, Tom começa a fazer malabarismos absurdos. Butch e Meathead chegam e a rivalidade aumenta.(n)</desc>
+    <credits>
+      <director>Darrell Van Citters</director>
+      <actor>Voz de Julie Wittner</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdotomjerry01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E167</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820172200 -0300" stop="20210820172900 -0300" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <desc lang="pt">Tom e Jerry acordam com o cheiro de ovos cozidos na cozinha - Ginger e Rick estão preparando o café da manhã com os ovos fresquinhos presenteados pelo vizinho. Os dois conversam sobre o galinheiro do novo morador, que produz seus próprios ovos.(n)</desc>
+    <credits>
+      <director>Darrell Van Citters</director>
+      <actor>Voz de Julie Wittner</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdotomjerry01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E155</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820172900 -0300" stop="20210820174100 -0300" channel="Boomerang HD">
+    <title lang="pt">Ben 10</title>
+    <desc lang="pt">Após Ben se livrar facilmente dos Climáticos, a Equipe Tennyson viaja a uma estação de esqui para se divertir um pouco. Mas, quando Ben se depara com os Climáticos de novo, ele é obrigado a lidar com eles...(n)</desc>
+    <credits>
+      <actor>Vozes Tara Strong</actor>
+      <actor>John Di Maggio</actor>
+      <actor>Montse Hernandez</actor>
+      <actor>David Kaye</actor>
+      <actor>Travis Willingham</actor>
+      <actor>Todd Haberkorn</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ben1001.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E225</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820174100 -0300" stop="20210820175400 -0300" channel="Boomerang HD">
+    <title lang="pt">Ben 10</title>
+    <desc lang="pt">Quando Ben testemunha Vin Ethanol impressionado com o conhecimento automotivo de Kevin, seu ciúme lhe convence de que ele precisa superar Kevin antes que Vin seja influenciado e abrace seu lado mau numa corrida beneficente.(n)</desc>
+    <credits>
+      <actor>Vozes Tara Strong</actor>
+      <actor>John Di Maggio</actor>
+      <actor>Montse Hernandez</actor>
+      <actor>David Kaye</actor>
+      <actor>Travis Willingham</actor>
+      <actor>Todd Haberkorn</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ben1001.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E226</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820175400 -0300" stop="20210820180600 -0300" channel="Boomerang HD">
+    <title lang="pt">Ben 10</title>
+    <desc lang="pt">Tudo que Ben deseja é impedir que a Abelha Rainha roube um banco. Mas, quando Kevin aparece e tenta ser o herói para levar a glória, Ben precisará salvar o dia duas vezes.(n)</desc>
+    <credits>
+      <actor>Vozes Tara Strong</actor>
+      <actor>John Di Maggio</actor>
+      <actor>Montse Hernandez</actor>
+      <actor>David Kaye</actor>
+      <actor>Travis Willingham</actor>
+      <actor>Todd Haberkorn</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ben1001.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E227</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180600 -0300" stop="20210820183200 -0300" channel="Boomerang HD">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+    <desc lang="pt">Fred e a gangue são chamados para solucionar um mistério envolvendo uma figura do passado de Fred, o Professor Huh.(n)</desc>
+    <credits>
+      <director>Kyle Stafford</director>
+      <actor>Vozes de Grey DeLisle</actor>
+      <actor>Matthew Lillard</actor>
+      <actor>Kate Micucci</actor>
+      <actor>Frank Welker</actor>
+      <actor>Jeff Bennett</actor>
+      <actor>Phil Morris</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/quelegalscooby01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820183200 -0300" stop="20210820185600 -0300" channel="Boomerang HD">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+    <desc lang="pt">Fred e a gangue são chamados para solucionar um mistério envolvendo uma figura do passado de Fred, o Professor Huh.(n)</desc>
+    <credits>
+      <director>Kyle Stafford</director>
+      <actor>Vozes de Grey DeLisle</actor>
+      <actor>Matthew Lillard</actor>
+      <actor>Kate Micucci</actor>
+      <actor>Frank Welker</actor>
+      <actor>Jeff Bennett</actor>
+      <actor>Phil Morris</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/quelegalscooby01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E51</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820185600 -0300" stop="20210820190300 -0300" channel="Boomerang HD">
+    <title lang="pt">Zuzubalândia</title>
+    <desc lang="pt">A Bruxa recebe a visita de um lobisomem por alguns dias. Apesar de mal educado, o amigo peludo acaba dando uma ideia de como ela pode ser tornar rainha de Zuzubalândia.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_zuzubalandia01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E28</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820190300 -0300" stop="20210820191300 -0300" channel="Boomerang HD">
+    <title lang="pt">Zuzubalândia</title>
+    <desc lang="pt">Nessa versão da história, Zuzu faz o papel de Zinderela. A Bruxa é a madrasta e Brigadeiro e Laricão as irmãs feias. Diferente da história original, Zinderela quer ir ao baile para cantar com o Melvis e não conhecer um príncipe.(n)</desc>
+    <credits>
+      <director>Mariana Caltabiano</director>
+      <actor>Vozes de Eduardo Jardim</actor>
+      <actor>Luiza Porto</actor>
+      <actor>Hugo Picchi</actor>
+      <actor>Daniel Costa</actor>
+      <actor>Bruna Guerin</actor>
+      <actor>Antoniela Canto</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_zuzubalandia01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820191300 -0300" stop="20210820193900 -0300" channel="Boomerang HD">
+    <title lang="pt">Barbie Dreamhouse Adventures</title>
+    <desc lang="pt">Enquanto toda a familia se prepara para as ferias, Ken e Barbie descobrem o verdadeiro significado da amizade quando tentam encontrar presentes perfeitos um para o outro.(n)</desc>
+    <credits>
+      <director>Patrice Berube</director>
+      <actor>Vozes de America Young</actor>
+      <actor>Kirsten Day</actor>
+      <actor>Cassandra Lee Morris</actor>
+      <actor>America Young</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E25</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820193900 -0300" stop="20210820194600 -0300" channel="Boomerang HD">
+    <title lang="pt">Weeboom</title>
+    <desc lang="pt">Procurar Boomies pode ser muito estressante. Boom resolve levar Wee para relaxar em um Spa em Bangkok, na Tailândia. Quem diria que haveria um Boomie num Spa?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820194600 -0300" stop="20210820195300 -0300" channel="Boomerang HD">
+    <title lang="pt">Weeboom</title>
+    <desc lang="pt">Wee e Boom estão em Orlando, EUA, para o famoso parque de diversões, a Diverlândia! No entanto, algo parece estranho. Onde foram parar todos os adultos?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820195300 -0300" stop="20210820200500 -0300" channel="Boomerang HD">
+    <title lang="pt">DC Super Hero Girls</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Noëlle Raffaele</director>
+      <actor>Vozes de Kimberly Brooks</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Tara Strong</actor>
+      <actor>Nicole Sullivan</actor>
+      <actor>Myrna Velasco</actor>
+      <actor>Kari Wahlgren</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200500 -0300" stop="20210820201900 -0300" channel="Boomerang HD">
+    <title lang="pt">DC Super Hero Girls</title>
+    <desc lang="pt">Jessica Cruz está convencida de que pode encontrar o lar perfeito para Dexter, um gato considerado inadotável por ser basicamente o pior gato do mundo.(n)</desc>
+    <credits>
+      <director>Noëlle Raffaele</director>
+      <actor>Vozes de Kimberly Brooks</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Tara Strong</actor>
+      <actor>Nicole Sullivan</actor>
+      <actor>Myrna Velasco</actor>
+      <actor>Kari Wahlgren</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E23</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820201900 -0300" stop="20210820203000 -0300" channel="Boomerang HD">
+    <title lang="pt">DC Super Hero Girls</title>
+    <desc lang="pt">Tudo está indo bem para Kara Danvers, tanto como uma adolescente quanto como uma super-heroína.(n)</desc>
+    <credits>
+      <director>Noëlle Raffaele</director>
+      <actor>Vozes de Kimberly Brooks</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Tara Strong</actor>
+      <actor>Nicole Sullivan</actor>
+      <actor>Myrna Velasco</actor>
+      <actor>Kari Wahlgren</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E28</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820203000 -0300" stop="20210820203600 -0300" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <desc lang="pt">O Pernalonga está à solta na sociedade moderna! O coelho travesso enfrentará novos adversários, mas também terá o apoio de alguns novos e velhos amigos!(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/wabbit01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820203600 -0300" stop="20210820204400 -0300" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <desc lang="pt">O Pernalonga está à solta na sociedade moderna! O coelho travesso enfrentará novos adversários, mas também terá o apoio de alguns novos e velhos amigos!(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/wabbit01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820204400 -0300" stop="20210820205000 -0300" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <desc lang="pt">O Pernalonga está à solta na sociedade moderna! O coelho travesso enfrentará novos adversários, mas também terá o apoio de alguns novos e velhos amigos!(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/wabbit01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820205000 -0300" stop="20210820205600 -0300" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <desc lang="pt">O Pernalonga está à solta na sociedade moderna! O coelho travesso enfrentará novos adversários, mas também terá o apoio de alguns novos e velhos amigos!(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/wabbit01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820205600 -0300" stop="20210820210700 -0300" channel="Boomerang HD">
+    <title lang="pt">Mr. Bean</title>
+    <desc lang="pt">Irma quer fazer uma viagem romântica, mas Bean não quer. É caro demais. Até que ela sequestra Teddy e se recusa a devolvê-lo, se Bean não prometer levá-la a Paris. Entre não querer gastar e seu amor por Teddy, Bean não sabe o que fazer!(n)</desc>
+    <credits>
+      <actor>Vozes de Rowan Atkinson</actor>
+      <actor>Teddy</actor>
+      <actor>Gary Martin</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mrbeananimado01.jpg" />
+    <country lang="pt">Inglaterra</country>
+    <episode-num system="onscreen">S3 E17</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820210700 -0300" stop="20210820212100 -0300" channel="Boomerang HD">
+    <title lang="pt">Mr. Bean</title>
+    <desc lang="pt">Bean quer se livrar de um almoço com a mãe de Irma a qualquer custo. Ele então convence a Sra. Wicket a deixá-lo acompanhá-la numa excursão a um show, mas precisa se disfarçar de idoso, se quiser participar.(n)</desc>
+    <credits>
+      <actor>Vozes de Rowan Atkinson</actor>
+      <actor>Teddy</actor>
+      <actor>Gary Martin</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mrbeananimado01.jpg" />
+    <country lang="pt">Inglaterra</country>
+    <episode-num system="onscreen">S3 E18</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820212100 -0300" stop="20210820213200 -0300" channel="Boomerang HD">
+    <title lang="pt">Mr. Bean</title>
+    <desc lang="pt">Enquanto mostra para Irma sua árvore favorita no parque, Bean se depara com um sujeito que está prestes a derrubá-la. Ele então escala a árvore e se recusa a descer. Irma se encanta com esse novo lado de Bean-ey!(n)</desc>
+    <credits>
+      <actor>Vozes de Rowan Atkinson</actor>
+      <actor>Teddy</actor>
+      <actor>Gary Martin</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mrbeananimado01.jpg" />
+    <country lang="pt">Inglaterra</country>
+    <episode-num system="onscreen">S3 E19</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820213200 -0300" stop="20210820213900 -0300" channel="Boomerang HD">
+    <title lang="pt">Taffy</title>
+    <desc lang="pt">Taffy se torna um astro da internet! Todos pensam que ele é um gatinho superfofo e engraçado. Duque fica enciumado e furioso. Mas talvez a internet possa ser muito útil! Duque tentará descobrir a verdadeira identidade desse guaxinim pestilento!(n)</desc>
+    <credits>
+      <director>Ahmed Guerrouache</director>
+      <actor>Voz de Serra Hirsch</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820213900 -0300" stop="20210820214800 -0300" channel="Boomerang HD">
+    <title lang="pt">Taffy</title>
+    <desc lang="pt">Esnobert está em busca de um astro para o seu próximo filme! Dona Madame está com pressa... mas, primeiro de tudo, Duque precisa passar nos testes. Taffy, enciumado, fará de tudo para sabotar o momento de glória do cão!(n)</desc>
+    <credits>
+      <director>Ahmed Guerrouache</director>
+      <actor>Voz de Serra Hirsch</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S1 E39</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820214800 -0300" stop="20210820215600 -0300" channel="Boomerang HD">
+    <title lang="pt">Taffy</title>
+    <desc lang="pt">Dona Madame está em boa forma, mas deseja melhorar sua saúde. Biniko então põe a mansão inteira numa dieta de couve. Taffy fica enlouquecido.(n)</desc>
+    <credits>
+      <director>Ahmed Guerrouache</director>
+      <actor>Voz de Serra Hirsch</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820215600 -0300" stop="20210820220300 -0300" channel="Boomerang HD">
+    <title lang="pt">Taffy</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Ahmed Guerrouache</director>
+      <actor>Voz de Serra Hirsch</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S1 E36</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820220300 -0300" stop="20210820221000 -0300" channel="Boomerang HD">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820221000 -0300" stop="20210820221800 -0300" channel="Boomerang HD">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820221800 -0300" stop="20210820222500 -0300" channel="Boomerang HD">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820222500 -0300" stop="20210820223200 -0300" channel="Boomerang HD">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820223200 -0300" stop="20210820224100 -0300" channel="Boomerang HD">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820224100 -0300" stop="20210820224800 -0300" channel="Boomerang HD">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820224800 -0300" stop="20210820225500 -0300" channel="Boomerang HD">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820225500 -0300" stop="20210820230200 -0300" channel="Boomerang HD">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820230200 -0300" stop="20210820231300 -0300" channel="Boomerang HD">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <desc lang="pt">Bunnicula sem querer faz um clone de si mesmo.(n)</desc>
+    <credits>
+      <actor>Vozes de Sean Astin</actor>
+      <actor>Chris Kattan</actor>
+      <actor>Brian Kimmet</actor>
+      <actor>Harland Williams</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/bunnicula01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E85</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820231300 -0300" stop="20210820232500 -0300" channel="Boomerang HD">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <desc lang="pt">Bunnicula apresenta um caso fatal de soluço.(n)</desc>
+    <credits>
+      <actor>Vozes de Sean Astin</actor>
+      <actor>Chris Kattan</actor>
+      <actor>Brian Kimmet</actor>
+      <actor>Harland Williams</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/bunnicula01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E86</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820232500 -0300" stop="20210820233700 -0300" channel="Boomerang HD">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <desc lang="pt">As nove vidas de Chester estão se esgotando e os fantasmas de suas outras oito vidas voltam para protegê-lo.(n)</desc>
+    <credits>
+      <actor>Vozes de Sean Astin</actor>
+      <actor>Chris Kattan</actor>
+      <actor>Brian Kimmet</actor>
+      <actor>Harland Williams</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/bunnicula01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E87</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820233700 -0300" stop="20210820234800 -0300" channel="Boomerang HD">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <desc lang="pt">Harold sem querer vence uma corrida de cachorros. Mas o perdedor não sossegará enquanto não conseguir uma revanche!(n)</desc>
+    <credits>
+      <actor>Vozes de Sean Astin</actor>
+      <actor>Chris Kattan</actor>
+      <actor>Brian Kimmet</actor>
+      <actor>Harland Williams</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/bunnicula01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E88</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820234800 -0300" stop="20210820235900 -0300" channel="Boomerang HD">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <desc lang="pt">Bunnicula e sua gangue, os "Bunny Boyz", se aventuram em Nova Orleans para recuperar as orelhas roubadas dele.(n)</desc>
+    <credits>
+      <actor>Vozes de Sean Astin</actor>
+      <actor>Chris Kattan</actor>
+      <actor>Brian Kimmet</actor>
+      <actor>Harland Williams</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/bunnicula01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820235900 -0300" stop="20210821000700 -0300" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <desc lang="pt">O gato do vizinho é um sujeito descolado cujo comportamento despreocupado é copiado por Tom e os outros gatos do beco. Incomodado, Jerry decide pôr um fim a essa bobagem.(n)</desc>
+    <credits>
+      <director>Darrell Van Citters</director>
+      <actor>Vozes de Stephen Stanton</actor>
+      <actor>Rick Zieff</actor>
+      <actor>Grey Griffin</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdotomjerry01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E223</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821000700 -0300" stop="20210821001400 -0300" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <desc lang="pt">Tom e Jerry são contratados por um superespião britânico para proteger os objetos preciosos da rainha, que estão sendo expostos na cidade.(n)</desc>
+    <credits>
+      <director>Darrell Van Citters</director>
+      <actor>Vozes de Stephen Stanton</actor>
+      <actor>Rick Zieff</actor>
+      <actor>Grey Griffin</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdotomjerry01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E245</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821001400 -0300" stop="20210821002700 -0300" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <desc lang="pt">Quando Rick encarrega Spike de proteger a casa contra os ladrões, Spike decide treinar Tom e Jerry para ajudá-lo. No início, parece que eles irão fazer tudo errado, mas depois o ladrão percebe que não é páreo para esse trio destruidor.(n)</desc>
+    <credits>
+      <director>Darrell Van Citters</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdotomjerry01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821002700 -0300" stop="20210821003800 -0300" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <desc lang="pt">Enquanto estão num cruzeiro com Rick e Ginger, Jerry e Espeto exploram o buffet do navio e deixam Spike e Tom no quarto. Todos conhecem Meathead, um gato violento que não medirá esforços para aterrorizá-los.(n)</desc>
+    <credits>
+      <director>Spike Brandt</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdotomjerry01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821003800 -0300" stop="20210821004700 -0300" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <desc lang="pt">Se o machucado de Tom não melhorar antes que Rick e Ginger saiam para viajar no fim de semana, Tom será obrigado a ficar no oásis de animais Amigos Felizes - o que será um sacrifício para ele. Jerry faz o que pode para não deixar Tom descansar.(n)</desc>
+    <credits>
+      <director>Darrell Van Citters</director>
+      <actor>Voz de Julie Wittner</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdotomjerry01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821004700 -0300" stop="20210821005500 -0300" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <desc lang="pt">Após uma caçada particularmente difícil, Jerry desiste! Tom fica pasmo ao ver o pequeno roedor pegar suas coisas e partir para outra casa. Alguns dias depois, Jerry já está obeso e o solitário Tom tenta sem sucesso ganhar a companhia de Spike.(n)</desc>
+    <credits>
+      <director>Darrell Van Citters</director>
+      <actor>Voz de Julie Wittner</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdotomjerry01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821005500 -0300" stop="20210821010300 -0300" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <desc lang="pt">Após outra tentativa bem-sucedida de Jerry de enganar Tom, o rato ouve Rick e Ginger falarem sobre a possibilidade de se livrar daquele "gato inútil". Rick diz que o felino "só ocupa espaço, executa apenas uma função e nem isso faz direito".(n)</desc>
+    <credits>
+      <director>Darrell Van Citters</director>
+      <actor>Voz de Julie Wittner</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdotomjerry01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E44</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821010300 -0300" stop="20210821011100 -0300" channel="Boomerang HD">
+    <title lang="pt">Oddbods</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Sashim Parmanand</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oddbods01.jpg" />
+    <country lang="pt">Singapura</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821011100 -0300" stop="20210821012000 -0300" channel="Boomerang HD">
+    <title lang="pt">Oddbods</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Sashim Parmanand</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oddbods01.jpg" />
+    <country lang="pt">Singapura</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821012000 -0300" stop="20210821012800 -0300" channel="Boomerang HD">
+    <title lang="pt">Oddbods</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Sashim Parmanand</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oddbods01.jpg" />
+    <country lang="pt">Singapura</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821012800 -0300" stop="20210821013800 -0300" channel="Boomerang HD">
+    <title lang="pt">Oddbods</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Sashim Parmanand</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oddbods01.jpg" />
+    <country lang="pt">Singapura</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821013800 -0300" stop="20210821014600 -0300" channel="Boomerang HD">
+    <title lang="pt">Oddbods</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Sashim Parmanand</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oddbods01.jpg" />
+    <country lang="pt">Singapura</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821014600 -0300" stop="20210821015400 -0300" channel="Boomerang HD">
+    <title lang="pt">Oddbods</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Sashim Parmanand</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oddbods01.jpg" />
+    <country lang="pt">Singapura</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821015400 -0300" stop="20210821020000 -0300" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <desc lang="pt">O Pernalonga está à solta na sociedade moderna! O coelho travesso enfrentará novos adversários, mas também terá o apoio de alguns novos e velhos amigos!(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/wabbit01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821020000 -0300" stop="20210821020600 -0300" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <desc lang="pt">O Pernalonga está à solta na sociedade moderna! O coelho travesso enfrentará novos adversários, mas também terá o apoio de alguns novos e velhos amigos!(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/wabbit01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821020600 -0300" stop="20210821021200 -0300" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <desc lang="pt">O Pernalonga está à solta na sociedade moderna! O coelho travesso enfrentará novos adversários, mas também terá o apoio de alguns novos e velhos amigos!(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/wabbit01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821021200 -0300" stop="20210821021900 -0300" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <desc lang="pt">O Pernalonga está à solta na sociedade moderna! O coelho travesso enfrentará novos adversários, mas também terá o apoio de alguns novos e velhos amigos!(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/wabbit01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821021900 -0300" stop="20210821022500 -0300" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <desc lang="pt">O Pernalonga está à solta na sociedade moderna! O coelho travesso enfrentará novos adversários, mas também terá o apoio de alguns novos e velhos amigos!(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/wabbit01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821022500 -0300" stop="20210821023100 -0300" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <desc lang="pt">O Pernalonga está à solta na sociedade moderna! O coelho travesso enfrentará novos adversários, mas também terá o apoio de alguns novos e velhos amigos!(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/wabbit01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821023100 -0300" stop="20210821023800 -0300" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <desc lang="pt">O Pernalonga está à solta na sociedade moderna! O coelho travesso enfrentará novos adversários, mas também terá o apoio de alguns novos e velhos amigos!(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/wabbit01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821023800 -0300" stop="20210821024400 -0300" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <desc lang="pt">O Pernalonga está à solta na sociedade moderna! O coelho travesso enfrentará novos adversários, mas também terá o apoio de alguns novos e velhos amigos!(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/wabbit01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821024400 -0300" stop="20210821025000 -0300" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <desc lang="pt">O Pernalonga está à solta na sociedade moderna! O coelho travesso enfrentará novos adversários, mas também terá o apoio de alguns novos e velhos amigos!(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/wabbit01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821025000 -0300" stop="20210821025600 -0300" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <desc lang="pt">O Pernalonga está à solta na sociedade moderna! O coelho travesso enfrentará novos adversários, mas também terá o apoio de alguns novos e velhos amigos!(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/wabbit01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821025600 -0300" stop="20210821030700 -0300" channel="Boomerang HD">
+    <title lang="pt">Mr. Bean</title>
+    <desc lang="pt">A Sra. Wicket é convencida por um perspicaz corretor de imóveis a pôr sua casa à venda. Bean fica angustiado... onde ele irá morar? A Sra. Wicket não quer nem saber.(n)</desc>
+    <credits>
+      <actor>Vozes de Rowan Atkinson</actor>
+      <actor>Teddy</actor>
+      <actor>Gary Martin</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mrbeananimado01.jpg" />
+    <country lang="pt">Inglaterra</country>
+    <episode-num system="onscreen">S3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821030700 -0300" stop="20210821032000 -0300" channel="Boomerang HD">
+    <title lang="pt">Mr. Bean</title>
+    <desc lang="pt">Bean flagra Declan dando uma carona a Irma em sua sofisticada SUV nova. Ele não está nem aí para o carro, até que Declan exibe todos os recursos do automóvel. Intrépido, Bean declara que seu carro é superior.(n)</desc>
+    <credits>
+      <actor>Vozes de Rowan Atkinson</actor>
+      <actor>Teddy</actor>
+      <actor>Gary Martin</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mrbeananimado01.jpg" />
+    <country lang="pt">Inglaterra</country>
+    <episode-num system="onscreen">S3 E25</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821032000 -0300" stop="20210821033100 -0300" channel="Boomerang HD">
+    <title lang="pt">Mr. Bean</title>
+    <desc lang="pt">Enquanto passeia com o cachorro de Irma no parque, Mr. Bean se depara com um passeador profissional de cães. O rapaz está ganhando uma fortuna enquanto Bean está trabalhando de graça!(n)</desc>
+    <credits>
+      <actor>Vozes de Rowan Atkinson</actor>
+      <actor>Teddy</actor>
+      <actor>Gary Martin</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mrbeananimado01.jpg" />
+    <country lang="pt">Inglaterra</country>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821033100 -0300" stop="20210821033800 -0300" channel="Boomerang HD">
+    <title lang="pt">Taffy</title>
+    <desc lang="pt">Dona Madame leva a família para um retiro numa floresta escondida. Mas eles logo percebem que estão perdidos.(n)</desc>
+    <credits>
+      <director>Ahmed Guerrouache</director>
+      <actor>Voz de Serra Hirsch</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S1 E27</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821033800 -0300" stop="20210821034700 -0300" channel="Boomerang HD">
+    <title lang="pt">Taffy</title>
+    <desc lang="pt">Taffy tem comido doces demais e lhe apareceu uma cárie. Agora, ele terá de ir ao veterinário para fazer uma obturação. Duque tenta mostrar a Dra. Dodóis que Taffy é um guaxinim imundo e não um gato!(n)</desc>
+    <credits>
+      <director>Ahmed Guerrouache</director>
+      <actor>Voz de Serra Hirsch</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S1 E28</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821034700 -0300" stop="20210821035500 -0300" channel="Boomerang HD">
+    <title lang="pt">Taffy</title>
+    <desc lang="pt">Dona Madame recebe a visita de seu velho amigo Ronald, um famoso caçador que detém o recorde mundial de maior número de guaxinins já capturados. Mas agora ele está velho... e cego.(n)</desc>
+    <credits>
+      <director>Ahmed Guerrouache</director>
+      <actor>Voz de Serra Hirsch</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S1 E29</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821035500 -0300" stop="20210821040200 -0300" channel="Boomerang HD">
+    <title lang="pt">Taffy</title>
+    <desc lang="pt">Duque bate a cabeça com tudo e, quando acorda, não tem a menor ideia de quem ele seja! Após pensar em um plano, Taffy chega à conclusão de que essa é a ocasião perfeita para se livrar do cão de uma vez por todas.(n)</desc>
+    <credits>
+      <director>Ahmed Guerrouache</director>
+      <actor>Voz de Serra Hirsch</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821040200 -0300" stop="20210821041300 -0300" channel="Boomerang HD">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <desc lang="pt">Quando Bunnicula descobre que um corvo que vive na internet está se alimentando da raiva e da amargura dos seus amigos, ele pede que Harold e Chester o enviem ao computador para deter o espírito diabólico.(n)</desc>
+    <credits>
+      <director>Robert Hughes</director>
+      <actor>Vozes de Sean Astin</actor>
+      <actor>Chris Kattan</actor>
+      <actor>Brian Kimmet</actor>
+      <actor>Harland Williams</actor>
+      <actor>Eric Bauza</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/bunnicula01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821041300 -0300" stop="20210821042500 -0300" channel="Boomerang HD">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <desc lang="pt">Um medalhão místico dá aos animais uma previsão do futuro.(n)</desc>
+    <credits>
+      <actor>Vozes de Sean Astin</actor>
+      <actor>Chris Kattan</actor>
+      <actor>Brian Kimmet</actor>
+      <actor>Harland Williams</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/bunnicula01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E55</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821042500 -0300" stop="20210821043600 -0300" channel="Boomerang HD">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <desc lang="pt">Ostentando penteados mágicos e irados, os animais descobrem que a beleza tem um preço.(n)</desc>
+    <credits>
+      <actor>Vozes de Sean Astin</actor>
+      <actor>Chris Kattan</actor>
+      <actor>Brian Kimmet</actor>
+      <actor>Harland Williams</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/bunnicula01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E82</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821043600 -0300" stop="20210821044900 -0300" channel="Boomerang HD">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <desc lang="pt">Quando Mina e seus amigos tentam invocar um espírito no espelho, Harold descobre que eles na verdade já invocaram um monstro de lama e não vê a hora de apresentá-lo aos seus amigos.(n)</desc>
+    <credits>
+      <actor>Vozes de Sean Astin</actor>
+      <actor>Chris Kattan</actor>
+      <actor>Brian Kimmet</actor>
+      <actor>Harland Williams</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/bunnicula01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821044900 -0300" stop="20210821050000 -0300" channel="Boomerang HD">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <desc lang="pt">Os animais deverão fugir de uma prisão para vampiros.(n)</desc>
+    <credits>
+      <actor>Vozes de Sean Astin</actor>
+      <actor>Chris Kattan</actor>
+      <actor>Brian Kimmet</actor>
+      <actor>Harland Williams</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/bunnicula01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E71</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821050000 -0300" stop="20210821050700 -0300" channel="Boomerang HD">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821050700 -0300" stop="20210821051400 -0300" channel="Boomerang HD">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821051400 -0300" stop="20210821052300 -0300" channel="Boomerang HD">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821052300 -0300" stop="20210821053000 -0300" channel="Boomerang HD">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821053000 -0300" stop="20210821053700 -0300" channel="Boomerang HD">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821053700 -0300" stop="20210821054500 -0300" channel="Boomerang HD">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821054500 -0300" stop="20210821055200 -0300" channel="Boomerang HD">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821055200 -0300" stop="20210821060000 -0300" channel="Boomerang HD">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821060800 -0300" channel="Boomerang HD">
+    <title lang="pt">Oddbods</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Sashim Parmanand</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oddbods01.jpg" />
+    <country lang="pt">Singapura</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821060800 -0300" stop="20210821061700 -0300" channel="Boomerang HD">
+    <title lang="pt">Oddbods</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Sashim Parmanand</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oddbods01.jpg" />
+    <country lang="pt">Singapura</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821061700 -0300" stop="20210821062500 -0300" channel="Boomerang HD">
+    <title lang="pt">Oddbods</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Sashim Parmanand</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oddbods01.jpg" />
+    <country lang="pt">Singapura</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821062500 -0300" stop="20210821063600 -0300" channel="Boomerang HD">
+    <title lang="pt">Oddbods</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Sashim Parmanand</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oddbods01.jpg" />
+    <country lang="pt">Singapura</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821063600 -0300" stop="20210821064400 -0300" channel="Boomerang HD">
+    <title lang="pt">Oddbods</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Sashim Parmanand</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oddbods01.jpg" />
+    <country lang="pt">Singapura</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821064400 -0300" stop="20210821065300 -0300" channel="Boomerang HD">
+    <title lang="pt">Oddbods</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Sashim Parmanand</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oddbods01.jpg" />
+    <country lang="pt">Singapura</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821065300 -0300" stop="20210821071800 -0300" channel="Boomerang HD">
+    <title lang="pt">Sr. Peabody e Sherman Show</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mike Bell</director>
+      <actor>Vozes de Eric Bauza</actor>
+      <actor>Jeff Bennett</actor>
+      <actor>Max Charles</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_srpeabodyeshermanshow01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821071800 -0300" stop="20210821074300 -0300" channel="Boomerang HD">
+    <title lang="pt">Sr. Peabody e Sherman Show</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mike Bell</director>
+      <actor>Vozes de Eric Bauza</actor>
+      <actor>Jeff Bennett</actor>
+      <actor>Max Charles</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_srpeabodyeshermanshow01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821074300 -0300" stop="20210821080600 -0300" channel="Boomerang HD">
+    <title lang="pt">Sr. Peabody e Sherman Show</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mike Bell</director>
+      <actor>Vozes de Eric Bauza</actor>
+      <actor>Jeff Bennett</actor>
+      <actor>Max Charles</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_srpeabodyeshermanshow01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821080600 -0300" stop="20210821081900 -0300" channel="Boomerang HD">
+    <title lang="pt">Mr. Bean</title>
+    <desc lang="pt">Mr. Bean está fazendo compras quando começa a chover. Ao se abrigar num café todo descolado, ele fica fascinado pela máquina cafeteira e pela quantia de dinheiro que as pessoas pagam por pequenas xícaras de café!(n)</desc>
+    <credits>
+      <actor>Vozes de Rowan Atkinson</actor>
+      <actor>Teddy</actor>
+      <actor>Gary Martin</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mrbeananimado01.jpg" />
+    <country lang="pt">Inglaterra</country>
+    <episode-num system="onscreen">S3 E15</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821081900 -0300" stop="20210821083000 -0300" channel="Boomerang HD">
+    <title lang="pt">Mr. Bean</title>
+    <desc lang="pt">Mr. Bean acha que desenterrou uma moeda valiosa em seu quintal e corre para o museu com a intenção de avaliá-la. Mal sabe ele que se trata da adorada medalha de ouro falso do Sr. Bruiser.(n)</desc>
+    <credits>
+      <actor>Vozes de Rowan Atkinson</actor>
+      <actor>Teddy</actor>
+      <actor>Gary Martin</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mrbeananimado01.jpg" />
+    <country lang="pt">Inglaterra</country>
+    <episode-num system="onscreen">S3 E24</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821083000 -0300" stop="20210821083700 -0300" channel="Boomerang HD">
+    <title lang="pt">Taffy</title>
+    <desc lang="pt">Dona Madame leva a família para um retiro numa floresta escondida. Mas eles logo percebem que estão perdidos.(n)</desc>
+    <credits>
+      <director>Ahmed Guerrouache</director>
+      <actor>Voz de Serra Hirsch</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S1 E27</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821083700 -0300" stop="20210821084600 -0300" channel="Boomerang HD">
+    <title lang="pt">Taffy</title>
+    <desc lang="pt">Dona Madame recebe a visita de seu velho amigo Ronald, um famoso caçador que detém o recorde mundial de maior número de guaxinins já capturados. Mas agora ele está velho... e cego.(n)</desc>
+    <credits>
+      <director>Ahmed Guerrouache</director>
+      <actor>Voz de Serra Hirsch</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S1 E29</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821084600 -0300" stop="20210821085300 -0300" channel="Boomerang HD">
+    <title lang="pt">Taffy</title>
+    <desc lang="pt">O Mordomo não aguenta mais as brigas entre Taffy e Duque e decide se livrar deles. Mas ele não contava com a perseverança dos dois rivais...(n)</desc>
+    <credits>
+      <director>Ahmed Guerrouache</director>
+      <actor>Voz de Serra Hirsch</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S1 E31</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821085300 -0300" stop="20210821090000 -0300" channel="Boomerang HD">
+    <title lang="pt">Taffy</title>
+    <desc lang="pt">A veterinária vai passar uns dias na mansão. E logo de cara percebe que Taffy e Duque têm muitas questões a resolver. Ela sabe disso, porque é capaz de conversar com os animais.(n)</desc>
+    <credits>
+      <director>Ahmed Guerrouache</director>
+      <actor>Voz de Serra Hirsch</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S1 E32</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821090000 -0300" stop="20210821090800 -0300" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <desc lang="pt">Planejando suas travessuras de sempre, Tom, Jerry e Spike põem a mão na massa com um drone, na casa de Rick e Ginger.(n)</desc>
+    <credits>
+      <director>Darrell Van Citters</director>
+      <actor>Voz de Julie Wittner</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdotomjerry01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E136</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821090800 -0300" stop="20210821091500 -0300" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <desc lang="pt">O Senhor da Casa convida um grupo para uma caça às raposas e instrui o mordomo para cuidar de Rupert, seu sobrinho mimado de seis anos. Fantasiado de raposa, Tom começa a ser perseguido dentro de casa, até conseguir sair.(n)</desc>
+    <credits>
+      <director>Darrell Van Citters</director>
+      <actor>Voz de Julie Wittner</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdotomjerry01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E146</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821091500 -0300" stop="20210821092400 -0300" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <desc lang="pt">Enquanto Rick e Ginger se preparam para uma festa à fantasia, Tom tenta abocanhar alguns lanchinhos. Jerry e Espeto resolvem fazer o mesmo.(n)</desc>
+    <credits>
+      <director>Darrell Van Citters</director>
+      <actor>Voz de Julie Wittner</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdotomjerry01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E156</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821092400 -0300" stop="20210821093200 -0300" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <desc lang="pt">Rick e Ginger acordam tarde e, com pressa, sem querer põem ração de cachorro no prato de Tom e ração de gato no prato de Spike. Assim, Spike começa a se comportar como um felino e Tom, como um cão.(n)</desc>
+    <credits>
+      <director>Darrell Van Citters</director>
+      <actor>Voz de Julie Wittner</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdotomjerry01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E165</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821093200 -0300" stop="20210821093900 -0300" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <desc lang="pt">Quando Tom descobre que ganhou um concurso para participar de um comercial de ração de gato, ele começa a agir com arrogância. Isso irrita Jerry, que faz o que pode para estragar as filmagens do comercial enquanto Tom tenta atuar.(n)</desc>
+    <credits>
+      <director>Darrell Van Citters</director>
+      <actor>Voz de Julie Wittner</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdotomjerry01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E184</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821093900 -0300" stop="20210821094900 -0300" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <desc lang="pt">À meia-noite, uma gatinha gótica surge com suas plantas sinistras favoritas, incluindo a sua preferida: Fang, uma enorme planta devoradora de humanos. Enquanto ela permanecer trancada na estufa, nada pode dar errado.(n)</desc>
+    <credits>
+      <director>Darrell Van Citters</director>
+      <actor>Voz de Julie Wittner</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdotomjerry01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E193</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821094900 -0300" stop="20210821095700 -0300" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <desc lang="pt">Tom está perseguindo os ratos pela casa mal-assombrada quando chega a meia-noite. Ele se vê cara a cara com uma fera esverdeada que está tão surpresa quanto ele ao vê-lo. Logo descobrimos que se trata de Toodles, uma bruxa do bem.(n)</desc>
+    <credits>
+      <director>Darrell Van Citters</director>
+      <actor>Voz de Julie Wittner</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdotomjerry01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821095700 -0300" stop="20210821100400 -0300" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <desc lang="pt">Ginger põe uns peixes congelados em cima do balcão da cozinha para descongelá-los. Ela e Rick avisam Tom para manter suas patas longe, caso contrário, ele não ganhará nada para comer.(n)</desc>
+    <credits>
+      <director>Darrell Van Citters</director>
+      <actor>Voz de Julie Wittner</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdotomjerry01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E134</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821100400 -0300" stop="20210821101200 -0300" channel="Boomerang HD">
+    <title lang="pt">Masha e o Urso</title>
+    <desc lang="pt">Que criança vai gostar de viver seguindo regras? Arrumar o que bagunçou, estudar, fazer a lição de casa na hora certa? É muito mais interessante partir para uma divertida aventura junto com os novos amigos! Mas aonde vai levar essa viagem?(n)</desc>
+    <credits>
+      <director>Oleg Kuzovkov</director>
+      <actor>Vozes de Alina Kukushkina</actor>
+      <actor>Boris Kutnevich</actor>
+      <actor>Rebecca Bloom</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mashabear01.jpg" />
+    <country lang="pt">Rússia</country>
+    <episode-num system="onscreen">S3 E74</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821101200 -0300" stop="20210821102200 -0300" channel="Boomerang HD">
+    <title lang="pt">Masha e o Urso</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Oleg Kuzovkov</director>
+      <actor>Vozes de Alina Kukushkina</actor>
+      <actor>Boris Kutnevich</actor>
+      <actor>Rebecca Bloom</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mashabear01.jpg" />
+    <country lang="pt">Rússia</country>
+    <episode-num system="onscreen">S3 E76</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821102200 -0300" stop="20210821103000 -0300" channel="Boomerang HD">
+    <title lang="pt">Masha e o Urso</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Oleg Kuzovkov</director>
+      <actor>Vozes de Alina Kukushkina</actor>
+      <actor>Boris Kutnevich</actor>
+      <actor>Rebecca Bloom</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mashabear01.jpg" />
+    <country lang="pt">Rússia</country>
+    <episode-num system="onscreen">S3 E77</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821103000 -0300" stop="20210821103700 -0300" channel="Boomerang HD">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821103700 -0300" stop="20210821104600 -0300" channel="Boomerang HD">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821104600 -0300" stop="20210821105300 -0300" channel="Boomerang HD">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821105300 -0300" stop="20210821111500 -0300" channel="Boomerang HD">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+    <desc lang="pt">Na Flórida, a gangue se dirige à casa de repouso onde a adorada avó de Salsicha reside. Lá, eles descobrem que um Homem Macaco enlouquecido tem assustado os idosos.(n)</desc>
+    <credits>
+      <director>Kyle Stafford</director>
+      <actor>Vozes de Grey DeLisle</actor>
+      <actor>Matthew Lillard</actor>
+      <actor>Kate Micucci</actor>
+      <actor>Frank Welker</actor>
+      <actor>Jeff Bennett</actor>
+      <actor>Phil Morris</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/quelegalscooby01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E46</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821111500 -0300" stop="20210821113800 -0300" channel="Boomerang HD">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+    <desc lang="pt">Scooby-Doo encontra um antigo colega de canil, da época em que vivia num abrigo. O nome dele é Axel, agora um cão da polícia altamente treinado.(n)</desc>
+    <credits>
+      <director>Kyle Stafford</director>
+      <actor>Vozes de Grey DeLisle</actor>
+      <actor>Matthew Lillard</actor>
+      <actor>Kate Micucci</actor>
+      <actor>Frank Welker</actor>
+      <actor>Jeff Bennett</actor>
+      <actor>Phil Morris</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/quelegalscooby01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E47</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821113800 -0300" stop="20210821120000 -0300" channel="Boomerang HD">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+    <desc lang="pt">Quando uma empresa de videogames tenta comprar um velho algoritmo de Velma e convencê-la a trabalhar para eles, em São Francisco, a gangue acaba se envolvendo no mistério de um vilão dos jogos que aparentemente voltou à vida: o Chef Fantasma.(n)</desc>
+    <credits>
+      <director>Kyle Stafford</director>
+      <actor>Vozes de Grey DeLisle</actor>
+      <actor>Matthew Lillard</actor>
+      <actor>Kate Micucci</actor>
+      <actor>Frank Welker</actor>
+      <actor>Jeff Bennett</actor>
+      <actor>Phil Morris</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/quelegalscooby01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E48</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821120000 -0300" stop="20210821120500 -0300" channel="Boomerang HD">
+    <title lang="pt">A Turma da Mônica</title>
+    <desc lang="pt">Nosso amigo Cascão se recusa a seguir a nova moda em cabelos por ter que lavar para poder fazer um penteado novo, mas depois de ver o quanto as meninas estavam curtindo essa nova onda de topetes ele resolve pedir ajuda ao seu amigo Franjinha.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/monica01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821120500 -0300" stop="20210821121500 -0300" channel="Boomerang HD">
+    <title lang="pt">A Turma da Mônica</title>
+    <desc lang="pt">Mônica, Cebolinha, Cascão, Magali e seus amiguinhos formam um grupo de crianças alegres e divertidas que aprontam muitas confusões e vivem grandes aventuras.(n)</desc>
+    <credits>
+      <director>Maurício de Souza</director>
+    </credits>
+    <date>2002</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/monica01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821121500 -0300" stop="20210821122200 -0300" channel="Boomerang HD">
+    <title lang="pt">A Turma da Mônica</title>
+    <desc lang="pt">Cebolinha exagerou na bagunça! Sua mãe ficou louca da vida e o nosso amigo teve que arrumar tudo e ainda foi pra cama mais cedo.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/monica01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821122200 -0300" stop="20210821122800 -0300" channel="Boomerang HD">
+    <title lang="pt">A Turma da Mônica</title>
+    <desc lang="pt">O que começou com uma brincadeira inocente da turminha acaba virando um pesadelo. Ao brincar de policia e ladrão Mônica bate a cabeça e pensa que é uma policial de verdade e quer manter os meninos presos para a eternidade.(n)</desc>
+    <credits>
+      <director>Maurício de Souza</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/monica01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821122800 -0300" stop="20210821123600 -0300" channel="Boomerang HD">
+    <title lang="pt">Zuzubalândia</title>
+    <desc lang="pt">A Bruxa cria uma poção do amor para fazer com que o Rei Apetite se apaixone por ela. Seu plano é entrar no castelo e pegar a coroa mágica pra se tornar rainha de Zuzubalândia.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_zuzubalandia01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E36</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821123600 -0300" stop="20210821124500 -0300" channel="Boomerang HD">
+    <title lang="pt">Zuzubalândia</title>
+    <desc lang="pt">A Bruxa e a Garfídea recebem a visita do Morcego Dagoberto. A Bruxa explica que o reino de Zuzubalândia está cheio de crianças apetitosas prontas para serem mordidas. O problema é que o Dagoberto tem um segredo.(n)</desc>
+    <credits>
+      <director>Mariana Caltabiano</director>
+      <actor>Vozes de Eduardo Jardim</actor>
+      <actor>Luiza Porto</actor>
+      <actor>Hugo Picchi</actor>
+      <actor>Daniel Costa</actor>
+      <actor>Bruna Guerin</actor>
+      <actor>Antoniela Canto</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_zuzubalandia01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821124500 -0300" stop="20210821125200 -0300" channel="Boomerang HD">
+    <title lang="pt">Zuzubalândia</title>
+    <desc lang="pt">A Bruxa Anoréxica não aguenta mais o canto da Zuzu. Por isso cria um feitiço que faz com que ela perca a voz. Para que Zuzu possa voltar a falar, a turma precisa pegar as letras do alfabeto que ficam no Vale da Sopa de Letrinhas.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_zuzubalandia01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821125200 -0300" stop="20210821125900 -0300" channel="Boomerang HD">
+    <title lang="pt">Zuzubalândia</title>
+    <desc lang="pt">A Bruxa põe um feitiço na água de Zuzubalândia que faz com que seus habitantes se transformem em balões.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_zuzubalandia01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821125900 -0300" stop="20210821142600 -0300" channel="Boomerang HD">
+    <title lang="pt">Scooby-Doo! O Mistério Começa</title>
+    <desc lang="pt">Descubra como a Equipe do Mistério se reuniu, nesta produção que mostra como tudo começou.(n)</desc>
+    <credits>
+      <director>Brian Levant</director>
+      <actor>Kate Melton</actor>
+      <actor>Hayley Kiyoko</actor>
+      <actor>Robbie Amell</actor>
+      <actor>Nick Palatas</actor>
+      <actor>Shawn Macdonald</actor>
+      <actor>Brian J. Sutton</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_scoobydoomisterio01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Canadá</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821142600 -0300" stop="20210821143400 -0300" channel="Boomerang HD">
+    <title lang="pt">Oddbods</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Sashim Parmanand</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oddbods01.jpg" />
+    <country lang="pt">Singapura</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821143400 -0300" stop="20210821144500 -0300" channel="Boomerang HD">
+    <title lang="pt">Oddbods</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Sashim Parmanand</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oddbods01.jpg" />
+    <country lang="pt">Singapura</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821144500 -0300" stop="20210821145300 -0300" channel="Boomerang HD">
+    <title lang="pt">Oddbods</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Sashim Parmanand</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oddbods01.jpg" />
+    <country lang="pt">Singapura</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821145300 -0300" stop="20210821150100 -0300" channel="Boomerang HD">
+    <title lang="pt">Oddbods</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Sashim Parmanand</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oddbods01.jpg" />
+    <country lang="pt">Singapura</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821150100 -0300" stop="20210821150700 -0300" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <desc lang="pt">O Pernalonga está à solta na sociedade moderna! O coelho travesso enfrentará novos adversários, mas também terá o apoio de alguns novos e velhos amigos!(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/wabbit01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821150700 -0300" stop="20210821151300 -0300" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <desc lang="pt">O Pernalonga está à solta na sociedade moderna! O coelho travesso enfrentará novos adversários, mas também terá o apoio de alguns novos e velhos amigos!(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/wabbit01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821151300 -0300" stop="20210821152200 -0300" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <desc lang="pt">O Pernalonga está à solta na sociedade moderna! O coelho travesso enfrentará novos adversários, mas também terá o apoio de alguns novos e velhos amigos!(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/wabbit01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821152200 -0300" stop="20210821152800 -0300" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <desc lang="pt">O Pernalonga está à solta na sociedade moderna! O coelho travesso enfrentará novos adversários, mas também terá o apoio de alguns novos e velhos amigos!(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/wabbit01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821152800 -0300" stop="20210821153300 -0300" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <desc lang="pt">O Pernalonga está à solta na sociedade moderna! O coelho travesso enfrentará novos adversários, mas também terá o apoio de alguns novos e velhos amigos!(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/wabbit01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821153300 -0300" stop="20210821154200 -0300" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <desc lang="pt">O Pernalonga está à solta na sociedade moderna! O coelho travesso enfrentará novos adversários, mas também terá o apoio de alguns novos e velhos amigos!(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/wabbit01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821154200 -0300" stop="20210821154800 -0300" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <desc lang="pt">O Pernalonga está à solta na sociedade moderna! O coelho travesso enfrentará novos adversários, mas também terá o apoio de alguns novos e velhos amigos!(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/wabbit01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821154800 -0300" stop="20210821155400 -0300" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <desc lang="pt">O Pernalonga está à solta na sociedade moderna! O coelho travesso enfrentará novos adversários, mas também terá o apoio de alguns novos e velhos amigos!(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/wabbit01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821155400 -0300" stop="20210821161800 -0300" channel="Boomerang HD">
+    <title lang="pt">Barbie Dreamhouse Adventures</title>
+    <desc lang="pt">A família Roberts corre o risco de ser expulsa da Casa dos Sonhos. A menos que Barbie consiga descobrir quem está por trás da repentina epidemia de pulgas em Malibu.(n)</desc>
+    <credits>
+      <director>Patrice Berube</director>
+      <actor>Vozes de America Young</actor>
+      <actor>Kirsten Day</actor>
+      <actor>Cassandra Lee Morris</actor>
+      <actor>America Young</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E26</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821161800 -0300" stop="20210821162600 -0300" channel="Boomerang HD">
+    <title lang="pt">Masha e o Urso</title>
+    <desc lang="pt">Que criança vai gostar de viver seguindo regras? Arrumar o que bagunçou, estudar, fazer a lição de casa na hora certa? É muito mais interessante partir para uma divertida aventura junto com os novos amigos! Mas aonde vai levar essa viagem?(n)</desc>
+    <credits>
+      <director>Oleg Kuzovkov</director>
+      <actor>Vozes de Alina Kukushkina</actor>
+      <actor>Boris Kutnevich</actor>
+      <actor>Rebecca Bloom</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mashabear01.jpg" />
+    <country lang="pt">Rússia</country>
+    <episode-num system="onscreen">S3 E74</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821162600 -0300" stop="20210821163700 -0300" channel="Boomerang HD">
+    <title lang="pt">Lego Friends</title>
+    <desc lang="pt">Quando Liz apresenta seu novo aplicativo de tradução para animais de estimação, o MiauAu, um dia no parque de diversões acaba saindo melhor do que o esperado.(n)</desc>
+    <credits>
+      <director>Kacey Arnold</director>
+      <actor>Vozes de Alex Cartañá</actor>
+      <actor>Jasmine St. Clair</actor>
+      <actor>Amaya Harrow</actor>
+      <actor>Kira Buckland</actor>
+      <actor>Allegra Clark</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Dinamarca</country>
+    <episode-num system="onscreen">S4 E15</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821163700 -0300" stop="20210821165000 -0300" channel="Boomerang HD">
+    <title lang="pt">Lego Friends</title>
+    <desc lang="pt">As garotas passam a noite no farol para cuidar de animais machucados na clínica de resgate.(n)</desc>
+    <credits>
+      <director>Kacey Arnold</director>
+      <actor>Vozes de Alex Cartañá</actor>
+      <actor>Jasmine St. Clair</actor>
+      <actor>Amaya Harrow</actor>
+      <actor>Kira Buckland</actor>
+      <actor>Allegra Clark</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Dinamarca</country>
+    <episode-num system="onscreen">S4 E16</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821165000 -0300" stop="20210821170100 -0300" channel="Boomerang HD">
+    <title lang="pt">Lego Friends</title>
+    <desc lang="pt">As meninas usam todos os seus talentos para tentar salvar Barney de ser forçado a sair da polícia e ajudar a policial Laura a manter seu parceiro.(n)</desc>
+    <credits>
+      <director>Kacey Arnold</director>
+      <actor>Vozes de Alex Cartañá</actor>
+      <actor>Jasmine St. Clair</actor>
+      <actor>Amaya Harrow</actor>
+      <actor>Kira Buckland</actor>
+      <actor>Allegra Clark</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Dinamarca</country>
+    <episode-num system="onscreen">S4 E17</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821170100 -0300" stop="20210821170800 -0300" channel="Boomerang HD">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821170800 -0300" stop="20210821171700 -0300" channel="Boomerang HD">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821171700 -0300" stop="20210821172400 -0300" channel="Boomerang HD">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821172400 -0300" stop="20210821173100 -0300" channel="Boomerang HD">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <desc lang="pt">Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/grizzylemmings01.jpg" />
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821173100 -0300" stop="20210821173900 -0300" channel="Boomerang HD">
+    <title lang="pt">Mighty Mike</title>
+    <desc lang="pt">Os guaxinins observam Mike enciumados enquanto ele descansa confortavelmente na sala. Ah, se eles pudessem aproveitar também. Até que Freddy tem uma ideia.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">França</country>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S1 E27</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821173900 -0300" stop="20210821174900 -0300" channel="Boomerang HD">
+    <title lang="pt">Mighty Mike</title>
+    <desc lang="pt">Louise tira uma foto de Mike enquanto eles se divertem juntos num jogo. O único problema é que Mike está absolutamente ridículo na foto.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">França</country>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S1 E29</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821174900 -0300" stop="20210821175700 -0300" channel="Boomerang HD">
+    <title lang="pt">Mighty Mike</title>
+    <desc lang="pt">As tartarugas organizam uma competição esportiva em que, quem vencer, ganhará um troféu especial. Iris inscreve o relutante Mike e Mercury decide participar para não perder a diversão.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">França</country>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821175700 -0300" stop="20210821181200 -0300" channel="Boomerang HD">
+    <title lang="pt">Corrida Maluca</title>
+    <desc lang="pt">Pandora troca de lugar com sua irmã gêmea, Penny, para roubar o prêmio de espírito esportivo e jogo limpo. Mas a esquentada Pandora está tendo dificuldade para continuar se passando por sua irmã boazinha e inabalável.(n)</desc>
+    <credits>
+      <actor>Vozes de Christopher Judge</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Tom Kenny</actor>
+      <actor>Nicole Parker</actor>
+      <actor>Peter Woodward</actor>
+      <actor>Daws Butler</actor>
+      <actor>Don Messick</actor>
+      <actor>John Stephenson</actor>
+      <actor>Paul Winchell</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_corridamaluca01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E23</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821181200 -0300" stop="20210821182300 -0300" channel="Boomerang HD">
+    <title lang="pt">Corrida Maluca</title>
+    <desc lang="pt">A corrida mais recente de P.H. Celeira envia os competidores a Marte, para enfrentar um diabólico tirano espacial, com a Terra como prêmio.(n)</desc>
+    <credits>
+      <actor>Vozes de Christopher Judge</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Tom Kenny</actor>
+      <actor>Nicole Parker</actor>
+      <actor>Peter Woodward</actor>
+      <actor>Daws Butler</actor>
+      <actor>Don Messick</actor>
+      <actor>John Stephenson</actor>
+      <actor>Paul Winchell</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_corridamaluca01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E24</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821182300 -0300" stop="20210821184800 -0300" channel="Boomerang HD">
+    <title lang="pt">Scooby-Doo! E Convidados</title>
+    <desc lang="pt">Scooby inscreve o poeta Salsicha num concurso de poesias no Central Park. Mas Salsicha se apavora quando descobre que competirá com a cantora e compositora HALSEY!(n)</desc>
+    <credits>
+      <director>Frank Paur</director>
+      <actor>Vozes de Frank Welker</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Matthew Lillard</actor>
+      <actor>Kate Micucci</actor>
+      <actor>Jim Gaffigan</actor>
+      <actor>Fred Tatasciore</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821184800 -0300" stop="20210821191300 -0300" channel="Boomerang HD">
+    <title lang="pt">Scooby-Doo! E Convidados</title>
+    <desc lang="pt">A gangue se une ao ator STEVE BUSCEMI na Sicília para deter os ataques de um monstro de fogo!(n)</desc>
+    <credits>
+      <director>Frank Paur</director>
+      <actor>Vozes de Frank Welker</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Matthew Lillard</actor>
+      <actor>Kate Micucci</actor>
+      <actor>Jim Gaffigan</actor>
+      <actor>Fred Tatasciore</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821191300 -0300" stop="20210821193500 -0300" channel="Boomerang HD">
+    <title lang="pt">Scooby-Doo! E Convidados</title>
+    <desc lang="pt">Contratados para vigiar um boneco possuído de ventríloquo, Scooby e a gangue se unem aos jurados JEFF DUNHAM e DARCI LYNNE FARMER para deter o monstrinho!(n)</desc>
+    <credits>
+      <director>Frank Paur</director>
+      <actor>Vozes de Frank Welker</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Matthew Lillard</actor>
+      <actor>Kate Micucci</actor>
+      <actor>Jim Gaffigan</actor>
+      <actor>Fred Tatasciore</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821193500 -0300" stop="20210821194800 -0300" channel="Boomerang HD">
+    <title lang="pt">DC Super Hero Girls</title>
+    <desc lang="pt">Pronta para emergir da sombra de seu pai, Zee Zatara busca a fama e o reconhecimento secretamente com uma apresentação no píer.(n)</desc>
+    <credits>
+      <director>Noëlle Raffaele</director>
+      <actor>Vozes de Kimberly Brooks</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Tara Strong</actor>
+      <actor>Nicole Sullivan</actor>
+      <actor>Myrna Velasco</actor>
+      <actor>Kari Wahlgren</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821194800 -0300" stop="20210821200000 -0300" channel="Boomerang HD">
+    <title lang="pt">DC Super Hero Girls</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Noëlle Raffaele</director>
+      <actor>Vozes de Kimberly Brooks</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Tara Strong</actor>
+      <actor>Nicole Sullivan</actor>
+      <actor>Myrna Velasco</actor>
+      <actor>Kari Wahlgren</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821200000 -0300" stop="20210821201300 -0300" channel="Boomerang HD">
+    <title lang="pt">Dorothy e o Mágico de Oz</title>
+    <desc lang="pt">Dorothy ajuda Leão a se livrar de um inseto em seu ouvido.(n)</desc>
+    <credits>
+      <actor>Vozes de Jessica DiCicco</actor>
+      <actor>Jess Harnell</actor>
+      <actor>JP Karliak</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821201300 -0300" stop="20210821202500 -0300" channel="Boomerang HD">
+    <title lang="pt">Dorothy e o Mágico de Oz</title>
+    <desc lang="pt">A gangue conhece um novo homem mecânico, Tik Tok.(n)</desc>
+    <credits>
+      <actor>Vozes de Jessica DiCicco</actor>
+      <actor>Jess Harnell</actor>
+      <actor>JP Karliak</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821202500 -0300" stop="20210821203600 -0300" channel="Boomerang HD">
+    <title lang="pt">Mr. Bean</title>
+    <desc lang="pt">Mr. Bean quebra sua cama ao usá-la como um pula-pula. Ele tenta consertá-la, mas não consegue. Na manhã seguinte, após uma terrível noite de sono, ele decide comprar uma cama nova.(n)</desc>
+    <credits>
+      <actor>Vozes de Rowan Atkinson</actor>
+      <actor>Teddy</actor>
+      <actor>Gary Martin</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mrbeananimado01.jpg" />
+    <country lang="pt">Inglaterra</country>
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821203600 -0300" stop="20210821204900 -0300" channel="Boomerang HD">
+    <title lang="pt">Mr. Bean</title>
+    <desc lang="pt">Mr. Bean está fazendo compras quando começa a chover. Ao se abrigar num café todo descolado, ele fica fascinado pela máquina cafeteira e pela quantia de dinheiro que as pessoas pagam por pequenas xícaras de café!(n)</desc>
+    <credits>
+      <actor>Vozes de Rowan Atkinson</actor>
+      <actor>Teddy</actor>
+      <actor>Gary Martin</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mrbeananimado01.jpg" />
+    <country lang="pt">Inglaterra</country>
+    <episode-num system="onscreen">S3 E15</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821204900 -0300" stop="20210821210000 -0300" channel="Boomerang HD">
+    <title lang="pt">Mr. Bean</title>
+    <desc lang="pt">Mr. Bean acha que desenterrou uma moeda valiosa em seu quintal e corre para o museu com a intenção de avaliá-la. Mal sabe ele que se trata da adorada medalha de ouro falso do Sr. Bruiser.(n)</desc>
+    <credits>
+      <actor>Vozes de Rowan Atkinson</actor>
+      <actor>Teddy</actor>
+      <actor>Gary Martin</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mrbeananimado01.jpg" />
+    <country lang="pt">Inglaterra</country>
+    <episode-num system="onscreen">S3 E24</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821210000 -0300" stop="20210821210800 -0300" channel="Boomerang HD">
+    <title lang="pt">Taffy</title>
+    <desc lang="pt">Dona Madame leva a família para um retiro numa floresta escondida. Mas eles logo percebem que estão perdidos.(n)</desc>
+    <credits>
+      <director>Ahmed Guerrouache</director>
+      <actor>Voz de Serra Hirsch</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S1 E27</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821210800 -0300" stop="20210821211700 -0300" channel="Boomerang HD">
+    <title lang="pt">Taffy</title>
+    <desc lang="pt">Dona Madame recebe a visita de seu velho amigo Ronald, um famoso caçador que detém o recorde mundial de maior número de guaxinins já capturados. Mas agora ele está velho... e cego.(n)</desc>
+    <credits>
+      <director>Ahmed Guerrouache</director>
+      <actor>Voz de Serra Hirsch</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S1 E29</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821211700 -0300" stop="20210821212400 -0300" channel="Boomerang HD">
+    <title lang="pt">Taffy</title>
+    <desc lang="pt">O Mordomo não aguenta mais as brigas entre Taffy e Duque e decide se livrar deles. Mas ele não contava com a perseverança dos dois rivais...(n)</desc>
+    <credits>
+      <director>Ahmed Guerrouache</director>
+      <actor>Voz de Serra Hirsch</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S1 E31</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821212400 -0300" stop="20210821213200 -0300" channel="Boomerang HD">
+    <title lang="pt">Taffy</title>
+    <desc lang="pt">A veterinária vai passar uns dias na mansão. E logo de cara percebe que Taffy e Duque têm muitas questões a resolver. Ela sabe disso, porque é capaz de conversar com os animais.(n)</desc>
+    <credits>
+      <director>Ahmed Guerrouache</director>
+      <actor>Voz de Serra Hirsch</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S1 E32</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821213200 -0300" stop="20210821213700 -0300" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <desc lang="pt">O Pernalonga está à solta na sociedade moderna! O coelho travesso enfrentará novos adversários, mas também terá o apoio de alguns novos e velhos amigos!(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/wabbit01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821213700 -0300" stop="20210821214300 -0300" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <desc lang="pt">O Pernalonga está à solta na sociedade moderna! O coelho travesso enfrentará novos adversários, mas também terá o apoio de alguns novos e velhos amigos!(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/wabbit01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821214300 -0300" stop="20210821215200 -0300" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <desc lang="pt">O Pernalonga está à solta na sociedade moderna! O coelho travesso enfrentará novos adversários, mas também terá o apoio de alguns novos e velhos amigos!(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/wabbit01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821215200 -0300" stop="20210821215800 -0300" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <desc lang="pt">O Pernalonga está à solta na sociedade moderna! O coelho travesso enfrentará novos adversários, mas também terá o apoio de alguns novos e velhos amigos!(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/wabbit01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821215800 -0300" stop="20210821220400 -0300" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <desc lang="pt">O Pernalonga está à solta na sociedade moderna! O coelho travesso enfrentará novos adversários, mas também terá o apoio de alguns novos e velhos amigos!(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/wabbit01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821220400 -0300" stop="20210821221200 -0300" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <desc lang="pt">O Pernalonga está à solta na sociedade moderna! O coelho travesso enfrentará novos adversários, mas também terá o apoio de alguns novos e velhos amigos!(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/wabbit01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821221200 -0300" stop="20210821221800 -0300" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <desc lang="pt">O Pernalonga está à solta na sociedade moderna! O coelho travesso enfrentará novos adversários, mas também terá o apoio de alguns novos e velhos amigos!(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/wabbit01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821221800 -0300" stop="20210821222400 -0300" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <desc lang="pt">O Pernalonga está à solta na sociedade moderna! O coelho travesso enfrentará novos adversários, mas também terá o apoio de alguns novos e velhos amigos!(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/wabbit01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821222400 -0300" stop="20210821223500 -0300" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <desc lang="pt">Quando Toodles contrata Tom e Jerry para investigar e protegê-la contra uma ameaça à sua herança de latas de atum, uma figura misteriosa tenta acabar com eles durante a investigação.(n)</desc>
+    <credits>
+      <director>Darrell Van Citters</director>
+      <actor>Vozes de Rick Zieff</actor>
+      <actor>Joey D'Auria</actor>
+      <actor>Alicyn Packard</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdotomjerry01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821223500 -0300" stop="20210821224600 -0300" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <desc lang="pt">Quando Rick encarrega Spike de proteger a casa contra os ladrões, Spike decide treinar Tom e Jerry para ajudá-lo. No início, parece que eles irão fazer tudo errado, mas depois o ladrão percebe que não é páreo para esse trio destruidor.(n)</desc>
+    <credits>
+      <director>Darrell Van Citters</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdotomjerry01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821224600 -0300" stop="20210821225900 -0300" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <desc lang="pt">Butch e um esquilo detetive montaram um escritório do outro lado da rua e estão roubando todos os clientes de Tom e Jerry com acessórios de alta tecnologia para solucionar os crimes. Tom e Jerry os desafiam para uma competição.(n)</desc>
+    <credits>
+      <director>Spike Brandt</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdotomjerry01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821225900 -0300" stop="20210821230900 -0300" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <desc lang="pt">Dr. Bigby inventa uma máquina de teletransporte que sem querer leva Jerry e Tom a Paris. Lá, eles conhecem Gigi e Cozette.(n)</desc>
+    <credits>
+      <director>Spike Brandt</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdotomjerry01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821230900 -0300" stop="20210821232000 -0300" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <desc lang="pt">Junte-se a Tom e Jerry enquanto os dois disputam território. Eles vão aprontar novas e hilárias travessuras, torcendo para não ser pegos!(n)</desc>
+    <credits>
+      <director>Spike Brandt</director>
+      <actor>Vozes de Richard Kind</actor>
+      <actor>Dana Hill</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdotomjerry01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821232000 -0300" stop="20210821233200 -0300" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <desc lang="pt">Tom come queijo de lata estragado e começa a ter alucinações. Ele então recebe uma série de visitas dos universos de Tom e Jerry. Agora, Tom deverá se tornar um gato melhor para acabar com o pesadelo.(n)</desc>
+    <credits>
+      <director>Spike Brandt</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdotomjerry01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821233200 -0300" stop="20210821233900 -0300" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <desc lang="pt">Junte-se a Tom e Jerry enquanto os dois disputam território. Eles vão aprontar novas e hilárias travessuras, torcendo para não ser pegos!(n)</desc>
+    <credits>
+      <director>Spike Brandt</director>
+      <actor>Vozes de Richard Kind</actor>
+      <actor>Dana Hill</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdotomjerry01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821233900 -0300" stop="20210821235400 -0300" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Darrell Van Citters</director>
+      <actor>Voz de Julie Wittner</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdotomjerry01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E33</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821235400 -0300" stop="20210822001700 -0300" channel="Boomerang HD">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+    <desc lang="pt">Na Flórida, a gangue se dirige à casa de repouso onde a adorada avó de Salsicha reside. Lá, eles descobrem que um Homem Macaco enlouquecido tem assustado os idosos.(n)</desc>
+    <credits>
+      <director>Kyle Stafford</director>
+      <actor>Vozes de Grey DeLisle</actor>
+      <actor>Matthew Lillard</actor>
+      <actor>Kate Micucci</actor>
+      <actor>Frank Welker</actor>
+      <actor>Jeff Bennett</actor>
+      <actor>Phil Morris</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/quelegalscooby01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E46</episode-num>
     <rating system="BR">
       <value>L</value>
     </rating>
