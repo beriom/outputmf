@@ -102,10 +102,12 @@
   </channel>
   <channel id="Curta! HD">
     <display-name lang="pt">Curta! HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/curta.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Discovery Channel HD">
     <display-name lang="pt">Discovery Channel HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/discoverychannel.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Discovery Civilization HD">
@@ -3874,6 +3876,249 @@
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820163000 -0300" stop="20210820170000 -0300" channel="Curta! HD">
+    <title lang="pt">Fronteiras do Pensamento</title>
+    <desc lang="pt">A moçambicana Graça Machel é considerada uma das mais importantes ativistas africanas da atualidade.(n)</desc>
+    <credits>
+      <director>André Brandão</director>
+      <director>Ricardo Carioba</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_fronteirasdopensamento01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820170000 -0300" stop="20210820180000 -0300" channel="Curta! HD">
+    <title lang="pt">Foucault Contra Ele Mesmo</title>
+    <desc lang="pt">Michel Foucault se foi em junho de 1984, deixando para trás uma obra lendária, traduzida no mundo inteiro, sujeita a milhares de interpretações. O personagem está a altura de sua obra complexa e contrastada.(n)</desc>
+    <credits>
+      <director>François Caillat</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Biografia</category>
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820183000 -0300" channel="Curta! HD">
+    <title lang="pt">Luz &amp; Sombra - Fotógrafos do Cinema Brasileiro</title>
+    <desc lang="pt">Adrian Cooper, inglês radicado no Brasil, fala de seu trabalho como diretor e fotógrafo em filmes que marcaram sua carreira, como Chapeleiros, Marvada Carne e Sonhos sem fim.(n)</desc>
+    <credits>
+      <director>Betse de Paula</director>
+      <director>Jacques Cheuiche</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_luzsombrafotografosdo01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820183000 -0300" stop="20210820190000 -0300" channel="Curta! HD">
+    <title lang="pt">Visceral Brasil</title>
+    <desc lang="pt">O Maçambique é a representação da cerimônia de coroação da Rainha Ginga e do rei de Congo, tradição Africana.(n)</desc>
+    <credits>
+      <director>Marcia Paraiso</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/visceralbrasil01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820200000 -0300" channel="Curta! HD">
+    <title lang="pt">Minha Vida na Alemanha de Hitler</title>
+    <desc lang="pt">Da transformação do NSDAP em um partido único para a queima de livros; da Noite das Facas Longas à proclamação de Hitler como Führer.(n)</desc>
+    <credits>
+      <director>Jérôme Frieur</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820212000 -0300" channel="Curta! HD">
+    <title lang="pt">Soldados do Araguaia</title>
+    <desc lang="pt">Entre 1972 e 1975, o Exército Brasileiro enviou milhares de soldados a selva amazônica para exterminar a Guerrilha do Araguaia. 40 anos mais tarde, os soldados que participaram do conflito contam as atrocidades da tortura sofrida.(n)</desc>
+    <credits>
+      <director>Belisario Franca</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820212000 -0300" stop="20210820230000 -0300" channel="Curta! HD">
+    <title lang="pt">Democracia em Preto e Branco</title>
+    <desc lang="pt">O filme mostra como o esporte, política e música se encontraram para mudar o rumo da história do País nos anos 80.(n)</desc>
+    <credits>
+      <director>Pedro Asbeg</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210821000000 -0300" channel="Curta! HD">
+    <title lang="pt">O Voto</title>
+    <desc lang="pt">O quarto episódio da série continua a examinar a crescente disputa sobre estratégias e táticas das sufragistas nos Estados Unidos.(n)</desc>
+    <credits>
+      <director>Michelle Ferrari</director>
+      <actor>Alexander Keyssar</actor>
+      <actor>J.D. Zahniser</actor>
+      <actor>Jad Adams</actor>
+      <actor>Ellen Dubois</actor>
+      <actor>Tina Cassidy</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820162400 -0300" stop="20210820171400 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+    <desc lang="pt">Ed tenta sobreviver sozinho no deserto de Sonora. Ele precisa sobreviver durante dez dias sem água, sem comida e sem uma faca.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/edstafford01.jpg" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820171400 -0300" stop="20210820180400 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+    <desc lang="pt">Ed Stafford cita suas maiores dicas para sobreviver totalmente sozinho, dez dias por vez, em oito dos ambientes mais difíceis do mundo. Ele aprendeu que, às vezes, o inesperado traz recompensas.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/edstafford01.jpg" />
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820180400 -0300" stop="20210820185200 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Largados e Pelados</title>
+    <desc lang="pt">Em uma selva de Belize, a sobrevivencialista Kim Kelly sofre com chuvas torrenciais, carrapatos impiedosos e bugios intimidadores. Sem dormir durante vários dias, Kim corre riscos na floresta.(n)</desc>
+    <credits>
+      <actor>Billy Berger</actor>
+      <actor>Kylie Furneaux</actor>
+      <actor>Michael Brown</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820185200 -0300" stop="20210820194200 -0300" channel="Discovery Channel HD">
+    <title lang="pt">À Prova de Tudo</title>
+    <desc lang="pt">Bear Grylls entra no círculo de fogo do Pacífico e passa uma semana enfrentando desafios na área devastada pelo tsunami de 2004.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/aprovadetudoafricadonorte01.jpg" />
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820194200 -0300" stop="20210820203200 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Vida Remota</title>
+    <desc lang="pt">Os Raineys constroem uma barragem e planejam uma mudança de emergência para uma família que vive em uma zona de inundação no Missouri. Para salvar o negócio da família, Matt reforma sua loja de facas.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_vidaremota01.jpg" />
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820203200 -0300" stop="20210820212200 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Vida Remota</title>
+    <desc lang="pt">Os Raneys reformam o sistema elétrico defeituoso de Kevin Tubbs e constroem o primeiro moinho hidroelétrico do rio Little Susitna, para tornar a propriedade segura para os filhos de Kevin.(n)</desc>
+    <credits>
+      <director>Tim Pastore</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_vidaremota01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820212200 -0300" stop="20210820230200 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Febre do Ouro</title>
+    <desc lang="pt">Parker faz uma segunda baixa e confia tudo a um capataz novato. Tony luta contra um local amaldiçoado. Rick começa sua planta em solo rico. Fred Lewis chama uma lenda da mineração.(n)</desc>
+    <credits>
+      <actor>Parker Schnabel</actor>
+      <actor>Brennan Ruautt</actor>
+      <actor>Ben Hudack</actor>
+      <actor>Rick Ness</actor>
+      <actor>Tony Beets</actor>
+      <actor>Kevin Beets</actor>
+      <actor>Monica Beets</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/febredoourodisputa01.jpg" />
+    <episode-num system="onscreen">S11 E2</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820230200 -0300" stop="20210820235200 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Riquezas do Gelo</title>
+    <desc lang="pt">Em um último esforço para salvar Cloud Island, Doug Stoup leva os mineradores para colher amostras num manto de gelo. Em Ilulissat, os métodos científicos de Eric incomodam os irmãos Feldman.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_riquezasdogelo01.jpg" />
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820235200 -0300" stop="20210821004600 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Tudo Por Ouro</title>
+    <desc lang="pt">As temperaturas altas do verão alteram o leito do mar, fazendo os mineradores procurarem novas estratégias. Shawn enfrenta uma batalha legal. Ken tenta manter sua coroa enquanto Emily e os Kellys querem expandir a operação.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S9 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
     </rating>
   </programme>
 </tv>
