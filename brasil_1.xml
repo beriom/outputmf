@@ -411,6 +411,7 @@
   </channel>
   <channel id="Playboy TV HD">
     <display-name lang="pt">Playboy TV HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/playboytv.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Premiere 2 HD">
@@ -54961,6 +54962,636 @@
     <country lang="pt">EUA</country>
     <rating system="BR">
       <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820143000 -0300" stop="20210820145900 -0300" channel="Playboy TV HD">
+    <title lang="pt">Tramas Ardientes</title>
+    <desc lang="pt">Um dia, Victoria, nova funcionária de uma livraria, encontra um livro que a conduz a um mundo de relatos eróticos. Ela dará asas à imaginação e participará desses encontros levando cada cliente da loja a despertar sua fantasia.(n)</desc>
+    <credits>
+      <director>Marcelo Cepeda</director>
+      <actor>Leonela Ahumada</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210820145900 -0300" stop="20210820153000 -0300" channel="Playboy TV HD">
+    <title lang="pt">Playmate Anthology</title>
+    <desc lang="pt">A Playboy te apresenta um nova e picante coleção das melhores Playmates do mundo. Através das décadas, elas são as escolhidas.(n)</desc>
+    <credits>
+      <actor>Dominique Jane</actor>
+      <actor>Tylyn John</actor>
+      <actor>Elisabeth Ostrander</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210820153000 -0300" stop="20210820163200 -0300" channel="Playboy TV HD">
+    <title lang="pt">Love On The Rocks - Part 1</title>
+    <desc lang="pt">Uma sexy camareira pede aos amigos do bar conselhos sobre amor, mas as coisas sofrem uma reviravolta inesperada. Pegue seu drinque e acompanhe esta história ardente e contagiante!(n)</desc>
+    <credits>
+      <actor>Natalia Starr</actor>
+      <actor>Ryan Driller</actor>
+      <actor>Abigail Mac</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Erótico</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210820163200 -0300" stop="20210820170200 -0300" channel="Playboy TV HD">
+    <title lang="pt">Amateur</title>
+    <desc lang="pt">A rotina de trabalho de Esteban começa a mudar quando ele descobre que, pelo computador, pode entrar em contato com elas: garotas cibernéticas que adoram chats quentes e sexo na frente da câmera.(n)</desc>
+    <credits>
+      <actor>Adrian Ero</actor>
+      <actor>Melina Marin</actor>
+      <actor>Agustina Dazza</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210820170200 -0300" stop="20210820182900 -0300" channel="Playboy TV HD">
+    <title lang="pt">Turndown Service</title>
+    <desc lang="pt">Muitas pessoas se hospedam no albergue dela, mas ninguém suspeita quem ela é. Um voyerista profissional! É fazer check in e gozar.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Erótico</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210820182900 -0300" stop="20210820190000 -0300" channel="Playboy TV HD">
+    <title lang="pt">A Girl Knows</title>
+    <desc lang="pt">Elas são lindas, divertidas e sabem que ninguém consegue dar tanto prazer a elas... quanto outra mulher.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820193000 -0300" channel="Playboy TV HD">
+    <title lang="pt">Presencias</title>
+    <desc lang="pt">Um casal recém-casado chega à sua nova moradia, uma mansão cheia de mistérios. Nesta casa inspiradora viveu uma artista famosa que fazia muitas festas.(n)</desc>
+    <credits>
+      <director>Luis Sens</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210820193000 -0300" stop="20210820200200 -0300" channel="Playboy TV HD">
+    <title lang="pt">Playmate Anthology</title>
+    <desc lang="pt">A Playboy te apresenta um nova e picante coleção das melhores Playmates do mundo. Através das décadas, elas são as escolhidas.(n)</desc>
+    <credits>
+      <actor>Dominique Jane</actor>
+      <actor>Tylyn John</actor>
+      <actor>Elisabeth Ostrander</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210820200200 -0300" stop="20210820205700 -0300" channel="Playboy TV HD">
+    <title lang="pt">Swing</title>
+    <desc lang="pt">Observe o que acontece quando um casal comprometido se aproxima do mundo do amor livre e um companheiro extra entra na cama.(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210820205700 -0300" stop="20210820222900 -0300" channel="Playboy TV HD">
+    <title lang="pt">10 Lesbian Threesomes</title>
+    <desc lang="pt">Um é pouco, dois também e três nos deixa com vontade de mais. Por isso reunimos dez ménages lésbicos. Isso mesmo, dez! Todos juntos em um único filme.(n)</desc>
+    <credits>
+      <actor>Malena Morgan</actor>
+      <actor>Maddy O'reilly</actor>
+      <actor>Megan Salinas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Erótico</category>
+    <country lang="pt">Canadá</country>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210820222900 -0300" stop="20210820225900 -0300" channel="Playboy TV HD">
+    <title lang="pt">Amateur</title>
+    <desc lang="pt">A rotina de trabalho de Esteban começa a mudar quando ele descobre que, pelo computador, pode entrar em contato com elas: garotas cibernéticas que adoram chats quentes e sexo na frente da câmera.(n)</desc>
+    <credits>
+      <actor>Adrian Ero</actor>
+      <actor>Melina Marin</actor>
+      <actor>Agustina Dazza</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210820225900 -0300" stop="20210820233000 -0300" channel="Playboy TV HD">
+    <title lang="pt">Presencias</title>
+    <desc lang="pt">Um casal recém-casado chega à sua nova moradia, uma mansão cheia de mistérios. Nesta casa inspiradora viveu uma artista famosa que fazia muitas festas.(n)</desc>
+    <credits>
+      <director>Luis Sens</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210820233000 -0300" stop="20210821000000 -0300" channel="Playboy TV HD">
+    <title lang="pt">A Girl Knows</title>
+    <desc lang="pt">Elas são lindas, divertidas e sabem que ninguém consegue dar tanto prazer a elas... quanto outra mulher.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821000000 -0300" stop="20210821003000 -0300" channel="Playboy TV HD">
+    <title lang="pt">Suite Rendezvous</title>
+    <desc lang="pt">Casais com fome de sexo decidem se encontrar em um quarto de hotel para explorar sua sensualidade e conhecer os jogos eróticos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821003000 -0300" stop="20210821010000 -0300" channel="Playboy TV HD">
+    <title lang="pt">Cougar Club L.A.</title>
+    <desc lang="pt">Prepare-se para o Novo Reality Show da PlayboyTV: Cougar Club L.A.(n)</desc>
+    <credits>
+      <actor>Michelle</actor>
+      <actor>Psalm</actor>
+      <actor>Babe</actor>
+      <actor>Vikki</actor>
+      <actor>Ashlynn</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821010000 -0300" stop="20210821023000 -0300" channel="Playboy TV HD">
+    <title lang="pt">The Fetish Diaries</title>
+    <desc lang="pt">A curiosidade feminina leva a experimentar todos os tipos de fetiche, como ménages, brinquedos, voyeurismo, além do fetiche por pés.(n)</desc>
+    <credits>
+      <actor>Aria Alexander</actor>
+      <actor>Eva Lovia</actor>
+      <actor>Darcie Dolce</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821023000 -0300" stop="20210821030000 -0300" channel="Playboy TV HD">
+    <title lang="pt">Playmate Anthology</title>
+    <desc lang="pt">A Playboy te apresenta um nova e picante coleção das melhores Playmates do mundo. Através das décadas, elas são as escolhidas.(n)</desc>
+    <credits>
+      <actor>Dominique Jane</actor>
+      <actor>Tylyn John</actor>
+      <actor>Elisabeth Ostrander</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821030000 -0300" stop="20210821033000 -0300" channel="Playboy TV HD">
+    <title lang="pt">Amateur</title>
+    <desc lang="pt">A rotina de trabalho de Esteban começa a mudar quando ele descobre que, pelo computador, pode entrar em contato com elas: garotas cibernéticas que adoram chats quentes e sexo na frente da câmera.(n)</desc>
+    <credits>
+      <actor>Adrian Ero</actor>
+      <actor>Melina Marin</actor>
+      <actor>Agustina Dazza</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821033000 -0300" stop="20210821040100 -0300" channel="Playboy TV HD">
+    <title lang="pt">Presencias</title>
+    <desc lang="pt">Um casal recém-casado chega à sua nova moradia, uma mansão cheia de mistérios. Nesta casa inspiradora viveu uma artista famosa que fazia muitas festas.(n)</desc>
+    <credits>
+      <director>Luis Sens</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821040100 -0300" stop="20210821043300 -0300" channel="Playboy TV HD">
+    <title lang="pt">A Girl Knows</title>
+    <desc lang="pt">Elas são lindas, divertidas e sabem que ninguém consegue dar tanto prazer a elas... quanto outra mulher.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821043300 -0300" stop="20210821052600 -0300" channel="Playboy TV HD">
+    <title lang="pt">Sexcape</title>
+    <desc lang="pt">Seja bem-vindo a bordo. Estes casais estão prestes a embarcar nas aventuras das suas vidas. Eles não sabem para onde vão, nem o que vão fazer. Mas com certeza terão um final feliz.(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821052600 -0300" stop="20210821060000 -0300" channel="Playboy TV HD">
+    <title lang="pt">Brooklyn Kinda Love</title>
+    <desc lang="pt">Eles são jovens, bonitos e bem-sucedidos. Para quem olha, as vidas destes casais de Nova York parecem perfeitas. Mas o universo real deles é cheio de mentiras, vícios e infidelidades.(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821073000 -0300" channel="Playboy TV HD">
+    <title lang="pt">10 Lesbian Threesomes</title>
+    <desc lang="pt">Um é pouco, dois também e três nos deixa com vontade de mais. Por isso reunimos dez ménages lésbicos. Isso mesmo, dez! Todos juntos em um único filme.(n)</desc>
+    <credits>
+      <actor>Malena Morgan</actor>
+      <actor>Maddy O'reilly</actor>
+      <actor>Megan Salinas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Erótico</category>
+    <country lang="pt">Canadá</country>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821073000 -0300" stop="20210821080000 -0300" channel="Playboy TV HD">
+    <title lang="pt">Playmate Anthology</title>
+    <desc lang="pt">Uma coleção única das Playmates mais exóticas e atraentes do mundo todo ao longo de décadas.(n)</desc>
+    <credits>
+      <actor>Dominique Jane</actor>
+      <actor>Tylyn John</actor>
+      <actor>Elisabeth Ostrander</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821080000 -0300" stop="20210821083100 -0300" channel="Playboy TV HD">
+    <title lang="pt">Playboy Muses</title>
+    <desc lang="pt">Quando a arte se encontra com a beleza... a imaginação e a realidade convergem. Te convidamos para vivenciar a maior expressão de sensualidade. Bem-vindos a Playboy Muses!(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821083100 -0300" stop="20210821090200 -0300" channel="Playboy TV HD">
+    <title lang="pt">Seduction Principles</title>
+    <desc lang="pt">Sabem aproveitar, têm o talento da sedução e estão prontas para compartilhar com você as habilidades mais ardentes na hora do sexo. Você está pronto para este jogo sem limites?(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821090200 -0300" stop="20210821093300 -0300" channel="Playboy TV HD">
+    <title lang="pt">Lights, Camera, Play</title>
+    <desc lang="pt">Uma série inigualável! Um teatro de frente para uma audiência invisível! Casais, sensualidade, encontros sexuais em que as mulheres dominam todos os fetiches de suas pervertidas mentes. A escuridão ilumina suas fantasias!(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821093300 -0300" stop="20210821100500 -0300" channel="Playboy TV HD">
+    <title lang="pt">Cougar Club L.A.</title>
+    <desc lang="pt">Prepare-se para o Novo Reality Show da PlayboyTV: Cougar Club L.A.(n)</desc>
+    <credits>
+      <actor>Michelle</actor>
+      <actor>Psalm</actor>
+      <actor>Babe</actor>
+      <actor>Vikki</actor>
+      <actor>Ashlynn</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821100500 -0300" stop="20210821110000 -0300" channel="Playboy TV HD">
+    <title lang="pt">Swing</title>
+    <desc lang="pt">Observe o que acontece quando um casal comprometido se aproxima do mundo do amor livre e um companheiro extra entra na cama.(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821110000 -0300" stop="20210821123000 -0300" channel="Playboy TV HD">
+    <title lang="pt">Lesbo Bathtime 3ways</title>
+    <desc lang="pt">Um banho relaxante pode terminar em um selvagem trio lésbico. Se quiser ficar molhado... não deixe de vê-las.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Erótico</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821123000 -0300" stop="20210821125900 -0300" channel="Playboy TV HD">
+    <title lang="pt">Sexo El Tutorial</title>
+    <desc lang="pt">Sexo: O Tutorial marca a diferença entre saber de sexo e dominá-lo. Uma atmosfera sexual latente e uma das condutoras mais sexy da América Latina, Viviana Castrillón.(n)</desc>
+    <credits>
+      <director>Leonardo Linkowski</director>
+      <actor>Viviana Castrillón</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <country lang="pt">Argentina</country>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821125900 -0300" stop="20210821132900 -0300" channel="Playboy TV HD">
+    <title lang="pt">Amateur</title>
+    <desc lang="pt">A rotina de trabalho de Esteban começa a mudar quando ele descobre que, pelo computador, pode entrar em contato com elas: garotas cibernéticas que adoram chats quentes e sexo na frente da câmera.(n)</desc>
+    <credits>
+      <actor>Adrian Ero</actor>
+      <actor>Melina Marin</actor>
+      <actor>Agustina Dazza</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821132900 -0300" stop="20210821135700 -0300" channel="Playboy TV HD">
+    <title lang="pt">Amateur</title>
+    <desc lang="pt">A rotina de trabalho de Esteban começa a mudar quando ele descobre que, pelo computador, pode entrar em contato com elas: garotas cibernéticas que adoram chats quentes e sexo na frente da câmera.(n)</desc>
+    <credits>
+      <actor>Adrian Ero</actor>
+      <actor>Melina Marin</actor>
+      <actor>Agustina Dazza</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821135700 -0300" stop="20210821142700 -0300" channel="Playboy TV HD">
+    <title lang="pt">Amateur</title>
+    <desc lang="pt">A rotina de trabalho de Esteban começa a mudar quando ele descobre que, pelo computador, pode entrar em contato com elas: garotas cibernéticas que adoram chats quentes e sexo na frente da câmera.(n)</desc>
+    <credits>
+      <actor>Adrian Ero</actor>
+      <actor>Melina Marin</actor>
+      <actor>Agustina Dazza</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821142700 -0300" stop="20210821153000 -0300" channel="Playboy TV HD">
+    <title lang="pt">Love On The Rocks - Part 1</title>
+    <desc lang="pt">Uma sexy camareira pede aos amigos do bar conselhos sobre amor, mas as coisas sofrem uma reviravolta inesperada. Pegue seu drinque e acompanhe esta história ardente e contagiante!(n)</desc>
+    <credits>
+      <actor>Natalia Starr</actor>
+      <actor>Ryan Driller</actor>
+      <actor>Abigail Mac</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Erótico</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821153000 -0300" stop="20210821160100 -0300" channel="Playboy TV HD">
+    <title lang="pt">Brooklyn Kinda Love</title>
+    <desc lang="pt">Eles são jovens, bonitos e bem-sucedidos. Para quem olha, as vidas destes casais de Nova York parecem perfeitas. Mas o universo real deles é cheio de mentiras, vícios e infidelidades.(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821160100 -0300" stop="20210821163200 -0300" channel="Playboy TV HD">
+    <title lang="pt">Brooklyn Kinda Love</title>
+    <desc lang="pt">Eles são jovens, bonitos e bem-sucedidos. Para quem olha, as vidas destes casais de Nova York parecem perfeitas. Mas o universo real deles é cheio de mentiras, vícios e infidelidades.(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821163200 -0300" stop="20210821170100 -0300" channel="Playboy TV HD">
+    <title lang="pt">Tramas Ardientes</title>
+    <desc lang="pt">Um dia, Victoria, nova funcionária de uma livraria, encontra um livro que a conduz a um mundo de relatos eróticos. Ela dará asas à imaginação e participará desses encontros levando cada cliente da loja a despertar sua fantasia.(n)</desc>
+    <credits>
+      <director>Marcelo Cepeda</director>
+      <actor>Leonela Ahumada</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821170100 -0300" stop="20210821173100 -0300" channel="Playboy TV HD">
+    <title lang="pt">Presencias</title>
+    <desc lang="pt">Um casal recém-casado chega à sua nova moradia, uma mansão cheia de mistérios. Nesta casa inspiradora viveu uma artista famosa que fazia muitas festas.(n)</desc>
+    <credits>
+      <director>Luis Sens</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821173100 -0300" stop="20210821180200 -0300" channel="Playboy TV HD">
+    <title lang="pt">Boarding Pass</title>
+    <desc lang="pt">Sejam bem-vindos. Fiquem à vontade, bem à vontade, porque depois que esta viagem começar não vai parar de jeito nenhum.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821180200 -0300" stop="20210821183300 -0300" channel="Playboy TV HD">
+    <title lang="pt">Boarding Pass</title>
+    <desc lang="pt">Sejam bem-vindos. Fiquem à vontade, bem à vontade, porque depois que esta viagem começar não vai parar de jeito nenhum.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821183300 -0300" stop="20210821192700 -0300" channel="Playboy TV HD">
+    <title lang="pt">Sexcape</title>
+    <desc lang="pt">Seja bem-vindo a bordo. Estes casais estão prestes a embarcar nas aventuras das suas vidas. Eles não sabem para onde vão, nem o que vão fazer. Mas com certeza terão um final feliz.(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821192700 -0300" stop="20210821195800 -0300" channel="Playboy TV HD">
+    <title lang="pt">A Girl Knows</title>
+    <desc lang="pt">Elas são lindas, divertidas e sabem que ninguém consegue dar tanto prazer a elas... quanto outra mulher.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821195800 -0300" stop="20210821202900 -0300" channel="Playboy TV HD">
+    <title lang="pt">Lights, Camera, Play</title>
+    <desc lang="pt">Uma série inigualável! Um teatro de frente para uma audiência invisível! Casais, sensualidade, encontros sexuais em que as mulheres dominam todos os fetiches de suas pervertidas mentes. A escuridão ilumina suas fantasias!(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821202900 -0300" stop="20210821210100 -0300" channel="Playboy TV HD">
+    <title lang="pt">Cougar Club L.A.</title>
+    <desc lang="pt">Prepare-se para o Novo Reality Show da PlayboyTV: Cougar Club L.A.(n)</desc>
+    <credits>
+      <actor>Michelle</actor>
+      <actor>Psalm</actor>
+      <actor>Babe</actor>
+      <actor>Vikki</actor>
+      <actor>Ashlynn</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821210100 -0300" stop="20210821223100 -0300" channel="Playboy TV HD">
+    <title lang="pt">The Fetish Diaries</title>
+    <desc lang="pt">A curiosidade feminina leva a experimentar todos os tipos de fetiche, como ménages, brinquedos, voyeurismo, além do fetiche por pés.(n)</desc>
+    <credits>
+      <actor>Aria Alexander</actor>
+      <actor>Eva Lovia</actor>
+      <actor>Darcie Dolce</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821223100 -0300" stop="20210821230200 -0300" channel="Playboy TV HD">
+    <title lang="pt">Suite Rendezvous</title>
+    <desc lang="pt">Casais com fome de sexo decidem se encontrar em um quarto de hotel para explorar sua sensualidade e conhecer os jogos eróticos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821230200 -0300" stop="20210821235800 -0300" channel="Playboy TV HD">
+    <title lang="pt">Swing</title>
+    <desc lang="pt">Observe o que acontece quando um casal comprometido se aproxima do mundo do amor livre e um companheiro extra entra na cama.(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821235800 -0300" stop="20210822003000 -0300" channel="Playboy TV HD">
+    <title lang="pt">A Girl Knows</title>
+    <desc lang="pt">Elas são lindas, divertidas e sabem que ninguém consegue dar tanto prazer a elas... quanto outra mulher.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>18</value>
     </rating>
   </programme>
 </tv>
