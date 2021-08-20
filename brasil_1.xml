@@ -236,6 +236,7 @@
   </channel>
   <channel id="FX HD">
     <display-name lang="pt">FX HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/fx.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Globo News HD">
@@ -33004,6 +33005,356 @@
     <episode-num system="onscreen">E2</episode-num>
     <rating system="BR">
       <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820143000 -0300" stop="20210820161500 -0300" channel="FX HD">
+    <title lang="pt">Mama</title>
+    <desc lang="pt">Duas irmãs desaparecem no bosque por 5 anos, mas são encontradas por seu tio. Ele e a namorada tentam começar uma nova vida junto às meninas. Mas elas não voltaram sozinhas. Alguma criatura misteriosa está à espreita.(n)</desc>
+    <credits>
+      <director>Andy Muschietti</director>
+      <actor>Jessica Chastain</actor>
+      <actor>Megan Charpentier</actor>
+      <actor>Nikolaj Coster-Waldau</actor>
+      <actor>Javier Botet</actor>
+      <actor>Isabelle Nélisse</actor>
+      <actor>Daniel Kash</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mama01.jpg" />
+    <country lang="pt">Canadá</country>
+    <country lang="pt">Espanha</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820161500 -0300" stop="20210820184000 -0300" channel="FX HD">
+    <title lang="pt">O Hobbit: A Batalha dos Cinco Exércitos</title>
+    <desc lang="pt">Após o dragão Smaug ser expulso de Erebor, o arqueiro Bard consegue derrotá-lo. Agora, Bilbo, Gandalf, Thorin Escudo de Carvalho e sua companhia de anões precisam enfrentar elfos e orcs na Batalha dos Cinco Exércitos.(n)</desc>
+    <credits>
+      <director>Peter Jackson</director>
+      <actor>Ian McKellen</actor>
+      <actor>Martin Freeman</actor>
+      <actor>Richard Armitage</actor>
+      <actor>Ken Stott</actor>
+      <actor>Graham McTavish</actor>
+      <actor>James Nesbitt</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_hobbit501.jpg" />
+    <country lang="pt">Nova Zelândia</country>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820184000 -0300" stop="20210820220000 -0300" channel="FX HD">
+    <title lang="pt">Titanic</title>
+    <desc lang="pt">Uma expedição aos destroços do Titanic leva uma sobrevivente do naufrágio a relembrar uma grande história de amor que viveu no navio.(n)</desc>
+    <credits>
+      <director>James Cameron</director>
+      <actor>Billy Zane</actor>
+      <actor>Frances Fisher</actor>
+      <actor>Kate Winslet</actor>
+      <actor>Leonardo DiCaprio</actor>
+      <actor>Gloria Stuart</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_titanic01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210821003000 -0300" channel="FX HD">
+    <title lang="pt">Missão: Impossível - Efeito Fallout</title>
+    <desc lang="pt">Após falhar em uma missão por ter salvo seus colegas, Ethan Hunt deve recuperar um plutônio que caiu em mãos erradas. Para essa tarefa, ele precisa lidar com o agente August Walker, com quem cria certa tensão.(n)</desc>
+    <credits>
+      <director>Christopher McQuarrie</director>
+      <actor>Tom Cruise</actor>
+      <actor>Alec Baldwin</actor>
+      <actor>Angela Bassett</actor>
+      <actor>Henry Cavill</actor>
+      <actor>Michelle Monaghan</actor>
+      <actor>Rebecca Ferguson</actor>
+      <actor>Sean Harris</actor>
+      <actor>Simon Pegg</actor>
+      <actor>Vanessa Kirby</actor>
+      <actor>Ving Rhames</actor>
+      <actor>Wes Bentley</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821003000 -0300" stop="20210821023000 -0300" channel="FX HD">
+    <title lang="pt">Jurassic World: O Mundo dos Dinossauros</title>
+    <desc lang="pt">O Jurassic Park enfim está aberto ao público. Entretanto, a equipe chefiada pela doutora Claire passa a fazer experiências genéticas, de forma a criar novas espécies.(n)</desc>
+    <credits>
+      <director>Colin Trevorrow</director>
+      <actor>Chris Pratt</actor>
+      <actor>Bryce Dallas Howard</actor>
+      <actor>Irrfan Khan</actor>
+      <actor>Vincent D'Onofrio</actor>
+      <actor>Ty Simpkins</actor>
+      <actor>Nick Robinson</actor>
+      <actor>Jake Johnson</actor>
+      <actor>Omar Sy</actor>
+      <actor>BD Wong</actor>
+      <actor>Judy Greer</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_jurassicworld01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">China</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821023000 -0300" stop="20210821040000 -0300" channel="FX HD">
+    <title lang="pt">Enquanto as Crianças Dormem</title>
+    <desc lang="pt">Meghan contrata Abby, uma nova babá. Jovem, bonita, experta na cozinha, boa na limpeza e cuidadosa com as crianças, Abby é tudo que Meghan desejava. O que ninguém desconfia, é que atravessar o caminho de Abby pode ser fatal.(n)</desc>
+    <credits>
+      <director>Russell Mulcahy</director>
+      <actor>William R. Moses</actor>
+      <actor>Mariana Klaveno</actor>
+      <actor>Joanne Baron</actor>
+      <actor>Jill Jaress</actor>
+      <actor>Tristan L. Leabu</actor>
+      <actor>Gail O'Grady</actor>
+      <actor>Alan Blumenfeld</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821040000 -0300" stop="20210821053000 -0300" channel="FX HD">
+    <title lang="pt">Imagens do Mal</title>
+    <desc lang="pt">O ex-fotógrafo de guerra Jack sofre de estresse pós-traumático depois de voltar do Afeganistão. Assustado, ele percebe que sua nova câmera fotográfica revela mortes que ainda não ocorreram.(n)</desc>
+    <credits>
+      <director>Aaron B. Koontz</director>
+      <actor>Christopher Denham</actor>
+      <actor>Nadja Bobyleva</actor>
+      <actor>Catherine Curtin</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821053000 -0300" stop="20210821070000 -0300" channel="FX HD">
+    <title lang="pt">10x10: O Cativeiro</title>
+    <desc lang="pt">Para desvendar um segredo obscuro, um homem sequestra a dona de uma loja de flores e a mantém em cativeiro.(n)</desc>
+    <credits>
+      <director>Suzi Ewing</director>
+      <actor>Kelly Reilly</actor>
+      <actor>Luke Evans</actor>
+      <actor>Noel Clarke</actor>
+      <actor>Jill Winternitz</actor>
+      <actor>Olivia Chenery</actor>
+      <actor>Skye Lucia Degruttola</actor>
+      <actor>Jason Maza</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821070000 -0300" stop="20210821100000 -0300" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Diversos. Espaço publicitário para divulgação de produtos e serviços.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821100000 -0300" stop="20210821105000 -0300" channel="FX HD">
+    <title lang="pt">Ultimate Tag</title>
+    <desc lang="pt">Apresentado pelos astros do futebol americano e irmãos JJ, TJ e Derek Watt, Ultimate Tag é uma competição que envolve atletas de alto rendimento correndo contra o tempo.(n)</desc>
+    <credits>
+      <director>Peter Herschko</director>
+      <actor>Lorena Abreu</actor>
+      <actor>Jessica Adams</actor>
+      <actor>Carrie Bernans</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821105000 -0300" stop="20210821122000 -0300" channel="FX HD">
+    <title lang="pt">Sem Lei</title>
+    <desc lang="pt">Amigos planejam um roubo, mas uma traição destrói a relação entre eles e uma morte acontece. Poderosos integrantes da máfia querem o dinheiro, e Sonny, participante do crime, se envolve com o grupo.(n)</desc>
+    <credits>
+      <director>Mike Gunther</director>
+      <actor>Bruce Willis</actor>
+      <actor>50 Cent</actor>
+      <actor>Jenna Dewan</actor>
+      <actor>Ryan Phillippe</actor>
+      <actor>Will Yun Lee</actor>
+      <actor>James Remar</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_semlei01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821122000 -0300" stop="20210821140500 -0300" channel="FX HD">
+    <title lang="pt">Vizinhos Imediatos de 3º Grau</title>
+    <desc lang="pt">Quatro homens resolvem garantir a segurança de sua vizinhança com patrulhas uma vez por semana. Em uma das rondas, eles descobrem que seu bairro está sendo alvo de uma invasão de aliens, parecidos com humanos.(n)</desc>
+    <credits>
+      <director>Akiva Schaffer</director>
+      <actor>Ben Stiller</actor>
+      <actor>Vince Vaughn</actor>
+      <actor>Jonah Hill</actor>
+      <actor>Richard Ayoade</actor>
+      <actor>Rosemarie DeWitt</actor>
+      <actor>Will Forte</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_vizinhosimediatosde3grau01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821140500 -0300" stop="20210821154500 -0300" channel="FX HD">
+    <title lang="pt">Rota de Fuga 2</title>
+    <desc lang="pt">Ray Breslin tem uma nova tarefa: resgatar seu amigo Shu Ren, preso no presídio Hades. Ao lado de velhos e novos amigos, Ray vai tentar se infiltrar no local que, literalmente, se transforma periodicamente, deixando tudo mais difícil.(n)</desc>
+    <credits>
+      <director>Steven C. Miller</director>
+      <actor>Sylvester Stallone</actor>
+      <actor>50 Cent</actor>
+      <actor>Dave Bautista</actor>
+      <actor>Xiaoming Huang</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+    <country lang="pt">China</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821154500 -0300" stop="20210821175000 -0300" channel="FX HD">
+    <title lang="pt">Sr. &amp; Sra. Smith</title>
+    <desc lang="pt">Casal de assassinos profissionais, em crise doméstica, tem a rotina alterada quando recebem a missão de matar um ao outro.(n)</desc>
+    <credits>
+      <director>Doug Liman</director>
+      <actor>Brad Pitt</actor>
+      <actor>Angelina Jolie</actor>
+      <actor>Vince Vaughn</actor>
+      <actor>Adam Brody</actor>
+      <actor>Kerry Washington</actor>
+      <actor>Keith David</actor>
+      <actor>Chris Weitz</actor>
+      <actor>Rachael Huntley</actor>
+      <actor>Michelle Monaghan</actor>
+      <actor>Stephanie March</actor>
+      <actor>Jerry T. Adams</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_srsrasmith01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821175000 -0300" stop="20210821195500 -0300" channel="FX HD">
+    <title lang="pt">Deadpool 2</title>
+    <desc lang="pt">Quando o super soldado Cable chega em uma missão para assassinar o jovem mutante Russel, o mercenário Deadpool precisa aprender o que é ser herói de verdade para salvá-lo.(n)</desc>
+    <credits>
+      <director>David Leitch</director>
+      <actor>Ryan Reynolds</actor>
+      <actor>Josh Brolin</actor>
+      <actor>Morena Baccarin</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821195500 -0300" stop="20210821220000 -0300" channel="FX HD">
+    <title lang="pt">Alita: Anjo de Combate</title>
+    <desc lang="pt">Abandonada em um ferro-velho, a ciborgue Alita é encontrada pelo cientista Dyson Ido. Revitalizada por ele, ela se torna uma poderosa caçadora de recompensas e parte em busca de conhecer seu passado.(n)</desc>
+    <credits>
+      <director>Robert Rodriguez</director>
+      <actor>Rosa Salazar</actor>
+      <actor>Christoph Waltz</actor>
+      <actor>Ed Skrein</actor>
+      <actor>Eiza González</actor>
+      <actor>Jackie Earle Haley</actor>
+      <actor>Jennifer Connelly</actor>
+      <actor>Keean Johnson</actor>
+      <actor>Mahershala Ali</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821220000 -0300" stop="20210822002500 -0300" channel="FX HD">
+    <title lang="pt">Kingsman: O Círculo Dourado</title>
+    <desc lang="pt">Um ataque de mísseis praticamente elimina o Kingsman, que conta apenas com Eggsy e Merlin como remanescentes. Em busca de ajuda, eles partem para os EUA à procura da Statesman.(n)</desc>
+    <credits>
+      <director>Matthew Vaughn</director>
+      <actor>Taron Egerton</actor>
+      <actor>Colin Firth</actor>
+      <actor>Mark Strong</actor>
+      <actor>Edward Holcroft</actor>
+      <actor>Gordon Alexander</actor>
+      <actor>Calvin Demba</actor>
+      <actor>Hanna Alström</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/filme_kingsmanocirculodourado01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>16</value>
     </rating>
   </programme>
 </tv>
