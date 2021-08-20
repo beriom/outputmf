@@ -30899,4 +30899,788 @@
       <value>L</value>
     </rating>
   </programme>
+  <programme start="20210820073000 -0300" stop="20210820102500 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Shakespeare´s Globe Theatre</title>
+    <desc lang="pt">Virtude e vício, amor transcendente e política real combinam-se em Antônio e Cleópatra, a maior exploração de Shakespeare das reivindicações conflitantes de sexo e poder.(n)</desc>
+    <credits>
+      <director>Jonathan Munby</director>
+      <actor>Rosie Hilal</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Teatro</category>
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820102500 -0300" stop="20210820110000 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Film&amp;Arts Desde o West End</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Patricio Orozco</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820110000 -0300" stop="20210820120000 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">O show de Graham Norton</title>
+    <title lang="en">The Graham Norton Show</title>
+    <desc lang="pt">Os homens mais importantes no mundo do espetáculo chegam à sala de Graham Norton para participar de um programa de entrevistas com muito humor.(n)</desc>
+    <credits>
+      <actor>Graham Norton</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820120000 -0300" stop="20210820130000 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Villa-Lobos</title>
+    <desc lang="pt">Film&amp;Arts em homenagem ao 60º aniversário da morte de Heitor Villa-Lobos, o maior compositor clássico do Brasil, apresenta em exclusivo um documentário biográfico sobre a trajetória deste icônico músico brasileiro.(n)</desc>
+    <credits>
+      <director>Carlos de Andrade</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Biografia</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820130000 -0300" stop="20210820140500 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Buster Keaton, O Gênio Destruído Por Hollywood</title>
+    <title lang="en">Buster Keaton, The Genius Destroyed By Hollywood</title>
+    <desc lang="pt">O filme narra a vida dramática desse gênio criativo e dos estúdios de Hollywood.(n)</desc>
+    <credits>
+      <director>Jean-Baptiste Péreti</director>
+      <actor>Buster Keaton</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Biografia</category>
+    <country lang="pt">Alemanha</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820140500 -0300" stop="20210820150500 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Sanditon</title>
+    <desc lang="pt">A chegada do amor proibido da Srta. Lambe faz com que Charlotte questione sua opinião sobre Sidney. Enquanto isso, Clara testemunha uma situação entre Esther e Edward.(n)</desc>
+    <credits>
+      <director>Olly Blackburn</director>
+      <director>Lisa Clarke</director>
+      <actor>Rose Williams</actor>
+      <actor>Kris Marshall</actor>
+      <actor>Kate Ashfield</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820150500 -0300" stop="20210820160000 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Prime Suspect USA</title>
+    <desc lang="pt">Quando um corretor de bolsa atraente é assassinado misteriosamente, Jane começa a suspeitar automaticamente da esposa dele.(n)</desc>
+    <credits>
+      <director>Jonas Pate</director>
+      <actor>Maria Bello</actor>
+      <actor>Brían F. O'Byrne</actor>
+      <actor>Kirk Acevedo</actor>
+      <actor>Peter Gerety</actor>
+      <actor>Tim Griffin</actor>
+      <actor>Damon Gupton</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820160000 -0300" stop="20210820181500 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Os Intocáveis</title>
+    <title lang="en">The Untouchables</title>
+    <desc lang="pt">Neste clássico do cinema contemporâneo dirigido por Brian De Palma, Eliot Ness é um agente federal que vai a Chicago combater o crime organizado.(n)</desc>
+    <credits>
+      <director>Brian De Palma</director>
+      <actor>Kevin Costner</actor>
+      <actor>Andy Garcia</actor>
+      <actor>Charles Martin Smith</actor>
+      <actor>Patricia Clarkson</actor>
+      <actor>Robert De Niro</actor>
+      <actor>Sean Connery</actor>
+    </credits>
+    <date>1987</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820181500 -0300" stop="20210820200000 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Ermione 2018 Gustav Kuhn</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Furore Di Montegral</director>
+      <director>Gustav Kuhn</director>
+      <actor>Maria Radoeva</actor>
+      <actor>Svetlana Kotina</actor>
+      <actor>Ferdinand Von Bothme</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Alemanhã</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820210500 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Novena de Beethoven, uma sinfonia para o mundo</title>
+    <title lang="en">Beethoven´s Ninth - A Symphony For The World</title>
+    <desc lang="pt">Patrimônio da Humanidade desde 2001, a Nona Sinfonia criada em 1824 representa o testamento de Beethoven. O documentário mostra as interpretações atuais desta peça e apresenta apaixonantes personalidades que nos aproximam do artista e de sua obra.(n)</desc>
+    <credits>
+      <director>Christian Berger</director>
+      <actor>Teodor Currentzis</actor>
+      <actor>Tan Dun</actor>
+      <actor>Paul Whittaker</actor>
+      <actor>Yutaka Sado</actor>
+      <actor>Orchestre Symphonique Kimbanguiste</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Musical</category>
+    <country lang="pt">Alemanhã</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820210500 -0300" stop="20210820220000 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">O show de Graham Norton</title>
+    <title lang="en">The Graham Norton Show</title>
+    <desc lang="pt">Os homens mais importantes no mundo do espetáculo chegam à sala de Graham Norton para participar de um programa de entrevistas com muito humor.(n)</desc>
+    <credits>
+      <actor>Graham Norton</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820235500 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Pronto para Recomeçar</title>
+    <title lang="en">Everything Must Go</title>
+    <desc lang="pt">Nick foi despedido, abandonado pela esposa e despejado de sua casa por ela. Tentando recomeçar a vida, Nick faz um bazar e conhece um vizinho que pode ajudá-lo a se recuperar.(n)</desc>
+    <credits>
+      <director>Dan Rush</director>
+      <actor>Will Ferrell</actor>
+      <actor>Rebecca Hall</actor>
+      <actor>Christopher Wallace</actor>
+      <actor>Rosalie Michaels</actor>
+      <actor>Stephen Root</actor>
+      <actor>Laura Dern</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820235500 -0300" stop="20210821005000 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Kieler Street</title>
+    <desc lang="pt">Após a descoberto do sapato, o detetive especial Marius Borge se envolve no caso e a comunidade reage com preocupação.(n)</desc>
+    <credits>
+      <director>Patrik Syversen</director>
+      <actor>Thorbjorn Harr</actor>
+      <actor>Andrea Bræin Hovig</actor>
+      <actor>Ylva Fuglerud</actor>
+      <actor>Jenny Strøm Bjørntvedt</actor>
+      <actor>Nicolai Cleve Broch</actor>
+      <actor>Joachim Cossais</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Suécia</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821005000 -0300" stop="20210821014500 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Kieler Street</title>
+    <desc lang="pt">O gato Kasper morre e Sofie quer se vingar dos responsáveis pela sua morte. Jonas e William são chantageados pelos pais da criança que maltrataram.(n)</desc>
+    <credits>
+      <director>Patrik Syversen</director>
+      <actor>Thorbjorn Harr</actor>
+      <actor>Andrea Bræin Hovig</actor>
+      <actor>Ylva Fuglerud</actor>
+      <actor>Jenny Strøm Bjørntvedt</actor>
+      <actor>Nicolai Cleve Broch</actor>
+      <actor>Joachim Cossais</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Suécia</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821014500 -0300" stop="20210821040000 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Os Intocáveis</title>
+    <title lang="en">The Untouchables</title>
+    <desc lang="pt">Neste clássico do cinema contemporâneo dirigido por Brian De Palma, Eliot Ness é um agente federal que vai a Chicago combater o crime organizado.(n)</desc>
+    <credits>
+      <director>Brian De Palma</director>
+      <actor>Kevin Costner</actor>
+      <actor>Andy Garcia</actor>
+      <actor>Charles Martin Smith</actor>
+      <actor>Patricia Clarkson</actor>
+      <actor>Robert De Niro</actor>
+      <actor>Sean Connery</actor>
+    </credits>
+    <date>1987</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821040000 -0300" stop="20210821054500 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Ermione 2018 Gustav Kuhn</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Furore Di Montegral</director>
+      <director>Gustav Kuhn</director>
+      <actor>Maria Radoeva</actor>
+      <actor>Svetlana Kotina</actor>
+      <actor>Ferdinand Von Bothme</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Alemanhã</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821054500 -0300" stop="20210821065000 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Novena de Beethoven, uma sinfonia para o mundo</title>
+    <title lang="en">Beethoven´s Ninth - A Symphony For The World</title>
+    <desc lang="pt">Patrimônio da Humanidade desde 2001, a Nona Sinfonia criada em 1824 representa o testamento de Beethoven. O documentário mostra as interpretações atuais desta peça e apresenta apaixonantes personalidades que nos aproximam do artista e de sua obra.(n)</desc>
+    <credits>
+      <director>Christian Berger</director>
+      <actor>Teodor Currentzis</actor>
+      <actor>Tan Dun</actor>
+      <actor>Paul Whittaker</actor>
+      <actor>Yutaka Sado</actor>
+      <actor>Orchestre Symphonique Kimbanguiste</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Musical</category>
+    <country lang="pt">Alemanhã</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821065000 -0300" stop="20210821075000 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">O show de Graham Norton</title>
+    <title lang="en">The Graham Norton Show</title>
+    <desc lang="pt">Os homens mais importantes no mundo do espetáculo chegam à sala de Graham Norton para participar de um programa de entrevistas com muito humor.(n)</desc>
+    <credits>
+      <actor>Graham Norton</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821075000 -0300" stop="20210821090000 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Novena de Beethoven, uma sinfonia para o mundo</title>
+    <title lang="en">Beethoven´s Ninth - A Symphony For The World</title>
+    <desc lang="pt">Patrimônio da Humanidade desde 2001, a Nona Sinfonia criada em 1824 representa o testamento de Beethoven. O documentário mostra as interpretações atuais desta peça e apresenta apaixonantes personalidades que nos aproximam do artista e de sua obra.(n)</desc>
+    <credits>
+      <director>Christian Berger</director>
+      <actor>Teodor Currentzis</actor>
+      <actor>Tan Dun</actor>
+      <actor>Paul Whittaker</actor>
+      <actor>Yutaka Sado</actor>
+      <actor>Orchestre Symphonique Kimbanguiste</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Musical</category>
+    <country lang="pt">Alemanhã</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821090000 -0300" stop="20210821111500 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Os Intocáveis</title>
+    <title lang="en">The Untouchables</title>
+    <desc lang="pt">Neste clássico do cinema contemporâneo dirigido por Brian De Palma, Eliot Ness é um agente federal que vai a Chicago combater o crime organizado.(n)</desc>
+    <credits>
+      <director>Brian De Palma</director>
+      <actor>Kevin Costner</actor>
+      <actor>Andy Garcia</actor>
+      <actor>Charles Martin Smith</actor>
+      <actor>Patricia Clarkson</actor>
+      <actor>Robert De Niro</actor>
+      <actor>Sean Connery</actor>
+    </credits>
+    <date>1987</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821111500 -0300" stop="20210821121500 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">O show de Graham Norton</title>
+    <title lang="en">The Graham Norton Show</title>
+    <desc lang="pt">Os homens mais importantes no mundo do espetáculo chegam à sala de Graham Norton para participar de um programa de entrevistas com muito humor.(n)</desc>
+    <credits>
+      <actor>Graham Norton</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821121500 -0300" stop="20210821122800 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Mental</title>
+    <desc lang="pt">Papillon aos 17 anos. Ele vive ao lado do pai, violento e toxicômano. O adolescente segue a mesma trajetória de vida do pai, que desenvolve psicose após o uso de drogas.(n)</desc>
+    <credits>
+      <director>Teemu Nikki</director>
+      <actor>Elias Westerberg</actor>
+      <actor>Anssi Niemi</actor>
+      <actor>Anna Böhm</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mental01.jpg" />
+    <country lang="pt">Finlandia</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821122800 -0300" stop="20210821124300 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Mental</title>
+    <desc lang="pt">Papillon aos 17 anos. Ele vive ao lado do pai, violento e toxicômano. O adolescente segue a mesma trajetória de vida do pai, que desenvolve psicose após o uso de drogas.(n)</desc>
+    <credits>
+      <director>Teemu Nikki</director>
+      <actor>Elias Westerberg</actor>
+      <actor>Anssi Niemi</actor>
+      <actor>Anna Böhm</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mental01.jpg" />
+    <country lang="pt">Finlandia</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821124300 -0300" stop="20210821125100 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Mental</title>
+    <desc lang="pt">Papillon aos 17 anos. Ele vive ao lado do pai, violento e toxicômano. O adolescente segue a mesma trajetória de vida do pai, que desenvolve psicose após o uso de drogas.(n)</desc>
+    <credits>
+      <director>Teemu Nikki</director>
+      <actor>Elias Westerberg</actor>
+      <actor>Anssi Niemi</actor>
+      <actor>Anna Böhm</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mental01.jpg" />
+    <country lang="pt">Finlandia</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821125100 -0300" stop="20210821130800 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Mental</title>
+    <desc lang="pt">Papillon aos 17 anos. Ele vive ao lado do pai, violento e toxicômano. O adolescente segue a mesma trajetória de vida do pai, que desenvolve psicose após o uso de drogas.(n)</desc>
+    <credits>
+      <director>Teemu Nikki</director>
+      <actor>Elias Westerberg</actor>
+      <actor>Anssi Niemi</actor>
+      <actor>Anna Böhm</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mental01.jpg" />
+    <country lang="pt">Finlandia</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821130800 -0300" stop="20210821132300 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Mental</title>
+    <desc lang="pt">Papillon aos 17 anos. Ele vive ao lado do pai, violento e toxicômano. O adolescente segue a mesma trajetória de vida do pai, que desenvolve psicose após o uso de drogas.(n)</desc>
+    <credits>
+      <director>Teemu Nikki</director>
+      <actor>Elias Westerberg</actor>
+      <actor>Anssi Niemi</actor>
+      <actor>Anna Böhm</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mental01.jpg" />
+    <country lang="pt">Finlandia</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821132300 -0300" stop="20210821133500 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Mental</title>
+    <desc lang="pt">Papillon aos 17 anos. Ele vive ao lado do pai, violento e toxicômano. O adolescente segue a mesma trajetória de vida do pai, que desenvolve psicose após o uso de drogas.(n)</desc>
+    <credits>
+      <director>Teemu Nikki</director>
+      <actor>Elias Westerberg</actor>
+      <actor>Anssi Niemi</actor>
+      <actor>Anna Böhm</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mental01.jpg" />
+    <country lang="pt">Finlandia</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821133500 -0300" stop="20210821135000 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Mental</title>
+    <desc lang="pt">Papillon aos 17 anos. Ele vive ao lado do pai, violento e toxicômano. O adolescente segue a mesma trajetória de vida do pai, que desenvolve psicose após o uso de drogas.(n)</desc>
+    <credits>
+      <director>Teemu Nikki</director>
+      <actor>Elias Westerberg</actor>
+      <actor>Anssi Niemi</actor>
+      <actor>Anna Böhm</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mental01.jpg" />
+    <country lang="pt">Finlandia</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821135000 -0300" stop="20210821140500 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Mental</title>
+    <desc lang="pt">Papillon aos 17 anos. Ele vive ao lado do pai, violento e toxicômano. O adolescente segue a mesma trajetória de vida do pai, que desenvolve psicose após o uso de drogas.(n)</desc>
+    <credits>
+      <director>Teemu Nikki</director>
+      <actor>Elias Westerberg</actor>
+      <actor>Anssi Niemi</actor>
+      <actor>Anna Böhm</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mental01.jpg" />
+    <country lang="pt">Finlandia</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821140500 -0300" stop="20210821141700 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Mental</title>
+    <desc lang="pt">Papillon aos 17 anos. Ele vive ao lado do pai, violento e toxicômano. O adolescente segue a mesma trajetória de vida do pai, que desenvolve psicose após o uso de drogas.(n)</desc>
+    <credits>
+      <director>Teemu Nikki</director>
+      <actor>Elias Westerberg</actor>
+      <actor>Anssi Niemi</actor>
+      <actor>Anna Böhm</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mental01.jpg" />
+    <country lang="pt">Finlandia</country>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821141700 -0300" stop="20210821143000 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Mental</title>
+    <desc lang="pt">Papillon aos 17 anos. Ele vive ao lado do pai, violento e toxicômano. O adolescente segue a mesma trajetória de vida do pai, que desenvolve psicose após o uso de drogas.(n)</desc>
+    <credits>
+      <director>Teemu Nikki</director>
+      <actor>Elias Westerberg</actor>
+      <actor>Anssi Niemi</actor>
+      <actor>Anna Böhm</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mental01.jpg" />
+    <country lang="pt">Finlandia</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821143000 -0300" stop="20210821144500 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Mental</title>
+    <desc lang="pt">Papillon aos 17 anos. Ele vive ao lado do pai, violento e toxicômano. O adolescente segue a mesma trajetória de vida do pai, que desenvolve psicose após o uso de drogas.(n)</desc>
+    <credits>
+      <director>Teemu Nikki</director>
+      <actor>Elias Westerberg</actor>
+      <actor>Anssi Niemi</actor>
+      <actor>Anna Böhm</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mental01.jpg" />
+    <country lang="pt">Finlandia</country>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821144500 -0300" stop="20210821150000 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Mental</title>
+    <desc lang="pt">Papillon aos 17 anos. Ele vive ao lado do pai, violento e toxicômano. O adolescente segue a mesma trajetória de vida do pai, que desenvolve psicose após o uso de drogas.(n)</desc>
+    <credits>
+      <director>Teemu Nikki</director>
+      <actor>Elias Westerberg</actor>
+      <actor>Anssi Niemi</actor>
+      <actor>Anna Böhm</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mental01.jpg" />
+    <country lang="pt">Finlandia</country>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821150000 -0300" stop="20210821151500 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Mental</title>
+    <desc lang="pt">Papillon aos 17 anos. Ele vive ao lado do pai, violento e toxicômano. O adolescente segue a mesma trajetória de vida do pai, que desenvolve psicose após o uso de drogas.(n)</desc>
+    <credits>
+      <director>Teemu Nikki</director>
+      <actor>Elias Westerberg</actor>
+      <actor>Anssi Niemi</actor>
+      <actor>Anna Böhm</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mental01.jpg" />
+    <country lang="pt">Finlandia</country>
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821151500 -0300" stop="20210821153000 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Mental</title>
+    <desc lang="pt">Se você não pode falar sobre alguma coisa, deve cantar sobre isso! Os últimos dias na ala trancada estão se aproximando e a vida no mundo exterior é assustadora.(n)</desc>
+    <credits>
+      <director>Teemu Nikki</director>
+      <actor>Elias Westerberg</actor>
+      <actor>Anssi Niemi</actor>
+      <actor>Anna Böhm</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mental01.jpg" />
+    <country lang="pt">Finlandia</country>
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821153000 -0300" stop="20210821154500 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Mental</title>
+    <desc lang="pt">Se você não pode falar sobre alguma coisa, deve cantar sobre isso! Os últimos dias na ala trancada estão se aproximando e a vida no mundo exterior é assustadora.(n)</desc>
+    <credits>
+      <director>Teemu Nikki</director>
+      <actor>Elias Westerberg</actor>
+      <actor>Anssi Niemi</actor>
+      <actor>Anna Böhm</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mental01.jpg" />
+    <country lang="pt">Finlandia</country>
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821154500 -0300" stop="20210821161000 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Mental</title>
+    <desc lang="pt">É hora de pular e abrir as suas asas.(n)</desc>
+    <credits>
+      <director>Teemu Nikki</director>
+      <actor>Elias Westerberg</actor>
+      <actor>Anssi Niemi</actor>
+      <actor>Anna Böhm</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mental01.jpg" />
+    <country lang="pt">Finlandia</country>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821161000 -0300" stop="20210821180500 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Pronto para Recomeçar</title>
+    <title lang="en">Everything Must Go</title>
+    <desc lang="pt">Nick foi despedido, abandonado pela esposa e despejado de sua casa por ela. Tentando recomeçar a vida, Nick faz um bazar e conhece um vizinho que pode ajudá-lo a se recuperar.(n)</desc>
+    <credits>
+      <director>Dan Rush</director>
+      <actor>Will Ferrell</actor>
+      <actor>Rebecca Hall</actor>
+      <actor>Christopher Wallace</actor>
+      <actor>Rosalie Michaels</actor>
+      <actor>Stephen Root</actor>
+      <actor>Laura Dern</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821180500 -0300" stop="20210821195500 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Juan Diego Flórez - Me Besa Muito</title>
+    <title lang="en">Juan Diego Flórez - Besame Mucho</title>
+    <desc lang="pt">Em "Bésame Mucho", um recital da Viena, Juan Diego Flórez canta uma seleção de músicas latino-americanas.(n)</desc>
+    <credits>
+      <actor>Juan Diego Flórez</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+    <country lang="pt">Alemanha</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821195500 -0300" stop="20210821200000 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Lousiana Museaum Music Collection Boris Giltburg</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Stéphan Aubé</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+    <country lang="pt">Alemanhã</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821200000 -0300" stop="20210821214500 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Wallander</title>
+    <title lang="en">Wallander: 02</title>
+    <desc lang="pt">Baseada no vilarejo de Ystad na Suécia, esta série é composta de três assassinatos misteriosos baseados no premiado romance popular de Henning Mankell.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/wallander01.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821214500 -0300" stop="20210821215500 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Musical Clips At Louisiana Museum Of Modern Art</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821215500 -0300" stop="20210821220000 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">Lousiana Museaum Music Collection Boris Giltburg</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Stéphan Aubé</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+    <country lang="pt">Alemanhã</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821220000 -0300" stop="20210822000000 -0300" channel="Film &amp; Arts HD">
+    <title lang="pt">All My Loving</title>
+    <desc lang="pt">Julia, Stefan e Tobias são três irmãos que, além de estarem unidos por laços fraternais, passam por um momento similar de suas trajetórias pessoais. A enfermidade do pai os faz questionar sobre a forma com que tem conduzido suas próprias vidas.(n)</desc>
+    <credits>
+      <director>Edward Berger</director>
+      <actor>Lars Eidinger</actor>
+      <actor>Nele Mueller</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
 </tv>
