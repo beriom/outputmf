@@ -19156,4 +19156,696 @@
       <value>14</value>
     </rating>
   </programme>
+  <programme start="20210820093600 -0300" stop="20210820102400 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Nos Trilhos do Alasca</title>
+    <title lang="en">Railroad Alaska</title>
+    <desc lang="pt">Com o tempo se esgotando, a equipe de carga tenta fazer uma entrega para uma equipe isolada na floresta. Jim James volta à cidade com uma grande surpresa para sua esposa, Nancy.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820102400 -0300" stop="20210820111200 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Nos Trilhos do Alasca</title>
+    <title lang="en">Railroad Alaska</title>
+    <desc lang="pt">Dan Mawhinney tenta içar sua máquina de neve presa na tundra congelada. Quando os novatos Orville e Jackie James enfrentam seu primeiro inverno sozinhos na floresta, um desastre acontece.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820111200 -0300" stop="20210820120000 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Monstros da Montanha</title>
+    <title lang="en">Mountain Monsters</title>
+    <desc lang="pt">No Condado de Ashe, a equipe procura pelo "Diabo Cherokee", um pé grande que seria capaz de controlar mentes. Buck tem um encontro com a criatura e a equipe decide enfrentá-la, mesmo correndo riscos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_monstrosdamontanha01.jpg" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820120000 -0300" stop="20210820124800 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Monstros da Montanha</title>
+    <title lang="en">Mountain Monsters</title>
+    <desc lang="pt">A equipe retorna ao Condado de Ashe para encontrar "O Diabo Cherokee", um pé grande selvagem que já assustou os membros da equipe - e alguns deles agora pensam em abandonar a missão.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_monstrosdamontanha01.jpg" />
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820124800 -0300" stop="20210820133600 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Nova Zelândia Selvagem</title>
+    <title lang="en">Modern Dinosaurs</title>
+    <desc lang="pt">A paisagem acidentada da Nova Zelândia foi forjada por vulcões e terremotos que criaram um ambiente único. Conheça sua fauna fascinante: de predadores que brilham no escuro, ao papagaio mais inteligente do mundo.(n)</desc>
+    <credits>
+      <director>Mark Strickson</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820133600 -0300" stop="20210820142400 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Resgate no Everest</title>
+    <title lang="en">Everest Rescue</title>
+    <desc lang="pt">Com um alpinista ferido preso na Zona da Morte, Jason prepara o helicóptero para aterrissar no ponto de pouso mais alto do mundo. O novato Ryan procura nove alpinistas perdidos no Himalaia.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820142400 -0300" stop="20210820144800 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Aventureiros da Montanha</title>
+    <title lang="en">Hillbilly Blood</title>
+    <desc lang="pt">Cowboy acredita que o fim do mundo está próximo e pede que Eugene e Spencer fortifiquem seu complexo. Os rapazes constroem um alambique para transformar restos de madeira usando baldes e canos velhos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_aventureirosdamontanha01.jpg" />
+    <episode-num system="onscreen">S3 E23</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820144800 -0300" stop="20210820151200 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Aventureiros da Montanha</title>
+    <title lang="en">Hillbilly Blood</title>
+    <desc lang="pt">Cowboy convence Eugene e Spencer a embarcar procurar ouro em uma mina lendária e secreta: Lost Creek. Eles precisam usar suas artimanhas para evita que um intrometido descubra seus planos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_aventureirosdamontanha01.jpg" />
+    <episode-num system="onscreen">S3 E24</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820151200 -0300" stop="20210820160000 -0300" channel="Discovery HD Theater">
+    <title lang="pt">A Maldição do Ouro Perdido</title>
+    <title lang="en">Curse Of The Frozen Gold</title>
+    <desc lang="pt">Daryl consegue novas informações sobre o ouro da geleira Terrarosa, mas só vai revelá-las se puder acompanhar Adam e Evan. Fred recebe uma misteriosa ligação de um explorador.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820160000 -0300" stop="20210820164800 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Rota Perigosa</title>
+    <title lang="en">Dangerous Grounds</title>
+    <desc lang="pt">Todd volta a Uganda para enfrentar os homens que incendiaram uma escola que ele ajudou a construir. Quando uma série de choques culturais frustra seus esforços, Todd precisa fechar um acordo para sustentar a escola.(n)</desc>
+    <credits>
+      <actor>Todd Carmichael</actor>
+      <actor>Jean-Georges Vongerichten</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820164800 -0300" stop="20210820173600 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Rota Perigosa</title>
+    <title lang="en">Dangerous Grounds</title>
+    <desc lang="pt">Os ventos da mudança chegam ao hotel Four Seasons quando um novo gerente pede que Todd encontre o mítico café tanzaniano AAA. Mas quando enfrenta leões e caçadores, Todd precisa se armar para sair da África vivo.(n)</desc>
+    <credits>
+      <actor>Todd Carmichael</actor>
+      <actor>Jean-Georges Vongerichten</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820173600 -0300" stop="20210820182400 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Criadores de Sonhos</title>
+    <title lang="en">Redwood Kings</title>
+    <desc lang="pt">Tiroteios, lutas e uma cabana em chamas compõem o cenário de espetáculo numa atração histórica no Missouri. A equipe da Daniels Wood Land também cria um estande de tiro original.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <episode-num system="onscreen">S1 E18</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820182400 -0300" stop="20210820191200 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Nova Zelândia Selvagem</title>
+    <title lang="en">Modern Dinosaurs</title>
+    <desc lang="pt">A maioria dos papagaios é colorida, mas os kakapos da Nova Zelândia rompem com todos os padrões. Eles são conhecidos como os papagaios mais estranhos do mundo, mas a que devem essa reputação?(n)</desc>
+    <credits>
+      <director>Quin Bereston</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820191200 -0300" stop="20210820200000 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Supercaminhões</title>
+    <title lang="en">Supertruckers</title>
+    <desc lang="pt">Conheça o mundo dos supercaminhões nesta série cativante. A rivalidade e a competição por rotas e trabalho é acirrada, mas os caminhoneiros sabem que podem contar com a ajuda dos colegas quando precisam de ajuda.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_supercaminhoes01.jpg" />
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820204800 -0300" channel="Discovery HD Theater">
+    <title lang="pt">American Titans</title>
+    <desc lang="pt">O magnata do aço, Andrew Carnegie, e o rei do carvão, Henry Clay Frick, unem forças para dominar uma segunda Revolução Industrial. Seu império irá esmagar rivais e destruir o movimento trabalhista.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820204800 -0300" stop="20210820213600 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Baía de Bristol</title>
+    <desc lang="pt">Em Naknek, Taran aciona os potentes motores de seu barco para explorar a baía e a primeira rede vem cheia de peixes. Em Egegik, Luke e a tripulação tentam consertar o barco Jimmy Jeff.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Competição</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820213600 -0300" stop="20210820220000 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Tesouros Perdidos</title>
+    <title lang="en">Caribbean Pirate Treasure</title>
+    <desc lang="pt">Philippe e Ashlan Cousteau trabalham com a Marinha peruana para investigar um desastre ocorrido no século 17, um mistério que ainda assombra o país e seu povo.(n)</desc>
+    <credits>
+      <actor>Philippe Cousteau Jr.</actor>
+      <actor>Ashlan Gorse Cousteau</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820222400 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Tesouros Perdidos</title>
+    <title lang="en">Caribbean Pirate Treasure</title>
+    <desc lang="pt">Ashlan e Philippe Cousteau viajam para Bermuda para desvendar o mistério do Roanoke, um navio da Guerra Civil que foi dominado por piratas. Há mais de 150 anos, ninguém consegue encontrar sua misteriosa carga.(n)</desc>
+    <credits>
+      <actor>Philippe Cousteau Jr.</actor>
+      <actor>Ashlan Gorse Cousteau</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820222400 -0300" stop="20210820231200 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Mistérios no Museu</title>
+    <title lang="en">Mysteries At The Museum</title>
+    <desc lang="pt">Don Wildman investiga uma conspiração para roubar um diamante valioso, o tubarão sedento de sangue que inspirou um filme de terror e o famoso encontro entre um presidente renomado e o rei do rock &amp; roll.(n)</desc>
+    <credits>
+      <actor>Paul Meltzer</actor>
+      <actor>Keith Rodriguez</actor>
+      <actor>Claire Sanderson</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820231200 -0300" stop="20210821000000 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Mistérios no Museu</title>
+    <title lang="en">Mysteries At The Museum</title>
+    <desc lang="pt">Don Wildman estuda a réplica do sino mais famoso dos EUA, analisa a fotografia de um chef suspeito de um crime e investiga um livro ilustrado que retrata uma figura lendária.(n)</desc>
+    <credits>
+      <actor>Paul Meltzer</actor>
+      <actor>Keith Rodriguez</actor>
+      <actor>Claire Sanderson</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E11</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821000000 -0300" stop="20210821004800 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Mistérios da História</title>
+    <title lang="en">Mysteries At The Castle</title>
+    <desc lang="pt">Conheça a residência britânica que inspirou uma obra-prima literária, visite uma mansão em Nova York que pertenceu a um golpista e um castelo alemão que serviu como campo de prisioneiros da Segunda Guerra.(n)</desc>
+    <credits>
+      <actor>Josh Adwar</actor>
+      <actor>Merritt Matthew Chase</actor>
+      <actor>Sam Jules</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821004800 -0300" stop="20210821013600 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Batalha Makers Brasil</title>
+    <desc lang="pt">Os competidores recebem um relógio analógico comum e terão que transformá-lo em uma verdadeira obra-prima.(n)</desc>
+    <credits>
+      <director>Fábio Ock</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821013600 -0300" stop="20210821022400 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Pesca Mortal</title>
+    <title lang="en">Deadliest Catch</title>
+    <desc lang="pt">Do estúdio em Dutch Harbor, no Alasca, os capitães do mar de Bering comemoram o esperado retorno do Cornelia Marie e de seu novo capitão, Josh Harris, que tem várias perguntas para responder.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821022400 -0300" stop="20210821031200 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Pesca Mortal</title>
+    <title lang="en">Deadliest Catch</title>
+    <desc lang="pt">Todos os olhos estão voltados para o norte, onde o capitão Keith Coburn navega o Wizard. Com a calota polar derretida e as áreas do norte abertas pela primeira vez em anos, Keith aposta longe do alcance da Guarda Costeira.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821031200 -0300" stop="20210821040000 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Megacargas</title>
+    <title lang="en">Mega Shippers</title>
+    <desc lang="pt">Operações que apresentam mais desafios logísticos: o embarque de um iate de 100 milhões de dólares em um navio de carga; o transporte de um raro carro esportivo de três rodas.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_megacargas01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821040000 -0300" stop="20210821042400 -0300" channel="Discovery HD Theater">
+    <title lang="pt">América do Norte</title>
+    <title lang="en">America</title>
+    <desc lang="pt">Pessoas caminham a 120 metros do solo sobre o Mineral Canyon, em Utah. Um homem de 73 anos luta para preservar seu rancho de gado histórico. Descendentes de uma antiga civilização restauram um artefato.(n)</desc>
+    <credits>
+      <actor>Robert Redford</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821042400 -0300" stop="20210821044800 -0300" channel="Discovery HD Theater">
+    <title lang="pt">América do Norte</title>
+    <title lang="en">America</title>
+    <desc lang="pt">Pilotos de asa-delta sobrevoam o Vale de Yosemite durante um incêndio florestal. Um biólogo marinho mergulha em uma floresta de algas em uma das Ilhas do Canal, na Califórnia. Um arvorista escala o topo de uma sequoia.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821044800 -0300" stop="20210821053600 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Garimpeiros de Ruínas</title>
+    <title lang="en">Salvage Hunters - Best Buys</title>
+    <desc lang="pt">Drew Pritchard mostra algumas das compras mais interessantes que fez ao longo do programa.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821053600 -0300" stop="20210821062400 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Polônia</title>
+    <title lang="en">Operation</title>
+    <desc lang="pt">Continuamos acompanhando a nova conexão para Tóquio. Sonia, a jovem comissária que fala japonês, terá sua habilidade testada por alguns passageiros. Durante o serviço, acontece uma pequena confusão.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821062400 -0300" stop="20210821071200 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Alasca</title>
+    <title lang="en">Alaska</title>
+    <desc lang="pt">Com a chegada do inverno, Otto e Charlotte têm dificuldade de reunir o gado. Atz Lee e Jane tomam uma decisão sobre a cabana. Shane e Kelli esperam más notícias sobre a saúde dela.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_alasca01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E17</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821071200 -0300" stop="20210821080000 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Alasca</title>
+    <title lang="en">Alaska</title>
+    <desc lang="pt">Os Kilchers estão de volta e se apressam para terminar o assentamento. Depois de uma forte nevasca, eles usam todo o maquinário para garantir a sobrevivência das próximas gerações.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_alasca01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821080000 -0300" stop="20210821084800 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Megacargas</title>
+    <title lang="en">Mega Shippers</title>
+    <desc lang="pt">Operações que apresentam mais desafios logísticos: o embarque de um iate de 100 milhões de dólares em um navio de carga; o transporte de um raro carro esportivo de três rodas.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_megacargas01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821084800 -0300" stop="20210821091200 -0300" channel="Discovery HD Theater">
+    <title lang="pt">América do Norte</title>
+    <title lang="en">America</title>
+    <desc lang="pt">Pessoas caminham a 120 metros do solo sobre o Mineral Canyon, em Utah. Um homem de 73 anos luta para preservar seu rancho de gado histórico. Descendentes de uma antiga civilização restauram um artefato.(n)</desc>
+    <credits>
+      <actor>Robert Redford</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821091200 -0300" stop="20210821093600 -0300" channel="Discovery HD Theater">
+    <title lang="pt">América do Norte</title>
+    <title lang="en">America</title>
+    <desc lang="pt">Pilotos de asa-delta sobrevoam o Vale de Yosemite durante um incêndio florestal. Um biólogo marinho mergulha em uma floresta de algas em uma das Ilhas do Canal, na Califórnia. Um arvorista escala o topo de uma sequoia.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821093600 -0300" stop="20210821102400 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Garimpeiros de Ruínas</title>
+    <title lang="en">Salvage Hunters - Best Buys</title>
+    <desc lang="pt">Drew Pritchard mostra algumas das compras mais interessantes que fez ao longo do programa.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821102400 -0300" stop="20210821111200 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Polônia</title>
+    <title lang="en">Operation</title>
+    <desc lang="pt">Continuamos acompanhando a nova conexão para Tóquio. Sonia, a jovem comissária que fala japonês, terá sua habilidade testada por alguns passageiros. Durante o serviço, acontece uma pequena confusão.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821111200 -0300" stop="20210821120000 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Alasca</title>
+    <title lang="en">Alaska</title>
+    <desc lang="pt">Com a chegada do inverno, Otto e Charlotte têm dificuldade de reunir o gado. Atz Lee e Jane tomam uma decisão sobre a cabana. Shane e Kelli esperam más notícias sobre a saúde dela.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_alasca01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E17</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821120000 -0300" stop="20210821124800 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Alasca</title>
+    <title lang="en">Alaska</title>
+    <desc lang="pt">Os Kilchers estão de volta e se apressam para terminar o assentamento. Depois de uma forte nevasca, eles usam todo o maquinário para garantir a sobrevivência das próximas gerações.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_alasca01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821124800 -0300" stop="20210821133600 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Riquezas do Gelo</title>
+    <title lang="en">Ice Cold Gold</title>
+    <desc lang="pt">Com metade dos equipamentos destruídos num acidente, os membros da Sixty-Degree Resources se dispersam e ainda ficam presos numa ilha remota cercada de gelo.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_riquezasdogelo01.jpg" />
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821133600 -0300" stop="20210821142400 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Riquezas do Gelo</title>
+    <title lang="en">Ice Cold Gold</title>
+    <desc lang="pt">Em um último esforço para salvar Cloud Island, Doug Stoup leva os mineradores para colher amostras num manto de gelo. Em Ilulissat, os métodos científicos de Eric incomodam os irmãos Feldman.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_riquezasdogelo01.jpg" />
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821142400 -0300" stop="20210821151200 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Nos Trilhos do Alasca</title>
+    <title lang="en">Railroad Alaska</title>
+    <desc lang="pt">Com o tempo se esgotando, a equipe de carga tenta fazer uma entrega para uma equipe isolada na floresta. Jim James volta à cidade com uma grande surpresa para sua esposa, Nancy.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821151200 -0300" stop="20210821160000 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Nos Trilhos do Alasca</title>
+    <title lang="en">Railroad Alaska</title>
+    <desc lang="pt">Dan Mawhinney tenta içar sua máquina de neve presa na tundra congelada. Quando os novatos Orville e Jackie James enfrentam seu primeiro inverno sozinhos na floresta, um desastre acontece.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821160000 -0300" stop="20210821164800 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Monstros da Montanha</title>
+    <title lang="en">Mountain Monsters</title>
+    <desc lang="pt">No Condado de Ashe, a equipe procura pelo "Diabo Cherokee", um pé grande que seria capaz de controlar mentes. Buck tem um encontro com a criatura e a equipe decide enfrentá-la, mesmo correndo riscos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_monstrosdamontanha01.jpg" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821164800 -0300" stop="20210821173600 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Monstros da Montanha</title>
+    <title lang="en">Mountain Monsters</title>
+    <desc lang="pt">A equipe retorna ao Condado de Ashe para encontrar "O Diabo Cherokee", um pé grande selvagem que já assustou os membros da equipe - e alguns deles agora pensam em abandonar a missão.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_monstrosdamontanha01.jpg" />
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821173600 -0300" stop="20210821182400 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Nova Zelândia Selvagem</title>
+    <title lang="en">Modern Dinosaurs</title>
+    <desc lang="pt">A paisagem acidentada da Nova Zelândia foi forjada por vulcões e terremotos que criaram um ambiente único. Conheça sua fauna fascinante: de predadores que brilham no escuro, ao papagaio mais inteligente do mundo.(n)</desc>
+    <credits>
+      <director>Mark Strickson</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821182400 -0300" stop="20210821191200 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Resgate no Everest</title>
+    <title lang="en">Everest Rescue</title>
+    <desc lang="pt">Com um alpinista ferido preso na Zona da Morte, Jason prepara o helicóptero para aterrissar no ponto de pouso mais alto do mundo. O novato Ryan procura nove alpinistas perdidos no Himalaia.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821191200 -0300" stop="20210821193600 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Aventureiros da Montanha</title>
+    <title lang="en">Hillbilly Blood</title>
+    <desc lang="pt">Cowboy acredita que o fim do mundo está próximo e pede que Eugene e Spencer fortifiquem seu complexo. Os rapazes constroem um alambique para transformar restos de madeira usando baldes e canos velhos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_aventureirosdamontanha01.jpg" />
+    <episode-num system="onscreen">S3 E23</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821193600 -0300" stop="20210821200000 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Aventureiros da Montanha</title>
+    <title lang="en">Hillbilly Blood</title>
+    <desc lang="pt">Cowboy convence Eugene e Spencer a embarcar procurar ouro em uma mina lendária e secreta: Lost Creek. Eles precisam usar suas artimanhas para evita que um intrometido descubra seus planos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_aventureirosdamontanha01.jpg" />
+    <episode-num system="onscreen">S3 E24</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821200000 -0300" stop="20210821204800 -0300" channel="Discovery HD Theater">
+    <title lang="pt">A Maldição do Ouro Perdido</title>
+    <title lang="en">Curse Of The Frozen Gold</title>
+    <desc lang="pt">Daryl consegue novas informações sobre o ouro da geleira Terrarosa, mas só vai revelá-las se puder acompanhar Adam e Evan. Fred recebe uma misteriosa ligação de um explorador.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821204800 -0300" stop="20210821213600 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Alasca</title>
+    <title lang="en">Alaska</title>
+    <desc lang="pt">Atz Sr transmite técnicas de sobrevivência essenciais, enquanto Atz Lee embarca em uma caçada solitária e perigosa em uma ilha remota. Eivin constrói o barco ideal para as aventuras da família.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_alasca01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E16</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821213600 -0300" stop="20210821222400 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Alasca</title>
+    <title lang="en">Alaska</title>
+    <desc lang="pt">Com a chegada do inverno, Otto e Charlotte têm dificuldade de reunir o gado. Atz Lee e Jane tomam uma decisão sobre a cabana. Shane e Kelli esperam más notícias sobre a saúde dela.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_alasca01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E17</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821222400 -0300" stop="20210821231200 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Nos Trilhos do Alasca</title>
+    <title lang="en">Railroad Alaska</title>
+    <desc lang="pt">Um terremoto de magnitude 4,2 ameaça parar a ferrovia e descarrilar um trem de carga. Steve e Cassie correm para construir um abrigo de emergência para proteger seu bebê.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821231200 -0300" stop="20210822004800 -0300" channel="Discovery HD Theater">
+    <title lang="pt">Chimpanzés Guerreiros de Uganda</title>
+    <title lang="en">Rise Of The Warrior Apes</title>
+    <desc lang="pt">Acompanhe a história real de um grupo de ambiciosos chimpanzés guerreiros que habitam o parque nacional Kibale, em Uganda.(n)</desc>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Ecologia</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
 </tv>
