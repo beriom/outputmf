@@ -52,6 +52,7 @@
   </channel>
   <channel id="Cartoon Network HD">
     <display-name lang="pt">Cartoon Network HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/cartoonnetworkhd.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="CGTN HD">
@@ -8434,6 +8435,3137 @@
     <country lang="pt">Brasil</country>
     <rating system="BR">
       <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820143300 -0300" stop="20210820145000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <desc lang="pt">Os Titãs contam suas imprecisas histórias de origem.(n)</desc>
+    <credits>
+      <director>Luke Cormican</director>
+      <actor>Vozes de Greg Cipes</actor>
+      <actor>Scott Menville</actor>
+      <actor>Khary Payton</actor>
+      <actor>Tara Strong</actor>
+      <actor>Hynden Walch</actor>
+      <actor>Kevin Michael Richardson</actor>
+      <actor>Lauren Tom</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/teentitansgo01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E22</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820145000 -0300" stop="20210820150000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Lego Ninjago</title>
+    <desc lang="pt">O Feiticeiro da Caveira caça os ninjas que fugiram da Caverna-Forte dos Geckles. O Feiticeiro da Caveira promete libertar os Munce e Geckles se estes entregarem os ninjas.(n)</desc>
+    <credits>
+      <director>Adam Wood</director>
+      <director>Rich Johnson</director>
+      <director>Daniel Ife</director>
+      <actor>Vozes de Kelly Metzger</actor>
+      <actor>Michael Adamthwaite</actor>
+      <actor>Sam Vincent</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E29</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820150000 -0300" stop="20210820151100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <desc lang="pt">Panda usa um aplicativo para encontrar um amigo com quem tenha coisas em comum. Mas sua nova amizade logo sai do controle quando o amigo se mostra superpossessivo.(n)</desc>
+    <credits>
+      <director>Daniel Chong</director>
+      <actor>Vozes de Eric Edelstein</actor>
+      <actor>Jim Ward</actor>
+      <actor>Demetri Martin</actor>
+      <actor>Bobby Moynihan</actor>
+      <actor>Edi Patterson</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Austin Rogers</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ursossemcurso01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820151100 -0300" stop="20210820152700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <desc lang="pt">Bebê urso vive sozinho no Ártico e conhece um homem misterioso chamado Yuri. Juntos, eles tentam sobreviver ao frio.(n)</desc>
+    <credits>
+      <director>Daniel Chong</director>
+      <actor>Vozes de Eric Edelstein</actor>
+      <actor>Jim Ward</actor>
+      <actor>Demetri Martin</actor>
+      <actor>Bobby Moynihan</actor>
+      <actor>Edi Patterson</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Austin Rogers</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ursossemcurso01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820152700 -0300" stop="20210820154300 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <desc lang="pt">Os ursos ficam presos na plataforma depois de perderem o metrô. Enquanto esperam, eles deverão recuperar alguns itens perdidos.(n)</desc>
+    <credits>
+      <director>Daniel Chong</director>
+      <actor>Vozes de Eric Edelstein</actor>
+      <actor>Jim Ward</actor>
+      <actor>Demetri Martin</actor>
+      <actor>Bobby Moynihan</actor>
+      <actor>Edi Patterson</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Austin Rogers</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ursossemcurso01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E53</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820154300 -0300" stop="20210820160000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <desc lang="pt">Charlie conhece uma criatura igual a ele chamada Ralph. Charlie adora seu novo amigo, já os ursos acham que Ralph não tem boas intenções.(n)</desc>
+    <credits>
+      <director>Manny Hernandez</director>
+      <actor>Vozes de Eric Edelstein</actor>
+      <actor>Jason Lee</actor>
+      <actor>Demetri Martin</actor>
+      <actor>Ashly Burch</actor>
+      <actor>John DiMaggio</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ursossemcurso01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820160000 -0300" stop="20210820161100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids</title>
+    <desc lang="pt">O Chef luta para manter sua sanidade quando as crianças insistem em culpar um coelho de pelúcia chamado Pulinho por tudo que eles fazem de errado.(n)</desc>
+    <credits>
+      <director>Tom McGillis</director>
+      <actor>Vozes de Wyatt White</actor>
+      <actor>Lilly Bartlam</actor>
+      <actor>Emilie-Claire Barlow</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S1 E37</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820161100 -0300" stop="20210820162600 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids</title>
+    <desc lang="pt">Duncan foge durante um passeio pelo bairro só para descobrir que precisará cuidar de Cody e Bridgette.(n)</desc>
+    <credits>
+      <director>Tom McGillis</director>
+      <actor>Vozes de Wyatt White</actor>
+      <actor>Lilly Bartlam</actor>
+      <actor>Emilie-Claire Barlow</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S1 E38</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820162600 -0300" stop="20210820164100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids</title>
+    <desc lang="pt">Duncan finalmente consegue escapar, mas descobre que esqueceu sua chupeta e precisa voltar para a escola para buscá-la.(n)</desc>
+    <credits>
+      <director>Tom McGillis</director>
+      <actor>Vozes de Wyatt White</actor>
+      <actor>Lilly Bartlam</actor>
+      <actor>Emilie-Claire Barlow</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S1 E39</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820164100 -0300" stop="20210820164500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids</title>
+    <desc lang="pt">Após hipnotizar sem querer o Owen para que seja um cãozinho, Harold acha que precisa reverter a hipnose para evitar ir para a prisão.(n)</desc>
+    <credits>
+      <director>Tom McGillis</director>
+      <actor>Vozes de Wyatt White</actor>
+      <actor>Lilly Bartlam</actor>
+      <actor>Emilie-Claire Barlow</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820164500 -0300" stop="20210820165600 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Victor e Valentino</title>
+    <desc lang="pt">Em vez de celebrar o Dia dos Namorados, Vic e Val encaram uma aposta para explorar uma mansão assombrada ao lado de seus rivais, Charlene e Pineapple.(n)</desc>
+    <credits>
+      <director>Diego Molano</director>
+      <actor>Vozes de Diego Molano</actor>
+      <actor>Sean-Ryan Petersen</actor>
+      <actor>Laura Patalano</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820165600 -0300" stop="20210820170000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Victor e Valentino</title>
+    <desc lang="pt">Quando Vic e Val sem querer transformam eles mesmos e Don em bebês, todos deverão fugir de uma creche para voltar às suas idades reais.(n)</desc>
+    <credits>
+      <director>Diego Molano</director>
+      <actor>Vozes de Diego Molano</actor>
+      <actor>Sean-Ryan Petersen</actor>
+      <actor>Laura Patalano</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E31</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820170000 -0300" stop="20210820171100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Mundo de Greg</title>
+    <desc lang="pt">JP decide seguir seu coração e tenta se unir às Horse Girls.(n)</desc>
+    <credits>
+      <director>Stu Livingston</director>
+      <actor>Vozes de Philip Solomon</actor>
+      <actor>Georgie Kidder</actor>
+      <actor>Michael Croner</actor>
+      <actor>Phil LaMarr</actor>
+      <actor>Dana Davis</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820171100 -0300" stop="20210820172700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Mundo de Greg</title>
+    <desc lang="pt">Craig e seus amigos viajam em busca de uma madressilva no riacho e acabam encontrando algo que nunca haviam visto.(n)</desc>
+    <credits>
+      <director>Stu Livingston</director>
+      <actor>Vozes de Philip Solomon</actor>
+      <actor>Georgie Kidder</actor>
+      <actor>Michael Croner</actor>
+      <actor>Phil LaMarr</actor>
+      <actor>Dana Davis</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820172700 -0300" stop="20210820173800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Mundo de Greg</title>
+    <desc lang="pt">Craig e seus amigos são convidados para uma festa do chá, exclusiva com sobremesas deliciosas. Isso se conseguirem ficar até o fim...(n)</desc>
+    <credits>
+      <director>Stu Livingston</director>
+      <actor>Vozes de Philip Solomon</actor>
+      <actor>Georgie Kidder</actor>
+      <actor>Michael Croner</actor>
+      <actor>Phil LaMarr</actor>
+      <actor>Dana Davis</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820173800 -0300" stop="20210820174500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Mundo de Greg</title>
+    <desc lang="pt">Greg e seus amigos montam uma banda, mas Greg é perseguido por um pesadelo assustador.(n)</desc>
+    <credits>
+      <director>Stu Livingston</director>
+      <actor>Vozes de Philip Solomon</actor>
+      <actor>Georgie Kidder</actor>
+      <actor>Michael Croner</actor>
+      <actor>Phil LaMarr</actor>
+      <actor>Dana Davis</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E18</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820174500 -0300" stop="20210820175400 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Elliott, O Terráqueo</title>
+    <desc lang="pt">No primeiro dia de Elliott na Colmeia, ele conhece os personagens mais estranhos que já havia visto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Inglaterra</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820175400 -0300" stop="20210820180000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Mundo de Greg</title>
+    <desc lang="pt">Greg pretende tornar o jogo de Quatro Quadrados divertido de novo desafiando seu melhor jogador!(n)</desc>
+    <credits>
+      <director>Stu Livingston</director>
+      <actor>Vozes de Philip Solomon</actor>
+      <actor>Georgie Kidder</actor>
+      <actor>Michael Croner</actor>
+      <actor>Phil LaMarr</actor>
+      <actor>Dana Davis</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820181100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Mundo de Greg</title>
+    <desc lang="pt">Quando abelhas infestam a Árvore da Troca, Greg deverá instaurar o Conselho do Riacho para impedir uma tragédia.(n)</desc>
+    <credits>
+      <director>Stu Livingston</director>
+      <actor>Vozes de Philip Solomon</actor>
+      <actor>Georgie Kidder</actor>
+      <actor>Michael Croner</actor>
+      <actor>Phil LaMarr</actor>
+      <actor>Dana Davis</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E85</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820181100 -0300" stop="20210820182700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Mundo de Greg</title>
+    <desc lang="pt">A missão de Craig para mapear todo o riacho o leva ao lado de seus amigos ao perigoso bosque de heras venenosas.(n)</desc>
+    <credits>
+      <director>Stu Livingston</director>
+      <actor>Vozes de Philip Solomon</actor>
+      <actor>Georgie Kidder</actor>
+      <actor>Michael Croner</actor>
+      <actor>Phil LaMarr</actor>
+      <actor>Dana Davis</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820182700 -0300" stop="20210820184200 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Mundo de Greg</title>
+    <desc lang="pt">Greg descobre que os Patrulheiros da Madressilva entraram em seu lado do riacho para roubar seu bem mais valioso.(n)</desc>
+    <credits>
+      <director>Stu Livingston</director>
+      <actor>Vozes de Philip Solomon</actor>
+      <actor>Georgie Kidder</actor>
+      <actor>Michael Croner</actor>
+      <actor>Phil LaMarr</actor>
+      <actor>Dana Davis</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E43</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820184200 -0300" stop="20210820184500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Mundo de Greg</title>
+    <desc lang="pt">Greg resgata um girino e decide transformá-lo num sapo de nível 100!(n)</desc>
+    <credits>
+      <director>Stu Livingston</director>
+      <actor>Vozes de Philip Solomon</actor>
+      <actor>Georgie Kidder</actor>
+      <actor>Michael Croner</actor>
+      <actor>Phil LaMarr</actor>
+      <actor>Dana Davis</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820184500 -0300" stop="20210820185600 -0300" channel="Cartoon Network HD">
+    <title lang="pt">DC Super Hero Girls</title>
+    <desc lang="pt">Depois de se mudar para um bairro entediante de Metropolis, Batgirl fica animadíssima ao interceptar uma ligação de Batman pedindo ajuda. Mas, antes que ela consiga deter um vilão em Gotham, terá que despistar seu pai, o comissário de polícia Gordon.(n)</desc>
+    <credits>
+      <director>Noëlle Raffaele</director>
+      <actor>Vozes de Kimberly Brooks</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Tara Strong</actor>
+      <actor>Nicole Sullivan</actor>
+      <actor>Myrna Velasco</actor>
+      <actor>Kari Wahlgren</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820185600 -0300" stop="20210820190000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">DC Super Hero Girls</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Noëlle Raffaele</director>
+      <actor>Vozes de Kimberly Brooks</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Tara Strong</actor>
+      <actor>Nicole Sullivan</actor>
+      <actor>Myrna Velasco</actor>
+      <actor>Kari Wahlgren</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E41</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820194500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ben Gen 10</title>
+    <desc lang="pt">Quando Ben conhece um jovem Mutante Rex fugindo de Providence, ele deverá resolver uma série de desentendimentos e derrotar o feiticeiro Hex para impedir que um Omnitrix defeituoso infecte a população humana com DNA alienígena.(n)</desc>
+    <credits>
+      <director>Henrique Jardim</director>
+      <actor>Vozes de Tara Strong</actor>
+      <actor>David Kaye</actor>
+      <actor>Travis Willingham</actor>
+      <actor>Daryl Sabara</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820194500 -0300" stop="20210820200000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Looney Tunes</title>
+    <desc lang="pt">Acompanhe os parceiros Pernalonga, Patolino e seus amigos nesta aventura muito doida, na qual cada um deles sempre arranja um parceiro muito louco para dividir a casa e morar nos subúrbios da Califórnia, com vizinhos mais loucos ainda!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/looneytunes01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820201100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <desc lang="pt">Daisy, a Burrinha, está desaparecida e Anaís precisa seguir as pistas para encontrá-la.(n)</desc>
+    <credits>
+      <director>Mic Graves</director>
+      <actor>Vozes de Logan Grove</actor>
+      <actor>Kwesi Boakye</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Teresa Gallagher</actor>
+      <actor>Dan Russell</actor>
+      <actor>Jacob Hopkins</actor>
+      <actor>Terrell Ransom Jr.</actor>
+      <actor>Tamia Cerrate</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oincrivelmundodegumball01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Irlanda</country>
+    <episode-num system="onscreen">S4 E95</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820201100 -0300" stop="20210820202700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <desc lang="pt">Os Wattersons conhecem uma família de imitadores que copia todos os movimentos deles.(n)</desc>
+    <credits>
+      <director>Mic Graves</director>
+      <actor>Vozes de Logan Grove</actor>
+      <actor>Kwesi Boakye</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Teresa Gallagher</actor>
+      <actor>Dan Russell</actor>
+      <actor>Jacob Hopkins</actor>
+      <actor>Terrell Ransom Jr.</actor>
+      <actor>Tamia Cerrate</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oincrivelmundodegumball01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Irlanda</country>
+    <episode-num system="onscreen">S5 E117</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820202700 -0300" stop="20210820204300 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <desc lang="pt">Os meninos descobrem que o papai tem se vestido de mulher para fazer amizades.(n)</desc>
+    <credits>
+      <director>Mic Graves</director>
+      <actor>Vozes de Logan Grove</actor>
+      <actor>Kwesi Boakye</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Teresa Gallagher</actor>
+      <actor>Dan Russell</actor>
+      <actor>Jacob Hopkins</actor>
+      <actor>Terrell Ransom Jr.</actor>
+      <actor>Tamia Cerrate</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oincrivelmundodegumball01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Irlanda</country>
+    <episode-num system="onscreen">S6 E139</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820204300 -0300" stop="20210820204500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <desc lang="pt">Rob cria uma série de programas e formatos baseados em Elmore para substituir Gumball.(n)</desc>
+    <credits>
+      <director>Mic Graves</director>
+      <actor>Vozes de Logan Grove</actor>
+      <actor>Kwesi Boakye</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Teresa Gallagher</actor>
+      <actor>Dan Russell</actor>
+      <actor>Jacob Hopkins</actor>
+      <actor>Terrell Ransom Jr.</actor>
+      <actor>Tamia Cerrate</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oincrivelmundodegumball01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Irlanda</country>
+    <episode-num system="onscreen">S6 E161</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820204500 -0300" stop="20210820210000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Victor e Valentino</title>
+    <desc lang="pt">Quando o time preferido de Escaramuza de Val perde um integrante, ele convence Xochi a se unir à equipe. Como treinador dela, ele fará de tudo para vencer o grande torneio.(n)</desc>
+    <credits>
+      <director>Diego Molano</director>
+      <actor>Vozes de Diego Molano</actor>
+      <actor>Sean-Ryan Petersen</actor>
+      <actor>Laura Patalano</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E67</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820210000 -0300" stop="20210820224500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Hotel Transilvânia 2</title>
+    <desc lang="pt">A vampira Mavis e o humano Jonathan se casaram e continuaram morando no Hotel Transilvânia, já que Drácula ofereceu um emprego ao genro.(n)</desc>
+    <credits>
+      <director>Genndy Tartakovsky</director>
+      <actor>Vozes de Adam Sandler</actor>
+      <actor>Andy Samberg</actor>
+      <actor>Selena Gomez</actor>
+      <actor>Kevin James</actor>
+      <actor>Steve Buscemi</actor>
+      <actor>David Spade</actor>
+      <actor>Keegan-Michael Key</actor>
+      <actor>Asher Blinkoff</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820224500 -0300" stop="20210820225700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <desc lang="pt">Gumball e o Diretor Brown fazem um pacto para contar à namorada um do outro sobre os problemas que estão enfrentando.(n)</desc>
+    <credits>
+      <director>Mic Graves</director>
+      <actor>Vozes de Logan Grove</actor>
+      <actor>Kwesi Boakye</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Teresa Gallagher</actor>
+      <actor>Dan Russell</actor>
+      <actor>Jacob Hopkins</actor>
+      <actor>Terrell Ransom Jr.</actor>
+      <actor>Tamia Cerrate</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oincrivelmundodegumball01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Irlanda</country>
+    <episode-num system="onscreen">S6 E148</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820225700 -0300" stop="20210820230000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <desc lang="pt">Alan perdeu a fé na humanidade e deixou o mundo preto e branco. Agora, Gumball deverá passar por cima de sua raiva por ele para resgatar as cores por meio da música.(n)</desc>
+    <credits>
+      <director>Mic Graves</director>
+      <actor>Vozes de Logan Grove</actor>
+      <actor>Kwesi Boakye</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Teresa Gallagher</actor>
+      <actor>Dan Russell</actor>
+      <actor>Jacob Hopkins</actor>
+      <actor>Terrell Ransom Jr.</actor>
+      <actor>Tamia Cerrate</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oincrivelmundodegumball01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Irlanda</country>
+    <episode-num system="onscreen">S6 E149</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210820230800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Mundo de Greg</title>
+    <desc lang="pt">JP decide seguir seu coração e tenta se unir às Horse Girls.(n)</desc>
+    <credits>
+      <director>Stu Livingston</director>
+      <actor>Vozes de Philip Solomon</actor>
+      <actor>Georgie Kidder</actor>
+      <actor>Michael Croner</actor>
+      <actor>Phil LaMarr</actor>
+      <actor>Dana Davis</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820230800 -0300" stop="20210820231100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <desc lang="pt">Um grupo de crianças fica preso na escola depois de seus pais participarem de um evento beneficente. E elas escolhem Gumball como o líder, para tirá-las de lá. Mas o caos se instala.(n)</desc>
+    <credits>
+      <director>Mic Graves</director>
+      <actor>Vozes de Logan Grove</actor>
+      <actor>Kwesi Boakye</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Teresa Gallagher</actor>
+      <actor>Dan Russell</actor>
+      <actor>Jacob Hopkins</actor>
+      <actor>Terrell Ransom Jr.</actor>
+      <actor>Tamia Cerrate</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oincrivelmundodegumball01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Irlanda</country>
+    <episode-num system="onscreen">S6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820231100 -0300" stop="20210820232700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Mundo de Greg</title>
+    <desc lang="pt">Craig e seus amigos viajam em busca de uma madressilva no riacho e acabam encontrando algo que nunca haviam visto.(n)</desc>
+    <credits>
+      <director>Stu Livingston</director>
+      <actor>Vozes de Philip Solomon</actor>
+      <actor>Georgie Kidder</actor>
+      <actor>Michael Croner</actor>
+      <actor>Phil LaMarr</actor>
+      <actor>Dana Davis</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820232700 -0300" stop="20210820233800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Mundo de Greg</title>
+    <desc lang="pt">Craig e seus amigos são convidados para uma festa do chá, exclusiva com sobremesas deliciosas. Isso se conseguirem ficar até o fim...(n)</desc>
+    <credits>
+      <director>Stu Livingston</director>
+      <actor>Vozes de Philip Solomon</actor>
+      <actor>Georgie Kidder</actor>
+      <actor>Michael Croner</actor>
+      <actor>Phil LaMarr</actor>
+      <actor>Dana Davis</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820233800 -0300" stop="20210820235400 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Mundo de Greg</title>
+    <desc lang="pt">Greg e seus amigos montam uma banda, mas Greg é perseguido por um pesadelo assustador.(n)</desc>
+    <credits>
+      <director>Stu Livingston</director>
+      <actor>Vozes de Philip Solomon</actor>
+      <actor>Georgie Kidder</actor>
+      <actor>Michael Croner</actor>
+      <actor>Phil LaMarr</actor>
+      <actor>Dana Davis</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E18</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820235400 -0300" stop="20210821000000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Mundo de Greg</title>
+    <desc lang="pt">Greg pretende tornar o jogo de Quatro Quadrados divertido de novo desafiando seu melhor jogador!(n)</desc>
+    <credits>
+      <director>Stu Livingston</director>
+      <actor>Vozes de Philip Solomon</actor>
+      <actor>Georgie Kidder</actor>
+      <actor>Michael Croner</actor>
+      <actor>Phil LaMarr</actor>
+      <actor>Dana Davis</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821000000 -0300" stop="20210821003000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Captain Tsubasa</title>
+    <desc lang="pt">O Nankatsu e o Musashi enfrentam-se nas semifinais do Torneio Nacional. Tsubasa terá que enfrentar o príncipe do campo, Jun Misugi, famoso pelo seu excepcional talento, liderança e precisão.(n)</desc>
+    <credits>
+      <director>Toshiyuki Kato</director>
+      <actor>Vozes de Yûko Sanpei</actor>
+      <actor>Kenji Suzumura</actor>
+      <actor>Takuya Sato</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_captaintsubasa01.jpg" />
+    <country lang="pt">Japão</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821003000 -0300" stop="20210821010000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Radiant</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Daisei Fukuoka</director>
+      <director>Seiji Kishi</director>
+      <actor>Vozes de Shawn Gann</actor>
+      <actor>Barry Yandell</actor>
+      <actor>Eric Vale</actor>
+      <actor>Caitlin Glass</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Japão</country>
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821010000 -0300" stop="20210821011500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Juliano Enrico</director>
+      <actor>Vozes de Melissa Garcia</actor>
+      <actor>Andrei Duarte</actor>
+      <actor>César Marchetti</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/irmaodojorel01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E183</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821011500 -0300" stop="20210821013100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Juliano Enrico</director>
+      <actor>Vozes de Melissa Garcia</actor>
+      <actor>Andrei Duarte</actor>
+      <actor>César Marchetti</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/irmaodojorel01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E184</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821013100 -0300" stop="20210821014200 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Juliano Enrico</director>
+      <actor>Vozes de Melissa Garcia</actor>
+      <actor>Andrei Duarte</actor>
+      <actor>César Marchetti</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/irmaodojorel01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E185</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821014200 -0300" stop="20210821015400 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Juliano Enrico</director>
+      <actor>Vozes de Melissa Garcia</actor>
+      <actor>Andrei Duarte</actor>
+      <actor>César Marchetti</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/irmaodojorel01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E186</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821015400 -0300" stop="20210821020000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel</title>
+    <desc lang="pt">Irmão do Jorel acredita que Vovó Juju sabe cantar rap e quer que o mundo presencie esse acontecimento maravilhoso. Será que Vovó Juju deseja o mesmo?(n)</desc>
+    <credits>
+      <director>Juliano Enrico</director>
+      <actor>Vozes de Melissa Garcia</actor>
+      <actor>Andrei Duarte</actor>
+      <actor>César Marchetti</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/irmaodojorel01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E137</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821020000 -0300" stop="20210821020500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <desc lang="pt">Estelar quer aprender mais, mas será que o conhecimento a tornará uma chata?(n)</desc>
+    <credits>
+      <director>Lisa Schaffer</director>
+      <actor>Vozes de Greg Cipes</actor>
+      <actor>Scott Menville</actor>
+      <actor>Khary Payton</actor>
+      <actor>Tara Strong</actor>
+      <actor>Hynden Walch</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/teentitansgo01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821020500 -0300" stop="20210821021100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Juliano Enrico</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/irmaodojorel01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821021100 -0300" stop="20210821022600 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <desc lang="pt">Os Titãs descobrem da forma mais dolorosa para que serve um banheiro.(n)</desc>
+    <credits>
+      <director>Lisa Schaffer</director>
+      <actor>Vozes de Greg Cipes</actor>
+      <actor>Scott Menville</actor>
+      <actor>Khary Payton</actor>
+      <actor>Tara Strong</actor>
+      <actor>Hynden Walch</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/teentitansgo01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821022600 -0300" stop="20210821023600 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <desc lang="pt">Os outros Titãs estão sempre enlouquecendo Ravena. Imagine então no Dia da Loucura...(n)</desc>
+    <credits>
+      <director>Lisa Schaffer</director>
+      <actor>Vozes de Greg Cipes</actor>
+      <actor>Scott Menville</actor>
+      <actor>Khary Payton</actor>
+      <actor>Tara Strong</actor>
+      <actor>Hynden Walch</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/teentitansgo01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821023600 -0300" stop="20210821025100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <desc lang="pt">Finalmente descobrimos a fonte do bom humor dos Titãs: pizza!(n)</desc>
+    <credits>
+      <director>Lisa Schaffer</director>
+      <actor>Vozes de Greg Cipes</actor>
+      <actor>Scott Menville</actor>
+      <actor>Khary Payton</actor>
+      <actor>Tara Strong</actor>
+      <actor>Hynden Walch</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/teentitansgo01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E45</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821025100 -0300" stop="20210821030000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <desc lang="pt">Mutano descobre que consegue se transformar num adulto.(n)</desc>
+    <credits>
+      <director>Lisa Schaffer</director>
+      <actor>Vozes de Greg Cipes</actor>
+      <actor>Scott Menville</actor>
+      <actor>Khary Payton</actor>
+      <actor>Tara Strong</actor>
+      <actor>Hynden Walch</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/teentitansgo01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E45</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821030000 -0300" stop="20210821030200 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Steven Universo</title>
+    <desc lang="pt">Steven e Ametista ficam competitivos enquanto treinam com Pérola.(n)</desc>
+    <credits>
+      <director>Rebecca Sugar</director>
+      <actor>Vozes de Estelle</actor>
+      <actor>Zach Callison</actor>
+      <actor>Michaela Dietz</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/stevenuniverse01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E19</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821030200 -0300" stop="20210821031100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <desc lang="pt">Robin cria coragem para convidar Estelar para sair, mas descobre que ela já havia combinado de sair com Speedy, seu arqui-inimigo... Assim, Robin decide raptá-lo!(n)</desc>
+    <credits>
+      <director>Lisa Schaffer</director>
+      <actor>Vozes de Greg Cipes</actor>
+      <actor>Scott Menville</actor>
+      <actor>Khary Payton</actor>
+      <actor>Tara Strong</actor>
+      <actor>Hynden Walch</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/teentitansgo01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821031100 -0300" stop="20210821033800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Steven Universo</title>
+    <desc lang="pt">Steven é o famoso irmão mais novo de uma equipe mágica de guardiãs da humanidade, as CRYSTAL GEMS! Embora ele não seja tão poderoso quanto elas, Steven sempre as acompanha em suas aventuras mágicas e encontra suas próprias formas de salvar o dia.(n)</desc>
+    <credits>
+      <director>Rebecca Sugar</director>
+      <actor>Vozes de Estelle</actor>
+      <actor>Zach Callison</actor>
+      <actor>Michaela Dietz</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/stevenuniverse01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821033800 -0300" stop="20210821034900 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Steven Universo</title>
+    <desc lang="pt">Steven e Ametista visitam uns amigos no interior, mas Ametista age de forma estranha.(n)</desc>
+    <credits>
+      <director>Rebecca Sugar</director>
+      <actor>Vozes de Estelle</actor>
+      <actor>Zach Callison</actor>
+      <actor>Michaela Dietz</actor>
+      <actor>Tom Scharpling</actor>
+      <actor>Deedee Magno</actor>
+      <actor>Grace Rolek</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/stevenuniverse01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821034900 -0300" stop="20210821040000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Steven Universo</title>
+    <desc lang="pt">Steven encontra alguns aliados inesperados.(n)</desc>
+    <credits>
+      <actor>Vozes de Estelle</actor>
+      <actor>Zach Callison</actor>
+      <actor>Deedee Magno</actor>
+      <actor>Michaela Dietz</actor>
+      <actor>Chris Jai Alex</actor>
+      <actor>Aimee Mann</actor>
+      <actor>Sinbad</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/stevenuniverse01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821040000 -0300" stop="20210821040500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <desc lang="pt">Darwin é enviado a um instituto governamental para gênios. Sério.(n)</desc>
+    <credits>
+      <director>Mic Graves</director>
+      <actor>Vozes de Logan Grove</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oincrivelmundodegumball01.jpg" />
+    <country lang="pt">Inglaterra</country>
+    <country lang="pt">Estados Unidos</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821040500 -0300" stop="20210821041200 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Steven Universo</title>
+    <desc lang="pt">Steven e as Gems revisitam a Base da Lua.(n)</desc>
+    <credits>
+      <actor>Vozes de Estelle</actor>
+      <actor>Zach Callison</actor>
+      <actor>Deedee Magno</actor>
+      <actor>Michaela Dietz</actor>
+      <actor>Chris Jai Alex</actor>
+      <actor>Aimee Mann</actor>
+      <actor>Sinbad</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/stevenuniverse01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821041200 -0300" stop="20210821041700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <desc lang="pt">Quando Boberto se torna o servo de Gumball por uma semana, Gumball percebe que os robôs obedecem a qualquer comando... até mesmo ao comando para destruí-lo!(n)</desc>
+    <credits>
+      <director>Mic Graves</director>
+      <actor>Vozes de Logan Grove</actor>
+      <actor>Kwesi Boakye</actor>
+      <actor>Tony Beck</actor>
+      <actor>Sandra Dickinson</actor>
+      <actor>Max Cazier</actor>
+      <actor>Hugh Harrison</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oincrivelmundodegumball01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Irlanda</country>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821041700 -0300" stop="20210821042800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Steven Universo</title>
+    <desc lang="pt">Steven fica isolado em sua bolha.(n)</desc>
+    <credits>
+      <actor>Vozes de Estelle</actor>
+      <actor>Zach Callison</actor>
+      <actor>Deedee Magno</actor>
+      <actor>Michaela Dietz</actor>
+      <actor>Chris Jai Alex</actor>
+      <actor>Aimee Mann</actor>
+      <actor>Sinbad</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/stevenuniverse01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821042800 -0300" stop="20210821044000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <desc lang="pt">Quando Mãe Nicole revela a Gumball que ele na verdade se chama "Zach", o menino adota uma personalidade piegas e irritante para combinar com o nome. Sua família tenta fazê-lo se lembrar do velho Gumball.(n)</desc>
+    <credits>
+      <director>Mic Graves</director>
+      <actor>Vozes de Logan Grove</actor>
+      <actor>Rupert Degas</actor>
+      <actor>Dan Russell</actor>
+      <actor>Kwesi Boakye</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Jacob Hopkins</actor>
+      <actor>Terrell Ransom Jr.</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oincrivelmundodegumball01.jpg" />
+    <country lang="pt">Inglaterra</country>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821044000 -0300" stop="20210821045600 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <desc lang="pt">Conheça os Wattersons: Mãe, Pai, Anais, Darwim e, é claro, Gumball! Ele é um garoto de doze anos com uma quedinha por confusões e que tem um fantástico grupo de amigos estranhos. É O Incrível Mundo de Gumball!(n)</desc>
+    <credits>
+      <director>Mic Graves</director>
+      <actor>Vozes de Logan Grove</actor>
+      <actor>Kwesi Boakye</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Teresa Gallagher</actor>
+      <actor>Dan Russell</actor>
+      <actor>Jacob Hopkins</actor>
+      <actor>Terrell Ransom Jr.</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oincrivelmundodegumball01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Irlanda</country>
+    <episode-num system="onscreen">S3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821045600 -0300" stop="20210821050000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <desc lang="pt">Gumball está atrasado para encontrar Penny no shopping. E uma série de desentendimentos no caminho o atrasam ainda mais.(n)</desc>
+    <credits>
+      <director>Mic Graves</director>
+      <actor>Vozes de Logan Grove</actor>
+      <actor>Kwesi Boakye</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Teresa Gallagher</actor>
+      <actor>Dan Russell</actor>
+      <actor>Jacob Hopkins</actor>
+      <actor>Terrell Ransom Jr.</actor>
+      <actor>Tamia Cerrate</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oincrivelmundodegumball01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Irlanda</country>
+    <episode-num system="onscreen">S4 E91</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821050000 -0300" stop="20210821051100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <desc lang="pt">Neste episódio, vemos os ursos ainda filhotes! Os três, enquanto caminham pelo deserto, se deparam com um galpão gigante. Eles tentam transformar esse paraíso cheio de caixas num lar.(n)</desc>
+    <credits>
+      <director>Manny Hernandez</director>
+      <actor>Vozes de Sam Lavagnino</actor>
+      <actor>Duncan Joiner</actor>
+      <actor>Keith Ferguson</actor>
+      <actor>Demetri Martin</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ursossemcurso01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821051100 -0300" stop="20210821052700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <desc lang="pt">Os sonhos dos bebês ursos se realizam quando eles encontram uma nota de 100 dólares. Mas, quando não conseguem gastá-la, eles percebem que será difícil se livrar dela.(n)</desc>
+    <credits>
+      <director>Daniel Chong</director>
+      <actor>Vozes de Eric Edelstein</actor>
+      <actor>Jim Ward</actor>
+      <actor>Demetri Martin</actor>
+      <actor>Bobby Moynihan</actor>
+      <actor>Edi Patterson</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Austin Rogers</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ursossemcurso01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821052700 -0300" stop="20210821055400 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <desc lang="pt">Os ursos se reúnem com seu caranguejo de estimação. Mas, depois de um encontro desafortunado com Nom Nom, eles podem perder seu bichinho para sempre.(n)</desc>
+    <credits>
+      <director>Manny Hernandez</director>
+      <actor>Vozes de Ashly Burch</actor>
+      <actor>Diane Delano</actor>
+      <actor>Eric Edelstein</actor>
+      <actor>Keith Ferguson</actor>
+      <actor>Bobby Moynihan</actor>
+      <actor>Patton Oswalt</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ursossemcurso01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E14</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821055400 -0300" stop="20210821060000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <desc lang="pt">Quando Panda tropeça e, sem querer, acaba afugentando uma matilha de lobos, a hierarquia dos ursos é alterada. De repente, ele se torna o urso alfa e deverá, ao lado de Pardo, lidar com as consequências de ser um panda emotivo.(n)</desc>
+    <credits>
+      <director>Manny Hernandez</director>
+      <actor>Vozes de Eric Edelstein</actor>
+      <actor>Jason Lee</actor>
+      <actor>Demetri Martin</actor>
+      <actor>Bobby Moynihan</actor>
+      <actor>Jonathan Lipow</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ursossemcurso01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821060500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Scooby-Doo! e Kiss: O Mistério do Rock And Roll</title>
+    <desc lang="pt">Scooby-Doo e o resto da turma se unem ao KISS em uma nova aventura dentro do parque temático da banda. Juntos investigarão uma série de aparições para resolver o mistério da Bruxa Carmesí.(n)</desc>
+    <credits>
+      <director>Spike Brandt</director>
+      <director>Tony Cervone</director>
+      <actor>Vozes de Frank Welker</actor>
+      <actor>Mindy Cohn</actor>
+      <actor>Matthew Lillard</actor>
+      <actor>Gene Simmons</actor>
+      <actor>Paul Stanley</actor>
+      <actor>Eric Singer</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/filme_scoobydooekissomisteriodor01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821060500 -0300" stop="20210821071500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <desc lang="pt">Bebê urso vive sozinho no Ártico e conhece um homem misterioso chamado Yuri. Juntos, eles tentam sobreviver ao frio.(n)</desc>
+    <credits>
+      <director>Daniel Chong</director>
+      <actor>Vozes de Eric Edelstein</actor>
+      <actor>Jim Ward</actor>
+      <actor>Demetri Martin</actor>
+      <actor>Bobby Moynihan</actor>
+      <actor>Edi Patterson</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Austin Rogers</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ursossemcurso01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821071500 -0300" stop="20210821072200 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <desc lang="pt">Quando Rick e Ginger são recrutados para cuidar de Sabrina, a poodle francesa de uma amiga, Tom no início fica com o pé atrás. Mas não demora para que ele se renda a ela.(n)</desc>
+    <credits>
+      <director>Darrell Van Citters</director>
+      <actor>Voz de Julie Wittner</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdotomjerry01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821072200 -0300" stop="20210821073000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <desc lang="pt">Tom, Jerry e Espeto se deparam com uma armadura ambulante. O cavaleiro assusta Tom, mas Jerry o enfrenta, porque pensa que se trata de Tom fantasiado. Jerry acaba entrando na armadura e descobre que ela é habitada por três gatinhos.(n)</desc>
+    <credits>
+      <director>Darrell Van Citters</director>
+      <actor>Voz de Julie Wittner</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdotomjerry01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821073000 -0300" stop="20210821073700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Mundo de Greg</title>
+    <desc lang="pt">Quando Craig e Jessica ficam trancados fora de casa, Craig não tem outra opção a não ser levar sua irmãzinha ao riacho.(n)</desc>
+    <credits>
+      <director>Stu Livingston</director>
+      <actor>Vozes de Philip Solomon</actor>
+      <actor>Georgie Kidder</actor>
+      <actor>Michael Croner</actor>
+      <actor>Phil LaMarr</actor>
+      <actor>Dana Davis</actor>
+      <actor>Gunnar Sizemore</actor>
+      <actor>Lucia Cunningham</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821073700 -0300" stop="20210821074100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <desc lang="pt">Quando Tom pega no sono, um chumaço de plantas voa em direção ao seu rosto e ele descobre que a cozinha parece um bar do velho oeste.(n)</desc>
+    <credits>
+      <director>Darrell Van Citters</director>
+      <actor>Voz de Julie Wittner</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oshowdotomjerry01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821074100 -0300" stop="20210821075700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Mundo de Greg</title>
+    <desc lang="pt">JP suja sua última peça de roupa limpa e é obrigado a usar sua roupa de domingo para ir ao riacho.(n)</desc>
+    <credits>
+      <director>Stu Livingston</director>
+      <actor>Vozes de Philip Solomon</actor>
+      <actor>Georgie Kidder</actor>
+      <actor>Michael Croner</actor>
+      <actor>Phil LaMarr</actor>
+      <actor>Dana Davis</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821075700 -0300" stop="20210821080800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Mundo de Greg</title>
+    <desc lang="pt">Os meninos conhecem um excêntrico criador de arte em papelão que convida Craig para ajudá-lo a terminar sua obra-prima.(n)</desc>
+    <credits>
+      <director>Stu Livingston</director>
+      <actor>Vozes de Philip Solomon</actor>
+      <actor>Georgie Kidder</actor>
+      <actor>Michael Croner</actor>
+      <actor>Phil LaMarr</actor>
+      <actor>Dana Davis</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821080800 -0300" stop="20210821082400 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Mundo de Greg</title>
+    <desc lang="pt">A determinação de Craig em dar um casulo de cigarra ao seu avô, o deixa preso em seu cepo ao lado de Kátia e JP!(n)</desc>
+    <credits>
+      <director>Stu Livingston</director>
+      <actor>Vozes de Philip Solomon</actor>
+      <actor>Georgie Kidder</actor>
+      <actor>Michael Croner</actor>
+      <actor>Phil LaMarr</actor>
+      <actor>Dana Davis</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821082400 -0300" stop="20210821083000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Mundo de Greg</title>
+    <desc lang="pt">Jessica vai parar num riacho desconhecido e Greg sai à sua procura antes que a mãe dele descubra!(n)</desc>
+    <credits>
+      <director>Stu Livingston</director>
+      <actor>Vozes de Philip Solomon</actor>
+      <actor>Georgie Kidder</actor>
+      <actor>Michael Croner</actor>
+      <actor>Phil LaMarr</actor>
+      <actor>Dana Davis</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E32</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821083000 -0300" stop="20210821090000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Scooby-Doo! E Convidados</title>
+    <desc lang="pt">Scooby e a gangue se unem ao ator MALCOLM McDOWELL numa viagem pelo tempo quando são levados ao futuro pelo apavorante Chrono Beast!(n)</desc>
+    <credits>
+      <director>Frank Paur</director>
+      <actor>Vozes de Frank Welker</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Matthew Lillard</actor>
+      <actor>Kate Micucci</actor>
+      <actor>Jim Gaffigan</actor>
+      <actor>Fred Tatasciore</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E24</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821090000 -0300" stop="20210821091100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids</title>
+    <desc lang="pt">Seus participantes favoritos de Ilha dos Desafios estão de volta de uma forma que você nunca viu antes... como crianças de quatro anos de idade numa escolinha!(n)</desc>
+    <credits>
+      <director>Tom McGillis</director>
+      <actor>Vozes de Wyatt White</actor>
+      <actor>Lilly Bartlam</actor>
+      <actor>Emilie-Claire Barlow</actor>
+      <actor>Katie Crown</actor>
+      <actor>Kerstin Julia Dietrich</actor>
+      <actor>Kristin Fairlie</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S2 E69</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821091100 -0300" stop="20210821092600 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids</title>
+    <desc lang="pt">Seus participantes favoritos de Ilha dos Desafios estão de volta de uma forma que você nunca viu antes... como crianças de quatro anos de idade numa escolinha!(n)</desc>
+    <credits>
+      <director>Tom McGillis</director>
+      <actor>Vozes de Wyatt White</actor>
+      <actor>Lilly Bartlam</actor>
+      <actor>Emilie-Claire Barlow</actor>
+      <actor>Katie Crown</actor>
+      <actor>Kerstin Julia Dietrich</actor>
+      <actor>Kristin Fairlie</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821092600 -0300" stop="20210821093600 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids</title>
+    <desc lang="pt">Seus participantes favoritos de Ilha dos Desafios estão de volta de uma forma que você nunca viu antes... como crianças de quatro anos de idade numa escolinha!(n)</desc>
+    <credits>
+      <director>Tom McGillis</director>
+      <actor>Vozes de Wyatt White</actor>
+      <actor>Lilly Bartlam</actor>
+      <actor>Emilie-Claire Barlow</actor>
+      <actor>Katie Crown</actor>
+      <actor>Kerstin Julia Dietrich</actor>
+      <actor>Kristin Fairlie</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S2 E71</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821093600 -0300" stop="20210821095100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids</title>
+    <desc lang="pt">Seus participantes favoritos de Ilha dos Desafios estão de volta de uma forma que você nunca viu antes... como crianças de quatro anos de idade numa escolinha!(n)</desc>
+    <credits>
+      <director>Tom McGillis</director>
+      <actor>Vozes de Wyatt White</actor>
+      <actor>Lilly Bartlam</actor>
+      <actor>Emilie-Claire Barlow</actor>
+      <actor>Katie Crown</actor>
+      <actor>Kerstin Julia Dietrich</actor>
+      <actor>Kristin Fairlie</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S2 E72</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821095100 -0300" stop="20210821100000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids</title>
+    <desc lang="pt">Seus participantes favoritos de Ilha dos Desafios estão de volta de uma forma que você nunca viu antes... como crianças de quatro anos de idade numa escolinha!(n)</desc>
+    <credits>
+      <director>Tom McGillis</director>
+      <actor>Vozes de Wyatt White</actor>
+      <actor>Lilly Bartlam</actor>
+      <actor>Emilie-Claire Barlow</actor>
+      <actor>Katie Crown</actor>
+      <actor>Kerstin Julia Dietrich</actor>
+      <actor>Kristin Fairlie</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S2 E73</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821100000 -0300" stop="20210821101500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Lego Ninjago</title>
+    <desc lang="pt">O Feiticeiro da Caveira caça os ninjas que fugiram da Caverna-Forte dos Geckles. O Feiticeiro da Caveira promete libertar os Munce e Geckles se estes entregarem os ninjas.(n)</desc>
+    <credits>
+      <director>Adam Wood</director>
+      <director>Rich Johnson</director>
+      <director>Daniel Ife</director>
+      <actor>Vozes de Kelly Metzger</actor>
+      <actor>Michael Adamthwaite</actor>
+      <actor>Sam Vincent</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E29</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821101500 -0300" stop="20210821102600 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <desc lang="pt">Tabes e Charlie se unem para encontrar o cachorro perdido de Tabes, Kirk.(n)</desc>
+    <credits>
+      <director>Daniel Chong</director>
+      <actor>Vozes de Eric Edelstein</actor>
+      <actor>Jim Ward</actor>
+      <actor>Demetri Martin</actor>
+      <actor>Bobby Moynihan</actor>
+      <actor>Edi Patterson</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Austin Rogers</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ursossemcurso01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E121</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821102600 -0300" stop="20210821104200 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <desc lang="pt">Para conseguir dormir um pouco, os Ursos ajudam um pássaro irritante a arrumar uma namorada.(n)</desc>
+    <credits>
+      <director>Daniel Chong</director>
+      <actor>Vozes de Eric Edelstein</actor>
+      <actor>Jim Ward</actor>
+      <actor>Demetri Martin</actor>
+      <actor>Bobby Moynihan</actor>
+      <actor>Edi Patterson</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Austin Rogers</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ursossemcurso01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E126</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821104200 -0300" stop="20210821105700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <desc lang="pt">Quando os Ursos vão à reunião de família de Chloe, eles acabam sendo vítimas das pegadinhas do primo travesso dela, Jon.(n)</desc>
+    <credits>
+      <director>Daniel Chong</director>
+      <actor>Vozes de Eric Edelstein</actor>
+      <actor>Jim Ward</actor>
+      <actor>Demetri Martin</actor>
+      <actor>Bobby Moynihan</actor>
+      <actor>Edi Patterson</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Austin Rogers</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ursossemcurso01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821105700 -0300" stop="20210821110000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <desc lang="pt">Panda vira um germofóbico e decide passar o resto de sua vida dentro de uma bolha.(n)</desc>
+    <credits>
+      <director>Daniel Chong</director>
+      <actor>Vozes de Eric Edelstein</actor>
+      <actor>Jim Ward</actor>
+      <actor>Demetri Martin</actor>
+      <actor>Bobby Moynihan</actor>
+      <actor>Edi Patterson</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Austin Rogers</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ursossemcurso01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E131</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821110000 -0300" stop="20210821111100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Oswaldo</title>
+    <desc lang="pt">É dia de inspeção na cantina, e Marilua se vê obrigada a dispensar Ozzy depois de ver a sujeira e bagunça que mantinha lá. Mas as crianças não ficam felizes com a mudança, e tentam ajudá-lo a voltar para a escola.(n)</desc>
+    <credits>
+      <director>Pedro Eboli</director>
+      <actor>Vozes de Mabel Cezar</actor>
+      <actor>Nestor Chiesse</actor>
+      <actor>Tatiana de Marca</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_oswaldo01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S3 E46</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821111100 -0300" stop="20210821112700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Oswaldo</title>
+    <desc lang="pt">Ao tentar entrar no ginásio, Vivian é surpreendida por P.A. que a informa que está acontecendo a segunda guerra de coquinhos para decidir quem comandará a quadra, e quando questionado, fala que não a chamaram porque sempre ganha, e é chato.(n)</desc>
+    <credits>
+      <director>Pedro Eboli</director>
+      <actor>Vozes de Mabel Cezar</actor>
+      <actor>Nestor Chiesse</actor>
+      <actor>Tatiana de Marca</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_oswaldo01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S3 E47</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821112700 -0300" stop="20210821114300 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Oswaldo</title>
+    <desc lang="pt">Gibraltar ansiosamente apresenta a nova máquina de refrigerantes da escola aos alunos. Oswaldo põe o dinheiro na máquina, mas nao recebe a maricola, e quando Medeiros tenta, duas latinhas caem.(n)</desc>
+    <credits>
+      <director>Pedro Eboli</director>
+      <actor>Vozes de Mabel Cezar</actor>
+      <actor>Nestor Chiesse</actor>
+      <actor>Tatiana de Marca</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_oswaldo01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S3 E48</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821114300 -0300" stop="20210821120000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Oswaldo</title>
+    <desc lang="pt">Oswaldo, Leia e Tobias vão à locadora para jogar um novo jogo de realidade virtual no espaço. Com o tempo, notam que Vanderson está tão focado em conseguir todos troféus, que se tornou um tirano.(n)</desc>
+    <credits>
+      <director>Pedro Eboli</director>
+      <actor>Vozes de Mabel Cezar</actor>
+      <actor>Nestor Chiesse</actor>
+      <actor>Tatiana de Marca</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_oswaldo01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S3 E49</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821120000 -0300" stop="20210821121100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <desc lang="pt">Após a destruição de sua torre por Slade, os Titãs começam a procurar casas.(n)</desc>
+    <credits>
+      <actor>Vozes de Greg Cipes</actor>
+      <actor>Scott Menville</actor>
+      <actor>Khary Payton</actor>
+      <actor>Tara Strong</actor>
+      <actor>Hynden Walch</actor>
+      <actor>Kevin Michael Richardson</actor>
+      <actor>Lauren Tom</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/teentitansgo01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E213</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821121100 -0300" stop="20210821122600 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <desc lang="pt">Quando os outros Titãs são transformados em peças colecionáveis e desaparecem, Robin deverá vasculhar bazares de garagem e lojas para encontrá-los.(n)</desc>
+    <credits>
+      <actor>Vozes de Greg Cipes</actor>
+      <actor>Scott Menville</actor>
+      <actor>Khary Payton</actor>
+      <actor>Tara Strong</actor>
+      <actor>Hynden Walch</actor>
+      <actor>Kevin Michael Richardson</actor>
+      <actor>Lauren Tom</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/teentitansgo01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E239</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821122600 -0300" stop="20210821123700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <desc lang="pt">Ciborgue faz uma visita a Mutano. Mas, quando Ciborgue se dá conta de que ele e Robotman têm muito em comum, os dois se tornam inseparáveis.(n)</desc>
+    <credits>
+      <actor>Vozes de Greg Cipes</actor>
+      <actor>Scott Menville</actor>
+      <actor>Khary Payton</actor>
+      <actor>Tara Strong</actor>
+      <actor>Hynden Walch</actor>
+      <actor>Kevin Michael Richardson</actor>
+      <actor>Lauren Tom</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/teentitansgo01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E268</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821123700 -0300" stop="20210821125200 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <desc lang="pt">É Dia de Ação de Graças, mas os Titãs estão cansados das tradições e decidem criar suas próprias.(n)</desc>
+    <credits>
+      <director>Luke Cormican</director>
+      <actor>Vozes de Greg Cipes</actor>
+      <actor>Scott Menville</actor>
+      <actor>Khary Payton</actor>
+      <actor>Tara Strong</actor>
+      <actor>Hynden Walch</actor>
+      <actor>Kevin Michael Richardson</actor>
+      <actor>Lauren Tom</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/teentitansgo01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821125200 -0300" stop="20210821130000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <desc lang="pt">Os Titãs entram no espírito pioneiro quando se dirigem ao oeste pela Trilha do Oregon.(n)</desc>
+    <credits>
+      <actor>Vozes de Greg Cipes</actor>
+      <actor>Scott Menville</actor>
+      <actor>Khary Payton</actor>
+      <actor>Tara Strong</actor>
+      <actor>Hynden Walch</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/teentitansgo01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E146</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821130000 -0300" stop="20210821130300 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Hotel Transilvânia 2</title>
+    <desc lang="pt">A vampira Mavis e o humano Jonathan se casaram e continuaram morando no Hotel Transilvânia, já que Drácula ofereceu um emprego ao genro.(n)</desc>
+    <credits>
+      <director>Genndy Tartakovsky</director>
+      <actor>Vozes de Adam Sandler</actor>
+      <actor>Andy Samberg</actor>
+      <actor>Selena Gomez</actor>
+      <actor>Kevin James</actor>
+      <actor>Steve Buscemi</actor>
+      <actor>David Spade</actor>
+      <actor>Keegan-Michael Key</actor>
+      <actor>Asher Blinkoff</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821130300 -0300" stop="20210821144500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <desc lang="pt">A máscara de Robin não esconde apenas sua identidade, mas também um terrível segredo!(n)</desc>
+    <credits>
+      <director>Luke Cormican</director>
+      <actor>Vozes de Greg Cipes</actor>
+      <actor>Scott Menville</actor>
+      <actor>Khary Payton</actor>
+      <actor>Tara Strong</actor>
+      <actor>Hynden Walch</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/teentitansgo01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E35</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821144500 -0300" stop="20210821145600 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <desc lang="pt">O caos se instala quando Pai Ricardo tenta impedir Vovó Jojo de se casar.(n)</desc>
+    <credits>
+      <director>Mic Graves</director>
+      <actor>Vozes de Logan Grove</actor>
+      <actor>Kwesi Boakye</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Teresa Gallagher</actor>
+      <actor>Dan Russell</actor>
+      <actor>Jacob Hopkins</actor>
+      <actor>Terrell Ransom Jr.</actor>
+      <actor>Tamia Cerrate</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oincrivelmundodegumball01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Irlanda</country>
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821145600 -0300" stop="20210821150000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <desc lang="pt">Gumball e Darwin ajudam Anaís a lidar com alguém que está a importunando na escola.(n)</desc>
+    <credits>
+      <director>Mic Graves</director>
+      <actor>Vozes de Logan Grove</actor>
+      <actor>Kwesi Boakye</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Teresa Gallagher</actor>
+      <actor>Dan Russell</actor>
+      <actor>Jacob Hopkins</actor>
+      <actor>Terrell Ransom Jr.</actor>
+      <actor>Tamia Cerrate</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oincrivelmundodegumball01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Irlanda</country>
+    <episode-num system="onscreen">S4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821150000 -0300" stop="20210821150800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <desc lang="pt">Quando Gumball e Darwin recebem um email assustador, todo mundo vira suspeito... até eles mesmos!(n)</desc>
+    <credits>
+      <director>Mic Graves</director>
+      <actor>Logan Grove</actor>
+      <actor>Kwesi Boakye</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Teresa Gallagher</actor>
+      <actor>Dan Russell</actor>
+      <actor>Jessica McDonald</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oincrivelmundodegumball01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Irlanda</country>
+    <episode-num system="onscreen">S2 E16</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821150800 -0300" stop="20210821151200 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <desc lang="pt">Masami faz aniversário. Mas o que dar a uma nuvem que já tem tudo?(n)</desc>
+    <credits>
+      <director>Mic Graves</director>
+      <actor>Vozes de Logan Grove</actor>
+      <actor>Kwesi Boakye</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Teresa Gallagher</actor>
+      <actor>Dan Russell</actor>
+      <actor>Jacob Hopkins</actor>
+      <actor>Terrell Ransom Jr.</actor>
+      <actor>Tamia Cerrate</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oincrivelmundodegumball01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Irlanda</country>
+    <episode-num system="onscreen">S4 E64</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821151200 -0300" stop="20210821152800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <desc lang="pt">A reputação de Gumball e Darwin é ameaçada, mas eles não estão nem aí!(n)</desc>
+    <credits>
+      <director>Mic Graves</director>
+      <actor>Voz de Logan Grove</actor>
+      <actor>Kwesi Boakye</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Lewis Macleod</actor>
+      <actor>Jessica McDonald</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oincrivelmundodegumball01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S2 E18</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821152800 -0300" stop="20210821154000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <desc lang="pt">O incrível mundo de Elmore é repleto de objetos inanimados que não são tão inanimados quanto você achava!(n)</desc>
+    <credits>
+      <director>Mic Graves</director>
+      <actor>Vozes de Logan Grove</actor>
+      <actor>Kwesi Boakye</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oincrivelmundodegumball01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Irlanda</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821154000 -0300" stop="20210821155600 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <desc lang="pt">O novo treinador testemunha Jamie atormentando as outras crianças no recreio e decide intervir. Jamie deverá se desculpar, para a surpresa de todos. Mas Gumball e Darwin se preocupam com a possibilidade de Jamie se vingar.(n)</desc>
+    <credits>
+      <director>Mic Graves</director>
+      <actor>Vozes de Logan Grove</actor>
+      <actor>Rupert Degas</actor>
+      <actor>Jacob Hopkins</actor>
+      <actor>Dan Russell</actor>
+      <actor>Kwesi Boakye</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Terrell Ransom Jr.</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oincrivelmundodegumball01.jpg" />
+    <country lang="pt">Inglaterra</country>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821155600 -0300" stop="20210821160000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <desc lang="pt">Quando Mãe Nicole revela a Gumball que ele na verdade se chama "Zach", o menino adota uma personalidade piegas e irritante para combinar com o nome. Sua família tenta fazê-lo se lembrar do velho Gumball.(n)</desc>
+    <credits>
+      <director>Mic Graves</director>
+      <actor>Vozes de Logan Grove</actor>
+      <actor>Rupert Degas</actor>
+      <actor>Dan Russell</actor>
+      <actor>Kwesi Boakye</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Jacob Hopkins</actor>
+      <actor>Terrell Ransom Jr.</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oincrivelmundodegumball01.jpg" />
+    <country lang="pt">Inglaterra</country>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821160000 -0300" stop="20210821161100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">DC Super Hero Girls</title>
+    <desc lang="pt">Babs está adorando seu emprego na lanchonete de fast food Burrito Bucket, mas seu chefe, que está cansado de seus atrasos e esquecimentos, adoraria arrumar uma desculpa para demiti-la.(n)</desc>
+    <credits>
+      <director>Noëlle Raffaele</director>
+      <actor>Vozes de Kimberly Brooks</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Tara Strong</actor>
+      <actor>Nicole Sullivan</actor>
+      <actor>Myrna Velasco</actor>
+      <actor>Kari Wahlgren</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E22</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821161100 -0300" stop="20210821162400 -0300" channel="Cartoon Network HD">
+    <title lang="pt">DC Super Hero Girls</title>
+    <desc lang="pt">Leslie Willis, a garota mais cruel da escola, se torna uma sensação das redes sociais ao postar vídeos cruéis em seu canal no MetropoVids. Wonder Woman então começa a questionar a integridade moral das pessoas que vivem no Mundo dos Homens.(n)</desc>
+    <credits>
+      <director>Noëlle Raffaele</director>
+      <actor>Vozes de Kimberly Brooks</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Tara Strong</actor>
+      <actor>Nicole Sullivan</actor>
+      <actor>Myrna Velasco</actor>
+      <actor>Kari Wahlgren</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821162400 -0300" stop="20210821163000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">DC Super Hero Girls</title>
+    <desc lang="pt">Diana Prince está absolutamente detonando em todos os aspectos como uma aluna do Colégio Metropolis. Até que alguém aparece e ameaça mudar sua vida para sempre.(n)</desc>
+    <credits>
+      <director>Noëlle Raffaele</director>
+      <actor>Vozes de Kimberly Brooks</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Tara Strong</actor>
+      <actor>Nicole Sullivan</actor>
+      <actor>Myrna Velasco</actor>
+      <actor>Kari Wahlgren</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821163000 -0300" stop="20210821164100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Victor e Valentino</title>
+    <desc lang="pt">Vic e Val querem assistir a um show secreto de fogos de artifício. Mas eles são impedidos quando sua nova babá, Xochi, os flagra em todas as suas tentativas de fugir.(n)</desc>
+    <credits>
+      <director>Diego Molano</director>
+      <actor>Vozes de Diego Molano</actor>
+      <actor>Sean-Ryan Petersen</actor>
+      <actor>Laura Patalano</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821164100 -0300" stop="20210821165400 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Victor e Valentino</title>
+    <desc lang="pt">Quando Vic e Val descobrem que as emoções de Chata controlam as águas do lago, eles usam isso a seu favor e abrem uma empresa de piscina de ondas.(n)</desc>
+    <credits>
+      <director>Diego Molano</director>
+      <actor>Vozes de Diego Molano</actor>
+      <actor>Sean-Ryan Petersen</actor>
+      <actor>Laura Patalano</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821165400 -0300" stop="20210821170000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Victor e Valentino</title>
+    <desc lang="pt">Quando Vic trapaceia num jogo de tabuleiro encantado, os personagens maus do jogo ganham vida. Agora, caberá a Vic e Val descobrir como enviá-los de volta ao jogo.(n)</desc>
+    <credits>
+      <director>Diego Molano</director>
+      <actor>Vozes de Diego Molano</actor>
+      <actor>Sean-Ryan Petersen</actor>
+      <actor>Laura Patalano</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821170000 -0300" stop="20210821171100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Mundo de Greg</title>
+    <desc lang="pt">JP decide seguir seu coração e tenta se unir às Horse Girls.(n)</desc>
+    <credits>
+      <director>Stu Livingston</director>
+      <actor>Vozes de Philip Solomon</actor>
+      <actor>Georgie Kidder</actor>
+      <actor>Michael Croner</actor>
+      <actor>Phil LaMarr</actor>
+      <actor>Dana Davis</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821171100 -0300" stop="20210821172700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Mundo de Greg</title>
+    <desc lang="pt">Uma terrível maldição transforma Greg na única criança do riacho.(n)</desc>
+    <credits>
+      <director>Stu Livingston</director>
+      <actor>Vozes de Philip Solomon</actor>
+      <actor>Georgie Kidder</actor>
+      <actor>Michael Croner</actor>
+      <actor>Phil LaMarr</actor>
+      <actor>Dana Davis</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E22</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821172700 -0300" stop="20210821173800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Mundo de Greg</title>
+    <desc lang="pt">O telefone de Greg fica preso na árvore mais alta do riacho!(n)</desc>
+    <credits>
+      <director>Stu Livingston</director>
+      <actor>Vozes de Philip Solomon</actor>
+      <actor>Georgie Kidder</actor>
+      <actor>Michael Croner</actor>
+      <actor>Phil LaMarr</actor>
+      <actor>Dana Davis</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E24</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821173800 -0300" stop="20210821175400 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Mundo de Greg</title>
+    <desc lang="pt">JP lidera seus amigos numa aventura para encontrar o maior lagostim do riacho.(n)</desc>
+    <credits>
+      <director>Stu Livingston</director>
+      <actor>Vozes de Philip Solomon</actor>
+      <actor>Georgie Kidder</actor>
+      <actor>Michael Croner</actor>
+      <actor>Phil LaMarr</actor>
+      <actor>Dana Davis</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E25</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821175400 -0300" stop="20210821180000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Mundo de Greg</title>
+    <desc lang="pt">Os meninos conhecem um garoto misterioso do futuro e tentam ajudá-lo a completar sua missão.(n)</desc>
+    <credits>
+      <director>Stu Livingston</director>
+      <actor>Vozes de Philip Solomon</actor>
+      <actor>Georgie Kidder</actor>
+      <actor>Michael Croner</actor>
+      <actor>Phil LaMarr</actor>
+      <actor>Dana Davis</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E26</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821180000 -0300" stop="20210821181100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <desc lang="pt">Nom Nom é aconselhado por seu médico a fazer uma viagem. Mas ele acaba sendo acompanhado por alguém inesperado: Pardo.(n)</desc>
+    <credits>
+      <director>Daniel Chong</director>
+      <actor>Vozes de Eric Edelstein</actor>
+      <actor>Jim Ward</actor>
+      <actor>Demetri Martin</actor>
+      <actor>Bobby Moynihan</actor>
+      <actor>Edi Patterson</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Austin Rogers</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ursossemcurso01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821181100 -0300" stop="20210821182700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <desc lang="pt">Os Ursos ajudam Chloe a apresentar seu projeto num concurso universitário de ciências. Mas as rivais dela tornam as coisas difíceis.(n)</desc>
+    <credits>
+      <director>Daniel Chong</director>
+      <actor>Vozes de Eric Edelstein</actor>
+      <actor>Jim Ward</actor>
+      <actor>Demetri Martin</actor>
+      <actor>Bobby Moynihan</actor>
+      <actor>Edi Patterson</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Austin Rogers</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ursossemcurso01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821182700 -0300" stop="20210821183800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <desc lang="pt">Grizz apresenta a sequência do seu filme Crowbar Jones a Nom Nom, na esperança de que Nom Nom concorde em participar.(n)</desc>
+    <credits>
+      <director>Daniel Chong</director>
+      <actor>Vozes de Eric Edelstein</actor>
+      <actor>Jim Ward</actor>
+      <actor>Demetri Martin</actor>
+      <actor>Bobby Moynihan</actor>
+      <actor>Edi Patterson</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Austin Rogers</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ursossemcurso01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821183800 -0300" stop="20210821185400 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <desc lang="pt">Os bebês ursos ajudam um adolescente a realizar seu sonho de ser um cantor famoso.(n)</desc>
+    <credits>
+      <director>Daniel Chong</director>
+      <actor>Vozes de Eric Edelstein</actor>
+      <actor>Jim Ward</actor>
+      <actor>Demetri Martin</actor>
+      <actor>Bobby Moynihan</actor>
+      <actor>Edi Patterson</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Austin Rogers</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ursossemcurso01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821185400 -0300" stop="20210821190500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <desc lang="pt">Quando Polar bate a cabeça, Pardo e Panda percebem que ele está agindo de forma estranha.(n)</desc>
+    <credits>
+      <director>Daniel Chong</director>
+      <actor>Vozes de Eric Edelstein</actor>
+      <actor>Jim Ward</actor>
+      <actor>Demetri Martin</actor>
+      <actor>Bobby Moynihan</actor>
+      <actor>Edi Patterson</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Austin Rogers</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ursossemcurso01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821190500 -0300" stop="20210821191000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <desc lang="pt">Os ursos usam um urso robô para ajudá-los a limpar a casa. Mas as coisas se complicam quando o robô sai do controle.(n)</desc>
+    <credits>
+      <director>Daniel Chong</director>
+      <actor>Vozes de Eric Edelstein</actor>
+      <actor>Jim Ward</actor>
+      <actor>Demetri Martin</actor>
+      <actor>Bobby Moynihan</actor>
+      <actor>Edi Patterson</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Austin Rogers</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ursossemcurso01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821191000 -0300" stop="20210821192600 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Toontubers</title>
+    <desc lang="pt">Em sua incessante busca por Mordecai, Rigby se depara com duas versões meio rústicas dos Toontubers!(n)</desc>
+    <credits>
+      <actor>Vozes de Charles Emmanuel</actor>
+      <actor>Sérgio Stern</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/toontubers01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821192600 -0300" stop="20210821194100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">ToonTubers</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Vivian Arias</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/toontubers01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821194100 -0300" stop="20210821194500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Toontubers</title>
+    <desc lang="pt">Gamers nunca nunca desistem! Durante o jogo, Mordecai e Rigby fazem comentários sobre tudo, demonstrando suas habilidades (nem tão) incríveis e lutando para saber QUEM É O MELHOR JOGADOR!(n)</desc>
+    <credits>
+      <actor>Vozes de Charles Emmanuel</actor>
+      <actor>Sérgio Stern</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/toontubers01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821194500 -0300" stop="20210821200000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <desc lang="pt">Conheça Robin, Ciborgue, Estelar, Ravena e Mutano. Claro, eles ainda são super-heróis que salvam o dia, mas o que acontece quando terminam suas missões?(n)</desc>
+    <credits>
+      <director>Lisa Schaffer</director>
+      <actor>Vozes de Greg Cipes</actor>
+      <actor>Scott Menville</actor>
+      <actor>Khary Payton</actor>
+      <actor>Tara Strong</actor>
+      <actor>Hynden Walch</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/teentitansgo01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821200000 -0300" stop="20210821201000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <desc lang="pt">A Temporada de Crimes chegou e Robin está disposto a continuar sua missão de evitar 52 crimes por ano.(n)</desc>
+    <credits>
+      <director>Luke Cormican</director>
+      <actor>Vozes de Greg Cipes</actor>
+      <actor>Scott Menville</actor>
+      <actor>Khary Payton</actor>
+      <actor>Tara Strong</actor>
+      <actor>Hynden Walch</actor>
+      <actor>Kevin Michael Richardson</actor>
+      <actor>Lauren Tom</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/teentitansgo01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E165</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821201000 -0300" stop="20210821202100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <desc lang="pt">A missão de Robin de evitar 52 crimes por ano é ameaçada quando membros de sua equipe são capturados por Kid Flash.(n)</desc>
+    <credits>
+      <director>Luke Cormican</director>
+      <actor>Vozes de Greg Cipes</actor>
+      <actor>Scott Menville</actor>
+      <actor>Khary Payton</actor>
+      <actor>Tara Strong</actor>
+      <actor>Hynden Walch</actor>
+      <actor>Kevin Michael Richardson</actor>
+      <actor>Lauren Tom</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/teentitansgo01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E166</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821202100 -0300" stop="20210821203700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <desc lang="pt">É Noite de Filmes e os Titãs têm dificuldade para decidir quem escolherá o que eles irão assistir.(n)</desc>
+    <credits>
+      <director>Luke Cormican</director>
+      <actor>Vozes de Greg Cipes</actor>
+      <actor>Scott Menville</actor>
+      <actor>Khary Payton</actor>
+      <actor>Tara Strong</actor>
+      <actor>Hynden Walch</actor>
+      <actor>Kevin Michael Richardson</actor>
+      <actor>Lauren Tom</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/teentitansgo01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E167</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821203700 -0300" stop="20210821204700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <desc lang="pt">Na volta às aulas, os Titãs ensinam uns aos outros um pouco de ciência e gramática.(n)</desc>
+    <credits>
+      <director>Luke Cormican</director>
+      <actor>Vozes de Greg Cipes</actor>
+      <actor>Scott Menville</actor>
+      <actor>Khary Payton</actor>
+      <actor>Tara Strong</actor>
+      <actor>Hynden Walch</actor>
+      <actor>Kevin Michael Richardson</actor>
+      <actor>Lauren Tom</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/teentitansgo01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E14</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821204700 -0300" stop="20210821205800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <desc lang="pt">Batman e o Comissário Gordon investigam vários acontecimentos em Jump City.(n)</desc>
+    <credits>
+      <director>Luke Cormican</director>
+      <actor>Vozes de Greg Cipes</actor>
+      <actor>Scott Menville</actor>
+      <actor>Khary Payton</actor>
+      <actor>Tara Strong</actor>
+      <actor>Hynden Walch</actor>
+      <actor>Kevin Michael Richardson</actor>
+      <actor>Lauren Tom</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/teentitansgo01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E161</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821205800 -0300" stop="20210821211200 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <desc lang="pt">Mutano concorda em dividir seu aniversário com Estelar ao descobrir que ela nunca teve uma comemoração na Terra.(n)</desc>
+    <credits>
+      <director>Luke Cormican</director>
+      <actor>Vozes de Greg Cipes</actor>
+      <actor>Scott Menville</actor>
+      <actor>Khary Payton</actor>
+      <actor>Tara Strong</actor>
+      <actor>Hynden Walch</actor>
+      <actor>Kevin Michael Richardson</actor>
+      <actor>Lauren Tom</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/teentitansgo01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821211200 -0300" stop="20210821213000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <desc lang="pt">Os Titãs brincam de girar a garrafa enquanto Estelar tenta aperfeiçoar seu vocabulário com beijos.(n)</desc>
+    <credits>
+      <director>Luke Cormican</director>
+      <actor>Vozes de Greg Cipes</actor>
+      <actor>Scott Menville</actor>
+      <actor>Khary Payton</actor>
+      <actor>Tara Strong</actor>
+      <actor>Hynden Walch</actor>
+      <actor>Kevin Michael Richardson</actor>
+      <actor>Lauren Tom</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/teentitansgo01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E164</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821213000 -0300" stop="20210821214200 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <desc lang="pt">Gumball e Darwin presenteiam Nicole com um curso intensivo de informática.(n)</desc>
+    <credits>
+      <director>Mic Graves</director>
+      <actor>Vozes de Logan Grove</actor>
+      <actor>Kwesi Boakye</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Teresa Gallagher</actor>
+      <actor>Dan Russell</actor>
+      <actor>Jacob Hopkins</actor>
+      <actor>Terrell Ransom Jr.</actor>
+      <actor>Tamia Cerrate</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oincrivelmundodegumball01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Irlanda</country>
+    <episode-num system="onscreen">S6 E181</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821214200 -0300" stop="20210821215400 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <desc lang="pt">O Halloween não é mais como era antes. Serão Gumball e Darwin capazes de ajudar os monstros a recuperar seu lado assustador?(n)</desc>
+    <credits>
+      <director>Mic Graves</director>
+      <actor>Vozes de Logan Grove</actor>
+      <actor>Kwesi Boakye</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Teresa Gallagher</actor>
+      <actor>Dan Russell</actor>
+      <actor>Jacob Hopkins</actor>
+      <actor>Terrell Ransom Jr.</actor>
+      <actor>Tamia Cerrate</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oincrivelmundodegumball01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Irlanda</country>
+    <episode-num system="onscreen">S6 E177</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821215400 -0300" stop="20210821220000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <desc lang="pt">O Sr. Robinson tenta repetidas vezes, sem sucesso, reconquistar a amizade de Gumball e Darwin.(n)</desc>
+    <credits>
+      <director>Mic Graves</director>
+      <actor>Vozes de Logan Grove</actor>
+      <actor>Kwesi Boakye</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Dan Russell</actor>
+      <actor>Kerry Shale</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/oincrivelmundodegumball01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Irlanda</country>
+    <episode-num system="onscreen">S6 E176</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821220000 -0300" stop="20210821221500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids</title>
+    <desc lang="pt">Leshawna cria uma guerra de balões coloridos para decidir quem poderá ir com ela a um parque de diversões.(n)</desc>
+    <credits>
+      <director>Tom McGillis</director>
+      <actor>Vozes de Wyatt White</actor>
+      <actor>Lilly Bartlam</actor>
+      <actor>Emilie-Claire Barlow</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821221500 -0300" stop="20210821223000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids</title>
+    <desc lang="pt">Beth se recusa a acredita que o adorável mostro gosmento que ela criou de slime está devorando as crianças até que ela e Gwen são as únicas que sobram na turma.(n)</desc>
+    <credits>
+      <director>Tom McGillis</director>
+      <actor>Vozes de Wyatt White</actor>
+      <actor>Lilly Bartlam</actor>
+      <actor>Emilie-Claire Barlow</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S1 E35</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821223000 -0300" stop="20210821224100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids</title>
+    <desc lang="pt">Depois que o Chef diz que opiniões contrárias deixam o mundo mais interessante e divertido, Izzy aplica isso da - pior forma possível.(n)</desc>
+    <credits>
+      <director>Tom McGillis</director>
+      <actor>Vozes de Wyatt White</actor>
+      <actor>Lilly Bartlam</actor>
+      <actor>Emilie-Claire Barlow</actor>
+      <actor>Katie Crown</actor>
+      <actor>Kerstin Julia Dietrich</actor>
+      <actor>Kristin Fairlie</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S2 E59</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821224100 -0300" stop="20210821225100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids</title>
+    <desc lang="pt">Seus participantes favoritos de Ilha dos Desafios estão de volta de uma forma que você nunca viu antes... como crianças de quatro anos de idade numa escolinha!(n)</desc>
+    <credits>
+      <director>Tom McGillis</director>
+      <actor>Vozes de Wyatt White</actor>
+      <actor>Lilly Bartlam</actor>
+      <actor>Emilie-Claire Barlow</actor>
+      <actor>Katie Crown</actor>
+      <actor>Kerstin Julia Dietrich</actor>
+      <actor>Kristin Fairlie</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S2 E83</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821225100 -0300" stop="20210821230000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids</title>
+    <desc lang="pt">O mundo de Harold vira de cabeça para baixo quando seus colegas declaram Beth a verdadeira ninja da turma.(n)</desc>
+    <credits>
+      <director>Tom McGillis</director>
+      <actor>Vozes de Wyatt White</actor>
+      <actor>Lilly Bartlam</actor>
+      <actor>Emilie-Claire Barlow</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821230000 -0300" stop="20210821231100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Mundo de Greg</title>
+    <desc lang="pt">JP decide seguir seu coração e tenta se unir às Horse Girls.(n)</desc>
+    <credits>
+      <director>Stu Livingston</director>
+      <actor>Vozes de Philip Solomon</actor>
+      <actor>Georgie Kidder</actor>
+      <actor>Michael Croner</actor>
+      <actor>Phil LaMarr</actor>
+      <actor>Dana Davis</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821231100 -0300" stop="20210821232700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Mundo de Greg</title>
+    <desc lang="pt">Uma terrível maldição transforma Greg na única criança do riacho.(n)</desc>
+    <credits>
+      <director>Stu Livingston</director>
+      <actor>Vozes de Philip Solomon</actor>
+      <actor>Georgie Kidder</actor>
+      <actor>Michael Croner</actor>
+      <actor>Phil LaMarr</actor>
+      <actor>Dana Davis</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E22</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821232700 -0300" stop="20210821233800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Mundo de Greg</title>
+    <desc lang="pt">O telefone de Greg fica preso na árvore mais alta do riacho!(n)</desc>
+    <credits>
+      <director>Stu Livingston</director>
+      <actor>Vozes de Philip Solomon</actor>
+      <actor>Georgie Kidder</actor>
+      <actor>Michael Croner</actor>
+      <actor>Phil LaMarr</actor>
+      <actor>Dana Davis</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E24</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821233800 -0300" stop="20210821235400 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Mundo de Greg</title>
+    <desc lang="pt">JP lidera seus amigos numa aventura para encontrar o maior lagostim do riacho.(n)</desc>
+    <credits>
+      <director>Stu Livingston</director>
+      <actor>Vozes de Philip Solomon</actor>
+      <actor>Georgie Kidder</actor>
+      <actor>Michael Croner</actor>
+      <actor>Phil LaMarr</actor>
+      <actor>Dana Davis</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E25</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821235400 -0300" stop="20210822000000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Mundo de Greg</title>
+    <desc lang="pt">Os meninos conhecem um garoto misterioso do futuro e tentam ajudá-lo a completar sua missão.(n)</desc>
+    <credits>
+      <director>Stu Livingston</director>
+      <actor>Vozes de Philip Solomon</actor>
+      <actor>Georgie Kidder</actor>
+      <actor>Michael Croner</actor>
+      <actor>Phil LaMarr</actor>
+      <actor>Dana Davis</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_omundodegreg01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E26</episode-num>
+    <rating system="BR">
+      <value>L</value>
     </rating>
   </programme>
 </tv>
