@@ -12,10 +12,12 @@
   </channel>
   <channel id="Animal Planet HD">
     <display-name lang="pt">Animal Planet HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/animalplanet2019.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Arte 1 HD">
     <display-name lang="pt">Arte 1 HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/arte1.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="AXN HD">
@@ -781,6 +783,290 @@
     <country lang="pt">EUA</country>
     <rating system="BR">
       <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820161300 -0300" stop="20210820170600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Oriente Médio Selvagem</title>
+    <desc lang="pt">Uma viagem pelo Turcomenistão selvagem.(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820170600 -0300" stop="20210820180000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Europa Selvagem</title>
+    <desc lang="pt">No sul da Europa, quando as temperaturas no verão superam os 30 graus Celsius, a vida testa seus limites em terras áridas e desafiadoras.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_europaselvagem01.jpg" />
+    <country lang="pt">Grã-Bretanha</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820185400 -0300" channel="Animal Planet HD">
+    <title lang="pt">Lei da Sobrevivência</title>
+    <desc lang="pt">Predadores mortais usam venenos potentes, picadas e ferrões para incapacitar e matar a presa, e também para se defenderem. Descubra as adaptações que os animais desenvolveram para vencer seus rivais.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Grã-Bretanha</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820185400 -0300" stop="20210820194600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Monstros do Rio</title>
+    <desc lang="pt">Jeremy Wade viaja para o Outback, o deserto australiano, para tentar apanhar o raro e temido peixe-serra de água doce. Este predador tem seis metros de comprimento e fama de atacar barcos, mas isso o torna um assassino?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/monstrosdorioassassinoatomico01.jpg" />
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820194600 -0300" stop="20210820203800 -0300" channel="Animal Planet HD">
+    <title lang="pt">Monstros do Rio</title>
+    <desc lang="pt">Jeremy Wade viaja para o Brasil em busca de um monstro do rio que matou três peões. A busca pelo culpado o leva a conhecer pessoas que temem por sua vida. Wade descobre a verdade chocante sobre um peixe que jamais havia capturado.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/monstrosdorioassassinoatomico01.jpg" />
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820203800 -0300" stop="20210820213000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Jeremy Wade</title>
+    <desc lang="pt">Jeremy Wade passou décadas caçando monstros fluviais nas águas mais remotas. Com habilidades inigualáveis e alguma sorte, ele já capturou muitos peixes, mas ainda há muitos outros em sua lista de desejos.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820213000 -0300" stop="20210820222200 -0300" channel="Animal Planet HD">
+    <title lang="pt">Jeremy Wade</title>
+    <desc lang="pt">O poderoso Rio Mississippi sofre ameaças em várias frentes, de espécies de peixes invasoras a algas verdes que sufocam a vida em suas águas. Jeremy Wade encontra cientistas, pescadores e líderes da luta para salvar o rio.(n)</desc>
+    <credits>
+      <director>Alex Parkinson</director>
+      <actor>Jeremy Wade</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820222200 -0300" stop="20210820231400 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca ao Extremo</title>
+    <desc lang="pt">Em Bornéu, a equipe busca um peixe praticamente extinto, o mahseer. Para encontrá-lo, eles se arriscam entrando no território dos Dayaks, um povo de caçadores de cabeças.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820231400 -0300" stop="20210820233900 -0300" channel="Animal Planet HD">
+    <title lang="pt">Terra Brasil</title>
+    <desc lang="pt">Aruay e Anderson vão até a cidade de Paraty-RJ para conhecer algumas ilhas dentro da Área de Proteção Ambiental de Cairuçu, um local com mais de 60 ilhas, e com faunas e floras diversas.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Meio Ambiente</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_terrabrasil01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E25</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820233900 -0300" stop="20210821000700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Vida No Azul</title>
+    <desc lang="pt">Conheça animais marinhos incríveis: cobras venenosas e crocodilos em pleno oceano, peixes minúsculos que imitam corais e até folhas, e peixes que caçam fora d'água! O que estes incríveis animais têm em comum?(n)</desc>
+    <credits>
+      <director>João Paulo Krajewski</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ecologia</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820160000 -0300" stop="20210820170000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 Documenta</title>
+    <desc lang="pt">O apresentador Alan Yentob viaja para Rússia, a fim de conhecer a opinião popular sobre Leon Tolstói. O filme mostra diferentes facetas do autor e revela um Tolstói para além de "Guerra e Paz" e "Anna Karenina".(n)</desc>
+    <credits>
+      <director>Rupert Edwards</director>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_arte1documenta01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820170000 -0300" stop="20210820173000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Minidocs</title>
+    <desc lang="pt">Neste episódio, conheça mais sobre a luta da cantora e compositora Bia Ferreira sobre a mulher preta na música. A revolução está realmente em curso?(n)</desc>
+    <credits>
+      <director>Carlos Gayotto Rolim</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820173000 -0300" stop="20210820180000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 Encontra</title>
+    <desc lang="pt">A produção do Arte1 aproxima o público de artistas das variadas áreas por meio de encontros em seus estúdios.(n)</desc>
+    <credits>
+      <director>Gisele Kato</director>
+      <director>Ricardo Sêco</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820190000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 Visual</title>
+    <desc lang="pt">O quinto episódio faz uma breve historiografia da representação do nu em obras de arte e busca respostas a questionamentos feitos acerca do tema.(n)</desc>
+    <credits>
+      <director>Marcos Guttmann</director>
+      <director>Fabiano Maciel</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_arte1visual01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820193000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Buscando Buskers</title>
+    <desc lang="pt">Jali Kiari (nome artístico de Jalizete Ferrari) é cantora, compositora e instrumentista. Além de suas composições próprias, Jali interpreta versões musicadas de poesias de Davi Kinski.(n)</desc>
+    <credits>
+      <director>Gabriel Castelhano</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_buscandobuskers01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820193000 -0300" stop="20210820201500 -0300" channel="Arte 1 HD">
+    <title lang="pt">Memórias do Brasil</title>
+    <desc lang="pt">Artistas como Tuzé de Abreu, Marcio Meireles, Jorge Alfredo, Cesare De La Roca e Chico Liberato, ajudam a conhecer e a entender melhor a vida e a obra de Lia Robatto.(n)</desc>
+    <credits>
+      <director>Rodrigo de Luna</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_memoriasdobrasil01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820201500 -0300" stop="20210820203000 -0300" channel="Arte 1 HD">
+    <title lang="pt">A Crucigramista</title>
+    <desc lang="pt">Com um olhar interdisciplinar entre artes plásticas, literatura e cinema, a série dirigida por Paula Parisot e Jessica Mitrani proporciona um panorama sobre o passado e o presente da cultura latino-americana.(n)</desc>
+    <credits>
+      <director>Paula Parisot</director>
+      <director>Jessica Mitrani</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820203000 -0300" stop="20210820213000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Teatros no Brasil</title>
+    <desc lang="pt">Presente nos principais episódios políticos do Rio Grande do Sul, o Theatro São Pedro é considerado uma fortaleza dos palcos e preserva os traços da arquitetura clássica.(n)</desc>
+    <credits>
+      <director>Emilio Gallo</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820213000 -0300" stop="20210820230000 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 Apresenta</title>
+    <desc lang="pt">O cantor, compositor e multi-instrumentista americano Ben Harper faz uma apresentação no festival Baloise Session, na Suíça, em que traz composições em diferentes estilos como blues, folk, soul, reggae e rock.(n)</desc>
+    <credits>
+      <director>Roli Bärlocher</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_arte1apresenta01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210821004500 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 em Preto e Branco: Nas Garras do Vício</title>
+    <desc lang="pt">Um jovem parisiense está se recuperando em uma aldeia de Alverne. Lá, encontra-se com um amigo de infância, mergulhado na bebida e mal casado.(n)</desc>
+    <credits>
+      <director>Claude Chabrol</director>
+      <actor>Edmond Beauchamp</actor>
+      <actor>Gérard Blain</actor>
+      <actor>Jean-Claude Brialy</actor>
+      <actor>Bernadette Lafont</actor>
+      <actor>Claude Chabrol</actor>
+      <actor>André Dino</actor>
+      <actor>Jeanne Pérez</actor>
+      <actor>Philippe de Broca</actor>
+    </credits>
+    <date>1958</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>14</value>
     </rating>
   </programme>
 </tv>
