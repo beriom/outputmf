@@ -461,6 +461,7 @@
   </channel>
   <channel id="Playboy TV HD">
     <display-name lang="pt">Playboy TV HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Premiere 2 HD">
