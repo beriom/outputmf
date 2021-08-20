@@ -426,6 +426,7 @@
   </channel>
   <channel id="Premiere 4 HD">
     <display-name lang="pt">Premiere 4 HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Premiere 5 HD">
@@ -56052,6 +56053,114 @@
     <category lang="pt">Esporte</category>
     <category lang="pt">Futebol</category>
     <icon src="https://www.tvmagazine.com.br/imagens/programas/premierefc01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820130000 -0300" stop="20210820160000 -0300" channel="Premiere 4 HD">
+    <title lang="pt">Premiere 4</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820160000 -0300" stop="20210820190000 -0300" channel="Premiere 4 HD">
+    <title lang="pt">Premiere 4</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820220000 -0300" channel="Premiere 4 HD">
+    <title lang="pt">Premiere 4</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210821000000 -0300" channel="Premiere 4 HD">
+    <title lang="pt">Premiere 4</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821000000 -0300" stop="20210821040000 -0300" channel="Premiere 4 HD">
+    <title lang="pt">Premiere 4</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821040000 -0300" stop="20210821070000 -0300" channel="Premiere 4 HD">
+    <title lang="pt">Premiere 4</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821070000 -0300" stop="20210821100000 -0300" channel="Premiere 4 HD">
+    <title lang="pt">Premiere 4</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821100000 -0300" stop="20210821130000 -0300" channel="Premiere 4 HD">
+    <title lang="pt">Premiere 4</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821130000 -0300" stop="20210821160000 -0300" channel="Premiere 4 HD">
+    <title lang="pt">Premiere 4</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821160000 -0300" stop="20210821190000 -0300" channel="Premiere 4 HD">
+    <title lang="pt">Premiere 4</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821190000 -0300" stop="20210821220000 -0300" channel="Premiere 4 HD">
+    <title lang="pt">Premiere 4</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821220000 -0300" stop="20210822000000 -0300" channel="Premiere 4 HD">
+    <title lang="pt">Premiere 4</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>L</value>
     </rating>
