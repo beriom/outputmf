@@ -165,10 +165,12 @@
   </channel>
   <channel id="ESPN 2 HD">
     <display-name lang="pt">ESPN 2 HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/espn2.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="ESPN Brasil HD">
     <display-name lang="pt">ESPN Brasil HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/espnbrasil.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="ESPN Extra HD">
@@ -6542,6 +6544,91 @@
     <episode-num system="onscreen">S1 E9</episode-num>
     <rating system="BR">
       <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820150000 -0300" stop="20210820190000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Golfe: The Northern Trust: Segunda Rodada - Ao Vivo</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Golfe</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820193000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Ciclismo: Destaques Da Vuelta A España</title>
+    <desc lang="pt">Todas as principais provas do ciclismo de estrada estão nos canais ESPN. Confira as emocionantes corridas, repletas de estratégia e superação, ao longo de magníficas paisagens.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Ciclismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820193000 -0300" stop="20210820200000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Inside Serie A</title>
+    <desc lang="pt">Uma previsão sobre os próximos jogos do Campeonato Italiano.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210821000000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">ATP e WTA 1000 De Cincinnati - Ao Vivo</title>
+    <desc lang="pt">O ATP Masters 1000 é a mais importante série do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Tênis</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_atp250buenosaires01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820155500 -0300" stop="20210820180000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Brest x Paris Saint Germain - Ao Vivo</title>
+    <desc lang="pt">Tradicional e charmoso, o Campeonato Francês passou a receber investimentos milionários nas últimas temporadas. Comandado por Neymar, o jogador mais caro mundo, o PSG busca voltar ao topo com a chegada do craque Lionel Messi.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820200000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Futebol na Veia - Ao Vivo</title>
+    <desc lang="pt">Fique por dentro das últimas notícias e análises do futebol. Diretamente dos estádios, os repórteres trazem informações exclusivas sobre os confrontos do dia. Um guia completo para acompanhar a rodada.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_futebolnaveiaaovivo01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820210000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_sportscenter01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820210000 -0300" stop="20210820220000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_sportscenter01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210821003000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">ESPN Knockout: Bellator 265: Cheick Kongo x Sergei Kharitonov - Ao Vivo</title>
+    <desc lang="pt">Acompanhe o melhor da segunda organização de artes marciais mistas dos Estados Unidos, as lutas válidas pelo Bellator.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>L</value>
     </rating>
   </programme>
 </tv>
