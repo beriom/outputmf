@@ -350,10 +350,12 @@
   </channel>
   <channel id="Mais na Tela HD">
     <display-name lang="pt">Mais na Tela HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/maisglobosat.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Megapix HD">
     <display-name lang="pt">Megapix HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/megapix.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="MTV HD">
@@ -12069,6 +12071,341 @@
     <date>2019</date>
     <category lang="pt">Séries</category>
     <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820160000 -0300" stop="20210820164500 -0300" channel="Mais na Tela HD">
+    <title lang="pt">A Rainha Sou Eu</title>
+    <desc lang="pt">A série narra a vida de Yamelí, uma bela mulher com grande talento para a composição musical, que depois de traída pelo homem que ama, é injustamente condenada.(n)</desc>
+    <credits>
+      <director>Fernando Urdapilleta</director>
+      <director>Laura Marco</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">México</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820164500 -0300" stop="20210820173000 -0300" channel="Mais na Tela HD">
+    <title lang="pt">Eclipse</title>
+    <desc lang="pt">A casa dos Boudrias é vendida, mas Clara não quer se mudar. Ela esconde sua gravidez de todos, até mesmo de Thomas. Bernard e Anne-Sophie finalmente chegam a um acordo.(n)</desc>
+    <credits>
+      <director>Stéphan Beaudoin</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">E13</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820173000 -0300" stop="20210820180000 -0300" channel="Mais na Tela HD">
+    <title lang="pt">Cervejantes</title>
+    <desc lang="pt">No maravilhoso mundo das peças íntimas, Paula e Gabriel acompanham nossos dois cervejeiros na eterna luta para conquistar as mulheres (pelo paladar) na festa de lançamento de uma coleção de roupas de baixo.(n)</desc>
+    <credits>
+      <director>Rodrigo Ponichi</director>
+      <actor>Paula Yunes</actor>
+      <actor>Gabriel Di Martino</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820183000 -0300" channel="Mais na Tela HD">
+    <title lang="pt">Lavando a Alma</title>
+    <desc lang="pt">Na Costa Verde, Antonia se aventura nas cachoeiras da região, passeia de barco, visita o Centro Histórico de Paraty e conhece um alambique tradicional.(n)</desc>
+    <credits>
+      <director>Manuel Valle</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Viagem</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820183000 -0300" stop="20210820190000 -0300" channel="Mais na Tela HD">
+    <title lang="pt">Encuentros en Brasil</title>
+    <desc lang="pt">O músico carioca Paulinho Moska recebe cinco cantores latinos que visitam diversas cidades do Brasil. Neste episódio, o argentino Lisandro Aristimuño chega a Florianópolis conhecer sua cultura e aproveitar seus sabores.(n)</desc>
+    <credits>
+      <director>Leonardo Ferreira de Carvalho</director>
+      <director>Luciano Oreggia</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820193000 -0300" channel="Mais na Tela HD">
+    <title lang="pt">Brasil Visto de Cima</title>
+    <desc lang="pt">Nesta temporada, Brasil Visto de Cima sobrevoa todas as regiões do país. Lugares famosos e pontos espetaculares ainda pouco conhecidos. Uma viagem para encantar-se com as muitas belezas do Brasil.(n)</desc>
+    <credits>
+      <director>Andre Baseggio</director>
+      <director>Décio Lopes</director>
+      <actor>Caio Blat</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/brasilvistodecima01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820193000 -0300" stop="20210820200000 -0300" channel="Mais na Tela HD">
+    <title lang="pt">Hotéis Incríveis</title>
+    <desc lang="pt">Na quarta temporada de Hotéis Incríveis você viajará pelo Brasil, Alemanha, Estados Unidos, Holanda, Suíça, Portugal, Egito e Espanha para conhecer os melhores hotéis do mundo.(n)</desc>
+    <credits>
+      <director>Jorge Nassaralla</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Viagem</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E12</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820203000 -0300" channel="Mais na Tela HD">
+    <title lang="pt">Hotéis Incríveis</title>
+    <desc lang="pt">A série de programas vai mostrar os mais incríveis hotéis pelo mundo.(n)</desc>
+    <credits>
+      <director>Jorge Nassaralla</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Viagem</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820203000 -0300" stop="20210820210000 -0300" channel="Mais na Tela HD">
+    <title lang="pt">Destino Certo</title>
+    <desc lang="pt">Valência, uma das cidades mais populosas do país e com um charme próprio. Mel visita construções históricas do local e aprende a cozinhar a verdadeira paella espanhola.(n)</desc>
+    <credits>
+      <director>Jorge Nassaralla</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_destinocerto01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820210000 -0300" stop="20210820213000 -0300" channel="Mais na Tela HD">
+    <title lang="pt">Sonho e Destino</title>
+    <desc lang="pt">O casal passeia pela capital do Marrocos e almoça num restaurante de comidas típicas marroquinas. Gisella e Fernando visitam o Jardim Bouknadel e mostram como é feita a famosa cerâmica marroquina.(n)</desc>
+    <credits>
+      <director>Fernando de Borthole</director>
+      <director>Gisella de Borthole</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Viagem</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_sonhoedestino01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820213000 -0300" stop="20210820220000 -0300" channel="Mais na Tela HD">
+    <title lang="pt">Brasil Visto de Cima</title>
+    <desc lang="pt">No sul de Santa Catarina, surgem as Serras do Corvo Branco e do Rio do Rastro, cortadas por algumas das mais belas estradas do mundo.(n)</desc>
+    <credits>
+      <director>Andre Baseggio</director>
+      <director>Décio Lopes</director>
+      <actor>Caio Blat</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/brasilvistodecima01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820223000 -0300" channel="Mais na Tela HD">
+    <title lang="pt">Mundo Visto de Cima</title>
+    <desc lang="pt">Mundo Visto de Cima nos oferece um ponto de vista diferente do nosso planeta. Em cada episódio, um lugar diferente, cada um com uma história para contar e uma bela paisagem para ser apreciada.(n)</desc>
+    <credits>
+      <director>Richard Mervyn</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_mundovistodecima01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S9 E14</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820223000 -0300" stop="20210820230000 -0300" channel="Mais na Tela HD">
+    <title lang="pt">Mundo Visto de Cima</title>
+    <desc lang="pt">Mundo Visto de Cima nos oferece um ponto de vista diferente do nosso planeta. Em cada episódio, um lugar diferente, cada um com uma história para contar e uma bela paisagem para ser apreciada.(n)</desc>
+    <credits>
+      <director>Richard Mervyn</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_mundovistodecima01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210820234500 -0300" channel="Mais na Tela HD">
+    <title lang="pt">A Vida de Nina</title>
+    <desc lang="pt">Bergman organiza uma grande festa de gala para arrecadar fundos. Costa tem comportamentos bizarros que ninguém, a não ser Proust, compreende. Julian e Bergman se beijam.(n)</desc>
+    <credits>
+      <director>Nicolas Picard</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_avidadenina01_2_2019.jpg" />
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820234500 -0300" stop="20210821003000 -0300" channel="Mais na Tela HD">
+    <title lang="pt">Refuge - Crimes e Segredos</title>
+    <desc lang="pt">Neste episódio de Refuge, mesmo com o relacionamento se desintegrando Brigitte e Max precisam cuidar de Max.(n)</desc>
+    <credits>
+      <director>Miryam Bouchard</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S3 E17</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820153500 -0300" stop="20210820172500 -0300" channel="Megapix HD">
+    <title lang="pt">Carga Explosiva - O Legado</title>
+    <desc lang="pt">Frank continua trabalhando como transportador de mercadorias. Ele é contratado por Anna e suas ajudantes, mas logo percebe que caiu em uma cilada. Elas sequestraram seu pai e exigem que Frank as ajude a acabar com um grupo que faz tráfico humano.(n)</desc>
+    <credits>
+      <director>Camille Delamarre</director>
+      <actor>Ed Skrein</actor>
+      <actor>Loan Chabanol</actor>
+      <actor>Ray Stevenson</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">Bélgica</country>
+    <country lang="pt">China</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820172500 -0300" stop="20210820192500 -0300" channel="Megapix HD">
+    <title lang="pt">A Força em Alerta</title>
+    <desc lang="pt">Um poderoso navio de guerra que está sendo desativado é vítima de terroristas, que planejam assumir o controle da embarcação. Porém, eles não contavam com a presença de um super agente que está a bordo, disfarçado de cozinheiro.(n)</desc>
+    <credits>
+      <director>Andrew Davis</director>
+      <actor>Steven Seagal</actor>
+      <actor>Gary Busey</actor>
+      <actor>Tommy Lee Jones</actor>
+    </credits>
+    <date>1992</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820192500 -0300" stop="20210820210000 -0300" channel="Megapix HD">
+    <title lang="pt">Shrek 2</title>
+    <desc lang="pt">O pai de Fiona descobre que sua filha não se casou com o príncipe a quem estava prometida e que se tornou uma ogra. Agora, Shrek tem que lutar para provar o seu valor e recuperar a esposa.(n)</desc>
+    <credits>
+      <director>Andrew Adamson</director>
+      <director>Conrad Vernon</director>
+      <director>Kelly Asbury</director>
+      <actor>Mike Myers</actor>
+      <actor>Cameron Diaz</actor>
+      <actor>Eddie Murphy</actor>
+      <actor>Julie Andrews</actor>
+      <actor>Rupert Everett</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820210000 -0300" stop="20210820224000 -0300" channel="Megapix HD">
+    <title lang="pt">Sessão Megapix: Pets - A Vida Secreta dos Bichos</title>
+    <desc lang="pt">Max é o cão de Katie, por quem tem verdadeira adoração. Quando um dia ela volta para casa com Duke, um outro cachorro, Max se sente ameaçado e a nova dupla de pets acaba sendo pega pela carrocinha.(n)</desc>
+    <credits>
+      <director>Chris Renaud</director>
+      <director>Yarrow Cheney</director>
+      <actor>Louis C.K.</actor>
+      <actor>Eric Stonestreet</actor>
+      <actor>Kevin Hart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <country lang="pt">Japão</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820224000 -0300" stop="20210821002500 -0300" channel="Megapix HD">
+    <title lang="pt">A Volta do Todo Poderoso</title>
+    <desc lang="pt">Deus agora tem planos para Evan Baxter, um ex-âncora do telejornal de Buffalo, que acaba de chegar em Washington para assumir um novo posto no Congresso.(n)</desc>
+    <credits>
+      <director>Tom Shadyac</director>
+      <actor>Steve Carell</actor>
+      <actor>John Goodman</actor>
+      <actor>Lauren Graham</actor>
+      <actor>Morgan Freeman</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">EUA</country>
     <rating system="BR">
       <value>L</value>
     </rating>
