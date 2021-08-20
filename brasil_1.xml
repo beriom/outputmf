@@ -45161,4 +45161,469 @@
       <value>12</value>
     </rating>
   </programme>
+  <programme start="20210820083500 -0300" stop="20210820102000 -0300" channel="HBO (HD)">
+    <title lang="pt">Eu Sou a Lenda</title>
+    <title lang="en">I Am Legend</title>
+    <desc lang="pt">A população de Nova York foi dizimada por um vírus mortal. Um brilhante cientista é imune ao vírus e tenta encontrar outros sobreviventes, ao mesmo tempo em que busca um antídoto.(n)</desc>
+    <credits>
+      <director>Francis Lawrence</director>
+      <actor>Will Smith</actor>
+      <actor>Alice Braga</actor>
+      <actor>Salli Richardson</actor>
+      <actor>Paradox Pollack</actor>
+      <actor>Charlie Tahan</actor>
+      <actor>Michael Ciesla</actor>
+      <actor>Thomas J. Pilutik</actor>
+      <actor>Darrell Foster</actor>
+      <actor>April Grace</actor>
+      <actor>Abby</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ficção</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_eusoulenda01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820102000 -0300" stop="20210820121500 -0300" channel="HBO (HD)">
+    <title lang="pt">A Grande Mentira</title>
+    <title lang="en">The Good Liar</title>
+    <desc lang="pt">Helen Mirren e Ian McKellen se envolvem em um delicioso duelo de gato e rato nesta história sobre um vigarista e uma viúva rica.(n)</desc>
+    <credits>
+      <director>Bill Condon</director>
+      <actor>Helen Mirren</actor>
+      <actor>Ian McKellen</actor>
+      <actor>Russell Tovey</actor>
+      <actor>Jim Carter</actor>
+      <actor>Laurie Davidson</actor>
+      <actor>Phil Dunster</actor>
+      <actor>Daniel Betts</actor>
+      <actor>Celine Buckens</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Reino Unido</country>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820121500 -0300" stop="20210820145000 -0300" channel="HBO (HD)">
+    <title lang="pt">Tenet</title>
+    <desc lang="pt">Christopher Nolan apresenta esta ficção científica não sobre viagem no tempo, mas sobre sua inversão, estrelado por John David Washington.(n)</desc>
+    <credits>
+      <director>Christopher Nolan</director>
+      <actor>John David Washington</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820145000 -0300" stop="20210820155000 -0300" channel="HBO (HD)">
+    <title lang="pt">Hierro</title>
+    <desc lang="pt">A investigação traz à tona alguns pontos sombrios da vida de Fran: ele teve contatos perigosos na Holanda e manteve uma amante.(n)</desc>
+    <credits>
+      <director>Jorge Coira</director>
+      <actor>Candela Pena</actor>
+      <actor>Darío Grandinetti</actor>
+      <actor>Matias Varela</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">Espanha</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820155000 -0300" stop="20210820180000 -0300" channel="HBO (HD)">
+    <title lang="pt">Jumanji: Próxima Fase</title>
+    <title lang="en">Jumanji: The Next Level</title>
+    <desc lang="pt">Dwayne Johnson, Kevin Hart e Jack Black voltam ao jogo mais uma vez, o único problema é que seus personagens estão misturados.(n)</desc>
+    <credits>
+      <director>Jake Kasdan</director>
+      <actor>Dwayne Johnson</actor>
+      <actor>Jack Black</actor>
+      <actor>Kevin Hart</actor>
+      <actor>Karen Gillan</actor>
+      <actor>Awkwafina</actor>
+      <actor>Nick Jonas</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820190500 -0300" channel="HBO (HD)">
+    <title lang="pt">Fora do Armário</title>
+    <desc lang="pt">O deputado federal Jean Wyllys e o ator e cantor Thammy Miranda, contam como foi sair do armário - tudo ao vivo e em cores.(n)</desc>
+    <credits>
+      <director>Guto Barra</director>
+      <director>Tatiana Issa</director>
+      <actor>Gretchen</actor>
+      <actor>Sula Miranda</actor>
+      <actor>Thammy Miranda</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_foradoarmario01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820190500 -0300" stop="20210820201000 -0300" channel="HBO (HD)">
+    <title lang="pt">Fora do Armário</title>
+    <desc lang="pt">Talvez, uma das decisões mais difíceis para um pai ou uma mãe seja, saber o momento certo para revelar aos filhos sua real orientação sexual.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_foradoarmario01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820201000 -0300" stop="20210820220000 -0300" channel="HBO (HD)">
+    <title lang="pt">Alguém Avisa?</title>
+    <title lang="en">Happiest Season</title>
+    <desc lang="pt">"Kristen Stewart estrela nesta comédia romântica na qual deve fingir ser ""apenas uma amiga"" quando visita os pais de sua namorada no Natal.".(n)</desc>
+    <credits>
+      <director>Clea DuVall</director>
+      <actor>Kristen Stewart</actor>
+      <actor>Mackenzie Davis</actor>
+      <actor>Mary Steenburgen</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820230000 -0300" channel="HBO (HD)">
+    <title lang="pt">We're Here</title>
+    <desc lang="pt">As queens viajam para Branson, Missouri, uma comunidade que se orgulha de seus valores religiosos tradicionais.(n)</desc>
+    <credits>
+      <director>Peter LoGreco</director>
+      <actor>David Huggard</actor>
+      <actor>D.J. 'Shangela' Pierce</actor>
+      <actor>Caldwell Tidicue</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210820233500 -0300" channel="HBO (HD)">
+    <title lang="pt">Greg News Com Gregório Duvivier</title>
+    <desc lang="pt">Com humor afiado, Gregório Duvivier vai direto ao ponto na interpretação das principais notícias na quinta temporada de Greg News.(n)</desc>
+    <credits>
+      <director>Alessandra Orofino</director>
+      <actor>Gregório Duvivier</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/gregnews01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S5</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820233500 -0300" stop="20210821021000 -0300" channel="HBO (HD)">
+    <title lang="pt">Tenet</title>
+    <desc lang="pt">Christopher Nolan apresenta esta ficção científica não sobre viagem no tempo, mas sobre sua inversão, estrelado por John David Washington.(n)</desc>
+    <credits>
+      <director>Christopher Nolan</director>
+      <actor>John David Washington</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821021000 -0300" stop="20210821050000 -0300" channel="HBO (HD)">
+    <title lang="pt">O Patriota</title>
+    <title lang="en">The Patriot</title>
+    <desc lang="pt">Fazendeiro pacífico é levado a comandar uma milícia de colonos durante a luta pela Independência dos EUA, após um sádico oficial britânico assassinar um de seus filhos.(n)</desc>
+    <credits>
+      <director>Roland Emmerich</director>
+      <actor>Mel Gibson</actor>
+      <actor>Heath Ledger</actor>
+      <actor>Jason Isaacs</actor>
+      <actor>Joely Richardson</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Alemanha</country>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821050000 -0300" stop="20210821060000 -0300" channel="HBO (HD)">
+    <title lang="pt">Tig Notaro: Em Desenhos</title>
+    <title lang="en">Tig Notaro: Drawn</title>
+    <desc lang="pt">Especial de stand-up totalmente animado que combina a voz e humor característicos de Tig Notaro com uma variedade de estilos artísticos.(n)</desc>
+    <credits>
+      <director>Greg Franklin</director>
+      <actor>Sharon Stone</actor>
+      <actor>Tig Notaro</actor>
+      <actor>Stephanie Allynne See</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821073500 -0300" channel="HBO (HD)">
+    <title lang="pt">Sangue Iorubá: Uma Jornada Musical Através de África, Brasil e Cuba</title>
+    <title lang="en">Sangre Yoruba. A Musical Journey Through Africa, Brazil &amp; Cuba</title>
+    <desc lang="pt">A vencedora do Grammy® Gloria Estefan nos leva em uma celebração da música brasileira e suas origens africanas.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821073500 -0300" stop="20210821100000 -0300" channel="HBO (HD)">
+    <title lang="pt">Homem-Aranha 3</title>
+    <title lang="en">Spider-Man 3</title>
+    <desc lang="pt">O sucesso como herói faz com que Peter Parker adquira uma confiança exagerada, deixando de lado as pessoas que se importam com ele. Até que precisa enfrentar o Homem-Areia e lidar com um estranho uniforme negro, que passa a usar.(n)</desc>
+    <credits>
+      <director>Sam Raimi</director>
+      <actor>Tobey Maguire</actor>
+      <actor>Kirsten Dunst</actor>
+      <actor>James Franco</actor>
+      <actor>Thomas Haden Church</actor>
+      <actor>Topher Grace</actor>
+      <actor>Bryce Dallas Howard</actor>
+      <actor>Rosemary Harris</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_homemaranha301.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821100000 -0300" stop="20210821114000 -0300" channel="HBO (HD)">
+    <title lang="pt">Scooby! O Filme</title>
+    <title lang="en">Scoob!</title>
+    <desc lang="pt">O mais adorável detetive canino e a gangue da Mistério S.A. devem enfrentar seu maior desafio e evitar um "apocãolipse".(n)</desc>
+    <credits>
+      <director>Tony Cervone</director>
+      <actor>Will Forte</actor>
+      <actor>Mark Wahlberg</actor>
+      <actor>Jason Isaacs</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821114000 -0300" stop="20210821121000 -0300" channel="HBO (HD)">
+    <title lang="pt">Last Week Tonight With John Oliver</title>
+    <desc lang="pt">Em apenas 30 minutos, o comediante John Oliver cobre as notícias, política e eventos atuais da semana.(n)</desc>
+    <credits>
+      <director>Paul Pennolino</director>
+      <director>Christopher Werner</director>
+      <actor>John Oliver</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/lastweektonightwithjohnoliver01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S8 E21</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821121000 -0300" stop="20210821135000 -0300" channel="HBO (HD)">
+    <title lang="pt">No Olho do Tornado</title>
+    <title lang="en">Into The Storm</title>
+    <desc lang="pt">Na trama, em um único dia, a cidade de Silverton é devastada por uma ocorrência sem precedentes de tornados.(n)</desc>
+    <credits>
+      <director>Steven Quale</director>
+      <actor>Richard Armitage</actor>
+      <actor>Sarah Wayne Callies</actor>
+      <actor>Matt Walsh</actor>
+      <actor>Max Deacon</actor>
+      <actor>Nathan Kress</actor>
+      <actor>Alycia Debnam Carey</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_noolhotornado01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821135000 -0300" stop="20210821153500 -0300" channel="HBO (HD)">
+    <title lang="pt">O Grito</title>
+    <title lang="en">The Grudge</title>
+    <desc lang="pt">Sam Raimi apresenta esta versão obscura da casa amaldiçoada que leva vítima após vítima pelas mãos de um espírito vingativo.(n)</desc>
+    <credits>
+      <director>Nicolas Pesce</director>
+      <actor>Tara Westwood</actor>
+      <actor>Junko Bailey</actor>
+      <actor>David Lawrence Brown</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821153500 -0300" stop="20210821172500 -0300" channel="HBO (HD)">
+    <title lang="pt">Antebellum</title>
+    <desc lang="pt">Janelle Monáe protagoniza este thriller como uma escritora afro-americana de sucesso que se vê presa a uma realidade assustadora.(n)</desc>
+    <credits>
+      <director>Gerard Bush</director>
+      <actor>Janelle Monáe</actor>
+      <actor>Eric Lange</actor>
+      <actor>Jena Malone</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821172500 -0300" stop="20210821193500 -0300" channel="HBO (HD)">
+    <title lang="pt">Coringa</title>
+    <title lang="en">Joker</title>
+    <desc lang="pt">Joaquin Phoenix interpreta o icônico Coringa nesta história original do vilão dos quadrinhos que lhe rendeu um Oscar® de Melhor Ator.(n)</desc>
+    <credits>
+      <director>Todd Phillips</director>
+      <actor>Joaquin Phoenix</actor>
+      <actor>Robert De Niro</actor>
+      <actor>Zazie Beetz</actor>
+      <actor>Frances Conroy</actor>
+      <actor>Brett Cullen</actor>
+      <actor>Shea Whigham</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country lang="pt">Canadá</country>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821193500 -0300" stop="20210821201000 -0300" channel="HBO (HD)">
+    <title lang="pt">Greg News Com Gregório Duvivier</title>
+    <desc lang="pt">Com humor afiado, Gregório Duvivier vai direto ao ponto na interpretação das principais notícias na quinta temporada de Greg News.(n)</desc>
+    <credits>
+      <director>Alessandra Orofino</director>
+      <actor>Gregório Duvivier</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/gregnews01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S5</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821201000 -0300" stop="20210821220000 -0300" channel="HBO (HD)">
+    <title lang="pt">Tom &amp; Jerry: O Filme</title>
+    <title lang="en">Tom &amp; Jerry</title>
+    <desc lang="pt">A batalha mais hilariante entre gato e rato ressurge quando Tom é contratado para se livrar de Jerry na véspera do "casamento do século".(n)</desc>
+    <credits>
+      <director>Tim Story</director>
+      <actor>Chloë Grace Moretz</actor>
+      <actor>Michael Pena</actor>
+      <actor>Ken Jeong</actor>
+      <actor>Rob Delaney</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821220000 -0300" stop="20210821235000 -0300" channel="HBO (HD)">
+    <title lang="pt">Tom &amp; Jerry: O Filme</title>
+    <title lang="en">Tom &amp; Jerry</title>
+    <desc lang="pt">A batalha mais hilariante entre gato e rato ressurge quando Tom é contratado para se livrar de Jerry na véspera do "casamento do século".(n)</desc>
+    <credits>
+      <director>Tim Story</director>
+      <actor>Chloë Grace Moretz</actor>
+      <actor>Michael Pena</actor>
+      <actor>Ken Jeong</actor>
+      <actor>Rob Delaney</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821235000 -0300" stop="20210822013000 -0300" channel="HBO (HD)">
+    <title lang="pt">Scooby! O Filme</title>
+    <title lang="en">Scoob!</title>
+    <desc lang="pt">O mais adorável detetive canino e a gangue da Mistério S.A. devem enfrentar seu maior desafio e evitar um "apocãolipse".(n)</desc>
+    <credits>
+      <director>Tony Cervone</director>
+      <actor>Will Forte</actor>
+      <actor>Mark Wahlberg</actor>
+      <actor>Jason Isaacs</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
 </tv>
