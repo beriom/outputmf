@@ -166,6 +166,7 @@
   </channel>
   <channel id="ESPN 2 HD">
     <display-name lang="pt">ESPN 2 HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/espn2.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="ESPN Brasil HD">
@@ -25562,6 +25563,219 @@
     <episode-num system="onscreen">S1 E5</episode-num>
     <rating system="BR">
       <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820140000 -0300" stop="20210820150000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_sportscenter01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820150000 -0300" stop="20210820190000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Golfe: The Northern Trust: Segunda Rodada - Ao Vivo</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Golfe</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820193000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Ciclismo: Destaques Da Vuelta A España</title>
+    <desc lang="pt">Todas as principais provas do ciclismo de estrada estão nos canais ESPN. Confira as emocionantes corridas, repletas de estratégia e superação, ao longo de magníficas paisagens.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Ciclismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820193000 -0300" stop="20210820200000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Inside Serie A</title>
+    <desc lang="pt">Uma previsão sobre os próximos jogos do Campeonato Italiano.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210821000000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">ATP e WTA 1000 De Cincinnati - Ao Vivo</title>
+    <desc lang="pt">O ATP Masters 1000 é a mais importante série do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Tênis</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_atp250buenosaires01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821000000 -0300" stop="20210821010000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_sportscenter01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821010000 -0300" stop="20210821020000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter Americano - Ao Vivo</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_sportscenter01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821020000 -0300" stop="20210821030000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter Americano - Ao Vivo</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_sportscenter01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821030000 -0300" stop="20210821040000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter Americano - Ao Vivo</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_sportscenter01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821040000 -0300" stop="20210821063000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">ATP e WTA 1000 De Cincinnati</title>
+    <desc lang="pt">O ATP Masters 1000 é a mais importante série do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Tênis</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_atp250buenosaires01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821063000 -0300" stop="20210821070000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Mundo Premier League</title>
+    <desc lang="pt">Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_mundopremierleague01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821070000 -0300" stop="20210821080000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_sportscenter01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821080000 -0300" stop="20210821105000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">NFL: Kansas City Chiefs x Arizona Cardinals</title>
+    <desc lang="pt">As equipes da NFL se preparam para a próxima temporada. Assista os confrontos preliminares com o melhor do futebol americano.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_nfloaklandraidersxdenverbronc01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821105000 -0300" stop="20210821125000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Ciclismo: Vuelta A España: Etapa 8: Santa Pola &gt; La Manga Del Mar Menor - Ao Vivo</title>
+    <desc lang="pt">Realizada desde 1935, a Vuelta a España é um dos três principais eventos de ciclismo de estrada do mundo (ao lado do Tour de France e do Giro d'Italia). Confira todas as etapas nos canais ESPN.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Ciclismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821125000 -0300" stop="20210821130000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Momento ESPN: NFL Filmes: Rooney Rule</title>
+    <desc lang="pt">Especial com o melhor conteúdo dos canais ESPN.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821130000 -0300" stop="20210821140000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Resenha de Casa</title>
+    <desc lang="pt">No comando do programa, André Plihal convoca quem mais entende do riscado: jogadores e ex-jogadores de futebol.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821140000 -0300" stop="20210821190000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Golfe: The Northern Trust: Terceira Rodada - Ao Vivo</title>
+    <desc lang="pt">O PGA Tour é o principal circuito do golfe mundial. Todos os quartro Majors, além de diversos outros importantes torneios, possuem cobertura completa dos canais ESPN.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Golfe</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821190000 -0300" stop="20210821193000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">F1: The Inside Line</title>
+    <desc lang="pt">Seja bem-vindo ao mundo da principal categoria do automobilismo mundial. Acompanhe os bastidores, as principais notícias e o debate sobre as principais questões que envolvem o badalado e milionário circo da Fórmula 1.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_f1theinsideline01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821193000 -0300" stop="20210821200000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Ciclismo: Destaques Da Vuelta A España</title>
+    <desc lang="pt">Todas as principais provas do ciclismo de estrada estão nos canais ESPN. Confira as emocionantes corridas, repletas de estratégia e superação, ao longo de magníficas paisagens.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Ciclismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821200000 -0300" stop="20210821210000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">ESPN League</title>
+    <desc lang="pt">Análise completa das principais ligas esportivas americanas: NFL (futebol americano), NBA (basquete), MLB (baseball) e NHL (hóquei).(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_espnleague01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821210000 -0300" stop="20210821230000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">NBA Summer League: Sacramento Kings x Boston Celtics</title>
+    <desc lang="pt">Que tal aquele esquenta antes da nova temporada regular da NBA? Os canais ESPN exibem o torneio de Verão da NBA, a Summer League.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821230000 -0300" stop="20210822010000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">MLS: Minnesota United Fc x Sporting Kansas City</title>
+    <desc lang="pt">A Major League Soccer é o principal campeonato de futebol dos Estados Unidos e do Canadá. Com grandes contratações e um público sempre presente, a MLS vem se tornando mais forte a cada ano.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_vtportlandtimbersxcoloradora01.jpg" />
+    <rating system="BR">
+      <value>L</value>
     </rating>
   </programme>
 </tv>
