@@ -80213,4 +80213,392 @@
       <value>14</value>
     </rating>
   </programme>
+  <programme start="20210820092000 -0300" stop="20210820111500 -0300" channel="Telecine Cult HD">
+    <title lang="pt">A Garota Desconhecida</title>
+    <title lang="en">La Fille Inconnue</title>
+    <desc lang="pt">Jenny é uma jovem médica que, certo dia, deixa de atender uma pessoa após o encerramento do expediente da clínica. No dia seguinte, a polícia a procura e informa que uma mulher morreu ali perto do consultório.(n)</desc>
+    <credits>
+      <director>Jean-Pierre Dardenne</director>
+      <director>Luc Dardenne</director>
+      <actor>Adèle Haenel</actor>
+      <actor>Louka Minnella</actor>
+      <actor>Olivier Bonnaud</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Bélgica</country>
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820111500 -0300" stop="20210820130500 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Nunca, Raramente, Às Vezes, Sempre</title>
+    <title lang="en">Never Rarely Sometimes Always</title>
+    <desc lang="pt">Autumn descobre que está grávida. Certa de que sua família não dará o suporte de que necessita na Pensylvânia, a menina de 17 anos decide ir a Nova York para tentar fazer um aborto.(n)</desc>
+    <credits>
+      <director>Eliza Hittman</director>
+      <actor>Sidney Flanigan</actor>
+      <actor>David Buneta</actor>
+      <actor>Eliazar Jimenez</actor>
+      <actor>Talia Ryder</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820130500 -0300" stop="20210820152000 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Rosa Luxemburgo</title>
+    <title lang="en">Rosa Luxemburg</title>
+    <desc lang="pt">Teórica marxista, Rosa Luxemburgo foi uma importante representante do partido social-democrata alemão. Em 1915, ela rompe com a sigla e passa a lutar contra a Primeira Guerra. Baseado em uma história real.(n)</desc>
+    <credits>
+      <director>Margarethe Von Trotta</director>
+      <actor>Barbara Sukowa</actor>
+      <actor>Daniel Olbrychski</actor>
+      <actor>Otto Sander</actor>
+    </credits>
+    <date>1986</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Alemanha</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820152000 -0300" stop="20210820173500 -0300" channel="Telecine Cult HD">
+    <title lang="pt">O Grande Ditador</title>
+    <title lang="en">The Great Dictator</title>
+    <desc lang="pt">Um barbeiro judeu retoma sua rotina após a 1ª Guerra Mundial, na qual serviu no exército. Sem memória do que aconteceu e tendo sido hospitalizado, ao sair ele descobre a ascensão do ditador Adenoid Hynkel, que passa a perseguir os judeus.(n)</desc>
+    <credits>
+      <director>Charles Chaplin</director>
+      <actor>Charles Chaplin</actor>
+      <actor>Jack Oakie</actor>
+      <actor>Paulette Goddard</actor>
+    </credits>
+    <date>1940</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820173500 -0300" stop="20210820195500 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Gabriel e a Montanha</title>
+    <desc lang="pt">Antes de ir estudar nos EUA, o jovem economista Gabriel Buchmann decide viajar o mundo. Ele passa por diferentes países da África até chegar ao topo do Monte Mulanje, no Malawi, seu último destino.(n)</desc>
+    <credits>
+      <director>Fellipe Barbosa</director>
+      <actor>João Pedro Zappa</actor>
+      <actor>Alex Alembe</actor>
+      <actor>Caroline Abras</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820195500 -0300" stop="20210820220000 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Sessão Novos Clássicos: E.t. - O Extraterrestre</title>
+    <title lang="en">E.t. The Extra-terrestrial</title>
+    <desc lang="pt">Uma amizade inesperada surge entre o menino Elliott e um pequeno alienígena que ficou perdido na Terra.(n)</desc>
+    <credits>
+      <director>Steven Spielberg</director>
+      <actor>Henry Thomas</actor>
+      <actor>Dee Wallace</actor>
+      <actor>Drew Barrymore</actor>
+      <actor>Peter Coyote</actor>
+    </credits>
+    <date>1982</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820234000 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Sessão Novos Clássicos: Bill &amp; Ted - Uma Aventura Fantástica</title>
+    <title lang="en">Bill &amp; Ted's Excellent Adventure</title>
+    <desc lang="pt">Dois adolescentes viajam em uma máquina do tempo para fazer uma pesquisa escolar e evitar o fim de sua banda. Na viagem, eles conhecem personalidades históricas que vão ajudá-los a escapar da reprovação.(n)</desc>
+    <credits>
+      <director>Stephen Herek</director>
+      <actor>Keanu Reeves</actor>
+      <actor>Alex Winter</actor>
+      <actor>George Carlin</actor>
+    </credits>
+    <date>1989</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820234000 -0300" stop="20210820234500 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Preview no Cult</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820234500 -0300" stop="20210821014000 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Curtindo a Vida Adoidado</title>
+    <title lang="en">Ferris Bueller's Day Off</title>
+    <desc lang="pt">O popular Ferris Bueller está no último ano da escola e quer faltar aula para aproveitar o dia ao lado de sua namorada e seu melhor amigo, Cameron.(n)</desc>
+    <credits>
+      <director>John Hughes</director>
+      <actor>Matthew Broderick</actor>
+      <actor>Alan Ruck</actor>
+      <actor>Charlie Sheen</actor>
+      <actor>Jennifer Grey</actor>
+      <actor>Mia Sara</actor>
+    </credits>
+    <date>1986</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821014000 -0300" stop="20210821041500 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Brazil: O Filme</title>
+    <title lang="en">Brazil</title>
+    <desc lang="pt">Sam Lowry trabalha para o governo em uma sociedade totalitária e burocrática. Alienado politicamente, ele acaba se apaixonando pela terrorista Jill e vê sua vida virar de cabeça para baixo.(n)</desc>
+    <credits>
+      <director>Terry Gilliam</director>
+      <actor>Jonathan Pryce</actor>
+      <actor>Katherine Helmond</actor>
+      <actor>Robert De Niro</actor>
+    </credits>
+    <date>1985</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821041500 -0300" stop="20210821061000 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Sem Fim</title>
+    <title lang="en">Bez Konca</title>
+    <desc lang="pt">Em uma Polônia sob lei marcial, o marido de Ulla, que era advogado, morre repentinamente. Enquanto tenta lidar com o luto, ela acaba se envolvendo no caso de um preso político inconcluído por seu marido.(n)</desc>
+    <credits>
+      <director>Krzysztof Kieslowski</director>
+      <actor>Grazyna Szapolowska</actor>
+      <actor>Aleksander Bardini</actor>
+      <actor>Jerzy Radziwilowicz</actor>
+      <actor>Maria Pakulnis</actor>
+    </credits>
+    <date>1985</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Polônia</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821061000 -0300" stop="20210821075500 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Almoço Sobre a Relva (1959), O</title>
+    <title lang="en">Le Déjeuner Sur L'herbe (1959)</title>
+    <desc lang="pt">O cientista Étienne arma um piquenique para comemorar o próprio noivado, mas uma ventania o coloca em uma situação desafiadora. Dirigido por Jean Renoir, um dos maiores cineastas da História.(n)</desc>
+    <credits>
+      <director>Jean Renoir</director>
+      <actor>Paul Meurisse</actor>
+      <actor>Catherine Rouvel</actor>
+      <actor>Charles Blavette</actor>
+    </credits>
+    <date>1959</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821075500 -0300" stop="20210821091500 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Whitney Houston: Para Sempre</title>
+    <title lang="en">Always Whitney Houston</title>
+    <desc lang="pt">A carreira da cantora Whitney Houston foi cercada de sucessos e pôlemicas. Depoimentos de pessoas próximas à artista e imagens de arquivo reconstroem sua trajetória, desde o início até o trágico fim.(n)</desc>
+    <credits>
+      <director>Thomas Gibson</director>
+      <actor>Whitney Houston</actor>
+      <actor>Clive Davis</actor>
+      <actor>Phil Crowley</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821091500 -0300" stop="20210821111000 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Através das Oliveiras</title>
+    <title lang="en">Zir-e Derakhtan-e Zeytoon</title>
+    <desc lang="pt">Hossein e Tahere são escolhidos para interpretarem o casal de protagonistas em um filme. No entanto, Hossein é apaixonado pela mulher, o que gera um clima tenso entre os dois e atrapalha as filmagens.(n)</desc>
+    <credits>
+      <director>Abbas Kiarostami</director>
+      <actor>Mohamad Ali Keshavarz</actor>
+      <actor>Farhad Kheradmand</actor>
+      <actor>Zarifeh Shiva</actor>
+    </credits>
+    <date>1994</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">França</country>
+    <country lang="pt">Irã</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821111000 -0300" stop="20210821131000 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Crepúsculo dos Deuses</title>
+    <title lang="en">Sunset Boulevard</title>
+    <desc lang="pt">Com a carreira indo mal, o roteirista Joe Gillis refugia-se na casa de Norma Desmond, uma antiga estrela do cinema mudo. Endividado, ele aceita trabalhar para ela ajudando-a em sua volta às telonas.(n)</desc>
+    <credits>
+      <director>Billy Wilder</director>
+      <actor>William Holden</actor>
+      <actor>Erich Von Stroheim</actor>
+      <actor>Gloria Swanson</actor>
+    </credits>
+    <date>1950</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821131000 -0300" stop="20210821151500 -0300" channel="Telecine Cult HD">
+    <title lang="pt">A Conversação</title>
+    <title lang="en">The Conversation</title>
+    <desc lang="pt">Harry Caul é conhecido por suas habilidades em realizar investigações por meio de escutas. Diante disso, um poderoso empresário o contrata para vigiar as conversas de um casal. Imerso no trabalho, Harry começa a se preocupar com as consequências.(n)</desc>
+    <credits>
+      <director>Francis Ford Coppola</director>
+      <actor>Gene Hackman</actor>
+      <actor>Allen Garfield</actor>
+      <actor>Cindy Williams</actor>
+      <actor>Frederic Forrest</actor>
+      <actor>Harrison Ford</actor>
+      <actor>John Cazale</actor>
+    </credits>
+    <date>1974</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821151500 -0300" stop="20210821165000 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Culpa</title>
+    <title lang="en">Den Skyldige</title>
+    <desc lang="pt">O policial Asger Holm (Jakob Cedergren) está acostumado a trabalhar nas ruas de Copenhaguem, mas devido a um conflito ético no trabalho, é confinado à mesa de emergências.(n)</desc>
+    <credits>
+      <director>Gustav Möller</director>
+      <actor>Jakob Cedergren</actor>
+      <actor>Jessica Dinnage</actor>
+      <actor>Omar Shargawi</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country lang="pt">Dinamarca</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821165000 -0300" stop="20210821183000 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Cleópatra Jones</title>
+    <title lang="en">Cleopatra Jones</title>
+    <desc lang="pt">Cleópatra Jones é uma agente que rastreia narcotraficantes. Quando entra no caminho da poderosa Mommy, ela passa a ser perseguida por capangas da criminosa. O filme faz parte do movimento Blaxploitation.(n)</desc>
+    <credits>
+      <director>Jack Starrett</director>
+      <actor>Tamara Dobson</actor>
+      <actor>Antonio Fargas</actor>
+      <actor>Bernie Casey</actor>
+      <actor>Brenda Sykes</actor>
+      <actor>Rupert Frazer</actor>
+    </credits>
+    <date>1973</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821183000 -0300" stop="20210821200000 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Os Olhos de Cabul</title>
+    <title lang="en">Les Hirondelles de Kaboul</title>
+    <desc lang="pt">No verão de 1998, a cidade de Cabul, no Afeganistão, é ocupada pelo Talibã. Mohsen e Zunaira são um casal apaixonado que, apesar da violência e destruição a sua volta, deseja acreditar que há esperança em seu futuro.(n)</desc>
+    <credits>
+      <director>Eléa Gobbé-Mévellec</director>
+      <director>Zabou Breitman</director>
+      <actor>Simon Abkarian</actor>
+      <actor>Swann Arlaud</actor>
+      <actor>Zita Hanrot</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">França</country>
+    <country lang="pt">Luxemburgo</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821200000 -0300" stop="20210821220000 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Top Gun - Ases Indomáveis</title>
+    <title lang="en">Top Gun (1986)</title>
+    <desc lang="pt">O piloto Pete "Maverick" ingressou na escola naval para se tornar piloto de caça. Arrogante, ele logo arruma inimizades com os colegas. Ao mesmo tempo, ele se envolve com Charlie, instrutora na escola.(n)</desc>
+    <credits>
+      <director>Tony Scott</director>
+      <actor>Tom Cruise</actor>
+      <actor>Kelly McGillis</actor>
+      <actor>Tim Robbins</actor>
+      <actor>Val Kilmer</actor>
+    </credits>
+    <date>1986</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821220000 -0300" stop="20210822002500 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Me Chame Pelo Seu Nome</title>
+    <title lang="en">Call Me By Your Name</title>
+    <desc lang="pt">Na Itália dos anos 1980, o acadêmico Oliver chega a casa de Elio para ajudar seu pai numa pesquisa. Uma conexão nasce, e a dupla inicia um romance que desperta um turbilhão de sentimentos no garoto.(n)</desc>
+    <credits>
+      <director>Luca Guadagnino</director>
+      <actor>Timothée Chalamet</actor>
+      <actor>Amira Casar</actor>
+      <actor>Armie Hammer</actor>
+      <actor>Michael Stuhlbarg</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Romance</category>
+    <country lang="pt">França</country>
+    <country lang="pt">Itália</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
 </tv>
