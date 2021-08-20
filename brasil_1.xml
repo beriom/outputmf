@@ -570,10 +570,12 @@
   </channel>
   <channel id="TNT HD">
     <display-name lang="pt">TNT HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/tnt.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="TNT Séries HD">
     <display-name lang="pt">TNT Séries HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/tntseries.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Tooncast">
@@ -17753,6 +17755,352 @@
     <episode-num system="onscreen">S9 E7</episode-num>
     <rating system="BR">
       <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820162000 -0300" stop="20210820182000 -0300" channel="TNT HD">
+    <title lang="pt">Queima de Arquivo</title>
+    <desc lang="pt">Agente Secreto "apaga" identidade de testemunhas que colaboram com o governo, para protegê-las de represálias. Em sua nova missão, ele deve proteger a executiva que vem colaborando com o FBI.(n)</desc>
+    <credits>
+      <director>Chuck Russell</director>
+      <actor>Arnold Schwarzenegger</actor>
+      <actor>Vanessa Williams</actor>
+      <actor>James Coburn</actor>
+      <actor>James Caan</actor>
+      <actor>Robert Pastorelli</actor>
+      <actor>Michael Papajohn</actor>
+      <actor>James Cromwell</actor>
+      <actor>Danny Nucci</actor>
+      <actor>Andy Romano</actor>
+    </credits>
+    <date>1996</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820182000 -0300" stop="20210820183100 -0300" channel="TNT HD">
+    <title lang="pt">A Ponte</title>
+    <desc lang="pt">Uma comitiva de casamento e um cortejo fúnebre se encontram no meio de uma ponte, colocando o viúvo e o pai da noiva em um conflito prático e emocional para decidir quem passará primeiro.(n)</desc>
+    <credits>
+      <director>Rafael Câmara</director>
+      <actor>Walter Breda</actor>
+      <actor>Aiman Hammoud</actor>
+      <actor>Bia Paganini</actor>
+      <actor>Tairone Vale</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820183100 -0300" stop="20210820203100 -0300" channel="TNT HD">
+    <title lang="pt">2 Filhos de Francisco</title>
+    <desc lang="pt">A trajetória dos irmãos Zezé Di Camargo e Luciano contada a partir do sonho do pai, o trabalhador rural Francisco Camargo. Apaixonado por música, ele luta para transformá-los em uma famosa dupla sertaneja.(n)</desc>
+    <credits>
+      <director>Breno Silveira</director>
+      <actor>Lima Duarte</actor>
+      <actor>Márcio Kierling</actor>
+      <actor>Thiago Mendonça</actor>
+      <actor>Ângelo Antônio</actor>
+      <actor>Dira Paes</actor>
+      <actor>Paloma Duarte</actor>
+      <actor>Dablio Moreira</actor>
+      <actor>Zezé di Camargo</actor>
+      <actor>Luciano Camargo</actor>
+      <actor>Natália Lage</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_doisfilhos01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820203100 -0300" stop="20210820223000 -0300" channel="TNT HD">
+    <title lang="pt">Tango &amp; Cash - Os Vingadores</title>
+    <desc lang="pt">Tango e Cash são tiras do departamento de narcóticos de Los Angeles. Um adora se vestir bem. O outro, em compensação, não prima pela elegância. Mas a rivalidade entre eles vai muito além das roupas.(n)</desc>
+    <credits>
+      <director>Andrei Konchalovsky</director>
+      <actor>Sylvester Stallone</actor>
+      <actor>Kurt Russell</actor>
+      <actor>Teri Hatcher</actor>
+      <actor>Jack Palance</actor>
+      <actor>Brion James</actor>
+      <actor>Marc Alaimo</actor>
+    </credits>
+    <date>1989</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_tangocash01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820223000 -0300" stop="20210821003900 -0300" channel="TNT HD">
+    <title lang="pt">A 5ª Onda</title>
+    <desc lang="pt">A Terra sofreu uma série de ataques alienígenas. Já foram realizados 4 ataques, acarretando uma redução da população do planeta. Com a proximidade da 5ª onda, que promete exterminar de vez a raça humana, Cassie precisa proteger seu irmão mais novo.(n)</desc>
+    <credits>
+      <director>J Blakeson</director>
+      <actor>Chloe Grace Moretz</actor>
+      <actor>Matthew Zuk</actor>
+      <actor>Gabriela Lopez</actor>
+      <actor>Bailey Anne Borders</actor>
+      <actor>Nick Robinson</actor>
+      <actor>Maggie Siff</actor>
+      <actor>Zackary Arthur</actor>
+      <actor>Ron Livingston</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filmes/aquintaonda01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820162100 -0300" stop="20210820170400 -0300" channel="TNT Séries HD">
+    <title lang="pt">The Mentalist</title>
+    <desc lang="pt">Jane e o FBI investigam o assassinato de um cartógrafo high-tech que pode ter encontrado uma célula espiã antes de sua morte.(n)</desc>
+    <credits>
+      <director>James Hayman</director>
+      <actor>Tim Kang</actor>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Joe Adler</actor>
+      <actor>David Norona</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/thementalist01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E12</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820170400 -0300" stop="20210820175200 -0300" channel="TNT Séries HD">
+    <title lang="pt">The Mentalist</title>
+    <desc lang="pt">A investigação de Jane o leva a se juntar a uma comunidade separatista, depois que uma advogada americana é encontrada morta no México, embora não haja registros de que ela tenha cruzado a fronteira.(n)</desc>
+    <credits>
+      <director>Randall Zisk</director>
+      <actor>Tim Kang</actor>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Kevin Daniels</actor>
+      <actor>Emily Swallow</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/thementalist01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E13</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820175200 -0300" stop="20210820183700 -0300" channel="TNT Séries HD">
+    <title lang="pt">The Mentalist</title>
+    <desc lang="pt">Jane e Fischer investigam um assassinato em uma estação de petróleo, enquanto Rigsby e Van Pelt viajam para Austin para ajudar a investigar suspeitos em uma série de ataques a antigos membros da CBI.(n)</desc>
+    <credits>
+      <director>Geary McLeod</director>
+      <actor>Tim Kang</actor>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>William Mapother</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/thementalist01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E14</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820183700 -0300" stop="20210820190400 -0300" channel="TNT Séries HD">
+    <title lang="pt">Mapa do Pop</title>
+    <desc lang="pt">Um passeio pelo mundo do entretenimento através dos locais significativos para a criação de artistas, bandas, diretores de cinema, escritores, atores ou personalidades do mundo pop.(n)</desc>
+    <credits>
+      <director>Decio Lopes</director>
+      <actor>Mica Rocha</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_mapadopop01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820190400 -0300" stop="20210820193400 -0300" channel="TNT Séries HD">
+    <title lang="pt">Mapa do Pop</title>
+    <desc lang="pt">Um passeio pelo mundo do entretenimento através dos locais significativos para a criação de artistas, bandas, diretores de cinema, escritores, atores ou personalidades do mundo pop.(n)</desc>
+    <credits>
+      <director>Decio Lopes</director>
+      <actor>Mica Rocha</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_mapadopop01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820193400 -0300" stop="20210820202200 -0300" channel="TNT Séries HD">
+    <title lang="pt">C.S.I. NY</title>
+    <desc lang="pt">A equipe investiga o resultado terrível de uma festa de 21 anos, em que acontecem coisas que não valem a pena a celebração. Com apenas poucas e difíceis respostas, os CSIs são desafiados a usar o máximo de suas habilidades.(n)</desc>
+    <credits>
+      <director>Jeff T. Thomas</director>
+      <actor>Anna Belknap</actor>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Carmine Giovinazzo</actor>
+      <actor>Robert Joy</actor>
+      <actor>A.J. Buckley</actor>
+      <actor>Hill Harper</actor>
+      <actor>Eddie Cahill</actor>
+      <actor>Cullen Douglas</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/csinewyork01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S6 E16</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820202200 -0300" stop="20210820210900 -0300" channel="TNT Séries HD">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt">Os CSIs partem em busca de um pedófilo suspeito de assassinar a esposa de um agente do FBI e sequestrar seus filhos.(n)</desc>
+    <credits>
+      <director>Charles Haid</director>
+      <actor>Jorja Fox</actor>
+      <actor>George Eads</actor>
+      <actor>Laurence Fishburne</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Robert David Hall</actor>
+      <actor>Leisha Hailey</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/csi01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S11</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820210900 -0300" stop="20210820215600 -0300" channel="TNT Séries HD">
+    <title lang="pt">The Mentalist</title>
+    <desc lang="pt">Jane e o FBI investigam o assassinato de um cartógrafo high-tech que pode ter encontrado uma célula espiã antes de sua morte.(n)</desc>
+    <credits>
+      <director>James Hayman</director>
+      <actor>Tim Kang</actor>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Joe Adler</actor>
+      <actor>David Norona</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/thementalist01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E12</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820215600 -0300" stop="20210820224300 -0300" channel="TNT Séries HD">
+    <title lang="pt">The Mentalist</title>
+    <desc lang="pt">A investigação de Jane o leva a se juntar a uma comunidade separatista, depois que uma advogada americana é encontrada morta no México, embora não haja registros de que ela tenha cruzado a fronteira.(n)</desc>
+    <credits>
+      <director>Randall Zisk</director>
+      <actor>Tim Kang</actor>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Kevin Daniels</actor>
+      <actor>Emily Swallow</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/thementalist01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E13</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820224300 -0300" stop="20210820233000 -0300" channel="TNT Séries HD">
+    <title lang="pt">The Mentalist</title>
+    <desc lang="pt">Jane e Fischer investigam um assassinato em uma estação de petróleo, enquanto Rigsby e Van Pelt viajam para Austin para ajudar a investigar suspeitos em uma série de ataques a antigos membros da CBI.(n)</desc>
+    <credits>
+      <director>Geary McLeod</director>
+      <actor>Tim Kang</actor>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>William Mapother</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/thementalist01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E14</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820233000 -0300" stop="20210821002300 -0300" channel="TNT Séries HD">
+    <title lang="pt">Hidden</title>
+    <desc lang="pt">Jonas encontra Wennerbom à mercê do cientista Paul Kron e descobre que seu implante foi colocado para suprimir uma doença hereditária letal.(n)</desc>
+    <credits>
+      <director>Jonathan Sjöberg</director>
+      <actor>August Wittgenstein</actor>
+      <actor>Izabella Scorupco</actor>
+      <actor>Anders Mossling</actor>
+      <actor>Pia Tjelta</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">Suecia</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>16</value>
     </rating>
   </programme>
 </tv>
