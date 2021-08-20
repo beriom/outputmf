@@ -416,6 +416,7 @@
   </channel>
   <channel id="Premiere 2 HD">
     <display-name lang="pt">Premiere 2 HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Premiere 3 HD">
@@ -55592,6 +55593,126 @@
     <country lang="pt">EUA</country>
     <rating system="BR">
       <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210820130000 -0300" stop="20210820160000 -0300" channel="Premiere 2 HD">
+    <title lang="pt">Premiere 2</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/premierefc01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820160000 -0300" stop="20210820180000 -0300" channel="Premiere 2 HD">
+    <title lang="pt">Premiere 2</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/premierefc01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820213000 -0300" channel="Premiere 2 HD">
+    <title lang="pt">Premiere 2</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/premierefc01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820213000 -0300" stop="20210821000000 -0300" channel="Premiere 2 HD">
+    <title lang="pt">Premiere 2</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/premierefc01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821000000 -0300" stop="20210821040000 -0300" channel="Premiere 2 HD">
+    <title lang="pt">Premiere 2</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/premierefc01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821040000 -0300" stop="20210821070000 -0300" channel="Premiere 2 HD">
+    <title lang="pt">Premiere 2</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/premierefc01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821070000 -0300" stop="20210821100000 -0300" channel="Premiere 2 HD">
+    <title lang="pt">Premiere 2</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/premierefc01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821100000 -0300" stop="20210821130000 -0300" channel="Premiere 2 HD">
+    <title lang="pt">Premiere 2</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/premierefc01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821130000 -0300" stop="20210821160000 -0300" channel="Premiere 2 HD">
+    <title lang="pt">Premiere 2</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/premierefc01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821160000 -0300" stop="20210821180000 -0300" channel="Premiere 2 HD">
+    <title lang="pt">Premiere 2</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/premierefc01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821180000 -0300" stop="20210821213000 -0300" channel="Premiere 2 HD">
+    <title lang="pt">Premiere 2</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/premierefc01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821213000 -0300" stop="20210822000000 -0300" channel="Premiere 2 HD">
+    <title lang="pt">Premiere 2</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/premierefc01.jpg" />
+    <rating system="BR">
+      <value>L</value>
     </rating>
   </programme>
 </tv>
