@@ -72204,4 +72204,438 @@
       <value>L</value>
     </rating>
   </programme>
+  <programme start="20210820083000 -0300" stop="20210820100000 -0300" channel="Record TV SP HD">
+    <title lang="pt">Fala Brasil</title>
+    <desc lang="pt">As manhãs de segunda a sábado da Record TV são marcadas pelo bom jornalismo do Fala Brasil. O telejornal matinal traz, em primeira mão, as notícias do dia do Brasil e do mundo.(n)</desc>
+    <credits>
+      <actor>Mariana Godoy</actor>
+      <actor>Sergio Aguiar</actor>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/falabrasilespecial01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820100000 -0300" stop="20210820114500 -0300" channel="Record TV SP HD">
+    <title lang="pt">Hoje em Dia</title>
+    <desc lang="pt">Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/hojeemdia01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820114500 -0300" stop="20210820115000 -0300" channel="Record TV SP HD">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820115000 -0300" stop="20210820151500 -0300" channel="Record TV SP HD">
+    <title lang="pt">Balanço Geral SP</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/balancogeralsp01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820151500 -0300" stop="20210820164500 -0300" channel="Record TV SP HD">
+    <title lang="pt">Prova de Amor</title>
+    <desc lang="pt">Os convidados começam a chegar no casamento de Lopo. Pestana aguarda com Dudu a saída da assistente social.(n)</desc>
+    <credits>
+      <director>Alexandre Avancini</director>
+      <actor>Marcelo Serrado</actor>
+      <actor>Lavínia Vlasak</actor>
+      <actor>Leonardo Vieira</actor>
+      <actor>Vanessa Gerbelli</actor>
+      <actor>André Segatti</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E69</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820164500 -0300" stop="20210820171000 -0300" channel="Record TV SP HD">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_cidadealerta01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820171000 -0300" stop="20210820171500 -0300" channel="Record TV SP HD">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820171500 -0300" stop="20210820174000 -0300" channel="Record TV SP HD">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_cidadealerta01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820174000 -0300" stop="20210820174500 -0300" channel="Record TV SP HD">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820174500 -0300" stop="20210820180000 -0300" channel="Record TV SP HD">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_cidadealerta01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820194500 -0300" channel="Record TV SP HD">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_cidadealerta01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820194500 -0300" stop="20210820210000 -0300" channel="Record TV SP HD">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/jornaldarecord01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820210000 -0300" stop="20210820214500 -0300" channel="Record TV SP HD">
+    <title lang="pt">Gênesis</title>
+    <desc lang="pt">Labão é enganado por Raquel. Jacó avista o exército de Deus e teme a presença de Esaú.(n)</desc>
+    <credits>
+      <actor>Zé Carlos Machado</actor>
+      <actor>Adriana Garambone</actor>
+      <actor>Igor Rickli</actor>
+      <actor>Juliano Laham</actor>
+      <actor>Letícia Almeida</actor>
+      <actor>Miguel Coelho</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E154</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820214500 -0300" stop="20210820224500 -0300" channel="Record TV SP HD">
+    <title lang="pt">Topíssima</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Rudi Lagemann</director>
+      <actor>Camila Rodrigues</actor>
+      <actor>Felipe Cunha</actor>
+      <actor>Cristiana Oliveira</actor>
+      <actor>Floriano Peixoto</actor>
+      <actor>Denise Del Vecchio</actor>
+      <actor>Mauricio Mattar</actor>
+      <actor>Juliana Didone</actor>
+      <actor>Kadu Moliterno</actor>
+      <actor>Silvia Pfeifer</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820224500 -0300" stop="20210820230000 -0300" channel="Record TV SP HD">
+    <title lang="pt">Ilha Record</title>
+    <desc lang="pt">Ilha Record terá como participantes 13 celebridades em busca de aventuras e, claro, diversos prêmios. O vencedor do reality, levará para casa o prêmio de R$ 500 mil.(n)</desc>
+    <credits>
+      <actor>Sabrina Sato</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210821001500 -0300" channel="Record TV SP HD">
+    <title lang="pt">O Hospital</title>
+    <desc lang="pt">Diferentes casos de pessoas que passaram por cirurgias tanto para curar problemas de saúde como para ajudar na reconstrução de suas vidas.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821001500 -0300" stop="20210821004500 -0300" channel="Record TV SP HD">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821004500 -0300" stop="20210821020000 -0300" channel="Record TV SP HD">
+    <title lang="pt">Fala que eu te Escuto</title>
+    <desc lang="pt">O programa é apresentado ao vivo, no início da madrugada. Diariamente, temas da atualidade são debatidos por bispos e pastores da Igreja Universal do Reino de Deus (IURD).(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/falaqueeuteescuto01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821020000 -0300" stop="20210821030000 -0300" channel="Record TV SP HD">
+    <title lang="pt">Inteligência e Fé</title>
+    <desc lang="pt">Comandado por Renato Cardoso.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_inteligenciaefe01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821030000 -0300" stop="20210821040000 -0300" channel="Record TV SP HD">
+    <title lang="pt">Palavra Amiga com Bispo Edir Macedo</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_palavraamigacombispoedirmacedo01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821040000 -0300" stop="20210821043000 -0300" channel="Record TV SP HD">
+    <title lang="pt">Vício Tem Cura</title>
+    <desc lang="pt">O que antes era IMPOSSÍVEL, hoje é real! Milhares de pessoas têm comparecido ao tratamento e recebido a cura dos vícios.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821043000 -0300" stop="20210821051000 -0300" channel="Record TV SP HD">
+    <title lang="pt">Nosso Tempo</title>
+    <desc lang="pt">Um programa da Igreja Universal do Reino de Deus. O Bispo Rogério leva uma palavra de fé e esperança a todos os internautas.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821051000 -0300" stop="20210821053500 -0300" channel="Record TV SP HD">
+    <title lang="pt">Congresso Para o Sucesso</title>
+    <desc lang="pt">Esse programa é voltado para pessoas com dificuldades na vida financeira, que já passaram por problemas em diversas áreas em virtude do que enfrentaram diante da crise. Através do Congresso, aprenderam a usar a fé inteligente.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Comportamento</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/congressoparaosucesso01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821053500 -0300" stop="20210821063000 -0300" channel="Record TV SP HD">
+    <title lang="pt">Corrente dos 70</title>
+    <desc lang="pt">O Senhor Jesus escolheu 70 homens e deu a eles autoridade para curar todo tipo de enfermidade e expulsar os espíritos malignos.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821063000 -0300" stop="20210821070000 -0300" channel="Record TV SP HD">
+    <title lang="pt">Nosso Tempo</title>
+    <desc lang="pt">Um programa da Igreja Universal do Reino de Deus. O Bispo Rogério leva uma palavra de fé e esperança a todos os internautas.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821070000 -0300" stop="20210821073500 -0300" channel="Record TV SP HD">
+    <title lang="pt">Brasil Caminhoneiro</title>
+    <desc lang="pt">É hora de conhecer esses profissionais que viajam diariamente pelo Brasil e todas as histórias que eles têm pra contar que são muitas e das boas!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cultural</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821073500 -0300" stop="20210821120000 -0300" channel="Record TV SP HD">
+    <title lang="pt">Fala Brasil Edição de Sábado</title>
+    <desc lang="pt">Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821120000 -0300" stop="20210821130000 -0300" channel="Record TV SP HD">
+    <title lang="pt">The Love School - A Escola do Amor</title>
+    <desc lang="pt">A chegada dos "professores" à telinha traz conselhos eficazes, para ajudar solteiros e comprometidos a alcançarem ou manterem o relacionamento feliz e driblarem as adversidades do cotidiano.(n)</desc>
+    <credits>
+      <actor>Renato Cardoso</actor>
+      <actor>Cristiane Cardoso</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Comportamento</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/theloveschool01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821130000 -0300" stop="20210821150000 -0300" channel="Record TV SP HD">
+    <title lang="pt">Balanço Geral Edição de Sábado</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821150000 -0300" stop="20210821170000 -0300" channel="Record TV SP HD">
+    <title lang="pt">Cine Aventura: Olha Quem Está Falando Também</title>
+    <title lang="en">Look Who's Talking, Too</title>
+    <desc lang="pt">Um simpático e esperto bebê já conseguiu convencer a mãe a se casar com o motorista de táxi que a socorreu pouco antes de seu nascimento.(n)</desc>
+    <credits>
+      <director>Amy Heckerling</director>
+      <actor>John Travolta</actor>
+      <actor>Kirstie Alley</actor>
+      <actor>Olympia Dukakis</actor>
+      <actor>Elias Koteas</actor>
+      <actor>Twink Caplan</actor>
+      <actor>Gilbert Gottfried</actor>
+      <actor>Bruce Willis</actor>
+      <actor>Mel Brooks</actor>
+      <actor>Megan Milner</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_cineaventura01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821170000 -0300" stop="20210821194500 -0300" channel="Record TV SP HD">
+    <title lang="pt">Cidade Alerta Edição de Sábado</title>
+    <desc lang="pt">O Cidade Alerta leva até você um olhar diferente da notícia habitual.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821194500 -0300" stop="20210821210000 -0300" channel="Record TV SP HD">
+    <title lang="pt">Jornal da Record Edição de Sábado</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821210000 -0300" stop="20210821230000 -0300" channel="Record TV SP HD">
+    <title lang="pt">Gênesis - Melhores Momentos</title>
+    <title lang="en">Gênesis</title>
+    <desc lang="pt">A trama é baseada no livro da Bíblia Gênesis e contará a história da criação do mundo, o primeiro homem, Adão, e a primeira mulher, Eva; o grande dilúvio; a Torre de Babel, Jornada de Abraão.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821230000 -0300" stop="20210821234500 -0300" channel="Record TV SP HD">
+    <title lang="pt">Ilha Record</title>
+    <desc lang="pt">Ilha Record terá como participantes 13 celebridades em busca de aventuras e, claro, diversos prêmios. O vencedor do reality, levará para casa o prêmio de R$ 500 mil.(n)</desc>
+    <credits>
+      <actor>Sabrina Sato</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821234500 -0300" stop="20210822003000 -0300" channel="Record TV SP HD">
+    <title lang="pt">C.S.I. Las Vegas</title>
+    <title lang="en">C.S.I.</title>
+    <desc lang="pt">A equipe investiga um homicídio que ocorre em uma convenção destinada a pessoas que colecionam objetos macabros de assassinatos.(n)</desc>
+    <credits>
+      <director>Claudia Yarmy</director>
+      <actor>Ted Danson</actor>
+      <actor>David Berman</actor>
+      <actor>Rob Estes</actor>
+      <actor>George Eads</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Richard Harmon</actor>
+      <actor>Mekenna Melvin</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S15 E14</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
 </tv>
