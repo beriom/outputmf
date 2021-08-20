@@ -266,6 +266,7 @@
   </channel>
   <channel id="FX HD">
     <display-name lang="pt">FX HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Globo News HD">
