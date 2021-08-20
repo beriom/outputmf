@@ -390,10 +390,12 @@
   </channel>
   <channel id="Nick Jr. HD">
     <display-name lang="pt">Nick Jr. HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/nickjr.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Nickelodeon HD">
     <display-name lang="pt">Nickelodeon HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/nickelodeon.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="OFF HD">
@@ -13369,6 +13371,645 @@
     <country lang="pt">EUA</country>
     <rating system="BR">
       <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820162400 -0300" stop="20210820164800 -0300" channel="Nick Jr. HD">
+    <title lang="pt">Patrulha Canina</title>
+    <desc lang="pt">Algo saiu errado com o passeio no pântano. O Resgate Supremo pede pelo Zuma com o seu veículo supremo de pântano!(n)</desc>
+    <credits>
+      <actor>Vozes de Alex Thorne</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Drew Davis</actor>
+      <actor>Max Calinescu</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/patrulhacanina01.jpg" />
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820164800 -0300" stop="20210820170100 -0300" channel="Nick Jr. HD">
+    <title lang="pt">Patrulha Canina</title>
+    <desc lang="pt">É dia de festa junina na Baía da Aventura. A cidade inteira está aproveitando as atividades quando um rebanho de vacas escapa do trem na estação. Agora a patrulha Canina tem que reunir as vacas para o Fazendeiro Al!(n)</desc>
+    <credits>
+      <actor>Vozes de Alex Thorne</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Christian Distefano</actor>
+      <actor>Gage Munroe</actor>
+      <actor>Kallan Holley</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/patrulhacanina01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820170100 -0300" stop="20210820171100 -0300" channel="Nick Jr. HD">
+    <title lang="pt">Patrulha Canina</title>
+    <desc lang="pt">Alex perde sua mochila no primeiro dia de escola! Ryder e a patrulha precisam ajudá-lo a encontrá-la.(n)</desc>
+    <credits>
+      <actor>Vozes de Alex Thorne</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Christian Distefano</actor>
+      <actor>Gage Munroe</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Katherine Forrester</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/patrulhacanina01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820171100 -0300" stop="20210820173500 -0300" channel="Nick Jr. HD">
+    <title lang="pt">Patrulha Canina</title>
+    <desc lang="pt">O Fazendeiro Al e a Fazendeira Yumi precisam da ajuda da Patrulha Canina para levar um peixe-boi até o Pântano! O Sr. Porter e o Alex estão com uma situação grudenta. Eles estão até a cabeça cobertos de xarope!(n)</desc>
+    <credits>
+      <actor>Vozes de Alex Thorne</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Drew Davis</actor>
+      <actor>Max Calinescu</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/patrulhacanina01.jpg" />
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820173500 -0300" stop="20210820180000 -0300" channel="Nick Jr. HD">
+    <title lang="pt">Patrulha Canina</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <actor>Vozes de Alex Thorne</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Drew Davis</actor>
+      <actor>Max Calinescu</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/patrulhacanina01.jpg" />
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S3 E14</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820183000 -0300" channel="Nick Jr. HD">
+    <title lang="pt">Os Chocolix</title>
+    <desc lang="pt">Durante o passeio escolar no Lago Azul, Chocolyne e Caramelo se deparam com um ovo dentro de uma das bolhas comestíveis que saem do lago.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820183000 -0300" stop="20210820190000 -0300" channel="Nick Jr. HD">
+    <title lang="pt">Santiago Dos Mares</title>
+    <desc lang="pt">Santiago e sua tripulação precisam encontrar um feitiço de crescimento pra salvar o dia. É hora do Desfile dos Piratas! A não ser que Escarlata tenha algo a dizer...(n)</desc>
+    <credits>
+      <actor>Vozes de Dave Droxler</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820193000 -0300" channel="Nick Jr. HD">
+    <title lang="pt">Deer Squad</title>
+    <desc lang="pt">Todas as abelhas da Floresta foram capturadas pelo senhor Steel por causa do seu mel e o Deer Squad virá ao seu resgate! Kai inventa um robô pato para ficar de babá dos patinhos, mas ele entra em curto e desregula toda tecnologia na cidade.(n)</desc>
+    <credits>
+      <director>Lu Dexiang</director>
+      <actor>Vozes de Brody Allen</actor>
+      <actor>Connor Andrade</actor>
+      <actor>Jaiden Cannatelli</actor>
+      <actor>Doug Erholtz</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820193000 -0300" stop="20210820200000 -0300" channel="Nick Jr. HD">
+    <title lang="pt">Blaze e Os Monster Machine</title>
+    <desc lang="pt">É um dia de neve na cidade do eixo e todos os carros da cidade estão se preparando para um delicioso chocolate quente de verão. Mas quando esmagador tenta pegar todo o chocolate quente para si mesmo, blaze sai em perseguição para recuperá-lo.(n)</desc>
+    <credits>
+      <director>Miguel Martinez-Joffre</director>
+      <director>Shane Poettcker</director>
+      <actor>Vozes de Nolan North</actor>
+      <actor>Dusan Brown</actor>
+      <actor>Jacquez Swanigan</actor>
+      <actor>Angelina Wahler</actor>
+      <actor>Nat Faxon</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Candi Milo</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/blaze01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E12</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820203000 -0300" channel="Nick Jr. HD">
+    <title lang="pt">Pistas de Blue &amp; Você</title>
+    <desc lang="pt">Magenta, amiga da Blue, está chegando! Vamos brincar de Pistas de Blue para descobrir o que a Blue quer fazer com a Magenta. Durante nossa busca por pistas, identificamos opostos e conferimos pegadas de animais com nossos amigos Pá e Balde.(n)</desc>
+    <credits>
+      <director>Jennifer Sherma</director>
+      <actor>Vozes de Joshua Dela Cruz</actor>
+      <actor>Traci Paige Johnson</actor>
+      <actor>Liyou Abere</actor>
+      <actor>Brad Adamson</actor>
+      <actor>Doug Murray</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820203000 -0300" stop="20210820210000 -0300" channel="Nick Jr. HD">
+    <title lang="pt">Patrulha Canina</title>
+    <desc lang="pt">O Rocky precisa resgatar a si mesmo quando o Prefeito Humdinger o deixa preso em uma ilha cheia de lixo.(n)</desc>
+    <credits>
+      <actor>Vozes de Alex Thorne</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Drew Davis</actor>
+      <actor>Max Calinescu</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/patrulhacanina01.jpg" />
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S5 E15</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820210000 -0300" stop="20210820213000 -0300" channel="Nick Jr. HD">
+    <title lang="pt">Patrulha Canina</title>
+    <desc lang="pt">O Rocky desaparece na cabana do Tio Otis, e a Patrulha Canina precisa resolver o mistério do "Lobislhote"! É o dia do caubói no rancho do Seu Wingnuts. A Prefeita Goodway tenta enfrentar os perigos do Rancho, tudo enquanto esta dormindo.(n)</desc>
+    <credits>
+      <actor>Vozes de Alex Thorne</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Drew Davis</actor>
+      <actor>Max Calinescu</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/patrulhacanina01.jpg" />
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S5 E19</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820213000 -0300" stop="20210820220000 -0300" channel="Nick Jr. HD">
+    <title lang="pt">Patrulha Canina</title>
+    <desc lang="pt">Esperando ficar com a praia toda só para si, o prefeito Humdinger cria um tubarão robótico para afastar os banhistas da praia.(n)</desc>
+    <credits>
+      <actor>Vozes de Alex Thorne</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Drew Davis</actor>
+      <actor>Max Calinescu</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/patrulhacanina01.jpg" />
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S4 E16</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820223000 -0300" channel="Nick Jr. HD">
+    <title lang="pt">Patrulha Canina</title>
+    <desc lang="pt">Chase e Galinheta trocam de corpos em um dia cheio de vento na Baía da Aventura. A prefeita Goodway organiza uma competição atlética na Baía da Aventura.(n)</desc>
+    <credits>
+      <actor>Vozes de Alex Thorne</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Drew Davis</actor>
+      <actor>Max Calinescu</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/patrulhacanina01.jpg" />
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S6 E13</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820223000 -0300" stop="20210820230000 -0300" channel="Nick Jr. HD">
+    <title lang="pt">Blaze e Os Monster Machine</title>
+    <desc lang="pt">É dia da corrida e Esmagador joga muito mais sujo para ganhar do Blaze e da Watts, mandando os dois motoristas para bem longe!(n)</desc>
+    <credits>
+      <director>Miguel Martinez-Joffre</director>
+      <director>Shane Poettcker</director>
+      <actor>Vozes de Nolan North</actor>
+      <actor>Dusan Brown</actor>
+      <actor>Jacquez Swanigan</actor>
+      <actor>Angelina Wahler</actor>
+      <actor>Nat Faxon</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Candi Milo</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/blaze01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210820233000 -0300" channel="Nick Jr. HD">
+    <title lang="pt">Pistas de Blue &amp; Você</title>
+    <desc lang="pt">Josh está fazendo um livro de gratidão e tentando descobrir as coisas pelas quais ele e seus amigos são gratos. Nós vamos brincar de Pistas de Blue, para descobrir o que a Blue tem a agradecer.(n)</desc>
+    <credits>
+      <director>Damien O'Connor</director>
+      <actor>Vozes de Joshua Dela Cruz</actor>
+      <actor>Traci Paige Johnson</actor>
+      <actor>Liyou Abere</actor>
+      <actor>Brad Adamson</actor>
+      <actor>Doug Murray</actor>
+      <actor>Shechinah Mpumlwana</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820233000 -0300" stop="20210821000000 -0300" channel="Nick Jr. HD">
+    <title lang="pt">Pistas de Blue &amp; Você</title>
+    <desc lang="pt">Magenta, amiga da Blue, está chegando! Vamos brincar de Pistas de Blue para descobrir o que a Blue quer fazer com a Magenta. Durante nossa busca por pistas, identificamos opostos e conferimos pegadas de animais com nossos amigos Pá e Balde.(n)</desc>
+    <credits>
+      <director>Jennifer Sherma</director>
+      <actor>Vozes de Joshua Dela Cruz</actor>
+      <actor>Traci Paige Johnson</actor>
+      <actor>Liyou Abere</actor>
+      <actor>Brad Adamson</actor>
+      <actor>Doug Murray</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820163000 -0300" stop="20210820170000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Os Casagrandes</title>
+    <desc lang="pt">Uma mágica hipnotiza o Bobby para que ele pense que é um gato. A Ronnie Anne e os seus amigos solucionam um mistério da cidade: o que aconteceu com o carrinho de cachorro-quente do Bruno?(n)</desc>
+    <credits>
+      <director>Miguel Puga</director>
+      <actor>Vozes de Carlos Alazraqui</actor>
+      <actor>Izabella Alvarez</actor>
+      <actor>Alex Cazares</actor>
+      <actor>Carlos PenaVega</actor>
+      <actor>Sonia Manzano</actor>
+      <actor>Ruben Garfias</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820170000 -0300" stop="20210820173000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Os Casagrandes</title>
+    <desc lang="pt">O amor do Carl por brinquedos o deixa preso em uma carreira turbulenta de avaliador de brinquedos. A arte da Frida recebe uma crítica ruim.(n)</desc>
+    <credits>
+      <director>Miguel Puga</director>
+      <actor>Vozes de Carlos Alazraqui</actor>
+      <actor>Izabella Alvarez</actor>
+      <actor>Alex Cazares</actor>
+      <actor>Carlos PenaVega</actor>
+      <actor>Sonia Manzano</actor>
+      <actor>Ruben Garfias</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820173000 -0300" stop="20210820180000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Árvore dos Araújos</title>
+    <desc lang="pt">Vó Odete toma uma grande susto ao ver a espantalha Geraldina na frente da fazenda Araújo. Nara acha que a espantalha está enfeitiçada e que para quebrar o feitiço, precisam casá-la com o espantalho Godofredo.(n)</desc>
+    <credits>
+      <director>Alfredo Alves</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820183000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Os Under Undergrounds</title>
+    <desc lang="pt">Galileo Fígaro conta para Heitor que encontrou uma passagem de volta para a Terra. Galileo e Heitor vão em busca dessa passagem enquanto o resto da banda vai a uma entrevista de rádio.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/underundergrounds01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820183000 -0300" stop="20210820190000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <desc lang="pt">Plankton tenta roubar o hambúrguer de siri de Patrick, mas Patrick senta em cima dele. Patrick escuta a voz de Plankton e Bob Esponja diz que é a consciência. Os clientes do Seu Sirigueijo gostam de ver Bob Esponja preparar o hamburguer de siri.(n)</desc>
+    <credits>
+      <actor>Vozes de Tom Kenny</actor>
+      <actor>Bill Fagerbakke</actor>
+      <actor>Clancy Brown</actor>
+      <actor>Rodger Bumpass</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Mary Jo Catlett</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/bobesponja01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E34</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820193000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">The Loud House</title>
+    <desc lang="pt">Os McBride contratam a Luna para cuidar das gatas - mas o trabalho é mais difícil do que ela pensava.(n)</desc>
+    <credits>
+      <director>Jessica Borutski</director>
+      <director>Kyle Marshall</director>
+      <actor>Vozes de Collin Dean</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Jessica DiCicco</actor>
+      <actor>Brian Stepanek</actor>
+      <actor>Jill Talley</actor>
+      <actor>Nika Futterman</actor>
+      <actor>Liliana Mumy</actor>
+      <actor>Tex Hammond</actor>
+      <actor>Catherine Taber</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/theloudhouse01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E17</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820193000 -0300" stop="20210820200000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Nickelodeon - Além Do Filtro</title>
+    <desc lang="pt">Houston, nós temos uma bola espacial. O apresentador Jay Pharoah chega com duas celebridades misteriosas escondidas por trás do filtro 3D animado.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Game Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820203000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Kid Danger e seus amigos tentam descobrir uma forma de trazer o Capitão Man do passado, enquanto Drex põe em ação seu plano para apagar as memórias que a população de Swellview tem do Capitão Man.(n)</desc>
+    <credits>
+      <director>Steve Hoefer</director>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Michael D. Cohen</actor>
+      <actor>Paula Jay Fairbrother</actor>
+      <actor>Jace Norman</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/henrydanger01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E39</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820203000 -0300" stop="20210820210000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Kid Danger e Capitão Man enfrentam Drex em um dirigível para impedir que ele apague as memórias que Swellview tem do Capitão Man.(n)</desc>
+    <credits>
+      <director>Steve Hoefer</director>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Michael D. Cohen</actor>
+      <actor>Paula Jay Fairbrother</actor>
+      <actor>Jace Norman</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/henrydanger01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820210000 -0300" stop="20210820213000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Força Danger</title>
+    <desc lang="pt">Capitão Man tem uma nova equipe de ajudantes de super-herói, a Força Danger.(n)</desc>
+    <credits>
+      <director>Mike Caro</director>
+      <actor>Cooper Barnes</actor>
+      <actor>Havan Flores</actor>
+      <actor>Terrence Little Gardenhigh</actor>
+      <actor>Dana Heath</actor>
+      <actor>Luca Luhan</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820213000 -0300" stop="20210820220000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Depois que Jasper é elogiado por ser um super-herói local, Henry fica com ciúmes que Kid Danger foi quem recebeu agradecimentos enquanto ele mesmo não recebeu nada.(n)</desc>
+    <credits>
+      <director>Adam Weissman</director>
+      <actor>Vozes de Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Jace Norman</actor>
+      <actor>Angelica Salek</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/henrydanger01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820223000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Quando Capitão Man é preso por cometer uma infração, ele é obrigado a passar o Natal na prisão. Henry e Charlotte precisam tentar ajudar o Capitão Man e ter um bom Natal na prisão.(n)</desc>
+    <credits>
+      <director>Steve Hoefer</director>
+      <actor>Vozes de Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Jace Norman</actor>
+      <actor>Jason Sims-Prewitt</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/henrydanger01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820223000 -0300" stop="20210820230000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Quando Kid Danger quase se fere gravemente em uma missão, Henry decide passar pelo Densificador e se tornar indestrutível como o Capitão Man. Mas as coisas não saem bem como o Henry gostaria.(n)</desc>
+    <credits>
+      <director>Nathan Kress</director>
+      <actor>Vozes de Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Jace Norman</actor>
+      <actor>Angelica Salek</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/henrydanger01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210820233000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Schwoz inventa um aspirador para ajudar Henry a limpar sua casa, mas ele acidentalmente suga a Charlotte para dentro. Quando a família de Henry ouve a Charlotte eles pensam o aspirador é assombrado.(n)</desc>
+    <credits>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Michael D. Cohen</actor>
+      <actor>Paula Jay Fairbrother</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/henrydanger01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E15</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820233000 -0300" stop="20210821000000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Michael D. Cohen</actor>
+      <actor>Paula Jay Fairbrother</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/henrydanger01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E17</episode-num>
+    <rating system="BR">
+      <value>10</value>
     </rating>
   </programme>
 </tv>
