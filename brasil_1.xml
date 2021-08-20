@@ -126,6 +126,7 @@
   </channel>
   <channel id="Discovery Home &amp; Health">
     <display-name lang="pt">Discovery Home &amp; Health</display-name>
+    <icon src="../canais/1594231543.gif|../canais/1592302022.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="Discovery Home &amp; Health HD ³">
@@ -19847,5 +19848,1766 @@
     <rating system="BR">
       <value>10</value>
     </rating>
+  </programme>
+  <programme start="20210820093600 -0300" stop="20210820102400 -0300" channel="Discovery HD World">
+    <title lang="pt">Lugares Secretos para Nadar</title>
+    <title lang="en">Top Secret Swimming Holes</title>
+    <desc lang="pt">Vamos revelar alguns dos segredos mais bem guardados do planeta, como a cachoeira do Buracão; uma queda d'agua nas profundezas da floresta tropical; e um safári animal exótico que leva a uma praia secreta.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820102400 -0300" stop="20210820104800 -0300" channel="Discovery HD World">
+    <title lang="pt">Exposed</title>
+    <desc lang="pt">Tudo o que você sempre quis saber sobre competições culinárias e muito mais.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820104800 -0300" stop="20210820111200 -0300" channel="Discovery HD World">
+    <title lang="pt">Exposed</title>
+    <desc lang="pt">Tudo o que você sempre quis saber sobre trailers automotivos e muito mais.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820111200 -0300" stop="20210820113600 -0300" channel="Discovery HD World">
+    <title lang="pt">Viciados em Viagens</title>
+    <title lang="en">Tripaholics</title>
+    <desc lang="pt">Mike McGuiness e David Arquette descobrem o que é legal em Nova Orleans, também chamada de Big Easy.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820113600 -0300" stop="20210820120000 -0300" channel="Discovery HD World">
+    <title lang="pt">Viciados em Viagens</title>
+    <title lang="en">Tripaholics</title>
+    <desc lang="pt">David Arquette e Mike McGuiness aterrissam em Tel Aviv, Israel.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820120000 -0300" stop="20210820122400 -0300" channel="Discovery HD World">
+    <title lang="pt">Segredos das Ilhas</title>
+    <title lang="en">Island Secrets</title>
+    <desc lang="pt">São Vicente e Granadinas são um paraíso caribenho repleto de misteriosas ruínas coloniais, resorts privativos, praias ocultas e feiras livres. Descubra os pontos turísticos e outras atrações destas ilhas fascinantes.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820122400 -0300" stop="20210820124800 -0300" channel="Discovery HD World">
+    <title lang="pt">Segredos das Ilhas</title>
+    <title lang="en">Island Secrets</title>
+    <desc lang="pt">Descubra a beleza rústica das Ilhas de San Juan, no estado de Washington. Com suas antigas escunas, penhascos incríveis, baleias majestosas e hotéis charmosos, é um destino que vale a pena ser conhecido.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820124800 -0300" stop="20210820131200 -0300" channel="Discovery HD World">
+    <title lang="pt">Montanhas-Russas Extremas</title>
+    <title lang="en">Insane Coaster Wars</title>
+    <desc lang="pt">Duas montanhas-russas dos EUA competem com modelos de Abu Dhabi e Espanha.(n)</desc>
+    <credits>
+      <director>Todd Boudreaux</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820131200 -0300" stop="20210820133600 -0300" channel="Discovery HD World">
+    <title lang="pt">Montanhas-Russas Extremas</title>
+    <title lang="en">Insane Coaster Wars</title>
+    <desc lang="pt">Estas montanhas-russas atingem velocidades alucinantes. Qual delas chegará na frente da concorrência? Top Thrill Dragster de Ohio, a Desperado de Nevada, a Bizarro da Nova Inglaterra, ou a Xcelerator da Califórnia?(n)</desc>
+    <credits>
+      <director>Todd Boudreaux</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820133600 -0300" stop="20210820140000 -0300" channel="Discovery HD World">
+    <title lang="pt">Fast Food Mania</title>
+    <desc lang="pt">Este episódio terá muita tradição e nostalgia com as matrizes originais de famosas cadeias de cachorro-quente, lanches e donuts, que ainda satisfazem seus clientes, como há décadas atrás.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/fastfoodmania01.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820140000 -0300" stop="20210820142400 -0300" channel="Discovery HD World">
+    <title lang="pt">Fast Food Mania</title>
+    <desc lang="pt">Neste episódio, o desjejum dos campeões. Com bons lugares para tomar o café da manhã, como Dunkin' Donuts, Sonic e Cinnabon, ninguém mais passa fome nas primeiras horas do dia.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/fastfoodmania01.jpg" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820142400 -0300" stop="20210820144800 -0300" channel="Discovery HD World">
+    <title lang="pt">Segredos das Ilhas</title>
+    <title lang="en">Island Secrets</title>
+    <desc lang="pt">São Vicente e Granadinas são um paraíso caribenho repleto de misteriosas ruínas coloniais, resorts privativos, praias ocultas e feiras livres. Descubra os pontos turísticos e outras atrações destas ilhas fascinantes.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820144800 -0300" stop="20210820151200 -0300" channel="Discovery HD World">
+    <title lang="pt">Segredos das Ilhas</title>
+    <title lang="en">Island Secrets</title>
+    <desc lang="pt">Descubra a beleza rústica das Ilhas de San Juan, no estado de Washington. Com suas antigas escunas, penhascos incríveis, baleias majestosas e hotéis charmosos, é um destino que vale a pena ser conhecido.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820151200 -0300" stop="20210820153600 -0300" channel="Discovery HD World">
+    <title lang="pt">Montanhas-Russas Extremas</title>
+    <title lang="en">Insane Coaster Wars</title>
+    <desc lang="pt">Conheça as montanhas-russas mais altas e emocionantes dos EUA. Qual delas vencerá a disputa? A Intimidator da Carolina do Norte, a Millennium Force de Cedar Point, a Diamondback de Ohio ou a Kingda Ka de Nova Jersey?(n)</desc>
+    <credits>
+      <director>Todd Boudreaux</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820153600 -0300" stop="20210820160000 -0300" channel="Discovery HD World">
+    <title lang="pt">Montanhas-Russas Extremas</title>
+    <title lang="en">Insane Coaster Wars</title>
+    <desc lang="pt">Conheça montanhas-russas que mudam de direção e deixam os passageiros de cabelo em pé. Qual delas superará as concorrentes? A Kraken de Orlando, a Hydra The Revenge, da Pensilvânia, ou a Wild Eagle do Tennessee?(n)</desc>
+    <credits>
+      <director>Todd Boudreaux</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820160000 -0300" stop="20210820162400 -0300" channel="Discovery HD World">
+    <title lang="pt">7 Piscinas Incríveis</title>
+    <title lang="en">7 Water Wonders</title>
+    <desc lang="pt">Resorts de todo o mundo estão reinventando os momentos de lazer à beira da piscina. De um elevador de água a um aquário onde se pode nadar, venha mergulhar nas piscinas mais incríveis do planeta.(n)</desc>
+    <credits>
+      <actor>Rick Federman</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820162400 -0300" stop="20210820164800 -0300" channel="Discovery HD World">
+    <title lang="pt">7 Piscinas Incríveis</title>
+    <title lang="en">7 Water Wonders</title>
+    <desc lang="pt">Venha mergulhar nas melhores piscinas VIP do planeta. Conheça um dos melhores lugares para relaxar à beira da piscina em Miami, uma experiência digna de um astro de rock e uma piscina para a família inteira.(n)</desc>
+    <credits>
+      <actor>Rick Federman</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820164800 -0300" stop="20210820173600 -0300" channel="Discovery HD World">
+    <title lang="pt">Hotéis Extraordinários</title>
+    <title lang="en">Extreme Hotels</title>
+    <desc lang="pt">Anthony Melchiorri visita quatro dos hotéis mais apavorantes do mundo, incluindo um castelo do século 12 assombrado pelas vítimas de sua câmera de tortura.(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820173600 -0300" stop="20210820182400 -0300" channel="Discovery HD World">
+    <title lang="pt">Lugares Secretos para Nadar</title>
+    <title lang="en">Top Secret Swimming Holes</title>
+    <desc lang="pt">Vamos visitar locais com águas praticamente intocadas, conhecidas apenas pelos locais da República Dominicana, Utah, Ilha de Páscoa e Havaí.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820182400 -0300" stop="20210820184800 -0300" channel="Discovery HD World">
+    <title lang="pt">Menos É Demais</title>
+    <desc lang="pt">Fernanda controla os gastos da empresa onde trabalha, mas não tem ideia do quanto já gastou em calças e sapatos! Ela tem 40 calças jeans e transformou seu quarto em um caos de roupas e sapatos!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_menosedemais01.jpg" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820184800 -0300" stop="20210820191200 -0300" channel="Discovery HD World">
+    <title lang="pt">Menos É Demais</title>
+    <desc lang="pt">A Carol gosta tanto de sapatos que passa por verdadeiras aventuras atrás de um par. Agora, vai precisar da ajuda de Chiara Gadaleta para desapegar e conseguir realizar o sonho de receber amigos na varanda da sua casa.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_menosedemais01.jpg" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820191200 -0300" stop="20210820193600 -0300" channel="Discovery HD World">
+    <title lang="pt">Vende-se Pântano</title>
+    <title lang="en">Buying The Bayou</title>
+    <desc lang="pt">Mac, Kelsey e sua filha de 5 meses procuram uma casa no rio Bogue Chitto. Eles estão dispostos a vasculhar os estados de Mississippi e Louisiana até achar o ponto perfeito para entrar no rio de boia.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820193600 -0300" stop="20210820200000 -0300" channel="Discovery HD World">
+    <title lang="pt">Vende-se Pântano</title>
+    <title lang="en">Buying The Bayou</title>
+    <desc lang="pt">Alligator Point, na Flórida, é uma cidade tão pantanosa e selvagem que ficou conhecida como "costa esquecida". A região parece um pântano, e por isso Richard e Julia querem uma casa aqui.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <episode-num system="onscreen">S2 E14</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820202400 -0300" channel="Discovery HD World">
+    <title lang="pt">Vida Nova em um Novo País</title>
+    <title lang="en">Could I Live There?</title>
+    <desc lang="pt">Depois de receber uma proposta de emprego em Medellín, Marius pensa em se mudar da Califórnia para a cidade colombiana com a namorada, Kristie. Como ele pretende trazer os filhos, a segurança é uma preocupação.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Viagem</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820202400 -0300" stop="20210820204800 -0300" channel="Discovery HD World">
+    <title lang="pt">Vida Nova em um Novo País</title>
+    <title lang="en">Could I Live There?</title>
+    <desc lang="pt">Mishka recebe uma proposta de emprego em Berlim, mas não tem certeza se deve se mudar para a capital alemã com seu namorado, Blake. Depois de uma noite de música, comida e arte, eles precisam tomar uma decisão.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Viagem</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820204800 -0300" stop="20210820211200 -0300" channel="Discovery HD World">
+    <title lang="pt">7 Piscinas Incríveis</title>
+    <title lang="en">7 Water Wonders</title>
+    <desc lang="pt">Resorts de todo o mundo estão reinventando os momentos de lazer à beira da piscina. De um elevador de água a um aquário onde se pode nadar, venha mergulhar nas piscinas mais incríveis do planeta.(n)</desc>
+    <credits>
+      <actor>Rick Federman</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820211200 -0300" stop="20210820213600 -0300" channel="Discovery HD World">
+    <title lang="pt">7 Piscinas Incríveis</title>
+    <title lang="en">7 Water Wonders</title>
+    <desc lang="pt">Venha mergulhar nas melhores piscinas VIP do planeta. Conheça um dos melhores lugares para relaxar à beira da piscina em Miami, uma experiência digna de um astro de rock e uma piscina para a família inteira.(n)</desc>
+    <credits>
+      <actor>Rick Federman</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820213600 -0300" stop="20210820222400 -0300" channel="Discovery HD World">
+    <title lang="pt">Hotéis Extraordinários</title>
+    <title lang="en">Extreme Hotels</title>
+    <desc lang="pt">Anthony Melchiorri visita quatro dos hotéis mais apavorantes do mundo, incluindo um castelo do século 12 assombrado pelas vítimas de sua câmera de tortura.(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820222400 -0300" stop="20210820231200 -0300" channel="Discovery HD World">
+    <title lang="pt">Lugares Secretos para Nadar</title>
+    <title lang="en">Top Secret Swimming Holes</title>
+    <desc lang="pt">Vamos visitar locais com águas praticamente intocadas, conhecidas apenas pelos locais da República Dominicana, Utah, Ilha de Páscoa e Havaí.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820231200 -0300" stop="20210821000000 -0300" channel="Discovery HD World">
+    <title lang="pt">Trailers Incríveis</title>
+    <title lang="en">Extreme Rvs</title>
+    <desc lang="pt">No Texas, a Foretravel Motorcoach constrói um trailer de 1,2 milhão de dólares. Em Indiana, a empresa American Coach constrói um trailer luxuoso para festas para uma empresa de marketing esportivo.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821000000 -0300" stop="20210821002400 -0300" channel="Discovery HD World">
+    <title lang="pt">Vende-se Pântano</title>
+    <title lang="en">Buying The Bayou</title>
+    <desc lang="pt">Mac, Kelsey e sua filha de 5 meses procuram uma casa no rio Bogue Chitto. Eles estão dispostos a vasculhar os estados de Mississippi e Louisiana até achar o ponto perfeito para entrar no rio de boia.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821002400 -0300" stop="20210821004800 -0300" channel="Discovery HD World">
+    <title lang="pt">Vende-se Pântano</title>
+    <title lang="en">Buying The Bayou</title>
+    <desc lang="pt">Alligator Point, na Flórida, é uma cidade tão pantanosa e selvagem que ficou conhecida como "costa esquecida". A região parece um pântano, e por isso Richard e Julia querem uma casa aqui.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <episode-num system="onscreen">S2 E14</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821004800 -0300" stop="20210821011200 -0300" channel="Discovery HD World">
+    <title lang="pt">Vida Nova em um Novo País</title>
+    <title lang="en">Could I Live There?</title>
+    <desc lang="pt">Depois de receber uma proposta de emprego em Medellín, Marius pensa em se mudar da Califórnia para a cidade colombiana com a namorada, Kristie. Como ele pretende trazer os filhos, a segurança é uma preocupação.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Viagem</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821011200 -0300" stop="20210821013600 -0300" channel="Discovery HD World">
+    <title lang="pt">Vida Nova em um Novo País</title>
+    <title lang="en">Could I Live There?</title>
+    <desc lang="pt">Mishka recebe uma proposta de emprego em Berlim, mas não tem certeza se deve se mudar para a capital alemã com seu namorado, Blake. Depois de uma noite de música, comida e arte, eles precisam tomar uma decisão.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Viagem</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821013600 -0300" stop="20210821020000 -0300" channel="Discovery HD World">
+    <title lang="pt">Viciados em Viagens</title>
+    <title lang="en">Tripaholics</title>
+    <desc lang="pt">Mike McGuiness e David Arquette descobrem o que é legal em Nova Orleans, também chamada de Big Easy.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821020000 -0300" stop="20210821022400 -0300" channel="Discovery HD World">
+    <title lang="pt">Viciados em Viagens</title>
+    <title lang="en">Tripaholics</title>
+    <desc lang="pt">David Arquette e Mike McGuiness aterrissam em Tel Aviv, Israel.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821022400 -0300" stop="20210821024800 -0300" channel="Discovery HD World">
+    <title lang="pt">Segredos das Ilhas</title>
+    <title lang="en">Island Secrets</title>
+    <desc lang="pt">São Vicente e Granadinas são um paraíso caribenho repleto de misteriosas ruínas coloniais, resorts privativos, praias ocultas e feiras livres. Descubra os pontos turísticos e outras atrações destas ilhas fascinantes.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821024800 -0300" stop="20210821031200 -0300" channel="Discovery HD World">
+    <title lang="pt">Segredos das Ilhas</title>
+    <title lang="en">Island Secrets</title>
+    <desc lang="pt">Descubra a beleza rústica das Ilhas de San Juan, no estado de Washington. Com suas antigas escunas, penhascos incríveis, baleias majestosas e hotéis charmosos, é um destino que vale a pena ser conhecido.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821031200 -0300" stop="20210821033600 -0300" channel="Discovery HD World">
+    <title lang="pt">Montanhas-Russas Extremas</title>
+    <title lang="en">Insane Coaster Wars</title>
+    <desc lang="pt">Duas montanhas-russas dos EUA competem com modelos de Abu Dhabi e Espanha.(n)</desc>
+    <credits>
+      <director>Todd Boudreaux</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821033600 -0300" stop="20210821040000 -0300" channel="Discovery HD World">
+    <title lang="pt">Montanhas-Russas Extremas</title>
+    <title lang="en">Insane Coaster Wars</title>
+    <desc lang="pt">Estas montanhas-russas atingem velocidades alucinantes. Qual delas chegará na frente da concorrência? Top Thrill Dragster de Ohio, a Desperado de Nevada, a Bizarro da Nova Inglaterra, ou a Xcelerator da Califórnia?(n)</desc>
+    <credits>
+      <director>Todd Boudreaux</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821040000 -0300" stop="20210821042400 -0300" channel="Discovery HD World">
+    <title lang="pt">Fast Food Mania</title>
+    <desc lang="pt">Este episódio terá muita tradição e nostalgia com as matrizes originais de famosas cadeias de cachorro-quente, lanches e donuts, que ainda satisfazem seus clientes, como há décadas atrás.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/fastfoodmania01.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821042400 -0300" stop="20210821044800 -0300" channel="Discovery HD World">
+    <title lang="pt">Fast Food Mania</title>
+    <desc lang="pt">Neste episódio, o desjejum dos campeões. Com bons lugares para tomar o café da manhã, como Dunkin' Donuts, Sonic e Cinnabon, ninguém mais passa fome nas primeiras horas do dia.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/fastfoodmania01.jpg" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821044800 -0300" stop="20210821051200 -0300" channel="Discovery HD World">
+    <title lang="pt">Segredos das Ilhas</title>
+    <title lang="en">Island Secrets</title>
+    <desc lang="pt">São Vicente e Granadinas são um paraíso caribenho repleto de misteriosas ruínas coloniais, resorts privativos, praias ocultas e feiras livres. Descubra os pontos turísticos e outras atrações destas ilhas fascinantes.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821051200 -0300" stop="20210821053600 -0300" channel="Discovery HD World">
+    <title lang="pt">Segredos das Ilhas</title>
+    <title lang="en">Island Secrets</title>
+    <desc lang="pt">Descubra a beleza rústica das Ilhas de San Juan, no estado de Washington. Com suas antigas escunas, penhascos incríveis, baleias majestosas e hotéis charmosos, é um destino que vale a pena ser conhecido.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821053600 -0300" stop="20210821060000 -0300" channel="Discovery HD World">
+    <title lang="pt">Montanhas-Russas Extremas</title>
+    <title lang="en">Insane Coaster Wars</title>
+    <desc lang="pt">Conheça as montanhas-russas mais altas e emocionantes dos EUA. Qual delas vencerá a disputa? A Intimidator da Carolina do Norte, a Millennium Force de Cedar Point, a Diamondback de Ohio ou a Kingda Ka de Nova Jersey?(n)</desc>
+    <credits>
+      <director>Todd Boudreaux</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821062400 -0300" channel="Discovery HD World">
+    <title lang="pt">Montanhas-Russas Extremas</title>
+    <title lang="en">Insane Coaster Wars</title>
+    <desc lang="pt">Conheça montanhas-russas que mudam de direção e deixam os passageiros de cabelo em pé. Qual delas superará as concorrentes? A Kraken de Orlando, a Hydra The Revenge, da Pensilvânia, ou a Wild Eagle do Tennessee?(n)</desc>
+    <credits>
+      <director>Todd Boudreaux</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821062400 -0300" stop="20210821071200 -0300" channel="Discovery HD World">
+    <title lang="pt">Reforma Radical</title>
+    <title lang="en">Restoration Wild</title>
+    <desc lang="pt">Jay Chaiken viaja para uma fazenda em Bedford, Indiana, para transformar um celeiro em um charmoso espaço de eventos. Com seu talento para a restauração, o celeiro revive seus dias de glória.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_reformaradical01.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821071200 -0300" stop="20210821073600 -0300" channel="Discovery HD World">
+    <title lang="pt">Exposed</title>
+    <desc lang="pt">Conheça de perto os festivais e férias mais originais dos EUA.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821073600 -0300" stop="20210821080000 -0300" channel="Discovery HD World">
+    <title lang="pt">Exposed</title>
+    <desc lang="pt">Tudo o que você sempre quis saber sobre competições culinárias e muito mais.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821080000 -0300" stop="20210821082400 -0300" channel="Discovery HD World">
+    <title lang="pt">Montanhas-Russas Extremas</title>
+    <title lang="en">Insane Coaster Wars</title>
+    <desc lang="pt">Duas montanhas-russas dos EUA competem com modelos de Abu Dhabi e Espanha.(n)</desc>
+    <credits>
+      <director>Todd Boudreaux</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821082400 -0300" stop="20210821084800 -0300" channel="Discovery HD World">
+    <title lang="pt">Montanhas-Russas Extremas</title>
+    <title lang="en">Insane Coaster Wars</title>
+    <desc lang="pt">Estas montanhas-russas atingem velocidades alucinantes. Qual delas chegará na frente da concorrência? Top Thrill Dragster de Ohio, a Desperado de Nevada, a Bizarro da Nova Inglaterra, ou a Xcelerator da Califórnia?(n)</desc>
+    <credits>
+      <director>Todd Boudreaux</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821084800 -0300" stop="20210821091200 -0300" channel="Discovery HD World">
+    <title lang="pt">Fast Food Mania</title>
+    <desc lang="pt">Este episódio terá muita tradição e nostalgia com as matrizes originais de famosas cadeias de cachorro-quente, lanches e donuts, que ainda satisfazem seus clientes, como há décadas atrás.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/fastfoodmania01.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821091200 -0300" stop="20210821093600 -0300" channel="Discovery HD World">
+    <title lang="pt">Fast Food Mania</title>
+    <desc lang="pt">Neste episódio, o desjejum dos campeões. Com bons lugares para tomar o café da manhã, como Dunkin' Donuts, Sonic e Cinnabon, ninguém mais passa fome nas primeiras horas do dia.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/fastfoodmania01.jpg" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821093600 -0300" stop="20210821100000 -0300" channel="Discovery HD World">
+    <title lang="pt">Segredos das Ilhas</title>
+    <title lang="en">Island Secrets</title>
+    <desc lang="pt">São Vicente e Granadinas são um paraíso caribenho repleto de misteriosas ruínas coloniais, resorts privativos, praias ocultas e feiras livres. Descubra os pontos turísticos e outras atrações destas ilhas fascinantes.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821100000 -0300" stop="20210821102400 -0300" channel="Discovery HD World">
+    <title lang="pt">Segredos das Ilhas</title>
+    <title lang="en">Island Secrets</title>
+    <desc lang="pt">Descubra a beleza rústica das Ilhas de San Juan, no estado de Washington. Com suas antigas escunas, penhascos incríveis, baleias majestosas e hotéis charmosos, é um destino que vale a pena ser conhecido.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821102400 -0300" stop="20210821104800 -0300" channel="Discovery HD World">
+    <title lang="pt">Montanhas-Russas Extremas</title>
+    <title lang="en">Insane Coaster Wars</title>
+    <desc lang="pt">Conheça as montanhas-russas mais altas e emocionantes dos EUA. Qual delas vencerá a disputa? A Intimidator da Carolina do Norte, a Millennium Force de Cedar Point, a Diamondback de Ohio ou a Kingda Ka de Nova Jersey?(n)</desc>
+    <credits>
+      <director>Todd Boudreaux</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821104800 -0300" stop="20210821111200 -0300" channel="Discovery HD World">
+    <title lang="pt">Montanhas-Russas Extremas</title>
+    <title lang="en">Insane Coaster Wars</title>
+    <desc lang="pt">Conheça montanhas-russas que mudam de direção e deixam os passageiros de cabelo em pé. Qual delas superará as concorrentes? A Kraken de Orlando, a Hydra The Revenge, da Pensilvânia, ou a Wild Eagle do Tennessee?(n)</desc>
+    <credits>
+      <director>Todd Boudreaux</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821111200 -0300" stop="20210821120000 -0300" channel="Discovery HD World">
+    <title lang="pt">Reforma Radical</title>
+    <title lang="en">Restoration Wild</title>
+    <desc lang="pt">Jay Chaiken viaja para uma fazenda em Bedford, Indiana, para transformar um celeiro em um charmoso espaço de eventos. Com seu talento para a restauração, o celeiro revive seus dias de glória.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_reformaradical01.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821120000 -0300" stop="20210821122400 -0300" channel="Discovery HD World">
+    <title lang="pt">Exposed</title>
+    <desc lang="pt">Conheça de perto os festivais e férias mais originais dos EUA.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821122400 -0300" stop="20210821124800 -0300" channel="Discovery HD World">
+    <title lang="pt">Exposed</title>
+    <desc lang="pt">Tudo o que você sempre quis saber sobre competições culinárias e muito mais.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821124800 -0300" stop="20210821131200 -0300" channel="Discovery HD World">
+    <title lang="pt">Diversão Radical</title>
+    <title lang="en">Ride-Iculous</title>
+    <desc lang="pt">Vamos mergulhar 165 metros em um cânion da África do Sul no salto de pêndulo mais alto do mundo.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821131200 -0300" stop="20210821133600 -0300" channel="Discovery HD World">
+    <title lang="pt">Diversão Radical</title>
+    <title lang="en">Ride-Iculous</title>
+    <desc lang="pt">Neste episódio, vamos até a Inglaterra para ser fixados à asa de um avião e lutar contra ventos de 225 km/h.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821133600 -0300" stop="20210821140000 -0300" channel="Discovery HD World">
+    <title lang="pt">Viagens Estranhas</title>
+    <title lang="en">Strange Trips</title>
+    <desc lang="pt">Conheça o hotel mais estranho do mundo; visite uma metrópole de mortos; e descubra o que se esconde nas profundezas frias do lago Tahoe.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821140000 -0300" stop="20210821142400 -0300" channel="Discovery HD World">
+    <title lang="pt">Viagens Estranhas</title>
+    <title lang="en">Strange Trips</title>
+    <desc lang="pt">Nossos especialistas em viagens entram em uma caverna do Alabama para conhecer um predador raro e peculiar, que usa uma tática interessante para atrair presas.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821142400 -0300" stop="20210821151200 -0300" channel="Discovery HD World">
+    <title lang="pt">Lugares Secretos para Nadar</title>
+    <title lang="en">Top Secret Swimming Holes</title>
+    <desc lang="pt">Vamos revelar alguns dos segredos mais bem guardados do planeta, como a cachoeira do Buracão; uma queda d'agua nas profundezas da floresta tropical; e um safári animal exótico que leva a uma praia secreta.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821151200 -0300" stop="20210821153600 -0300" channel="Discovery HD World">
+    <title lang="pt">Exposed</title>
+    <desc lang="pt">Tudo o que você sempre quis saber sobre competições culinárias e muito mais.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821153600 -0300" stop="20210821160000 -0300" channel="Discovery HD World">
+    <title lang="pt">Exposed</title>
+    <desc lang="pt">Tudo o que você sempre quis saber sobre trailers automotivos e muito mais.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821160000 -0300" stop="20210821162400 -0300" channel="Discovery HD World">
+    <title lang="pt">Viciados em Viagens</title>
+    <title lang="en">Tripaholics</title>
+    <desc lang="pt">Mike McGuiness e David Arquette descobrem o que é legal em Nova Orleans, também chamada de Big Easy.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821162400 -0300" stop="20210821164800 -0300" channel="Discovery HD World">
+    <title lang="pt">Viciados em Viagens</title>
+    <title lang="en">Tripaholics</title>
+    <desc lang="pt">David Arquette e Mike McGuiness aterrissam em Tel Aviv, Israel.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821164800 -0300" stop="20210821171200 -0300" channel="Discovery HD World">
+    <title lang="pt">Segredos das Ilhas</title>
+    <title lang="en">Island Secrets</title>
+    <desc lang="pt">São Vicente e Granadinas são um paraíso caribenho repleto de misteriosas ruínas coloniais, resorts privativos, praias ocultas e feiras livres. Descubra os pontos turísticos e outras atrações destas ilhas fascinantes.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821171200 -0300" stop="20210821173600 -0300" channel="Discovery HD World">
+    <title lang="pt">Segredos das Ilhas</title>
+    <title lang="en">Island Secrets</title>
+    <desc lang="pt">Descubra a beleza rústica das Ilhas de San Juan, no estado de Washington. Com suas antigas escunas, penhascos incríveis, baleias majestosas e hotéis charmosos, é um destino que vale a pena ser conhecido.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821173600 -0300" stop="20210821180000 -0300" channel="Discovery HD World">
+    <title lang="pt">Montanhas-Russas Extremas</title>
+    <title lang="en">Insane Coaster Wars</title>
+    <desc lang="pt">Duas montanhas-russas dos EUA competem com modelos de Abu Dhabi e Espanha.(n)</desc>
+    <credits>
+      <director>Todd Boudreaux</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821180000 -0300" stop="20210821182400 -0300" channel="Discovery HD World">
+    <title lang="pt">Montanhas-Russas Extremas</title>
+    <title lang="en">Insane Coaster Wars</title>
+    <desc lang="pt">Estas montanhas-russas atingem velocidades alucinantes. Qual delas chegará na frente da concorrência? Top Thrill Dragster de Ohio, a Desperado de Nevada, a Bizarro da Nova Inglaterra, ou a Xcelerator da Califórnia?(n)</desc>
+    <credits>
+      <director>Todd Boudreaux</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821182400 -0300" stop="20210821184800 -0300" channel="Discovery HD World">
+    <title lang="pt">Menos É Demais</title>
+    <desc lang="pt">A Carol gosta tanto de sapatos que passa por verdadeiras aventuras atrás de um par. Agora, vai precisar da ajuda de Chiara Gadaleta para desapegar e conseguir realizar o sonho de receber amigos na varanda da sua casa.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_menosedemais01.jpg" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821184800 -0300" stop="20210821191200 -0300" channel="Discovery HD World">
+    <title lang="pt">Menos É Demais</title>
+    <desc lang="pt">Marcela divide o quarto com a irmã Letícia, mas seu consumo de roupas, bolsas e sapatos dominou quase todo o cômodo, e Letícia mal tem espaço para estudar.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_menosedemais01.jpg" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821191200 -0300" stop="20210821193600 -0300" channel="Discovery HD World">
+    <title lang="pt">Segredos das Ilhas</title>
+    <title lang="en">Island Secrets</title>
+    <desc lang="pt">São Vicente e Granadinas são um paraíso caribenho repleto de misteriosas ruínas coloniais, resorts privativos, praias ocultas e feiras livres. Descubra os pontos turísticos e outras atrações destas ilhas fascinantes.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821193600 -0300" stop="20210821200000 -0300" channel="Discovery HD World">
+    <title lang="pt">Segredos das Ilhas</title>
+    <title lang="en">Island Secrets</title>
+    <desc lang="pt">Descubra a beleza rústica das Ilhas de San Juan, no estado de Washington. Com suas antigas escunas, penhascos incríveis, baleias majestosas e hotéis charmosos, é um destino que vale a pena ser conhecido.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821200000 -0300" stop="20210821202400 -0300" channel="Discovery HD World">
+    <title lang="pt">Montanhas-Russas Extremas</title>
+    <title lang="en">Insane Coaster Wars</title>
+    <desc lang="pt">Conheça as montanhas-russas mais altas e emocionantes dos EUA. Qual delas vencerá a disputa? A Intimidator da Carolina do Norte, a Millennium Force de Cedar Point, a Diamondback de Ohio ou a Kingda Ka de Nova Jersey?(n)</desc>
+    <credits>
+      <director>Todd Boudreaux</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821202400 -0300" stop="20210821204800 -0300" channel="Discovery HD World">
+    <title lang="pt">Montanhas-Russas Extremas</title>
+    <title lang="en">Insane Coaster Wars</title>
+    <desc lang="pt">Conheça montanhas-russas que mudam de direção e deixam os passageiros de cabelo em pé. Qual delas superará as concorrentes? A Kraken de Orlando, a Hydra The Revenge, da Pensilvânia, ou a Wild Eagle do Tennessee?(n)</desc>
+    <credits>
+      <director>Todd Boudreaux</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821204800 -0300" stop="20210821211200 -0300" channel="Discovery HD World">
+    <title lang="pt">Minha Casa nas Montanhas</title>
+    <desc lang="pt">Scott "Boss" Hogg e Diana são aventureiros que decidem deixar o litoral do Maine para morar nas Rochosas. Adeptos de um estilo de vida rústico, eles procuram uma casa simples, mas confortável.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821211200 -0300" stop="20210821213600 -0300" channel="Discovery HD World">
+    <title lang="pt">Minha Casa nas Montanhas</title>
+    <desc lang="pt">Os amigos de Matt Eastman o chamam de Pé Grande porque ele se sente em casa nas montanhas, mas sua esposa, Michelle, nem tanto. Eles visitam três casas bem próximas da natureza em Park City, Utah.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821213600 -0300" stop="20210821222400 -0300" channel="Discovery HD World">
+    <title lang="pt">Lugares Secretos para Nadar</title>
+    <title lang="en">Top Secret Swimming Holes</title>
+    <desc lang="pt">Neste episódio, vamos nadar com tubarões em Belize; conhecer uma cascata à beira-mar na Costa Rica; praticar kitesurf no Caribe; e passear de quadriciclo na África do Sul.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821222400 -0300" stop="20210821231200 -0300" channel="Discovery HD World">
+    <title lang="pt">Lugares Secretos para Nadar</title>
+    <title lang="en">Top Secret Swimming Holes</title>
+    <desc lang="pt">Vamos revelar alguns dos segredos mais bem guardados do planeta, como a cachoeira do Buracão; uma queda d'agua nas profundezas da floresta tropical; e um safári animal exótico que leva a uma praia secreta.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821231200 -0300" stop="20210821233600 -0300" channel="Discovery HD World">
+    <title lang="pt">Diversão Radical</title>
+    <title lang="en">Ride-Iculous</title>
+    <desc lang="pt">Perca o fôlego descendo na tirolesa mais rápida do planeta.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821233600 -0300" stop="20210822000000 -0300" channel="Discovery HD World">
+    <title lang="pt">Diversão Radical</title>
+    <title lang="en">Ride-Iculous</title>
+    <desc lang="pt">Acompanhe um salto de BASE jumping a 154 metros de altura em um cânion em Idaho.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820005300 -0300" stop="20210820014200 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Ame-a ou Deixe-a: Austrália</title>
+    <desc lang="pt">Em Sutherland Shire, Nova Gales do Sul, Isaac e Renee enfrentam um dilema: mudar para um imóvel novo ou continuar em uma casa pequena que já não atende a suas necessidades.(n)</desc>
+    <credits>
+      <actor>Neale Whitaker</actor>
+      <actor>Andrew Winter</actor>
+    </credits>
+    <category lang="pt">Comportamento</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820014200 -0300" stop="20210820024800 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Te Devo Essa! Brasil</title>
+    <desc lang="pt">Desde que voltou a morar no brasil, a apresentadora Luciana Gimenez tem Lorice como sua melhor amiga e companheira de todas as horas. Luciana se une a dony de nuccioe renato mendonça para repaginar o apartamento da amiga.(n)</desc>
+    <credits>
+      <director>Rafael Gessulo</director>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820024800 -0300" stop="20210820033700 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
+    <desc lang="pt">Um casal recebe a notícia de que não poderia ter filhos, mas depois de adquirir uma casa pequena de dois dormitórios, agora essa família terá 4 membros.(n)</desc>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820033700 -0300" stop="20210820042500 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
+    <desc lang="pt">Depois de sete anos morando no exterior, um casal volta ao país para criar seus filhos, mas a casa está ficando apertada e eles precisam de Jonathan e Drew para deixar o espaço aberto e funcional.(n)</desc>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820042500 -0300" stop="20210820051200 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Irmãos À Obra: O Duelo</title>
+    <desc lang="pt">Jonathan cria um espaço para o escritório da residência, enquanto Drew enfrenta dificuldades para executar sua ideia para a “ala de bem-estar”. O vencedor será escolhido pela jurada convidada Breegan Jane.(n)</desc>
+    <category lang="pt">Competição</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820051200 -0300" stop="20210820060000 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Ame-a ou Deixe-a: Austrália</title>
+    <desc lang="pt">Tracey dedicou dez anos de sua vida cuidando do belo jardim de sua casa. Mas seu marido, Antony adora mudanças e está ansioso para mudar para um lugar novo.(n)</desc>
+    <credits>
+      <actor>Neale Whitaker</actor>
+      <actor>Andrew Winter</actor>
+    </credits>
+    <category lang="pt">Comportamento</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820060000 -0300" stop="20210820062200 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Em Busca Da Casa Perfeita</title>
+    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <credits>
+      <actor>Andromeda Dunker</actor>
+      <actor>Suzanne Whang</actor>
+      <actor>Heather Atwood-Maher</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820062200 -0300" stop="20210820064600 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Em Busca Da Casa Perfeita</title>
+    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <credits>
+      <actor>Andromeda Dunker</actor>
+      <actor>Suzanne Whang</actor>
+      <actor>Heather Atwood-Maher</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820064600 -0300" stop="20210820083200 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Masterchef</title>
+    <desc lang="pt">Ana Paula Padrão apresenta o maior reality de culinária do mundo, que revela os novos talentos da cozinha brasileira.(n)</desc>
+    <category lang="pt">Culinária</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820083200 -0300" stop="20210820092100 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">SOS Restaurante</title>
+    <desc lang="pt">Há três anos, Gigi abriu o Gigi's Music Café em Sunrise, Flórida, mas, agora, seu péssimo gerenciamento está levando o restaurante à falência e afetando sua filha Semone.(n)</desc>
+    <credits>
+      <actor>Robert Irvine</actor>
+    </credits>
+    <category lang="pt">Culinária</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820092100 -0300" stop="20210820101000 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">SOS Restaurante</title>
+    <desc lang="pt">A fim de melhor demonstrar os problemas do restaurante, Robert chega de surpresa na Tornatore's Pizzeria em Orlando, Flórida, e ninguém sabe o que vai acontecer.(n)</desc>
+    <credits>
+      <actor>Robert Irvine</actor>
+    </credits>
+    <category lang="pt">Culinária</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820101000 -0300" stop="20210820105900 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Ame-a ou Deixe-a: Austrália</title>
+    <desc lang="pt">Vicki está ansiosa para se mudar de sua casa atual, que é antiga e pouco funcional. Seu marido, Mark, adora a vista do imóvel e acredita que os problemas atuais podem ser resolvidos.(n)</desc>
+    <credits>
+      <director>Brian Walsh</director>
+      <actor>Neale Whitaker</actor>
+      <actor>Andrew Winter</actor>
+    </credits>
+    <category lang="pt">Comportamento</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820105900 -0300" stop="20210820114900 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Irmãos à Obra</title>
+    <sub-title lang="pt">Compra e Venda</sub-title>
+    <desc lang="pt">Charlie, Renee e suas três filhas adoram cozinhar. Mas com uma cozinha do tamanho de um apartamento e muitas escadas, eles estão ansiosos por um imóvel mais bem distribuído.(n)</desc>
+    <credits>
+      <actor>Drew Scott</actor>
+      <actor>Jonathan Silver Scott</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820114900 -0300" stop="20210820124200 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Irmãos à Obra</title>
+    <desc lang="pt">Sukhvir e Beeban se cansaram de viver em um apartamento e decidiram começar uma família numa casa espaçosa no subúrbio. O único problema é uma lista interminável de desejos com orçamento limitado.(n)</desc>
+    <credits>
+      <director>Marc Simard</director>
+      <actor>Drew Scott</actor>
+      <actor>Jonathan Silver Scott</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820124200 -0300" stop="20210820142800 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Os Busbys + 5</title>
+    <desc lang="pt">Adam e Danielle querem que as meninas tenham uma alimentação mais saudável, mas nem todas gostam das novas opções vegetarianas. A família recebe uma notícia sobre a casa e precisa tomar uma decisão importante.(n)</desc>
+    <credits>
+      <director>Jason Cooper</director>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820142800 -0300" stop="20210820152100 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">A Família Derrico</title>
+    <desc lang="pt">Dawsyn está em casa, mas falta pouco para a última cirurgia e o clima anda tenso. A divisão de responsabilidades faz Karen questionar se ela e Dawsyn estariam recebendo o apoio necessário.(n)</desc>
+    <category lang="pt">Comportamento</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820152100 -0300" stop="20210820161400 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Nosso Primeiro Filho</title>
+    <desc lang="pt">Ashley e Tyson levam seus quádruplos para casa. Doug e Mars têm mais um problema enquanto tentam cuidar de Sofia. Destiny dá à luz ao bebê Capri. Kristina volta ao trabalho depois de ter Lincoln.(n)</desc>
+    <category lang="pt">Comportamento</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820161400 -0300" stop="20210820170700 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Reforma Total Com Nate E Jeremiah</title>
+    <desc lang="pt">A reforma dos sonhos de Allan e Janelle foi interrompida há seis meses devido a problemas de saúde. O casal vive em meio a obras inacabadas, o que representa um grande desafio para Nate e Jeremiah.(n)</desc>
+    <category lang="pt">Comportamento</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820170700 -0300" stop="20210820180000 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Ame-a ou Deixe-a: Vancouver</title>
+    <desc lang="pt">A casa de Karalyn e Todd foi construída nos anos 60 e precisa de mais do que uma reforma. Jillian precisa recriar toda a disposição dos cômodos, enquanto Todd tenta encantar o casal com uma casa de vista espetacular.(n)</desc>
+    <category lang="pt">Comportamento</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820182700 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Um Dia de Chef</title>
+    <desc lang="pt">Edson é um paulistano que está acostumado com as mulheres na cozinha. Primeiro, era a mãe e as irmãs que preparavam as refeições. Agora, a comida fica por conta da esposa. Mas esse pensamento ultrapassado vai acabar...(n)</desc>
+    <credits>
+      <actor>Emmanuel Bassoleil</actor>
+    </credits>
+    <category lang="pt">Culinária</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820182700 -0300" stop="20210820185300 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Um Dia de Chef</title>
+    <desc lang="pt">Rafael - ou ‘Batata’ para os íntimos - tem vinte e nove anos, é estudante de filosofia e cartunista e apesar de amar comer carne, mora em uma república com três amigos vegetarianos e veganos que comandam a cozinha.(n)</desc>
+    <credits>
+      <actor>Emmanuel Bassoleil</actor>
+    </credits>
+    <category lang="pt">Culinária</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820185300 -0300" stop="20210820192000 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Um Dia de Chef</title>
+    <desc lang="pt">Giovanna é uma jovem de origem italiana que morou sozinha durante 8 anos na China e, apesar da experiência, não aprendeu a cozinhar absolutamente nada!(n)</desc>
+    <credits>
+      <actor>Emmanuel Bassoleil</actor>
+    </credits>
+    <category lang="pt">Culinária</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820192000 -0300" stop="20210820194600 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Duff: Desafio da Madrugada</title>
+    <desc lang="pt">Conforme o Sol se põe na padaria, dois times seguem para águas turbulentas. Duff Goldman os desafia a criar bolos no formato de navios antes do amanhecer.(n)</desc>
+    <credits>
+      <director>Mark Lafleur</director>
+      <actor>Duff Goldman</actor>
+      <actor>Kelis</actor>
+      <actor>Sherry Yard</actor>
+    </credits>
+    <category lang="pt">Culinária</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820194600 -0300" stop="20210820213900 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Masterchef</title>
+    <desc lang="pt">Ana Paula Padrão apresenta o maior reality de culinária do mundo, que revela os novos talentos da cozinha brasileira.(n)</desc>
+    <category lang="pt">Culinária</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820213900 -0300" stop="20210820223000 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">SOS Restaurante</title>
+    <desc lang="pt">O chef Robert Irvine estará muito ocupado com um café que parece uma sala entulhada, uma cozinha sem nenhum equipamento profissional, uma dona inexperiente e muito teimosa e, além disso, a renovação de uma barbearia!(n)</desc>
+    <credits>
+      <actor>Robert Irvine</actor>
+    </credits>
+    <category lang="pt">Culinária</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820223000 -0300" stop="20210820232100 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">SOS Restaurante</title>
+    <desc lang="pt">Em sua próxima missão, o Chef  Robert Irvine embosca Jodi, dona do restaurante Theresa's em Bradenton, Flórida,depois que sua amiga e contadora, Miriam, enviou um pedido de socorro.(n)</desc>
+    <credits>
+      <actor>Robert Irvine</actor>
+    </credits>
+    <category lang="pt">Culinária</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820232100 -0300" stop="20210821010600 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Bake Off Brasil</title>
+    <sub-title lang="pt">Mão na Massa</sub-title>
+    <desc lang="pt">Confeiteiros amadores são submetidos a provas técnicas e criativas e precisam colocar a mão na massa.(n)</desc>
+    <category lang="pt">Culinária</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210821010600 -0300" stop="20210821015000 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Ame-a ou Deixe-a: Austrália</title>
+    <desc lang="pt">Tracey dedicou dez anos de sua vida cuidando do belo jardim de sua casa. Mas seu marido, Antony adora mudanças e está ansioso para mudar para um lugar novo.(n)</desc>
+    <credits>
+      <actor>Neale Whitaker</actor>
+      <actor>Andrew Winter</actor>
+    </credits>
+    <category lang="pt">Comportamento</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210821015000 -0300" stop="20210821033700 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Masterchef</title>
+    <desc lang="pt">Ana Paula Padrão apresenta o maior reality de culinária do mundo, que revela os novos talentos da cozinha brasileira.(n)</desc>
+    <category lang="pt">Culinária</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821033700 -0300" stop="20210821051600 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Bake Off Brasil</title>
+    <sub-title lang="pt">Mão na Massa</sub-title>
+    <desc lang="pt">Confeiteiros amadores são submetidos a provas técnicas e criativas e precisam colocar a mão na massa.(n)</desc>
+    <category lang="pt">Culinária</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210821051600 -0300" stop="20210821060000 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Ame-a ou Deixe-a: Austrália</title>
+    <desc lang="pt">Nat e Tim moram muito longe do trabalho. Tim quer se mudar para gastar menos tempo no trânsito, mas Nat é apegada à casa atual.(n)</desc>
+    <credits>
+      <actor>Neale Whitaker</actor>
+      <actor>Andrew Winter</actor>
+    </credits>
+    <category lang="pt">Comportamento</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821062500 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">A Sonhada Casa de Praia</title>
+    <desc lang="pt">Depois de visitar a Emerald Isle durante anos, um casal procura um refúgio espaçoso e confortável para receber as filhas adultas durante as férias.(n)</desc>
+    <credits>
+      <actor>John Beach</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210821062500 -0300" stop="20210821064900 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Em Busca Da Casa De Praia</title>
+    <desc lang="pt">Um casal do Arizona quer trocar a areia do deserto pela areia da praia em Brookings, no Oregon.(n)</desc>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210821064900 -0300" stop="20210821071400 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Casa na Praia</title>
+    <desc lang="pt">Um casal da cidade de Nova York quer trocar a selva de pedra pelas praias de Long Beach.(n)</desc>
+    <category lang="pt">Religião</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210821071400 -0300" stop="20210821073900 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Vida No Paraíso: Ilhas</title>
+    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <credits>
+      <actor>Lannon Killea</actor>
+      <actor>Daniel Lovasz Jr</actor>
+      <actor>Catalina Lovasz</actor>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821073900 -0300" stop="20210821080400 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Vida No Paraíso: Caribe</title>
+    <desc lang="pt">Recém-casados da costa oeste americana compram sua primeira casa em Porto Rico.(n)</desc>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210821080400 -0300" stop="20210821082900 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Vida No Paraíso: Bahamas</title>
+    <desc lang="pt">Um homem da Flórida tenta realizar o sonho de seu pai ao comprar uma casa nas Bahamas, mantendo seu legado vivo.(n)</desc>
+    <category lang="pt">Viagem</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210821082900 -0300" stop="20210821085400 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Christina Reforma</title>
+    <desc lang="pt">Cassie, uma velha amiga de Christina, volta a morar na casa de sua infância em Anaheim Hills, Califórnia. A residência não é reformada há 17 anos e Cassie quer uma cozinha e uma sala de jantar novos em folha.(n)</desc>
+    <category lang="pt">Comportamento</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+    <star-rating system="BR">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821085400 -0300" stop="20210821091900 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Christina Reforma</title>
+    <desc lang="pt">A suíte antiquada de um casal precisa de uma reforma urgente. Christina arregaça as mangas e transforma o dormitório em um espaço elegante e funcional.(n)</desc>
+    <credits>
+      <actor>Christina Anstead</actor>
+    </credits>
+    <category lang="pt">Comportamento</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+    <star-rating system="BR">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821091900 -0300" stop="20210821094400 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Reforma À Venda</title>
+    <desc lang="pt">Uma casa de veraneio da década de 1930 é modernizada em Long Beach, Califórnia.(n)</desc>
+    <credits>
+      <actor>Christina Anstead</actor>
+      <actor>Tarek El Moussa</actor>
+      <actor>Taylor El Moussa</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821094400 -0300" stop="20210821100900 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Reforma À Venda</title>
+    <desc lang="pt">Uma casa de quatro dormitórios e um banheiro é reformada segundo os padrões modernos.(n)</desc>
+    <credits>
+      <actor>Christina Anstead</actor>
+      <actor>Thadius Daniels</actor>
+      <actor>Pete de Best</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821100900 -0300" stop="20210821103400 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Reformas A Todo Vapor</title>
+    <desc lang="pt">Eric e Lindsey Bennett se arriscam comprando uma casa modesta em um bairro elegante. Eles precisam tornar a casa competitiva em um mercado difícil, mas uma infestação de cupins ameaça seus planos.(n)</desc>
+    <credits>
+      <director>Ronn Kulisek</director>
+      <actor>Eric Bennett</actor>
+      <actor>Lindsey Bennett</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210821103400 -0300" stop="20210821105900 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Reformas A Todo Vapor</title>
+    <desc lang="pt">Lindsey e Eric Bennett ignoram o lema “escolha bem a localização” e compram uma casa em uma rua movimentada. A casa dos anos 90 ganha espaços com conceito aberto e uma reforma sofisticada para atrair compradores.(n)</desc>
+    <credits>
+      <director>Ronn Kulisek</director>
+      <actor>Eric Bennett</actor>
+      <actor>Lindsey Bennett</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210821105900 -0300" stop="20210821114900 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Ame-a ou Deixe-a: Vancouver</title>
+    <desc lang="pt">Geneva e David fizeram um ótimo negócio quando compraram um imóvel que é um verdadeiro diamante em estado bruto. Agora, eles pretendem transformá-la na casa dos seus sonhos com uma grande reforma.(n)</desc>
+    <category lang="pt">Comportamento</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210821114900 -0300" stop="20210821124200 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
+    <desc lang="pt">Depois de ter dois filhos, um casal não conseguiu concluir as reformas necessárias em sua residência. Drew e Jonathan criam um projeto para aumentar a funcionalidade das sala de estar e de jantar e da cozinha.(n)</desc>
+    <credits>
+      <actor>Drew Scott</actor>
+      <actor>Jonathan Silver Scott</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210821124200 -0300" stop="20210821130900 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Casas Exuberantes</title>
+    <desc lang="pt">Depois de ganhar cinco milhões de dólares em uma raspadinha, um homem compra a propriedade rural dos seus sonhos na Califórnia.(n)</desc>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210821130900 -0300" stop="20210821133500 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Casas Exuberantes</title>
+    <desc lang="pt">Um casal aposentado ganha um milhão de dólares na loteria e começa a procurar uma casa de veraneio para toda a família.(n)</desc>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210821133500 -0300" stop="20210821140200 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">A Casa de Jennie Garth</title>
+    <desc lang="pt">Para Jennie, a cozinha é a alma da casa, um espaço com uma posição especial no imóvel. No entanto, alguns ângulos incomuns dificultam a execução do projeto.(n)</desc>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210821140200 -0300" stop="20210821142800 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">A Casa de Jennie Garth</title>
+    <desc lang="pt">Pela primeira vez, Jennie projeta uma suíte só para ela. Ela se diverte personalizando o espaço com um closet digno de uma mestra da decoração.(n)</desc>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210821142800 -0300" stop="20210821145500 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">O Novo Retrô Com Dan e Maureen</title>
+    <desc lang="pt">Um casal de colecionadores de arte adora oferecer recepções, mas a disposição dos cômodos de sua casa dos anos 60 não é funcional. Maureen e Dan os ajudam a modernizar a cozinha e a sala, preservando o charme retrô do imóvel.(n)</desc>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210821145500 -0300" stop="20210821154800 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">De Casa Nova</title>
+    <desc lang="pt">Ben e Erin Napier ajudam amigos de longa data a se estabelecer em uma casa repleta de charme e história.(n)</desc>
+    <credits>
+      <director>Patrick McMahill</director>
+      <actor>Ben Napier</actor>
+      <actor>Erin Napier</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210821154800 -0300" stop="20210821164100 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">De Casa Nova</title>
+    <desc lang="pt">Ben e Erin Napier ajudam um pastor apaixonado por culinária e jardinagem a encontrar um imóvel onde possa se dedicar a esses hobbies.(n)</desc>
+    <credits>
+      <director>Patrick McMahill</director>
+      <actor>Ben Napier</actor>
+      <actor>Erin Napier</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210821164100 -0300" stop="20210821173400 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Ame-a ou Deixe-a: Vancouver</title>
+    <desc lang="pt">Danielle adora a casa da família, mas Spencer quer morar em um lugar mais espaçoso e com outra disposição. Jillian tenta tornar o imóvel mais funcional, enquanto Todd mostra que uma casa mais espaçosa faz toda a diferença.(n)</desc>
+    <category lang="pt">Comportamento</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210821173400 -0300" stop="20210821182700 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Ame-a ou Deixe-a: Vancouver</title>
+    <desc lang="pt">Danielle está cansada de morar em uma casa escura e pouco funcional, enquanto Joel adora ter um quintal espaçoso. Enquanto Jill tenta consertar uma longa lista de problemas, Todd precisa encontrar uma casa espaçosa.(n)</desc>
+    <category lang="pt">Comportamento</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210821182700 -0300" stop="20210821192000 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Ame-a ou Deixe-a: Vancouver</title>
+    <desc lang="pt">Surpresas desagradáveis atrás das paredes ameaçam a reforma de Jill na casa espaçosa de Julia e Brett. Enquanto isso, Todd precisa encontrar um imóvel pronto para morar que seja próximo do trabalho de Julia.(n)</desc>
+    <category lang="pt">Comportamento</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210821192000 -0300" stop="20210821201400 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
+    <desc lang="pt">Um casal recebe a notícia de que não poderia ter filhos, mas depois de adquirir uma casa pequena de dois dormitórios, agora essa família terá 4 membros.(n)</desc>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210821201400 -0300" stop="20210821210800 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Irmãos à Obra</title>
+    <sub-title lang="pt">Compra e Venda</sub-title>
+    <desc lang="pt">David e Siobhan estão ansiosos para encontrar uma nova casa, mas não conseguem fechar um bom negócio com o mercado de imóveis aquecido. Agora, eles pretendem começar uma guerra de lances.(n)</desc>
+    <credits>
+      <actor>Drew Scott</actor>
+      <actor>Jonathan Silver Scott</actor>
+    </credits>
+    <category lang="pt">Comportamento</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210821210800 -0300" stop="20210821213500 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Espaços Únicos Com Grace Mitchell</title>
+    <desc lang="pt">Grace e sua equipe transformam um chalé abarrotado de coisas em um espaço perfeito para encontros familiares em Fort Worth, Texas.(n)</desc>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210821213500 -0300" stop="20210821220200 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Espaços Únicos Com Grace Mitchell</title>
+    <desc lang="pt">A equipe ajuda um casal a realizar o sonho de ter um espaço em casa para cozinhar e receber convidados.(n)</desc>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210821220200 -0300" stop="20210821222900 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Reformar Para Vender: Dicas Do Tarek</title>
+    <desc lang="pt">Um casal reforma uma casa em Playa del Rey, Califórnia, mas enquanto ela prefere um acabamento de primeira linha, ele insiste em reduzir custos. Tarek os ajuda a fazer as melhores escolhas sem estourar o orçamento.(n)</desc>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210821222900 -0300" stop="20210821225700 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Reforma À Venda</title>
+    <desc lang="pt">Tarek e Christina planeja visitar um imóvel em Diamond Bar, Califórnia. Mas enquanto Tarek sai apressado para um encontro, Christina o provoca e uma discussão acalorada que pode atrapalhar seus planos.(n)</desc>
+    <credits>
+      <actor>Christina Anstead</actor>
+      <actor>Israel Battres</actor>
+      <actor>Al Brown</actor>
+      <actor>Tarek El Moussa</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210821225700 -0300" stop="20210821235200 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">Prova de Noiva</title>
+    <desc lang="pt">Após vencer uma delicada doença, a blogueira e jornalista Érika vai se casar com o amor de sua vida em uma cerimônia inspirada na região da Toscana.(n)</desc>
+    <credits>
+      <director>Cassia Dian</director>
+    </credits>
+    <category lang="pt">Comportamento</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210821235200 -0300" stop="20210822004700 -0300" channel="Discovery Home &amp; Health HD ³">
+    <title lang="pt">O Vestido Ideal</title>
+    <sub-title lang="pt">Atlanta</sub-title>
+    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
   </programme>
 </tv>
