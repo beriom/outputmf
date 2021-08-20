@@ -676,6 +676,7 @@
   </channel>
   <channel id="ZooMoo HD">
     <display-name lang="pt">ZooMoo HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <programme start="20210820005300 -0300" stop="20210820014200 -0300" channel="Discovery Home &amp; Health HD ³">
