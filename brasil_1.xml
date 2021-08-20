@@ -27,10 +27,12 @@
   </channel>
   <channel id="Band News HD">
     <display-name lang="pt">Band News HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/bandnews.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Band Sports HD">
     <display-name lang="pt">Band Sports HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/bandsports.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="BIS HD">
@@ -1466,6 +1468,204 @@
     <episode-num system="onscreen">S6 E24</episode-num>
     <rating system="BR">
       <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820140000 -0300" stop="20210820180000 -0300" channel="Band News HD">
+    <title lang="pt">Tarde Bandnews</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, você encontra no Tarde BandNews. Coberturas ao vivo e a participação de repórteres espalhados por todo o país e pelo exterior.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_tardebandnews01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820184500 -0300" channel="Band News HD">
+    <title lang="pt">Jornal BandNews</title>
+    <desc lang="pt">No fim da tarde, você fica bem informado sobre tudo o que aconteceu de importante e também as notícias do momento no Jornal BandNews: 2ª Edição.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820184500 -0300" stop="20210820190000 -0300" channel="Band News HD">
+    <title lang="pt">Mercado Bnews Com Juliana Rosa</title>
+    <desc lang="pt">Confira as principais notícias de economia do dia com Juliana Rosa.(n)</desc>
+    <credits>
+      <actor>Juliana Rosa</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820200000 -0300" channel="Band News HD">
+    <title lang="pt">Jornal BandNews</title>
+    <desc lang="pt">No fim da tarde, você fica bem informado sobre tudo o que aconteceu de importante e também as notícias do momento no Jornal BandNews: 2ª Edição.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820203000 -0300" channel="Band News HD">
+    <title lang="pt">Expresso Bandnews</title>
+    <desc lang="pt">Um telejornal para quem não tem tempo a perder. As principais notícias em um formato rápido e dinâmico.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_expressobandnews01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820203000 -0300" stop="20210820213000 -0300" channel="Band News HD">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/jornaldaband01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820213000 -0300" stop="20210820220000 -0300" channel="Band News HD">
+    <title lang="pt">Expresso Bandnews</title>
+    <desc lang="pt">Um telejornal para quem não tem tempo a perder. As principais notícias em um formato rápido e dinâmico.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_expressobandnews01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820230000 -0300" channel="Band News HD">
+    <title lang="pt">Jornal BandNews Edição da Noite</title>
+    <desc lang="pt">Tudo o que foi notícia e a análise dos principais fatos do dia, você encontra no Jornal BandNews: Edição da Noite.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210820233000 -0300" channel="Band News HD">
+    <title lang="pt">Conexão com The New York Times</title>
+    <desc lang="pt">Programa com matérias jornalisticas em parceria com o The New York Times.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_conexaocomthenewyorktim01.jpg" />
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820233000 -0300" stop="20210821000000 -0300" channel="Band News HD">
+    <title lang="pt">Jornal BandNews Edição da Noite</title>
+    <desc lang="pt">Tudo o que foi notícia e a análise dos principais fatos do dia, você encontra no Jornal BandNews: Edição da Noite.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820143000 -0300" stop="20210820153000 -0300" channel="Band Sports HD">
+    <title lang="pt">Tiki Taka</title>
+    <desc lang="pt">Apresentado por Mauricio Barros e comentários de Marilia Ruiz e Eduardo Tironi o programa é um mesa redonda sempre as sextas feiras para debater tudo da rodada do fim de semana.(n)</desc>
+    <credits>
+      <actor>Mauricio Barros</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Debate</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820153000 -0300" stop="20210820160000 -0300" channel="Band Sports HD">
+    <title lang="pt">Sapiando</title>
+    <desc lang="pt">Bate-papos descontraídos e intimistas com personalidades esportivas.(n)</desc>
+    <credits>
+      <actor>Luizão Goulart</actor>
+      <actor>Yara Fantoni</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Debate</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820160000 -0300" stop="20210820170000 -0300" channel="Band Sports HD">
+    <title lang="pt">A Busca da Medalha</title>
+    <desc lang="pt">Programa semanal que mostra a preparação das quatro duplas de vôlei de praia representantes do Brasil nos Jogos Olímpicos de Tóquio. A atração acompanha a preparação física e mental dos atletas.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Vôlei de Praia</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820170000 -0300" stop="20210820180000 -0300" channel="Band Sports HD">
+    <title lang="pt">Bola Rolando</title>
+    <desc lang="pt">No final da tarde, logo que as atividades dos clubes se encerram, a bola rola na tela do Bandsports. Informação, discussão e projeção sobre o dia do futebol no Brasil e no Mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820200000 -0300" channel="Band Sports HD">
+    <title lang="pt">Hipismo: Longiness XTC</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Hipismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820220000 -0300" channel="Band Sports HD">
+    <title lang="pt">Baita Amigos</title>
+    <desc lang="pt">O craque Neto e amigos debatem o futebol do Brasil. Todas as segundas (pós rodada) e sextas (previa da rodada).(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_baitaamigos01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820223000 -0300" channel="Band Sports HD">
+    <title lang="pt">Compacto Campeonato Russo</title>
+    <desc lang="pt">Acompanhe o Compacto de jogos do campeonato russo.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820223000 -0300" stop="20210820230000 -0300" channel="Band Sports HD">
+    <title lang="pt">Rally dos Sertões</title>
+    <desc lang="pt">Entre os dias 13 e 22 de agosto, acontece o Rally dos Sertões e você confere tudo aqui na Band.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Radical</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210821000000 -0300" channel="Band Sports HD">
+    <title lang="pt">Tiki Taka</title>
+    <desc lang="pt">Apresentado por Mauricio Barros e comentários de Marilia Ruiz e Eduardo Tironi o programa é um mesa redonda sempre as sextas feiras para debater tudo da rodada do fim de semana.(n)</desc>
+    <credits>
+      <actor>Mauricio Barros</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Debate</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
     </rating>
   </programme>
 </tv>
