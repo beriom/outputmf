@@ -57733,4 +57733,1055 @@
       <value>16</value>
     </rating>
   </programme>
+  <programme start="20210820084500 -0300" stop="20210820100000 -0300" channel="MTV HD">
+    <title lang="pt">MTV Diary</title>
+    <desc lang="pt">Em que ano estamos? No especial Flashback Friday a MTV volta no tempo para relembrar grandes títulos e performances do passado.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820100000 -0300" stop="20210820105000 -0300" channel="MTV HD">
+    <title lang="pt">MTV Diary</title>
+    <desc lang="pt">Em que ano estamos? No especial Flashback Friday a MTV volta no tempo para relembrar grandes títulos e performances do passado.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820105000 -0300" stop="20210820114000 -0300" channel="MTV HD">
+    <title lang="pt">Geordie Show</title>
+    <title lang="en">Geordie OG's</title>
+    <desc lang="pt">Os Geordies estão de volta à MTV! Mas agora, vamos nos manter atualizados sobre suas vidas no Geordie OG's. Vamos acompanhar as estrelas de Geordie, junto de seus amigos e familiares.(n)</desc>
+    <credits>
+      <actor>Mark Hebden</actor>
+      <actor>Mike Parker</actor>
+      <actor>Rebecca Kenny-Smith</actor>
+      <actor>Charlotte Brownin</actor>
+      <actor>Gaz Beadle</actor>
+      <actor>Holly Hagan</actor>
+      <actor>Marnie Simpson</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S4 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820114000 -0300" stop="20210820124000 -0300" channel="MTV HD">
+    <title lang="pt">Acapulco Shore</title>
+    <desc lang="pt">Acapulco Shore é a versão mexicana do sucesso americano 'Jersey Shore'. O Reality, agora em terras latinas, promete muita polêmica, Tequila e momentos Calientes.(n)</desc>
+    <credits>
+      <director>Juan Bernardo Sánchez Mejía</director>
+      <actor>González</actor>
+      <actor>Mane Pindter</actor>
+      <actor>Karime Fernández</actor>
+      <actor>Tadeo Zambrano</actor>
+      <actor>Brenda El Chile</actor>
+      <actor>Eduardo Lozada</actor>
+      <actor>Juan Fernando Arnold</actor>
+      <actor>Allan Saide</actor>
+      <actor>Evie Saddy</actor>
+      <actor>Flávia Nader</actor>
+      <actor>Gustavo Cezar</actor>
+      <actor>Mabel Sierpe</actor>
+      <actor>Nando Barros</actor>
+      <actor>Vinicius Vignolo</actor>
+      <actor>Paulo Joia</actor>
+      <actor>Rebeca Palomanes</actor>
+      <actor>Helena Zam</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/acapulcoshore01.jpg" />
+    <country lang="pt">México</country>
+    <episode-num system="onscreen">S8 E9</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820124000 -0300" stop="20210820134000 -0300" channel="MTV HD">
+    <title lang="pt">Acapulco Shore</title>
+    <desc lang="pt">Acapulco Shore é a versão mexicana do sucesso americano 'Jersey Shore'. O Reality, agora em terras latinas, promete muita polêmica, Tequila e momentos Calientes.(n)</desc>
+    <credits>
+      <director>Juan Bernardo Sánchez Mejía</director>
+      <actor>González</actor>
+      <actor>Mane Pindter</actor>
+      <actor>Karime Fernández</actor>
+      <actor>Tadeo Zambrano</actor>
+      <actor>Brenda El Chile</actor>
+      <actor>Eduardo Lozada</actor>
+      <actor>Juan Fernando Arnold</actor>
+      <actor>Allan Saide</actor>
+      <actor>Evie Saddy</actor>
+      <actor>Flávia Nader</actor>
+      <actor>Gustavo Cezar</actor>
+      <actor>Mabel Sierpe</actor>
+      <actor>Nando Barros</actor>
+      <actor>Vinicius Vignolo</actor>
+      <actor>Paulo Joia</actor>
+      <actor>Rebeca Palomanes</actor>
+      <actor>Helena Zam</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/acapulcoshore01.jpg" />
+    <country lang="pt">México</country>
+    <episode-num system="onscreen">S8</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820134000 -0300" stop="20210820144000 -0300" channel="MTV HD">
+    <title lang="pt">De Férias Com o Ex Brasil - A Treta não Tira Férias</title>
+    <desc lang="pt">Em De Férias com o Ex Brasil - A Treta não tira Férias vamos rever as melhores cenas do Melhor Reality do Mundo!(n)</desc>
+    <credits>
+      <director>Chica Barros</director>
+      <actor>Gabi Prado</actor>
+      <actor>Tati Dias</actor>
+      <actor>Bifão</actor>
+      <actor>Lipe</actor>
+      <actor>Any</actor>
+      <actor>Yá</actor>
+      <actor>Matheus</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_deferiascomoexbrasilatreta01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820144000 -0300" stop="20210820154000 -0300" channel="MTV HD">
+    <title lang="pt">De Férias Com o Ex Brasil - A Treta não Tira Férias</title>
+    <desc lang="pt">Em De Férias com o Ex Brasil - A Treta não tira Férias vamos rever as melhores cenas do Melhor Reality do Mundo!(n)</desc>
+    <credits>
+      <director>Chica Barros</director>
+      <actor>Gabi Prado</actor>
+      <actor>Tati Dias</actor>
+      <actor>Bifão</actor>
+      <actor>Lipe</actor>
+      <actor>Any</actor>
+      <actor>Yá</actor>
+      <actor>Matheus</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_deferiascomoexbrasilatreta01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820154000 -0300" stop="20210820154500 -0300" channel="MTV HD">
+    <title lang="pt">Mtv Miaw Top</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820154500 -0300" stop="20210820161000 -0300" channel="MTV HD">
+    <title lang="pt">MTV Diary</title>
+    <desc lang="pt">Em que ano estamos? No especial Flashback Friday a MTV volta no tempo para relembrar grandes títulos e performances do passado.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820161000 -0300" stop="20210820163500 -0300" channel="MTV HD">
+    <title lang="pt">MTV Diary</title>
+    <desc lang="pt">Em que ano estamos? No especial Flashback Friday a MTV volta no tempo para relembrar grandes títulos e performances do passado.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820163500 -0300" stop="20210820170000 -0300" channel="MTV HD">
+    <title lang="pt">Minha Vida na MTV</title>
+    <title lang="en">My Life On Mtv</title>
+    <desc lang="pt">Já são 4 décadas desde que a revolução musical começou a ser televisionada! A MTV vai levar os fãs de música em uma viagem nostálgica para juntos revivermos os momentos mais impactantes, inesquecíveis e icônicos da música.(n)</desc>
+    <credits>
+      <director>Jason R. Saro</director>
+      <actor>Saro</actor>
+      <actor>Jason R.; Conroy</actor>
+      <actor>Curtis; Santos</actor>
+      <actor>Eric</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820170000 -0300" stop="20210820172500 -0300" channel="MTV HD">
+    <title lang="pt">Minha Vida na MTV</title>
+    <title lang="en">My Life On Mtv</title>
+    <desc lang="pt">Já são 4 décadas desde que a revolução musical começou a ser televisionada! A MTV vai levar os fãs de música em uma viagem nostálgica para juntos revivermos os momentos mais impactantes, inesquecíveis e icônicos da música.(n)</desc>
+    <credits>
+      <director>Jason R. Saro</director>
+      <actor>Saro</actor>
+      <actor>Jason R.; Conroy</actor>
+      <actor>Curtis; Santos</actor>
+      <actor>Eric</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820172500 -0300" stop="20210820173000 -0300" channel="MTV HD">
+    <title lang="pt">Mtv Miaw Top</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820173000 -0300" stop="20210820185500 -0300" channel="MTV HD">
+    <title lang="pt">MTV Hits</title>
+    <desc lang="pt">MTV Hits é a seleção dos melhores clipes para todos os gostos. Com apresentação de Bia Coelho, Spartacus Santiago, confira essa seleção de vídeos com direito a tweets da nossa audiência (e do estagi mais querido do brasil).(n)</desc>
+    <credits>
+      <director>Caio Corsalette</director>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_mtvhits01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820185500 -0300" stop="20210820190000 -0300" channel="MTV HD">
+    <title lang="pt">Mtv Miaw Top</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820190500 -0300" channel="MTV HD">
+    <title lang="pt">Porta Na MTV</title>
+    <desc lang="pt">A cada semana você vai ver as melhores esquetes do Porta dos Fundos na MTV.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_portanamtv01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820190500 -0300" stop="20210820200000 -0300" channel="MTV HD">
+    <title lang="pt">Adotada</title>
+    <title lang="en">Adotada: 01</title>
+    <desc lang="pt">Mareu chega a uma casa dominada pelos homens. A mãe é única mulher da casa e Mareu dá o seu jeito de trazer um tom feminino para toda a história e mostra para a família quem realmente manda.(n)</desc>
+    <credits>
+      <director>Ernani nunes</director>
+      <actor>Maria Eugênia Suconic</actor>
+      <actor>Érica Suconic</actor>
+      <actor>Supla</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/adotada01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820210000 -0300" channel="MTV HD">
+    <title lang="pt">De Férias Com o Ex Brasil - A Treta não Tira Férias</title>
+    <desc lang="pt">Em De Férias com o Ex Brasil - A Treta não tira Férias vamos rever as melhores cenas do Melhor Reality do Mundo!(n)</desc>
+    <credits>
+      <director>Chica Barros</director>
+      <actor>Gabi Prado</actor>
+      <actor>Tati Dias</actor>
+      <actor>Bifão</actor>
+      <actor>Lipe</actor>
+      <actor>Any</actor>
+      <actor>Yá</actor>
+      <actor>Matheus</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_deferiascomoexbrasilatreta01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820210000 -0300" stop="20210820220000 -0300" channel="MTV HD">
+    <title lang="pt">De Férias Com o Ex Brasil - A Treta não Tira Férias</title>
+    <desc lang="pt">Em De Férias com o Ex Brasil - A Treta não tira Férias vamos rever as melhores cenas do Melhor Reality do Mundo!(n)</desc>
+    <credits>
+      <director>Chica Barros</director>
+      <actor>Gabi Prado</actor>
+      <actor>Tati Dias</actor>
+      <actor>Bifão</actor>
+      <actor>Lipe</actor>
+      <actor>Any</actor>
+      <actor>Yá</actor>
+      <actor>Matheus</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_deferiascomoexbrasilatreta01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820230000 -0300" channel="MTV HD">
+    <title lang="pt">Acapulco Shore</title>
+    <desc lang="pt">Acapulco Shore é a versão mexicana do sucesso americano 'Jersey Shore'. O Reality, agora em terras latinas, promete muita polêmica, Tequila e momentos Calientes.(n)</desc>
+    <credits>
+      <director>Juan Bernardo Sánchez Mejía</director>
+      <actor>González</actor>
+      <actor>Mane Pindter</actor>
+      <actor>Karime Fernández</actor>
+      <actor>Tadeo Zambrano</actor>
+      <actor>Brenda El Chile</actor>
+      <actor>Eduardo Lozada</actor>
+      <actor>Juan Fernando Arnold</actor>
+      <actor>Allan Saide</actor>
+      <actor>Evie Saddy</actor>
+      <actor>Flávia Nader</actor>
+      <actor>Gustavo Cezar</actor>
+      <actor>Mabel Sierpe</actor>
+      <actor>Nando Barros</actor>
+      <actor>Vinicius Vignolo</actor>
+      <actor>Paulo Joia</actor>
+      <actor>Rebeca Palomanes</actor>
+      <actor>Helena Zam</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/acapulcoshore01.jpg" />
+    <country lang="pt">México</country>
+    <episode-num system="onscreen">S8 E9</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210821000000 -0300" channel="MTV HD">
+    <title lang="pt">Acapulco Shore</title>
+    <desc lang="pt">Acapulco Shore é a versão mexicana do sucesso americano 'Jersey Shore'. O Reality, agora em terras latinas, promete muita polêmica, Tequila e momentos Calientes.(n)</desc>
+    <credits>
+      <director>Juan Bernardo Sánchez Mejía</director>
+      <actor>González</actor>
+      <actor>Mane Pindter</actor>
+      <actor>Karime Fernández</actor>
+      <actor>Tadeo Zambrano</actor>
+      <actor>Brenda El Chile</actor>
+      <actor>Eduardo Lozada</actor>
+      <actor>Juan Fernando Arnold</actor>
+      <actor>Allan Saide</actor>
+      <actor>Evie Saddy</actor>
+      <actor>Flávia Nader</actor>
+      <actor>Gustavo Cezar</actor>
+      <actor>Mabel Sierpe</actor>
+      <actor>Nando Barros</actor>
+      <actor>Vinicius Vignolo</actor>
+      <actor>Paulo Joia</actor>
+      <actor>Rebeca Palomanes</actor>
+      <actor>Helena Zam</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/acapulcoshore01.jpg" />
+    <country lang="pt">México</country>
+    <episode-num system="onscreen">S8</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821000000 -0300" stop="20210821002500 -0300" channel="MTV HD">
+    <title lang="pt">Minha Vida na MTV</title>
+    <title lang="en">My Life On Mtv</title>
+    <desc lang="pt">Já são 4 décadas desde que a revolução musical começou a ser televisionada! A MTV vai levar os fãs de música em uma viagem nostálgica para juntos revivermos os momentos mais impactantes, inesquecíveis e icônicos da música.(n)</desc>
+    <credits>
+      <director>Jason R. Saro</director>
+      <actor>Saro</actor>
+      <actor>Jason R.; Conroy</actor>
+      <actor>Curtis; Santos</actor>
+      <actor>Eric</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821002500 -0300" stop="20210821005000 -0300" channel="MTV HD">
+    <title lang="pt">Minha Vida na MTV</title>
+    <title lang="en">My Life On Mtv</title>
+    <desc lang="pt">Já são 4 décadas desde que a revolução musical começou a ser televisionada! A MTV vai levar os fãs de música em uma viagem nostálgica para juntos revivermos os momentos mais impactantes, inesquecíveis e icônicos da música.(n)</desc>
+    <credits>
+      <director>Jason R. Saro</director>
+      <actor>Saro</actor>
+      <actor>Jason R.; Conroy</actor>
+      <actor>Curtis; Santos</actor>
+      <actor>Eric</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821005000 -0300" stop="20210821011500 -0300" channel="MTV HD">
+    <title lang="pt">Minha Vida na MTV</title>
+    <title lang="en">My Life On Mtv</title>
+    <desc lang="pt">Já são 4 décadas desde que a revolução musical começou a ser televisionada! A MTV vai levar os fãs de música em uma viagem nostálgica para juntos revivermos os momentos mais impactantes, inesquecíveis e icônicos da música.(n)</desc>
+    <credits>
+      <director>Jason R. Saro</director>
+      <actor>Saro</actor>
+      <actor>Jason R.; Conroy</actor>
+      <actor>Curtis; Santos</actor>
+      <actor>Eric</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821011500 -0300" stop="20210821020500 -0300" channel="MTV HD">
+    <title lang="pt">World Stage</title>
+    <desc lang="pt">World Stage é a sua oportunidade de ver as melhores apresentações dos maiores artistas do mundo sem deixar o conforto do seu sofá.(n)</desc>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/worldstageflorida01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821020500 -0300" stop="20210821025500 -0300" channel="MTV HD">
+    <title lang="pt">MTV Diary</title>
+    <desc lang="pt">Em que ano estamos? No especial Flashback Friday a MTV volta no tempo para relembrar grandes títulos e performances do passado.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821025500 -0300" stop="20210821032000 -0300" channel="MTV HD">
+    <title lang="pt">Minha Vida na MTV</title>
+    <title lang="en">My Life On Mtv</title>
+    <desc lang="pt">Desde Madonna, a MTV nunca encontrou uma força como essa. Desde sua primeira apresentação televisionada no TRICON Award, estamos com ela em cada etapa do caminho.(n)</desc>
+    <credits>
+      <director>Jason R. Saro</director>
+      <actor>Saro</actor>
+      <actor>Jason R.; Conroy</actor>
+      <actor>Curtis; Santos</actor>
+      <actor>Eric</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821032000 -0300" stop="20210821034500 -0300" channel="MTV HD">
+    <title lang="pt">Minha Vida na MTV</title>
+    <title lang="en">My Life On Mtv</title>
+    <desc lang="pt">Já são 4 décadas desde que a revolução musical começou a ser televisionada! A MTV vai levar os fãs de música em uma viagem nostálgica para juntos revivermos os momentos mais impactantes, inesquecíveis e icônicos da música.(n)</desc>
+    <credits>
+      <director>Jason R. Saro</director>
+      <actor>Saro</actor>
+      <actor>Jason R.; Conroy</actor>
+      <actor>Curtis; Santos</actor>
+      <actor>Eric</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821034500 -0300" stop="20210821041000 -0300" channel="MTV HD">
+    <title lang="pt">Minha Vida na MTV</title>
+    <title lang="en">My Life On Mtv</title>
+    <desc lang="pt">Já são 4 décadas desde que a revolução musical começou a ser televisionada! A MTV vai levar os fãs de música em uma viagem nostálgica para juntos revivermos os momentos mais impactantes, inesquecíveis e icônicos da música.(n)</desc>
+    <credits>
+      <director>Jason R. Saro</director>
+      <actor>Saro</actor>
+      <actor>Jason R.; Conroy</actor>
+      <actor>Curtis; Santos</actor>
+      <actor>Eric</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821041000 -0300" stop="20210821043500 -0300" channel="MTV HD">
+    <title lang="pt">Minha Vida na MTV</title>
+    <title lang="en">My Life On Mtv</title>
+    <desc lang="pt">Já são 4 décadas desde que a revolução musical começou a ser televisionada! A MTV vai levar os fãs de música em uma viagem nostálgica para juntos revivermos os momentos mais impactantes, inesquecíveis e icônicos da música.(n)</desc>
+    <credits>
+      <director>Jason R. Saro</director>
+      <actor>Saro</actor>
+      <actor>Jason R.; Conroy</actor>
+      <actor>Curtis; Santos</actor>
+      <actor>Eric</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821043500 -0300" stop="20210821050000 -0300" channel="MTV HD">
+    <title lang="pt">Minha Vida na MTV</title>
+    <title lang="en">My Life On Mtv</title>
+    <desc lang="pt">Ninguém viu a explosão pop do final dos anos 90 chegando... mas assim que essas duas futuras lendas pisaram no palco do TRL, rapidamente se tornaram uma família e nos deram alguns dos melhores momentos da cultura pop na história.(n)</desc>
+    <credits>
+      <director>Jason R. Saro</director>
+      <actor>Saro</actor>
+      <actor>Jason R.; Conroy</actor>
+      <actor>Curtis; Santos</actor>
+      <actor>Eric</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821050000 -0300" stop="20210821060000 -0300" channel="MTV HD">
+    <title lang="pt">MTV Diary</title>
+    <desc lang="pt">Em que ano estamos? No especial Flashback Friday a MTV volta no tempo para relembrar grandes títulos e performances do passado.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821070000 -0300" channel="MTV HD">
+    <title lang="pt">MTV ACORDAÊ</title>
+    <desc lang="pt">Tá na hora de Acordar!!!!!! E pra te acompanhar nessa difícil tarefa do dia a dia, a MTV preparou a melhor playlist pra você escutar e acompanhar enquanto reclama do horário, do frio, do dia e da luta diária para sair da cama.(n)</desc>
+    <credits>
+      <director>Caio Corsalette</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_mtvacordae01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821070000 -0300" stop="20210821080500 -0300" channel="MTV HD">
+    <title lang="pt">MTV Hits</title>
+    <desc lang="pt">MTV Hits é a seleção dos melhores clipes para todos os gostos. Com apresentação de Bia Coelho, Spartacus Santiago, confira essa seleção de vídeos com direito a tweets da nossa audiência (e do estagi mais querido do brasil).(n)</desc>
+    <credits>
+      <director>Caio Corsalette</director>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_mtvhits01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821080500 -0300" stop="20210821081500 -0300" channel="MTV HD">
+    <title lang="pt">MTVixe!</title>
+    <desc lang="pt">Ingrid Ohara tece seus hilários comentários sobre os mais diversos assuntos da atualidade.(n)</desc>
+    <credits>
+      <actor>Ohara</actor>
+      <actor>ingrid</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S5 E19</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821081500 -0300" stop="20210821082000 -0300" channel="MTV HD">
+    <title lang="pt">Mtv Miaw Top</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821082000 -0300" stop="20210821091000 -0300" channel="MTV HD">
+    <title lang="pt">Amy Winehouse &amp; Eu</title>
+    <title lang="en">Amy Winehouse &amp; Me</title>
+    <desc lang="pt">Dez anos após a trágica morte de Amy Winehouse, este documentário mostra sua afilhada, Dionne Bromfield, falando pela primeira vez sobre o impacto da morte de Amy em sua vida.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821091000 -0300" stop="20210821091500 -0300" channel="MTV HD">
+    <title lang="pt">Mtv Miaw Top</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821091500 -0300" stop="20210821094000 -0300" channel="MTV HD">
+    <title lang="pt">Acústico MTV</title>
+    <desc lang="pt">Direto da Casa da Diva Miley Cyrus, o Acústico MTV: Miley Cyrus Backyard Sessions conta com os maiores hits da carreira da cantora além dos covers das músicas favoritas de Miley tudo em versão acústica!(n)</desc>
+    <credits>
+      <actor>Miley Cyrus</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821094000 -0300" stop="20210821101000 -0300" channel="MTV HD">
+    <title lang="pt">Acústico MTV - BTS</title>
+    <desc lang="pt">Direto de Seul, na Coreia do Sul, o BTS oferece a seus fãs um lugar na primeira fila para versões nunca antes vistas dos sucessos mais marcantes da carreira do grupo.(n)</desc>
+    <credits>
+      <actor>Tiago Iorc</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821101000 -0300" stop="20210821110000 -0300" channel="MTV HD">
+    <title lang="pt">Acústico MTV - Alicia Keys</title>
+    <desc lang="pt">Fechando a série de shows em Alta Definição exibidos pela MTV, a audiência vai conferir a apresentação desplugada de Alicia Keys no Acústico MTV. Ela recebe convidados e canta músicas como "A Woman's Worth"," Karma" e "Unbreakable".(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821110000 -0300" stop="20210821110500 -0300" channel="MTV HD">
+    <title lang="pt">Mtv Miaw Top</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821110500 -0300" stop="20210821115500 -0300" channel="MTV HD">
+    <title lang="pt">Acústico MTV - Unplugged</title>
+    <desc lang="pt">A Revolução musical foi televisionada! Pelas últimas quatro décadas a MTV acompanhou de perto os melhores do cenário musical, as performances e momentos mais icônicos da música e o surgimento das maiores estrelas do planeta!(n)</desc>
+    <credits>
+      <actor>Miley Cyrus</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821115500 -0300" stop="20210821120000 -0300" channel="MTV HD">
+    <title lang="pt">Mtv Miaw Top</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821120000 -0300" stop="20210821132500 -0300" channel="MTV HD">
+    <title lang="pt">MTV Top 20</title>
+    <desc lang="pt">O MTV Top 20 é o programa onde você faz a playlist. Vote durante a semana no nosso site e os 20 clipes mais votados viram um top pra ajudar na marmota no final de semana.(n)</desc>
+    <credits>
+      <director>Caio Corsalette</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821132500 -0300" stop="20210821133000 -0300" channel="MTV HD">
+    <title lang="pt">Fresh Out Live</title>
+    <desc lang="pt">Fresh Out Live mostra as últimas e mais importantes notícias do universo pop e musical com entrevistas, novidades de lançamentos e as melhores performances dos nomes mais quentes do momento!(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821133000 -0300" stop="20210821133500 -0300" channel="MTV HD">
+    <title lang="pt">Mtv Miaw Top</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821133500 -0300" stop="20210821143500 -0300" channel="MTV HD">
+    <title lang="pt">Acapulco Shore</title>
+    <desc lang="pt">Acapulco Shore é a versão mexicana do sucesso americano 'Jersey Shore'. O Reality, agora em terras latinas, promete muita polêmica, Tequila e momentos Calientes.(n)</desc>
+    <credits>
+      <director>Juan Bernardo Sánchez Mejía</director>
+      <actor>González</actor>
+      <actor>Mane Pindter</actor>
+      <actor>Karime Fernández</actor>
+      <actor>Tadeo Zambrano</actor>
+      <actor>Brenda El Chile</actor>
+      <actor>Eduardo Lozada</actor>
+      <actor>Juan Fernando Arnold</actor>
+      <actor>Allan Saide</actor>
+      <actor>Evie Saddy</actor>
+      <actor>Flávia Nader</actor>
+      <actor>Gustavo Cezar</actor>
+      <actor>Mabel Sierpe</actor>
+      <actor>Nando Barros</actor>
+      <actor>Vinicius Vignolo</actor>
+      <actor>Paulo Joia</actor>
+      <actor>Rebeca Palomanes</actor>
+      <actor>Helena Zam</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/acapulcoshore01.jpg" />
+    <country lang="pt">México</country>
+    <episode-num system="onscreen">S8</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821143500 -0300" stop="20210821153500 -0300" channel="MTV HD">
+    <title lang="pt">De Férias Com o Ex Brasil - A Treta não Tira Férias</title>
+    <desc lang="pt">Em De Férias com o Ex Brasil - A Treta não tira Férias vamos rever as melhores cenas do Melhor Reality do Mundo!(n)</desc>
+    <credits>
+      <director>Chica Barros</director>
+      <actor>Gabi Prado</actor>
+      <actor>Tati Dias</actor>
+      <actor>Bifão</actor>
+      <actor>Lipe</actor>
+      <actor>Any</actor>
+      <actor>Yá</actor>
+      <actor>Matheus</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_deferiascomoexbrasilatreta01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821153500 -0300" stop="20210821154000 -0300" channel="MTV HD">
+    <title lang="pt">Mtv Miaw Top</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821154000 -0300" stop="20210821163000 -0300" channel="MTV HD">
+    <title lang="pt">Geordie Show</title>
+    <title lang="en">Geordie OG's</title>
+    <desc lang="pt">Os Geordies estão de volta à MTV! Mas agora, vamos nos manter atualizados sobre suas vidas no Geordie OG's. Vamos acompanhar as estrelas de Geordie, junto de seus amigos e familiares.(n)</desc>
+    <credits>
+      <actor>Mark Hebden</actor>
+      <actor>Mike Parker</actor>
+      <actor>Rebecca Kenny-Smith</actor>
+      <actor>Charlotte Brownin</actor>
+      <actor>Gaz Beadle</actor>
+      <actor>Holly Hagan</actor>
+      <actor>Marnie Simpson</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821163000 -0300" stop="20210821172000 -0300" channel="MTV HD">
+    <title lang="pt">Geordie Show</title>
+    <title lang="en">Geordie OG's</title>
+    <desc lang="pt">Os Geordies estão de volta à MTV! Mas agora, vamos nos manter atualizados sobre suas vidas no Geordie OG's. Vamos acompanhar as estrelas de Geordie, junto de seus amigos e familiares.(n)</desc>
+    <credits>
+      <actor>Mark Hebden</actor>
+      <actor>Mike Parker</actor>
+      <actor>Rebecca Kenny-Smith</actor>
+      <actor>Charlotte Brownin</actor>
+      <actor>Gaz Beadle</actor>
+      <actor>Holly Hagan</actor>
+      <actor>Marnie Simpson</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S4 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821172000 -0300" stop="20210821181000 -0300" channel="MTV HD">
+    <title lang="pt">Pelados e Apaixonados</title>
+    <title lang="en">Dating Naked</title>
+    <desc lang="pt">Nicole se irrita quando David traz a sensual Sarah para casa. A insegurança de Zakk se torna um problema quando ele encontra os novos pretendentes de Natalie.(n)</desc>
+    <credits>
+      <actor>Rocsi Diaz</actor>
+      <actor>David Dees</actor>
+      <actor>Natalie Jansen</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821181000 -0300" stop="20210821190000 -0300" channel="MTV HD">
+    <title lang="pt">Catfish</title>
+    <desc lang="pt">Como os jovens de hoje encontram o amor? Muitas vezes, através de relacionamentos on-line com pessoas que nunca viram pessoalmente. O problema é que na rede nem sempre as pessoas são quem dizer ser.(n)</desc>
+    <credits>
+      <director>Max Joseph</director>
+      <director>John Detarsi</director>
+      <actor>Nev Schulman</actor>
+      <actor>Max Joseph</actor>
+      <actor>Henry Joost</actor>
+      <actor>John Detarsio</actor>
+      <actor>Brad Bishop</actor>
+      <actor>David Metzler</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/catfish01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S8 E43</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821190000 -0300" stop="20210821195500 -0300" channel="MTV HD">
+    <title lang="pt">Adotada</title>
+    <title lang="en">Adotada: 10</title>
+    <desc lang="pt">Mareu vai ao Rio de Janeiro e é adotada por uma família totalmente saúde. Os pais são triatletas e os filhos praticam diversas atividades. Mareu não entra no ritmo e acaba irritando a mãe, causando uma reação inesperada.(n)</desc>
+    <credits>
+      <director>Ernani Nunes</director>
+      <actor>Maria Eugênia Suconic</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/adotada01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821195500 -0300" stop="20210821200000 -0300" channel="MTV HD">
+    <title lang="pt">Mtv Miaw Top</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821200000 -0300" stop="20210821205500 -0300" channel="MTV HD">
+    <title lang="pt">Adotada</title>
+    <title lang="en">Adotada: 01</title>
+    <desc lang="pt">Mareu chega a uma casa dominada pelos homens. A mãe é única mulher da casa e Mareu dá o seu jeito de trazer um tom feminino para toda a história e mostra para a família quem realmente manda.(n)</desc>
+    <credits>
+      <director>Ernani nunes</director>
+      <actor>Maria Eugênia Suconic</actor>
+      <actor>Érica Suconic</actor>
+      <actor>Supla</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/adotada01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821205500 -0300" stop="20210821210000 -0300" channel="MTV HD">
+    <title lang="pt">Mtv Miaw Top</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821210000 -0300" stop="20210821220000 -0300" channel="MTV HD">
+    <title lang="pt">Acapulco Shore</title>
+    <desc lang="pt">Acapulco Shore é a versão mexicana do sucesso americano 'Jersey Shore'. O Reality, agora em terras latinas, promete muita polêmica, Tequila e momentos Calientes.(n)</desc>
+    <credits>
+      <director>Juan Bernardo Sánchez Mejía</director>
+      <actor>González</actor>
+      <actor>Mane Pindter</actor>
+      <actor>Karime Fernández</actor>
+      <actor>Tadeo Zambrano</actor>
+      <actor>Brenda El Chile</actor>
+      <actor>Eduardo Lozada</actor>
+      <actor>Juan Fernando Arnold</actor>
+      <actor>Allan Saide</actor>
+      <actor>Evie Saddy</actor>
+      <actor>Flávia Nader</actor>
+      <actor>Gustavo Cezar</actor>
+      <actor>Mabel Sierpe</actor>
+      <actor>Nando Barros</actor>
+      <actor>Vinicius Vignolo</actor>
+      <actor>Paulo Joia</actor>
+      <actor>Rebeca Palomanes</actor>
+      <actor>Helena Zam</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/acapulcoshore01.jpg" />
+    <country lang="pt">México</country>
+    <episode-num system="onscreen">S8</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821220000 -0300" stop="20210821230000 -0300" channel="MTV HD">
+    <title lang="pt">De Férias Com o Ex Brasil - A Treta não Tira Férias</title>
+    <desc lang="pt">Em De Férias com o Ex Brasil - A Treta não tira Férias vamos rever as melhores cenas do Melhor Reality do Mundo!(n)</desc>
+    <credits>
+      <director>Chica Barros</director>
+      <actor>Gabi Prado</actor>
+      <actor>Tati Dias</actor>
+      <actor>Bifão</actor>
+      <actor>Lipe</actor>
+      <actor>Any</actor>
+      <actor>Yá</actor>
+      <actor>Matheus</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_deferiascomoexbrasilatreta01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821230000 -0300" stop="20210822000000 -0300" channel="MTV HD">
+    <title lang="pt">De Férias Com o Ex Brasil - A Treta não Tira Férias</title>
+    <desc lang="pt">Em De Férias com o Ex Brasil - A Treta não tira Férias vamos rever as melhores cenas do Melhor Reality do Mundo!(n)</desc>
+    <credits>
+      <director>Chica Barros</director>
+      <actor>Gabi Prado</actor>
+      <actor>Tati Dias</actor>
+      <actor>Bifão</actor>
+      <actor>Lipe</actor>
+      <actor>Any</actor>
+      <actor>Yá</actor>
+      <actor>Matheus</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_deferiascomoexbrasilatreta01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
 </tv>
