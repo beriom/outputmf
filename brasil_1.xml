@@ -391,6 +391,7 @@
   </channel>
   <channel id="Mais na Tela HD">
     <display-name lang="pt">Mais na Tela HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Mega TV HD">
