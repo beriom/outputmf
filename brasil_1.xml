@@ -76792,4 +76792,254 @@
       <value>L</value>
     </rating>
   </programme>
+  <programme start="20210820090000 -0300" stop="20210820103000 -0300" channel="SPORTV 3 HD">
+    <title lang="pt">Tóquio 2020: Vôlei Feminino - Brasil x Roc</title>
+    <desc lang="pt">O maior evento esportivo do mundo chegou e você vai ver tudo no SporTV. Tóquio 2020 no SporTV: despertando o melhor de nós.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Vôlei Feminino</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/tokio2020.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820103000 -0300" stop="20210820120000 -0300" channel="SPORTV 3 HD">
+    <title lang="pt">Tóquio 2020: Vôlei Feminino - Brasil x Coreia do Sul</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Vôlei Feminino</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/tokio2020.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820120000 -0300" stop="20210820133000 -0300" channel="SPORTV 3 HD">
+    <title lang="pt">Tóquio 2020: Diário de Tóquio - Especial Medalhas Brasil</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/tokio2020.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820133000 -0300" stop="20210820143000 -0300" channel="SPORTV 3 HD">
+    <title lang="pt">VT - Cuiabá x Grêmio</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/time_gremio.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820143000 -0300" stop="20210820153000 -0300" channel="SPORTV 3 HD">
+    <title lang="pt">VT - Guarani x Botafogo</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/time_guarani.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820153000 -0300" stop="20210820163000 -0300" channel="SPORTV 3 HD">
+    <title lang="pt">VT - Vasco x Londrina</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/time_vasco.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820163000 -0300" stop="20210820173000 -0300" channel="SPORTV 3 HD">
+    <title lang="pt">VT - Náutico x Cruzeiro</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/time_nautico.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820173000 -0300" stop="20210820183000 -0300" channel="SPORTV 3 HD">
+    <title lang="pt">PFL - Ao Vivo</title>
+    <desc lang="pt">Acompanhe grandes lutas nessa faixa que exibe os melhores momentos dos eventos de MMA.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820183000 -0300" stop="20210820193000 -0300" channel="SPORTV 3 HD">
+    <title lang="pt">Faixa Combate</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ufc01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820193000 -0300" stop="20210820203000 -0300" channel="SPORTV 3 HD">
+    <title lang="pt">Faixa Combate</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ufc01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820203000 -0300" stop="20210820223000 -0300" channel="SPORTV 3 HD">
+    <title lang="pt">Faixa Combate</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ufc01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820223000 -0300" stop="20210821020000 -0300" channel="SPORTV 3 HD">
+    <title lang="pt">Faixa Combate</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ufc01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821020000 -0300" stop="20210821033000 -0300" channel="SPORTV 3 HD">
+    <title lang="pt">Liga Nacional de Futsal: Campo Mourão x Tubarão</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol De Salão</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821033000 -0300" stop="20210821043000 -0300" channel="SPORTV 3 HD">
+    <title lang="pt">VT - CRB AL x Operário</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821043000 -0300" stop="20210821053000 -0300" channel="SPORTV 3 HD">
+    <title lang="pt">VT - Avaí x Coritiba</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/time_avai.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821053000 -0300" stop="20210821063000 -0300" channel="SPORTV 3 HD">
+    <title lang="pt">VT - Guarani x Botafogo</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/time_guarani.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821063000 -0300" stop="20210821070000 -0300" channel="SPORTV 3 HD">
+    <title lang="pt">VT - Vasco x Londrina</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/time_vasco.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821070000 -0300" stop="20210821090000 -0300" channel="SPORTV 3 HD">
+    <title lang="pt">VT de Eventos</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821090000 -0300" stop="20210821110000 -0300" channel="SPORTV 3 HD">
+    <title lang="pt">VT de Eventos</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821110000 -0300" stop="20210821130000 -0300" channel="SPORTV 3 HD">
+    <title lang="pt">VT de Eventos</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821130000 -0300" stop="20210821150000 -0300" channel="SPORTV 3 HD">
+    <title lang="pt">VT de Eventos</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821150000 -0300" stop="20210821170000 -0300" channel="SPORTV 3 HD">
+    <title lang="pt">VT de Eventos</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821170000 -0300" stop="20210821190000 -0300" channel="SPORTV 3 HD">
+    <title lang="pt">VT de Eventos</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821190000 -0300" stop="20210821210000 -0300" channel="SPORTV 3 HD">
+    <title lang="pt">VT de Eventos</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821210000 -0300" stop="20210821230000 -0300" channel="SPORTV 3 HD">
+    <title lang="pt">VT de Eventos</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821230000 -0300" stop="20210822010000 -0300" channel="SPORTV 3 HD">
+    <title lang="pt">VT de Eventos</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
 </tv>
