@@ -296,6 +296,7 @@
   </channel>
   <channel id="HBO Pop HD">
     <display-name lang="pt">HBO Pop HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/hbopop.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="HBO Signature HD">
@@ -39614,6 +39615,432 @@
     <country lang="pt">EUA</country>
     <rating system="BR">
       <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820133300 -0300" stop="20210820150700 -0300" channel="HBO Pop HD">
+    <title lang="pt">Mistérios de Amor: Um Romance Fatal</title>
+    <desc lang="pt">Um escritor de romances é morto e a casamenteira Angie Dove e o detetive Kyle Cooper precisam ler nas entrelinhas para encontrar o assassino.(n)</desc>
+    <credits>
+      <director>Terry Ingram</director>
+      <actor>Danica McKellar</actor>
+      <actor>Victor Webster</actor>
+      <actor>Bruce Boxleitner</actor>
+      <actor>Cory Lee</actor>
+      <actor>Dan Payne</actor>
+      <actor>Andrew Dunbar</actor>
+      <actor>Jase Anthony Griffith</actor>
+      <actor>Lara Gilchrist</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Romance</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820150700 -0300" stop="20210820165500 -0300" channel="HBO Pop HD">
+    <title lang="pt">A Sogra</title>
+    <desc lang="pt">Charlotte se apaixona por Kevin. O problema é a mãe dele que perdeu o emprego recentemente e temendo perder também o filho, decide atrapalhar ao máximo os planos do casal, tornando-se a pior sogra do mundo.(n)</desc>
+    <credits>
+      <director>Robert Luketic</director>
+      <actor>Jennifer Lopez</actor>
+      <actor>Jane Fonda</actor>
+      <actor>Michael Vartan</actor>
+      <actor>Wanda Sykes</actor>
+      <actor>Adam Scott</actor>
+      <actor>Annie Parisse</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_asogra01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820165500 -0300" stop="20210820183000 -0300" channel="HBO Pop HD">
+    <title lang="pt">Morte no Funeral</title>
+    <desc lang="pt">O que deveria ser um enterro comportado de um ente querido torna-se um verdadeiro caos quando romance, ciúmes, sogros, alucinógenos, segredos obscuros e desejos reprimidos vêm à tona.(n)</desc>
+    <credits>
+      <director>Neil LaBute</director>
+      <actor>Chris Rock</actor>
+      <actor>Martin Lawrence</actor>
+      <actor>Keith David</actor>
+      <actor>Danny Glover</actor>
+      <actor>Tracy Morgan</actor>
+      <actor>Luke Wilson</actor>
+      <actor>Zoe Saldana</actor>
+      <actor>Peter Dinklage</actor>
+      <actor>Loretta Devine</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_mortenofuneral01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820183000 -0300" stop="20210820205200 -0300" channel="HBO Pop HD">
+    <title lang="pt">Comer, Rezar, Amar</title>
+    <desc lang="pt">Liz Gilbert é uma mulher casada que percebe o quanto é infeliz no seu casamento e que precisa dar uma guinada em sua vida. Após um doloroso divórcio, ela parte em uma jornada ao redor do mundo através da Itália, Índia e Bali para se descobrir.(n)</desc>
+    <credits>
+      <director>Ryan Murphy</director>
+      <actor>Julia Roberts</actor>
+      <actor>Javier Bardem</actor>
+      <actor>Richard Jenkins</actor>
+      <actor>Viola Davis</actor>
+      <actor>I. Gusti Ayu Puspawati</actor>
+      <actor>Ashlie Atkinson</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_comerrezar01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820205200 -0300" stop="20210820220000 -0300" channel="HBO Pop HD">
+    <title lang="pt">The White Lotus</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mike White</director>
+      <actor>Jennifer Coolidge</actor>
+      <actor>Amber Abara</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820233000 -0300" channel="HBO Pop HD">
+    <title lang="pt">Jexi, Um Celular Sem Filtro</title>
+    <desc lang="pt">A vida de Phil (Adam Devine) sai de controle quando Jexi, o assistente virtual em seu smartphone, decide assumir o controle.(n)</desc>
+    <credits>
+      <director>Jon Lucas</director>
+      <director>Scott Moore</director>
+      <actor>Adam Devine</actor>
+      <actor>Alexandra Shipp</actor>
+      <actor>Rose Byrne</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Romance</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820233000 -0300" stop="20210821001000 -0300" channel="HBO Pop HD">
+    <title lang="pt">Hard</title>
+    <desc lang="pt">Um espetáculo arruinado. Segredos revelados. Um romance reatado. E um investidor que pode ser a maior das tentações.(n)</desc>
+    <credits>
+      <director>Rodrigo Meirelles</director>
+      <actor>Natacha Lindinger</actor>
+      <actor>François Vincentelli</actor>
+      <actor>Stéphan Wojtowicz</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821001000 -0300" stop="20210821015500 -0300" channel="HBO Pop HD">
+    <title lang="pt">Talk-Show - Reinventando a Comédia</title>
+    <desc lang="pt">A conservadora apresentadora de um talk-show noturno contrata uma mulher como roteirista depois de ser criticada pela falta de diversidade de sua equipe.(n)</desc>
+    <credits>
+      <director>Nisha Ganatra</director>
+      <actor>John Lithgow</actor>
+      <actor>Emma Thompson</actor>
+      <actor>Reid Scott</actor>
+      <actor>Max Casella</actor>
+      <actor>Mindy Kaling</actor>
+      <actor>Paul Walter Hauser</actor>
+      <actor>Denis O'hare</actor>
+      <actor>Hugh Dancy</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821015500 -0300" stop="20210821035500 -0300" channel="HBO Pop HD">
+    <title lang="pt">Morrer Mil Vezes</title>
+    <desc lang="pt">Um ex-policial alcoólatra é contratado por uma prostituta de luxo para ajudá-la a se livrar de uma vez por todas de seu cafetão violento e de seu namorado colombiano, envolvido num milionário esquema internacional de tráfico de drogas.(n)</desc>
+    <credits>
+      <director>Hal Ashby</director>
+      <actor>Jeff Bridges</actor>
+      <actor>Rosanna Arquette</actor>
+      <actor>Andy Garcia</actor>
+      <actor>Alexandra Paul</actor>
+      <actor>Randy Brooks</actor>
+    </credits>
+    <date>1986</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Policial</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821035500 -0300" stop="20210821060000 -0300" channel="HBO Pop HD">
+    <title lang="pt">As Bruxas de Eastwick</title>
+    <desc lang="pt">Três mulheres de New England, entediadas e com uma vida sem emoções, inocentemente, evocam o espírito de um homem misterioso que, acreditavam, fosse satisfazer todos seus desejos.(n)</desc>
+    <credits>
+      <director>George Miller</director>
+      <actor>Jack Nicholson</actor>
+      <actor>Cher</actor>
+      <actor>Susan Sarandon</actor>
+      <actor>Michelle Pfeiffer</actor>
+      <actor>Veronica Cartwright</actor>
+      <actor>Richard Jenkins</actor>
+      <actor>Keith Jochim</actor>
+      <actor>Carol Struycken</actor>
+      <actor>Michele Sincavage</actor>
+      <actor>Nicol Sincavage</actor>
+      <actor>Helen Lloyd Breed</actor>
+    </credits>
+    <date>1987</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_asbruxaseastwick01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821073200 -0300" channel="HBO Pop HD">
+    <title lang="pt">Débi e Lóide 2 - Quando Débi Conheceu Lóide</title>
+    <desc lang="pt">Lloyd era conhecido como o rapaz mais estúpido do colégio. Isso até a chegada de seu amigo Harry. Quando descobrem que foram postos numa classe "especial", a dupla decide lutar para recuperar seu lugar na escola.(n)</desc>
+    <credits>
+      <director>Troy Miller</director>
+      <actor>Derek Richardson</actor>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Eugene Levy</actor>
+      <actor>Cheri Oteri</actor>
+      <actor>Rachel Nichols</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_debieloidequandodebiconheceuloide01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821073200 -0300" stop="20210821093200 -0300" channel="HBO Pop HD">
+    <title lang="pt">Pegar e Largar</title>
+    <desc lang="pt">Depois da repentina morte de seu amado, Gray Wheeler busca refúgio na turma de amigos dele: Sam, Dennis e Fritz. Aos poucos descobre segredos do namorado falecido.(n)</desc>
+    <credits>
+      <director>Susannah Grant</director>
+      <actor>Juliette Lewis</actor>
+      <actor>Timothy Olyphant</actor>
+      <actor>Jennifer Garner</actor>
+      <actor>Kevin Smith</actor>
+      <actor>Kyla Anderson</actor>
+      <actor>Tina Lifford</actor>
+      <actor>Christopher Redman</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_pegarelargar01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821093200 -0300" stop="20210821111000 -0300" channel="HBO Pop HD">
+    <title lang="pt">Tudo para Ficar com Ele</title>
+    <desc lang="pt">Modelo solteira se apaixona e persegue em viagem o homem que acha certo para sua vida.(n)</desc>
+    <credits>
+      <director>Roger Kumble</director>
+      <actor>Cameron Diaz</actor>
+      <actor>Christina Applegate</actor>
+      <actor>Thomas Jane</actor>
+      <actor>Selma Blair</actor>
+      <actor>Jason Bateman</actor>
+      <actor>Frank Grillo</actor>
+      <actor>Eddie McClintock</actor>
+      <actor>Lillian Adams</actor>
+      <actor>Johnny Messner</actor>
+      <actor>Sybil Temtchine</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_tudopraficarcomele01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821111000 -0300" stop="20210821125000 -0300" channel="HBO Pop HD">
+    <title lang="pt">Lado a Lado Com o Amor</title>
+    <desc lang="pt">Próximo de seu trigésimo aniversário, a terapeuta Lucy se vê prestes a cumprir o pacto que fez com o pintor Joe, seu melhor amigo.(n)</desc>
+    <credits>
+      <director>Eric Schaeffer</director>
+      <actor>Sarah Jessica Parker</actor>
+      <actor>Eric Schaeffer</actor>
+      <actor>Ben Stiller</actor>
+      <actor>Elle Macpherson</actor>
+      <actor>James Rebhorn</actor>
+      <actor>Robert John Burke</actor>
+      <actor>David Thronton</actor>
+      <actor>Bill Sage</actor>
+      <actor>Dominic Chianese</actor>
+      <actor>Scarlett Johansson</actor>
+      <actor>Michael Storms</actor>
+      <actor>Jason Myers</actor>
+      <actor>Emily Hart</actor>
+      <actor>Paul Greco</actor>
+      <actor>Mujibur Rahman</actor>
+    </credits>
+    <date>1996</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Romance</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821125000 -0300" stop="20210821143500 -0300" channel="HBO Pop HD">
+    <title lang="pt">Quando Você Chegou</title>
+    <desc lang="pt">Maisie Williams (Game of Thrones) interpreta Skye, uma jovem com uma doença terminal e uma lista de coisas para fazer antes de morrer.(n)</desc>
+    <credits>
+      <director>Peter Hutchings</director>
+      <actor>Asa Butterfield</actor>
+      <actor>Maisie Williams</actor>
+      <actor>Nina Dobrev</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821143500 -0300" stop="20210821162000 -0300" channel="HBO Pop HD">
+    <title lang="pt">Será Que?</title>
+    <desc lang="pt">Wallace conhece a encantadora Chantry em uma festa. Ele ainda não superou o término de uma relação e ela tem um relacionamento estável. Como se sentem muito bem juntos, combinam de se encontrarem novamente como amigos.(n)</desc>
+    <credits>
+      <director>Michael Dowse</director>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Zoe Kazan</actor>
+      <actor>Megan Park</actor>
+      <actor>Adam Driver</actor>
+      <actor>Mackenzie Davis</actor>
+      <actor>Rafe Spall</actor>
+      <actor>Lucius Hoyos</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Romance</category>
+    <country lang="pt">Irlanda</country>
+    <country lang="pt">Canadá</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821162000 -0300" stop="20210821181200 -0300" channel="HBO Pop HD">
+    <title lang="pt">Passe Livre</title>
+    <desc lang="pt">Dois homens casados vivem olhando para outras mulheres. Suas esposas estão cheias desse comportamento e lhes dão um "Passe Livre": Uma semana de descanso do casamento em que podem fazer o que quiserem.(n)</desc>
+    <credits>
+      <director>Bobby Farrelly</director>
+      <director>Peter Farrelly</director>
+      <actor>Christina Applegate</actor>
+      <actor>Peter Farrelly</actor>
+      <actor>Jenna Fischer</actor>
+      <actor>Owen Wilson</actor>
+      <actor>Bobby Farrelly</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_passelivre01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821181200 -0300" stop="20210821201500 -0300" channel="HBO Pop HD">
+    <title lang="pt">Esposa de Mentirinha</title>
+    <desc lang="pt">Em uma viagem ao Havaí, um cirurgião plástico convence sua fiel assistente a se fazer passar por sua ex-mulher a fim de cobrir uma mentira que contou para sua namorada muito mais jovem.(n)</desc>
+    <credits>
+      <director>Dennis Dugan</director>
+      <actor>Dave Matthews</actor>
+      <actor>Nick Swardson</actor>
+      <actor>Nicole Kidman</actor>
+      <actor>Jennifer Aniston</actor>
+      <actor>Brooklyn Decker</actor>
+      <actor>Adam Sandler</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_esposadementirinha01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821201500 -0300" stop="20210821220000 -0300" channel="HBO Pop HD">
+    <title lang="pt">Quero Matar meu Chefe</title>
+    <desc lang="pt">Três amigos têm um problema em comum: eles odeiam seus chefes exploradores. Assim, criam um plano. Já que não podem pedir demissão, contratam um consultor que ajudará a matar os chefes.(n)</desc>
+    <credits>
+      <director>Seth Gordon</director>
+      <actor>Donald Sutherland</actor>
+      <actor>Reginald Ballard</actor>
+      <actor>Jason Sudeikis</actor>
+      <actor>Jennifer Aniston</actor>
+      <actor>Kevin Spacey</actor>
+      <actor>Steve Wiebe</actor>
+      <actor>Jason Bateman</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_queromatarmeuchefe01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821220000 -0300" stop="20210822000500 -0300" channel="HBO Pop HD">
+    <title lang="pt">Burlesque</title>
+    <desc lang="pt">Os melhores dias do Bulesque Lounge ficaram para trás... Tess, uma bailarina aposentada e dona do local, luta para manter o velho teatro, enfrentando todo tipo de dificuldades financeiras e artísticas.(n)</desc>
+    <credits>
+      <director>Steve Antin</director>
+      <actor>Christina Aguilera</actor>
+      <actor>Cher</actor>
+      <actor>Eric Dane</actor>
+      <actor>Alan Cumming</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_burlesque01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
     </rating>
   </programme>
 </tv>
