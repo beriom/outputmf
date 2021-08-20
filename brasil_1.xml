@@ -360,10 +360,12 @@
   </channel>
   <channel id="MTV HD">
     <display-name lang="pt">MTV HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/mtv.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="MTV Live HD">
     <display-name lang="pt">MTV Live HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/mtvlivehd.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Multishow HD">
@@ -12408,6 +12410,361 @@
     <country lang="pt">EUA</country>
     <rating system="BR">
       <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820163500 -0300" stop="20210820170000 -0300" channel="MTV HD">
+    <title lang="pt">Minha Vida na MTV</title>
+    <desc lang="pt">Já são 4 décadas desde que a revolução musical começou a ser televisionada! A MTV vai levar os fãs de música em uma viagem nostálgica para juntos revivermos os momentos mais impactantes, inesquecíveis e icônicos da música.(n)</desc>
+    <credits>
+      <director>Jason R. Saro</director>
+      <actor>Saro</actor>
+      <actor>Jason R.; Conroy</actor>
+      <actor>Curtis; Santos</actor>
+      <actor>Eric</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820170000 -0300" stop="20210820172500 -0300" channel="MTV HD">
+    <title lang="pt">Minha Vida na MTV</title>
+    <desc lang="pt">Já são 4 décadas desde que a revolução musical começou a ser televisionada! A MTV vai levar os fãs de música em uma viagem nostálgica para juntos revivermos os momentos mais impactantes, inesquecíveis e icônicos da música.(n)</desc>
+    <credits>
+      <director>Jason R. Saro</director>
+      <actor>Saro</actor>
+      <actor>Jason R.; Conroy</actor>
+      <actor>Curtis; Santos</actor>
+      <actor>Eric</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820172500 -0300" stop="20210820173000 -0300" channel="MTV HD">
+    <title lang="pt">Mtv Miaw Top</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820173000 -0300" stop="20210820185500 -0300" channel="MTV HD">
+    <title lang="pt">MTV Hits</title>
+    <desc lang="pt">MTV Hits é a seleção dos melhores clipes para todos os gostos. Com apresentação de Bia Coelho, Spartacus Santiago, confira essa seleção de vídeos com direito a tweets da nossa audiência (e do estagi mais querido do brasil).(n)</desc>
+    <credits>
+      <director>Caio Corsalette</director>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_mtvhits01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820185500 -0300" stop="20210820190000 -0300" channel="MTV HD">
+    <title lang="pt">Mtv Miaw Top</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820190500 -0300" channel="MTV HD">
+    <title lang="pt">Porta Na MTV</title>
+    <desc lang="pt">A cada semana você vai ver as melhores esquetes do Porta dos Fundos na MTV.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_portanamtv01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820190500 -0300" stop="20210820200000 -0300" channel="MTV HD">
+    <title lang="pt">Adotada</title>
+    <desc lang="pt">Mareu chega a uma casa dominada pelos homens. A mãe é única mulher da casa e Mareu dá o seu jeito de trazer um tom feminino para toda a história e mostra para a família quem realmente manda.(n)</desc>
+    <credits>
+      <director>Ernani nunes</director>
+      <actor>Maria Eugênia Suconic</actor>
+      <actor>Érica Suconic</actor>
+      <actor>Supla</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/adotada01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820210000 -0300" channel="MTV HD">
+    <title lang="pt">De Férias Com o Ex Brasil - A Treta não Tira Férias</title>
+    <desc lang="pt">Em De Férias com o Ex Brasil - A Treta não tira Férias vamos rever as melhores cenas do Melhor Reality do Mundo!(n)</desc>
+    <credits>
+      <director>Chica Barros</director>
+      <actor>Gabi Prado</actor>
+      <actor>Tati Dias</actor>
+      <actor>Bifão</actor>
+      <actor>Lipe</actor>
+      <actor>Any</actor>
+      <actor>Yá</actor>
+      <actor>Matheus</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_deferiascomoexbrasilatreta01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820210000 -0300" stop="20210820220000 -0300" channel="MTV HD">
+    <title lang="pt">De Férias Com o Ex Brasil - A Treta não Tira Férias</title>
+    <desc lang="pt">Em De Férias com o Ex Brasil - A Treta não tira Férias vamos rever as melhores cenas do Melhor Reality do Mundo!(n)</desc>
+    <credits>
+      <director>Chica Barros</director>
+      <actor>Gabi Prado</actor>
+      <actor>Tati Dias</actor>
+      <actor>Bifão</actor>
+      <actor>Lipe</actor>
+      <actor>Any</actor>
+      <actor>Yá</actor>
+      <actor>Matheus</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_deferiascomoexbrasilatreta01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820230000 -0300" channel="MTV HD">
+    <title lang="pt">Acapulco Shore</title>
+    <desc lang="pt">Acapulco Shore é a versão mexicana do sucesso americano 'Jersey Shore'. O Reality, agora em terras latinas, promete muita polêmica, Tequila e momentos Calientes.(n)</desc>
+    <credits>
+      <director>Juan Bernardo Sánchez Mejía</director>
+      <actor>González</actor>
+      <actor>Mane Pindter</actor>
+      <actor>Karime Fernández</actor>
+      <actor>Tadeo Zambrano</actor>
+      <actor>Brenda El Chile</actor>
+      <actor>Eduardo Lozada</actor>
+      <actor>Juan Fernando Arnold</actor>
+      <actor>Allan Saide</actor>
+      <actor>Evie Saddy</actor>
+      <actor>Flávia Nader</actor>
+      <actor>Gustavo Cezar</actor>
+      <actor>Mabel Sierpe</actor>
+      <actor>Nando Barros</actor>
+      <actor>Vinicius Vignolo</actor>
+      <actor>Paulo Joia</actor>
+      <actor>Rebeca Palomanes</actor>
+      <actor>Helena Zam</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/acapulcoshore01.jpg" />
+    <country lang="pt">México</country>
+    <episode-num system="onscreen">S8 E9</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210821000000 -0300" channel="MTV HD">
+    <title lang="pt">Acapulco Shore</title>
+    <desc lang="pt">Acapulco Shore é a versão mexicana do sucesso americano 'Jersey Shore'. O Reality, agora em terras latinas, promete muita polêmica, Tequila e momentos Calientes.(n)</desc>
+    <credits>
+      <director>Juan Bernardo Sánchez Mejía</director>
+      <actor>González</actor>
+      <actor>Mane Pindter</actor>
+      <actor>Karime Fernández</actor>
+      <actor>Tadeo Zambrano</actor>
+      <actor>Brenda El Chile</actor>
+      <actor>Eduardo Lozada</actor>
+      <actor>Juan Fernando Arnold</actor>
+      <actor>Allan Saide</actor>
+      <actor>Evie Saddy</actor>
+      <actor>Flávia Nader</actor>
+      <actor>Gustavo Cezar</actor>
+      <actor>Mabel Sierpe</actor>
+      <actor>Nando Barros</actor>
+      <actor>Vinicius Vignolo</actor>
+      <actor>Paulo Joia</actor>
+      <actor>Rebeca Palomanes</actor>
+      <actor>Helena Zam</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/acapulcoshore01.jpg" />
+    <country lang="pt">México</country>
+    <episode-num system="onscreen">S8</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820163000 -0300" stop="20210820170000 -0300" channel="MTV Live HD">
+    <title lang="pt">Hot Right Now!</title>
+    <desc lang="pt">Nós trazemos a você os vídeos musicais mais quentes do mundo agora!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820170000 -0300" stop="20210820174500 -0300" channel="MTV Live HD">
+    <title lang="pt">World Stage</title>
+    <desc lang="pt">A lendária banda de rock americana Green Day apresenta um cenário explosivo na frente de 10.000 fãs emocionados em Sevilha, exclusivamente para o MTV World Stage, incluindo as faixas Good Riddance e American Idiot.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/worldstageflorida01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E126</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820174500 -0300" stop="20210820180500 -0300" channel="MTV Live HD">
+    <title lang="pt">MTV Diary</title>
+    <desc lang="pt">O primeiro convite para a vida de um artista. De suas casas e vidas pessoais, às experiências na estrada que atestam uma realidade não censurada, vemos os momentos de suas vidas como eles acontecem.(n)</desc>
+    <date>2000</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820180500 -0300" stop="20210820183000 -0300" channel="MTV Live HD">
+    <title lang="pt">MTV Diary</title>
+    <desc lang="pt">O primeiro convite para a vida de um artista. De suas casas e vidas pessoais, às experiências na estrada que atestam uma realidade não censurada, vemos os momentos de suas vidas como eles acontecem.(n)</desc>
+    <date>2002</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820183000 -0300" stop="20210820191500 -0300" channel="MTV Live HD">
+    <title lang="pt">Mtv Unplugged</title>
+    <desc lang="pt">A aclamada série de música acústica da MTV mostra o trabalho do maior artista de hoje e apresenta as estrelas de amanhã.(n)</desc>
+    <date>1999</date>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820191500 -0300" stop="20210820193500 -0300" channel="MTV Live HD">
+    <title lang="pt">MTV Unplugged</title>
+    <desc lang="pt">Aproveitando o sucesso de seu álbum de estreia, o Pearl Jam gravou este episódio Unplugged à meia-noite no Kaufman Astoria Studios em março de 1992.(n)</desc>
+    <date>1992</date>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820193500 -0300" stop="20210820200000 -0300" channel="MTV Live HD">
+    <title lang="pt">Rocks Special: Kings Of Leon</title>
+    <desc lang="pt">Jack Saunders conversa com Caleb e Nathan do Kings Of Leon sobre seu novo álbum enorme, voltar em turnê e jogar golfe!(n)</desc>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820213000 -0300" channel="MTV Live HD">
+    <title lang="pt">20 Biggest Worldwide No.1s!</title>
+    <desc lang="pt">Confira 20 dos maiores sucessos que chegaram ao primeiro lugar no mundo todo!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820213000 -0300" stop="20210820220000 -0300" channel="MTV Live HD">
+    <title lang="pt">Hot Right Now!</title>
+    <desc lang="pt">Nós trazemos a você os vídeos musicais mais quentes do mundo agora!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820224500 -0300" channel="MTV Live HD">
+    <title lang="pt">Behind the Music</title>
+    <desc lang="pt">Esta série de documentários de uma hora examina histórias pessoais convincentes sobre o sucesso, a tragédia e o triunfo de diferentes artistas.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Biografia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/behindthemusic01.jpg" />
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820224500 -0300" stop="20210820230000 -0300" channel="MTV Live HD">
+    <title lang="pt">Jennifer Lopez</title>
+    <desc lang="pt">De "Jenny From The Block" a seu último filme, J. Lo se tornou um ícone do cinema, da moda e da música. The Ride segue sua jornada do Bronx para conquistar Hollywood e as paradas.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210820230500 -0300" channel="MTV Live HD">
+    <title lang="pt">Hot Right Now!</title>
+    <desc lang="pt">Nós trazemos a você os vídeos musicais mais quentes do mundo agora!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820230500 -0300" stop="20210820233000 -0300" channel="MTV Live HD">
+    <title lang="pt">Jennifer Lopez</title>
+    <desc lang="pt">A Parte 2 segue o retorno de J.Lo aos holofotes e seu "segundo ato" pessoal e profissional, incluindo a conquista do Prêmio Vanguard no VMA da MTV e a quebra de recordes de Las Vegas.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820233000 -0300" stop="20210821010000 -0300" channel="MTV Live HD">
+    <title lang="pt">MTV Rewind</title>
+    <desc lang="pt">Entre na MTV Time Machine e viaje de volta a 2016 para verificar quais faixas estavam roubando nossos corações e dominando as paradas!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>12</value>
     </rating>
   </programme>
 </tv>
