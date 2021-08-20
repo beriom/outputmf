@@ -30690,4 +30690,213 @@
       <value>L</value>
     </rating>
   </programme>
+  <programme start="20210820090000 -0300" stop="20210820110000 -0300" channel="ESPN HD">
+    <title lang="pt">Celta x Atlético Madrid</title>
+    <desc lang="pt">A Liga das Estrelas reúne os mais fantásticos jogadores do futebol mundial. Barça, Real Madrid, Atletico de Madrid grandes equipes em busca do título mais cobiçado.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820110000 -0300" stop="20210820113000 -0300" channel="ESPN HD">
+    <title lang="pt">NFL: Destaques Do Super Bowl Xlix: New England Patriots x Seattle Seahawks</title>
+    <desc lang="pt">Relembre grandes confrontos do Super Bowl. Destaques sobre os mais importantes jogos de futebol americano da história.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_nfloaklandraidersxdenverbronc01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820113000 -0300" stop="20210820120000 -0300" channel="ESPN HD">
+    <title lang="pt">NFL: Destaques do Super Bowl 50: Carolina Panthers x Denver Broncos</title>
+    <desc lang="pt">Relembre grandes confrontos do Super Bowl. Destaques sobre os mais importantes jogos de futebol americano da história.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_nfloaklandraidersxdenverbronc01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820120000 -0300" stop="20210820200000 -0300" channel="ESPN HD">
+    <title lang="pt">Atp 1000: Cincinnati - Ao Vivo</title>
+    <desc lang="pt">O ATP Masters 1000 é a mais importante série do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Tênis</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_atp250buenosaires01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820210000 -0300" channel="ESPN HD">
+    <title lang="pt">ESPN League - Ao Vivo</title>
+    <desc lang="pt">Um mosaico do que acontece no esporte em todo o mundo. Os fatos mais importantes, gols, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada, opinião transparente, sem abrir mão do bom humor.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_espnleague01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820210000 -0300" stop="20210821000000 -0300" channel="ESPN HD">
+    <title lang="pt">NFL: Kansas City Chiefs x Arizona Cardinals - Ao Vivo</title>
+    <desc lang="pt">As equipes da NFL se preparam para a próxima temporada. Assista os confrontos preliminares com o melhor do futebol americano.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_nfloaklandraidersxdenverbronc01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821000000 -0300" stop="20210821003000 -0300" channel="ESPN HD">
+    <title lang="pt">Ciclismo: Destaques Da Vuelta A España</title>
+    <desc lang="pt">Todas as principais provas do ciclismo de estrada estão nos canais ESPN. Confira as emocionantes corridas, repletas de estratégia e superação, ao longo de magníficas paisagens.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Ciclismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821003000 -0300" stop="20210821013000 -0300" channel="ESPN HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_sportscenter01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821013000 -0300" stop="20210821043000 -0300" channel="ESPN HD">
+    <title lang="pt">Ciclismo: Vuelta A España: Etapa 7: Gandía &gt; Balcón De Alicante</title>
+    <desc lang="pt">Realizada desde 1935, a Vuelta a España é um dos três principais eventos de ciclismo de estrada do mundo (ao lado do Tour de France e do Giro d'Italia). Confira todas as etapas nos canais ESPN.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Ciclismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821043000 -0300" stop="20210821063000 -0300" channel="ESPN HD">
+    <title lang="pt">ESPN Knockout: Bellator 265: Cheick Kongo x Sergei Kharitonov</title>
+    <desc lang="pt">Acompanhe o melhor da segunda organização de artes marciais mistas dos Estados Unidos, as lutas válidas pelo Bellator.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821063000 -0300" stop="20210821080000 -0300" channel="ESPN HD">
+    <title lang="pt">ESPN Knockout: Hasibullah Ahmadi x Rauf Aghayev</title>
+    <desc lang="pt">O melhor do boxe internacional nos canais ESPN.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Boxe</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821080000 -0300" stop="20210821083000 -0300" channel="ESPN HD">
+    <title lang="pt">Inside Serie A</title>
+    <desc lang="pt">Uma previsão sobre os próximos jogos do Campeonato Italiano.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821083000 -0300" stop="20210821090000 -0300" channel="ESPN HD">
+    <title lang="pt">Mundo Premier League</title>
+    <desc lang="pt">Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_mundopremierleague01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821090000 -0300" stop="20210821100000 -0300" channel="ESPN HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_sportscenter01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821100000 -0300" stop="20210821103000 -0300" channel="ESPN HD">
+    <title lang="pt">La Liga World</title>
+    <desc lang="pt">Confira, em primeira mão, tudo o que antecede a próxima rodada da Liga espanhola. Análises táticas, curiosidades, perfis e reportagens exclusivas.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821103000 -0300" stop="20210821113000 -0300" channel="ESPN HD">
+    <title lang="pt">ESPN League</title>
+    <desc lang="pt">Análise completa das principais ligas esportivas americanas: NFL (futebol americano), NBA (basquete), MLB (baseball) e NHL (hóquei).(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_espnleague01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821113000 -0300" stop="20210821120000 -0300" channel="ESPN HD">
+    <title lang="pt">Atp Tour Uncovered</title>
+    <desc lang="pt">Revista semanal sobre o circuito mundial da ATP. Reportagens, matérias exclusivas, entrevistas e análises sobre o melhor do tênis profissional.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821120000 -0300" stop="20210821190000 -0300" channel="ESPN HD">
+    <title lang="pt">Atp 1000: Cincinnati - Ao Vivo</title>
+    <desc lang="pt">O ATP Masters 1000 é a mais importante série do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Tênis</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_atp250buenosaires01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821190000 -0300" stop="20210821210000 -0300" channel="ESPN HD">
+    <title lang="pt">Atp 1000: Cincinnati - Ao Vivo</title>
+    <desc lang="pt">O ATP Masters 1000 é a mais importante série do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Tênis</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_atp250buenosaires01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821210000 -0300" stop="20210821213000 -0300" channel="ESPN HD">
+    <title lang="pt">Atp Tour Uncovered</title>
+    <desc lang="pt">Revista semanal sobre o circuito mundial da ATP. Reportagens, matérias exclusivas, entrevistas e análises sobre o melhor do tênis profissional.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821213000 -0300" stop="20210821220000 -0300" channel="ESPN HD">
+    <title lang="pt">Spirit of Yachting: Sail Gp Plymouth</title>
+    <desc lang="pt">Um mergulho fascinante no mundo do iatismo. Conheça as histórias por trás das corridas, onde se revela a paixão e a dedicação necessária para fazer parte da elite deste esporte.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Iatismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821220000 -0300" stop="20210822010000 -0300" channel="ESPN HD">
+    <title lang="pt">ESPN Knockout: PBC: Manny Pacquiao x Yordenis Ugas - Ao Vivo</title>
+    <desc lang="pt">O melhor do boxe internacional nos canais ESPN.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
 </tv>
