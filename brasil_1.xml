@@ -31683,4 +31683,935 @@
       <value>14</value>
     </rating>
   </programme>
+  <programme start="20210820093000 -0300" stop="20210820100000 -0300" channel="Fish TV HD">
+    <title lang="pt">Pesca em Ação</title>
+    <desc lang="pt">Léo Barabas vai até a Pousada Rio Xingu, na Amazônia, para uma pescaria de tucunarés. Com apoio do guia Reginaldo, o apresentador captura o embaixador da pesca nos pedrais do Rio Xingu.(n)</desc>
+    <credits>
+      <director>Marcel Eidy Nishiyama</director>
+      <actor>Léo Barabas</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Pesca</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820100000 -0300" stop="20210820103000 -0300" channel="Fish TV HD">
+    <title lang="pt">Elas na Pesca</title>
+    <desc lang="pt">Luana Karine está na Argentina, fazendo a famosa pescaria de dourados. O rio Paraná nunca decepciona, e exemplares gigantes são capturados. Para essa aventura, a Pedrinho Pesca deu total suporte.(n)</desc>
+    <credits>
+      <director>Johnny Hoffmann</director>
+      <director>Maurício Brenner</director>
+      <actor>Luana Karine</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_elasnapesca01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820103000 -0300" stop="20210820113000 -0300" channel="Fish TV HD">
+    <title lang="pt">Na Pegada do Fly</title>
+    <desc lang="pt">Kid Ocelos está em Estância São José, no Rio Grande do Sul, para uma pescaria de traíras. Utilizando iscas de superfície, o apresentador captura diversos exemplares.(n)</desc>
+    <credits>
+      <director>Maurício Brenner</director>
+      <director>Johnny Hoffmann</director>
+      <actor>Kid Ocelos</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/napegadadoflypoppernoflybatidasviolentas01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820113000 -0300" stop="20210820120000 -0300" channel="Fish TV HD">
+    <title lang="pt">Aquarismo</title>
+    <desc lang="pt">Nesse episódio de Aquarismo, André Longarço conversa com o proprietário do Grupo Onda, Alexandre Talarico.(n)</desc>
+    <credits>
+      <director>Marcel Eidy Nishiyama</director>
+      <actor>André Longarço</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S6 E14</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820120000 -0300" stop="20210820130000 -0300" channel="Fish TV HD">
+    <title lang="pt">Pura Pesca</title>
+    <desc lang="pt">Eduardo Monteiro está na Vila do Mota, no Pará, capturando e soltando os robalos da região. Entre uma captura e outra, o apresentador compartilha diversas dicas de montagem, iscas e influência de marés.(n)</desc>
+    <credits>
+      <director>Carlos Eduardo Zahluth Monteiro</director>
+      <actor>Eduardo Monteiro</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Pesca</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_purapesca01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S5 E16</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820130000 -0300" stop="20210820140000 -0300" channel="Fish TV HD">
+    <title lang="pt">Campeonato Brasileiro em Pesqueiros</title>
+    <desc lang="pt">A 4ª etapa classificatória do Campeonato Paulista em Pesqueiros chegou! Os competidores colocam em prática as estratégias na arena do Parque Maeda, em Itu/SP, e vão em busca das últimas três colocações para a grande final do CBP.(n)</desc>
+    <credits>
+      <director>Guilherme Motta</director>
+      <actor>Luciano e Kleber</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Pesca</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_campeonatobrasileiroempesqueiros01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E14</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820140000 -0300" stop="20210820143000 -0300" channel="Fish TV HD">
+    <title lang="pt">Destinos</title>
+    <desc lang="pt">Laís Vanessa está novamente nessa pousada tão incrível chamada Asa Branca. É a segunda vez da pescadora por lá, que aproveitou para recordar momentos maravilhosos.(n)</desc>
+    <credits>
+      <director>Johnny Hoffmann</director>
+      <director>Mauricio Brenner</director>
+      <actor>Laís Vanessa</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Viagem</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S7 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820143000 -0300" stop="20210820150000 -0300" channel="Fish TV HD">
+    <title lang="pt">Campeonato de Dourados</title>
+    <desc lang="pt">Chegou a hora de reviver as emoções e conhecer os grandes vencedores da etapa 1 do primeiro reality show de pesca do Brasil.(n)</desc>
+    <credits>
+      <director>Guilherme Motta</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820150000 -0300" stop="20210820153000 -0300" channel="Fish TV HD">
+    <title lang="pt">Saltwater</title>
+    <desc lang="pt">Para começar a terceira temporada com tudo, Márcio e Rodrigo fazem uma pescaria muito técnica. Navegando pelos canais da Baixada Santista, utilizam plugs para atrair os robalos que habitam essas águas.(n)</desc>
+    <credits>
+      <director>Marcel Eydi Nichiyama</director>
+      <actor>Rodrigo Morelli</actor>
+      <actor>Willian Miyata</actor>
+      <actor>Márcio Tutuhi</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Pesca</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_saltwater01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820153000 -0300" stop="20210820160000 -0300" channel="Fish TV HD">
+    <title lang="pt">Provas e Torneios</title>
+    <desc lang="pt">Em Barcelos, no Amazonas, Alexandre Gralak mostra as emoções do 1º torneio internacional de Pesca Esportiva.(n)</desc>
+    <credits>
+      <director>Maurício Brenner</director>
+      <director>Johnny Hoffmann</director>
+      <actor>Alexandre Gralak</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S7 E22</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820160000 -0300" stop="20210820163000 -0300" channel="Fish TV HD">
+    <title lang="pt">Remos e Rumos</title>
+    <desc lang="pt">Em Santa Catarina, o Remos e Rumos vai até Florianópolis, para uma aventura um pouco diferente. Desta vez, Zinho vai estar acompanhado do seu amigo e guia de pesca com caiaque, Felipe. Nesta aventura o caiaqueiro embarca em algo diferente.(n)</desc>
+    <credits>
+      <director>Josué Pires Santiago</director>
+      <actor>Zinho</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Pesca</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820163000 -0300" stop="20210820170000 -0300" channel="Fish TV HD">
+    <title lang="pt">Fish TV News</title>
+    <desc lang="pt">Neste episódio do Fish TV News, veja uma entrevista com duas pousadas que já estão operando: Rio Manso e Pantanal Norte.(n)</desc>
+    <credits>
+      <director>Guilherme Motta</director>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_fishtvnews01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820170000 -0300" stop="20210820180000 -0300" channel="Fish TV HD">
+    <title lang="pt">Fish TV Show</title>
+    <desc lang="pt">Gustavo Sarti entrevista Thiago Felzezn, Capitão de IGFA (International Game Fish Association), e bate um papo com Kid Ocelos e alguns brasileiros que bateram recordes mundiais.(n)</desc>
+    <credits>
+      <director>Guilherme Motta</director>
+      <actor>Gustavo Sarti</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820183000 -0300" channel="Fish TV HD">
+    <title lang="pt">Natureza Urbana</title>
+    <desc lang="pt">O Natureza Urbana está no Parcel de Dom Pedro, localizado no Litoral Sul de São Paulo. Tiago Papan, com os guias Murilo e Andrem, embarcam em uma aventura nas águas salgadas em busca de belas espécies.(n)</desc>
+    <credits>
+      <director>Priscila Guimaraes Correa Gomes</director>
+      <actor>Tiago Papan</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820183000 -0300" stop="20210820190000 -0300" channel="Fish TV HD">
+    <title lang="pt">Contos</title>
+    <desc lang="pt">Qual o seu legado? O que deixará aos seus filhos e para as próximas gerações? No quarto episódio de Contos, Rubinho narra como o pesque e solte o fez repensar valores e mudar percepções.(n)</desc>
+    <credits>
+      <director>Vitor Guilherme Muller de David</director>
+      <director>Guilherme Motta</director>
+      <actor>Rubens de Almeida Prado</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820193000 -0300" channel="Fish TV HD">
+    <title lang="pt">Planeta Turismo</title>
+    <desc lang="pt">Ruy Façanário segue no Amazonas, mas agora desbravando o Rio Paxiúba. Com a presença de diversos animais silvestres, o apresentador navega pelo local e captura os peixes da região.(n)</desc>
+    <credits>
+      <director>Ruy Façanario</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820193000 -0300" stop="20210820203000 -0300" channel="Fish TV HD">
+    <title lang="pt">Família Nakamura</title>
+    <desc lang="pt">A Família Nakamura se aventura na região da Ilha da Queimada Grande, na baixada santista, para uma pescaria no mar.(n)</desc>
+    <credits>
+      <director>Nelson Nakamura</director>
+      <actor>Nelson</actor>
+      <actor>Renan</actor>
+      <actor>Vitor</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Pesca</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820203000 -0300" stop="20210820213000 -0300" channel="Fish TV HD">
+    <title lang="pt">A Meta</title>
+    <desc lang="pt">A Fase 3 de A Meta 5 começa hoje em Passo Fundo, no Rio Grande do Sul. Gaba está indo em busca da sua primeira meta, enquanto enfrenta um grande desafio: o frio.(n)</desc>
+    <credits>
+      <director>Maurício Brenner</director>
+      <director>Johnny Hoffmann</director>
+      <actor>Gaba</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ameta01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S5 E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820213000 -0300" stop="20210820220000 -0300" channel="Fish TV HD">
+    <title lang="pt">Remos e Rumos</title>
+    <desc lang="pt">Em Santa Catarina, o Remos e Rumos vai até Florianópolis, para uma aventura um pouco diferente. Desta vez, Zinho vai estar acompanhado do seu amigo e guia de pesca com caiaque, Felipe. Nesta aventura o caiaqueiro embarca em algo diferente.(n)</desc>
+    <credits>
+      <director>Josué Pires Santiago</director>
+      <actor>Zinho</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Pesca</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820223000 -0300" channel="Fish TV HD">
+    <title lang="pt">Guaíba</title>
+    <desc lang="pt">De pequenos pesqueiros a navios de grande calado, construir embarcações é uma atividade que fez sempre parte do cotidiano das populações do Guaíba.(n)</desc>
+    <credits>
+      <director>Pedro Alipio Carneiro Zimmermann</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820223000 -0300" stop="20210820230000 -0300" channel="Fish TV HD">
+    <title lang="pt">Pesqueiros do Brasil</title>
+    <desc lang="pt">Kleber Sanches está no Pesque Pague Taguatinga, no Distrito Federal, para uma pescaria de espécies variadas. E com os convidados Adriano e Glauter, vai em busca de mais troféus para o seu repertório. Venha conferir!(n)</desc>
+    <credits>
+      <director>Vitor Guilherme Muller de David</director>
+      <director>Guilherme Motta</director>
+      <actor>Kleber Sanches</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E15</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210820233000 -0300" channel="Fish TV HD">
+    <title lang="pt">Pesca em Ação</title>
+    <desc lang="pt">Léo Barabas vai até a Pousada Rio Xingu, na Amazônia, para uma pescaria de tucunarés. Com apoio do guia Reginaldo, o apresentador captura o embaixador da pesca nos pedrais do Rio Xingu.(n)</desc>
+    <credits>
+      <director>Marcel Eidy Nishiyama</director>
+      <actor>Léo Barabas</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Pesca</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820233000 -0300" stop="20210821000000 -0300" channel="Fish TV HD">
+    <title lang="pt">Slow Fishing</title>
+    <desc lang="pt">Cauê Ogata está no Hotel Fazenda Cabana do Pescador, em Bonito/MS, em busca das piraputangas do rio Miranda. Após passar por um perrengue para chegar ao local, Cauê é surpreendido pela beleza do lugar e pelas espécies que consegue fisgar.(n)</desc>
+    <credits>
+      <actor>Cauê Ogata</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Pesca</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821000000 -0300" stop="20210821030000 -0300" channel="Fish TV HD">
+    <title lang="pt">TV Shopping Brasil</title>
+    <desc lang="pt">Vendas através de TV por assinatura.(n)</desc>
+    <credits>
+      <director>Marcia Elaine Gerszevski Leite</director>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Televendas</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_tvshoppingbrasil01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821030000 -0300" stop="20210821034500 -0300" channel="Fish TV HD">
+    <title lang="pt">Coração de Pescador</title>
+    <desc lang="pt">No litoral baiano, Joel Datena vai pescar em alto mar. Lá, o apresentador vai encontrar muitos peixes brutos. Nesse episódio emocionante, o que não falta é ação e troféu na linha!(n)</desc>
+    <credits>
+      <director>Epitácio Vieira Marques</director>
+      <actor>Joel Datena</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Pesca</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_coracaodepescador01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S5 E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821034500 -0300" stop="20210821043500 -0300" channel="Fish TV HD">
+    <title lang="pt">A Meta</title>
+    <desc lang="pt">A meta continua no Pantanal. Gaba começa sua busca pela última espécie da fase 1 de A Meta 5: o pintado. É a meta ou nada!(n)</desc>
+    <credits>
+      <director>Maurício Brenner</director>
+      <director>Johnny Hoffmann</director>
+      <actor>Gaba</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ameta01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S5 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821043500 -0300" stop="20210821050000 -0300" channel="Fish TV HD">
+    <title lang="pt">Provas e Torneios</title>
+    <desc lang="pt">Para difundir a esportividade dos lagos da bacia do Rio Grande, em Planura, Minas Gerais, a prefeitura do local sediou o Planura Pesca 2019, terceira etapa do Circuito Tucuna Master.(n)</desc>
+    <credits>
+      <director>Maurício Brenner</director>
+      <director>Johnny Hoffmann</director>
+      <actor>Alexandre Gralak</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S7 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821050000 -0300" stop="20210821052500 -0300" channel="Fish TV HD">
+    <title lang="pt">Fish TV News</title>
+    <desc lang="pt">Com o coronavírus, o pescador deverá se adaptar para uma série de novos cuidados para o retorno da pescaria.(n)</desc>
+    <credits>
+      <director>Guilherme Motta</director>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_fishtvnews01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S7 E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821052500 -0300" stop="20210821054500 -0300" channel="Fish TV HD">
+    <title lang="pt">Aqua Negócios</title>
+    <desc lang="pt">Neste episódio nosso apresentador mostra a criação de camarão marinho e tilápia. Com dois detalhes bem interessantes: criados na mesma água e em salinidade de 28% ppm. Sim, tilápia criada em água salgada!(n)</desc>
+    <credits>
+      <director>Lawrence Ikeda</director>
+      <actor>Fábio Sussel</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821054500 -0300" stop="20210821061000 -0300" channel="Fish TV HD">
+    <title lang="pt">A Arte do Atado</title>
+    <desc lang="pt">Seguindo a linha de iscas simples, práticas de serem feitas e extremamente efetivas, Betinho ensina a confeccionar um grilo. Com poucos e versáteis materiais, qualquer um pescador de fly pode fazer esse atado.(n)</desc>
+    <credits>
+      <director>Johnny Hoffmann</director>
+      <director>Mauricio Brenner</director>
+      <actor>Betinho Oliveira</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/aartedoatadoaimportanciadasutilezaedosdetalhes01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S6 E11</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821061000 -0300" stop="20210821063500 -0300" channel="Fish TV HD">
+    <title lang="pt">A Vida nas Bacias Hidrográficas</title>
+    <desc lang="pt">A pequena Sales tem uma praia no rio Tietê, e o misterioso cemitério dos esquecidos. Araçatiba mais a frente é um pólo de agronegócios.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821063500 -0300" stop="20210821072500 -0300" channel="Fish TV HD">
+    <title lang="pt">Pura Pesca</title>
+    <desc lang="pt">Eduardo Monteiro está novamente no Rio Acari em busca dos esportivos tucunarés da região. Entre uma captura e outra, o apresentador compartilhar diversas técnicas para a pesca desse exemplar.(n)</desc>
+    <credits>
+      <director>Carlos Eduardo Zahluth Monteiro</director>
+      <actor>Eduardo Monteiro</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Pesca</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_purapesca01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S5 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821072500 -0300" stop="20210821074500 -0300" channel="Fish TV HD">
+    <title lang="pt">Pasión Por La Pesca</title>
+    <desc lang="pt">Na Argentina, Javier está em uma expedição com a pousada Gêmeos Pesca Esportiva. Corricando no rio Paranazão, o pescador encontra gigantes pintados ao lado do filho.(n)</desc>
+    <credits>
+      <director>Johnny Hoffmann</director>
+      <director>Maurício Brenner</director>
+      <actor>Javier Enrique</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/pasionporlapesca01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S7 E13</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821074500 -0300" stop="20210821081000 -0300" channel="Fish TV HD">
+    <title lang="pt">Campeonato de Dourados</title>
+    <desc lang="pt">Doze duplas de pescadores esportivos se encontram na pousada Gêmeos Pesca Esportiva, localizada em Ita Ibaté, província de Corrientes na Argentina.(n)</desc>
+    <credits>
+      <director>Guilherme Motta</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821081000 -0300" stop="20210821083500 -0300" channel="Fish TV HD">
+    <title lang="pt">Elas na Pesca</title>
+    <desc lang="pt">Com a Pedrinho Pesca dando suporte para essa pescaria, Luana Karine vai capturar dourados no rio Paraná. O conhecido afluxo Argentino mostra todo seu potencial pesqueiro, revelando os gigantes exemplares que habitam em suas águas.(n)</desc>
+    <credits>
+      <director>Johnny Hoffmann</director>
+      <director>Maurício Brenner</director>
+      <actor>Luana Karine</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_elasnapesca01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821083500 -0300" stop="20210821090000 -0300" channel="Fish TV HD">
+    <title lang="pt">Pesca Dinâmica</title>
+    <desc lang="pt">No pesqueiro Valle Verde, no Paraná, Reinold vai mostrar diferentes técnicas para pescar tilápias de fly.(n)</desc>
+    <credits>
+      <director>Alfred Reinold Baudisch</director>
+      <actor>Reinold Baudisch</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Pesca</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_pescadinamica01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E14</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821090000 -0300" stop="20210821100000 -0300" channel="Fish TV HD">
+    <title lang="pt">Pura Pesca</title>
+    <desc lang="pt">Eduardo Monteiro está em Salinópolis, no Pará, para uma pescaria no manguezal. Utilizando iscas artificiais o apresentador captura robalo, corvina e pescada amarela.(n)</desc>
+    <credits>
+      <director>Carlos Eduardo Zahluth Monteiro</director>
+      <actor>Eduardo Monteiro</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Pesca</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_purapesca01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S5 E17</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821100000 -0300" stop="20210821103000 -0300" channel="Fish TV HD">
+    <title lang="pt">Saltwater</title>
+    <desc lang="pt">Para começar a terceira temporada com tudo, Márcio e Rodrigo fazem uma pescaria muito técnica. Navegando pelos canais da Baixada Santista, utilizam plugs para atrair os robalos que habitam essas águas.(n)</desc>
+    <credits>
+      <director>Marcel Eydi Nichiyama</director>
+      <actor>Rodrigo Morelli</actor>
+      <actor>Willian Miyata</actor>
+      <actor>Márcio Tutuhi</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Pesca</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_saltwater01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821103000 -0300" stop="20210821110000 -0300" channel="Fish TV HD">
+    <title lang="pt">Pesca Dinâmica</title>
+    <desc lang="pt">No pesqueiro Valle Verde, em Mandirituba, Reinold pesca traíras ao lado de um amigo. E para capturar esses exemplares, os pescadores apostam em sistemas com plugs e frogs.(n)</desc>
+    <credits>
+      <director>Alfred Reinold Baudisch</director>
+      <actor>Reinold Baudisch</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Pesca</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_pescadinamica01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E15</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821110000 -0300" stop="20210821120000 -0300" channel="Fish TV HD">
+    <title lang="pt">Campeonato Brasileiro em Pesqueiros</title>
+    <desc lang="pt">A disputa por vagas na final do CBP segue na segunda etapa do Campeonato Mineiro. Depois de saírem pirarucus gigantes no primeiro dia de prova.(n)</desc>
+    <credits>
+      <director>Guilherme Motta</director>
+      <actor>Luciano e Kleber</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Pesca</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_campeonatobrasileiroempesqueiros01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821120000 -0300" stop="20210821123000 -0300" channel="Fish TV HD">
+    <title lang="pt">Pesqueiros do Brasil</title>
+    <desc lang="pt">Kleber Sanches está no Centro de Lazer Pitauá, em São Paulo, para uma pescaria de iscas variadas. E com seu convidado Luciano, vai em busca de Tambacus e Pacus. Venha conferir!(n)</desc>
+    <credits>
+      <director>Vitor Guilherme Muller de David</director>
+      <director>Guilherme Motta</director>
+      <actor>Kleber Sanches</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E14</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821123000 -0300" stop="20210821130000 -0300" channel="Fish TV HD">
+    <title lang="pt">Provas e Torneios</title>
+    <desc lang="pt">No Recanto da Pesca Esportiva São Rafael, em Guatambu/SC, Marcelo Telles mostra as emoções da Final do Campeonato Oeste Catarinense de Pesca Esportiva.(n)</desc>
+    <credits>
+      <director>Maurício Brenner</director>
+      <director>Johnny Hoffmann</director>
+      <actor>Alexandre Gralak</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S7 E21</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821130000 -0300" stop="20210821140000 -0300" channel="Fish TV HD">
+    <title lang="pt">Na Pegada do Fly</title>
+    <desc lang="pt">Kid Ocelos retorna ao Lago da Serra da Mesa na Pousada Vida de Peixe e embarca em mais uma aventura.(n)</desc>
+    <credits>
+      <director>Maurício Brenner</director>
+      <director>Johnny Hoffmann</director>
+      <actor>Kid Ocelos</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/napegadadoflypoppernoflybatidasviolentas01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821140000 -0300" stop="20210821143000 -0300" channel="Fish TV HD">
+    <title lang="pt">Saltwater</title>
+    <desc lang="pt">Pescando em costeira e mar abrigado com iscas naturais e artificiais, o time Saltwater encontra muita ação pelas águas da baixada santista. Nessa pescaria mesclada, uma variedade de exemplares briguentos vão exigir habilidade dos pescadores.(n)</desc>
+    <credits>
+      <director>Marcel Eydi Nichiyama</director>
+      <actor>Rodrigo Morelli</actor>
+      <actor>Willian Miyata</actor>
+      <actor>Márcio Tutuhi</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Pesca</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_saltwater01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821143000 -0300" stop="20210821150000 -0300" channel="Fish TV HD">
+    <title lang="pt">Biopesca</title>
+    <desc lang="pt">Lawrence Ikeda segue na Costa Esmeralda, no litoral norte de Santa Catarina, para uma pescaria variada. Utilizando iscas artificiais, o biopescador captura robalo-peva, corvina, sargo-de-beiço e miraguaia.(n)</desc>
+    <credits>
+      <director>Maurício Brenner</director>
+      <director>Johnny Hoffmann</director>
+      <actor>Lawrence Ikeda</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Pesca</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S9 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821150000 -0300" stop="20210821153000 -0300" channel="Fish TV HD">
+    <title lang="pt">Remos e Rumos</title>
+    <desc lang="pt">Em São Paulo, o Remos e Rumos vai até Itu, para mais uma aventura. Desta vez no Parque Maeda. Zinho vai te apresentar um dos primeiros pesqueiros do Brasil a ter pesca com caiaque.(n)</desc>
+    <credits>
+      <actor>Zinho</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Pesca</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821153000 -0300" stop="20210821160000 -0300" channel="Fish TV HD">
+    <title lang="pt">Contos</title>
+    <desc lang="pt">Assim como todo rio tem suas histórias, todo pescador também tem. E no segundo episódio de Contos, Rubinho compartilha as suas, que vão desde as lendas sobre o mapinguari, na Amazônia, até a maior pescaria de jaús da sua vida, no rio Juruena.(n)</desc>
+    <credits>
+      <director>Vitor Guilherme Muller de David</director>
+      <director>Guilherme Motta</director>
+      <actor>Rubens de Almeida Prado</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821160000 -0300" stop="20210821170000 -0300" channel="Fish TV HD">
+    <title lang="pt">Fish TV Show</title>
+    <desc lang="pt">Em um episódio totalmente dedicado aos pesqueiros, Gustavo Sarti conversa com Kleber Sanches, Fábio Mori, Luciano LP, Rafinha Minhoca e Lawrence Ikeda.(n)</desc>
+    <credits>
+      <director>Guilherme Motta</director>
+      <actor>Gustavo Sarti</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821170000 -0300" stop="20210821180000 -0300" channel="Fish TV HD">
+    <title lang="pt">A Meta</title>
+    <desc lang="pt">Gaba continua em Santa Catarina em busca da última espécie da fase 2. Alguns imprevistos na pescaria de costeira acabaram por mudar os planos.(n)</desc>
+    <credits>
+      <director>Maurício Brenner</director>
+      <director>Johnny Hoffmann</director>
+      <actor>Gaba</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ameta01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S5 E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821180000 -0300" stop="20210821183000 -0300" channel="Fish TV HD">
+    <title lang="pt">Pesca em Ação</title>
+    <desc lang="pt">Léo Barabas vai até a Pousada Bararati, no Amazonas, e se aventura no Rio Juruena. Ele encontra espécies variadas e inclui lindos troféus ao seu repertório. Porém um desses troféus irá te surpreender! Vem conferir!(n)</desc>
+    <credits>
+      <director>Marcel Eidy Nishiyama</director>
+      <actor>Léo Barabas</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Pesca</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821183000 -0300" stop="20210821190000 -0300" channel="Fish TV HD">
+    <title lang="pt">Planeta Turismo</title>
+    <desc lang="pt">Em uma viagem de 24 horas, Ruy Façanário vai em busca das belezas da cidade de Tonantins, no Amazonas.(n)</desc>
+    <credits>
+      <director>Ruy Façanario</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821190000 -0300" stop="20210821200000 -0300" channel="Fish TV HD">
+    <title lang="pt">Família Nakamura</title>
+    <desc lang="pt">Nesse episódio, a Família Nakamura ganha um reforço: a Nona, avó de Renan e Vitor. Juntos eles vão até o Pesqueiro Tambury, em Vinhedo/SP, em busca dos exemplares do local.(n)</desc>
+    <credits>
+      <director>Nelson Nakamura</director>
+      <actor>Nelson</actor>
+      <actor>Renan</actor>
+      <actor>Vitor</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Pesca</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821200000 -0300" stop="20210821203000 -0300" channel="Fish TV HD">
+    <title lang="pt">Slow Fishing</title>
+    <desc lang="pt">Caue Ogata está no Rancho Curuca, em Panorama/SP, em busca das piaparas do rio Paraná.(n)</desc>
+    <credits>
+      <actor>Cauê Ogata</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Pesca</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821203000 -0300" stop="20210821210000 -0300" channel="Fish TV HD">
+    <title lang="pt">Remos e Rumos</title>
+    <desc lang="pt">Em São Paulo, o Remos e Rumos vai até Itu, para mais uma aventura. Desta vez no Parque Maeda. Zinho vai te apresentar um dos primeiros pesqueiros do Brasil a ter pesca com caiaque.(n)</desc>
+    <credits>
+      <actor>Zinho</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Pesca</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821210000 -0300" stop="20210821213000 -0300" channel="Fish TV HD">
+    <title lang="pt">Destinos</title>
+    <desc lang="pt">Viajando por diferentes pontos de Tocantins, Laís Vanessa mostra todo o potencial de pesca do estado. A apresentadora encontra muita emoção na ponta da linha e captura cachorra, apapá e tucunaré azul.(n)</desc>
+    <credits>
+      <director>Johnny Hoffmann</director>
+      <director>Mauricio Brenner</director>
+      <actor>Laís Vanessa</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Viagem</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S7 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821213000 -0300" stop="20210821220000 -0300" channel="Fish TV HD">
+    <title lang="pt">A Vida nas Bacias Hidrográficas</title>
+    <desc lang="pt">O Rio Paraná é o segundo maior rio Sul-Americano. Formado em Rubinéia, ele recebe as águas de outros dois grandes rios: Rio Grande e Rio Paranaíba.(n)</desc>
+    <credits>
+      <director>Idiaulo Yuri Sanada</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821220000 -0300" stop="20210821223000 -0300" channel="Fish TV HD">
+    <title lang="pt">Natureza Urbana</title>
+    <desc lang="pt">Natureza Urbana vai até o Litoral Sul de São Paulo, para mostrar que o tempo é o melhor remédio.(n)</desc>
+    <credits>
+      <director>Priscila Guimaraes Correa Gomes</director>
+      <actor>Tiago Papan</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821223000 -0300" stop="20210821230000 -0300" channel="Fish TV HD">
+    <title lang="pt">Biopesca</title>
+    <desc lang="pt">Lawrence Ikeda segue na Costa Esmeralda, no litoral norte de Santa Catarina, para uma pescaria variada. Utilizando iscas artificiais, o biopescador captura robalo-peva, corvina, sargo-de-beiço e miraguaia.(n)</desc>
+    <credits>
+      <director>Maurício Brenner</director>
+      <director>Johnny Hoffmann</director>
+      <actor>Lawrence Ikeda</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Pesca</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S9 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821230000 -0300" stop="20210822000000 -0300" channel="Fish TV HD">
+    <title lang="pt">Na Pegada do Fly</title>
+    <desc lang="pt">Kid Ocelos retorna ao Lago da Serra da Mesa na Pousada Vida de Peixe e embarca em mais uma aventura.(n)</desc>
+    <credits>
+      <director>Maurício Brenner</director>
+      <director>Johnny Hoffmann</director>
+      <actor>Kid Ocelos</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/napegadadoflypoppernoflybatidasviolentas01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
 </tv>
