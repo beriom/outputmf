@@ -67,6 +67,7 @@
   </channel>
   <channel id="CNN Brasil HD">
     <display-name lang="pt">CNN Brasil HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/cnnbrasil.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Combate HD">
@@ -12534,6 +12535,263 @@
     <country lang="pt">Argentina</country>
     <rating system="BR">
       <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820133000 -0300" stop="20210820153000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Visão CNN - Ao Vivo</title>
+    <desc lang="pt">Um fato isolado não explica o contexto. A notícia completa não tem só um lado da história. É preciso ir além. É preciso ter análise.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_visaocnn01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820153000 -0300" stop="20210820180000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">CNN 360º - Ao Vivo</title>
+    <desc lang="pt">Todos os ângulos das notícias mais importantes do dia com atualizações, debates e apurações em tempo real com Daniela Lima e Carol Nogueira.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_cnn36001.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820193000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">CNN Prime Time - Ao Vivo</title>
+    <desc lang="pt">Márcio Gomes apresenta os fatos mais importantes do dia no Brasil e no mundo.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820193000 -0300" stop="20210820213000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Expresso CNN - Ao Vivo</title>
+    <desc lang="pt">As notícias do Brasil e do mundo, em tempo real, apresentadas por Monalisa Perrone e Caio Junqueira, com informações exclusivas e análise de comentaristas, convidados e O Grande Debate.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_expressocnn01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820213000 -0300" stop="20210820223000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Jornal da CNN - Ao Vivo</title>
+    <desc lang="pt">William Waack apresenta e analisa os principais fatos do Brasil e do mundo e aprofunda os temas que foram assunto no dia.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_jornaldacnn01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820223000 -0300" stop="20210820231500 -0300" channel="CNN Brasil HD">
+    <title lang="pt">CNN Nosso Mundo</title>
+    <desc lang="pt">A escritora e PHD em Nutrição fala sobre o tema: COMO MELHORAR NOSSA RELAÇÃO COM A COMIDA.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820231500 -0300" stop="20210821001500 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Agora CNN - Ao Vivo</title>
+    <desc lang="pt">Apresentado por Muriel Porfiro, jornal traz reportagens para começar o dia com informações que importam.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_agoracnn01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821001500 -0300" stop="20210821011500 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Jornal da CNN</title>
+    <desc lang="pt">William Waack apresenta e analisa os principais fatos do Brasil e do mundo e aprofunda os temas que foram assunto no dia.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_jornaldacnn01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821011500 -0300" stop="20210821030000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">CNN Prime Time</title>
+    <desc lang="pt">Márcio Gomes apresenta os fatos mais importantes do dia no Brasil e no mundo.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821030000 -0300" stop="20210821050000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Expresso CNN</title>
+    <desc lang="pt">As notícias do Brasil e do mundo, em tempo real, apresentadas por Monalisa Perrone e Caio Junqueira, com informações exclusivas e análise de comentaristas, convidados e O Grande Debate.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_expressocnn01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821050000 -0300" stop="20210821060000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Agora CNN</title>
+    <desc lang="pt">Apresentado por Muriel Porfiro, jornal traz reportagens para começar o dia com informações que importam.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_agoracnn01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821090000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Agora CNN Sábado</title>
+    <desc lang="pt">Apresentado por Muriel Porfiro, jornal traz reportagens para começar o dia com informações que importam.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821090000 -0300" stop="20210821120000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">CNN Sábado - Manhã - Ao Vivo</title>
+    <desc lang="pt">As notícias mais importantes do momento, com informações e análises ao vivo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821120000 -0300" stop="20210821124000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Pódio CNN Especial</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821124000 -0300" stop="20210821132500 -0300" channel="CNN Brasil HD">
+    <title lang="pt">CNN Sinais Vitais</title>
+    <desc lang="pt">O CNN Sinais Vitais, com o Dr. Roberto Kalil, vai mostrar como é difícil a vida de pacientes jovens e adultos com asma.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821132500 -0300" stop="20210821141000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">CNN Séries Originais</title>
+    <desc lang="pt">O CNN Séries Originais inicia uma série especial sobre a intolerância no Brasil.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821141000 -0300" stop="20210821160000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">CNN Sábado - Tarde - Ao Vivo</title>
+    <desc lang="pt">As notícias mais importantes do momento, com informações e análises ao vivo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821160000 -0300" stop="20210821170000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Correspondente Médico Especial</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Saúde</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821170000 -0300" stop="20210821174500 -0300" channel="CNN Brasil HD">
+    <title lang="pt">O Grande Debate</title>
+    <desc lang="pt">Thiago Anastacio e Gisele Soares mostram seus pontos de vistadiferentes em uma discussão sobre temas relevantes parasociedade moderna.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821174500 -0300" stop="20210821180000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">CNN Sábado - Tarde - Ao Vivo</title>
+    <desc lang="pt">As notícias mais importantes do momento, com informações e análises ao vivo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821180000 -0300" stop="20210821200000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">CNN Sábado - Noite - Ao Vivo</title>
+    <desc lang="pt">As notícias mais importantes do momento, com informações e análises ao vivo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821200000 -0300" stop="20210821210000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Jornal da CNN Edição de Sábado - Ao Vivo</title>
+    <desc lang="pt">William Waack apresenta e analisa os principais fatos do Brasil e do mundo e aprofunda os temas que foram assunto no dia.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821210000 -0300" stop="20210821214500 -0300" channel="CNN Brasil HD">
+    <title lang="pt">CNN Viagem &amp; Gastronomia</title>
+    <desc lang="pt">No ''CNN Viagem &amp; Gastronomia'' desse sábado, Daniela Filomeno desembarca na ''terra dos cânions brasileiros''.(n)</desc>
+    <credits>
+      <actor>Daniela Filomeno</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821214500 -0300" stop="20210821223500 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Anthony Bourdain</title>
+    <desc lang="pt">O Bourdain vai te levar até a Tóquio que você não foi convidado a conhecer. A Tóquio onde o trabalhador do dia se rebela e extravasa.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/anthonybourdainfazendoescalahongkong01.jpg" />
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821223500 -0300" stop="20210821233500 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Jornal da CNN Edição de Sábado</title>
+    <desc lang="pt">William Waack apresenta e analisa os principais fatos do Brasil e do mundo e aprofunda os temas que foram assunto no dia.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821233500 -0300" stop="20210822002000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">CNN Sinais Vitais</title>
+    <desc lang="pt">O CNN Sinais Vitais, com o Dr. Roberto Kalil, vai mostrar como é difícil a vida de pacientes jovens e adultos com asma.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
     </rating>
   </programme>
 </tv>
