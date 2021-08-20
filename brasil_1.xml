@@ -256,6 +256,7 @@
   </channel>
   <channel id="GNT HD">
     <display-name lang="pt">GNT HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/gnt.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="H2 HD">
@@ -35625,6 +35626,872 @@
     <episode-num system="onscreen">S14 E18</episode-num>
     <rating system="BR">
       <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820141500 -0300" stop="20210820145000 -0300" channel="GNT HD">
+    <title lang="pt">O Enigma</title>
+    <desc lang="pt">Ao longo de 5 episódios produzidos por diretores e diretoras negras, Emicida apresentará outras possibilidades da realidade sugeridas pela perspectiva não branca da sociedade.(n)</desc>
+    <credits>
+      <director>Day Rodrigues</director>
+      <director>Emílio Domingos</director>
+      <director>Evandro Fióti</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820145000 -0300" stop="20210820152000 -0300" channel="GNT HD">
+    <title lang="pt">Superbonita</title>
+    <desc lang="pt">Qual o impacto da maternidade na vida de uma mulher? A relação com o corpo se modifica? Taís Araújo conversa sobre isso com a atriz Giovanna Ewbank e com a ilustradora Manu Tasca.(n)</desc>
+    <credits>
+      <director>Letícia Prisco</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Comportamento</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_superbonita01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S24 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820152000 -0300" stop="20210820155000 -0300" channel="GNT HD">
+    <title lang="pt">Casa Brasileira</title>
+    <desc lang="pt">Nesse episódio, o Casa Braileira visita o curitibano e arquiteto Marcos Bertoldi na casa que lhe é fonte de inspiração, a casa Nieclewicz. E vamos conhecer algumas soluções criadas pelo arquiteto, como a Casa Vertical.(n)</desc>
+    <credits>
+      <director>Alberto Renault</director>
+      <actor>André Vainer</actor>
+      <actor>Bebel Mascarenhas</actor>
+      <actor>Carolina Maluhy</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S7 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820155000 -0300" stop="20210820162000 -0300" channel="GNT HD">
+    <title lang="pt">Casa Brasileira</title>
+    <desc lang="pt">Nesse episódio, o Casa Brasileira visita o paisagista Gilberto Elkis e seus projetos de jardins para casas na cidade, no campo e outros lugares especiais.(n)</desc>
+    <credits>
+      <director>Alberto Renault</director>
+      <actor>André Vainer</actor>
+      <actor>Bebel Mascarenhas</actor>
+      <actor>Carolina Maluhy</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S7 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820162000 -0300" stop="20210820171500 -0300" channel="GNT HD">
+    <title lang="pt">Decora</title>
+    <desc lang="pt">A Manu ganhou um quarto só pra ela. Finalmente terá uma mesa maior pra estudar e o espaço pra brincar com as amigas. Só que nada disso existe ainda. Mas isso vai mudar, que o Decora está chegando!(n)</desc>
+    <credits>
+      <director>Pedro Gorski</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/decora01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820171500 -0300" stop="20210820181500 -0300" channel="GNT HD">
+    <title lang="pt">Que Seja Doce</title>
+    <desc lang="pt">Imagina querer tanto um bolo e chegar a passar mal por causa da vontade de comê-lo. Foi isso que aconteceu com Vinícius, que por causa desse episódio foi apelidado e até hoje é chamado de Bolo.(n)</desc>
+    <credits>
+      <director>Roberto D'ávila</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_quesejadoce01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S5 E35</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820181500 -0300" stop="20210820184500 -0300" channel="GNT HD">
+    <title lang="pt">Cozinha Prática com Rita Lobo</title>
+    <desc lang="pt">Rita Lobo prepara pratos com banana e ainda mostra muitas opções de sobremesas com a fruta - do sorvete de chocolate ao banana bread.(n)</desc>
+    <credits>
+      <director>Sheila Kaomura</director>
+      <actor>Rita Lobo</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/cozinhapratica01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S14 E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820184500 -0300" stop="20210820191500 -0300" channel="GNT HD">
+    <title lang="pt">Tempero de Família</title>
+    <desc lang="pt">Neste episódio, Rodrigo recebe em sua fazenda a sogra Teca. Ele prepara o famoso Carreteiro da Teca, a especialidade da cozinheira que ensinou passo a passo ao genro. De sobremesa, mais uma receita da sua família: torta de abacaxi.(n)</desc>
+    <credits>
+      <director>Gisela Matta</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/temperodefamilia01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820191500 -0300" stop="20210820200000 -0300" channel="GNT HD">
+    <title lang="pt">Que Marravilha! Revanche</title>
+    <desc lang="pt">Iracema é judia e sempre faz o Gefilte Fish, ou bolinho de peixe, para as festas tradicionais judaicas, como o Rosh Hashaná. É um desafio para o Claude recriar essa receita tão cheia de significados!(n)</desc>
+    <credits>
+      <director>Snir Wein</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S17 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820210000 -0300" channel="GNT HD">
+    <title lang="pt">Que Seja Doce</title>
+    <desc lang="pt">Com 25 anos, Alessandro começou a perder a visão. Com muito espírito de superação, ele se tornou um campeão de arremesso de peso e disco. As confeiteiras irão recriar o doce preferido desse campeão.(n)</desc>
+    <credits>
+      <director>Roberto D'ávila</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_quesejadoce01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S5 E36</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820210000 -0300" stop="20210820213000 -0300" channel="GNT HD">
+    <title lang="pt">Cozinha Prática com Rita Lobo</title>
+    <desc lang="pt">Rita Lobo prepara o iogurte natural do zero e ensina muitas maneiras de usar o ingrediente no dia a dia: do molho da salada a uma incrível sopa de iogurte com manteiga temperada.(n)</desc>
+    <credits>
+      <director>Sheila Kaomura</director>
+      <actor>Rita Lobo</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/cozinhapratica01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S14</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820213000 -0300" stop="20210820223000 -0300" channel="GNT HD">
+    <title lang="pt">Decora</title>
+    <desc lang="pt">O DECORE-SE está de volta com mais projetos lindos e possíveis, mostrando que todo mundo é capaz de tirar do papel sua decoração dos sonhos.(n)</desc>
+    <credits>
+      <director>Ricardo Pompeu</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/decora01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S17</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820223000 -0300" stop="20210820233000 -0300" channel="GNT HD">
+    <title lang="pt">Extreme Makeover Brasil - Casa dos Sonhos</title>
+    <desc lang="pt">Enfermeira desempregada, Camila venceu um câncer recentemente. Com dois filhos e sem trabalho, sua casa desmorona aos poucos devido a falta de manutenção.(n)</desc>
+    <credits>
+      <director>Davi Feldom</director>
+      <actor>Otaviano Costa</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820233000 -0300" stop="20210821003000 -0300" channel="GNT HD">
+    <title lang="pt">Que História é essa, Porchat?</title>
+    <desc lang="pt">Porchat recebe Paula Fernandes, Gabriel Leone e Hélio de La Peña. Na plateia, uma prisão na Inglaterra e um ataque de um tubarão branco.(n)</desc>
+    <credits>
+      <director>Gigi Soares</director>
+      <actor>Fábio Porchat</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S3 E22</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821003000 -0300" stop="20210821010000 -0300" channel="GNT HD">
+    <title lang="pt">Casa Brasileira</title>
+    <desc lang="pt">Nesse episódio, o Casa Braileira visita o curitibano e arquiteto Marcos Bertoldi na casa que lhe é fonte de inspiração, a casa Nieclewicz. E vamos conhecer algumas soluções criadas pelo arquiteto, como a Casa Vertical.(n)</desc>
+    <credits>
+      <director>Alberto Renault</director>
+      <actor>André Vainer</actor>
+      <actor>Bebel Mascarenhas</actor>
+      <actor>Carolina Maluhy</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S7 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821010000 -0300" stop="20210821013000 -0300" channel="GNT HD">
+    <title lang="pt">Casa Brasileira</title>
+    <desc lang="pt">Nesse episódio, o Casa Brasileira visita o paisagista Gilberto Elkis e seus projetos de jardins para casas na cidade, no campo e outros lugares especiais.(n)</desc>
+    <credits>
+      <director>Alberto Renault</director>
+      <actor>André Vainer</actor>
+      <actor>Bebel Mascarenhas</actor>
+      <actor>Carolina Maluhy</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S7 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821013000 -0300" stop="20210821020000 -0300" channel="GNT HD">
+    <title lang="pt">Rainha da Cocada</title>
+    <desc lang="pt">O episódio de hoje é sobre o Coupe Camargo, sobremesa com creme de abacate. A receita será acompanhada de dacquoise e brittle de pistache, e apresentada para a chef Mallory Canyon.(n)</desc>
+    <credits>
+      <director>Raiza Costa</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_rainhadacocada01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E13</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821020000 -0300" stop="20210821030000 -0300" channel="GNT HD">
+    <title lang="pt">Decora</title>
+    <desc lang="pt">O DECORE-SE está de volta com mais projetos lindos e possíveis, mostrando que todo mundo é capaz de tirar do papel sua decoração dos sonhos.(n)</desc>
+    <credits>
+      <director>Ricardo Pompeu</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/decora01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S17</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821030000 -0300" stop="20210821040000 -0300" channel="GNT HD">
+    <title lang="pt">Fazendo a Festa</title>
+    <desc lang="pt">O Fazendo a Festa viaja até às ilhas da Polinésia, em busca das aventuras de Moana. Fernanda Rodrigues e a liga farão tudo por Beatriz, que pediu esse tema para o seu sexto aniversário.(n)</desc>
+    <credits>
+      <director>Gabriel Edel</director>
+      <actor>Fernanda Rodrigues</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_fazendoafesta01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S5 E14</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821040000 -0300" stop="20210821050000 -0300" channel="GNT HD">
+    <title lang="pt">Santa Ajuda</title>
+    <desc lang="pt">Hoje Micaela ajuda o apresentador do Papo de Segunda, Francisco Bosco a organizar a bagunça no quarto dos filhos dele.(n)</desc>
+    <credits>
+      <director>Alfredo Stadtherr</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/santaajuda01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821050000 -0300" stop="20210821060000 -0300" channel="GNT HD">
+    <title lang="pt">Olho Mágico - Reforma de Vizinhos</title>
+    <desc lang="pt">João e Leandro, além e vizinhos, são dois grandes amigos de diferentes gerações, com uma paixão em comum: a música. João mora com a namorada e eles querem dar um jeito na sala que hoje é só de passagem.(n)</desc>
+    <credits>
+      <director>Tatiana De Lamare</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821061500 -0300" channel="GNT HD">
+    <title lang="pt">Pode Entrar</title>
+    <desc lang="pt">Emanuelle Araújo mostrar sua cozinha - onde prepara pratos típicos da culinária baiana - a sala inspirada em uma obra de arte de Hélio Oiticica e o escritório, em seu apartamento no Rio de Janeiro.(n)</desc>
+    <credits>
+      <director>Letícia Prisco</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821061500 -0300" stop="20210821063000 -0300" channel="GNT HD">
+    <title lang="pt">Plante Você Mesmo</title>
+    <desc lang="pt">Carol Costa ensina a identificar e tratar os principais sinais de deficiência das plantas, como estiolamento, perda de folhas, aparecimento de trevos e palidez.(n)</desc>
+    <credits>
+      <director>Livia Maria Alves Miglioli</director>
+      <director>Pablo Cavalcante Escajedo</director>
+      <actor>Carol Costa</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821063000 -0300" stop="20210821073000 -0300" channel="GNT HD">
+    <title lang="pt">Decora</title>
+    <desc lang="pt">O DECORE-SE está de volta com mais projetos lindos e possíveis, mostrando que todo mundo é capaz de tirar do papel sua decoração dos sonhos.(n)</desc>
+    <credits>
+      <director>Ricardo Pompeu</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/decora01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S17</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821073000 -0300" stop="20210821080000 -0300" channel="GNT HD">
+    <title lang="pt">Admirável Móvel Novo</title>
+    <desc lang="pt">A escritora Gaía gostaria de modernizar sua mesa de trabalho, uma peça que simboliza a trajetória do avô. Já a analista de sistemas Eliana, quer ressignificar uma peça detonada que ela chama de guarda-comida.(n)</desc>
+    <credits>
+      <director>Renata Sauda</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_admiravelmovelnovo01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E16</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821080000 -0300" stop="20210821083000 -0300" channel="GNT HD">
+    <title lang="pt">Admirável Móvel Novo</title>
+    <desc lang="pt">Vera deseja que a cômoda de sua família libanesa passe por uma grande repaginação. Estela tem um carrinho de chá que serve como bar-altar e que precisa da mobilidade que seu espaço cultural pede.(n)</desc>
+    <credits>
+      <director>Renata Sauda</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_admiravelmovelnovo01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E17</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821083000 -0300" stop="20210821093000 -0300" channel="GNT HD">
+    <title lang="pt">Reforma de Casais</title>
+    <desc lang="pt">Nayara trabalha em casa confeccionando figurinos e precisa um cômodo multiuso, mas Fernando não gosta da ideia e quer uma sala para receber amigos e jogar videogame com filho.(n)</desc>
+    <credits>
+      <director>Maria Joana Lessa</director>
+      <director>Rodrigo Hinrichsen</director>
+      <actor>Leila Bittencourt</actor>
+      <actor>Carol Wambier</actor>
+      <actor>Fábio Bouillet</actor>
+      <actor>Rodrigo Jorge</actor>
+      <actor>Leila Leme</actor>
+      <actor>Denise Assumpção</actor>
+      <actor>Gabriela Eloy</actor>
+      <actor>Carolina Freitas</actor>
+      <actor>Rodrigo Bezé</actor>
+      <actor>Carlos Carvalho</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_reformadecasais01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821093000 -0300" stop="20210821103000 -0300" channel="GNT HD">
+    <title lang="pt">Reforma de Casais</title>
+    <desc lang="pt">Fábio ama cozinhar e sonha em ter uma sala gourmet para os amigos. Já Matheus prefere um ambiente moderno, com cores escuras. Rodrigo Bezé e Carlos Carvalho vão ajudar o casal nessa disputa!(n)</desc>
+    <credits>
+      <director>Maria Joana Lessa</director>
+      <director>Rodrigo Hinrichsen</director>
+      <actor>Leila Bittencourt</actor>
+      <actor>Carol Wambier</actor>
+      <actor>Fábio Bouillet</actor>
+      <actor>Rodrigo Jorge</actor>
+      <actor>Leila Leme</actor>
+      <actor>Denise Assumpção</actor>
+      <actor>Gabriela Eloy</actor>
+      <actor>Carolina Freitas</actor>
+      <actor>Rodrigo Bezé</actor>
+      <actor>Carlos Carvalho</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_reformadecasais01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821103000 -0300" stop="20210821113000 -0300" channel="GNT HD">
+    <title lang="pt">Missão Design</title>
+    <desc lang="pt">Decorar uma quitinete é uma prova de fogo e Fernanda Paes Leme irá desafiar Gabriela, Leandro e Thiago a conciliarem diversos ambientes em um espaço pequeno sem deixar para trás o visual e o conforto.(n)</desc>
+    <credits>
+      <director>Gustavo Mello</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821113000 -0300" stop="20210821123000 -0300" channel="GNT HD">
+    <title lang="pt">Missão Design</title>
+    <desc lang="pt">Fernanda Paes Leme desafia Alex, Paloma e Pollyana a criarem uma varanda que deve ser um excelente refúgio e um lugar memorável para a casa. Quem se der melhor leva o troféu pra casa!(n)</desc>
+    <credits>
+      <director>Gustavo Mello</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821123000 -0300" stop="20210821130000 -0300" channel="GNT HD">
+    <title lang="pt">Que Marravilha! Delivery</title>
+    <desc lang="pt">Claude se inspira na gastronomia francesa e cozinha com Batista um caldo de frutos do mar com leite e coco e cúrcuma. A receita é um presente para as entregadoras Joyce e Jessica.(n)</desc>
+    <credits>
+      <director>Gabriel Hein</director>
+      <director>Rodrigo Astiz</director>
+      <actor>Claude Troisgros</actor>
+      <actor>João Batista</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S24 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821130000 -0300" stop="20210821131500 -0300" channel="GNT HD">
+    <title lang="pt">Funcionário do Mês</title>
+    <desc lang="pt">A cada mês, um cozinheiro convidado - entre chefs do GNT - assume a cozinha do NHAC para preparar receitas de acordo com a sazonalidade e interesse do público, escolhidas com base nos termos mais buscados do Youtube.(n)</desc>
+    <credits>
+      <director>Livia Maria Alves Miglioli</director>
+      <director>Pablo Cavalcante Escajedo</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821131500 -0300" stop="20210821133000 -0300" channel="GNT HD">
+    <title lang="pt">Ju Ferraz</title>
+    <desc lang="pt">Ju Ferraz ensina como fazer massas de torta clássicas: pâte brisée, pâte sablée e de biscoito.(n)</desc>
+    <credits>
+      <director>Victor Brunetti</director>
+      <actor>Ju Ferraz</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821133000 -0300" stop="20210821140000 -0300" channel="GNT HD">
+    <title lang="pt">Morar</title>
+    <desc lang="pt">A capital da Paraíba é das cidades mais antigas do Brasil.(n)</desc>
+    <credits>
+      <director>Renault Alberto</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821140000 -0300" stop="20210821143000 -0300" channel="GNT HD">
+    <title lang="pt">Morar</title>
+    <desc lang="pt">Neste episódio, o Morar em Belo Horizonte visita casas e apartamentos da cidade fundada há menos de 200 anos. Entre elas, a da cantora Fernanda Takai, vocalista da banda Pato Fu, que nos mostra sua morada na capital.(n)</desc>
+    <credits>
+      <director>Renault Alberto</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821143000 -0300" stop="20210821150000 -0300" channel="GNT HD">
+    <title lang="pt">Lar</title>
+    <desc lang="pt">A história de amor e do estúdio da Nanda Costa e da Lan Lanh. A ducha com vista para o mar do Jonathan Azevedo. Maria Beltrão e sua estante repleta de imagens de santos.(n)</desc>
+    <credits>
+      <director>Alberto Renault</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821150000 -0300" stop="20210821160000 -0300" channel="GNT HD">
+    <title lang="pt">Decora</title>
+    <desc lang="pt">O DECORE-SE está de volta com mais projetos lindos e possíveis, mostrando que todo mundo é capaz de tirar do papel sua decoração dos sonhos.(n)</desc>
+    <credits>
+      <director>Ricardo Pompeu</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/decora01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S17</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821160000 -0300" stop="20210821163000 -0300" channel="GNT HD">
+    <title lang="pt">Tempero de Família</title>
+    <desc lang="pt">Rodrigo começa sua temporada na Paraíba dedicada às mulheres. Ele vai ao Boqueirão conhecer uma artesã, e também encontra as crocheteiras do Lajedo Marinho. Ele vai cozinhar um rubacão e cartola.(n)</desc>
+    <credits>
+      <director>Tatiana De Lamare</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/temperodefamilia01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S8 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821163000 -0300" stop="20210821170000 -0300" channel="GNT HD">
+    <title lang="pt">Tempero de Família</title>
+    <desc lang="pt">Rodrigo e Fernanda Lima relembram histórias. Ela fala das saudades dela. Eles preparam juntos: Estrogonofe da família, Arroz de coentro, salada de batata rústica e Merengue da sogra.(n)</desc>
+    <credits>
+      <director>Gigi Soares</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/temperodefamilia01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S12 E26</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821170000 -0300" stop="20210821173000 -0300" channel="GNT HD">
+    <title lang="pt">Tempero de Família</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Gigi Soares</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/temperodefamilia01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S8 E15</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821173000 -0300" stop="20210821180000 -0300" channel="GNT HD">
+    <title lang="pt">Tempero de Família</title>
+    <desc lang="pt">Neste episódio, Rodrigo recebe em sua fazenda a sogra Teca. Ele prepara o famoso Carreteiro da Teca, a especialidade da cozinheira que ensinou passo a passo ao genro. De sobremesa, mais uma receita da sua família: torta de abacaxi.(n)</desc>
+    <credits>
+      <director>Gisela Matta</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/temperodefamilia01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821180000 -0300" stop="20210821183000 -0300" channel="GNT HD">
+    <title lang="pt">Tempero de Família</title>
+    <desc lang="pt">Rodrigo Hilbert aprendeu e se interessou pela cozinha vendo e ajudando a mãe e a avó. Deste convívio, ele pegou o gosto pelo fogão e adaptou a vida de hoje.(n)</desc>
+    <credits>
+      <director>Cama Edu</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/temperodefamilia01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S5 E24</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821183000 -0300" stop="20210821190000 -0300" channel="GNT HD">
+    <title lang="pt">Que Marravilha! Delivery</title>
+    <desc lang="pt">Claude se inspira na gastronomia francesa e cozinha com Batista um caldo de frutos do mar com leite e coco e cúrcuma. A receita é um presente para as entregadoras Joyce e Jessica.(n)</desc>
+    <credits>
+      <director>Gabriel Hein</director>
+      <director>Rodrigo Astiz</director>
+      <actor>Claude Troisgros</actor>
+      <actor>João Batista</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S24 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821190000 -0300" stop="20210821193000 -0300" channel="GNT HD">
+    <title lang="pt">Cozinha Prática com Rita Lobo</title>
+    <desc lang="pt">Curingão do dia a dia, a carne moída se transforma em mil pratos deliciosos, do refogado ao hambúrguer, e termina no recheio do arais, um incrível sanduíche armênio no pão sírio.(n)</desc>
+    <credits>
+      <director>Sheila Kaomura</director>
+      <actor>Rita Lobo</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/cozinhapratica01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S14 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821193000 -0300" stop="20210821200000 -0300" channel="GNT HD">
+    <title lang="pt">Cozinha Prática com Rita Lobo</title>
+    <desc lang="pt">Rita Lobo mostra muitas receitas com grão-de-bico, um ingrediente que é a cara da cozinha árabe, mas que também pode virar um ensopado bem brasileiro, para variar o feijão do PF.(n)</desc>
+    <credits>
+      <director>Sheila Kaomura</director>
+      <actor>Rita Lobo</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/cozinhapratica01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S14 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821200000 -0300" stop="20210821203000 -0300" channel="GNT HD">
+    <title lang="pt">Cozinha Prática com Rita Lobo</title>
+    <desc lang="pt">Rita Lobo prepara três receitas de saladas com grãos que resolvem o jantar naqueles dias de Preguiça Total e ainda rendem ótimas marmitas: salada de arroz com curry, salada de feijão branco e tabule.(n)</desc>
+    <credits>
+      <director>Sheila Kaomura</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/cozinhapratica01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S12 E47</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821203000 -0300" stop="20210821210000 -0300" channel="GNT HD">
+    <title lang="pt">Cozinha Prática com Rita Lobo</title>
+    <desc lang="pt">Rita Lobo ensina um suflê de chocolate imbatível, que cresce e fica úmido por dentro. Para acompanhar, ainda tem calda de chocolate, cremosa e intensa. É chocolate ao quadrado!(n)</desc>
+    <credits>
+      <director>Sheila Kaomura</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/cozinhapratica01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S13 E41</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821210000 -0300" stop="20210821213000 -0300" channel="GNT HD">
+    <title lang="pt">Cozinha Prática com Rita Lobo</title>
+    <desc lang="pt">Rita Lobo prepara um delicioso macarrão à putanesca para duas pessoas - em tempo real e em uma panela só! Um jantar completo e à prova de bagunça na cozinha.(n)</desc>
+    <credits>
+      <director>Sheila Kaomura</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/cozinhapratica01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S12 E45</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821213000 -0300" stop="20210821220000 -0300" channel="GNT HD">
+    <title lang="pt">Cozinha Prática com Rita Lobo</title>
+    <desc lang="pt">Rita Lobo mostra que a couve fica incrível de muitos jeitos: assada, cozida, na salada e até como molho, em um macarrão com molho de couve, servido com farofa de castanhas e pimenta.(n)</desc>
+    <credits>
+      <director>Sheila Kaomura</director>
+      <actor>Rita Lobo</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/cozinhapratica01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S14 E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821220000 -0300" stop="20210821223000 -0300" channel="GNT HD">
+    <title lang="pt">Tempero de Família</title>
+    <desc lang="pt">O primeiro destino é o México, um país que tem praia, deserto, selva e montanha. Terra dos Maias e Astecas. Rodrigo prepara Guajoloteal al mole poblano, Fajitas, Capirotada e Flan.(n)</desc>
+    <credits>
+      <director>Gigi Soares</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/temperodefamilia01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S14 E19</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821223000 -0300" stop="20210821230000 -0300" channel="GNT HD">
+    <title lang="pt">Tempero de Família</title>
+    <desc lang="pt">Rodrigo Hilbert descobre os sabores da Guatemala e de El Salvador. E prepara enchiladas guatemaltecas, jacon e chancletas de guisquil.(n)</desc>
+    <credits>
+      <director>Gigi Soares</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/temperodefamilia01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S14</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821230000 -0300" stop="20210822000000 -0300" channel="GNT HD">
+    <title lang="pt">Bem Juntinhos</title>
+    <desc lang="pt">As dores e delícias da maternidade e da gestação. Mudanças no corpo, enjoos, expectativas e medos, parto e pós-parto, amamentação e o impacto nas relações afetivas e de trabalho.(n)</desc>
+    <credits>
+      <director>Mariana Lacerda</director>
+      <director>Pio Figueiroa</director>
+      <actor>Fernanda Lima</actor>
+      <actor>Rodrigo Hilbert</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>12</value>
     </rating>
   </programme>
 </tv>
