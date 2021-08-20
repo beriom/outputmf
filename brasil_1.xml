@@ -261,6 +261,7 @@
   </channel>
   <channel id="H2 HD">
     <display-name lang="pt">H2 HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/h2.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="HBO (HD)">
@@ -36490,6 +36491,468 @@
     <category lang="pt">Diversos</category>
     <country lang="pt">Brasil</country>
     <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820142400 -0300" stop="20210820160400 -0300" channel="H2 HD">
+    <title lang="pt">Dois Graus</title>
+    <desc lang="pt">A temperatura aumenta ano após ano e especialistas advertem que uma enxurrada de desastres naturais se alastrará sobre a humanidade.(n)</desc>
+    <credits>
+      <director>Matthew Braley</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Ecologia</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820160400 -0300" stop="20210820170000 -0300" channel="H2 HD">
+    <title lang="pt">Naufrágios</title>
+    <desc lang="pt">Uma equipe de exploradores marítimos parte para encontrar um navio desaparecido há mais de 100 anos no Triângulo das Bermudas.(n)</desc>
+    <credits>
+      <director>Tom Alexander</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820170000 -0300" stop="20210820175800 -0300" channel="H2 HD">
+    <title lang="pt">Naufrágios</title>
+    <desc lang="pt">Um grupo de exploradores subaquáticos investiga o naufrágio de um navio com um enorme canhão em seu convés, descoberto na costa da Flórida. A Alemanha nazista esteve muito mais perto dos EUA do que se acredita durante a Segunda Guerra Mundial?(n)</desc>
+    <credits>
+      <director>Tom Alexander</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820175800 -0300" stop="20210820183100 -0300" channel="H2 HD">
+    <title lang="pt">A Cara do Futuro</title>
+    <desc lang="pt">Este episódio mostra a revolução tecnológica no campo e como aplicativos e sistemas estão mudando a vida de homens e mulheres em todo o Brasil.(n)</desc>
+    <credits>
+      <director>Esdras de Lucia</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ciência</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E11</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820183100 -0300" stop="20210820190300 -0300" channel="H2 HD">
+    <title lang="pt">A Cara do Futuro</title>
+    <desc lang="pt">Como podemos erradicar a fome e a violência doméstica no país? Fazemos uma jornada pelo Brasil para conhecer iniciativas sociais e tecnológicas que visam juntar as pessoas para criar um futuro melhor.(n)</desc>
+    <credits>
+      <director>Esdras de Lucia</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ciência</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820190300 -0300" stop="20210820200000 -0300" channel="H2 HD">
+    <title lang="pt">O Universo</title>
+    <desc lang="pt">Pegue uma carona na viagem de um cometa, enquanto ele percorre desde o exterior frio e escuro do sistema solar até a superfície ardente do sol, visitando cada planeta, desde as montanhas nas luas de Netuno até as cavernas no subsolo de Marte.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ouniverso01.jpg" />
+    <episode-num system="onscreen">E66</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820205900 -0300" channel="H2 HD">
+    <title lang="pt">O Legado das Civilizações</title>
+    <desc lang="pt">O humanismo da filosofia chinesa de Confúcio, a república de Platão e Aristóteles e os instrumentos políticos dos romanos influenciaram a vida social e transformaram as sociedades até os dias de hoje.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820205900 -0300" stop="20210820220000 -0300" channel="H2 HD">
+    <title lang="pt">Animais Que Mudaram O Mundo</title>
+    <desc lang="pt">Os animais inspiraram nossa criatividade ao longo da história. Desde as mais antigas pinturas rupestres, diferentes culturas e religiões, e até mesmo as mais modernas invenções científicas, os utilizam como figuras centrais.(n)</desc>
+    <credits>
+      <actor>Mark Parton</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820225900 -0300" channel="H2 HD">
+    <title lang="pt">Austrália Em Cores</title>
+    <desc lang="pt">Após o final da guerra, a imigração muda a cara da Austrália e o governo adota medidas polêmicas. O trabalho e a diversificação da economia geram prosperidade. A identidade nacional é impulsionada, mas os aborígenes sofrem racismo.(n)</desc>
+    <credits>
+      <director>Lisa Matthews</director>
+      <actor>Hugo Weaving</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Australia</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820225900 -0300" stop="20210820235500 -0300" channel="H2 HD">
+    <title lang="pt">Mundos Subterrâneos</title>
+    <desc lang="pt">Na Suíça, visitaremos 3 dos 300 mil bunkers construídos entre a 2ª Guerra Mundial e a atualidade. Na sequência, conheceremos a extraordinária e misteriosa criação subterrânea de um empresário de Liverpool.(n)</desc>
+    <credits>
+      <director>Jonny Leeder</director>
+      <director>Iain Paterson</director>
+      <actor>Chris Jarman</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820235500 -0300" stop="20210821005300 -0300" channel="H2 HD">
+    <title lang="pt">Inventos da Antiguidade</title>
+    <desc lang="pt">Investigaremos o castelo que ajudou a criar a Grã Bretanha; saiba porque era uma fortaleza inacessível. Descobriremos os invisíveis sistemas defensivos subterrâneos da Capadócia, os mais longos da história, e saberemos porque tiveram tanto sucesso.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_inventosdaantiguidade01.jpg" />
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821005300 -0300" stop="20210821015000 -0300" channel="H2 HD">
+    <title lang="pt">O Universo</title>
+    <desc lang="pt">Pegue uma carona na viagem de um cometa, enquanto ele percorre desde o exterior frio e escuro do sistema solar até a superfície ardente do sol, visitando cada planeta, desde as montanhas nas luas de Netuno até as cavernas no subsolo de Marte.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ouniverso01.jpg" />
+    <episode-num system="onscreen">E66</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821015000 -0300" stop="20210821024700 -0300" channel="H2 HD">
+    <title lang="pt">O Legado das Civilizações</title>
+    <desc lang="pt">O humanismo da filosofia chinesa de Confúcio, a república de Platão e Aristóteles e os instrumentos políticos dos romanos influenciaram a vida social e transformaram as sociedades até os dias de hoje.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821024700 -0300" stop="20210821034600 -0300" channel="H2 HD">
+    <title lang="pt">Animais Que Mudaram O Mundo</title>
+    <desc lang="pt">Os animais inspiraram nossa criatividade ao longo da história. Desde as mais antigas pinturas rupestres, diferentes culturas e religiões, e até mesmo as mais modernas invenções científicas, os utilizam como figuras centrais.(n)</desc>
+    <credits>
+      <actor>Mark Parton</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821034600 -0300" stop="20210821044000 -0300" channel="H2 HD">
+    <title lang="pt">Decifrando Milagres</title>
+    <desc lang="pt">Ana Ixtli, uma mexicana, garante que cura as pessoas por meio de rituais energizantes com pedras e aceita passar por uma série de testes a fim de comprovar a veracidade de seus poderes sobrenaturais.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_decifrandomilagres01.jpg" />
+    <episode-num system="onscreen">S2 E18</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821044000 -0300" stop="20210821053500 -0300" channel="H2 HD">
+    <title lang="pt">Decifrando Milagres</title>
+    <desc lang="pt">No México, vamos encontrar um líder espiritual que parece realizar curas através da energia, e o testemunho de uma mãe cujo filho recuperou a visão coloca em evidência seu suposto poder curador.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_decifrandomilagres01.jpg" />
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821053500 -0300" stop="20210821060000 -0300" channel="H2 HD">
+    <title lang="pt">Um Gênio Entre Nós</title>
+    <desc lang="pt">Terry e Guy tentam confundir um profissional de minigolfe ao criar um buraco de golfe inatingível. E um tabuleiro de quebra-cabeças de tamanho real se torna o oponente de Terry.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821065100 -0300" channel="H2 HD">
+    <title lang="pt">A Maldição De Oak Island</title>
+    <desc lang="pt">Após encontrar evidência histórica na Área do Dinheiro, um desabamento ameaça destruir todos os avanços de Rick e sua equipe.(n)</desc>
+    <credits>
+      <director>Kevin Burns</director>
+      <actor>Robert Clotworthy</actor>
+      <actor>Rick Lagina</actor>
+      <actor>Marty Lagina</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_amaldicaodeoakisland01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E75</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821065100 -0300" stop="20210821074700 -0300" channel="H2 HD">
+    <title lang="pt">O Universo</title>
+    <desc lang="pt">Pegue uma carona na viagem de um cometa, enquanto ele percorre desde o exterior frio e escuro do sistema solar até a superfície ardente do sol, visitando cada planeta, desde as montanhas nas luas de Netuno até as cavernas no subsolo de Marte.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ouniverso01.jpg" />
+    <episode-num system="onscreen">E66</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821074700 -0300" stop="20210821081700 -0300" channel="H2 HD">
+    <title lang="pt">Um Gênio Entre Nós</title>
+    <desc lang="pt">Terry e Guy tentam confundir um profissional de minigolfe ao criar um buraco de golfe inatingível. E um tabuleiro de quebra-cabeças de tamanho real se torna o oponente de Terry.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821081700 -0300" stop="20210821092000 -0300" channel="H2 HD">
+    <title lang="pt">Animais Que Mudaram O Mundo</title>
+    <desc lang="pt">Os animais inspiraram nossa criatividade ao longo da história. Desde as mais antigas pinturas rupestres, diferentes culturas e religiões, e até mesmo as mais modernas invenções científicas, os utilizam como figuras centrais.(n)</desc>
+    <credits>
+      <actor>Mark Parton</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821092000 -0300" stop="20210821101600 -0300" channel="H2 HD">
+    <title lang="pt">Sugestões</title>
+    <desc lang="pt">Neste episódio, vamos conhecer o quanto as aparências nos sugestionam. Começaremos com uma experiência onde vamos comprovar como nosso desempenho muda se formos estimulados positiva ou negativamente por pessoas que possuam credibilidade.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821101600 -0300" stop="20210821111400 -0300" channel="H2 HD">
+    <title lang="pt">Inventos da Antiguidade</title>
+    <desc lang="pt">Investigaremos o castelo que ajudou a criar a Grã Bretanha; saiba porque era uma fortaleza inacessível. Descobriremos os invisíveis sistemas defensivos subterrâneos da Capadócia, os mais longos da história, e saberemos porque tiveram tanto sucesso.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_inventosdaantiguidade01.jpg" />
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821111400 -0300" stop="20210821121100 -0300" channel="H2 HD">
+    <title lang="pt">O Universo</title>
+    <desc lang="pt">Pegue uma carona na viagem de um cometa, enquanto ele percorre desde o exterior frio e escuro do sistema solar até a superfície ardente do sol, visitando cada planeta, desde as montanhas nas luas de Netuno até as cavernas no subsolo de Marte.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ouniverso01.jpg" />
+    <episode-num system="onscreen">E66</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821121100 -0300" stop="20210821130800 -0300" channel="H2 HD">
+    <title lang="pt">A Maldição De Oak Island</title>
+    <desc lang="pt">Após encontrar evidência histórica na Área do Dinheiro, um desabamento ameaça destruir todos os avanços de Rick e sua equipe.(n)</desc>
+    <credits>
+      <director>Kevin Burns</director>
+      <actor>Robert Clotworthy</actor>
+      <actor>Rick Lagina</actor>
+      <actor>Marty Lagina</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_amaldicaodeoakisland01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E75</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821130800 -0300" stop="20210821141100 -0300" channel="H2 HD">
+    <title lang="pt">Austrália Em Cores</title>
+    <desc lang="pt">Após o final da guerra, a imigração muda a cara da Austrália e o governo adota medidas polêmicas. O trabalho e a diversificação da economia geram prosperidade. A identidade nacional é impulsionada, mas os aborígenes sofrem racismo.(n)</desc>
+    <credits>
+      <director>Lisa Matthews</director>
+      <actor>Hugo Weaving</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Australia</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821141100 -0300" stop="20210821151100 -0300" channel="H2 HD">
+    <title lang="pt">Mundos Subterrâneos</title>
+    <desc lang="pt">Na Suíça, visitaremos 3 dos 300 mil bunkers construídos entre a 2ª Guerra Mundial e a atualidade. Na sequência, conheceremos a extraordinária e misteriosa criação subterrânea de um empresário de Liverpool.(n)</desc>
+    <credits>
+      <director>Jonny Leeder</director>
+      <director>Iain Paterson</director>
+      <actor>Chris Jarman</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821151100 -0300" stop="20210821161300 -0300" channel="H2 HD">
+    <title lang="pt">O Legado das Civilizações</title>
+    <desc lang="pt">O humanismo da filosofia chinesa de Confúcio, a república de Platão e Aristóteles e os instrumentos políticos dos romanos influenciaram a vida social e transformaram as sociedades até os dias de hoje.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821161300 -0300" stop="20210821171100 -0300" channel="H2 HD">
+    <title lang="pt">Inventos da Antiguidade</title>
+    <desc lang="pt">Investigaremos o castelo que ajudou a criar a Grã Bretanha; saiba porque era uma fortaleza inacessível. Descobriremos os invisíveis sistemas defensivos subterrâneos da Capadócia, os mais longos da história, e saberemos porque tiveram tanto sucesso.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_inventosdaantiguidade01.jpg" />
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821171100 -0300" stop="20210821181200 -0300" channel="H2 HD">
+    <title lang="pt">Austrália Em Cores</title>
+    <desc lang="pt">Após o final da guerra, a imigração muda a cara da Austrália e o governo adota medidas polêmicas. O trabalho e a diversificação da economia geram prosperidade. A identidade nacional é impulsionada, mas os aborígenes sofrem racismo.(n)</desc>
+    <credits>
+      <director>Lisa Matthews</director>
+      <actor>Hugo Weaving</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Australia</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821181200 -0300" stop="20210821191000 -0300" channel="H2 HD">
+    <title lang="pt">Mundos Subterrâneos</title>
+    <desc lang="pt">Na Suíça, visitaremos 3 dos 300 mil bunkers construídos entre a 2ª Guerra Mundial e a atualidade. Na sequência, conheceremos a extraordinária e misteriosa criação subterrânea de um empresário de Liverpool.(n)</desc>
+    <credits>
+      <director>Jonny Leeder</director>
+      <director>Iain Paterson</director>
+      <actor>Chris Jarman</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821191000 -0300" stop="20210821204800 -0300" channel="H2 HD">
+    <title lang="pt">O Legado dos Anos 90</title>
+    <desc lang="pt">Como os avanços da tecnologia, da mídia e da política dos anos 90 influenciaram a formação de nosso mundo atual?(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821204800 -0300" stop="20210821222400 -0300" channel="H2 HD">
+    <title lang="pt">O Legado dos Anos 90</title>
+    <desc lang="pt">O surgimento da política partidária, o escândalo de Monica Lewinsky, o surgimento de movimentos pelos direitos dos homossexuais, a queda da mídia tradicional e o imprevisível nascimento de uma rede global de terrorismo definiram os anos 90.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821222400 -0300" stop="20210821231900 -0300" channel="H2 HD">
+    <title lang="pt">Luta Jurássica</title>
+    <desc lang="pt">Milhões de anos de evolução geraram alguns dos dinossauros mais monstruosos já imaginados. Agora daremos uma olhada em primeira mão a algumas das criaturas pré-históricas mais mortíferas já conhecidas.(n)</desc>
+    <date>2008</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821231900 -0300" stop="20210822001200 -0300" channel="H2 HD">
+    <title lang="pt">Ideias Sinistras</title>
+    <desc lang="pt">Um assassino em série, um funcionário corrupto, uma equipe de golpistas e um narcotraficante: verdadeiros artistas do engano que arquitetaram os crimes perfeitos.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
     <rating system="BR">
       <value>12</value>
     </rating>
