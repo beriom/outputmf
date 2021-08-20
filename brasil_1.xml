@@ -285,10 +285,12 @@
   </channel>
   <channel id="HBO Mundi HD">
     <display-name lang="pt">HBO Mundi HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/hbomundi.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="HBO Plus HD">
     <display-name lang="pt">HBO Plus HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/hboplus.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="HBO Pop HD">
@@ -10363,6 +10365,192 @@
     <icon src="https://oisa.tmsimg.com/assets/p18260263_v_h8_af.jpg" />
     <rating>
       <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820152000 -0300" stop="20210820170500 -0300" channel="HBO Mundi HD">
+    <title lang="pt">O Retorno de Ben</title>
+    <desc lang="pt">Lucas Hedges protagonizam este filme onde o adorável Ben Burns, um adolescente viciado em drogas, aparece inesperadamente em sua casa na véspera de Natal.(n)</desc>
+    <credits>
+      <director>Peter Hedges</director>
+      <actor>Julia Roberts</actor>
+      <actor>Lucas Hedges</actor>
+      <actor>Courtney B. Vance</actor>
+      <actor>Rachel Bay Jones</actor>
+      <actor>Michael Esper</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820170500 -0300" stop="20210820185000 -0300" channel="HBO Mundi HD">
+    <title lang="pt">Um Caso de Detetive</title>
+    <desc lang="pt">Adam Brody protagoniza essa comédia no papel de Abe Applebaum, um imaturo investigador que acaba de pegar seu primeiro caso "adulto".(n)</desc>
+    <credits>
+      <director>Evan Morgan</director>
+      <actor>Kaitlyn Chalmers-Rizzato</actor>
+      <actor>Adam Brody</actor>
+      <actor>Kaleb Horn</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">Canadá</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820185000 -0300" stop="20210820202000 -0300" channel="HBO Mundi HD">
+    <title lang="pt">12 Moedas</title>
+    <desc lang="pt">Uma constatação curiosa: o Brasil, apesar de ser um país jovem, já teve 12 diferente moedas. Este é o mote para o diretor Renato Rossi investigar o que está em jogo na política monetária de um país.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820202000 -0300" stop="20210820220000 -0300" channel="HBO Mundi HD">
+    <title lang="pt">Tudo pela Arte</title>
+    <desc lang="pt">Claes Bang e Mick Jagger estrelam este thriller sobre um crítico de arte que recebe uma oferta de um marchand para roubar um quadro.(n)</desc>
+    <credits>
+      <director>Giuseppe Capotondi</director>
+      <actor>Claes Bang</actor>
+      <actor>Elizabeth Debicki</actor>
+      <actor>Mick Jagger</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210821000500 -0300" channel="HBO Mundi HD">
+    <title lang="pt">O Último Vermeer</title>
+    <desc lang="pt">Claes Bang e Guy Pearce estrelam este drama baseado em fatos reais sobre um soldado que investiga um falsificador de obras de arte.(n)</desc>
+    <credits>
+      <director>Dan Friedkin</director>
+      <actor>Guy Pearce</actor>
+      <actor>Claes Bang</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820151000 -0300" stop="20210820164500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Resident Evil 3: A Extinção</title>
+    <desc lang="pt">O vírus experimental infectou a população, que se transformou em zumbi. Os poucos sobreviventes seguem em comboio rumo ao Alasca, onde acreditam que estarão a salvo.(n)</desc>
+    <credits>
+      <director>Russell Mulcahy</director>
+      <actor>Milla Jovovich</actor>
+      <actor>Oded Fehr</actor>
+      <actor>Ali Larter</actor>
+      <actor>Mike Epps</actor>
+      <actor>Spencer Locke</actor>
+      <actor>Christopher Egan</actor>
+      <actor>Matthew Marsden</actor>
+      <actor>Jason O'Mara</actor>
+      <actor>John Eric Bentley</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_residenteil301.jpg" />
+    <country lang="pt">França</country>
+    <country lang="pt">Austrália</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820164500 -0300" stop="20210820183500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Anjos da Noite - A Evolução</title>
+    <desc lang="pt">Uma cruel guerra está em curso entre vampiros e lobisomens. Quando Selene, uma guerreira vampira, e Michael, o híbrido, desvendam os segredos de suas linhagens, Selene descobre que foi traída.(n)</desc>
+    <credits>
+      <director>Len Wiseman</director>
+      <actor>Kate Beckinsale</actor>
+      <actor>Scott Speedman</actor>
+      <actor>Tony Curran</actor>
+      <actor>Derek Jacobi</actor>
+      <actor>Bill Nighy</actor>
+      <actor>Steven Mackintosh</actor>
+      <actor>Zita Görög</actor>
+      <actor>Shane Brolly</actor>
+      <actor>Michael Sheen</actor>
+      <actor>Sophia Myles</actor>
+      <actor>Richard Cetrone</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filmes/anjosanoiteevolucao01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820183500 -0300" stop="20210820200500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Superman: O Homem do Amanhã</title>
+    <desc lang="pt">É o início de uma nova era de heróis, e Metrópolis acaba de conhecer o primeiro. Siga Clark Kent em seus primeiros passos como Superman.(n)</desc>
+    <credits>
+      <director>Chris Palmer</director>
+      <actor>Vozes de Darren Criss</actor>
+      <actor>Zachary Quinto</actor>
+      <actor>Alexandra Daddario</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820200500 -0300" stop="20210820220000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Promare</title>
+    <desc lang="pt">O mundo está prestes a ser consumido em chamas nesta incendiária aventura sobre rivais que se unem para salvar o que sobrou do mundo.(n)</desc>
+    <credits>
+      <director>Hiroyuki Imaishi</director>
+      <actor>Billy Kametz</actor>
+      <actor>Yuri Lowenthal</actor>
+      <actor>Johnny Yong Bosch</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ficção</category>
+    <country lang="pt">Taiwan</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210821001500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Os Instrumentos Mortais: Cidade dos Ossos</title>
+    <desc lang="pt">Baseado no romance de Cassandra Clare, o filme narra a guerra entre os demônios e os caçadores de sombras, um grupo de seres metade anjo e metade humano que procuram proteger toda a humanidade.(n)</desc>
+    <credits>
+      <director>Harald Zwart</director>
+      <actor>Lily Collins</actor>
+      <actor>Kevin Zegers</actor>
+      <actor>Jamie Campbell Bower</actor>
+      <actor>Jemima West</actor>
+      <actor>Robert Sheehan</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_osinstrumentosmortaiscidadedosossos01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Alemanha</country>
+    <rating system="BR">
+      <value>12</value>
     </rating>
   </programme>
 </tv>
