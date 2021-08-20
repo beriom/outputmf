@@ -240,10 +240,12 @@
   </channel>
   <channel id="Globo News HD">
     <display-name lang="pt">Globo News HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/globonews.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Globo Nordeste">
     <display-name lang="pt">Globo Nordeste</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/globone.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Gloob HD">
@@ -8913,6 +8915,264 @@
     <country lang="pt">França</country>
     <rating system="BR">
       <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820160000 -0300" stop="20210820180000 -0300" channel="Globo News HD">
+    <title lang="pt">Jornal GloboNews - Edição das 16h - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo.(n)</desc>
+    <credits>
+      <actor>Christiane Pelajo</actor>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/jornalglobonews16h01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820200000 -0300" channel="Globo News HD">
+    <title lang="pt">Jornal GloboNews - Edição das 18h</title>
+    <desc lang="pt">Cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no Mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/jornalglobonews18h01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820220000 -0300" channel="Globo News HD">
+    <title lang="pt">GloboNews em Pauta</title>
+    <desc lang="pt">Telejornal diário, com comentaristas que aprofundam as notícias do dia, com um convidado no estúdio. Destaque para política, cenário internacional e cultura.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/globonewsempauta01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820233000 -0300" channel="Globo News HD">
+    <title lang="pt">Jornal das Dez</title>
+    <desc lang="pt">Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/jornaldasdez01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820233000 -0300" stop="20210821000000 -0300" channel="Globo News HD">
+    <title lang="pt">Diálogos com Mario Sergio Conti</title>
+    <desc lang="pt">Programa de entrevistas, sobre temas políticos, culturais, artísticos, científicos e sociais, sempre da atualidade.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/dialogos01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820154000 -0300" stop="20210820171000 -0300" channel="Globo Nordeste">
+    <title lang="pt">Sessão da Tarde: Sonhos de Papel</title>
+    <desc lang="pt">Jornada de um garoto e seu pai se reconectando após a luta de sua família que nos faz torcer para eles no campeonato mundial de aviões de papel.(n)</desc>
+    <credits>
+      <director>Robert Connolly</director>
+      <actor>Sam Worthington</actor>
+      <actor>Ed Oxenbould</actor>
+      <actor>Deborah Mailman</actor>
+      <actor>Nicholas Bakopoulos-cooke</actor>
+      <actor>Ena Imai</actor>
+      <actor>Terry Norris</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/filme_sessaodatardeasmilpala01.jpg" />
+    <country lang="pt">Austrália</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820171000 -0300" stop="20210820180500 -0300" channel="Globo Nordeste">
+    <title lang="pt">Vale a Pena Ver de Novo</title>
+    <desc lang="pt">A história da grande rivalidade entre André Spina/Jacques Leclair e Ariclenes Martins/Victor Valentim, que extrapola as fronteiras da vila do Belenzinho.(n)</desc>
+    <credits>
+      <director>Jorge Fernando</director>
+      <actor>Alexandre Borges</actor>
+      <actor>Murilo Benício</actor>
+      <actor>Caio Castro</actor>
+      <actor>Isis Valverde</actor>
+      <actor>Malu Mader</actor>
+      <actor>Nicette Bruno</actor>
+      <actor>Juliana Paiva</actor>
+      <actor>Tato Gabus Mendes</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820180500 -0300" stop="20210820183000 -0300" channel="Globo Nordeste">
+    <title lang="pt">Malhação</title>
+    <desc lang="pt">Duca se desculpa com Nat e a beija. Bianca desabafa com o retrato de sua mãe. Lobão, embriagado, chega à casa de Nat e Duca se esconde.(n)</desc>
+    <credits>
+      <director>Luiz Henrique Rios</director>
+      <director>José Alvarenga Jr.</director>
+      <actor>Arthur Aguiar</actor>
+      <actor>Bruna Hamu</actor>
+      <actor>Emanuelle Araújo</actor>
+      <actor>Eriberto Leão</actor>
+      <actor>Isabella Santoni</actor>
+      <actor>Jeniffer Nascimento</actor>
+      <actor>Rafael Vitti</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E149</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820183000 -0300" stop="20210820191500 -0300" channel="Globo Nordeste">
+    <title lang="pt">Nos Tempos do Imperador</title>
+    <desc lang="pt">Eugênio e Luísa discutem. Pedro afirma a Pilar que não pode interceder por ela junto à faculdade de Salvador.(n)</desc>
+    <credits>
+      <director>Vinicius Coimbra</director>
+      <actor>Alexandre Nero</actor>
+      <actor>Gabriela Medvedovski</actor>
+      <actor>Letícia Sabatella</actor>
+      <actor>Mariana Ximenes</actor>
+      <actor>Selton Mello</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E11</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820191500 -0300" stop="20210820194500 -0300" channel="Globo Nordeste">
+    <title lang="pt">NE2</title>
+    <desc lang="pt">Telejornal noturno apresentado por Meiry Lanunce a partir das 19h.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_netv2aedicao01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820194500 -0300" stop="20210820203000 -0300" channel="Globo Nordeste">
+    <title lang="pt">Pega Pega</title>
+    <desc lang="pt">Madalena não aceita a ajuda de Cristóvão. Nelito aconselha Pedrinho a fazer as pazes com Luiza.(n)</desc>
+    <credits>
+      <director>Luiz Henrique Rios</director>
+      <actor>Camila Queiroz</actor>
+      <actor>Mateus Solano</actor>
+      <actor>Marcos Caruso</actor>
+      <actor>Vanessa Giácomo</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/pegapega01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E29</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820203000 -0300" stop="20210820213000 -0300" channel="Globo Nordeste">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+    <credits>
+      <director>William Bonner</director>
+      <actor>William Bonner</actor>
+      <actor>Renata Vasconcellos</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/jornalnacional01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820213000 -0300" stop="20210820223500 -0300" channel="Globo Nordeste">
+    <title lang="pt">Império</title>
+    <desc lang="pt">Beatriz sente falta de Enrico. Cláudio liga para Leonardo. Du é levada para a maternidade e João Lucas tenta acalmá-la.(n)</desc>
+    <credits>
+      <director>Rogério Gomes</director>
+      <actor>Alexandre Nero</actor>
+      <actor>Lilia Cabral</actor>
+      <actor>Mariana Ruy Barbosa</actor>
+      <actor>Marjorie Estiano</actor>
+      <actor>Drica Moraes</actor>
+      <actor>Caio Blat</actor>
+      <actor>Andreia Horta</actor>
+      <actor>Daniel Rocha</actor>
+      <actor>Leandra Leal</actor>
+      <actor>Rafael Cardoso</actor>
+      <actor>Paulo Betti</actor>
+      <actor>Zezé Polessa</actor>
+      <actor>Nanda Costa</actor>
+      <actor>Vanessa Giácomo</actor>
+      <actor>Malu Galli</actor>
+      <actor>Flavio Galvão</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/imperio01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E113</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820223500 -0300" stop="20210820232500 -0300" channel="Globo Nordeste">
+    <title lang="pt">Globo Repórter</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <actor>Glória Maria</actor>
+      <actor>Sandra Annenberg</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/globoreporter01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820232500 -0300" stop="20210821003000 -0300" channel="Globo Nordeste">
+    <title lang="pt">Ilha de Ferro</title>
+    <desc lang="pt">A série conta a história de uma equipe de petroleiros que se divide entre os dilemas da vida familiar em terra firme e o clima de ebulição em alto-mar.(n)</desc>
+    <credits>
+      <director>Afonso Poyart</director>
+      <director>Guga Sander</director>
+      <actor>Cauã Reymond</actor>
+      <actor>Klebber Toledo</actor>
+      <actor>Maria Casadevall</actor>
+      <actor>Sophie Charlotte</actor>
+      <actor>Taumaturgo Ferreira</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>16</value>
     </rating>
   </programme>
 </tv>
