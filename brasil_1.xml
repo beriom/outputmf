@@ -591,6 +591,7 @@
   </channel>
   <channel id="Telecine Action HD">
     <display-name lang="pt">Telecine Action HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Telecine Cult HD">
