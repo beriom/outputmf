@@ -77,6 +77,7 @@
   </channel>
   <channel id="CNN Brasil HD">
     <display-name lang="pt">CNN Brasil HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Combate HD">
