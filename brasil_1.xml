@@ -36740,4 +36740,1104 @@
       <value>14</value>
     </rating>
   </programme>
+  <programme start="20210820093000 -0300" stop="20210820101200 -0300" channel="FOX Premium 2">
+    <title lang="pt">1 Contra Todos</title>
+    <desc lang="pt">Cadu enfrenta os políticos corruptos e entra com o pedido de cassação do deputado Odraude. Cadu curte por um tempinho sua vitória e se orgulha de ser um deputado honesto.(n)</desc>
+    <credits>
+      <director>Breno Silveira</director>
+      <actor>Julio Andrade</actor>
+      <actor>Adriano Garib</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/1contratodos01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820101200 -0300" stop="20210820105500 -0300" channel="FOX Premium 2">
+    <title lang="pt">1 Contra Todos</title>
+    <desc lang="pt">A vida em Brasília se mostra muito mais difícil do que Cadu imaginava. Cadu recebe uma ligação de Pepe e é obrigado a fazer uma ''entrega'' de maconha no bairro de Ceilândia, para um funcionário de Pepe.(n)</desc>
+    <credits>
+      <director>Breno Silveira</director>
+      <actor>Julio Andrade</actor>
+      <actor>Adriano Garib</actor>
+      <actor>Julia Ianina</actor>
+      <actor>Roberto Birindelli</actor>
+      <actor>Lívia de Bueno</actor>
+      <actor>Marcelo Torreão</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/1contratodos01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820105500 -0300" stop="20210820114300 -0300" channel="FOX Premium 2">
+    <title lang="pt">Condor</title>
+    <desc lang="pt">Reuel e Marty esperam que Caleb Woolf seja a chave para a captura de Joe. Enquanto isso, Bob tenta extrair informações de Joubert e, em Riad, um grande plano é executado.(n)</desc>
+    <credits>
+      <director>Andrew McCarthy</director>
+      <actor>Angel Bonanni</actor>
+      <actor>Brendan Fraser</actor>
+      <actor>Kristen Hager</actor>
+      <actor>Leem Lubany</actor>
+      <actor>Max Irons</actor>
+      <actor>Mira Sorvino</actor>
+      <actor>William Hurt</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820114300 -0300" stop="20210820122600 -0300" channel="FOX Premium 2">
+    <title lang="pt">The Walking Dead</title>
+    <title lang="en">The Walking Dead: 12</title>
+    <desc lang="pt">Membros do grupo buscam suprimentos. Enquanto isso, de volta a Alexandria, alguém precisa tomar uma decisão moralmente desafiadora.(n)</desc>
+    <credits>
+      <director>Greg Nicotero</director>
+      <actor>Andrew Lincoln</actor>
+      <actor>Norman Reedus</actor>
+      <actor>Lauren Cohan</actor>
+      <actor>Lennie James</actor>
+      <actor>Melissa McBride</actor>
+      <actor>Sonequa Martin-Green</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/thewalkingdead01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E12</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820122600 -0300" stop="20210820131200 -0300" channel="FOX Premium 2">
+    <title lang="pt">The Walking Dead</title>
+    <title lang="en">The Walking Dead: 14</title>
+    <desc lang="pt">Os Salvadores visitam Hilltop inesperadamente, surpreendendo a todos, com planos de levar mais do que apenas suprimentos.(n)</desc>
+    <credits>
+      <director>Greg Nicotero</director>
+      <actor>Andrew Lincoln</actor>
+      <actor>Norman Reedus</actor>
+      <actor>Lauren Cohan</actor>
+      <actor>Lennie James</actor>
+      <actor>Melissa McBride</actor>
+      <actor>Sonequa Martin-Green</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/thewalkingdead01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E14</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820131200 -0300" stop="20210820135900 -0300" channel="FOX Premium 2">
+    <title lang="pt">The Walking Dead</title>
+    <title lang="en">The Walking Dead: 13</title>
+    <desc lang="pt">As coisas não saem como planejado quando um grupo de Kingdommers leva produtos aos Salvadores durante uma entrega de rotina.(n)</desc>
+    <credits>
+      <director>Greg Nicotero</director>
+      <actor>Andrew Lincoln</actor>
+      <actor>Norman Reedus</actor>
+      <actor>Lauren Cohan</actor>
+      <actor>Lennie James</actor>
+      <actor>Melissa McBride</actor>
+      <actor>Sonequa Martin-Green</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/thewalkingdead01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E13</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820135900 -0300" stop="20210820144200 -0300" channel="FOX Premium 2">
+    <title lang="pt">The Walking Dead</title>
+    <title lang="en">The Walking Dead: 15</title>
+    <desc lang="pt">Um grupo de Alexandria embarca em uma viagem; um membro do grupo deve tomar uma decisão dolorosa.(n)</desc>
+    <credits>
+      <director>Greg Nicotero</director>
+      <actor>Andrew Lincoln</actor>
+      <actor>Norman Reedus</actor>
+      <actor>Lauren Cohan</actor>
+      <actor>Lennie James</actor>
+      <actor>Melissa McBride</actor>
+      <actor>Sonequa Martin-Green</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/thewalkingdead01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E15</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820144200 -0300" stop="20210820152700 -0300" channel="FOX Premium 2">
+    <title lang="pt">Legion</title>
+    <desc lang="pt">Uma ameaça surge enquanto David busca respostas.(n)</desc>
+    <credits>
+      <director>Noah Hawley</director>
+      <actor>Dan Stevens</actor>
+      <actor>Rachel Keller</actor>
+      <actor>Jean Smart</actor>
+      <actor>Aubrey Plaza</actor>
+      <actor>Amber Midthunder</actor>
+      <actor>Jeremie Harris</actor>
+      <actor>Katie Aselton</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_legion01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820152700 -0300" stop="20210820162100 -0300" channel="FOX Premium 2">
+    <title lang="pt">Legion</title>
+    <desc lang="pt">David está com problemas, enquanto seus amigos buscam respostas.(n)</desc>
+    <credits>
+      <director>Larysa Kondracki</director>
+      <actor>Dan Stevens</actor>
+      <actor>Rachel Keller</actor>
+      <actor>Jean Smart</actor>
+      <actor>Aubrey Plaza</actor>
+      <actor>Amber Midthunder</actor>
+      <actor>Jeremie Harris</actor>
+      <actor>Katie Aselton</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_legion01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820162100 -0300" stop="20210820171400 -0300" channel="FOX Premium 2">
+    <title lang="pt">Legion</title>
+    <desc lang="pt">Surge uma nova ameaça.(n)</desc>
+    <credits>
+      <director>Tim Mielants</director>
+      <actor>Dan Stevens</actor>
+      <actor>Rachel Keller</actor>
+      <actor>Jean Smart</actor>
+      <actor>Aubrey Plaza</actor>
+      <actor>Amber Midthunder</actor>
+      <actor>Jeremie Harris</actor>
+      <actor>Katie Aselton</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_legion01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820171400 -0300" stop="20210820180500 -0300" channel="FOX Premium 2">
+    <title lang="pt">Legion</title>
+    <desc lang="pt">David retorna ao lugar onde tudo começou.(n)</desc>
+    <credits>
+      <director>Hiro Murai</director>
+      <actor>Dan Stevens</actor>
+      <actor>Rachel Keller</actor>
+      <actor>Jean Smart</actor>
+      <actor>Aubrey Plaza</actor>
+      <actor>Amber Midthunder</actor>
+      <actor>Jeremie Harris</actor>
+      <actor>Katie Aselton</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_legion01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820180500 -0300" stop="20210820185300 -0300" channel="FOX Premium 2">
+    <title lang="pt">Condor</title>
+    <desc lang="pt">Joe continua a investigar teorias alternativas já que não está convencido de que Gordon seja o culpado. Depois de um golpe de sorte inesperado, Eva e Gordon fazem as pazes.(n)</desc>
+    <credits>
+      <director>Alexis Ostrander</director>
+      <actor>Bob Balaban</actor>
+      <actor>Kristen Hager</actor>
+      <actor>Leem Lubany</actor>
+      <actor>Max Irons</actor>
+      <actor>Constance Zimmer</actor>
+      <actor>Alexei Bondar</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820185300 -0300" stop="20210820192000 -0300" channel="FOX Premium 2">
+    <title lang="pt">Mr Inbetween</title>
+    <desc lang="pt">Tudo tem fim, até o Natal.(n)</desc>
+    <credits>
+      <director>Nash Edgerton</director>
+      <actor>Brooke Satchwell</actor>
+      <actor>Chika Yasumura</actor>
+      <actor>Damon Herriman</actor>
+      <actor>Justin Rosniak</actor>
+      <actor>Scott Ryan</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Austrália</country>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820192000 -0300" stop="20210820194300 -0300" channel="FOX Premium 2">
+    <title lang="pt">Mr Inbetween</title>
+    <desc lang="pt">Confusões de mulheres, velhos amigos e corações em árvores.(n)</desc>
+    <credits>
+      <director>Nash Edgerton</director>
+      <actor>Brooke Satchwell</actor>
+      <actor>Chika Yasumura</actor>
+      <actor>Damon Herriman</actor>
+      <actor>Justin Rosniak</actor>
+      <actor>Scott Ryan</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Austrália</country>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820194300 -0300" stop="20210820202800 -0300" channel="FOX Premium 2">
+    <title lang="pt">Snowfall</title>
+    <desc lang="pt">Andre é forçado a pedir a ajuda de Franklin. Julia propõe um novo plano para Teddy. Gustavo abre caminho para sua própria visão.(n)</desc>
+    <credits>
+      <director>Alonso Alvarez</director>
+      <actor>Amin Joseph</actor>
+      <actor>Angela Lewis</actor>
+      <actor>Carter Hudson</actor>
+      <actor>Damson Idris</actor>
+      <actor>Marcus Henderson</actor>
+      <actor>Michael Hyatt</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_snowfall01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820202800 -0300" stop="20210820211400 -0300" channel="FOX Premium 2">
+    <title lang="pt">Snowfall</title>
+    <desc lang="pt">André recebe ajuda de uma fonte inesperada. Franklin descobre que está exposto. Julia força Teddy a tomar uma atitude.(n)</desc>
+    <credits>
+      <director>Alonso Alvarez</director>
+      <actor>Amin Joseph</actor>
+      <actor>Angela Lewis</actor>
+      <actor>Carter Hudson</actor>
+      <actor>Damson Idris</actor>
+      <actor>Marcus Henderson</actor>
+      <actor>Michael Hyatt</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_snowfall01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820211400 -0300" stop="20210820215700 -0300" channel="FOX Premium 2">
+    <title lang="pt">Snowfall</title>
+    <desc lang="pt">Franklin lida com as consequências das suas ações enquanto a sua família se prepara para o pior. Teddy se esforça para manter sua operação na ativa.(n)</desc>
+    <credits>
+      <director>Alonso Alvarez</director>
+      <actor>Amin Joseph</actor>
+      <actor>Angela Lewis</actor>
+      <actor>Carter Hudson</actor>
+      <actor>Damson Idris</actor>
+      <actor>Marcus Henderson</actor>
+      <actor>Michael Hyatt</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_snowfall01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820215700 -0300" stop="20210820224000 -0300" channel="FOX Premium 2">
+    <title lang="pt">The Walking Dead</title>
+    <title lang="en">The Walking Dead: 12</title>
+    <desc lang="pt">Membros do grupo buscam suprimentos. Enquanto isso, de volta a Alexandria, alguém precisa tomar uma decisão moralmente desafiadora.(n)</desc>
+    <credits>
+      <director>Greg Nicotero</director>
+      <actor>Andrew Lincoln</actor>
+      <actor>Norman Reedus</actor>
+      <actor>Lauren Cohan</actor>
+      <actor>Lennie James</actor>
+      <actor>Melissa McBride</actor>
+      <actor>Sonequa Martin-Green</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/thewalkingdead01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E12</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820224000 -0300" stop="20210820232700 -0300" channel="FOX Premium 2">
+    <title lang="pt">The Walking Dead</title>
+    <title lang="en">The Walking Dead: 14</title>
+    <desc lang="pt">Os Salvadores visitam Hilltop inesperadamente, surpreendendo a todos, com planos de levar mais do que apenas suprimentos.(n)</desc>
+    <credits>
+      <director>Greg Nicotero</director>
+      <actor>Andrew Lincoln</actor>
+      <actor>Norman Reedus</actor>
+      <actor>Lauren Cohan</actor>
+      <actor>Lennie James</actor>
+      <actor>Melissa McBride</actor>
+      <actor>Sonequa Martin-Green</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/thewalkingdead01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E14</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820232700 -0300" stop="20210821001400 -0300" channel="FOX Premium 2">
+    <title lang="pt">The Walking Dead</title>
+    <title lang="en">The Walking Dead: 13</title>
+    <desc lang="pt">As coisas não saem como planejado quando um grupo de Kingdommers leva produtos aos Salvadores durante uma entrega de rotina.(n)</desc>
+    <credits>
+      <director>Greg Nicotero</director>
+      <actor>Andrew Lincoln</actor>
+      <actor>Norman Reedus</actor>
+      <actor>Lauren Cohan</actor>
+      <actor>Lennie James</actor>
+      <actor>Melissa McBride</actor>
+      <actor>Sonequa Martin-Green</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/thewalkingdead01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E13</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821001400 -0300" stop="20210821005700 -0300" channel="FOX Premium 2">
+    <title lang="pt">The Walking Dead</title>
+    <title lang="en">The Walking Dead: 15</title>
+    <desc lang="pt">Um grupo de Alexandria embarca em uma viagem; um membro do grupo deve tomar uma decisão dolorosa.(n)</desc>
+    <credits>
+      <director>Greg Nicotero</director>
+      <actor>Andrew Lincoln</actor>
+      <actor>Norman Reedus</actor>
+      <actor>Lauren Cohan</actor>
+      <actor>Lennie James</actor>
+      <actor>Melissa McBride</actor>
+      <actor>Sonequa Martin-Green</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/thewalkingdead01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E15</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821005700 -0300" stop="20210821014200 -0300" channel="FOX Premium 2">
+    <title lang="pt">Impuros</title>
+    <desc lang="pt">Bruninho Bagdá, chefe do tráfico no Parque Royal, arma um esquema com o policial civil Britto para levar uma grana e culpar Evandro perante o Comando. Prevendo o destino arriscado do filho, Arlete tenta dissuadi-lo das escolhas erradas.(n)</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Cyria Coentro</actor>
+      <actor>Fernanda Machado</actor>
+      <actor>João Vitor Silva</actor>
+      <actor>Raphael Logam</actor>
+      <actor>Rocco Pitanga</actor>
+      <actor>Rui Ricardo</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_impuros01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821014200 -0300" stop="20210821023300 -0300" channel="FOX Premium 2">
+    <title lang="pt">Impuros</title>
+    <desc lang="pt">Após reverter o golpe de Bruninho Bagdá, Evandro se torna líder do tráfico no Morro do Dendê. Seguindo de perto a escalada do traficante, Morello invade o morro na operação para travar a entrada de drogas e armas.(n)</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Cyria Coentro</actor>
+      <actor>Fernanda Machado</actor>
+      <actor>João Vitor Silva</actor>
+      <actor>Raphael Logam</actor>
+      <actor>Rocco Pitanga</actor>
+      <actor>Rui Ricardo</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_impuros01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821023300 -0300" stop="20210821031500 -0300" channel="FOX Premium 2">
+    <title lang="pt">1 Contra Todos</title>
+    <desc lang="pt">Cadu enfrenta os políticos corruptos e entra com o pedido de cassação do deputado Odraude. Cadu curte por um tempinho sua vitória e se orgulha de ser um deputado honesto.(n)</desc>
+    <credits>
+      <director>Breno Silveira</director>
+      <actor>Julio Andrade</actor>
+      <actor>Adriano Garib</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/1contratodos01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821031500 -0300" stop="20210821035800 -0300" channel="FOX Premium 2">
+    <title lang="pt">1 Contra Todos</title>
+    <desc lang="pt">A vida em Brasília se mostra muito mais difícil do que Cadu imaginava. Cadu recebe uma ligação de Pepe e é obrigado a fazer uma ''entrega'' de maconha no bairro de Ceilândia, para um funcionário de Pepe.(n)</desc>
+    <credits>
+      <director>Breno Silveira</director>
+      <actor>Julio Andrade</actor>
+      <actor>Adriano Garib</actor>
+      <actor>Julia Ianina</actor>
+      <actor>Roberto Birindelli</actor>
+      <actor>Lívia de Bueno</actor>
+      <actor>Marcelo Torreão</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/1contratodos01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821035800 -0300" stop="20210821044300 -0300" channel="FOX Premium 2">
+    <title lang="pt">Run Coyote Run</title>
+    <desc lang="pt">Gama e Morris vão embora de Naco com Wendy. Natividad fica sabendo disso e manda El Muerto caçá-los. O sicário não poupará violência para cumprir sua missão, e os coiotes deverão enfrentar um destino inesperado.(n)</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Harold Torres</actor>
+      <actor>Eivaut Rischen</actor>
+      <actor>Macarena Miguel</actor>
+      <actor>Maya Zapata</actor>
+      <actor>Héctor Jiménez</actor>
+      <actor>Fernando Gaviria</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_runcoyoterun01.jpg" />
+    <country lang="pt">México</country>
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821044300 -0300" stop="20210821053600 -0300" channel="FOX Premium 2">
+    <title lang="pt">Run Coyote Run</title>
+    <desc lang="pt">Fugitivos da polícia americana, Gama e Morris retornam a Naco e encontram a cidade tomada por grupos do narcotráfico que disputam a praça. Sem poder encontrar Wendy, eles decidem se refugiar novamente nos Estados Unidos.(n)</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Daniela Botero</actor>
+      <actor>Eivaut Rischen</actor>
+      <actor>Emma Escalante</actor>
+      <actor>Harold Torres</actor>
+      <actor>Héctor Jiménez</actor>
+      <actor>Norma Angélica</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_runcoyoterun01.jpg" />
+    <country lang="pt">México</country>
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821053600 -0300" stop="20210821060900 -0300" channel="FOX Premium 2">
+    <title lang="pt">Run Coyote Run</title>
+    <desc lang="pt">O apocalipse está no horizonte. O último lugar seguro é a área fronteiriça de Sonoro e Naco, e um êxodo em massa de gringos chega ao México.(n)</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Daniela Botero</actor>
+      <actor>Eivaut Rischen</actor>
+      <actor>Emma Escalante</actor>
+      <actor>Harold Torres</actor>
+      <actor>Héctor Jiménez</actor>
+      <actor>Norma Angélica</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_runcoyoterun01.jpg" />
+    <country lang="pt">México</country>
+    <episode-num system="onscreen">S3 E13</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821060900 -0300" stop="20210821064900 -0300" channel="FOX Premium 2">
+    <title lang="pt">Run Coyote Run</title>
+    <desc lang="pt">Conhecemos um primeiro cliente: jogador de baseball cubano buscando entrar para jogar nas grandes ligas americanas, mas não antes de servir como um jogador escondido de substituição para os Naco Coyotes.(n)</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Harold Torres</actor>
+      <actor>Eivaut Rischen</actor>
+      <actor>Macarena Miguel</actor>
+      <actor>Héctor Jiménez</actor>
+      <actor>Maya Zapata</actor>
+      <actor>Byrdie Bell</actor>
+      <actor>Fernando Gaviria</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_runcoyoterun01.jpg" />
+    <country lang="pt">México</country>
+    <country lang="pt">Argentina</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821064900 -0300" stop="20210821072900 -0300" channel="FOX Premium 2">
+    <title lang="pt">Run Coyote Run</title>
+    <desc lang="pt">O dono de um circo deve levar seu tigre através da fronteira para ver um veterinário estando o animal exposto ao tempo...o qual deve ou não ser porque ele traz cocaína escondida dentro de seu corpo.(n)</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Harold Torres</actor>
+      <actor>Eivaut Rischen</actor>
+      <actor>Macarena Miguel</actor>
+      <actor>Jean Roland Dufresne</actor>
+      <actor>Omar Ayala</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_runcoyoterun01.jpg" />
+    <country lang="pt">México</country>
+    <country lang="pt">Argentina</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821072900 -0300" stop="20210821075500 -0300" channel="FOX Premium 2">
+    <title lang="pt">Hermes e Renato</title>
+    <title lang="en">Hermes E Renato: 11</title>
+    <desc lang="pt">Meu, o Luiz Boça entrevista o animal mais inteligente do mundo, meu! Você não pode perder esse puta programa, meu: Acredite Por Favor!(n)</desc>
+    <credits>
+      <director>Henrique Moreira Pinto</director>
+      <actor>Adriano Silva</actor>
+      <actor>Fausto Fanti</actor>
+      <actor>Felpe Torres</actor>
+      <actor>Franco Fanti</actor>
+      <actor>Marco Alves</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/hermeserenato01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821075500 -0300" stop="20210821082000 -0300" channel="FOX Premium 2">
+    <title lang="pt">Hermes e Renato</title>
+    <title lang="en">Hermes E Renato: 12</title>
+    <desc lang="pt">A volta de Gil Cones no caso mais despedaçado do ano. Conheça também o Instituto de Necropedagogia Walkers, o único lugar em que os mortos podem se sentir vivos!(n)</desc>
+    <credits>
+      <director>Henrique Moreira Pinto</director>
+      <actor>Adriano Silva</actor>
+      <actor>Fausto Fanti</actor>
+      <actor>Felpe Torres</actor>
+      <actor>Franco Fanti</actor>
+      <actor>Marco Alves</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/hermeserenato01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821082000 -0300" stop="20210821084300 -0300" channel="FOX Premium 2">
+    <title lang="pt">Hermes e Renato</title>
+    <title lang="en">Hermes e Renato: 01</title>
+    <desc lang="pt">Você vai muito ao banheiro e não consegue se controlar? Nesse episódio você descobre quais os sintomas da Síndrome de Toalet com Dr Dráuzio Vareta e também o resultado de qual a melhor perereca do mercado.(n)</desc>
+    <credits>
+      <director>Henrique Moreira Pinto</director>
+      <actor>Adriano Silva</actor>
+      <actor>Fausto Fanti</actor>
+      <actor>Felpe Torres</actor>
+      <actor>Franco Fanti</actor>
+      <actor>Marco Antonio Alves</actor>
+      <actor>Gil Brother</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/hermeserenato01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821084300 -0300" stop="20210821094300 -0300" channel="FOX Premium 2">
+    <title lang="pt">Legion</title>
+    <desc lang="pt">David trava uma guerra.(n)</desc>
+    <credits>
+      <director>Arkasha Stevenson</director>
+      <actor>Amber Midthunder</actor>
+      <actor>Aubrey Plaza</actor>
+      <actor>Bill Irwin</actor>
+      <actor>Dan Stevens</actor>
+      <actor>Jeremie Harris</actor>
+      <actor>Rachel Keller</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_legion01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821094300 -0300" stop="20210821103300 -0300" channel="FOX Premium 2">
+    <title lang="pt">Legion</title>
+    <desc lang="pt">Syd cresce em terras estrangeiras.(n)</desc>
+    <credits>
+      <director>John Cameron</director>
+      <actor>Amber Midthunder</actor>
+      <actor>Aubrey Plaza</actor>
+      <actor>Bill Irwin</actor>
+      <actor>Dan Stevens</actor>
+      <actor>Jeremie Harris</actor>
+      <actor>Rachel Keller</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_legion01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821103300 -0300" stop="20210821113300 -0300" channel="FOX Premium 2">
+    <title lang="pt">Legion</title>
+    <desc lang="pt">O começo do fim.(n)</desc>
+    <credits>
+      <director>Dana Gonzales</director>
+      <actor>Amber Midthunder</actor>
+      <actor>Aubrey Plaza</actor>
+      <actor>Bill Irwin</actor>
+      <actor>Dan Stevens</actor>
+      <actor>Jeremie Harris</actor>
+      <actor>Rachel Keller</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_legion01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821113300 -0300" stop="20210821123300 -0300" channel="FOX Premium 2">
+    <title lang="pt">Legion</title>
+    <desc lang="pt">O fim do fim.(n)</desc>
+    <credits>
+      <director>Dana Gonzales</director>
+      <actor>Amber Midthunder</actor>
+      <actor>Aubrey Plaza</actor>
+      <actor>Bill Irwin</actor>
+      <actor>Dan Stevens</actor>
+      <actor>Jeremie Harris</actor>
+      <actor>Rachel Keller</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_legion01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821123300 -0300" stop="20210821134100 -0300" channel="FOX Premium 2">
+    <title lang="pt">Legion</title>
+    <desc lang="pt">Um jovem sofrendo com uma doença mental questiona se as visões que ele tem são reais após um encontro estranho com outro paciente.(n)</desc>
+    <credits>
+      <director>Noah Hawley</director>
+      <actor>Dan Stevens</actor>
+      <actor>Rachel Keller</actor>
+      <actor>Jean Smart</actor>
+      <actor>Aubrey Plaza</actor>
+      <actor>Amber Midthunder</actor>
+      <actor>Jeremie Harris</actor>
+      <actor>Katie Aselton</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_legion01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821134100 -0300" stop="20210821143400 -0300" channel="FOX Premium 2">
+    <title lang="pt">Mayans M.C.</title>
+    <desc lang="pt">A família Reyes é dividida, e M.C. descobre um vazamento interno.(n)</desc>
+    <credits>
+      <director>Kevin Dowling</director>
+      <actor>Carla Baratta</actor>
+      <actor>Clayton Cardenas</actor>
+      <actor>Edward James Olmos</actor>
+      <actor>Emilio Rivera</actor>
+      <actor>Jd Pardo</actor>
+      <actor>Michael Irby</actor>
+      <actor>Sarah Bolger</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_mayansmc01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821143400 -0300" stop="20210821152000 -0300" channel="FOX Premium 2">
+    <title lang="pt">Mayans M.C.</title>
+    <desc lang="pt">À medida que EZ e Angel se reconectam, surgem complicações para M.C. e Galindo.(n)</desc>
+    <credits>
+      <director>Batan Silva</director>
+      <actor>Carla Baratta</actor>
+      <actor>Clayton Cardenas</actor>
+      <actor>Edward James Olmos</actor>
+      <actor>Emilio Rivera</actor>
+      <actor>Jd Pardo</actor>
+      <actor>Michael Irby</actor>
+      <actor>Sarah Bolger</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_mayansmc01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821152000 -0300" stop="20210821161500 -0300" channel="FOX Premium 2">
+    <title lang="pt">Mayans M.C.</title>
+    <desc lang="pt">Os Mayans buscam justiça, enquanto o acordo de Galindo dá um desvio inesperado no sul da fronteira.(n)</desc>
+    <credits>
+      <director>Guy Ferland</director>
+      <actor>Carla Baratta</actor>
+      <actor>Clayton Cardenas</actor>
+      <actor>Edward James Olmos</actor>
+      <actor>Emilio Rivera</actor>
+      <actor>Jd Pardo</actor>
+      <actor>Michael Irby</actor>
+      <actor>Sarah Bolger</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_mayansmc01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821161500 -0300" stop="20210821170700 -0300" channel="FOX Premium 2">
+    <title lang="pt">Mayans M.C.</title>
+    <desc lang="pt">Os segredos por trás da morte de EZ e da mãe de Angel são revelados.(n)</desc>
+    <credits>
+      <director>Rebecca Rodriguez</director>
+      <actor>Carla Baratta</actor>
+      <actor>Clayton Cardenas</actor>
+      <actor>Edward James Olmos</actor>
+      <actor>Emilio Rivera</actor>
+      <actor>Jd Pardo</actor>
+      <actor>Michael Irby</actor>
+      <actor>Sarah Bolger</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_mayansmc01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821170700 -0300" stop="20210821180500 -0300" channel="FOX Premium 2">
+    <title lang="pt">Mayans M.C.</title>
+    <desc lang="pt">Uma tempestade inesperada levanta poeira ao sul da fronteira. Velhos segredos se misturam com temas familiares.(n)</desc>
+    <credits>
+      <director>Rachel Goldberg</director>
+      <actor>Carla Baratta</actor>
+      <actor>Clayton Cardenas</actor>
+      <actor>Edward James Olmos</actor>
+      <actor>Emilio Rivera</actor>
+      <actor>Jd Pardo</actor>
+      <actor>Michael Irby</actor>
+      <actor>Sarah Bolger</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_mayansmc01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821180500 -0300" stop="20210821190000 -0300" channel="FOX Premium 2">
+    <title lang="pt">1 Contra Todos</title>
+    <desc lang="pt">Com Paco morto, Pepe preso na Bolívia e Pepita com sua filha nos braços, Cadu resolve viver honestamente como agricultor, plantando e vendendo café na Bolívia.(n)</desc>
+    <credits>
+      <director>Breno Silveira</director>
+      <actor>Julio Andrade</actor>
+      <actor>Adriano Garib</actor>
+      <actor>Bernardo Alves</actor>
+      <actor>Roberto Birindelli</actor>
+      <actor>Thogun Teixeira</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/1contratodos01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821190000 -0300" stop="20210821195800 -0300" channel="FOX Premium 2">
+    <title lang="pt">1 Contra Todos</title>
+    <desc lang="pt">Cadu e Pepe ficam na Bolívia, assumem o mercado local e ganham o poder que os manterá seguros.(n)</desc>
+    <credits>
+      <director>Breno Silveira</director>
+      <actor>Julio Andrade</actor>
+      <actor>Adriano Garib</actor>
+      <actor>Bernardo Alves</actor>
+      <actor>Roberto Birindelli</actor>
+      <actor>Thogun Teixeira</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/1contratodos01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821195800 -0300" stop="20210821204900 -0300" channel="FOX Premium 2">
+    <title lang="pt">1 Contra Todos</title>
+    <desc lang="pt">Pressionado pelo cartel de Miami, Cadu vai para Brasília e reúne suas forças, e muito dinheiro, para aprovar a Lei do Lúpulo, lei que pode beneficiar o tráfico de drogas entre a Bolívia e os Estados Unidos.(n)</desc>
+    <credits>
+      <director>Breno Silveira</director>
+      <actor>Julio Andrade</actor>
+      <actor>Adriano Garib</actor>
+      <actor>Bernardo Alves</actor>
+      <actor>Roberto Birindelli</actor>
+      <actor>Thogun Teixeira</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/1contratodos01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821204900 -0300" stop="20210821214600 -0300" channel="FOX Premium 2">
+    <title lang="pt">1 Contra Todos</title>
+    <desc lang="pt">Cadu falha na aprovação da Lei do Lúpulo e, desesperado, encontra em Telma uma improvável aliada na renegociação com os poderosos de Brasília.(n)</desc>
+    <credits>
+      <director>Breno Silveira</director>
+      <actor>Julio Andrade</actor>
+      <actor>Adriano Garib</actor>
+      <actor>Bernardo Alves</actor>
+      <actor>Roberto Birindelli</actor>
+      <actor>Thogun Teixeira</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/1contratodos01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821214600 -0300" stop="20210821224000 -0300" channel="FOX Premium 2">
+    <title lang="pt">Impuros</title>
+    <desc lang="pt">Tabuada se encontra com Evandro no S.A. Enquanto isso, o Dr. Burgos restabelece o controle de Evandro sobre o ouro branco dos Urquiza Brothers.(n)</desc>
+    <credits>
+      <director>Tomas Portella</director>
+      <director>René Sampaio</director>
+      <actor>Raphael Logam</actor>
+      <actor>Rui Ricardo Diaz</actor>
+      <actor>Dj Amorim</actor>
+      <actor>Peter Brandão</actor>
+      <actor>Carolina Chalita</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_impuros01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821224000 -0300" stop="20210821234000 -0300" channel="FOX Premium 2">
+    <title lang="pt">Impuros</title>
+    <desc lang="pt">Os Irmãos Urquiza assaltam a Segunda Armada. O poder de Evandro dentro da prisão se fortalece.(n)</desc>
+    <credits>
+      <director>Tomas Portella</director>
+      <director>René Sampaio</director>
+      <actor>Dj Amorim</actor>
+      <actor>Michel Bercovitch</actor>
+      <actor>Peter Brandão</actor>
+      <actor>Lorena Comparato</actor>
+      <actor>Luciano Cáceres</actor>
+      <actor>Rui Ricardo Diaz</actor>
+      <actor>Cyria Coentro</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_impuros01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821234000 -0300" stop="20210822002400 -0300" channel="FOX Premium 2">
+    <title lang="pt">Impuros</title>
+    <desc lang="pt">Sozinho em casa, Inês fica viciado em drogas. Evandro encontra uma maneira de sair da prisão.(n)</desc>
+    <credits>
+      <director>Tomas Portella</director>
+      <director>René Sampaio</director>
+      <actor>Dj Amorim</actor>
+      <actor>Michel Bercovitch</actor>
+      <actor>Peter Brandão</actor>
+      <actor>Karize Brum</actor>
+      <actor>Carolina Chalita</actor>
+      <actor>Gillray Coutinho</actor>
+      <actor>André Gonçalves</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_impuros01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
 </tv>
