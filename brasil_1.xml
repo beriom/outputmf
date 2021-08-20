@@ -24324,4 +24324,679 @@
       <value>L</value>
     </rating>
   </programme>
+  <programme start="20210820093600 -0300" stop="20210820102400 -0300" channel="Discovery Science HD">
+    <title lang="pt">Projeto Greensburg</title>
+    <desc lang="pt">O novo prédio da prefeitura terá uma turbina eólica com design ultramoderno; uma residência particular com aquecimento geotérmico e uma igreja "verde", com paredes isolantes.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820102400 -0300" stop="20210820111200 -0300" channel="Discovery Science HD">
+    <title lang="pt">Experiências Superloucas</title>
+    <title lang="en">Outrageous Acts Of Science</title>
+    <desc lang="pt">Nestes vídeos virais, você verá uma revolucionária engenharia reversa e até um peixe fora d´água. Nossos especialistas separaram os fatos da ficção para trazer o melhor da web.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/experienciassuperloucas01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S4 E15</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820111200 -0300" stop="20210820120000 -0300" channel="Discovery Science HD">
+    <title lang="pt">Experiências Superloucas</title>
+    <title lang="en">Outrageous Acts Of Science</title>
+    <desc lang="pt">Os projetos mais loucos e as manobras mais radicais estão nos vídeos deste episódio, que incluem acrobacias em esquis, incríveis façanhas da memória e uma manobra inacreditável de kitesurf.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/experienciassuperloucas01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S4 E16</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820120000 -0300" stop="20210820122400 -0300" channel="Discovery Science HD">
+    <title lang="pt">O Segredo das Coisas</title>
+    <title lang="en">How It's Made</title>
+    <desc lang="pt">Descubra como são feitas as bombas de direção, as tigelas das refeições asiáticas e as bengalas.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S15 E15</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820122400 -0300" stop="20210820124800 -0300" channel="Discovery Science HD">
+    <title lang="pt">O Segredo das Coisas</title>
+    <title lang="en">How It's Made</title>
+    <desc lang="pt">Descubra como são feitas as rebarbadoras, os cestos para frutas e as caixas de som omnidirecionais.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S15 E16</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820124800 -0300" stop="20210820131200 -0300" channel="Discovery Science HD">
+    <title lang="pt">O Segredo das Coisas</title>
+    <title lang="en">How It's Made</title>
+    <desc lang="pt">Descubra como são feitas as lâminas de barbear, os bolinhos de banana com chocolate, as máquinas de venda automáticas e os computadores de mergulho.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S15 E17</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820131200 -0300" stop="20210820133600 -0300" channel="Discovery Science HD">
+    <title lang="pt">O Segredo das Coisas</title>
+    <title lang="en">How It's Made</title>
+    <desc lang="pt">Descubra como são feitos o pigmento ocre, as esculturas de couro, os pratos quentes para viagem e a viela de roda.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S15 E18</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820133600 -0300" stop="20210820142400 -0300" channel="Discovery Science HD">
+    <title lang="pt">Mythbusters</title>
+    <desc lang="pt">Os Caçadores de Mitos investigam se é possível escapar de um carro em chamas através de uma "teia" de alta voltagem criada pela queda de linhas de transmissão.(n)</desc>
+    <credits>
+      <actor>Adam Savage</actor>
+      <actor>Jamie Hyneman</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mythbusters01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S11 E258</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820142400 -0300" stop="20210820151200 -0300" channel="Discovery Science HD">
+    <title lang="pt">Batalha de Ideias</title>
+    <title lang="en">Invent It Rich</title>
+    <desc lang="pt">Brook e Brian ajudam Marc a analisar quatro produtos: um dispositivo com três utilidades; um cesto de lixo que cria uma lista de compras; um revestimento eletrônico à prova d'água e uma moto híbrida.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820151200 -0300" stop="20210820153600 -0300" channel="Discovery Science HD">
+    <title lang="pt">O Segredo das Coisas</title>
+    <desc lang="pt">Descubra como são feitos os brinquedos de madeira, as torradeiras retro, as fornalhas de laboratório e os aerosóis.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S14 E9</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820153600 -0300" stop="20210820160000 -0300" channel="Discovery Science HD">
+    <title lang="pt">O Segredo das Coisas</title>
+    <desc lang="pt">Descubra como são criados camarões em cativeiro e como são feitos os esquadros, as válvulas-esfera e os cortadores de grama.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S14</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820160000 -0300" stop="20210820162400 -0300" channel="Discovery Science HD">
+    <title lang="pt">O Segredo das Coisas</title>
+    <desc lang="pt">Descubra como são feitos os medidores de carros clássicos, as camisinhas, os bolos mármore e as chaleiras de acampamento.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S14 E11</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820162400 -0300" stop="20210820164800 -0300" channel="Discovery Science HD">
+    <title lang="pt">O Segredo das Coisas</title>
+    <desc lang="pt">Descubra como são feitos os móveis de estilo chinês, os interruptores elétricos, o molho de peixe tailandês e as chapelarias.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S14 E12</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820164800 -0300" stop="20210820173600 -0300" channel="Discovery Science HD">
+    <title lang="pt">Projeto Greensburg</title>
+    <desc lang="pt">Estudantes de arquitetura da Universidade do Kansas se encarregaram da reconstrução sustentável do centro comunitário de Greensburg.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820173600 -0300" stop="20210820182400 -0300" channel="Discovery Science HD">
+    <title lang="pt">American Titans</title>
+    <desc lang="pt">O magnata do aço, Andrew Carnegie, e o rei do carvão, Henry Clay Frick, unem forças para dominar uma segunda Revolução Industrial. Seu império irá esmagar rivais e destruir o movimento trabalhista.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820182400 -0300" stop="20210820191200 -0300" channel="Discovery Science HD">
+    <title lang="pt">Projeto Greensburg</title>
+    <desc lang="pt">O prefeito Steve Hewitt concebeu a construção de uma incubadora para abrigar empresas prejudicadas pela passagem de um tornado em Greensburg.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820191200 -0300" stop="20210820200000 -0300" channel="Discovery Science HD">
+    <title lang="pt">Em Busca dos Vikings</title>
+    <desc lang="pt">Arqueólogos investigam o primeiro assentamento viking na América do Norte. Usando tecnologias de ponta, eles fazem novas descobertas que podem mudar tudo o que conhecemos sobre a história norte-americana.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820202400 -0300" channel="Discovery Science HD">
+    <title lang="pt">Transplantes</title>
+    <desc lang="pt">O transplante de medula óssea é o meio mais eficaz de cura para leucemia e outras doenças do sangue. Existem duas modalidades do procedimento: autólogo e halogênico.(n)</desc>
+    <credits>
+      <director>Carla Maria Albuquerque De Sá</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820202400 -0300" stop="20210820204800 -0300" channel="Discovery Science HD">
+    <title lang="pt">Transplantes</title>
+    <desc lang="pt">Conheça a história de uma mulher que já recebeu uma córnea e está na fila novamente. Descubra também uma nova técnica que foi capaz de resolver o problema de um homem que realizou 12 transplantes de córnea.(n)</desc>
+    <credits>
+      <director>Carla Maria Albuquerque De Sá</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820204800 -0300" stop="20210820213600 -0300" channel="Discovery Science HD">
+    <title lang="pt">Em Busca dos Vikings</title>
+    <desc lang="pt">Novos indícios revelam que os vikings e os nativos norte-americanos podem ter entrado em confronto há mil anos. Usando tecnologias de ponta, especialistas testam suas armas e táticas para descobrir quem venceu o conflito.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820213600 -0300" stop="20210820222400 -0300" channel="Discovery Science HD">
+    <title lang="pt">A Verdade por trás do Homem na Lua</title>
+    <desc lang="pt">As fitas da NASA que registraram o pouso na Lua da Apollo 11 estão faltando, e alguns acreditam que seu desaparecimento faz parte de um encobrimento para esconder a verdade.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820222400 -0300" stop="20210820231200 -0300" channel="Discovery Science HD">
+    <title lang="pt">Veículos Lunares</title>
+    <desc lang="pt">Em 20 de julho de 1969, durante os primeiros passos do homem na Lua, um pequeno grupo de engenheiros prendia a respiração. Sete anos antes, a NASA os contratara para projetar uma ferramenta indispensável para a caminhada lunar: o traje espacial.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/veiculoslunaresroverlunar01.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820231200 -0300" stop="20210821000000 -0300" channel="Discovery Science HD">
+    <title lang="pt">Experiências Superloucas</title>
+    <title lang="en">Outrageous Acts Of Science</title>
+    <desc lang="pt">Nossos cientistas tentam descobrir se os incríveis vídeos da internet são verdadeiros ou não, como o de um piloto de wingsuit que é rebocado por um carro e as imagens de um perigoso encontro com um tubarão-branco.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/experienciassuperloucas01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821000000 -0300" stop="20210821004800 -0300" channel="Discovery Science HD">
+    <title lang="pt">Experiências Superloucas</title>
+    <title lang="en">Outrageous Acts Of Science</title>
+    <desc lang="pt">Neste episódio, veja um incrível recorde mundial em salto de caminhão; a mais rápida motocicleta elétrica; um paraquedista e um piloto de wingsuit que criam um tapete voador humano.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/experienciassuperloucas01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821004800 -0300" stop="20210821013600 -0300" channel="Discovery Science HD">
+    <title lang="pt">Ilusão com Keith Barry</title>
+    <desc lang="pt">E se fosse possível entender a linguagem corporal do sexo oposto? Ou ler a mente dele? Com uma série de experimentos, Keith Barry mostra do que é capaz.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821013600 -0300" stop="20210821022400 -0300" channel="Discovery Science HD">
+    <title lang="pt">O Mestre do Desastre</title>
+    <title lang="en">Last Craftsman Of The Apocalypse</title>
+    <desc lang="pt">Beau e sua equipe transformam um barco anfíbio Dukw no veículo definitivo de sobrevivência pós-apocalíptica. Eles também aperfeiçoam um canhão naval da Segunda Guerra e consertam um transmissor de emergência dos anos 40.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821022400 -0300" stop="20210821031200 -0300" channel="Discovery Science HD">
+    <title lang="pt">A Verdade por trás do Homem na Lua</title>
+    <desc lang="pt">As fitas da NASA que registraram o pouso na Lua da Apollo 11 estão faltando, e alguns acreditam que seu desaparecimento faz parte de um encobrimento para esconder a verdade.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821031200 -0300" stop="20210821040000 -0300" channel="Discovery Science HD">
+    <title lang="pt">A Verdade por trás do Homem na Lua</title>
+    <desc lang="pt">As fitas da NASA que registraram o pouso na Lua da Apollo 11 estão faltando, e alguns acreditam que seu desaparecimento faz parte de um encobrimento para esconder a verdade.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821040000 -0300" stop="20210821044800 -0300" channel="Discovery Science HD">
+    <title lang="pt">Experiências Superloucas</title>
+    <title lang="en">Outrageous Acts Of Science</title>
+    <desc lang="pt">Nossos cientistas tentam descobrir se os incríveis vídeos da internet são verdadeiros ou não, como o de um piloto de wingsuit que é rebocado por um carro e as imagens de um perigoso encontro com um tubarão-branco.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/experienciassuperloucas01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821044800 -0300" stop="20210821053600 -0300" channel="Discovery Science HD">
+    <title lang="pt">Experiências Superloucas</title>
+    <title lang="en">Outrageous Acts Of Science</title>
+    <desc lang="pt">Neste episódio, veja um incrível recorde mundial em salto de caminhão; a mais rápida motocicleta elétrica; um paraquedista e um piloto de wingsuit que criam um tapete voador humano.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/experienciassuperloucas01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821053600 -0300" stop="20210821062400 -0300" channel="Discovery Science HD">
+    <title lang="pt">Ilusão com Keith Barry</title>
+    <desc lang="pt">E se fosse possível entender a linguagem corporal do sexo oposto? Ou ler a mente dele? Com uma série de experimentos, Keith Barry mostra do que é capaz.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821062400 -0300" stop="20210821071200 -0300" channel="Discovery Science HD">
+    <title lang="pt">O Mestre do Desastre</title>
+    <title lang="en">Last Craftsman Of The Apocalypse</title>
+    <desc lang="pt">Beau e sua equipe transformam um barco anfíbio Dukw no veículo definitivo de sobrevivência pós-apocalíptica. Eles também aperfeiçoam um canhão naval da Segunda Guerra e consertam um transmissor de emergência dos anos 40.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821071200 -0300" stop="20210821080000 -0300" channel="Discovery Science HD">
+    <title lang="pt">Veículos Lunares</title>
+    <desc lang="pt">Em 20 de julho de 1969, durante os primeiros passos do homem na Lua, um pequeno grupo de engenheiros prendia a respiração. Sete anos antes, a NASA os contratara para projetar uma ferramenta indispensável para a caminhada lunar: o traje espacial.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/veiculoslunaresroverlunar01.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821080000 -0300" stop="20210821084800 -0300" channel="Discovery Science HD">
+    <title lang="pt">Veículos Lunares</title>
+    <desc lang="pt">Em 20 de julho de 1969, durante os primeiros passos do homem na Lua, um pequeno grupo de engenheiros prendia a respiração. Sete anos antes, a NASA os contratara para projetar uma ferramenta indispensável para a caminhada lunar: o traje espacial.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/veiculoslunaresroverlunar01.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821084800 -0300" stop="20210821093600 -0300" channel="Discovery Science HD">
+    <title lang="pt">Experiências Superloucas</title>
+    <title lang="en">Outrageous Acts Of Science</title>
+    <desc lang="pt">Nossos cientistas tentam descobrir se os incríveis vídeos da internet são verdadeiros ou não, como o de um piloto de wingsuit que é rebocado por um carro e as imagens de um perigoso encontro com um tubarão-branco.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/experienciassuperloucas01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821093600 -0300" stop="20210821102400 -0300" channel="Discovery Science HD">
+    <title lang="pt">Experiências Superloucas</title>
+    <title lang="en">Outrageous Acts Of Science</title>
+    <desc lang="pt">Neste episódio, veja um incrível recorde mundial em salto de caminhão; a mais rápida motocicleta elétrica; um paraquedista e um piloto de wingsuit que criam um tapete voador humano.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/experienciassuperloucas01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821102400 -0300" stop="20210821111200 -0300" channel="Discovery Science HD">
+    <title lang="pt">Ilusão com Keith Barry</title>
+    <desc lang="pt">E se fosse possível entender a linguagem corporal do sexo oposto? Ou ler a mente dele? Com uma série de experimentos, Keith Barry mostra do que é capaz.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821111200 -0300" stop="20210821120000 -0300" channel="Discovery Science HD">
+    <title lang="pt">O Mestre do Desastre</title>
+    <title lang="en">Last Craftsman Of The Apocalypse</title>
+    <desc lang="pt">Beau e sua equipe transformam um barco anfíbio Dukw no veículo definitivo de sobrevivência pós-apocalíptica. Eles também aperfeiçoam um canhão naval da Segunda Guerra e consertam um transmissor de emergência dos anos 40.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821120000 -0300" stop="20210821124800 -0300" channel="Discovery Science HD">
+    <title lang="pt">Batalha de Ideias</title>
+    <title lang="en">Invent It Rich</title>
+    <desc lang="pt">Brook e Brian ajudam Marc a analisar produtos inovadores: um forno solar portátil, o barco mais seguro do mundo e um sistema de tiro com arco que funciona sem disparar flechas.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821124800 -0300" stop="20210821133600 -0300" channel="Discovery Science HD">
+    <title lang="pt">O Mais Genial</title>
+    <title lang="en">The Big Brain Theory</title>
+    <desc lang="pt">Neste final de temporada, os dois finalistas ficam frente a frente no desafio de construir uma ponte removível. Um escolhe ser criativo, enquanto outro opta pela simplicidade.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821133600 -0300" stop="20210821142400 -0300" channel="Discovery Science HD">
+    <title lang="pt">Projeto Greensburg</title>
+    <desc lang="pt">O prefeito Steve Hewitt concebeu a construção de uma incubadora para abrigar empresas prejudicadas pela passagem de um tornado em Greensburg.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821142400 -0300" stop="20210821151200 -0300" channel="Discovery Science HD">
+    <title lang="pt">Projeto Greensburg</title>
+    <desc lang="pt">O novo prédio da prefeitura terá uma turbina eólica com design ultramoderno; uma residência particular com aquecimento geotérmico e uma igreja "verde", com paredes isolantes.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821151200 -0300" stop="20210821160000 -0300" channel="Discovery Science HD">
+    <title lang="pt">Experiências Superloucas</title>
+    <title lang="en">Outrageous Acts Of Science</title>
+    <desc lang="pt">Nestes vídeos virais, você verá uma revolucionária engenharia reversa e até um peixe fora d´água. Nossos especialistas separaram os fatos da ficção para trazer o melhor da web.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/experienciassuperloucas01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S4 E15</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821160000 -0300" stop="20210821164800 -0300" channel="Discovery Science HD">
+    <title lang="pt">Experiências Superloucas</title>
+    <title lang="en">Outrageous Acts Of Science</title>
+    <desc lang="pt">Os projetos mais loucos e as manobras mais radicais estão nos vídeos deste episódio, que incluem acrobacias em esquis, incríveis façanhas da memória e uma manobra inacreditável de kitesurf.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/experienciassuperloucas01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S4 E16</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821164800 -0300" stop="20210821171200 -0300" channel="Discovery Science HD">
+    <title lang="pt">O Segredo das Coisas</title>
+    <title lang="en">How It's Made</title>
+    <desc lang="pt">Descubra como são feitas as bombas de direção, as tigelas das refeições asiáticas e as bengalas.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S15 E15</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821171200 -0300" stop="20210821173600 -0300" channel="Discovery Science HD">
+    <title lang="pt">O Segredo das Coisas</title>
+    <title lang="en">How It's Made</title>
+    <desc lang="pt">Descubra como são feitas as rebarbadoras, os cestos para frutas e as caixas de som omnidirecionais.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S15 E16</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821173600 -0300" stop="20210821182400 -0300" channel="Discovery Science HD">
+    <title lang="pt">American Titans</title>
+    <desc lang="pt">O rei das ferrovias, Cornelius Vanderbilt, trava uma guerra com Daniel Drew em Wall Street pela Ferrovia Erie. Drew e seus protegidos, Jay Gould e Jim Fisk, tentam quebrar a banca do magnata.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821182400 -0300" stop="20210821191200 -0300" channel="Discovery Science HD">
+    <title lang="pt">Mythbusters</title>
+    <desc lang="pt">Os Caçadores de Mitos investigam se é possível escapar de um carro em chamas através de uma "teia" de alta voltagem criada pela queda de linhas de transmissão.(n)</desc>
+    <credits>
+      <actor>Adam Savage</actor>
+      <actor>Jamie Hyneman</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mythbusters01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S11 E258</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821191200 -0300" stop="20210821200000 -0300" channel="Discovery Science HD">
+    <title lang="pt">Batalha de Ideias</title>
+    <title lang="en">Invent It Rich</title>
+    <desc lang="pt">Brook e Brian ajudam Marc a analisar quatro produtos: um dispositivo com três utilidades; um cesto de lixo que cria uma lista de compras; um revestimento eletrônico à prova d'água e uma moto híbrida.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821200000 -0300" stop="20210821202400 -0300" channel="Discovery Science HD">
+    <title lang="pt">Transplantes</title>
+    <desc lang="pt">O transplante de fígado no Brasil já tem mais de 50 anos, neste episódio conheça a história de um veterinário que contraiu hepatite C e de um mecânico que aguarda na fila de espera.(n)</desc>
+    <credits>
+      <director>Carla Maria Albuquerque De Sá</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821202400 -0300" stop="20210821204800 -0300" channel="Discovery Science HD">
+    <title lang="pt">Transplantes</title>
+    <desc lang="pt">Patrícia nasceu com uma cardiopatia grave e os médicos estimaram a sua vida em uma ano. Descubra a história surpreendente de uma economista triatleta.(n)</desc>
+    <credits>
+      <director>Carla Maria Albuquerque De Sá</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821204800 -0300" stop="20210821211200 -0300" channel="Discovery Science HD">
+    <title lang="pt">O Segredo das Coisas</title>
+    <desc lang="pt">Descubra como são feitos os medidores de carros clássicos, as camisinhas, os bolos mármore e as chaleiras de acampamento.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S14 E11</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821211200 -0300" stop="20210821213600 -0300" channel="Discovery Science HD">
+    <title lang="pt">O Segredo das Coisas</title>
+    <desc lang="pt">Descubra como são feitos os móveis de estilo chinês, os interruptores elétricos, o molho de peixe tailandês e as chapelarias.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S14 E12</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821213600 -0300" stop="20210821222400 -0300" channel="Discovery Science HD">
+    <title lang="pt">Mistérios da Humanidade Com Megan Fox</title>
+    <title lang="en">Legends Of The Lost With Megan Fox</title>
+    <desc lang="pt">Megan Fox viaja para a Escandinávia para investigar uma ousada hipótese sobre os vikings.(n)</desc>
+    <credits>
+      <director>Jeffrey R. Daniels</director>
+      <actor>Dan Carlsson</actor>
+      <actor>Steven D. Fernandez</actor>
+      <actor>Megan Fox</actor>
+      <actor>Maria Kvilhaug</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821222400 -0300" stop="20210821231200 -0300" channel="Discovery Science HD">
+    <title lang="pt">Tesouro Visto do Espaço</title>
+    <title lang="en">Cooper's Treasure</title>
+    <desc lang="pt">Darrell descobre um canhão do século 18 e tenta descobrir a origem do navio naufragado. Ele revela uma letra dos arquivos de Gordon Cooper, detalhando a descoberta de um naufrágio do século 16 ligado a Sir Francis Drake.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_tesourovistodoespaco01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821231200 -0300" stop="20210822000000 -0300" channel="Discovery Science HD">
+    <title lang="pt">Ilha das Cobras</title>
+    <title lang="en">Treasure Quest</title>
+    <desc lang="pt">A equipe encontra mais artefatos que podem levar ao tesouro. Eles encontram um historiador que fornece uma pista valiosa, mas os alerta sobre o passado amaldiçoado do tesouro.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ilhasselvagens01.jpg" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
 </tv>
