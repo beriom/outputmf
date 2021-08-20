@@ -175,10 +175,12 @@
   </channel>
   <channel id="ESPN Extra HD">
     <display-name lang="pt">ESPN Extra HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/espnextra.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="ESPN HD">
     <display-name lang="pt">ESPN HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/espn.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="ESPN HD ³">
@@ -6629,6 +6631,188 @@
     <category lang="pt">Luta</category>
     <rating system="BR">
       <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820150000 -0300" stop="20210820170000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">The Rugby Championship: Africa do Sul x Argentina</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Rugby</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820170000 -0300" stop="20210820180000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">WRC: Etapa da Bélgica: Resumo</title>
+    <desc lang="pt">Assista ao resumo das etapas válidas pelo Campeonato Mundial de Raly.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Radical</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820200000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Milan x Panathinaikos</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820230000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Ciclismo: Vuelta A España: Etapa 7: Gandía &gt; Balcón De Alicante</title>
+    <desc lang="pt">Realizada desde 1935, a Vuelta a España é um dos três principais eventos de ciclismo de estrada do mundo (ao lado do Tour de France e do Giro d'Italia). Confira todas as etapas nos canais ESPN.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Ciclismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210821020000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Nascar Cup Series: Indianapolis</title>
+    <desc lang="pt">Assista aos automóveis de passeio americano alcançando mais de 320 km/h dentro das pistas da NASCAR, a principal série de corridas da National Association for Stock Car Auto Racing dos Estados Unidos.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820120000 -0300" stop="20210820200000 -0300" channel="ESPN HD">
+    <title lang="pt">Atp 1000: Cincinnati - Ao Vivo</title>
+    <desc lang="pt">O ATP Masters 1000 é a mais importante série do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Tênis</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_atp250buenosaires01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820210000 -0300" channel="ESPN HD">
+    <title lang="pt">ESPN League - Ao Vivo</title>
+    <desc lang="pt">Um mosaico do que acontece no esporte em todo o mundo. Os fatos mais importantes, gols, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada, opinião transparente, sem abrir mão do bom humor.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_espnleague01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820210000 -0300" stop="20210821000000 -0300" channel="ESPN HD">
+    <title lang="pt">NFL: Kansas City Chiefs x Arizona Cardinals - Ao Vivo</title>
+    <desc lang="pt">As equipes da NFL se preparam para a próxima temporada. Assista os confrontos preliminares com o melhor do futebol americano.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_nfloaklandraidersxdenverbronc01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820000000 -0300" stop="20210820003000 -0300" channel="ESPN HD ³">
+    <title lang="pt">Ciclismo: Destaques Da Vuelta A España</title>
+    <desc lang="pt">Todas as principais provas do ciclismo de estrada estão nos canais ESPN. Confira as emocionantes corridas, repletas de estratégia e superação, ao longo de magníficas paisagens.(n)</desc>
+    <category lang="pt">Ciclismo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820003000 -0300" stop="20210820013000 -0300" channel="ESPN HD ³">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820013000 -0300" stop="20210820033000 -0300" channel="ESPN HD ³">
+    <title lang="pt">Ciclismo</title>
+    <desc lang="pt">Realizada desde 1935, a Vuelta a España é um dos três principais eventos de ciclismo de estrada do mundo (ao lado do Tour de France e do Giro d'Italia). Confira todas as etapas nos canais ESPN.(n)</desc>
+    <category lang="pt">Ciclismo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820033000 -0300" stop="20210820051500 -0300" channel="ESPN HD ³">
+    <title lang="pt">River Plate x Velez Sarsfield</title>
+    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820051500 -0300" stop="20210820061500 -0300" channel="ESPN HD ³">
+    <title lang="pt">WRC</title>
+    <desc lang="pt">Assista ao resumo das etapas válidas pelo Campeonato Mundial de Raly.(n)</desc>
+    <category lang="pt">Radical</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820061500 -0300" stop="20210820080000 -0300" channel="ESPN HD ³">
+    <title lang="pt">Amistoso Internacional de Futebol: Inter De Milão x Dynamo Kiev</title>
+    <desc lang="pt">A melhor programação de futebol está nos canais ESPN e FOX Sports. Acompanhe, durante toda a temporada, partidas amistosas entre equipes do mundo inteiro.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820080000 -0300" stop="20210820090000 -0300" channel="ESPN HD ³">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820090000 -0300" stop="20210820110000 -0300" channel="ESPN HD ³">
+    <title lang="pt">Celta x Atlético Madrid</title>
+    <desc lang="pt">A Liga das Estrelas reúne os mais fantásticos jogadores do futebol mundial. Barça, Real Madrid, Atletico de Madrid grandes equipes em busca do título mais cobiçado.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820110000 -0300" stop="20210820113000 -0300" channel="ESPN HD ³">
+    <title lang="pt">NFL</title>
+    <desc lang="pt">Relembre grandes confrontos do Super Bowl. Destaques sobre os mais importantes jogos de futebol americano da história.(n)</desc>
+    <category lang="pt">Futebol Americano</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820113000 -0300" stop="20210820120000 -0300" channel="ESPN HD ³">
+    <title lang="pt">NFL</title>
+    <desc lang="pt">Relembre grandes confrontos do Super Bowl. Destaques sobre os mais importantes jogos de futebol americano da história.(n)</desc>
+    <category lang="pt">Futebol Americano</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820120000 -0300" stop="20210820200000 -0300" channel="ESPN HD ³">
+    <title lang="pt">Atp 1000: Cincinnati</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">O ATP Masters 1000 é a mais importante série do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.(n)</desc>
+    <category lang="pt">Tênis</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820210000 -0300" channel="ESPN HD ³">
+    <title lang="pt">ESPN League</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Um mosaico do que acontece no esporte em todo o mundo. Os fatos mais importantes, gols, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada, opinião transparente, sem abrir mão do bom humor.(n)</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820210000 -0300" stop="20210821000000 -0300" channel="ESPN HD ³">
+    <title lang="pt">NFL: Kansas City Chiefs x Arizona Cardinals</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">As equipes da NFL se preparam para a próxima temporada. Assista os confrontos preliminares com o melhor do futebol americano.(n)</desc>
+    <category lang="pt">Futebol Americano</category>
+    <rating system="BR">
+      <value>5</value>
     </rating>
   </programme>
 </tv>
