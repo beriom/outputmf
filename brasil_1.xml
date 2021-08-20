@@ -270,14 +270,17 @@
   </channel>
   <channel id="HBO 2 HD">
     <display-name lang="pt">HBO 2 HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/hbo2.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="HBO Family HD">
     <display-name lang="pt">HBO Family HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/hbofamily.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="HBO HD">
     <display-name lang="en">HBO HD</display-name>
+    <icon src="https://oisa.tmsimg.com/assets/s76101_h3_ba.png" />
     <url>http://www.oi.com.br</url>
   </channel>
   <channel id="HBO Mundi HD">
@@ -9863,6 +9866,502 @@
     <category lang="pt">Ação</category>
     <country lang="pt">EUA</country>
     <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820163000 -0300" stop="20210820181500 -0300" channel="HBO 2 HD">
+    <title lang="pt">O Jardim Secreto</title>
+    <desc lang="pt">Os produtores de Paddington e Harry Potter apresentam esta versão cinematográfica do célebre romance infantil de Frances Hodgson Burnett.(n)</desc>
+    <credits>
+      <director>Marc Munden</director>
+      <actor>Dixie Egerickx</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820181500 -0300" stop="20210820200500 -0300" channel="HBO 2 HD">
+    <title lang="pt">Histórias Assustadoras para Contar no Escuro</title>
+    <desc lang="pt">Guillermo del Toro traz à vida uma série de histórias de terror arrepiantes que ameaçam a vida de um grupo de adolescentes.(n)</desc>
+    <credits>
+      <director>André Ovredal</director>
+      <actor>Zoe Margaret Colletti</actor>
+      <actor>Michael G</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820200500 -0300" stop="20210820220000 -0300" channel="HBO 2 HD">
+    <title lang="pt">Aves de Rapina (Arlequina e sua Emancipação Fantabulosa)</title>
+    <desc lang="pt">Margot Robbie retorna ao papel de Harley Quinn em uma história tão torta que apenas a própria Harley pode contá-la.(n)</desc>
+    <credits>
+      <director>Cathy Yan</director>
+      <actor>Margot Robbie</actor>
+      <actor>Rosie Perez</actor>
+      <actor>Mary Elizabeth Winstead</actor>
+      <actor>Jurnee Smollett</actor>
+      <actor>Chris Messina</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820223500 -0300" channel="HBO 2 HD">
+    <title lang="pt">Hard</title>
+    <desc lang="pt">Um espetáculo arruinado. Segredos revelados. Um romance reatado. E um investidor que pode ser a maior das tentações.(n)</desc>
+    <credits>
+      <director>Rodrigo Meirelles</director>
+      <actor>Natacha Lindinger</actor>
+      <actor>François Vincentelli</actor>
+      <actor>Stéphan Wojtowicz</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210820223500 -0300" stop="20210821002500 -0300" channel="HBO 2 HD">
+    <title lang="pt">Antebellum</title>
+    <desc lang="pt">Janelle Monáe protagoniza este thriller como uma escritora afro-americana de sucesso que se vê presa a uma realidade assustadora.(n)</desc>
+    <credits>
+      <director>Gerard Bush</director>
+      <actor>Janelle Monáe</actor>
+      <actor>Eric Lange</actor>
+      <actor>Jena Malone</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820163400 -0300" stop="20210820183600 -0300" channel="HBO Family HD">
+    <title lang="pt">Mais Que Vencedores</title>
+    <desc lang="pt">Após uma crise econômica esvaziar a cidade em que vive e desfazer seus sonhos de ser campeão, um treinador de basquete do ensino médio se voluntaria para treinar um adolescente problemático em corridas de longa distância.(n)</desc>
+    <credits>
+      <director>Alex Kendrick</director>
+      <actor>Alex Kendrick</actor>
+      <actor>Shari Rigby</actor>
+      <actor>Aryn Wright-Thompson</actor>
+      <actor>Priscilla C. Shirer</actor>
+      <actor>Holly A. Morris</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820183600 -0300" stop="20210820200000 -0300" channel="HBO Family HD">
+    <title lang="pt">LEGO DC Shazam: Magia e Monstros</title>
+    <desc lang="pt">Quando a Sociedade Monstruosa do Mal transforma a Liga da Justiça em crianças, o jovem Billy Batson, codinome "Shazam", deve salvá-los.(n)</desc>
+    <credits>
+      <director>Matt Peters</director>
+      <actor>Sean Astin</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Troy Baker</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820214500 -0300" channel="HBO Family HD">
+    <title lang="pt">O Príncipe Esquecido</title>
+    <desc lang="pt">O pai solteiro Djibi conta à filha de sete anos, Sofia, contos de fadas bem elaborados todas as noites, sendo ele mesmo o Príncipe Encantado.(n)</desc>
+    <credits>
+      <director>Michel Hazanavicius</director>
+      <actor>The Lost Prince</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820214500 -0300" stop="20210821000400 -0300" channel="HBO Family HD">
+    <title lang="pt">Valerian e a Cidade dos Mil Planetas</title>
+    <desc lang="pt">O Major Valerian e a Sargento Laureline formam uma equipe responsável por manter a paz através da galáxia, incluindo Alpha, a cosmopolita cidade habitada por seres de mil planetas.(n)</desc>
+    <credits>
+      <director>Luc Besson</director>
+      <actor>Dane DeHaan</actor>
+      <actor>Cara Delevingne</actor>
+      <actor>Clive Owen</actor>
+      <actor>Ethan Hawke</actor>
+      <actor>Herbie Hancock. Peter Hudson</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/filme_valerianeacidadedosmilplaneta01_2_2019.jpg" />
+    <country lang="pt">França</country>
+    <country lang="pt">China</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820010000 +0000" stop="20210820013500 +0000" channel="HBO HD">
+    <title lang="en">Hard</title>
+    <desc lang="en">Uma ministra e seu marido contratam a SofiX para uma megaprodução e consideram Marcelo para o papel principal; Sofia desconfia que o filho seja homossexual; Sofia suspeita que esteja grávida. Henrique faz nova proposta a Sofia.(n)</desc>
+    <credits>
+      <actor role="Sofia">Natália Lage</actor>
+      <actor role="Marcello Mastroduro">Julio Machado</actor>
+      <actor role="Margot">Denise Del Vecchio</actor>
+      <actor role="Lúcia">Martha Nowill</actor>
+      <actor>Nathalia Falcão</actor>
+      <actor role="Pierre">Fernando Alves Pinto</actor>
+      <actor>Brunna Martins</actor>
+      <actor>Carolina Ferraz</actor>
+      <actor>Pedro Konop</actor>
+      <writer>Danilo Gullane</writer>
+      <producer>Roberto Rios</producer>
+      <producer>Eduardo Zaca</producer>
+      <producer>Rafaella Giannini</producer>
+    </credits>
+    <category lang="en">Comédia</category>
+    <icon src="https://oisa.tmsimg.com/assets/p18199909_b_h8_ab.jpg" />
+    <episode-num system="onscreen">S1 E13/16</episode-num>
+    <rating>
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210820013500 +0000" stop="20210820020500 +0000" channel="HBO HD">
+    <title lang="en">Catch and Kill: The Podcast Tapes</title>
+    <sub-title lang="en">The Wire</sub-title>
+    <desc lang="en">A modelo Ambra Gutierrez revela a operação policial secreta de alto risco que resultou em uma confissão arrepiante de Harvey Weinstein.(n)</desc>
+    <category lang="en">Documentário</category>
+    <icon src="https://oisa.tmsimg.com/assets/p20150186_e_h8_aa.jpg" />
+    <episode-num system="onscreen">S1 E1/4</episode-num>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820020500 +0000" stop="20210820031500 +0000" channel="HBO HD">
+    <title lang="en">The White Lotus</title>
+    <sub-title lang="en">Departures</sub-title>
+    <desc lang="en">Rachel compartilha algumas verdades duras com Shane e confia em Belinda, que está sofrendo com más notícias; enquanto os Mossbachers viram a página em seu terrível susto, Quinn revela planos importantes; Armond entra em crise e exige vingança.(n)</desc>
+    <credits>
+      <actor>Murray Bartlett</actor>
+      <actor>Connie Britton</actor>
+      <actor>Jennifer Coolidge</actor>
+      <actor>Alexandra Daddario</actor>
+      <actor>Fred Hechinger</actor>
+      <actor>Jake Lacy</actor>
+      <actor>Brittany O'Grady</actor>
+      <actor>Natasha Rothwell</actor>
+      <actor>Sydney Sweeney</actor>
+      <actor>Steve Zahn</actor>
+      <writer>Mike White</writer>
+    </credits>
+    <category lang="en">Comédia</category>
+    <category lang="en">Minissérie</category>
+    <icon src="https://oisa.tmsimg.com/assets/p19964708_e_h10_aa.jpg" />
+    <episode-num system="onscreen">S1 E6/6</episode-num>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820031500 +0000" stop="20210820050500 +0000" channel="HBO HD">
+    <title lang="en">Antebellum</title>
+    <desc lang="en">Veronica Henley, uma escritora bem-sucedida, se vê presa em uma realidade horrível que a força a confrontar o passado, o presente e o futuro antes que seja tarde demais.(n)</desc>
+    <credits>
+      <actor role="Veronica/Eden">Janelle Monáe</actor>
+      <actor role="Elizabeth">Jena Malone</actor>
+      <actor role="Jasper">Jack Huston</actor>
+      <actor role="Julia">Kiersey Clemons</actor>
+      <actor role="Dawn">Gabourey Sidibe</actor>
+      <actor role="Senator Denton">Eric Lange</actor>
+      <actor role="Nick">Marque Richardson</actor>
+      <actor role="Eli/Professor">Tongayi Chirisa</actor>
+      <actor role="Daniel">Robert Aramayo</actor>
+      <actor role="Sarah">Lily Cowles</actor>
+      <producer>Raymond Mansfield</producer>
+      <producer>Sean McKittrick</producer>
+      <producer>Zev Foreman</producer>
+      <producer>Gerard Bush</producer>
+      <producer>Christopher Renz</producer>
+      <producer>Lezlie Wills</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Suspense</category>
+    <icon src="https://oisa.tmsimg.com/assets/p17661976_v_h8_ab.jpg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820050500 +0000" stop="20210820065500 +0000" channel="HBO HD">
+    <title lang="en">Gilberto Gil - Um Deus em Seu Jardim</title>
+    <desc lang="en">Após quase quatro décadas de turnês anuais agendadas pela Europa, sempre passando pela França, os planos de 2020 foram suspensos por causa da pandemia por Covid-19. Veja um programa especial, repleto das melhores músicas de Gil em sua própria casa.(n)</desc>
+    <category lang="en">Especial</category>
+    <category lang="en">Música</category>
+    <icon src="https://oisa.tmsimg.com/assets/p20241374_b_h10_ab.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820065500 +0000" stop="20210820090000 +0000" channel="HBO HD">
+    <title lang="en">Um Ato de Coragem</title>
+    <desc lang="en">O filho de John Q. Archibald precisa com urgência de um transplante de coração. Desesperado por não ter condições de pagar pela cirurgia, ele toma como refém toda a emergência de um hospital e passa a discutir uma solução o chefe da polícia.(n)</desc>
+    <credits>
+      <actor role="John Q. Archibald">Denzel Washington</actor>
+      <actor role="Grimes">Robert Duvall</actor>
+      <actor role="Dr. Turner">James Woods</actor>
+      <actor role="Rebecca Payne">Anne Heche</actor>
+      <actor role="Lester">Eddie Griffin</actor>
+      <actor role="Denise Archibald">Kimberly Elise</actor>
+      <actor role="Mitch">Shawn Hatosy</actor>
+      <actor role="Monroe">Ray Liotta</actor>
+      <actor role="Michael 'Mike' Archibald">Daniel E. Smith</actor>
+      <actor role="Jimmy Palumbo">David Thornton</actor>
+      <writer>James Kearns</writer>
+      <producer>Mark Burg</producer>
+      <producer>Oren Koules</producer>
+    </credits>
+    <date>2002</date>
+    <category lang="en">Drama</category>
+    <icon src="https://oisa.tmsimg.com/assets/p29423_v_h11_ac.jpg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820090000 +0000" stop="20210820093500 +0000" channel="HBO HD">
+    <title lang="en">Greg News com Gregório Duvivier</title>
+    <desc lang="en">O comediante Gregório Duvivier traz um olhar crítico e cômico para pautas fundamentais do Brasil e do mundo e vai além da conjuntura para destrinchar temas relevantes de forma acessível e divertida.(n)</desc>
+    <credits>
+      <presenter>Gregório Duvivier</presenter>
+    </credits>
+    <category lang="en">Bate-papo</category>
+    <icon src="https://oisa.tmsimg.com/assets/p14014964_b_h10_aq.jpg" />
+    <episode-num system="onscreen">E19</episode-num>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820093500 +0000" stop="20210820113500 +0000" channel="HBO HD">
+    <title lang="en">Pavarotti</title>
+    <desc lang="en">Com cenas inéditas, performances de concertos e entrevistas íntimas, acompanhe uma análise da vida e da carreira do famoso tenor de ópera Luciano Pavarotti.(n)</desc>
+    <credits>
+      <actor>Bono</actor>
+      <actor>Luciano Pavarotti</actor>
+      <actor>Andrea Griminelli</actor>
+      <actor>Nicoletta Mantovani</actor>
+      <actor>Placido Domingo</actor>
+      <actor>Angela Gheorghiu</actor>
+      <actor>Carol Vaness</actor>
+      <actor>Vittorio Grigòlo</actor>
+      <writer>Mark Monroe</writer>
+      <producer>Nigel Sinclair</producer>
+      <producer>Brian Grazer</producer>
+      <producer>Ron Howard</producer>
+      <producer>Michael Rosenberg</producer>
+      <producer>Jeanne Elfant Festa</producer>
+      <composer>Ric Markmann</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Documentário</category>
+    <category lang="en">Música</category>
+    <icon src="https://oisa.tmsimg.com/assets/p16595679_v_h8_ae.jpg" />
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820113500 +0000" stop="20210820132000 +0000" channel="HBO HD">
+    <title lang="en">Eu Sou a Lenda</title>
+    <desc lang="en">Robert Neville é um brilhante cientista e o único sobrevivente de uma epidemia que transformou os humanos em mutantes sedentos por sangue. Andando pela cidade de Nova York, ele procura por outros possíveis sobreviventes e tenta achar a cura da praga usando seu próprio sangue, que é imune.(n)</desc>
+    <credits>
+      <actor role="Robert Neville">Will Smith</actor>
+      <actor role="Anna">Alice Braga</actor>
+      <actor role="Alpha Male">Dash Mihok</actor>
+      <actor role="Ethan">Charlie Tahan</actor>
+      <actor role="Zoe">Salli Richardson</actor>
+      <actor role="Marley">Willow Smith</actor>
+      <actor role="Mike - Military Escort">Darrell Foster</actor>
+      <actor role="TV Personality">April Grace</actor>
+      <actor role="Alpha Female">Joanna Numata</actor>
+      <actor role="Jay - Military Driver">Samuel Glen</actor>
+      <producer>Akiva Goldsman</producer>
+      <producer>James Lassiter</producer>
+      <producer>David Heyman</producer>
+      <producer>Neil Moritz</producer>
+    </credits>
+    <date>2007</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Ficção Científica</category>
+    <icon src="https://oisa.tmsimg.com/assets/p170977_v_h8_ad.jpg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820132000 +0000" stop="20210820151500 +0000" channel="HBO HD">
+    <title lang="en">A Grande Mentira</title>
+    <desc lang="en">Em um jogo de gato e rato, o golpista Roy Courtnay não resiste aplicar seu golpe mais uma vez quando conhece a recém-viúva Betty McLeish. Porém, à medida em que a mulher abre sua casa e sua vida para o vigarista, ele se surpreende quando começa a se importar com ela.(n)</desc>
+    <credits>
+      <actor role="Betty McLeish">Helen Mirren</actor>
+      <actor role="Roy Courtnay">Ian McKellen</actor>
+      <actor role="Steven">Russell Tovey</actor>
+      <actor role="Vincent">Jim Carter</actor>
+      <actor role="Bryn">Mark Lewis Jones</actor>
+      <actor role="Young Roy">Phil Dunster</actor>
+      <actor role="Beni">Lucian Msamati</actor>
+      <actor role="Hans Taub">Laurie Davidson</actor>
+      <actor role="Vlad">Jóhannes Haukur Jóhannesson</actor>
+      <actor role="Charlotte">Athena Strates</actor>
+      <producer>Greg Yolen</producer>
+      <producer>Bill Condon</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Drama criminal</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://oisa.tmsimg.com/assets/p16940558_v_h8_ac.jpg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820151500 +0000" stop="20210820175000 +0000" channel="HBO HD">
+    <title lang="en">Tenet</title>
+    <desc lang="en">Um agente secreto embarca em uma missão perigosa para evitar o início da Terceira Guerra Mundial.(n)</desc>
+    <credits>
+      <actor role="Protagonist">John David Washington</actor>
+      <actor role="Neil">Robert Pattinson</actor>
+      <actor role="Kat">Elizabeth Debicki</actor>
+      <actor role="Sator">Kenneth Branagh</actor>
+      <actor role="Priya">Dimple Kapadia</actor>
+      <actor role="Ives">Aaron Taylor-Johnson</actor>
+      <actor role="Mahir">Himesh Patel</actor>
+      <actor role="Barbara">Clémence Poésy</actor>
+      <actor role="Crosby">Michael Caine</actor>
+      <actor role="Fay">Martin Donovan</actor>
+      <producer>Emma Thomas</producer>
+      <producer>Christopher Nolan</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Ação</category>
+    <category lang="en">Ficção Científica</category>
+    <icon src="https://oisa.tmsimg.com/assets/p17758177_v_h8_ad.jpg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820175000 +0000" stop="20210820185000 +0000" channel="HBO HD">
+    <title lang="en">Hierro</title>
+    <desc lang="en">A investigação traz à tona alguns pontos sombrios da vida de Fran: ele teve contatos perigosos na Holanda e manteve uma amante.(n)</desc>
+    <credits>
+      <actor>Candela Peña</actor>
+      <actor>Darío Grandinetti</actor>
+      <actor>Mónica López</actor>
+      <actor>Yaiza Guimaré</actor>
+      <actor>Kimberley Tell</actor>
+      <actor>Mari Carmen Sánchez</actor>
+      <actor>Antonia San Juan</actor>
+    </credits>
+    <category lang="en">Aventura</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://oisa.tmsimg.com/assets/p17034616_e_h8_aa.jpg" />
+    <episode-num system="onscreen">S1 E3/5</episode-num>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820185000 +0000" stop="20210820210000 +0000" channel="HBO HD">
+    <title lang="en">Jumanji - Próxima Fase</title>
+    <desc lang="en">Spencer volta ao mundo fantástico de Jumanji. Os amigos Martha, Fridge e Bethany entram no jogo e tentam trazê-lo para casa. Mas eles logo descobrem mais obstáculos e perigos a serem superados.(n)</desc>
+    <credits>
+      <actor role="Bravestone">Dwayne Johnson</actor>
+      <actor role="Mouse">Kevin Hart</actor>
+      <actor role="Oberon">Jack Black</actor>
+      <actor role="Ruby">Karen Gillan</actor>
+      <actor role="Ming">Awkwafina</actor>
+      <actor role="Seaplane">Nick Jonas</actor>
+      <actor role="Spencer">Alex Wolff</actor>
+      <actor role="Martha">Morgan Turner</actor>
+      <actor role="Ashley">Ashley Scott</actor>
+      <actor role="Bethany">Madison Iseman</actor>
+      <producer>Dany Garcia</producer>
+      <producer>Hiram Garcia</producer>
+      <producer>Dwayne Johnson</producer>
+      <producer>Jake Kasdan</producer>
+      <producer>Matt Tolmach</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Ação</category>
+    <category lang="en">Aventura</category>
+    <icon src="https://oisa.tmsimg.com/assets/p15446613_v_h8_ak.jpg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820210000 +0000" stop="20210820220500 +0000" channel="HBO HD">
+    <title lang="en">Fora do Armário</title>
+    <sub-title lang="en">Em Público</sub-title>
+    <desc lang="en">O deputado federal Jean Wyllys e o ator e cantor Thammy Miranda, duas conhecidas personalidades, contam como foi sair do armário - tudo ao vivo e em cores.(n)</desc>
+    <category lang="en">Documentário</category>
+    <category lang="en">LGBTQ+</category>
+    <icon src="https://oisa.tmsimg.com/assets/p15326590_e_h11_aa.jpg" />
+    <episode-num system="onscreen">S1 E6/9</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820220500 +0000" stop="20210820231000 +0000" channel="HBO HD">
+    <title lang="en">Fora do Armário</title>
+    <sub-title lang="en">Pais e Mães</sub-title>
+    <desc lang="en">Talvez uma das decisões mais difíceis para um pai ou uma mãe seja saber o momento certo para revelar aos filhos sua real orientação sexual. No interior da Paraíba, Fernando, que é bissexual, e a ex-mulher, Marlene, criam os dois filhos gêmeos em um clima de liberdade e confiança. Em Curitiba, Marina reflete sobre sua decisão de ter esperado o filho completar 15 anos para assumir sua homossexualidade e vivenciá-la abertamente.(n)</desc>
+    <category lang="en">Documentário</category>
+    <category lang="en">LGBTQ+</category>
+    <icon src="https://oisa.tmsimg.com/assets/p15326593_e_h10_aa.jpg" />
+    <episode-num system="onscreen">S1 E7/9</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820231000 +0000" stop="20210821010000 +0000" channel="HBO HD">
+    <title lang="en">Alguém Avisa?</title>
+    <desc lang="en">As namoradas Harper e Abby visitam a família de Harper para o jantar anual de Natal. No entanto, logo após chegar, Abby percebe que a moça tem mantido seu relacionamento em segredo de seus pais conservadores.(n)</desc>
+    <credits>
+      <actor role="Abby">Kristen Stewart</actor>
+      <actor role="Harper">Mackenzie Davis</actor>
+      <actor role="Tipper">Mary Steenburgen</actor>
+      <actor role="Ted">Victor Garber</actor>
+      <actor role="Sloane">Alison Brie</actor>
+      <actor role="Jane">Mary Holland</actor>
+      <actor role="John">Daniel Levy</actor>
+      <actor role="Eric">Burl Moseley</actor>
+      <actor role="Riley">Aubrey Plaza</actor>
+      <actor role="Carolyn">Sarayu Blue</actor>
+      <producer>Marty Bowen</producer>
+      <producer>Isaac Klausner</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Comédia Romântica</category>
+    <category lang="en">Feriado</category>
+    <icon src="https://oisa.tmsimg.com/assets/p18260263_v_h8_af.jpg" />
+    <rating>
       <value>14</value>
     </rating>
   </programme>
