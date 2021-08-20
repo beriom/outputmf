@@ -67,6 +67,7 @@
   </channel>
   <channel id="Cartoon Network HD">
     <display-name lang="pt">Cartoon Network HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Cinemax HD">
