@@ -546,6 +546,7 @@
   </channel>
   <channel id="Smithsonian HD">
     <display-name lang="pt">Smithsonian HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Sony HD">
