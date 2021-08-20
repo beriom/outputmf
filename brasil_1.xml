@@ -520,10 +520,12 @@
   </channel>
   <channel id="Studio Universal HD">
     <display-name lang="pt">Studio Universal HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/studiouniversal.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Syfy HD">
     <display-name lang="pt">Syfy HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/syfy2018.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="TBS HD">
@@ -16590,6 +16592,305 @@
     <category lang="pt">Ação</category>
     <icon src="https://www.tvmagazine.com.br/imagens/programas1/filme_assassinoaprecofixo2aressurr01_2_2019.jpg" />
     <country lang="pt">França</country>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820150500 -0300" stop="20210820173000 -0300" channel="Studio Universal HD">
+    <title lang="pt">Trama Fantasma</title>
+    <desc lang="pt">Nos anos 1950 em Londres, Reynolds Woodcock é um famoso, impaciente e perfeccionista estilista. Suas peças embelezam atrizes e a realeza britânica. Quando ele conhece a garçonete Alma, ela acaba se tornando sua musa, modelo e amante.(n)</desc>
+    <credits>
+      <director>Paul Thomas Anderson</director>
+      <actor>Daniel Day-Lewis</actor>
+      <actor>Lesley Manville</actor>
+      <actor>Vicky Krieps</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820173000 -0300" stop="20210820193000 -0300" channel="Studio Universal HD">
+    <title lang="pt">Estranha Presença</title>
+    <desc lang="pt">O dr. Faraday chega na mansão da família Ayres para atender uma empregada adoecida. Ele descobre que a doença não é o que parece, e muitos acontecimentos misteriosos passam a acontecer, enquanto Faraday se intriga com a vida da família.(n)</desc>
+    <credits>
+      <director>Lenny Abrahamson</director>
+      <actor>Domhnall Gleeson</actor>
+      <actor>Charlotte Rampling</actor>
+      <actor>Liv Hill</actor>
+      <actor>Ruth Wilson</actor>
+      <actor>Will Poulter</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country lang="pt">França</country>
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820193000 -0300" stop="20210820200000 -0300" channel="Studio Universal HD">
+    <title lang="pt">Unidade Básica</title>
+    <desc lang="pt">Ficar longe da Unidade Básica e sua equipe se mostra cada vez mais difícil para a doutora Laura, mas ela acaba se frustrando com a frieza do seu novo ambiente de trabalho.(n)</desc>
+    <credits>
+      <director>Caroline Fioratti</director>
+      <actor>Caco Ciocler</actor>
+      <actor>Carlota Joaquina</actor>
+      <actor>Bianca Müller</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820223000 -0300" channel="Studio Universal HD">
+    <title lang="pt">O Homem Que Mudou O Jogo</title>
+    <desc lang="pt">A tentativa bem-sucedida do gerente geral do Oakland A, Billy Beane, de montar um time de beisebol com um orçamento limitado, empregando análises geradas por computador para adquirir novos jogadores.(n)</desc>
+    <credits>
+      <director>Bennett Miller</director>
+      <actor>Steven Zaillian</actor>
+      <actor>Aaron Sorkin</actor>
+      <actor>Brad Pitt</actor>
+      <actor>Robin Wright</actor>
+      <actor>Jonah Hill</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Biografia</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820223000 -0300" stop="20210821004000 -0300" channel="Studio Universal HD">
+    <title lang="pt">O Vencedor</title>
+    <desc lang="pt">Micky Ward tenta construir uma carreira de boxeador, mas vive à sombra do irmão, Dicky Eklund. Quando ele se apaixona por Charlene, a mulher o convence a buscar o sucesso longe da família.(n)</desc>
+    <credits>
+      <director>David O. Russell</director>
+      <actor>Mark Wahlberg</actor>
+      <actor>Amy Adams</actor>
+      <actor>Christian Bale</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820164000 -0300" stop="20210820173000 -0300" channel="Syfy HD">
+    <title lang="pt">Heroes</title>
+    <desc lang="pt">Várias perguntas são respondidas ao longo deste episódio: como Peter foi parar na Irlanda? Por que Maya e Alejandro devem ir aos EUA? O que aconteceu com Nathan, Niki e D.L.? Outros acontecimentos após os eventos de Nova Iorque são revelados.(n)</desc>
+    <credits>
+      <director>Greg Beeman</director>
+      <actor>David Anders</actor>
+      <actor>Jack Coleman</actor>
+      <actor>Hayden Panettiere</actor>
+      <actor>Milo Ventimiglia</actor>
+      <actor>Kristen Bell</actor>
+      <actor>Dana Davis</actor>
+      <actor>Noah Gray-Cabey</actor>
+      <actor>Ali Larter</actor>
+      <actor>Sendhil Ramamurthy</actor>
+      <actor>Shalim Ortiz</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/heroes01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820173000 -0300" stop="20210820182000 -0300" channel="Syfy HD">
+    <title lang="pt">Lost</title>
+    <desc lang="pt">Locke descobre quem são as pessoas que estão atacando os sobreviventes e Desmond procura pela mulher que poderia ser a chave para ajudar Faraday a parar os movimentos erráticos da ilha através do tempo.(n)</desc>
+    <credits>
+      <director>Rod Holcomb</director>
+      <actor>Jeremy Davies</actor>
+      <actor>Matthew Fox</actor>
+      <actor>Naveen Andrews</actor>
+      <actor>Rebecca Mader</actor>
+      <actor>Jorge Garcia</actor>
+      <actor>Daniel Dae Kim</actor>
+      <actor>Ken Leung</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/lost01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820182000 -0300" stop="20210820191000 -0300" channel="Syfy HD">
+    <title lang="pt">Lost</title>
+    <desc lang="pt">Kate descobre que alguém sabe a identidade dos pais de Aaron. Na ilha, o dramático deslocamento através do tempo coloca os sobreviventes restantes em extremo perigo.(n)</desc>
+    <credits>
+      <director>Stephen Williams</director>
+      <actor>Josh Holloway</actor>
+      <actor>Naveen Andrews</actor>
+      <actor>Jeremy Davies</actor>
+      <actor>Michael Emerson</actor>
+      <actor>Daniel Dae Kim</actor>
+      <actor>Yunjin Kim</actor>
+      <actor>Ken Leung</actor>
+      <actor>Rebecca Mader</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/lost01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E4</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820191000 -0300" stop="20210820194000 -0300" channel="Syfy HD">
+    <title lang="pt">Cinelab Aprendiz</title>
+    <desc lang="pt">Neste episódio, a prova é fazer com que um intruso saia do corpo de um humano. Ou seja, um dos participantes terá de sair de dentro da barriga de um manequim.(n)</desc>
+    <credits>
+      <director>Rafael Barioni</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_cinelabaprendiz01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820194000 -0300" stop="20210820203000 -0300" channel="Syfy HD">
+    <title lang="pt">The Magicians</title>
+    <desc lang="pt">Eliot é assombrado. Quentin e Julia descobrem um segredo poderoso ligado a história de Brakebills.(n)</desc>
+    <credits>
+      <director>Shannon Kohli</director>
+      <actor>Jason Ralph</actor>
+      <actor>Stella Maeve</actor>
+      <actor>Olivia Taylor Dudley</actor>
+      <actor>Hale Appleman</actor>
+      <actor>Arjun Gupta</actor>
+      <actor>Summer Bishil</actor>
+      <actor>Jade Tailor</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820203000 -0300" stop="20210820212000 -0300" channel="Syfy HD">
+    <title lang="pt">Grimm</title>
+    <desc lang="pt">Adolescentes locais estão em perigo quando um Wesen japonês procura por vingança. Adalind sai à procura de Eve.(n)</desc>
+    <credits>
+      <director>Eric Laneuville</director>
+      <actor>David Giuntoli</actor>
+      <actor>Russell Hornsby</actor>
+      <actor>Bitsie Tulloch</actor>
+      <actor>Silas Weir Mitchell</actor>
+      <actor>Sasha Roiz</actor>
+      <actor>Reggie Lee</actor>
+      <actor>Bree Turner</actor>
+      <actor>Claire Coffee</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/grimm01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E19</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820212000 -0300" stop="20210820221000 -0300" channel="Syfy HD">
+    <title lang="pt">Grimm</title>
+    <desc lang="pt">Nick se aproxima de Monroe e Rosalee ao se preocupar em perder tudo se continuar a batalha contra a Black Claw.(n)</desc>
+    <credits>
+      <director>Norberto Barba</director>
+      <actor>David Giuntoli</actor>
+      <actor>Russell Hornsby</actor>
+      <actor>Elizabeth Tulloch</actor>
+      <actor>Silas Weir Mitchell</actor>
+      <actor>Sasha Roiz</actor>
+      <actor>Reggie Lee</actor>
+      <actor>Bree Turner</actor>
+      <actor>Claire Coffee</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/grimm01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820221000 -0300" stop="20210820230000 -0300" channel="Syfy HD">
+    <title lang="pt">Heroes</title>
+    <desc lang="pt">Convencido de que a Companhia está prestes a encontrá-lo, H.R.G. prepara a família para fugir --mas Claire tem outros planos. Hiro volta do passado e fica sabendo que seu pai morreu. Aflito, ele se vê no passado e faz uma descoberta pessoal.(n)</desc>
+    <credits>
+      <director>Greg Yaitanes</director>
+      <actor>Greg Grunberg</actor>
+      <actor>Jack Coleman</actor>
+      <actor>Hayden Panettiere</actor>
+      <actor>Masi Oka</actor>
+      <actor>Kristen Bell</actor>
+      <actor>George Takei</actor>
+      <actor>Sendhil Ramamurthy</actor>
+      <actor>Ashley Crow</actor>
+      <actor>Tak Kubota</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/heroes01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210821004000 -0300" channel="Syfy HD">
+    <title lang="pt">Alma Perdida</title>
+    <desc lang="pt">Uma jovem passa a ser atormentada por uma misteriosa visão de um menino. Na busca por uma razão para o acontecimento ela descobre estar diante de um espírito maligno ligado à sua família.(n)</desc>
+    <credits>
+      <director>David S. Goyer</director>
+      <actor>Odette Yustman</actor>
+      <actor>Gary Oldman</actor>
+      <actor>Cam Gigandet</actor>
+      <actor>Meagan Good</actor>
+      <actor>Idris Elba</actor>
+      <actor>Jane Alexander</actor>
+      <actor>Atticus Shaffer</actor>
+      <actor>James Remar</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_almaperdida01.jpg" />
     <country lang="pt">EUA</country>
     <rating system="BR">
       <value>14</value>
