@@ -102,6 +102,7 @@
   </channel>
   <channel id="Conmebol TV 3">
     <display-name lang="pt">Conmebol TV 3</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Conmebol TV 4">
