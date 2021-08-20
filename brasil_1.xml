@@ -410,10 +410,12 @@
   </channel>
   <channel id="Playboy TV HD">
     <display-name lang="pt">Playboy TV HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/playboytv.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Premiere 2 HD">
     <display-name lang="pt">Premiere 2 HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Premiere 3 HD">
@@ -14384,6 +14386,167 @@
     <country lang="pt">EUA</country>
     <rating system="BR">
       <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820163200 -0300" stop="20210820170200 -0300" channel="Playboy TV HD">
+    <title lang="pt">Amateur</title>
+    <desc lang="pt">A rotina de trabalho de Esteban começa a mudar quando ele descobre que, pelo computador, pode entrar em contato com elas: garotas cibernéticas que adoram chats quentes e sexo na frente da câmera.(n)</desc>
+    <credits>
+      <actor>Adrian Ero</actor>
+      <actor>Melina Marin</actor>
+      <actor>Agustina Dazza</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210820170200 -0300" stop="20210820182900 -0300" channel="Playboy TV HD">
+    <title lang="pt">Turndown Service</title>
+    <desc lang="pt">Muitas pessoas se hospedam no albergue dela, mas ninguém suspeita quem ela é. Um voyerista profissional! É fazer check in e gozar.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Erótico</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210820182900 -0300" stop="20210820190000 -0300" channel="Playboy TV HD">
+    <title lang="pt">A Girl Knows</title>
+    <desc lang="pt">Elas são lindas, divertidas e sabem que ninguém consegue dar tanto prazer a elas... quanto outra mulher.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820193000 -0300" channel="Playboy TV HD">
+    <title lang="pt">Presencias</title>
+    <desc lang="pt">Um casal recém-casado chega à sua nova moradia, uma mansão cheia de mistérios. Nesta casa inspiradora viveu uma artista famosa que fazia muitas festas.(n)</desc>
+    <credits>
+      <director>Luis Sens</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210820193000 -0300" stop="20210820200200 -0300" channel="Playboy TV HD">
+    <title lang="pt">Playmate Anthology</title>
+    <desc lang="pt">A Playboy te apresenta um nova e picante coleção das melhores Playmates do mundo. Através das décadas, elas são as escolhidas.(n)</desc>
+    <credits>
+      <actor>Dominique Jane</actor>
+      <actor>Tylyn John</actor>
+      <actor>Elisabeth Ostrander</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210820200200 -0300" stop="20210820205700 -0300" channel="Playboy TV HD">
+    <title lang="pt">Swing</title>
+    <desc lang="pt">Observe o que acontece quando um casal comprometido se aproxima do mundo do amor livre e um companheiro extra entra na cama.(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210820205700 -0300" stop="20210820222900 -0300" channel="Playboy TV HD">
+    <title lang="pt">10 Lesbian Threesomes</title>
+    <desc lang="pt">Um é pouco, dois também e três nos deixa com vontade de mais. Por isso reunimos dez ménages lésbicos. Isso mesmo, dez! Todos juntos em um único filme.(n)</desc>
+    <credits>
+      <actor>Malena Morgan</actor>
+      <actor>Maddy O'reilly</actor>
+      <actor>Megan Salinas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Erótico</category>
+    <country lang="pt">Canadá</country>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210820222900 -0300" stop="20210820225900 -0300" channel="Playboy TV HD">
+    <title lang="pt">Amateur</title>
+    <desc lang="pt">A rotina de trabalho de Esteban começa a mudar quando ele descobre que, pelo computador, pode entrar em contato com elas: garotas cibernéticas que adoram chats quentes e sexo na frente da câmera.(n)</desc>
+    <credits>
+      <actor>Adrian Ero</actor>
+      <actor>Melina Marin</actor>
+      <actor>Agustina Dazza</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210820225900 -0300" stop="20210820233000 -0300" channel="Playboy TV HD">
+    <title lang="pt">Presencias</title>
+    <desc lang="pt">Um casal recém-casado chega à sua nova moradia, uma mansão cheia de mistérios. Nesta casa inspiradora viveu uma artista famosa que fazia muitas festas.(n)</desc>
+    <credits>
+      <director>Luis Sens</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210820233000 -0300" stop="20210821000000 -0300" channel="Playboy TV HD">
+    <title lang="pt">A Girl Knows</title>
+    <desc lang="pt">Elas são lindas, divertidas e sabem que ninguém consegue dar tanto prazer a elas... quanto outra mulher.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Erótico</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210820160000 -0300" stop="20210820180000 -0300" channel="Premiere 2 HD">
+    <title lang="pt">Premiere 2</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/premierefc01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820213000 -0300" channel="Premiere 2 HD">
+    <title lang="pt">Premiere 2</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/premierefc01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820213000 -0300" stop="20210821000000 -0300" channel="Premiere 2 HD">
+    <title lang="pt">Premiere 2</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/premierefc01.jpg" />
+    <rating system="BR">
+      <value>L</value>
     </rating>
   </programme>
 </tv>
