@@ -406,6 +406,7 @@
   </channel>
   <channel id="MTV HD">
     <display-name lang="pt">MTV HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="MTV Live HD">
