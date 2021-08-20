@@ -60162,4 +60162,651 @@
       <value>12</value>
     </rating>
   </programme>
+  <programme start="20210820093000 -0300" stop="20210820100000 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Rodrigo Santos - Trem Bala</title>
+    <desc lang="pt">Uma das características principais do Rodrigo é a sua sociabilização, por onde ele passa deixa um rastro de amigos.(n)</desc>
+    <credits>
+      <director>João Elias Ribeiro Junior</director>
+      <actor>Rodrigo Santos</actor>
+      <actor>Marcelo Serrado</actor>
+      <actor>Frejat</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820100000 -0300" stop="20210820103000 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Fresno Lá Fora</title>
+    <desc lang="pt">Documentário com bastidores e shows da turnê de cinco apresentações pelo estado do Texas em março de 2014.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_fresnolafora01.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820103000 -0300" stop="20210820110000 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Outro Som</title>
+    <desc lang="pt">Os amigos Barbara Rodrix e Paulo Novaes apresentam três composições dele.(n)</desc>
+    <credits>
+      <director>Daniela Picarelli Do Amaral Gurgel</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_outrosom01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820110000 -0300" stop="20210820120000 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Jukebox (videoclipes)</title>
+    <desc lang="pt">O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_jukebox01.jpg" />
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820120000 -0300" stop="20210820125000 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Terra Brasilis</title>
+    <desc lang="pt">O Show LS JACK E VINNY ''Volume 1'' marca um novo capítulo na longa parceria entre a banda LS Jack e o cantor e compositor Vinny.(n)</desc>
+    <credits>
+      <director>Fernando Chagas Pereira Filho</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_terrabrasilis01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820125000 -0300" stop="20210820132500 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Terra Brasilis</title>
+    <desc lang="pt">Shows do TERRA BRASILIS.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_terrabrasilis01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820132500 -0300" stop="20210820140000 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Hip Hop Brazil</title>
+    <desc lang="pt">Comandado por MV Bill, o Hip Hop Brazil é o primeiro programa da TV brasileira especializado em hip hop nacional. Exibe videoclipes e traz informações sobre cultura e comportamento.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_hiphopbrazil01.jpg" />
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820140000 -0300" stop="20210820143000 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Arquivo Music 10 Anos</title>
+    <desc lang="pt">O programa "Curta o Som" leva grandes artistas e bandas para o estúdio. Neste episódio a banda Rub.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820143000 -0300" stop="20210820145500 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Arquivo Music 10 Anos</title>
+    <desc lang="pt">O programa "Curta o Som" leva grandes artistas e bandas para o estúdio. Neste episódio a banda Hateen.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820145500 -0300" stop="20210820153000 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Jukebox (videoclipes)</title>
+    <desc lang="pt">O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_jukebox01.jpg" />
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820153000 -0300" stop="20210820183000 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Medalhão Persa</title>
+    <desc lang="pt">Loroza Talk Soul é um Talk Show semanal apresentado pelo super carismático e multi artista Serjão Loroza.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820183000 -0300" stop="20210820190000 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Curta o Som</title>
+    <desc lang="pt">O Curta o Som é um programa que leva para o estúdio grandes bandas e novos artistas de destaque no cenário musical brasileiro. Além de participarem de um bate-papo, falando sobre sua trajetória e novos.(n)</desc>
+    <credits>
+      <director>Lorraine Cristina Lopes Santoni</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_curtaosom01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820191500 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Arquivo Music 10 Anos</title>
+    <desc lang="pt">Road Sessions é um programa que traz entrevistas e performances musicais.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820191500 -0300" stop="20210820194500 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Arquivo Music 10 Anos</title>
+    <desc lang="pt">Road Sessions é um programa que traz entrevistas e performances musicais.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820194500 -0300" stop="20210820200000 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Arquivo Music 10 Anos</title>
+    <desc lang="pt">Road Sessions é um programa que traz entrevistas e performances musicais.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820200500 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Arquivo Music 10 Anos</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Glauco Neves De Meneses</director>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200500 -0300" stop="20210820203500 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Jukebox (videoclipes)</title>
+    <desc lang="pt">O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_jukebox01.jpg" />
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820203500 -0300" stop="20210820221000 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Music Box in Concert</title>
+    <desc lang="pt">O Music Box Brazil leva você até a primeira fila para conferir os melhores shows do Brasil, sem distinção de gênero. Do axé ao rock, do pop ao sertanejo, os melhores artistas estão no Music Box in Concert.(n)</desc>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/espeta_musicboxinconcert01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820221000 -0300" stop="20210820230500 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Music Box in Concert</title>
+    <desc lang="pt">Celebrando os 30 anos de carreira do cantor e compositor Rodriguinho, revisita alguns dos clássicos e sucessos presentes em sua carreira.(n)</desc>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/espeta_musicboxinconcert01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820230500 -0300" stop="20210820232000 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">O Ben Para Todo Mal</title>
+    <desc lang="pt">Série de entrevistas com pais fora da tradicional convenção de família. O foco são rockeiros doidos e gente que não se encaixa nos ''padrões'' estabelecidos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_obenparatodoomal01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820232000 -0300" stop="20210821000000 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Jukebox (videoclipes)</title>
+    <desc lang="pt">O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_jukebox01.jpg" />
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821000000 -0300" stop="20210821005000 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Terra Brasilis</title>
+    <desc lang="pt">O Show LS JACK E VINNY ''Volume 1'' marca um novo capítulo na longa parceria entre a banda LS Jack e o cantor e compositor Vinny.(n)</desc>
+    <credits>
+      <director>Fernando Chagas Pereira Filho</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_terrabrasilis01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821005000 -0300" stop="20210821012500 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Terra Brasilis</title>
+    <desc lang="pt">Shows do TERRA BRASILIS.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_terrabrasilis01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821012500 -0300" stop="20210821020000 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Hip Hop Brazil</title>
+    <desc lang="pt">Comandado por MV Bill, o Hip Hop Brazil é o primeiro programa da TV brasileira especializado em hip hop nacional. Exibe videoclipes e traz informações sobre cultura e comportamento.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_hiphopbrazil01.jpg" />
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821020000 -0300" stop="20210821023000 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Arquivo Music 10 Anos</title>
+    <desc lang="pt">O programa "Curta o Som" leva grandes artistas e bandas para o estúdio. Neste episódio a banda Rub.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821023000 -0300" stop="20210821025500 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Arquivo Music 10 Anos</title>
+    <desc lang="pt">O programa "Curta o Som" leva grandes artistas e bandas para o estúdio. Neste episódio a banda Hateen.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821025500 -0300" stop="20210821033000 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Jukebox (videoclipes)</title>
+    <desc lang="pt">O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_jukebox01.jpg" />
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821033000 -0300" stop="20210821035500 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Music Drops</title>
+    <desc lang="pt">No intervalo da programação o Music Drops traz pequenas, porém intensas, doses de entrevistas com artistas nacionais.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_musicdrops01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821035500 -0300" stop="20210821041000 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Music Drops</title>
+    <desc lang="pt">No intervalo da programação o Music Drops traz pequenas, porém intensas, doses de entrevistas com artistas nacionais.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_musicdrops01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821041000 -0300" stop="20210821042000 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Music Drops</title>
+    <desc lang="pt">No intervalo da programação o Music Drops traz pequenas, porém intensas, doses de entrevistas com artistas nacionais.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_musicdrops01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821042000 -0300" stop="20210821042500 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Music Drops</title>
+    <desc lang="pt">No intervalo da programação o Music Drops traz pequenas, porém intensas, doses de entrevistas com artistas nacionais.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_musicdrops01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821042500 -0300" stop="20210821060500 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Music Box in Concert</title>
+    <desc lang="pt">O Music Box Brazil leva você até a primeira fila para conferir os melhores shows do Brasil, sem distinção de gênero. Do axé ao rock, do pop ao sertanejo, os melhores artistas estão no Music Box in Concert.(n)</desc>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/espeta_musicboxinconcert01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821060500 -0300" stop="20210821063000 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Music Box in Concert</title>
+    <desc lang="pt">O Music Box Brazil leva você até a primeira fila para conferir os melhores shows do Brasil, sem distinção de gênero. Do axé ao rock, do pop ao sertanejo, os melhores artistas estão no Music Box in Concert.(n)</desc>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/espeta_musicboxinconcert01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821063000 -0300" stop="20210821070000 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Curta o Som</title>
+    <desc lang="pt">O Curta o Som é um programa que leva para o estúdio grandes bandas e novos artistas de destaque no cenário musical brasileiro. Além de participarem de um bate-papo, falando sobre sua trajetória e novos.(n)</desc>
+    <credits>
+      <director>Lorraine Cristina Lopes Santoni</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_curtaosom01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821070000 -0300" stop="20210821071500 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Arquivo Music 10 Anos</title>
+    <desc lang="pt">Road Sessions é um programa que traz entrevistas e performances musicais.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821071500 -0300" stop="20210821074500 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Arquivo Music 10 Anos</title>
+    <desc lang="pt">Road Sessions é um programa que traz entrevistas e performances musicais.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821074500 -0300" stop="20210821080000 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Arquivo Music 10 Anos</title>
+    <desc lang="pt">Road Sessions é um programa que traz entrevistas e performances musicais.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821080000 -0300" stop="20210821080500 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Arquivo Music 10 Anos</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Glauco Neves De Meneses</director>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821080500 -0300" stop="20210821083000 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Jukebox (videoclipes)</title>
+    <desc lang="pt">O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_jukebox01.jpg" />
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821083000 -0300" stop="20210821100500 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Music Box in Concert</title>
+    <desc lang="pt">O Music Box Brazil leva você até a primeira fila para conferir os melhores shows do Brasil, sem distinção de gênero. Do axé ao rock, do pop ao sertanejo, os melhores artistas estão no Music Box in Concert.(n)</desc>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/espeta_musicboxinconcert01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821100500 -0300" stop="20210821110000 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Music Box in Concert</title>
+    <desc lang="pt">Celebrando os 30 anos de carreira do cantor e compositor Rodriguinho, revisita alguns dos clássicos e sucessos presentes em sua carreira.(n)</desc>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/espeta_musicboxinconcert01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821110000 -0300" stop="20210821111500 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">O Ben Para Todo Mal</title>
+    <desc lang="pt">Série de entrevistas com pais fora da tradicional convenção de família. O foco são rockeiros doidos e gente que não se encaixa nos ''padrões'' estabelecidos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_obenparatodoomal01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821111500 -0300" stop="20210821120000 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Jukebox (videoclipes)</title>
+    <desc lang="pt">O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_jukebox01.jpg" />
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821120000 -0300" stop="20210821132500 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Terra Brasilis</title>
+    <desc lang="pt">Shows do TERRA BRASILIS.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_terrabrasilis01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821132500 -0300" stop="20210821135000 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Terra Brasilis</title>
+    <desc lang="pt">Meus amigos estão velhos e se apresentam de forma intimista.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_terrabrasilis01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821135000 -0300" stop="20210821140000 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Music Drops</title>
+    <desc lang="pt">No intervalo da programação o Music Drops traz pequenas, porém intensas, doses de entrevistas com artistas nacionais.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_musicdrops01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821140000 -0300" stop="20210821143000 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Os Sambas</title>
+    <desc lang="pt">Série documental que visa abordar o universo do samba, reforçando a importância deste gênero musical para formação da identidade cultural brasileira.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ossambas01.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821143000 -0300" stop="20210821145500 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Histórias Do Violão</title>
+    <desc lang="pt">Neste episódio passaremos por Montevideo no Uruguay, e teremos a participação de grandes músicos uruguaios.(n)</desc>
+    <credits>
+      <director>Yamandu Costa</director>
+      <actor>Yamandu Costa</actor>
+      <actor>Hugo Rivas</actor>
+      <actor>Rodrigo Sujodoles Gazzero</actor>
+      <actor>Francisco Offenhenden</actor>
+      <actor>Juan Sueño</actor>
+      <actor>Eduardo Varela</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821145500 -0300" stop="20210821153000 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Jukebox (videoclipes)</title>
+    <desc lang="pt">O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_jukebox01.jpg" />
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821153000 -0300" stop="20210821183000 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Medalhão Persa</title>
+    <desc lang="pt">Loroza Talk Soul é um Talk Show semanal apresentado pelo super carismático e multi artista Serjão Loroza.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821183000 -0300" stop="20210821184500 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">O Ben Para Todo Mal</title>
+    <desc lang="pt">Série de entrevistas com pais fora da tradicional convenção de família. O foco são rockeiros doidos e gente que não se encaixa nos ''padrões'' estabelecidos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_obenparatodoomal01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821184500 -0300" stop="20210821202000 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Cine Music</title>
+    <desc lang="pt">O Samba é um dos principais bens culturais do Brasil. Em Juiz de Fora, Minas Gerais, a palavra samba aparece em jornais desde o final do Século XIX.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_cinemusic01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821202000 -0300" stop="20210821203500 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">ABZ da Música</title>
+    <desc lang="pt">A cada programa, as apresentadoras Virginia e Assucena Assucena do grupo As Bahias e a Cozinha Mineira, entrevistam um músico ou banda cujo nome começa com a letra do alfabeto correspondente.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_abzdamusica01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821203500 -0300" stop="20210821214000 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Music Box in Concert</title>
+    <desc lang="pt">Espetáculo musical. Apresentação da banda pernambucana Mombojó, na Sala Itaú Cultural nos dias 17 e 18 de setembro de 2004, para o projeto Toca Brasil.(n)</desc>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/espeta_musicboxinconcert01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821214000 -0300" stop="20210821215500 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Making Of</title>
+    <desc lang="pt">O making of resume e apresenta ao público o processo criativo das músicas do terceiro álbum da banda Luísa e os Alquimistas, intitulado "Jaguatirica Print'.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_makingof01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821215500 -0300" stop="20210821220000 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Jam Sessions</title>
+    <desc lang="pt">Artista convidado: Serginho Moah.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821220000 -0300" stop="20210821223500 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Hip Hop Brazil</title>
+    <desc lang="pt">Comandado por MV Bill, o Hip Hop Brazil é o primeiro programa da TV brasileira especializado em hip hop nacional. Exibe videoclipes e traz informações sobre cultura e comportamento.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_hiphopbrazil01.jpg" />
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821223500 -0300" stop="20210822000000 -0300" channel="Music Box Brazil HD">
+    <title lang="pt">Music Box in Concert</title>
+    <desc lang="pt">O Music Box Brazil leva você até a primeira fila para conferir os melhores shows do Brasil, sem distinção de gênero. Do axé ao rock, do pop ao sertanejo, os melhores artistas estão no Music Box in Concert.(n)</desc>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/espeta_musicboxinconcert01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
 </tv>
