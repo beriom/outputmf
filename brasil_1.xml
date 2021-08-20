@@ -620,10 +620,12 @@
   </channel>
   <channel id="Warner Channel HD">
     <display-name lang="pt">Warner Channel HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/woohoo.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Woohoo HD">
     <display-name lang="pt">Woohoo HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/zoomoo.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="ZooMoo HD">
@@ -19722,6 +19724,458 @@
     <country lang="pt">Brasil</country>
     <rating system="BR">
       <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820154200 -0300" stop="20210820173700 -0300" channel="Warner Channel HD">
+    <title lang="pt">O Sequestro do Metrô 1 2 3</title>
+    <desc lang="pt">Ryder é o líder de uma quadrilha que sequestra um trem do metrô de Nova York e ameaçam matar seus passageiros, caso não seja pago o resgate exigido. Cabe ao operador do metrô, Walter Garber, a missão de negociar com o bandido.(n)</desc>
+    <credits>
+      <director>Tony Scott</director>
+      <actor>Denzel Washington</actor>
+      <actor>John Travolta</actor>
+      <actor>Luis Guzmán</actor>
+      <actor>Ramon Rodriguez</actor>
+      <actor>Victor Gojcaj</actor>
+      <actor>John Turturro</actor>
+      <actor>Michael Rispoli</actor>
+      <actor>Katherine Sigismund</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_sequestrometro01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820173700 -0300" stop="20210820195600 -0300" channel="Warner Channel HD">
+    <title lang="pt">Jurassic World: O Mundo dos Dinossauros</title>
+    <desc lang="pt">O Jurassic Park enfim está aberto ao público. Entretanto, a equipe chefiada pela doutora Claire passa a fazer experiências genéticas, de forma a criar novas espécies.(n)</desc>
+    <credits>
+      <director>Colin Trevorrow</director>
+      <actor>Chris Pratt</actor>
+      <actor>Bryce Dallas Howard</actor>
+      <actor>Irrfan Khan</actor>
+      <actor>Vincent D'Onofrio</actor>
+      <actor>Ty Simpkins</actor>
+      <actor>Nick Robinson</actor>
+      <actor>Jake Johnson</actor>
+      <actor>Omar Sy</actor>
+      <actor>BD Wong</actor>
+      <actor>Judy Greer</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_jurassicworld01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">China</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820195600 -0300" stop="20210820202200 -0300" channel="Warner Channel HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <desc lang="pt">Com Leonard longe, Sheldon e Penny passam um tempo precioso juntos, compartilhando segredos íntimos. Ao mesmo tempo, Wolowitz ajuda Raj a superar o término da relação com a ex-namorada.(n)</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/thebigbangtheory01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820202200 -0300" stop="20210820204900 -0300" channel="Warner Channel HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <desc lang="pt">A amizade de Leonard com Sheldon é colocada em teste quando ele retorna do mar do norte. Enquanto isso, a relação de Wolowitz com sua mãe causa uma ameaça pouco usual em sua masculinidade.(n)</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/thebigbangtheory01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E2</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820204900 -0300" stop="20210820211400 -0300" channel="Warner Channel HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <desc lang="pt">A gangue inteira compete em uma caça ao tesouro criada por Raj, um evento capaz de destacar o melhor - e o pior - de cada um.(n)</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/thebigbangtheory01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820211400 -0300" stop="20210820214000 -0300" channel="Warner Channel HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <desc lang="pt">Sheldon busca vingança, quando Amy arruina um de seus filmes favoritos.(n)</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+      <actor>Melissa Rauch</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/thebigbangtheory01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820214000 -0300" stop="20210820220500 -0300" channel="Warner Channel HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <desc lang="pt">Leonard lamenta seu novo cargo de autoridade no trabalho quando fica responsável por distribuir doações. Bernadette transforma a casa de brinquedo em seu esconderijo.(n)</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/thebigbangtheory01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S12 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820220500 -0300" stop="20210820223000 -0300" channel="Warner Channel HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <desc lang="pt">Sheldon tenta se entrosar com os pais de Amy. Enquanto isso, Raj e Anu se esforçam para ganhar intimidade.(n)</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/thebigbangtheory01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S12 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820223000 -0300" stop="20210821012500 -0300" channel="Warner Channel HD">
+    <title lang="pt">Batman - O Cavaleiro das Trevas</title>
+    <desc lang="pt">Com a ajuda do tenente Gordon e do promotor Havey Kent, Batman busca deter a vilania do Curinga, combater a corrupção e enfrentar a chegada na cidade do chefão do crime Salvatore Maroni.(n)</desc>
+    <credits>
+      <director>Christopher Nolan</director>
+      <actor>Christian Bale</actor>
+      <actor>Heath Ledger</actor>
+      <actor>Aaron Eckhart</actor>
+      <actor>Michael Caine</actor>
+      <actor>Maggie Gyllenhaal</actor>
+      <actor>Gary Oldman</actor>
+      <actor>Morgan Freeman</actor>
+      <actor>Monique Curnen</actor>
+      <actor>Ron Dean</actor>
+      <actor>Cillian Murphy</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_batmancavaleiro01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820163000 -0300" stop="20210820164300 -0300" channel="Woohoo HD">
+    <title lang="pt">Geekly</title>
+    <desc lang="pt">Séries, filmes, animações, animes, games... No Geekly, toda a cultura geek é bem-vinda. Acompanhe o melhor deste universo com indicações e análises artísticas de Leonardo Bonetto.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cultural</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820164300 -0300" stop="20210820170000 -0300" channel="Woohoo HD">
+    <title lang="pt">Aqui Tem Borogodó</title>
+    <desc lang="pt">Aqui tem conversa, aqui tem troca de experiências, aqui tem borogodó! Sérgio Mattos convida personalidades do mundo da moda para falar sobre vida e carreira de um jeito que é só dele.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Moda</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820170000 -0300" stop="20210820173000 -0300" channel="Woohoo HD">
+    <title lang="pt">Roaming</title>
+    <desc lang="pt">Dois amigos brasileiros botam o pé na estrada para desbravar o Canadá. Aventureiros, descobrem novos esportes radicais a cada lugar que passam e também a cultura local, as pessoas e a vida selvagem.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Viagem</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820173000 -0300" stop="20210820180000 -0300" channel="Woohoo HD">
+    <title lang="pt">Juju Na Trip</title>
+    <desc lang="pt">Um santuário com centenas de rios e nascentes de água cristalina, onde vivem cerca 8 mil peixes-boi. É  nesse paraíso que Gabi, Juju e Rico decidem mergulhar.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820184400 -0300" channel="Woohoo HD">
+    <title lang="pt">Juju Na Trip</title>
+    <desc lang="pt">Na nova temporada de Juju Trip, vamos viajar com Juju e sua família para os lugares mais inusitados, conhecendo culturas diferentes e paraísos intocados.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820184400 -0300" stop="20210820190000 -0300" channel="Woohoo HD">
+    <title lang="pt">Vamos?</title>
+    <desc lang="pt">O Vamos invadiu a Costa do Cacau, que abriga um dos lugares mais exóticos e buscados pelos amantes do ecoturismo: Itacaré. Belas praias, trilhas, cachoeiras e uma cultura vasta guardada bem ao sul de Salvador, na Bahia.(n)</desc>
+    <credits>
+      <director>Alexandre Iglesias</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Viagem</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_vamos01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S5 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820191500 -0300" channel="Woohoo HD">
+    <title lang="pt">Pipoca No Set</title>
+    <desc lang="pt">Luz, câmera, ação! O Pipoca no Set dá as melhores dicas quando o assunto é entretenimento reunindo curiosidades e histórias das produções mais aclamadas relembrando também a trajetória de grandes atores e atrizes.(n)</desc>
+    <credits>
+      <director>Antonio Ricardo</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820191500 -0300" stop="20210820193000 -0300" channel="Woohoo HD">
+    <title lang="pt">A Paz Vem De Dentro</title>
+    <desc lang="pt">Uma união entre o corpo, a mente e o estado de espírito. Em um mundo em que estamos cada vez mais conectados e em ritmo acelerado, desconecte-se e respire fundo em A Paz Vem de Dentro.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Comportamento</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820193000 -0300" stop="20210820200000 -0300" channel="Woohoo HD">
+    <title lang="pt">Garimpeiro Do Sabor</title>
+    <desc lang="pt">Acompanhe a jornada do cozinheiro João Diamante em busca de joias raras do mundo da gastronomia. Histórias de vida, cultura e conexão! Tudo isso sem deixar de lado receitas de dar água na boca.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Turismo</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820202000 -0300" channel="Woohoo HD">
+    <title lang="pt">Vamos?</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Viagem</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_vamos01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S5 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820202000 -0300" stop="20210820203000 -0300" channel="Woohoo HD">
+    <title lang="pt">Pop Up</title>
+    <desc lang="pt">Pílulas de programação que abordam temas variados, desde curiosidades do mundo do entretenimento, moda, gastronomia, estilo de vida e bem-estar.(n)</desc>
+    <credits>
+      <director>Antonio Ricardo</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E153</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820203000 -0300" stop="20210820210000 -0300" channel="Woohoo HD">
+    <title lang="pt">Juju Na Trip</title>
+    <desc lang="pt">Na nova temporada de Juju Trip, vamos viajar com Juju e sua família para os lugares mais inusitados, conhecendo culturas diferentes e paraísos intocados.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820210000 -0300" stop="20210820213000 -0300" channel="Woohoo HD">
+    <title lang="pt">Freedas</title>
+    <desc lang="pt">Free'das é um programa feito por mulheres e traz um olhar 100% feminino sobre o mundo das artes marciais.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E29</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820213000 -0300" stop="20210820220000 -0300" channel="Woohoo HD">
+    <title lang="pt">Aposta Show Livre</title>
+    <desc lang="pt">O Aposta Showlivre faz o elo entre quem faz e quem gosta de novidades na música brasileira. Aumente o som e aproveite uma nova experiência descobrindo os mais promissores talentos musicais da atualidade.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820221400 -0300" channel="Woohoo HD">
+    <title lang="pt">Geekly</title>
+    <desc lang="pt">Séries, filmes, animações, animes, games... No Geekly, toda a cultura geek é bem-vinda. Acompanhe o melhor deste universo com indicações e análises artísticas de Leonardo Bonetto.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cultural</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820221400 -0300" stop="20210820223000 -0300" channel="Woohoo HD">
+    <title lang="pt">Pop Up</title>
+    <desc lang="pt">Pílulas de programação que abordam temas variados, desde curiosidades do mundo do entretenimento, moda, gastronomia, estilo de vida e bem-estar.(n)</desc>
+    <credits>
+      <director>Antonio Ricardo</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820223000 -0300" stop="20210820230000 -0300" channel="Woohoo HD">
+    <title lang="pt">Roaming</title>
+    <desc lang="pt">Dois amigos brasileiros botam o pé na estrada para desbravar o Canadá. Aventureiros, descobrem novos esportes radicais a cada lugar que passam e também a cultura local, as pessoas e a vida selvagem.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Viagem</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210820231300 -0300" channel="Woohoo HD">
+    <title lang="pt">Juju Na Trip</title>
+    <desc lang="pt">A familia Juju na Trip viaja para o Chile, e vai explorar as terras do Deserto do Atacama. Nesse episódio, eles exploram o Vale da Lua, o Vale de Marte e descobrem o lugar com o por-do-sol mais lindo da região.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820231300 -0300" stop="20210820233000 -0300" channel="Woohoo HD">
+    <title lang="pt">Juju Na Trip</title>
+    <desc lang="pt">O Juju na Trip continua pelo Atacama e revela paisagens inesperadas para um deserto, como um manancial água com cachoeiras e rios para nadar. Eles também atravessam de bike os canyons do deserto, mostrando um lado pouco explorado.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820233000 -0300" stop="20210821000000 -0300" channel="Woohoo HD">
+    <title lang="pt">Zinzane</title>
+    <desc lang="pt">Infomercial.(n)</desc>
+    <credits>
+      <director>Sandro Natali</director>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
     </rating>
   </programme>
 </tv>
