@@ -62,6 +62,7 @@
   </channel>
   <channel id="Canal Brasil HD">
     <display-name lang="pt">Canal Brasil HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Cartoon Network HD">
