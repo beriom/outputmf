@@ -32,10 +32,12 @@
   </channel>
   <channel id="Band Sports HD">
     <display-name lang="pt">Band Sports HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/bandsports.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="BIS HD">
     <display-name lang="pt">BIS HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/bis.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Boomerang HD">
@@ -1379,6 +1381,233 @@
     <desc lang="pt">Tudo o que foi notícia e a análise dos principais fatos do dia, você encontra no Jornal BandNews: Edição da Noite.(n)</desc>
     <category lang="pt">Jornalismo</category>
     <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820160000 -0300" stop="20210820170000 -0300" channel="Band Sports HD">
+    <title lang="pt">A Busca da Medalha</title>
+    <desc lang="pt">Programa semanal que mostra a preparação das quatro duplas de vôlei de praia representantes do Brasil nos Jogos Olímpicos de Tóquio. A atração acompanha a preparação física e mental dos atletas.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Vôlei de Praia</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820170000 -0300" stop="20210820180000 -0300" channel="Band Sports HD">
+    <title lang="pt">Bola Rolando</title>
+    <desc lang="pt">No final da tarde, logo que as atividades dos clubes se encerram, a bola rola na tela do Bandsports. Informação, discussão e projeção sobre o dia do futebol no Brasil e no Mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820200000 -0300" channel="Band Sports HD">
+    <title lang="pt">Hipismo: Longiness XTC</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Hipismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820220000 -0300" channel="Band Sports HD">
+    <title lang="pt">Baita Amigos</title>
+    <desc lang="pt">O craque Neto e amigos debatem o futebol do Brasil. Todas as segundas (pós rodada) e sextas (previa da rodada).(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_baitaamigos01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820223000 -0300" channel="Band Sports HD">
+    <title lang="pt">Compacto Campeonato Russo</title>
+    <desc lang="pt">Acompanhe o Compacto de jogos do campeonato russo.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820223000 -0300" stop="20210820230000 -0300" channel="Band Sports HD">
+    <title lang="pt">Rally dos Sertões</title>
+    <desc lang="pt">Entre os dias 13 e 22 de agosto, acontece o Rally dos Sertões e você confere tudo aqui na Band.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Radical</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210821000000 -0300" channel="Band Sports HD">
+    <title lang="pt">Tiki Taka</title>
+    <desc lang="pt">Apresentado por Mauricio Barros e comentários de Marilia Ruiz e Eduardo Tironi o programa é um mesa redonda sempre as sextas feiras para debater tudo da rodada do fim de semana.(n)</desc>
+    <credits>
+      <actor>Mauricio Barros</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Debate</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820163000 -0300" stop="20210820170000 -0300" channel="BIS HD">
+    <title lang="pt">Estúdio Do Dado</title>
+    <desc lang="pt">Caetano Veloso e seu filho Moreno foram recebidos por Dado Villa-Lobos no Estúdio para uma sessão de músicas especiais.(n)</desc>
+    <credits>
+      <director>Gabriela Gastal</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820170000 -0300" stop="20210820180000 -0300" channel="BIS HD">
+    <title lang="pt">Dhani Harrison</title>
+    <desc lang="pt">Faixa dedicada aos shows dos maiores artistas da atualidade.(n)</desc>
+    <credits>
+      <director>Rich Bond</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820190000 -0300" channel="BIS HD">
+    <title lang="pt">Setlist</title>
+    <desc lang="pt">Faixa que reúne os melhores clipes nacionais e internacionais.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820193300 -0300" channel="BIS HD">
+    <title lang="pt">Cena Londres</title>
+    <desc lang="pt">O programa mostra shows de bandas já consagradas ou em ascensão apenas na cena de Londres.(n)</desc>
+    <credits>
+      <director>Marcia Leite</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820193300 -0300" stop="20210820200400 -0300" channel="BIS HD">
+    <title lang="pt">Música Sertaneja Do Brasil</title>
+    <desc lang="pt">Em formato intimista, novos artistas do sertanejo cantam clássicos com músicos consagrados do gênero. Nesse episódio, Zé Geraldo faz uma participação especial e canta senhorita com Chico Teixeira.(n)</desc>
+    <credits>
+      <director>Roberto T. Oliveira</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200400 -0300" stop="20210820203400 -0300" channel="BIS HD">
+    <title lang="pt">Minha Loja De Discos</title>
+    <desc lang="pt">Série que coloca o espectador por dentro das mitológicas, charmosas e maiores lojas de discos do mundo.(n)</desc>
+    <credits>
+      <director>Rodrigo Pinto</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/minhalojadediscos01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820203400 -0300" stop="20210820210000 -0300" channel="BIS HD">
+    <title lang="pt">Rock Icons</title>
+    <desc lang="pt">Série de perfis de astros do rock, com entrevistas e imagens de arquivo. Neste episódio, Daryl Hall, o tecladista, guitarrista e compositor que ajudou a fundar o duo Hall &amp; Oates, de muito sucesso no final dos anos 70 e início dos anos 80.(n)</desc>
+    <credits>
+      <director>Sam Dunn</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820210000 -0300" stop="20210820220000 -0300" channel="BIS HD">
+    <title lang="pt">Iggy Pop Plays Baloise</title>
+    <desc lang="pt">Há uma razão pela qual Iggy Pop é o padrinho do punk: cada banda punk do passado e presente já pegou emprestado uma ou duas coisas desse grande artista.(n)</desc>
+    <credits>
+      <director>Roli Bärlocher</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+    <country lang="pt">Suiça</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820230000 -0300" channel="BIS HD">
+    <title lang="pt">Sex Pistols - There Will Always Be An England</title>
+    <desc lang="pt">30 anos depois do lançamento estrondoso do álbum "Never Mind The Bollocks", este show, gravado em 2007 na Brixton Academy e registrado pelas lentes do diretor Julien Temple.(n)</desc>
+    <credits>
+      <director>Julian Temple</director>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210820233100 -0300" channel="BIS HD">
+    <title lang="pt">Depois Daquele Álbum</title>
+    <desc lang="pt">A cada episódio um artista convidado toca seu álbum preferido de algum outro músico. Nesse episódio, Paulo Ricardo toca "Sticky Fingers" dos Rolling Stones. Ele comenta as músicas e conta o quanto o álbum o influenciou.(n)</desc>
+    <credits>
+      <director>Felipe Ariani</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820233100 -0300" stop="20210821000000 -0300" channel="BIS HD">
+    <title lang="pt">Música Sertaneja Do Brasil</title>
+    <desc lang="pt">Em formato intimista, novos artistas do sertanejo cantam clássicos com músicos consagrados do gênero. Nesse episódio, a dupla César Menotti e Fabiano faz uma participação especial e canta "Chico Mineiro".(n)</desc>
+    <credits>
+      <director>Roberto T. Oliveira</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E13</episode-num>
     <rating system="BR">
       <value>L</value>
     </rating>
