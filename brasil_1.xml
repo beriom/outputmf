@@ -97,6 +97,7 @@
   </channel>
   <channel id="Conmebol TV 4">
     <display-name lang="pt">Conmebol TV 4</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/conmebol.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Curta! HD">
@@ -14641,6 +14642,60 @@
     </rating>
   </programme>
   <programme start="20210821180000 -0300" stop="20210822000000 -0300" channel="Conmebol TV 3">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820120000 -0300" stop="20210820180000 -0300" channel="Conmebol TV 4">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210821000000 -0300" channel="Conmebol TV 4">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821000000 -0300" stop="20210821060000 -0300" channel="Conmebol TV 4">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821120000 -0300" channel="Conmebol TV 4">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821120000 -0300" stop="20210821180000 -0300" channel="Conmebol TV 4">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821180000 -0300" stop="20210822000000 -0300" channel="Conmebol TV 4">
     <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
     <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.(n)</desc>
     <category lang="pt">Esporte</category>
