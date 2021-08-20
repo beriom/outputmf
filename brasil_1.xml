@@ -400,10 +400,12 @@
   </channel>
   <channel id="OFF HD">
     <display-name lang="pt">OFF HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/canaloff.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Paramount Channel HD">
     <display-name lang="pt">Paramount Channel HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/paramount.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Playboy TV HD">
@@ -14010,6 +14012,378 @@
     <episode-num system="onscreen">S5 E17</episode-num>
     <rating system="BR">
       <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820162800 -0300" stop="20210820171000 -0300" channel="OFF HD">
+    <title lang="pt">OFF Docs - Vision</title>
+    <desc lang="pt">O documentário sobre mountain bike acompanha a ciclista Veronique Sandler enquanto ela mostra sua visão para o futuro do esporte.(n)</desc>
+    <credits>
+      <director>Chris Seager</director>
+      <actor>Veronique Sandler</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Radical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_offdocsdocumentarion01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820171000 -0300" stop="20210820173500 -0300" channel="OFF HD">
+    <title lang="pt">Facing Waves</title>
+    <desc lang="pt">O apresentador David Whiting continua com seu caiaque na província canadense de Quebec, agora explorando as regiões de Abitibi-Témiscamingue e de Côte-Nord.(n)</desc>
+    <credits>
+      <director>Ken Whiting</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Radical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/facingwaves01.jpg" />
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S7 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820173500 -0300" stop="20210820180000 -0300" channel="OFF HD">
+    <title lang="pt">Facing Waves</title>
+    <desc lang="pt">David Whiting explora a região quase tropical de Laurentides, com seus terrenos vastos e incrível diversidade ecológica, um dos principais destinos da maior província canadense, Quebec.(n)</desc>
+    <credits>
+      <director>Ken Whiting</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Radical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/facingwaves01.jpg" />
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S7 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820183000 -0300" channel="OFF HD">
+    <title lang="pt">Europa Por Elas</title>
+    <desc lang="pt">As meninas saem de Figueira da Foz e vão para Matosinhos. O motorhome delas fica sem bateria e o da equipe de produção sofre um pequeno acidente. O surf teve um atraso, mas quando chegam na praia aproveitam para pegar altas ondas.(n)</desc>
+    <credits>
+      <director>Jorge Nassaralla</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820183000 -0300" stop="20210820190000 -0300" channel="OFF HD">
+    <title lang="pt">Europa Por Elas</title>
+    <desc lang="pt">As meninas retomam a viagem após um dia de surf em Nazaré e seguem para a cidade do Porto. Elas aproveitam o dia na cidade, pulam da ponte no Rio Douro e enfrentam vários imprevistos. No dia seguinte, seguem para a Espanha.(n)</desc>
+    <credits>
+      <director>Jorge Nassaralla</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820193000 -0300" channel="OFF HD">
+    <title lang="pt">OFF Makers</title>
+    <desc lang="pt">Seleção dos melhores conteúdos do Canal OFF.(n)</desc>
+    <credits>
+      <director>Rafael Ciani</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E32</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820193000 -0300" stop="20210820200000 -0300" channel="OFF HD">
+    <title lang="pt">Epic Trails</title>
+    <desc lang="pt">O programa atravessa um dos prinicpais pontos turísticos canadenses, o Parque Nacional Banff, com seus 6.500km quadrados de montanhas, esqui de qualidade e mais de 1.600km de trilhas com infinitas cavernas.(n)</desc>
+    <credits>
+      <director>Ken Whiting</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Radical</category>
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820203000 -0300" channel="OFF HD">
+    <title lang="pt">Original OFF</title>
+    <desc lang="pt">Gustavo Ziller e o projeto 7Cumes enfrentam seu maior desafio. O Monte Everest no Nepal, a montanha mais alta do planeta.(n)</desc>
+    <credits>
+      <director>Ricardo Quintela</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_originaloff01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820203000 -0300" stop="20210820210000 -0300" channel="OFF HD">
+    <title lang="pt">Original OFF</title>
+    <desc lang="pt">Conhecido por seus feitos no paraquedismo, Luigi Cani vai até os cânions do Itaimbezinho para realizar o primeiro voo de wingsuit e pouso de paraquedas na região.(n)</desc>
+    <credits>
+      <director>Luigi Cani</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_originaloff01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820210000 -0300" stop="20210820213000 -0300" channel="OFF HD">
+    <title lang="pt">Brazilian Storm</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Rafael Mellin</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Radical</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/brazilianstorm01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S19 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820213000 -0300" stop="20210820220000 -0300" channel="OFF HD">
+    <title lang="pt">Além dos Limites</title>
+    <desc lang="pt">Fernando Fernandes explora e conhece seu sonho de criança, o Havaí. Viaja para Big Island e desbrava a região, próximo de um vulcão em erupção.(n)</desc>
+    <credits>
+      <director>Karina Oliani</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820223000 -0300" channel="OFF HD">
+    <title lang="pt">Forças da Natureza</title>
+    <desc lang="pt">Karina vai até a Amazônia escalar a parede da cachoeira mais alta do Brasil, algo nunca feito antes.(n)</desc>
+    <credits>
+      <director>Karina Oliani</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820223000 -0300" stop="20210820230000 -0300" channel="OFF HD">
+    <title lang="pt">Em Busca Das Luzes Do Norte</title>
+    <desc lang="pt">Chicco Mattos e André Miranda vão ao coração da Lapônia para desvendar os mistérios por trás da relação do povo Sami com a Aurora Boreal.(n)</desc>
+    <credits>
+      <director>Andre Miranda</director>
+      <director>Diego Barros</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210820233000 -0300" channel="OFF HD">
+    <title lang="pt">Voo de Cinema</title>
+    <desc lang="pt">Gustavo Cabana é o personagem deste episódio. Ele é argentino, voa a mais de 200km/h, tem mais de 22 mil saltos com câmera e muito comprometimento e paixão pelo que faz.(n)</desc>
+    <credits>
+      <director>Luigi Cani</director>
+      <director>Rita Albano</director>
+      <actor>Luigi Cani</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Radical</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820233000 -0300" stop="20210821000000 -0300" channel="OFF HD">
+    <title lang="pt">República Do Skate</title>
+    <desc lang="pt">Na Califórnia, Rodrigo Petersen e Gabriel Fortunato fazem uma sessão pesadíssima de skate na pista da Diamond e de lá partem para as ruas de Los Angeles.(n)</desc>
+    <credits>
+      <director>Roberto T. Oliveira</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Radical</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820163000 -0300" stop="20210820182000 -0300" channel="Paramount Channel HD">
+    <title lang="pt">Estão Todos Bem</title>
+    <desc lang="pt">Um viúvo percebe que a única relação que tinha com a sua família era por meio da esposa, então planeja uma viagem para se reunir com cada um de seus filhos.(n)</desc>
+    <credits>
+      <director>Kirk Jones</director>
+      <actor>Robert De Niro</actor>
+      <actor>Drew Barrymore</actor>
+      <actor>Kate Beckinsale</actor>
+      <actor>Sam Rockwell</actor>
+      <actor>Lucian Maisel</actor>
+      <actor>Damian Young</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_estaotodosbem01.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Itália</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820182000 -0300" stop="20210820185000 -0300" channel="Paramount Channel HD">
+    <title lang="pt">Perrengue</title>
+    <desc lang="pt">Carol descobre que a loja de seus pais está quebrada. Cadu se incomoda com a presença de Tiago enquanto está com Letícia. Após uma conversa com Miguel, Pérola resolve ir atrás de um relacionamento e chama Tomás para sair.(n)</desc>
+    <credits>
+      <director>Tatiana de Lamare</director>
+      <actor>Tatiana de Lamare</actor>
+      <actor>Mariana Molina</actor>
+      <actor>Guilherme Dellorto</actor>
+      <actor>Vinícius Redd</actor>
+      <actor>Giovana Echeverria</actor>
+      <actor>Chris Ubach</actor>
+      <actor>Bruno Ferrari</actor>
+      <actor>Rafael Sieg</actor>
+      <actor>In Lyberato</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_perrengue01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820185000 -0300" stop="20210820203000 -0300" channel="Paramount Channel HD">
+    <title lang="pt">Shrek Terceiro</title>
+    <desc lang="pt">O ogro mais famoso do cinema está de volta em mais uma aventura. Dessa vez, Shrek terá que ser coroado rei, após a morte do rei Harol, pai de Fiona.(n)</desc>
+    <credits>
+      <director>Chris Miller</director>
+      <director>Raman Hul</director>
+      <actor>Vozes de Mike Myers</actor>
+      <actor>Eddie Murphy</actor>
+      <actor>Cameron Diaz</actor>
+      <actor>Antonio Banderas</actor>
+      <actor>Julie Andrews</actor>
+      <actor>John Cleese</actor>
+      <actor>Rupert Everett</actor>
+      <actor>Justin Timberlake</actor>
+      <actor>Susan Blakeslee</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_shrekthird01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820203000 -0300" stop="20210820220000 -0300" channel="Paramount Channel HD">
+    <title lang="pt">Shrek para Sempre</title>
+    <desc lang="pt">Shrek faz um pacto com Rumpelstiltskin para sentir-se como um ogro de verdade novamente, mas ele é enganado e enviado para uma terra onde Rumpelstiltskin é rei, ogros são caçados, e ele e Fiona nunca se encontram.(n)</desc>
+    <credits>
+      <director>Mike Mitchell</director>
+      <actor>Com Vozes de Mike Myers</actor>
+      <actor>Eddie Murphy</actor>
+      <actor>Cameron Diaz</actor>
+      <actor>Antonio Banderas</actor>
+      <actor>Julie Andrews</actor>
+      <actor>Jon Hamm</actor>
+      <actor>John Cleese</actor>
+      <actor>Craig Robinson</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_shrekparasempre01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820235500 -0300" channel="Paramount Channel HD">
+    <title lang="pt">A Duquesa</title>
+    <desc lang="pt">No século 18, a jovem Georgiana torna-se a Duquesa de Devonshire. Bonita e com personalidade forte, ela rejeita o papel de ser apenas a esposa do Duque, causando tensão entre a família.(n)</desc>
+    <credits>
+      <director>Saul Dibb</director>
+      <actor>Keira Knightley</actor>
+      <actor>Charlotte Rampling</actor>
+      <actor>Dominic Cooper</actor>
+      <actor>Hayley Atwell</actor>
+      <actor>Ralph Fiennes</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <country lang="pt">França</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820235500 -0300" stop="20210821015500 -0300" channel="Paramount Channel HD">
+    <title lang="pt">Medo da Verdade</title>
+    <desc lang="pt">Baseado no romance de Dennis Lehane, o filme conta história sobre dois detetives que tentam encontrar uma garotinha de 4 anos de idade sequestrada em Boston. Filme que marca a estréia de Ben Affleck como diretor.(n)</desc>
+    <credits>
+      <director>Ben Affleck</director>
+      <actor>Casey Affleck</actor>
+      <actor>Michelle Monaghan</actor>
+      <actor>Morgan Freeman</actor>
+      <actor>Ed Harris</actor>
+      <actor>John Ashton</actor>
+      <actor>Amy Ryan</actor>
+      <actor>Amy Madigan</actor>
+      <actor>Titus Welliver</actor>
+      <actor>Michael K. Williams</actor>
+      <actor>Edi Gathegi</actor>
+      <actor>Mark Margo</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_medodaverdade01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
     </rating>
   </programme>
 </tv>
