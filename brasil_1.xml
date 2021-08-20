@@ -62222,4 +62222,74 @@
       <value>10</value>
     </rating>
   </programme>
+  <programme start="20210820060000 -0300" stop="20210820120000 -0300" channel="NET TV HD">
+    <title lang="pt">Dicas e novidades CLARO TV</title>
+    <desc lang="pt">Confira aqui as dicas com o melhor da programação CLARO: filmes, séries, documentários, shows, esportes e muito mais. Fique por dentro das novidades e ofertas exclusivas que só a CLARO traz para você!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_dicasenovidadesnettv01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820120000 -0300" stop="20210820180000 -0300" channel="NET TV HD">
+    <title lang="pt">Dicas e novidades CLARO TV</title>
+    <desc lang="pt">Confira aqui as dicas com o melhor da programação CLARO: filmes, séries, documentários, shows, esportes e muito mais. Fique por dentro das novidades e ofertas exclusivas que só a CLARO traz para você!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_dicasenovidadesnettv01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210821000000 -0300" channel="NET TV HD">
+    <title lang="pt">Dicas e novidades CLARO TV</title>
+    <desc lang="pt">Confira aqui as dicas com o melhor da programação CLARO: filmes, séries, documentários, shows, esportes e muito mais. Fique por dentro das novidades e ofertas exclusivas que só a CLARO traz para você!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_dicasenovidadesnettv01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821000000 -0300" stop="20210821060000 -0300" channel="NET TV HD">
+    <title lang="pt">Dicas e novidades CLARO TV</title>
+    <desc lang="pt">Confira aqui as dicas com o melhor da programação CLARO: filmes, séries, documentários, shows, esportes e muito mais. Fique por dentro das novidades e ofertas exclusivas que só a CLARO traz para você!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_dicasenovidadesnettv01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821120000 -0300" channel="NET TV HD">
+    <title lang="pt">Dicas e novidades CLARO TV</title>
+    <desc lang="pt">Confira aqui as dicas com o melhor da programação CLARO: filmes, séries, documentários, shows, esportes e muito mais. Fique por dentro das novidades e ofertas exclusivas que só a CLARO traz para você!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_dicasenovidadesnettv01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821120000 -0300" stop="20210821180000 -0300" channel="NET TV HD">
+    <title lang="pt">Dicas e novidades CLARO TV</title>
+    <desc lang="pt">Confira aqui as dicas com o melhor da programação CLARO: filmes, séries, documentários, shows, esportes e muito mais. Fique por dentro das novidades e ofertas exclusivas que só a CLARO traz para você!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_dicasenovidadesnettv01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821180000 -0300" stop="20210822000000 -0300" channel="NET TV HD">
+    <title lang="pt">Dicas e novidades CLARO TV</title>
+    <desc lang="pt">Confira aqui as dicas com o melhor da programação CLARO: filmes, séries, documentários, shows, esportes e muito mais. Fique por dentro das novidades e ofertas exclusivas que só a CLARO traz para você!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_dicasenovidadesnettv01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
 </tv>
