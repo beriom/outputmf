@@ -72,6 +72,7 @@
   </channel>
   <channel id="Cinemax HD">
     <display-name lang="pt">Cinemax HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="CNN Brasil HD">
