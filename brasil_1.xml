@@ -510,10 +510,12 @@
   </channel>
   <channel id="Star Hits 2">
     <display-name lang="pt">Star Hits 2</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/starhits.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Star Life HD">
     <display-name lang="pt">Star Life HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/starlife.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Studio Universal HD">
@@ -16155,6 +16157,442 @@
     <episode-num system="onscreen">S8 E2</episode-num>
     <rating system="BR">
       <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820162100 -0300" stop="20210820171400 -0300" channel="Star Hits 2">
+    <title lang="pt">Legion</title>
+    <desc lang="pt">Surge uma nova ameaça.(n)</desc>
+    <credits>
+      <director>Tim Mielants</director>
+      <actor>Dan Stevens</actor>
+      <actor>Rachel Keller</actor>
+      <actor>Jean Smart</actor>
+      <actor>Aubrey Plaza</actor>
+      <actor>Amber Midthunder</actor>
+      <actor>Jeremie Harris</actor>
+      <actor>Katie Aselton</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_legion01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820171400 -0300" stop="20210820180500 -0300" channel="Star Hits 2">
+    <title lang="pt">Legion</title>
+    <desc lang="pt">David retorna ao lugar onde tudo começou.(n)</desc>
+    <credits>
+      <director>Hiro Murai</director>
+      <actor>Dan Stevens</actor>
+      <actor>Rachel Keller</actor>
+      <actor>Jean Smart</actor>
+      <actor>Aubrey Plaza</actor>
+      <actor>Amber Midthunder</actor>
+      <actor>Jeremie Harris</actor>
+      <actor>Katie Aselton</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_legion01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820180500 -0300" stop="20210820185300 -0300" channel="Star Hits 2">
+    <title lang="pt">Condor</title>
+    <desc lang="pt">Joe continua a investigar teorias alternativas já que não está convencido de que Gordon seja o culpado. Depois de um golpe de sorte inesperado, Eva e Gordon fazem as pazes.(n)</desc>
+    <credits>
+      <director>Alexis Ostrander</director>
+      <actor>Bob Balaban</actor>
+      <actor>Kristen Hager</actor>
+      <actor>Leem Lubany</actor>
+      <actor>Max Irons</actor>
+      <actor>Constance Zimmer</actor>
+      <actor>Alexei Bondar</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820185300 -0300" stop="20210820192000 -0300" channel="Star Hits 2">
+    <title lang="pt">Mr Inbetween</title>
+    <desc lang="pt">Tudo tem fim, até o Natal.(n)</desc>
+    <credits>
+      <director>Nash Edgerton</director>
+      <actor>Brooke Satchwell</actor>
+      <actor>Chika Yasumura</actor>
+      <actor>Damon Herriman</actor>
+      <actor>Justin Rosniak</actor>
+      <actor>Scott Ryan</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Austrália</country>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820192000 -0300" stop="20210820194300 -0300" channel="Star Hits 2">
+    <title lang="pt">Mr Inbetween</title>
+    <desc lang="pt">Confusões de mulheres, velhos amigos e corações em árvores.(n)</desc>
+    <credits>
+      <director>Nash Edgerton</director>
+      <actor>Brooke Satchwell</actor>
+      <actor>Chika Yasumura</actor>
+      <actor>Damon Herriman</actor>
+      <actor>Justin Rosniak</actor>
+      <actor>Scott Ryan</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Austrália</country>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820194300 -0300" stop="20210820202800 -0300" channel="Star Hits 2">
+    <title lang="pt">Snowfall</title>
+    <desc lang="pt">Andre é forçado a pedir a ajuda de Franklin. Julia propõe um novo plano para Teddy. Gustavo abre caminho para sua própria visão.(n)</desc>
+    <credits>
+      <director>Alonso Alvarez</director>
+      <actor>Amin Joseph</actor>
+      <actor>Angela Lewis</actor>
+      <actor>Carter Hudson</actor>
+      <actor>Damson Idris</actor>
+      <actor>Marcus Henderson</actor>
+      <actor>Michael Hyatt</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_snowfall01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820202800 -0300" stop="20210820211400 -0300" channel="Star Hits 2">
+    <title lang="pt">Snowfall</title>
+    <desc lang="pt">André recebe ajuda de uma fonte inesperada. Franklin descobre que está exposto. Julia força Teddy a tomar uma atitude.(n)</desc>
+    <credits>
+      <director>Alonso Alvarez</director>
+      <actor>Amin Joseph</actor>
+      <actor>Angela Lewis</actor>
+      <actor>Carter Hudson</actor>
+      <actor>Damson Idris</actor>
+      <actor>Marcus Henderson</actor>
+      <actor>Michael Hyatt</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_snowfall01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820211400 -0300" stop="20210820215700 -0300" channel="Star Hits 2">
+    <title lang="pt">Snowfall</title>
+    <desc lang="pt">Franklin lida com as consequências das suas ações enquanto a sua família se prepara para o pior. Teddy se esforça para manter sua operação na ativa.(n)</desc>
+    <credits>
+      <director>Alonso Alvarez</director>
+      <actor>Amin Joseph</actor>
+      <actor>Angela Lewis</actor>
+      <actor>Carter Hudson</actor>
+      <actor>Damson Idris</actor>
+      <actor>Marcus Henderson</actor>
+      <actor>Michael Hyatt</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_snowfall01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820215700 -0300" stop="20210820224000 -0300" channel="Star Hits 2">
+    <title lang="pt">The Walking Dead</title>
+    <desc lang="pt">Membros do grupo buscam suprimentos. Enquanto isso, de volta a Alexandria, alguém precisa tomar uma decisão moralmente desafiadora.(n)</desc>
+    <credits>
+      <director>Greg Nicotero</director>
+      <actor>Andrew Lincoln</actor>
+      <actor>Norman Reedus</actor>
+      <actor>Lauren Cohan</actor>
+      <actor>Lennie James</actor>
+      <actor>Melissa McBride</actor>
+      <actor>Sonequa Martin-Green</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/thewalkingdead01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E12</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820224000 -0300" stop="20210820232700 -0300" channel="Star Hits 2">
+    <title lang="pt">The Walking Dead</title>
+    <desc lang="pt">Os Salvadores visitam Hilltop inesperadamente, surpreendendo a todos, com planos de levar mais do que apenas suprimentos.(n)</desc>
+    <credits>
+      <director>Greg Nicotero</director>
+      <actor>Andrew Lincoln</actor>
+      <actor>Norman Reedus</actor>
+      <actor>Lauren Cohan</actor>
+      <actor>Lennie James</actor>
+      <actor>Melissa McBride</actor>
+      <actor>Sonequa Martin-Green</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/thewalkingdead01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E14</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820232700 -0300" stop="20210821001400 -0300" channel="Star Hits 2">
+    <title lang="pt">The Walking Dead</title>
+    <desc lang="pt">As coisas não saem como planejado quando um grupo de Kingdommers leva produtos aos Salvadores durante uma entrega de rotina.(n)</desc>
+    <credits>
+      <director>Greg Nicotero</director>
+      <actor>Andrew Lincoln</actor>
+      <actor>Norman Reedus</actor>
+      <actor>Lauren Cohan</actor>
+      <actor>Lennie James</actor>
+      <actor>Melissa McBride</actor>
+      <actor>Sonequa Martin-Green</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/thewalkingdead01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E13</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820163000 -0300" stop="20210820171500 -0300" channel="Star Life HD">
+    <title lang="pt">Remedy</title>
+    <desc lang="pt">Sandy se esforça para se despedir de Brian enquanto a sua família reconfigurada se une para apoiá-la.(n)</desc>
+    <credits>
+      <director>Kelly Makin</director>
+      <actor>Dillon Casey</actor>
+      <actor>Enrico Colantoni</actor>
+      <actor>Matt Ward</actor>
+      <actor>Sara Canning</actor>
+      <actor>Sarah Allen</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820171500 -0300" stop="20210820180000 -0300" channel="Star Life HD">
+    <title lang="pt">Private Eyes</title>
+    <desc lang="pt">Shade e Angie se deparam com um corpo de um trabalhador de carnaval e são lançados profundamente neste universo.(n)</desc>
+    <credits>
+      <director>Shelley Eriksen</director>
+      <actor>Barry Flatman</actor>
+      <actor>Cindy Sampson</actor>
+      <actor>Jason Priestley</actor>
+      <actor>Mimi Kuzyk</actor>
+      <actor>David Reale</actor>
+      <actor>Tara Mason</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_privateeyes01.jpg" />
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S4 E12</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820184500 -0300" channel="Star Life HD">
+    <title lang="pt">1 Contra Todos</title>
+    <desc lang="pt">No dia do julgamento, CADU e MALU estão confiantes mas preocupados. O processo começa bem, com testemunho de JONAS assegurando que Cadu é inocente, e de PEPE que assume que a droga era toda dele.(n)</desc>
+    <credits>
+      <director>Breno Silveira</director>
+      <actor>Julio Andrade</actor>
+      <actor>Adriano Garib</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/1contratodos01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820184500 -0300" stop="20210820193000 -0300" channel="Star Life HD">
+    <title lang="pt">New Amsterdam</title>
+    <desc lang="pt">Max luta para voltar ao normal três meses depois do acidente e do nascimento da sua filha. Enquanto isso, Kapoor encara o envelhecimento, e Iggy tem vontade de mudar de vida.(n)</desc>
+    <credits>
+      <director>Peter Horton</director>
+      <actor>Ryan Eggold</actor>
+      <actor>Janet Montgomery</actor>
+      <actor>Freema Agyeman</actor>
+      <actor>Tyler Labine</actor>
+      <actor>Anupam Kher</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820193000 -0300" stop="20210820201500 -0300" channel="Star Life HD">
+    <title lang="pt">Bones</title>
+    <desc lang="pt">Restos mortais severamente danificados são descobertos debaixo de um carrossel - a testa e o topo do crânio estão faltando.(n)</desc>
+    <credits>
+      <director>Michael Lange</director>
+      <actor>David Boreanaz</actor>
+      <actor>Emily Deschanel</actor>
+      <actor>Michaela Conlin</actor>
+      <actor>Tamara Taylor</actor>
+      <actor>T.J. Thyne</actor>
+      <actor>John Boyd</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/bones01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820201500 -0300" stop="20210820210000 -0300" channel="Star Life HD">
+    <title lang="pt">Bones</title>
+    <desc lang="pt">Um corpo é encontrado em um poço urbano e a empresa responsável pelo local, preocupada com a má publicidade, pressiona o Jeffersonian para resolver o caso rapidamente, mas Brennan se recusa a acelerar o processo.(n)</desc>
+    <credits>
+      <director>Chad Lowe</director>
+      <actor>David Boreanaz</actor>
+      <actor>Emily Deschanel</actor>
+      <actor>Michaela Conlin</actor>
+      <actor>Tamara Taylor</actor>
+      <actor>T.J. Thyne</actor>
+      <actor>John Boyd</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/bones01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820210000 -0300" stop="20210820214500 -0300" channel="Star Life HD">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <desc lang="pt">Uma tibetana que foi torturada no seu país é encontrada morta, sem um dos pés. Depois de uma exaustiva investigação de potenciais suspeitos, descobre-se que o assassino é também uma vítima de tortura.(n)</desc>
+    <credits>
+      <director>Steve Shill</director>
+      <actor>Richard Belzer</actor>
+      <actor>Ice-T</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Stephanie March</actor>
+      <actor>B.D. Wong</actor>
+      <actor>Dann Florek</actor>
+      <actor>Fred Weller</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/lawandordersvu01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E16</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820214500 -0300" stop="20210820223000 -0300" channel="Star Life HD">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <desc lang="pt">Os detetives Benson e Stabler são chamados para a cena de um crime: uma jovem mulher vestida de doméstica aparentemente cometeu suicídio. Mas uma série de marcas faz com que os detetives questionem se ela foi estuprada.(n)</desc>
+    <credits>
+      <director>Jean de Segonzac</director>
+      <actor>Richard Belzer</actor>
+      <actor>Ice-T</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Stephanie March</actor>
+      <actor>B.D. Wong</actor>
+      <actor>Dann Florek</actor>
+      <actor>Erik von Detten</actor>
+      <actor>John Bolger</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/lawandordersvu01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E17</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820223000 -0300" stop="20210821000000 -0300" channel="Star Life HD">
+    <title lang="pt">Assassino a Preço Fixo 2: A Ressurreição</title>
+    <desc lang="pt">Vivendo escondido no RJ, Arthur Bishop é descoberto por uma capanga enviada por Riah Crain, que quer que Bishop retorne à vida de assassino para eliminar três pessoas que atrapalham seus negócios.(n)</desc>
+    <credits>
+      <director>Dennis Gansel</director>
+      <actor>Jason Statham</actor>
+      <actor>Jessica Alba</actor>
+      <actor>Tommy Lee Jones</actor>
+      <actor>Michelle Yeoh</actor>
+      <actor>Sam Hazeldine</actor>
+      <actor>John Cenatiempo</actor>
+      <actor>Toby Eddington</actor>
+      <actor>Anteo Quintavalle</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/filme_assassinoaprecofixo2aressurr01_2_2019.jpg" />
+    <country lang="pt">França</country>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
     </rating>
   </programme>
 </tv>
