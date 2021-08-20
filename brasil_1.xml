@@ -48692,4 +48692,653 @@
       <value>12</value>
     </rating>
   </programme>
+  <programme start="20210820093700 -0300" stop="20210820110000 -0300" channel="HBO Signature HD">
+    <title lang="pt">Um Ano do Cão</title>
+    <title lang="en">A Dog Year</title>
+    <desc lang="pt">Jon Katz é um escritor que atravessa a crise existencial dos cinquenta anos e impulsivamente decide adotar um cachorro, um simpático Collie que mudará sua vida e acalmará sua ansiedade.(n)</desc>
+    <credits>
+      <director>George LaVoo</director>
+      <actor>Jeff Bridges</actor>
+      <actor>Lauren Ambrose</actor>
+      <actor>Lois Smith</actor>
+      <actor>Domhnall Gleeson</actor>
+      <actor>Welker White</actor>
+      <actor>Manish Baliga</actor>
+      <actor>Lindsay Brice</actor>
+      <actor>Jan Leslie Harding</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_umanodecao01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820110000 -0300" stop="20210820121500 -0300" channel="HBO Signature HD">
+    <title lang="pt">Westworld</title>
+    <desc lang="pt">Um programador avisa Dr. Robert Ford sobre incidentes de comportamento com algumas máquinas no Westworld..(n)</desc>
+    <credits>
+      <director>Jonathan Nolan</director>
+      <actor>Anthony Hopkins</actor>
+      <actor>Ed Harris</actor>
+      <actor>Evan Rachel Wood</actor>
+      <actor>James Marsden</actor>
+      <actor>Thandie Newton</actor>
+      <actor>Jeffrey Wright</actor>
+      <actor>Rodrigo Santoro</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/westworld01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820121500 -0300" stop="20210820131700 -0300" channel="HBO Signature HD">
+    <title lang="pt">Westworld</title>
+    <desc lang="pt">Novos convidados chegam a Westworld com expectativas e agendas diversas. Bernard e Theresa analisam se as recentes anomalias são contagiosas.(n)</desc>
+    <credits>
+      <director>Richard J. Lewis</director>
+      <actor>Anthony Hopkins</actor>
+      <actor>Ed Harris</actor>
+      <actor>Evan Rachel Wood</actor>
+      <actor>James Marsden</actor>
+      <actor>Thandie Newton</actor>
+      <actor>Jeffrey Wright</actor>
+      <actor>Rodrigo Santoro</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/westworld01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820131700 -0300" stop="20210820141900 -0300" channel="HBO Signature HD">
+    <title lang="pt">Westworld</title>
+    <desc lang="pt">Elsie e Stubbs vão para as montanhas. Teddy, por sua vez, está em busca de um novo vilão e deixa Dolores sozinha em Sweetwater.(n)</desc>
+    <credits>
+      <director>Neil Marshall</director>
+      <actor>Anthony Hopkins</actor>
+      <actor>Ed Harris</actor>
+      <actor>Evan Rachel Wood</actor>
+      <actor>James Marsden</actor>
+      <actor>Thandie Newton</actor>
+      <actor>Jeffrey Wright</actor>
+      <actor>Rodrigo Santoro</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/westworld01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820141900 -0300" stop="20210820152200 -0300" channel="HBO Signature HD">
+    <title lang="pt">Westworld</title>
+    <desc lang="pt">Dolores se junta a William e Logan na caçada. Dr. Ford e Theresa analisam o futuro do parque, e Maeve está intrigado com uma visão recorrente.(n)</desc>
+    <credits>
+      <director>Vincenzo Natali</director>
+      <actor>Anthony Hopkins</actor>
+      <actor>Ed Harris</actor>
+      <actor>Evan Rachel Wood</actor>
+      <actor>James Marsden</actor>
+      <actor>Thandie Newton</actor>
+      <actor>Jeffrey Wright</actor>
+      <actor>Rodrigo Santoro</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/westworld01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820152200 -0300" stop="20210820162200 -0300" channel="HBO Signature HD">
+    <title lang="pt">Westworld</title>
+    <desc lang="pt">Ao chegarem a Pariah, Dolores, William e Logan logo são recrutados para uma missão perigosa.(n)</desc>
+    <credits>
+      <director>Jonny Campbell</director>
+      <actor>Anthony Hopkins</actor>
+      <actor>Ed Harris</actor>
+      <actor>Evan Rachel Wood</actor>
+      <actor>James Marsden</actor>
+      <actor>Thandie Newton</actor>
+      <actor>Jeffrey Wright</actor>
+      <actor>Ingrid Bolsø Berdal</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/westworld01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820162200 -0300" stop="20210820172300 -0300" channel="HBO Signature HD">
+    <title lang="pt">Westworld</title>
+    <desc lang="pt">Lutz está encantado por Maeve, enquanto Elsie descobre novas evidências de uma sabotagem. OHomem de Preto e Teddy enfrentam uma tropa.(n)</desc>
+    <credits>
+      <director>Jonny Campbell</director>
+      <actor>Anthony Hopkins</actor>
+      <actor>Ed Harris</actor>
+      <actor>Evan Rachel Wood</actor>
+      <actor>James Marsden</actor>
+      <actor>Thandie Newton</actor>
+      <actor>Jeffrey Wright</actor>
+      <actor>Ingrid Bolsø Berdal</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/westworld01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820172300 -0300" stop="20210820182300 -0300" channel="HBO Signature HD">
+    <title lang="pt">Westworld</title>
+    <desc lang="pt">Dolores e William viajam por um local perigoso, ao passo que Maeve deu um ultimato. Bernard já pensa em seu próximo passo.(n)</desc>
+    <credits>
+      <director>Jonny Campbell</director>
+      <actor>Anthony Hopkins</actor>
+      <actor>Ed Harris</actor>
+      <actor>Evan Rachel Wood</actor>
+      <actor>James Marsden</actor>
+      <actor>Thandie Newton</actor>
+      <actor>Jeffrey Wright</actor>
+      <actor>Ingrid Bolsø Berdal</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/westworld01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820182300 -0300" stop="20210820192500 -0300" channel="HBO Signature HD">
+    <title lang="pt">Westworld</title>
+    <desc lang="pt">Teddy fica perturbado com lembranças dolorosas, enquanto Maeve quer mudanças. Dolores tem dificuldade em lidar com a realidade, e Bernard recebe ordens para retornar às atividades normais.(n)</desc>
+    <credits>
+      <director>Stephen Williams</director>
+      <actor>Anthony Hopkins</actor>
+      <actor>Ed Harris</actor>
+      <actor>Evan Rachel Wood</actor>
+      <actor>James Marsden</actor>
+      <actor>Thandie Newton</actor>
+      <actor>Jeffrey Wright</actor>
+      <actor>Ingrid Bolsø Berdal</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/westworld01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820192500 -0300" stop="20210820202700 -0300" channel="HBO Signature HD">
+    <title lang="pt">Westworld</title>
+    <desc lang="pt">Dolores e Bernard se reconectam com o passado, enquanto Maeve faz uma proposta ousada a Hector. Teddy tem um preço a pagar se quiser obter respostas.(n)</desc>
+    <credits>
+      <director>Michelle MacLaren</director>
+      <actor>Anthony Hopkins</actor>
+      <actor>Ed Harris</actor>
+      <actor>Evan Rachel Wood</actor>
+      <actor>James Marsden</actor>
+      <actor>Thandie Newton</actor>
+      <actor>Jeffrey Wright</actor>
+      <actor>Ingrid Bolsø Berdal</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/westworld01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820202700 -0300" stop="20210820220500 -0300" channel="HBO Signature HD">
+    <title lang="pt">Westworld</title>
+    <desc lang="pt">Ford revela sua visão para uma nova narrativa. Com o apoio de Bernard, Dolores começa a aceitar sua identidade, enquanto Maeve coloca seu plano em ação.(n)</desc>
+    <credits>
+      <director>Jonathan Nolan</director>
+      <actor>Anthony Hopkins</actor>
+      <actor>Ed Harris</actor>
+      <actor>Evan Rachel Wood</actor>
+      <actor>James Marsden</actor>
+      <actor>Thandie Newton</actor>
+      <actor>Jeffrey Wright</actor>
+      <actor>Ingrid Bolsø Berdal</actor>
+      <actor>Rodrigo santoro</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/westworld01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820220500 -0300" stop="20210820234000 -0300" channel="HBO Signature HD">
+    <title lang="pt">Totem</title>
+    <desc lang="pt">Kellie é um adolescente que cuida de seu pai James e de sua irmã Abby após a morte de sua mãe.(n)</desc>
+    <credits>
+      <director>Marcel Sarmiento</director>
+      <actor>Kerris Dorsey</actor>
+      <actor>Ahna O'Reilly</actor>
+      <actor>James Tupper</actor>
+      <actor>Braeden Lemasters</actor>
+      <actor>Lawrence Pressman</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820234000 -0300" stop="20210821010000 -0300" channel="HBO Signature HD">
+    <title lang="pt">Gary Gulman</title>
+    <desc lang="pt">Em seu primeiro especial de comédia para a HBO, Gary Gulman conta sua história, da infância como um garoto sensível em Massachusetts, aos seus primeiros dias fazendo comédia, até suas cada vez mais preocupantes crises de depressão quando adulto.(n)</desc>
+    <credits>
+      <director>Michael Bonfiglio</director>
+      <actor>Gary Gulman</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821010000 -0300" stop="20210821021000 -0300" channel="HBO Signature HD">
+    <title lang="pt">The White Lotus</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mike White</director>
+      <actor>Jennifer Coolidge</actor>
+      <actor>Amber Abara</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821021000 -0300" stop="20210821035700 -0300" channel="HBO Signature HD">
+    <title lang="pt">537 Votos</title>
+    <title lang="en">537 Votes</title>
+    <desc lang="pt">Documentário que narra as maquinações políticas que levaram ao controverso resultado das eleições presidenciais de 2000, incluindo a caótica recontagem de votos na Flórida.(n)</desc>
+    <credits>
+      <director>Billy Corben</director>
+      <actor>Fernand Amandi</actor>
+      <actor>Ann Louise Bardach</actor>
+      <actor>Mitchell Berger</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821035700 -0300" stop="20210821060000 -0300" channel="HBO Signature HD">
+    <title lang="pt">O Palácio de Joe</title>
+    <title lang="en">Joe's Palace</title>
+    <desc lang="pt">Drama centrado na relação de Elliot com um rico londrino e, ao mesmo tempo, com Joe, o garoto que cuida da mansão de Elliot.(n)</desc>
+    <credits>
+      <director>Stephen Poliakoff</director>
+      <actor>Rebecca Hall</actor>
+      <actor>Kelly Reilly</actor>
+      <actor>Rupert Penry-Jones</actor>
+      <actor>Michael Gambon</actor>
+      <actor>Clive Russell</actor>
+      <actor>Carolyn Pickles</actor>
+      <actor>Michelle MacErlean</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_opalaciodejoe01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821075500 -0300" channel="HBO Signature HD">
+    <title lang="pt">Obama</title>
+    <desc lang="pt">Série documental em três partes que narra a jornada pessoal e política do ex-presidente dos EUA, Barack Obama.(n)</desc>
+    <credits>
+      <director>Peter W. Kunhardt</director>
+      <actor>David Axelrod</actor>
+      <actor>Ta-Nehisi Coates</actor>
+      <actor>Jelani Cobb</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821075500 -0300" stop="20210821091700 -0300" channel="HBO Signature HD">
+    <title lang="pt">Wild Card: A Queda de um Falastrão do Rádio</title>
+    <title lang="en">Wild Card: The Downfall Of A Radio Loudmouth</title>
+    <desc lang="pt">Documentário original da HBO que mostra a ascensão e queda de Craig Carton, proeminente personalidade do rádio esportivo de Nova York.(n)</desc>
+    <credits>
+      <director>Martin Dunn</director>
+      <director>Marie McGovern</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821091700 -0300" stop="20210821110000 -0300" channel="HBO Signature HD">
+    <title lang="pt">Bully. Covarde. Vítima. A História de Roy Cohn</title>
+    <title lang="en">Bully. Coward. Victim. The Story Of Roy Cohn Project</title>
+    <desc lang="pt">Ivy Meeropol dirige este documentário sobre Roy Cohn, o advogado que ajudou a mandar seus avós, Julius e Ethel Rosenberg, para a cadeira elétrica.(n)</desc>
+    <credits>
+      <director>Ivy Meeropol</director>
+      <actor>Cindy Adams</actor>
+      <actor>Roy M. Cohn</actor>
+      <actor>Tony Kushner</actor>
+      <actor>Nathan Lane</actor>
+      <actor>John Waters</actor>
+      <actor>Michael Meeropol</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821110000 -0300" stop="20210821121300 -0300" channel="HBO Signature HD">
+    <title lang="pt">Westworld</title>
+    <desc lang="pt">O espetáculo de marionetes terminou. Sejam bem-vindos ao parque Westworld.(n)</desc>
+    <credits>
+      <director>Richard J. Lewis</director>
+      <actor>Tessa Thompson</actor>
+      <actor>Evan Rachel Wood</actor>
+      <actor>Luke Hemsworth</actor>
+      <actor>Jimmi Simpson</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/westworld01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821121300 -0300" stop="20210821131400 -0300" channel="HBO Signature HD">
+    <title lang="pt">Westworld</title>
+    <desc lang="pt">Que tal começarmos pelo início?(n)</desc>
+    <credits>
+      <director>Vincenzo Natali</director>
+      <actor>Tessa Thompson</actor>
+      <actor>Evan Rachel Wood</actor>
+      <actor>Luke Hemsworth</actor>
+      <actor>Jimmi Simpson</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/westworld01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821131400 -0300" stop="20210821141600 -0300" channel="HBO Signature HD">
+    <title lang="pt">Westworld</title>
+    <desc lang="pt">Há beleza em quem somos. Nós não deveríamos, também, tentar sobreviver?(n)</desc>
+    <credits>
+      <director>Richard J. Lewis</director>
+      <actor>Tessa Thompson</actor>
+      <actor>Evan Rachel Wood</actor>
+      <actor>Luke Hemsworth</actor>
+      <actor>Jimmi Simpson</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/westworld01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821141600 -0300" stop="20210821153000 -0300" channel="HBO Signature HD">
+    <title lang="pt">Westworld</title>
+    <desc lang="pt">É isto agora? Se você está olhando para frente, está olhando na direção errada.(n)</desc>
+    <credits>
+      <director>Lisa Joy</director>
+      <actor>Tessa Thompson</actor>
+      <actor>Evan Rachel Wood</actor>
+      <actor>Luke Hemsworth</actor>
+      <actor>Jimmi Simpson</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/westworld01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821153000 -0300" stop="20210821163200 -0300" channel="HBO Signature HD">
+    <title lang="pt">Westworld</title>
+    <desc lang="pt">Seja bem-vindo ao Shogun World.(n)</desc>
+    <credits>
+      <director>Craig Zobel</director>
+      <actor>Tessa Thompson</actor>
+      <actor>Evan Rachel Wood</actor>
+      <actor>Luke Hemsworth</actor>
+      <actor>Jimmi Simpson</actor>
+      <actor>Thandie Newton</actor>
+      <actor>Rodrigo Santoro</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/westworld01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821163200 -0300" stop="20210821173300 -0300" channel="HBO Signature HD">
+    <title lang="pt">Westworld</title>
+    <desc lang="pt">Cada um merece decidir o próprio destino.(n)</desc>
+    <credits>
+      <director>Tarik Saleh</director>
+      <actor>Tessa Thompson</actor>
+      <actor>Evan Rachel Wood</actor>
+      <actor>Luke Hemsworth</actor>
+      <actor>Jimmi Simpson</actor>
+      <actor>James Marsden</actor>
+      <actor>Ronnie Gene Blevins</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/westworld01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821173300 -0300" stop="20210821183500 -0300" channel="HBO Signature HD">
+    <title lang="pt">Westworld</title>
+    <desc lang="pt">Quando você está perdido no escuro por tempo suficiente, você começa a ver.(n)</desc>
+    <credits>
+      <director>Nicole Kassell</director>
+      <actor>Tessa Thompson</actor>
+      <actor>Evan Rachel Wood</actor>
+      <actor>Luke Hemsworth</actor>
+      <actor>Jimmi Simpson</actor>
+      <actor>James Marsden</actor>
+      <actor>Ronnie Gene Blevins</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/westworld01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821183500 -0300" stop="20210821193700 -0300" channel="HBO Signature HD">
+    <title lang="pt">Westworld</title>
+    <desc lang="pt">Leve meu coração quando se for.(n)</desc>
+    <credits>
+      <director>Uta Briesewitz</director>
+      <actor>Tessa Thompson</actor>
+      <actor>Evan Rachel Wood</actor>
+      <actor>Luke Hemsworth</actor>
+      <actor>Jimmi Simpson</actor>
+      <actor>James Marsden</actor>
+      <actor>Ronnie Gene Blevins</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/westworld01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821193700 -0300" stop="20210821203900 -0300" channel="HBO Signature HD">
+    <title lang="pt">Westworld</title>
+    <desc lang="pt">Tento esquecer, mas me lembro de tudo.(n)</desc>
+    <credits>
+      <director>Stephen Williams</director>
+      <actor>Tessa Thompson</actor>
+      <actor>Evan Rachel Wood</actor>
+      <actor>Luke Hemsworth</actor>
+      <actor>Jimmi Simpson</actor>
+      <actor>James Marsden</actor>
+      <actor>Ronnie Gene Blevins</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/westworld01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821203900 -0300" stop="20210821221200 -0300" channel="HBO Signature HD">
+    <title lang="pt">Westworld</title>
+    <desc lang="pt">Você existe somente enquanto vive o último que se lembra.(n)</desc>
+    <credits>
+      <director>Frederick E.O. Toye</director>
+      <actor>Tessa Thompson</actor>
+      <actor>Evan Rachel Wood</actor>
+      <actor>Luke Hemsworth</actor>
+      <actor>Jimmi Simpson</actor>
+      <actor>James Marsden</actor>
+      <actor>Ronnie Gene Blevins</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/westworld01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821221200 -0300" stop="20210821230700 -0300" channel="HBO Signature HD">
+    <title lang="pt">Hierro</title>
+    <desc lang="pt">A investigação traz à tona alguns pontos sombrios da vida de Fran: ele teve contatos perigosos na Holanda e manteve uma amante.(n)</desc>
+    <credits>
+      <director>Jorge Coira</director>
+      <actor>Candela Pena</actor>
+      <actor>Darío Grandinetti</actor>
+      <actor>Matias Varela</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">Espanha</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821230700 -0300" stop="20210822001700 -0300" channel="HBO Signature HD">
+    <title lang="pt">The White Lotus</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Mike White</director>
+      <actor>Jennifer Coolidge</actor>
+      <actor>Amber Abara</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
 </tv>
