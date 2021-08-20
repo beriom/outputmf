@@ -73091,4 +73091,418 @@
       <value>L</value>
     </rating>
   </programme>
+  <programme start="20210820093000 -0300" stop="20210820110000 -0300" channel="SBT SP HD">
+    <title lang="pt">Vem Pra Cá</title>
+    <desc lang="pt">O programa reúne tudo que o telespectador precisa saber pra começar bem o seu dia.(n)</desc>
+    <credits>
+      <director>Marcelo Kestenbaum</director>
+      <actor>Patricia Abravanel</actor>
+      <actor>Gabriel Cartolano</actor>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820110000 -0300" stop="20210820151500 -0300" channel="SBT SP HD">
+    <title lang="pt">Bom Dia &amp; Cia</title>
+    <desc lang="pt">De segunda a sexta, as manhãs do SBT ficam muito mais divertidas com o Bom Dia &amp; Cia, um programa que traz os melhores desenhos da televisão brasileira e muitas brincadeiras com o telespectador.(n)</desc>
+    <credits>
+      <director>Silvia Abravanel</director>
+      <actor>Ana Julia</actor>
+      <actor>Matheus Ueta</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Programa</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/bomdiaecia01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820151500 -0300" stop="20210820163000 -0300" channel="SBT SP HD">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt">Em um formato remodelado, o Fofocalizando chega às suas tardes com informação e as principais fofocas do mundo dos famosos.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820163000 -0300" stop="20210820173000 -0300" channel="SBT SP HD">
+    <title lang="pt">Casos de Família</title>
+    <desc lang="pt">Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos.(n)</desc>
+    <credits>
+      <director>Rafael Bello</director>
+      <director>Melissa Ribeiro</director>
+      <director>Raul Garin</director>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Debate</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_casosdefamilia01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820173000 -0300" stop="20210820183000 -0300" channel="SBT SP HD">
+    <title lang="pt">Coração Indomável</title>
+    <title lang="en">Corazón Indomable</title>
+    <desc lang="pt">Doris diz a Mariana, que está com ciúmes de Maria Alessandra. Otávio e Miguel brigam por causa da bebedeira de Miguel.(n)</desc>
+    <credits>
+      <director>Nathalie Lartilleux</director>
+      <actor>Ana Brenda Contreras</actor>
+      <actor>Daniel Arenas</actor>
+      <actor>Elizabeth Álvarez</actor>
+      <actor>René Strickler</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/coracaoindomavel01.jpg" />
+    <country lang="pt">México</country>
+    <episode-num system="onscreen">S1 E64</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820183000 -0300" stop="20210820194500 -0300" channel="SBT SP HD">
+    <title lang="pt">Amores Verdadeiros</title>
+    <desc lang="pt">Roy diz a Liliana que não vai descansar até conseguir que ela se apaixone por ele. Nikki confessa a Gusmão que ficou muito emocionada ao conhecer sua meia-irmã.(n)</desc>
+    <credits>
+      <actor>Vitória Balvanera</actor>
+      <actor>José Ângelo Arriaga</actor>
+      <actor>Nikki Brizza</actor>
+      <actor>Francisco Gusmão</actor>
+      <actor>Kendra Ferreti</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820194500 -0300" stop="20210820203000 -0300" channel="SBT SP HD">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo são apresentados aos telespectadores com independência, análise, opinião e isenção, num formato de linguagem visual diferenciada.(n)</desc>
+    <credits>
+      <director>Marcelo Parada</director>
+      <actor>Rachel Sheherazade</actor>
+      <actor>Joseval Peixoto</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/sbtbrasil01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820203000 -0300" stop="20210820210000 -0300" channel="SBT SP HD">
+    <title lang="pt">Roda a Roda Jequiti</title>
+    <desc lang="pt">Já imaginou ganhar prêmios e até 1 milhão de reais? Isso é realidade para quem compra ou vende produtos Jequiti. Comandado por Silvio Santos o Roda a Roda Jequiti pode realizar seu sonho.(n)</desc>
+    <credits>
+      <director>Silvia Abravanel</director>
+      <actor>Patrícia Abravanel</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_rodaarodajequiti01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820210000 -0300" stop="20210820221500 -0300" channel="SBT SP HD">
+    <title lang="pt">Chiquititas</title>
+    <desc lang="pt">Carol fala com Junior sobre os CupCakes enviados para as chiquititas. Junior diz para Armando que a próxima vez que ele tomar uma decisão sem consultá-lo será mandado embora.(n)</desc>
+    <credits>
+      <actor>Giovanna Grigio</actor>
+      <actor>Julia Oliver</actor>
+      <actor>Raissa Chaddad</actor>
+      <actor>Cinthia Cruz</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/chiquititas01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820221500 -0300" stop="20210820231500 -0300" channel="SBT SP HD">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.(n)</desc>
+    <credits>
+      <director>Walter Scaramuzzi</director>
+      <director>Lucimara Parisi</director>
+      <actor>Valentina</actor>
+      <actor>Milene Pavorô Uehara</actor>
+      <actor>Eduardo Mascarenhas</actor>
+      <actor>Marquito</actor>
+      <actor>Faxinildo</actor>
+      <actor>Rodela</actor>
+      <actor>Iran Thieme</actor>
+      <actor>Rhenata Tolksdorf</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ratinho01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820231500 -0300" stop="20210821010000 -0300" channel="SBT SP HD">
+    <title lang="pt">Tela de Sucessos: Os Fantasmas Trapalhões</title>
+    <title lang="en">Os Fantasmas Trapalhões</title>
+    <desc lang="pt">Os trapalhões socorrem um velho que, antes de morrer, revela o esconderijo de uma fortuna. Com a ajuda de um delegado, o grupo vai em busca do dinheiro escondido num castelo assombrado.(n)</desc>
+    <credits>
+      <director>J.B.Tanko</director>
+      <actor>Renato Aragão</actor>
+      <actor>Carla Daniel</actor>
+      <actor>Claudioney Penido</actor>
+      <actor>Mussum</actor>
+      <actor>Dedé Santana</actor>
+      <actor>Bia Seidl</actor>
+      <actor>Zacarias</actor>
+      <actor>Gugu Liberato.Paulo Porto</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/filme_teladesucessossammyag01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821010000 -0300" stop="20210821014500 -0300" channel="SBT SP HD">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt">O programa traz muitos entrevistados interessantes e alto índice de piadas por minuto, abordando os fatos mais e menos relevantes do dia.(n)</desc>
+    <credits>
+      <director>João Mesquita</director>
+      <actor>Léo Lins</actor>
+      <actor>Murilo Couto</actor>
+      <actor>Juliana Oliveira</actor>
+      <actor>Ultraje a Rigor</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/thenoite01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821014500 -0300" stop="20210821023000 -0300" channel="SBT SP HD">
+    <title lang="pt">Operação Mesquita</title>
+    <desc lang="pt">Operação Mesquita se propõe a descobrir o lado B dos famosos. E também de anônimos. O grande diferencial da atração é a ausência de estúdio: todo o programa é feito sobre rodas; os passantes fazem às vezes de auditório.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_operacaomesquita01_2_2019.jpg" />
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821023000 -0300" stop="20210821031500 -0300" channel="SBT SP HD">
+    <title lang="pt">Conexão Repórter</title>
+    <desc lang="pt">Roberto Cabrini comanda o Conexão Repórter. Com reportagens investigativas, denúncias, e com muita seriedade, ele mostra a realidade no Brasil e no Mundo.(n)</desc>
+    <credits>
+      <director>Roberto Cabrini</director>
+      <director>Marcelo Parada</director>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/conexaoreporter01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821031500 -0300" stop="20210821040000 -0300" channel="SBT SP HD">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo são apresentados aos telespectadores com independência, análise, opinião e isenção, num formato de linguagem visual diferenciada.(n)</desc>
+    <credits>
+      <director>Marcelo Parada</director>
+      <actor>Rachel Sheherazade</actor>
+      <actor>Joseval Peixoto</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/sbtbrasil01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821040000 -0300" stop="20210821060000 -0300" channel="SBT SP HD">
+    <title lang="pt">Big Bang, A Teoria</title>
+    <title lang="en">The Big Bang Theory</title>
+    <desc lang="pt">Leonard e Sheldon são dois brilhantes físicos que dividem o mesmo apartamento. Suas vidas se complicam quando uma belíssima jovem, porém pouco inteligente, se muda para o apartamento ao lado.(n)</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Treisa Gary</actor>
+      <actor>Allen Nabors</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/thebigbangtheory01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821120000 -0300" channel="SBT SP HD">
+    <title lang="pt">Sábado Animado</title>
+    <desc lang="pt">Seu fim de semana começa com muito mais alegria no Sábado Animado. Os desenhos que fazem sucesso entre a garotada de todas as idades estão reunidos aqui. Você vai se divertir pra valer!(n)</desc>
+    <credits>
+      <director>Silvia Abravanel</director>
+      <actor>Matheus Ueta</actor>
+      <actor>Ana Vitória Zimmermann</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/infant_sabadoanimado01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821120000 -0300" stop="20210821141500 -0300" channel="SBT SP HD">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Quando criança, Raymond Manchester ativou em si mesmo, acidentalmente, uma invenção científica de seu pai, sendo assim transformado em um super-humano indestrutível.(n)</desc>
+    <credits>
+      <director>Steve Hoefer</director>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Jed Alexander</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Jace Norman</actor>
+      <actor>William Romeo</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/henrydanger01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821141500 -0300" stop="20210821174500 -0300" channel="SBT SP HD">
+    <title lang="pt">Programa Raul Gil</title>
+    <title lang="en">Programa do Raul Gil</title>
+    <desc lang="pt">Raul Gil entra em milhares de lares brasileiros. Ele é o comandante de um programa de televisão familiar, direcionado para todas as classes sociais e idades.(n)</desc>
+    <credits>
+      <director>Raul Gil Jr.</director>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/raulgil01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821174500 -0300" stop="20210821184500 -0300" channel="SBT SP HD">
+    <title lang="pt">Lassie</title>
+    <desc lang="pt">Lassie, uma simpática e inteligente cachorra da raça Collie, é responsabilidade do pequeno Will, mas ela é igualmente amada por todos da família Mccullough.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821184500 -0300" stop="20210821194500 -0300" channel="SBT SP HD">
+    <title lang="pt">Rin-Tin-Tin</title>
+    <title lang="en">The Adventures of Rin Tin Tin</title>
+    <desc lang="pt">O pequeno Rusty fica órfão após um ataque de indiígenas à caravana de seus pais e, por isso acaba sendo acolhido pelos soldados de um posto de cavalaria dos EUA, conhecido como forte apache!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821194500 -0300" stop="20210821203000 -0300" channel="SBT SP HD">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo são apresentados aos telespectadores com independência, análise, opinião e isenção, num formato de linguagem visual diferenciada.(n)</desc>
+    <credits>
+      <director>Marcelo Parada</director>
+      <actor>Rachel Sheherazade</actor>
+      <actor>Joseval Peixoto</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/sbtbrasil01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821203000 -0300" stop="20210821213000 -0300" channel="SBT SP HD">
+    <title lang="pt">Chiquititas</title>
+    <desc lang="pt">Samuca estranha o comportamento de Vivi, que evita prolongar a conversa como garoto. Ela acha que assim Samuca deixará de gostar dela.(n)</desc>
+    <credits>
+      <actor>Giovanna Grigio</actor>
+      <actor>Julia Oliver</actor>
+      <actor>Raissa Chaddad</actor>
+      <actor>Cinthia Cruz</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/chiquititas01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821213000 -0300" stop="20210821223000 -0300" channel="SBT SP HD">
+    <title lang="pt">Te Devo Essa - Brasil</title>
+    <desc lang="pt">A cada episódio uma celebridade terá a oportunidade de expressar a sua profunda gratidão às pessoas que tiveram um grande impacto em suas vidas, surpreendendo-as com grandes e emocionantes reformas em suas casas.(n)</desc>
+    <credits>
+      <actor>Dony De Nuccio</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821223000 -0300" stop="20210822001500 -0300" channel="SBT SP HD">
+    <title lang="pt">Bake Off Brasil - Mão na Massa</title>
+    <desc lang="pt">Com o objetivo encontrar e coroar o melhor confeiteiro amador do país, a atração reúne 12 talentosos participantes que enfrentarão vários desafios, entre eles: preparação de bolos, pães, tortas e doces de todos os tipos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/bakeoffbrasil01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
 </tv>
