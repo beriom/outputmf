@@ -82326,4 +82326,820 @@
       <value>16</value>
     </rating>
   </programme>
+  <programme start="20210820091300 -0300" stop="20210820100100 -0300" channel="TLC HD">
+    <title lang="pt">Bem-vindo à Família Plath</title>
+    <title lang="en">Welcome To Plathville</title>
+    <desc lang="pt">Lydia se abre com Kim sobre seu "crush" secreto. Ethan voa para Los Angeles para se encontrar com Olivia e tirar férias longe da Geórgia. Lydia fica surpresa quando se junta à Moriah para uma noite de diversão.(n)</desc>
+    <credits>
+      <director>Frank Sinton</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820100100 -0300" stop="20210820104900 -0300" channel="TLC HD">
+    <title lang="pt">Os Pequenos Johnstons</title>
+    <title lang="en">7 Little Johnstons</title>
+    <desc lang="pt">Depois de um dia jogando disc golf no parque, os Johnstons se inspiram pra construir um pavilhão no quintal. Trent assume o projeto, mas percebe que pode ser demais pra ele. A família testa Anna como professora substituta.(n)</desc>
+    <credits>
+      <actor>Alex Johnston</actor>
+      <actor>Amber Johnston</actor>
+      <actor>Anna Johnston</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E7</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820104900 -0300" stop="20210820113700 -0300" channel="TLC HD">
+    <title lang="pt">Quebrando Barreiras com a Família Klein</title>
+    <title lang="en">The Little Couple</title>
+    <desc lang="pt">Jen enfrenta a rotina familiar enquanto se recupera a cirurgia. Bill e Will se preparam para ir a uma partida de futebol importante com seu filho. Jen e Zoey passam o dia num spa.(n)</desc>
+    <credits>
+      <director>Nancy Mackenzie</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820113700 -0300" stop="20210820122800 -0300" channel="TLC HD">
+    <title lang="pt">Quebrando Barreiras com a Família Klein</title>
+    <title lang="en">The Little Couple</title>
+    <desc lang="pt">A família Klein se prepara para comemorar dois aniversários: os nove anos de Will e também sua adoção. A família inicia as celebrações em um navio pirata de verdade.(n)</desc>
+    <credits>
+      <director>Nancy Mackenzie</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820122800 -0300" stop="20210820125400 -0300" channel="TLC HD">
+    <title lang="pt">A Médium</title>
+    <title lang="en">Long Island Medium</title>
+    <desc lang="pt">Neste episódio incomum, Theresa limpa casas assombradas por espíritos. Primeiro, a médium visita uma casa cujo proprietário é atormentado pelo fantasma do dono anterior.(n)</desc>
+    <credits>
+      <director>Keith Koslov</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/medium01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E24</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820125400 -0300" stop="20210820143600 -0300" channel="TLC HD">
+    <title lang="pt">90 Dias Para Casar</title>
+    <title lang="en">90 Day Fiance</title>
+    <desc lang="pt">Jorge se encontra com advogados especializados em divórcio. Chantel questiona os motivos de Pedro mandar dinheiro à família. Pao recebe uma má notícia da Colômbia. David e Annie enfrentam dificuldades para pagar as contas.(n)</desc>
+    <credits>
+      <director>Su Hong</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820143600 -0300" stop="20210820152700 -0300" channel="TLC HD">
+    <title lang="pt">4 Mulheres e 1 Marido</title>
+    <title lang="en">Sister Wives</title>
+    <desc lang="pt">Kody e as esposas têm dificuldade de se adaptar à pandemia. Robyn se preocupa com a saúde dos filhos e Janelle pede para Kody ficar longe. Kody ensina as crianças a economizarem papel higiênico.(n)</desc>
+    <credits>
+      <director>Tim Gibbons</director>
+      <actor>Kody Brown</actor>
+      <actor>Meri Brown</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820152700 -0300" stop="20210820161800 -0300" channel="TLC HD">
+    <title lang="pt">4 Mulheres e 1 Marido</title>
+    <title lang="en">Sister Wives</title>
+    <desc lang="pt">Utah descriminalizou a poligamia e Christine pensa em voltar para lá. Os casos de coronavírus aumentam e o Arizona entra em lockdown. Janelle pede para Kody deixar de ir lá, e a família tem dificuldade pra lidar com tudo.(n)</desc>
+    <credits>
+      <director>Tim Gibbons</director>
+      <actor>Kody Brown</actor>
+      <actor>Meri Brown</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820161800 -0300" stop="20210820180000 -0300" channel="TLC HD">
+    <title lang="pt">De Volta ao Mundo Amish</title>
+    <title lang="en">Return To Amish</title>
+    <desc lang="pt">O elenco retorna com novos objetivos e dilemas. Sabrina trava uma nova batalha pela guarda de Oakley. Jeremiah e Carmela querem construir uma casa nova na Flórida. O pai de Mary falece.(n)</desc>
+    <credits>
+      <actor>Jeremiah Raber</actor>
+      <actor>Rebecca</actor>
+      <actor>Sabrina</actor>
+      <actor>Abe Schmucker</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820182600 -0300" channel="TLC HD">
+    <title lang="pt">Tempero na Mochila</title>
+    <desc lang="pt">Na tradicional São João Del Rey, o jovem chef Felipe Oliveira é o guia de Pedro em um tour cheio de sabor, histórias e muita identidade.(n)</desc>
+    <credits>
+      <actor>Pedro Benoliel</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_temperonamochila01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820182600 -0300" stop="20210820185100 -0300" channel="TLC HD">
+    <title lang="pt">Tempero na Mochila</title>
+    <desc lang="pt">Pedro faz escala em Ouro Preto para descobrir a tradição gastronômica da cidade Patrimônio Cultural da Humanidade e, nessa missão, tem a ajuda da cozinheira Renata Queiroz.(n)</desc>
+    <credits>
+      <actor>Pedro Benoliel</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_temperonamochila01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820185100 -0300" stop="20210820194100 -0300" channel="TLC HD">
+    <title lang="pt">David Tutera Faz a Festa</title>
+    <title lang="en">David Tutera's Celebrations</title>
+    <desc lang="pt">A atriz Wendy Raquel Robinson contrata David para organizar uma festa beneficente para a escola de teatro infantil que fundou. David precisa lidar com a controladora Wendy para que as crianças tenham o evento que merecem.(n)</desc>
+    <credits>
+      <director>Craig Piligian</director>
+      <actor>Montré Burton</actor>
+      <actor>Slomique Hawrylo</actor>
+      <actor>David Tutera</actor>
+      <actor>Porsha Williams</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820194100 -0300" stop="20210820203100 -0300" channel="TLC HD">
+    <title lang="pt">David Tutera Faz a Festa</title>
+    <title lang="en">David Tutera's Celebrations</title>
+    <desc lang="pt">Kim Kimble, a cabeleireira das celebridades, contrata David Tutera para organizar um desfile de perucas. Quando ela viaja até a véspera do evento, David precisa tomar decisões sem sua aprovação.(n)</desc>
+    <credits>
+      <director>Craig Piligian</director>
+      <actor>Montré Burton</actor>
+      <actor>Slomique Hawrylo</actor>
+      <actor>David Tutera</actor>
+      <actor>Porsha Williams</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820203100 -0300" stop="20210820212100 -0300" channel="TLC HD">
+    <title lang="pt">Bem-vindo à Família Plath</title>
+    <title lang="en">Welcome To Plathville</title>
+    <desc lang="pt">Ethan e Olivia continuam sua aventura pela Califórnia e curtem uma experiência tântrica inesperada. Kim, Barry, Micah, Moriah e os filhos mais novos se reúnem para lembrar o saudoso Joshua.(n)</desc>
+    <credits>
+      <director>Frank Sinton</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820212100 -0300" stop="20210820221100 -0300" channel="TLC HD">
+    <title lang="pt">Os Pequenos Johnstons</title>
+    <title lang="en">7 Little Johnstons</title>
+    <desc lang="pt">A família compete no 'Boliche de Peru' anual no Ação de Graças, e esse ano é importante, pois Jonah e Liz levaram seus namorados pra apresentar ao resto da família. Trent e Amber dão um ultimado a Jonah.(n)</desc>
+    <credits>
+      <director>Matt Hightower</director>
+      <actor>Alex Johnston</actor>
+      <actor>Amber Johnston</actor>
+      <actor>Anna Johnston</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E8</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820221100 -0300" stop="20210820230100 -0300" channel="TLC HD">
+    <title lang="pt">Quebrando Barreiras com a Família Klein</title>
+    <title lang="en">The Little Couple</title>
+    <desc lang="pt">Bill e as crianças ajudam a organizar uma festa surpresa no aniversário de Jen. Eles preparam presentes caseiros enquanto Jen e seus pais visitam a casa de sua infância.(n)</desc>
+    <credits>
+      <director>Nancy Mackenzie</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820230100 -0300" stop="20210820235300 -0300" channel="TLC HD">
+    <title lang="pt">Quebrando Barreiras com a Família Klein</title>
+    <title lang="en">The Little Couple</title>
+    <desc lang="pt">Bill e Jen levam as crianças ao festival Holi, uma celebração hindu da primavera, onde brincam com pistolas de água e pós multicoloridos. Na casa de Pop-Pop, a família testa o barco de Bill Sr.(n)</desc>
+    <credits>
+      <director>Nancy Mackenzie</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820235300 -0300" stop="20210821004500 -0300" channel="TLC HD">
+    <title lang="pt">A Médium</title>
+    <title lang="en">Long Island Medium</title>
+    <desc lang="pt">Um grupo de mulheres recebe a visita de uma grande amiga que faleceu. Os pais de Theresa ajudam a trazer paz para seus amigos que sofrem. Uma mulher se surpreende durante uma leitura.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/medium01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S9 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821004500 -0300" stop="20210821013400 -0300" channel="TLC HD">
+    <title lang="pt">A Médium</title>
+    <title lang="en">Long Island Medium</title>
+    <desc lang="pt">Theresa faz 50 anos e se inscreve em um torneio de levantamento de peso. Uma mulher que alega que seu irmão foi assassinado pelo jogador de futebol Aaron Hernandez visita Long Island. O casamento de Theresa entra em crise.(n)</desc>
+    <credits>
+      <actor>Theresa Caputo</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/medium01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S8 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821013400 -0300" stop="20210821022300 -0300" channel="TLC HD">
+    <title lang="pt">Minha Vida de Gigante</title>
+    <title lang="en">My Giant Life: 04</title>
+    <desc lang="pt">Lindsay se submete a uma cirurgia plástica para remover a papada. Haleigh e Bryan enfrentam problemas financeiros. Coco jurou que não iria mais namorar, mas conhece um homem intrigante.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821022300 -0300" stop="20210821031100 -0300" channel="TLC HD">
+    <title lang="pt">Bem-vindo à Família Plath</title>
+    <title lang="en">Welcome To Plathville</title>
+    <desc lang="pt">Ethan e Olivia continuam sua aventura pela Califórnia e curtem uma experiência tântrica inesperada. Kim, Barry, Micah, Moriah e os filhos mais novos se reúnem para lembrar o saudoso Joshua.(n)</desc>
+    <credits>
+      <director>Frank Sinton</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821031100 -0300" stop="20210821035900 -0300" channel="TLC HD">
+    <title lang="pt">Os Pequenos Johnstons</title>
+    <title lang="en">7 Little Johnstons</title>
+    <desc lang="pt">A família compete no 'Boliche de Peru' anual no Ação de Graças, e esse ano é importante, pois Jonah e Liz levaram seus namorados pra apresentar ao resto da família. Trent e Amber dão um ultimado a Jonah.(n)</desc>
+    <credits>
+      <director>Matt Hightower</director>
+      <actor>Alex Johnston</actor>
+      <actor>Amber Johnston</actor>
+      <actor>Anna Johnston</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E8</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821035900 -0300" stop="20210821044700 -0300" channel="TLC HD">
+    <title lang="pt">Quebrando Barreiras com a Família Klein</title>
+    <title lang="en">The Little Couple</title>
+    <desc lang="pt">Bill e as crianças ajudam a organizar uma festa surpresa no aniversário de Jen. Eles preparam presentes caseiros enquanto Jen e seus pais visitam a casa de sua infância.(n)</desc>
+    <credits>
+      <director>Nancy Mackenzie</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821044700 -0300" stop="20210821053500 -0300" channel="TLC HD">
+    <title lang="pt">Quebrando Barreiras com a Família Klein</title>
+    <title lang="en">The Little Couple</title>
+    <desc lang="pt">Bill e Jen levam as crianças ao festival Holi, uma celebração hindu da primavera, onde brincam com pistolas de água e pós multicoloridos. Na casa de Pop-Pop, a família testa o barco de Bill Sr.(n)</desc>
+    <credits>
+      <director>Nancy Mackenzie</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821053500 -0300" stop="20210821060000 -0300" channel="TLC HD">
+    <title lang="pt">Chegou Honey Boo Boo!</title>
+    <title lang="en">Here Comes Honey Boo Boo</title>
+    <desc lang="pt">As meninas desperdiçam os feriados na cama, e Sugar Bear decide que elas precisam de contato com a natureza. Será que elas vão sentir falta de alguns confortos?(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/chegouhoneybooboobrilho01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821062500 -0300" channel="TLC HD">
+    <title lang="pt">A Médium</title>
+    <title lang="en">Long Island Medium</title>
+    <desc lang="pt">Theresa deixa a mediunidade de lado quando assume a tarefa de apresentar sua prima a um homem. Uma mulher em um grupo de leitura fica chocada quando ouve um espírito inesperado.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/medium01.jpg" />
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821062500 -0300" stop="20210821071300 -0300" channel="TLC HD">
+    <title lang="pt">A Vida de Jazz</title>
+    <title lang="en">I Am Jazz</title>
+    <desc lang="pt">Jazz está disposta a expandir seu círculo social e começar a namorar, mas esconde um segredo da família que pode voltar para assombrá-la. O furacão Irma chega à Flórida e ameaça a segurança da família Jennings.(n)</desc>
+    <credits>
+      <actor>Jazz Jennings</actor>
+      <actor>Jeanette Jennings</actor>
+      <actor>Greg Jennings</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_avidadejazz01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821071300 -0300" stop="20210821080100 -0300" channel="TLC HD">
+    <title lang="pt">A Vida de Jazz</title>
+    <title lang="en">I Am Jazz</title>
+    <desc lang="pt">Jazz e Jeanette voltam para casa depois da devastação do Furacão Irma. Jazz e seus pais dirigem até The Keys para ajudar na limpeza. Em São Francisco, a Dra. Bowers dá uma notícia inesperada a Jazz.(n)</desc>
+    <credits>
+      <actor>Jazz Jennings</actor>
+      <actor>Jeanette Jennings</actor>
+      <actor>Greg Jennings</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_avidadejazz01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E2</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821080100 -0300" stop="20210821084900 -0300" channel="TLC HD">
+    <title lang="pt">Chantel e Pedro em Família</title>
+    <title lang="en">Family Chantel</title>
+    <desc lang="pt">O irmão mais velho de Chantel volta para Atlanta com a noiva estrangeira. A família a recebe de braços abertos, mas a pressa do casal desperta suspeitas em Chantel. Ela passeia com a cunhada para saber mais.(n)</desc>
+    <credits>
+      <actor>Chantel</actor>
+      <actor>Pedro</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821084900 -0300" stop="20210821093700 -0300" channel="TLC HD">
+    <title lang="pt">Chantel e Pedro em Família</title>
+    <title lang="en">Family Chantel</title>
+    <desc lang="pt">As suspeitas de Chantel sobre o relacionamento de Royal com Angenette aumentam após falar com Winter e River. Pedro planeja uma viagem a Nova York, e Chantel recebe notícias sobre a formatura.(n)</desc>
+    <credits>
+      <actor>Chantel</actor>
+      <actor>Pedro</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821093700 -0300" stop="20210821102500 -0300" channel="TLC HD">
+    <title lang="pt">4 Mulheres e 1 Marido</title>
+    <title lang="en">Sister Wives</title>
+    <desc lang="pt">Os Brown visitam amigos polígamos para conversar sobre a possibilidade de a poligamia ser descriminalizada em Utah. A viagem é uma bagunça, mas uma vez lá, todos ficam animados. Será que a família vai voltar a Utah?(n)</desc>
+    <credits>
+      <director>Tim Gibbons</director>
+      <actor>Kody Brown</actor>
+      <actor>Meri Brown</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821102500 -0300" stop="20210821111300 -0300" channel="TLC HD">
+    <title lang="pt">4 Mulheres e 1 Marido</title>
+    <title lang="en">Sister Wives</title>
+    <desc lang="pt">Mariah e Audrey estão na cidade e compartilham uma notícia emocionante com a família. Robyn tenta ajudar Kody a fazer as pazes com Meri depois da briga deles, mas Kody não parece interessado em resolver as coisas.(n)</desc>
+    <credits>
+      <director>Tim Gibbons</director>
+      <actor>Kody Brown</actor>
+      <actor>Meri Brown</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821111300 -0300" stop="20210821120100 -0300" channel="TLC HD">
+    <title lang="pt">Jill e Jessa</title>
+    <title lang="en">Jill &amp; Jessa</title>
+    <desc lang="pt">Joy procura vestidos para as madrinhas e experimenta os bolos do casamento com Austin. Joe e Kendra andam de patins durante um encontro. Os Vuolos fazem uma aula de culinária em Laredo.(n)</desc>
+    <credits>
+      <director>Scott Enlow</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821120100 -0300" stop="20210821125400 -0300" channel="TLC HD">
+    <title lang="pt">Jill e Jessa</title>
+    <title lang="en">Jill &amp; Jessa</title>
+    <desc lang="pt">Joy viaja para Kentucky para encontrar o vestido de casamento perfeito, mas o excesso de opções dificulta a escolha. Austin e Joe passam um tempo com os futuros sogros. Israel comemora seu segundo aniversário.(n)</desc>
+    <credits>
+      <director>Scott Enlow</director>
+      <actor>Derick Dillard</actor>
+      <actor>Jill Duggar Dillard</actor>
+      <actor>Jana Duggar</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821125400 -0300" stop="20210821134500 -0300" channel="TLC HD">
+    <title lang="pt">Kate + 8</title>
+    <desc lang="pt">O verão está chegando ao fim e a família se prepara para a volta às aulas. Kate leva as crianças ao shopping e todas trabalham juntas em mais um projeto de verão.(n)</desc>
+    <credits>
+      <director>Scott Enlow</director>
+      <actor>Kate Gosselin</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/kate801.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E6</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821134500 -0300" stop="20210821143600 -0300" channel="TLC HD">
+    <title lang="pt">Kate + 8</title>
+    <desc lang="pt">Deana marca um encontro às cegas para Kate em Nova York. O encontro inclui um maravilhoso jantar e até um passeio de helicóptero. Enquanto isso, Mady e Cara ajudam a manter as crianças ocupadas.(n)</desc>
+    <credits>
+      <director>Scott Enlow</director>
+      <actor>Kate Gosselin</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/kate801.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821143600 -0300" stop="20210821152700 -0300" channel="TLC HD">
+    <title lang="pt">Bem-vindo à Família Plath</title>
+    <title lang="en">Welcome To Plathville</title>
+    <desc lang="pt">Para evitar mais conflitos, Kim permite que Moriah viaje para São Francisco com Olivia. Moriah logo percebe como a nova cidade é bem diferente da Geórgia. Na ausência de Olivia, Ethan usa a imaginação.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821152700 -0300" stop="20210821161800 -0300" channel="TLC HD">
+    <title lang="pt">A Pequena Grande Família</title>
+    <title lang="en">Little People, Big World</title>
+    <desc lang="pt">O Dia dos Namorados se aproxima, mas o caminho tem mais problemas do que romance. Quando o resfriado de Lilah vira uma coisa séria, o maior medo de Tori se concretiza. Chris pressiona Amy a sair da fazenda.(n)</desc>
+    <credits>
+      <director>Lenka Stastna</director>
+      <actor>Amy Roloff</actor>
+      <actor>Jacob Roloff</actor>
+      <actor>Jeremy Roloff</actor>
+      <actor>Matthew Roloff</actor>
+      <actor>Molly Roloff</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S14</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821161800 -0300" stop="20210821170900 -0300" channel="TLC HD">
+    <title lang="pt">A Pequena Grande Família</title>
+    <title lang="en">Little People, Big World</title>
+    <desc lang="pt">A frustração de Matt aumenta quando Amy adia sua saída da fazenda. A covid-19 chega e para tudo. As famílias se adaptam à nova rotina e Zach e Jackson comemoram seus aniversários em quarentena.(n)</desc>
+    <credits>
+      <director>Lenka Stastna</director>
+      <actor>Amy Roloff</actor>
+      <actor>Jacob Roloff</actor>
+      <actor>Jeremy Roloff</actor>
+      <actor>Matthew Roloff</actor>
+      <actor>Molly Roloff</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S14 E21</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821170900 -0300" stop="20210821180000 -0300" channel="TLC HD">
+    <title lang="pt">Os Pequenos Johnstons</title>
+    <title lang="en">7 Little Johnstons</title>
+    <desc lang="pt">Depois de um dia jogando disc golf no parque, os Johnstons se inspiram pra construir um pavilhão no quintal. Trent assume o projeto, mas percebe que pode ser demais pra ele. A família testa Anna como professora substituta.(n)</desc>
+    <credits>
+      <actor>Alex Johnston</actor>
+      <actor>Amber Johnston</actor>
+      <actor>Anna Johnston</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E7</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821180000 -0300" stop="20210821185100 -0300" channel="TLC HD">
+    <title lang="pt">Os Pequenos Johnstons</title>
+    <title lang="en">7 Little Johnstons</title>
+    <desc lang="pt">A família compete no 'Boliche de Peru' anual no Ação de Graças, e esse ano é importante, pois Jonah e Liz levaram seus namorados pra apresentar ao resto da família. Trent e Amber dão um ultimado a Jonah.(n)</desc>
+    <credits>
+      <director>Matt Hightower</director>
+      <actor>Alex Johnston</actor>
+      <actor>Amber Johnston</actor>
+      <actor>Anna Johnston</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E8</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821185100 -0300" stop="20210821194100 -0300" channel="TLC HD">
+    <title lang="pt">Amor Fora Das Grades</title>
+    <title lang="en">Life After Lockup</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821194100 -0300" stop="20210821203100 -0300" channel="TLC HD">
+    <title lang="pt">Amor Fora Das Grades</title>
+    <title lang="en">Life After Lockup</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Lee Phillips</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821203100 -0300" stop="20210821212100 -0300" channel="TLC HD">
+    <title lang="pt">Avós de Primeira Viagem</title>
+    <title lang="en">Unexpected</title>
+    <desc lang="pt">No hospital, as contrações de Myrka aumentam. A mãe de Jenna faz escândalo no chá de bebê. Kim incentiva Lilly a não cometer o mesmo erro duas vezes.(n)</desc>
+    <credits>
+      <director>Diana Giggans-Hill</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821212100 -0300" stop="20210821214600 -0300" channel="TLC HD">
+    <title lang="pt">Cupom Mania</title>
+    <desc lang="pt">Explore o mundo dos reis da pechincha, que dominam a arte de economizar usando cupons de desconto. Conheça pessoas comuns que economizam centenas de dólares em uma única negociação.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821214600 -0300" stop="20210821221100 -0300" channel="TLC HD">
+    <title lang="pt">Cupom Mania</title>
+    <desc lang="pt">Explore o mundo dos reis da pechincha, que dominam a arte de economizar usando cupons de desconto. Conheça pessoas comuns que economizam centenas de dólares em uma única negociação.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821221100 -0300" stop="20210821223600 -0300" channel="TLC HD">
+    <title lang="pt">Cupom Mania</title>
+    <desc lang="pt">Explore o mundo dos reis da pechincha, que dominam a arte de economizar usando cupons de desconto. Conheça pessoas comuns que economizam centenas de dólares em uma única negociação.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <episode-num system="onscreen">S2 E11</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821223600 -0300" stop="20210821230100 -0300" channel="TLC HD">
+    <title lang="pt">Cupom Mania</title>
+    <desc lang="pt">Missy dedica 40 horas da semana a juntar cupons. Ela já acumulou o equivalente a 100 mil dólares e agora planeja trocar por 700 escovas de dente e outros suprimentos para doar a um centro de apoio a mães adolescentes.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821230100 -0300" stop="20210821232700 -0300" channel="TLC HD">
+    <title lang="pt">Muquiranas</title>
+    <title lang="en">Extreme Cheapskates</title>
+    <desc lang="pt">Apesar de estar grávida de 8 meses, Angel frequenta ferros-velhos locais regularmente com seu marido Orlando. Mark mora em Las Vegas e não gasta um centavo de seu salário.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/muquiranas01.jpg" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821232700 -0300" stop="20210821235300 -0300" channel="TLC HD">
+    <title lang="pt">Muquiranas</title>
+    <title lang="en">Extreme Cheapskates</title>
+    <desc lang="pt">Jordan gasta apenas 1.400 dólares por mês com sua família de cinco pessoas racionando tudo e pedindo sobras aos vizinhos. Já Michael reutiliza a água em que toma banho para lavar louça.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/muquiranas01.jpg" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821235300 -0300" stop="20210822001900 -0300" channel="TLC HD">
+    <title lang="pt">Muquiranas</title>
+    <title lang="en">Extreme Cheapskates</title>
+    <desc lang="pt">Shelley economiza dinheiro em Mesa, no Arizona, há mais de 20 anos. Mas seu maior desafio será fazer uma festa de casamento para sua filha Ashley com um orçamento de mil dólares.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/muquiranas01.jpg" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
 </tv>
