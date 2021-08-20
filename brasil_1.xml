@@ -396,6 +396,7 @@
   </channel>
   <channel id="Nickelodeon HD">
     <display-name lang="pt">Nickelodeon HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/nickelodeon.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="OFF HD">
@@ -52253,6 +52254,1335 @@
     <episode-num system="onscreen">S7 E3</episode-num>
     <rating system="BR">
       <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820140000 -0300" stop="20210820150000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Club 57</title>
+    <desc lang="pt">Viajar no tempo é uma aventura impossível, exceto para Eva. Seu avô, um famoso matemático, cria uma máquina do tempo, e por acaso Eva viaja no tempo sem saber que vai encontrar seu primeiro amor em 1957.(n)</desc>
+    <credits>
+      <director>Otto Rodriguez</director>
+      <director>Gustavo Cotta</director>
+      <actor>Vieira</actor>
+      <actor>Jessica; Vilaverde</actor>
+      <actor>Fabricio; Pereira</actor>
+      <actor>Gustavo; Guioli</actor>
+      <actor>Aline; Viotti</actor>
+      <actor>Luisa; Ribeiro</actor>
+      <actor>Renan; Carvalho</actor>
+      <actor>Teline; Monteiro</actor>
+      <actor>Dado; Brigido</actor>
+      <actor>Amanda; Lorrai</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Estados Unidos</country>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820150000 -0300" stop="20210820153000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Nick Master Game</title>
+    <desc lang="pt">O reality show consiste uma série de 10 episódios, filmados em um cenário simulando um laboratório de slime da Nick. No cenário estarão dispostos diversos ingredientes para os competidores usarem em suas slimes.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820153000 -0300" stop="20210820160000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Nick Master Game</title>
+    <desc lang="pt">O reality show consiste uma série de 10 episódios, filmados em um cenário simulando um laboratório de slime da Nick. No cenário estarão dispostos diversos ingredientes para os competidores usarem em suas slimes.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820160000 -0300" stop="20210820163000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <desc lang="pt">Pérola é convidada para ir a uma festa, mas Seu Siriguejo não deixa, pois tem um jogo de baralho na mesma noite e não pode ficar preocupado com ela. Seu Siriguejo chama Lula Molusco para cuidar da filha.(n)</desc>
+    <credits>
+      <actor>Vozes de Tom Kenny</actor>
+      <actor>Bill Fagerbakke</actor>
+      <actor>Clancy Brown</actor>
+      <actor>Rodger Bumpass</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Mary Jo Catlett</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/bobesponja01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E33</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820163000 -0300" stop="20210820170000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Os Casagrandes</title>
+    <desc lang="pt">Uma mágica hipnotiza o Bobby para que ele pense que é um gato. A Ronnie Anne e os seus amigos solucionam um mistério da cidade: o que aconteceu com o carrinho de cachorro-quente do Bruno?(n)</desc>
+    <credits>
+      <director>Miguel Puga</director>
+      <actor>Vozes de Carlos Alazraqui</actor>
+      <actor>Izabella Alvarez</actor>
+      <actor>Alex Cazares</actor>
+      <actor>Carlos PenaVega</actor>
+      <actor>Sonia Manzano</actor>
+      <actor>Ruben Garfias</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820170000 -0300" stop="20210820173000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Os Casagrandes</title>
+    <desc lang="pt">O amor do Carl por brinquedos o deixa preso em uma carreira turbulenta de avaliador de brinquedos. A arte da Frida recebe uma crítica ruim.(n)</desc>
+    <credits>
+      <director>Miguel Puga</director>
+      <actor>Vozes de Carlos Alazraqui</actor>
+      <actor>Izabella Alvarez</actor>
+      <actor>Alex Cazares</actor>
+      <actor>Carlos PenaVega</actor>
+      <actor>Sonia Manzano</actor>
+      <actor>Ruben Garfias</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820173000 -0300" stop="20210820180000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Árvore dos Araújos</title>
+    <desc lang="pt">Vó Odete toma uma grande susto ao ver a espantalha Geraldina na frente da fazenda Araújo. Nara acha que a espantalha está enfeitiçada e que para quebrar o feitiço, precisam casá-la com o espantalho Godofredo.(n)</desc>
+    <credits>
+      <director>Alfredo Alves</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820183000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Os Under Undergrounds</title>
+    <desc lang="pt">Galileo Fígaro conta para Heitor que encontrou uma passagem de volta para a Terra. Galileo e Heitor vão em busca dessa passagem enquanto o resto da banda vai a uma entrevista de rádio.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/underundergrounds01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820183000 -0300" stop="20210820190000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <desc lang="pt">Plankton tenta roubar o hambúrguer de siri de Patrick, mas Patrick senta em cima dele. Patrick escuta a voz de Plankton e Bob Esponja diz que é a consciência. Os clientes do Seu Sirigueijo gostam de ver Bob Esponja preparar o hamburguer de siri.(n)</desc>
+    <credits>
+      <actor>Vozes de Tom Kenny</actor>
+      <actor>Bill Fagerbakke</actor>
+      <actor>Clancy Brown</actor>
+      <actor>Rodger Bumpass</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Mary Jo Catlett</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/bobesponja01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E34</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820193000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">The Loud House</title>
+    <desc lang="pt">Os McBride contratam a Luna para cuidar das gatas - mas o trabalho é mais difícil do que ela pensava.(n)</desc>
+    <credits>
+      <director>Jessica Borutski</director>
+      <director>Kyle Marshall</director>
+      <actor>Vozes de Collin Dean</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Jessica DiCicco</actor>
+      <actor>Brian Stepanek</actor>
+      <actor>Jill Talley</actor>
+      <actor>Nika Futterman</actor>
+      <actor>Liliana Mumy</actor>
+      <actor>Tex Hammond</actor>
+      <actor>Catherine Taber</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/theloudhouse01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E17</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820193000 -0300" stop="20210820200000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Nickelodeon - Além Do Filtro</title>
+    <desc lang="pt">Houston, nós temos uma bola espacial. O apresentador Jay Pharoah chega com duas celebridades misteriosas escondidas por trás do filtro 3D animado.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Game Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820203000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Kid Danger e seus amigos tentam descobrir uma forma de trazer o Capitão Man do passado, enquanto Drex põe em ação seu plano para apagar as memórias que a população de Swellview tem do Capitão Man.(n)</desc>
+    <credits>
+      <director>Steve Hoefer</director>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Michael D. Cohen</actor>
+      <actor>Paula Jay Fairbrother</actor>
+      <actor>Jace Norman</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/henrydanger01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E39</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820203000 -0300" stop="20210820210000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Kid Danger e Capitão Man enfrentam Drex em um dirigível para impedir que ele apague as memórias que Swellview tem do Capitão Man.(n)</desc>
+    <credits>
+      <director>Steve Hoefer</director>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Michael D. Cohen</actor>
+      <actor>Paula Jay Fairbrother</actor>
+      <actor>Jace Norman</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/henrydanger01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820210000 -0300" stop="20210820213000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Força Danger</title>
+    <desc lang="pt">Capitão Man tem uma nova equipe de ajudantes de super-herói, a Força Danger.(n)</desc>
+    <credits>
+      <director>Mike Caro</director>
+      <actor>Cooper Barnes</actor>
+      <actor>Havan Flores</actor>
+      <actor>Terrence Little Gardenhigh</actor>
+      <actor>Dana Heath</actor>
+      <actor>Luca Luhan</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820213000 -0300" stop="20210820220000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Depois que Jasper é elogiado por ser um super-herói local, Henry fica com ciúmes que Kid Danger foi quem recebeu agradecimentos enquanto ele mesmo não recebeu nada.(n)</desc>
+    <credits>
+      <director>Adam Weissman</director>
+      <actor>Vozes de Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Jace Norman</actor>
+      <actor>Angelica Salek</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/henrydanger01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820223000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Quando Capitão Man é preso por cometer uma infração, ele é obrigado a passar o Natal na prisão. Henry e Charlotte precisam tentar ajudar o Capitão Man e ter um bom Natal na prisão.(n)</desc>
+    <credits>
+      <director>Steve Hoefer</director>
+      <actor>Vozes de Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Jace Norman</actor>
+      <actor>Jason Sims-Prewitt</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/henrydanger01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820223000 -0300" stop="20210820230000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Quando Kid Danger quase se fere gravemente em uma missão, Henry decide passar pelo Densificador e se tornar indestrutível como o Capitão Man. Mas as coisas não saem bem como o Henry gostaria.(n)</desc>
+    <credits>
+      <director>Nathan Kress</director>
+      <actor>Vozes de Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Jace Norman</actor>
+      <actor>Angelica Salek</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/henrydanger01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210820233000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Schwoz inventa um aspirador para ajudar Henry a limpar sua casa, mas ele acidentalmente suga a Charlotte para dentro. Quando a família de Henry ouve a Charlotte eles pensam o aspirador é assombrado.(n)</desc>
+    <credits>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Michael D. Cohen</actor>
+      <actor>Paula Jay Fairbrother</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/henrydanger01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E15</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820233000 -0300" stop="20210821000000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Michael D. Cohen</actor>
+      <actor>Paula Jay Fairbrother</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/henrydanger01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E17</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821000000 -0300" stop="20210821003000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Os Thundermans</title>
+    <desc lang="pt">Depois de alterar as notas em seu boletim escolar e ter sido aceito em uma classe avançada, Max compete contra Phoebe na Gincana de Matemática. Enquanto isso, Hank, Nora e Billy tentam pegar o ladrão de jornal.(n)</desc>
+    <credits>
+      <director>Victor Gonzalez</director>
+      <actor>Rosa Blasi</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Kira Kosarin</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Dana Snyder</actor>
+      <actor>Chris Tallman</actor>
+      <actor>Diego Velazquez</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/thethundermans01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821003000 -0300" stop="20210821010000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Os Thundermans</title>
+    <desc lang="pt">Depois de alterar as notas em seu boletim escolar e ter sido aceito em uma classe avançada, Max compete contra Phoebe na Gincana de Matemática. Enquanto isso, Hank, Nora e Billy tentam pegar o ladrão de jornal.(n)</desc>
+    <credits>
+      <actor>Rosa Blasi</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Kira Kosarin</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Dana Snyder</actor>
+      <actor>Chris Tallman</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/thethundermans01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821010000 -0300" stop="20210821013000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Game Shakers</title>
+    <desc lang="pt">Os Game Shakers precisam descobrir como dar a notícia ao Dub de que eles quebraram sua nova e caríssima televisão.(n)</desc>
+    <credits>
+      <director>Steve Hoefer</director>
+      <actor>Thomas Kuc</actor>
+      <actor>Cree Cicchino</actor>
+      <actor>Madisyn Shipman</actor>
+      <actor>Benjamin Flores Jr.</actor>
+      <actor>Bubba Ganter</actor>
+      <actor>Kel Mitchell</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/gameshakers01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E14</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821013000 -0300" stop="20210821020000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Game Shakers</title>
+    <desc lang="pt">Depois que Dob vai para Vegas e deixa Trip para trás, os Game Shakers levam Trip para o incrível apartamento de Dub para que ele possa se divertir.(n)</desc>
+    <credits>
+      <actor>Thomas Kuc</actor>
+      <actor>Cree Cicchino</actor>
+      <actor>Madisyn Shipman</actor>
+      <actor>Benjamin Flores Jr.</actor>
+      <actor>Bubba Ganter</actor>
+      <actor>Kel Mitchell</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/gameshakers01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E15</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821020000 -0300" stop="20210821023000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Game Shakers</title>
+    <desc lang="pt">Dub recomenda que Kenzie vá um excêntrico cirurgião plastico de animais para consertar as narinas do gato dela. Enquanto isso, Trip tenta fazer Hudson entrar para uma Boy Band.(n)</desc>
+    <credits>
+      <actor>Thomas Kuc</actor>
+      <actor>Cree Cicchino</actor>
+      <actor>Madisyn Shipman</actor>
+      <actor>Benjamin Flores Jr.</actor>
+      <actor>Bubba Ganter</actor>
+      <actor>Kel Mitchell</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/gameshakers01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E16</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821023000 -0300" stop="20210821030000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">iCarly</title>
+    <desc lang="pt">Carly Shay, que mora em Seattle, nos Estados Unidos, decide criar um site com seus melhores amigos Sam, Freddie. A ideia é que sejam enviados vídeos de pessoas de todo o mundo.(n)</desc>
+    <credits>
+      <actor>Miranda Cosgrove</actor>
+      <actor>Nathan Kress</actor>
+      <actor>Jerry Trainor</actor>
+      <actor>Jennette McCurdy</actor>
+      <actor>Noah Munck</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/icarly01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E22</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821030000 -0300" stop="20210821033000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">iCarly</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <actor>Miranda Cosgrove</actor>
+      <actor>Nathan Kress</actor>
+      <actor>Jerry Trainor</actor>
+      <actor>Jennette McCurdy</actor>
+      <actor>Noah Munck</actor>
+      <actor>Joseph Buttler</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/icarly01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E25</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821033000 -0300" stop="20210821040000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">iCarly</title>
+    <desc lang="pt">Quando Freddie salva a vida de Carly, ela se apaixona por ele. Enquanto isso, Sam e Spencer competem entre si num jogo de paintball chamado Assassin.(n)</desc>
+    <credits>
+      <director>Larry LaFond</director>
+      <actor>Miranda Cosgrove</actor>
+      <actor>Nathan Kress</actor>
+      <actor>Jerry Trainor</actor>
+      <actor>Jennette McCurdy</actor>
+      <actor>Joseph Buttler</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/icarly01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E32</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821040000 -0300" stop="20210821043000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Nicky, Ricky, Dicky e Dawn</title>
+    <desc lang="pt">Dawn planeja se vingar de Nicky, Ricky e Dicky por lerem seu diário, mas isso faz com ninguém mais confie em ninguém e a brincadeira passe dos limites.(n)</desc>
+    <credits>
+      <director>Robbie Countryman</director>
+      <director>Marian Deaton</director>
+      <actor>Lizzy Greene</actor>
+      <actor>Casey Simpson</actor>
+      <actor>Mace Coronel</actor>
+      <actor>Aidan Gallagher</actor>
+      <actor>Allison Munn</actor>
+      <actor>Brian Stepanek</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/nickyricky01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E25</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821043000 -0300" stop="20210821050000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Nicky, Ricky, Dicky e Dawn</title>
+    <desc lang="pt">Os quadrigêmeos ficam empolgados quando o astro de filmes de ação, JT Steele, passa uns dias na casa da família Harper para treinar para um papel. Mas eles têm uma difícil missão: esconder a visita do ator de seus amigos da escola.(n)</desc>
+    <credits>
+      <director>Jody Margolin Hahn</director>
+      <actor>Lizzy Greene</actor>
+      <actor>Casey Simpson</actor>
+      <actor>Mace Coronel</actor>
+      <actor>Aidan Gallagher</actor>
+      <actor>Allison Munn</actor>
+      <actor>Brian Stepanek</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/nickyricky01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E26</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821050000 -0300" stop="20210821053000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Escola de Rock</title>
+    <desc lang="pt">Tomika e Freddy discutem para ver qual de seus super-heróis de quadrinhos favoritos é o melhor. A discussão acaba crescendo tanto que evolui para uma guerra de comida no pátio na hora do almoço.(n)</desc>
+    <credits>
+      <director>Trevor Kirschner</director>
+      <actor>Breanna Yde</actor>
+      <actor>Ricardo Hurtado</actor>
+      <actor>Jade Pettyjohn</actor>
+      <actor>Lance Lim</actor>
+      <actor>Aidan Miner</actor>
+      <actor>Tony Cavalero</actor>
+      <actor>Lucas Adams</actor>
+      <actor>Genneya Walton</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/schoolofrock01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821053000 -0300" stop="20210821060000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Escola de Rock</title>
+    <desc lang="pt">Uma resenha online da banda que chama Tomika de "líder" instiga uma competição entre as crianças pelo destaque do grupo.(n)</desc>
+    <credits>
+      <director>Victor Gonzalez</director>
+      <actor>Breanna Yde</actor>
+      <actor>Ricardo Hurtado</actor>
+      <actor>Jade Pettyjohn</actor>
+      <actor>Lance Lim</actor>
+      <actor>Aidan Miner</actor>
+      <actor>Tony Cavalero</actor>
+      <actor>Lucas Adams</actor>
+      <actor>Genneya Walton</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/schoolofrock01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821063000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Patrulha Canina</title>
+    <desc lang="pt">A Patrulha Canina vai para a floresta para ajudar seu amigo Carlos a encontrar o papagaio dele, Mateo! O Ryder e a Patrulha Canina precisam ajudar o Capitão Rodovalho a mover uma colmeia da baía até a fazenda do Al.(n)</desc>
+    <credits>
+      <actor>Vozes de Alex Thorne</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Christian Distefano</actor>
+      <actor>Max Calinescu</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Berkley Silverman</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/patrulhacanina01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821063000 -0300" stop="20210821070000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Patrulha Canina</title>
+    <desc lang="pt">Quando os filhotes e o Capitão Rodovalho vão acampar sob a Lua Sereia Mágica, coisas mágicas começam a acontecer. Atraídos pela mística canção da filhote sereia, a Patrulha Canina se transfora e filhotes sereias também!(n)</desc>
+    <credits>
+      <actor>Vozes de Alex Thorne</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Christian Distefano</actor>
+      <actor>Max Calinescu</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Berkley Silverman</actor>
+      <actor>Drew Davis</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/patrulhacanina01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821070000 -0300" stop="20210821073000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Pistas de Blue &amp; Você</title>
+    <desc lang="pt">As tortas do Sr. Sal estão desaparecendo. Puxa Vida! Para onde as tortas foram? Neste episódio misterioso, nós seremos detetives e vamos brincar de Pistas de Blue para achar as tortas sumidas.(n)</desc>
+    <credits>
+      <director>Vadim Kapridov</director>
+      <director>M.R. Horhage</director>
+      <actor>Adamason</actor>
+      <actor>Brad Rosseau</actor>
+      <actor>Gisele Mpumlwana</actor>
+      <actor>Shechinah Canatelli</actor>
+      <actor>Jaiden Murray</actor>
+      <actor>Doug Tavares</actor>
+      <actor>Charlotte Ho</actor>
+      <actor>Ian Potts</actor>
+      <actor>Annie Kapridov</actor>
+      <actor>Vadim Horhager</actor>
+      <actor>M.R. Santomero</actor>
+      <actor>Angela C. Johnson</actor>
+      <actor>Traci Paige Mendonça</actor>
+      <actor>Nando Ribeiro</actor>
+      <actor>Marco Souto</actor>
+      <actor>Clécio Texeita</actor>
+      <actor>João</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821073000 -0300" stop="20210821080000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Santiago Dos Mares</title>
+    <desc lang="pt">Santiago e sua mãe se unem para derrotar um velho inimigo e recuperar um antigo tesouro de família. Enrique rouba um ovo dourado de Dragão Marinho.(n)</desc>
+    <credits>
+      <actor>Vozes de Dave Droxler</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821080000 -0300" stop="20210821083000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Baby Shark, O Grande Show!</title>
+    <desc lang="pt">A família Tubarão se divide para procurar o lendário tesouro da ta-ta-ta-taravó do Bebê Tubarão. / O Bebê Tubarão convence o papai a dizer "sim" para tudo por um dia. Qual é o pior que pode acontecer?(n)</desc>
+    <credits>
+      <director>Danielle Luzzi</director>
+      <director>Michelle Glen</director>
+      <actor>Glenn</actor>
+      <actor>Kimiko Youngblood</actor>
+      <actor>Luke Rothwell</actor>
+      <actor>Natasha Wilson</actor>
+      <actor>Debra Edelstein</actor>
+      <actor>Eric Warburton</actor>
+      <actor>Patrick Doodles</actor>
+      <actor>Gary Sica</actor>
+      <actor>Tommy Beaudry</actor>
+      <actor>Max Riley Brown</actor>
+      <actor>Josh Pare</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country lang="pt">Estados Unidos</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821083000 -0300" stop="20210821090000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Patrulha Canina</title>
+    <desc lang="pt">Os filhotes estão viajando para a savana quando encontram uma bebê elefanta perdida, a Gilda. A Patrulha Canina precisa ajudar a reunir a família dela!(n)</desc>
+    <credits>
+      <actor>Vozes de Alex Thorne</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Christian Distefano</actor>
+      <actor>Max Calinescu</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Berkley Silverman</actor>
+      <actor>Drew Davis</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/patrulhacanina01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E14</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821090000 -0300" stop="20210821093000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">A Fazenda do Zenon</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Roberto Pumar</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821093000 -0300" stop="20210821100000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">É O Pônei</title>
+    <desc lang="pt">O plano de Annie e Pony de ensinar uma galinha a ser mais confiante vai por água abaixo quando ela começa a aterrorizar a cidade. Annie e Pony tentam ajudar Gerry a passar no teste para se tornar um guia do museu.(n)</desc>
+    <credits>
+      <director>Ant Blades</director>
+      <actor>Vozes de Jessica DiCicco</actor>
+      <actor>Josh Zuckerman</actor>
+      <actor>Abraham Benrubi</actor>
+      <actor>Josh Keaton</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821100000 -0300" stop="20210821103000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Os Casagrandes</title>
+    <desc lang="pt">Uma mágica hipnotiza o Bobby para que ele pense que é um gato. A Ronnie Anne e os seus amigos solucionam um mistério da cidade: o que aconteceu com o carrinho de cachorro-quente do Bruno?(n)</desc>
+    <credits>
+      <director>Miguel Puga</director>
+      <actor>Vozes de Carlos Alazraqui</actor>
+      <actor>Izabella Alvarez</actor>
+      <actor>Alex Cazares</actor>
+      <actor>Carlos PenaVega</actor>
+      <actor>Sonia Manzano</actor>
+      <actor>Ruben Garfias</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821103000 -0300" stop="20210821110000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">É O Pônei</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Ant Blades</director>
+      <actor>Vozes de Jessica DiCicco</actor>
+      <actor>Josh Zuckerman</actor>
+      <actor>Abraham Benrubi</actor>
+      <actor>Josh Keaton</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821110000 -0300" stop="20210821113000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Depois de agir de forma muito confidante após uma luta, Kid Danger e Capitão Man foram envenenados com Gás paralisante os tornando totalmente indefesos para lutar contra um novo vilão que vinha roubando todas as toalhas das rendondezas.(n)</desc>
+    <credits>
+      <director>Steve Hoefer</director>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Jace Norman</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Michael D. Cohen</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/henrydanger01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821113000 -0300" stop="20210821120000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">The Loud House</title>
+    <desc lang="pt">Depois de se sentir excluída quando as suas amigas começam a namorar, a Lynn busca um namorado só para se enturmar. O Clyde recruta o Lincoln e os amigos para descobrir se a menina de quem ele gosta sente o mesmo por ele.(n)</desc>
+    <credits>
+      <director>Jessica Borutsky</director>
+      <director>Kyle Marshal</director>
+      <actor>Vozes de Collin Dean</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Jessica DiCicco</actor>
+      <actor>Brian Stepanek</actor>
+      <actor>Jill Talley</actor>
+      <actor>Nika Futterman</actor>
+      <actor>Liliana Mumy</actor>
+      <actor>Tex Hammond</actor>
+      <actor>Catherine Taber</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/theloudhouse01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E18</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821120000 -0300" stop="20210821123000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">The Loud House</title>
+    <desc lang="pt">Leni e os amigos começam a passar mais tempo na lanchonete do Gus e os amigos dele começam a brigar pelo controle do lugar. / Lucy fica com ciúmes da Lola quando ela se junta ao Clube Funerário.(n)</desc>
+    <credits>
+      <actor>Vozes de Collin Dean</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Jessica DiCicco</actor>
+      <actor>Brian Stepanek</actor>
+      <actor>Jill Talley</actor>
+      <actor>Nika Futterman</actor>
+      <actor>Liliana Mumy</actor>
+      <actor>Tex Hammond</actor>
+      <actor>Catherine Taber</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/theloudhouse01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E16</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821123000 -0300" stop="20210821130000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Os Undergrounds</title>
+    <desc lang="pt">Os Under-Undergrounds lançam seu primeiro álbum e estão no auge do sucesso, mas oUnderground é invadido por agentes humanos. Enquanto isso, Fígaro busca a verdade sobre aProfecia.(n)</desc>
+    <credits>
+      <director>Botter Junior</director>
+      <director>Nelson</director>
+      <actor>Vozes de Arthur Berges</actor>
+      <actor>Bruna Guerin</actor>
+      <actor>Robson Kumode</actor>
+      <actor>Fábio Lucindo</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E25</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821130000 -0300" stop="20210821133000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Michael D. Cohen</actor>
+      <actor>Jace Norman</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/henrydanger01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E2</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821133000 -0300" stop="20210821140000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Capitão Man e Kid Danger ficam chateados quando uma nova dupla que combate o crime surge na cidade. No entanto, eles descobrem que os novos heróis são seus maiores fãs. Após um incidente desafortunado, os Joiamigos querem se vingar de nossos heróis.(n)</desc>
+    <credits>
+      <director>Mike Caron</director>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Jace Norman</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Raven Bowens</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/henrydanger01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821140000 -0300" stop="20210821143000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Allison Scagliotti</director>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Michael D. Cohen</actor>
+      <actor>Paula Jay Fairbrother</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/henrydanger01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E4</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821143000 -0300" stop="20210821150000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Capitão e Kid são convidados por um astro da internet para ir à sua festa, quando chegam,a festa não é o que parecia ser. Frankini conta seu plano de desmascarar Kid e Capitão. Charlotte, Schwoz, Jasper e Piper precisam impedir.(n)</desc>
+    <credits>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/henrydanger01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E5</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821150000 -0300" stop="20210821153000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Adam Weissman</director>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Michael D. Cohen</actor>
+      <actor>Paula Jay Fairbrother</actor>
+      <actor>Jace Norman</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/henrydanger01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E6</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821153000 -0300" stop="20210821160000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Os Thundermans</title>
+    <desc lang="pt">Hank e Barb vão sair para jantar e pedem para Max e Phoebe cuidarem dos irmãos Billy e Nora. Phoebe acaba convidando uma amiga, Cherry, para ir à casa dela, e a garota quase descobre os superpoderes deles.(n)</desc>
+    <credits>
+      <director>Jed Spingarn</director>
+      <actor>Rosa Blasi</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Kira Kosarin</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Dana Snyder</actor>
+      <actor>Chris Tallman</actor>
+      <actor>Audrey Whitby</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/thethundermans01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821160000 -0300" stop="20210821163000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Os Thundermans</title>
+    <desc lang="pt">Depois de alterar as notas em seu boletim escolar e ter sido aceito em uma classe avançada, Max compete contra Phoebe na Gincana de Matemática. Enquanto isso, Hank, Nora e Billy tentam pegar o ladrão de jornal.(n)</desc>
+    <credits>
+      <director>Victor Gonzalez</director>
+      <actor>Rosa Blasi</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Kira Kosarin</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Dana Snyder</actor>
+      <actor>Chris Tallman</actor>
+      <actor>Diego Velazquez</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/thethundermans01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821163000 -0300" stop="20210821170000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Os Thundermans</title>
+    <desc lang="pt">Depois de alterar as notas em seu boletim escolar e ter sido aceito em uma classe avançada, Max compete contra Phoebe na Gincana de Matemática. Enquanto isso, Hank, Nora e Billy tentam pegar o ladrão de jornal.(n)</desc>
+    <credits>
+      <actor>Rosa Blasi</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Kira Kosarin</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Dana Snyder</actor>
+      <actor>Chris Tallman</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/thethundermans01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821170000 -0300" stop="20210821173000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Os Thundermans</title>
+    <desc lang="pt">Depois que Max apronta com Phoebe no dia das fotos na escola, uma guerra de pegadinhas entre os dois fica fora de controle. Enquanto isso, Hank e Barb tentam uma nova abordagem para fazer Billy e Nora cumprirem com suas tarefas.(n)</desc>
+    <credits>
+      <director>Jonathan Judge</director>
+      <actor>Rosa Blasi</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Kira Kosarin</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Dana Snyder</actor>
+      <actor>Chris Tallman</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/thethundermans01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821173000 -0300" stop="20210821180000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Os Thundermans</title>
+    <desc lang="pt">Phoebe e Max deixam uma antiga rivalidade tomar conta da situação, enquanto ajudam Billy e Nora com seus projetos da feira de ciências. Enquanto isso, Barb tenta flagrar Hank, porque ele copiou suas anotações no clube do livro.(n)</desc>
+    <credits>
+      <actor>Rosa Blasi</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Kira Kosarin</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Dana Snyder</actor>
+      <actor>Chris Tallman</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/thethundermans01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821180000 -0300" stop="20210821183000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Força Danger</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <actor>Cooper Barnes</actor>
+      <actor>Havan Flores</actor>
+      <actor>Terrence Little Gardenhigh</actor>
+      <actor>Dana Heath</actor>
+      <actor>Luca Luhan</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821183000 -0300" stop="20210821190000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Força Danger</title>
+    <desc lang="pt">Awol começa a ter visões do futuro e o Capitão Man acredita que isso pode ser obra do principal vilão do crime contra o tempo de Swellview, o famoso Vilão do Tempo.(n)</desc>
+    <credits>
+      <actor>Cooper Barnes</actor>
+      <actor>Havan Flores</actor>
+      <actor>Terrence Little Gardenhigh</actor>
+      <actor>Dana Heath</actor>
+      <actor>Luca Luhan</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821190000 -0300" stop="20210821210000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Kally's Mashup</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <actor>Maia Reficco</actor>
+      <actor>Alex Hoyer</actor>
+      <actor>Sara Cobo</actor>
+      <actor>Lalo Brito</actor>
+      <actor>Saraí Meza</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Argentina</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821210000 -0300" stop="20210821213000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Brilhante Victória</title>
+    <desc lang="pt">Jade e Beck ganham um prêmio como o pior casal depois de participarem de um programa sobre casais, o que os faz repensar a respeito de seu namoro.(n)</desc>
+    <credits>
+      <director>Adam Weissman</director>
+      <actor>Victoria Justice</actor>
+      <actor>Leon Thomas III</actor>
+      <actor>Matt Bennett</actor>
+      <actor>Elizabeth Gillies</actor>
+      <actor>Ariana Grande</actor>
+      <actor>Avan Jogia</actor>
+      <actor>Daniella Monet</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Juvenil</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/brilhantevictoria01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821213000 -0300" stop="20210821220000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Brilhante Victória</title>
+    <desc lang="pt">André começa a namorar uma garota que possui uma personalidade irritante, só porque o pai dela é dono de uma das maiores gravadoras do país, e Tori quer fazer ele se livrar dessa. Enquanto isso, quando Jade fica sem nenhum plano.(n)</desc>
+    <credits>
+      <director>Steve Hoefer</director>
+      <actor>Victoria Justice</actor>
+      <actor>Leon Thomas III</actor>
+      <actor>Matt Bennett</actor>
+      <actor>Elizabeth Gillies</actor>
+      <actor>Stephen A. Chang</actor>
+      <actor>Susan Chuang</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Juvenil</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/brilhantevictoria01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821220000 -0300" stop="20210821223000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Brilhante Victória</title>
+    <desc lang="pt">Tori e Jade viram um casal colocando suas habilidades de atuação e amizade em teste. Enquanto isso, Cat &amp; Robbie iniciam um serviço no qual dão más notícias de uma forma amigável.(n)</desc>
+    <credits>
+      <director>Adam Weissman</director>
+      <actor>Victoria Justice</actor>
+      <actor>Leon Thomas III</actor>
+      <actor>Matt Bennett</actor>
+      <actor>Elizabeth Gillies</actor>
+      <actor>Michael Adrian</actor>
+      <actor>Parker Contreras</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Juvenil</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/brilhantevictoria01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821223000 -0300" stop="20210821230000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Brilhante Victória</title>
+    <desc lang="pt">Tori está tentando um papel no cinema, mas sua atuação é constantemente ridicularizada, porque não é possível que uma "boa menina" como ela possa interpretar um personagem agressivo que gosta de causar problemas.(n)</desc>
+    <credits>
+      <director>Steve Hoefer</director>
+      <actor>Victoria Justice</actor>
+      <actor>Leon Thomas III</actor>
+      <actor>Matt Bennett</actor>
+      <actor>Elizabeth Gillies</actor>
+      <actor>Michael Alperin</actor>
+      <actor>Patrick Cox</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Juvenil</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/brilhantevictoria01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821230000 -0300" stop="20210821233000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Força Danger</title>
+    <desc lang="pt">O Capitão Man faz super-heróis gêmeos, ShoutOut e AWOL, competirem para ver quem pode pegar mais criminosos usando suas próprias formas de combate ao crime.(n)</desc>
+    <credits>
+      <actor>Cooper Barnes</actor>
+      <actor>Havan Flores</actor>
+      <actor>Terrence Little Gardenhigh</actor>
+      <actor>Dana Heath</actor>
+      <actor>Luca Luhan</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821233000 -0300" stop="20210822000000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Força Danger</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <actor>Cooper Barnes</actor>
+      <actor>Havan Flores</actor>
+      <actor>Terrence Little Gardenhigh</actor>
+      <actor>Dana Heath</actor>
+      <actor>Luca Luhan</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating system="BR">
+      <value>10</value>
     </rating>
   </programme>
 </tv>
