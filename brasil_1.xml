@@ -77,6 +77,7 @@
   </channel>
   <channel id="Comedy Central HD">
     <display-name lang="pt">Comedy Central HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/comedycentral.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Conmebol TV 1">
@@ -13036,6 +13037,1451 @@
     <country lang="pt">EUA</country>
     <rating system="BR">
       <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820141000 -0300" stop="20210820151000 -0300" channel="Comedy Central HD">
+    <title lang="pt">A Culpa é do Cabral</title>
+    <desc lang="pt">Comediantes ganham seus pratos favoritos nos bastidores. Já no palco, se divertem com combinações bizarras de seus possíveis pais e mães. Brincam de Gato Mia e recebem Cauê Moura para um game.(n)</desc>
+    <credits>
+      <actor>Fabiano Cambota</actor>
+      <actor>Thiago Ventura</actor>
+      <actor>Nando Viana</actor>
+      <actor>Rafael Portugal</actor>
+      <actor>Rodrigo Marques</actor>
+      <actor>Edu Elias</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S8 E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820151000 -0300" stop="20210820153500 -0300" channel="Comedy Central HD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <desc lang="pt">Após a Ashley revelar que não gosta de tocar violino, o Will a leva para trocar o seu violino por uma bateria, e até contrata um professor para ela: o Jazz.(n)</desc>
+    <credits>
+      <director>Debbie Allen</director>
+      <actor>Will Smith</actor>
+      <actor>James Avery</actor>
+      <actor>Janet Huber</actor>
+      <actor>Alfonso Ribeiro</actor>
+      <actor>Karyn Parsons</actor>
+      <actor>Tatyana Ali</actor>
+      <actor>Joseph Marcell</actor>
+      <actor>Helen Page Camp</actor>
+      <actor>John Petlock</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/freshprince01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820153500 -0300" stop="20210820160000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <desc lang="pt">O Will tenta impressionar o pai de uma garota para pode sair com ela. O Sr. Banks, o Carlton e o Geoffrey tentam ensiná-lo a ser um cavalheiro à moda antiga.(n)</desc>
+    <credits>
+      <director>Jeff Melman</director>
+      <actor>Will Smith</actor>
+      <actor>James Avery</actor>
+      <actor>Janet Huber</actor>
+      <actor>Alfonso Ribeiro</actor>
+      <actor>Karyn Parsons</actor>
+      <actor>Tatyana Ali</actor>
+      <actor>Joseph Marcell</actor>
+      <actor>Helen Page Camp</actor>
+      <actor>John Petlock</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/freshprince01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820160000 -0300" stop="20210820162500 -0300" channel="Comedy Central HD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <desc lang="pt">É o dia da formatura do Júnior, e Jay teme que se o Júnior não for para a faculdade, ele se casará com a Vanessa, a sua namorada. As suas esperanças para o futuro imediato do Júnior se acabam quando ele e Vanessa dão uma notícia bombástica.(n)</desc>
+    <credits>
+      <director>Damien Dante Wayans</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell-Martin</actor>
+      <actor>George Gore II</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker Mckenna Posey</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mywifeandkids01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E27</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820162500 -0300" stop="20210820165000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <desc lang="pt">Júnior e sua namorada anunciam que terão um bebê, e Michael e Jay não conseguem acreditar que serão avós. Júnior diz que ele e a Vanessa vão se casar, mas não sabe o que responder quando perguntam como ele vai sustentar a sua nova família.(n)</desc>
+    <credits>
+      <director>Damien Dante Wayans</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell-Martin</actor>
+      <actor>George Gore II</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker Mckenna Posey</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mywifeandkids01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820165000 -0300" stop="20210820171500 -0300" channel="Comedy Central HD">
+    <title lang="pt">A Boa Vizinhança</title>
+    <desc lang="pt">Dave Johnson se muda com a família de Michigan para Los Angeles e percebe que o segredo para se adaptar ao novo bairro é fazer amizade com Calvin Butler, o seu teimoso vizinho.(n)</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">E.U.A</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820171500 -0300" stop="20210820174000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+    <desc lang="pt">Chris luta para encontrar seu lugar em sua nova escola, enquanto tenta manter seus irmãos sob controle e lidar com o valentão da escola, Joey.(n)</desc>
+    <credits>
+      <director>Reginald Hudlin</director>
+      <actor>Terry Crews</actor>
+      <actor>Tichina Arnold</actor>
+      <actor>Tyler James Williams</actor>
+      <actor>Imani Hakim</actor>
+      <actor>Tequan Richmond</actor>
+      <actor>Vincent Martella</actor>
+      <actor>Travis T. Flory</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/everybodyhateschris01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820174000 -0300" stop="20210820180500 -0300" channel="Comedy Central HD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+    <desc lang="pt">Rochelle pede à Keisha, uma garota da vizinhança, que ajude Drew em matemática. Chris tenta impressioná-la, mas talvez outra pessoa tenha as mesmas intenções.(n)</desc>
+    <credits>
+      <director>Eric Laneuville</director>
+      <actor>Terry Crews</actor>
+      <actor>Tichina Arnold</actor>
+      <actor>Tyler James Williams</actor>
+      <actor>Imani Hakim</actor>
+      <actor>Tequan Richmond</actor>
+      <actor>Keesha Sharp</actor>
+      <actor>Aree Davis</actor>
+      <actor>Travis T. Flory</actor>
+      <actor>Vincent Martella</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/everybodyhateschris01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820180500 -0300" stop="20210820183000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <desc lang="pt">Os pais do Philip vêm visitá-lo no fim de semana quando ele ganha um prêmio prestigioso. Ao achar as falas ensaiadas dos Banks muito chatas, e para ser mais divertido, o Will conta à repórter as histórias mais embaraçosas da vida do Philip no campo.(n)</desc>
+    <credits>
+      <director>Jeff Melman</director>
+      <actor>Will Smith</actor>
+      <actor>James Avery</actor>
+      <actor>Janet Huber</actor>
+      <actor>Alfonso Ribeiro</actor>
+      <actor>Karyn Parsons</actor>
+      <actor>Tatyana Ali</actor>
+      <actor>Joseph Marcell</actor>
+      <actor>Helen Page Camp</actor>
+      <actor>John Petlock</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/freshprince01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820183000 -0300" stop="20210820190000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <desc lang="pt">O Will é visitado por um velho amigo chamado Ice Tray que, para o horror da Vivian e do Philip, paquera a Hilary.(n)</desc>
+    <credits>
+      <director>Jeff Melman</director>
+      <actor>Will Smith</actor>
+      <actor>James Avery</actor>
+      <actor>Janet Huber</actor>
+      <actor>Alfonso Ribeiro</actor>
+      <actor>Karyn Parsons</actor>
+      <actor>Tatyana Ali</actor>
+      <actor>Joseph Marcell</actor>
+      <actor>Helen Page Camp</actor>
+      <actor>John Petlock</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/freshprince01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820190000 -0300" stop="20210820192500 -0300" channel="Comedy Central HD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <desc lang="pt">Enquanto o Philip e a Vivian vão para Palm Springs no helicóptero do Sr. Furth, o Will e o Carlton dirigem o carro do Sr. Furth. Eles são detidos por "roubar" o carro. A Hilary cuida da Ashley, e o Geoffrey tira o fim de semana de folga.(n)</desc>
+    <credits>
+      <director>Jeff Melman</director>
+      <actor>Will Smith</actor>
+      <actor>James Avery</actor>
+      <actor>Janet Huber</actor>
+      <actor>Alfonso Ribeiro</actor>
+      <actor>Karyn Parsons</actor>
+      <actor>Tatyana Ali</actor>
+      <actor>Joseph Marcell</actor>
+      <actor>Hank Azaria</actor>
+      <actor>Donald Grant</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/freshprince01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820192500 -0300" stop="20210820195000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <desc lang="pt">O Will se inscreve em uma atividade pós-escolar, e segue as garotas para a aula de poesia, onde ele cria um poema na hora para impressionar as garotas. O Will inventa um poeta falso, e a Christina o convida para a Noite da Poesia.(n)</desc>
+    <credits>
+      <director>Jeff Melman</director>
+      <actor>Will Smith</actor>
+      <actor>James Avery</actor>
+      <actor>Janet Huber</actor>
+      <actor>Alfonso Ribeiro</actor>
+      <actor>Karyn Parsons</actor>
+      <actor>Tatyana Ali</actor>
+      <actor>Joseph Marcell</actor>
+      <actor>Helen Page Camp</actor>
+      <actor>John Petlock</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/freshprince01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820195000 -0300" stop="20210820201500 -0300" channel="Comedy Central HD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <desc lang="pt">Michael vê o seu amigo, que antes era calvo, com a cabeça cheia de cabelo. Isso faz cmo que ele queira tomar a mesma pílula de crescimento capilar. Nascem três fios novos de cabelo, e ele comete o grande erro de aumentar a dose...(n)</desc>
+    <credits>
+      <director>Damien Dante Wayans</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell-Martin</actor>
+      <actor>George Gore II</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker Mckenna Posey</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mywifeandkids01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E2</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820201500 -0300" stop="20210820204500 -0300" channel="Comedy Central HD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <desc lang="pt">Michael quer que o Júnior aprenda tudo sobre os negócios da família começando de baixo, então ele manda o Júnior fazer trabalhos secundários na "Kyle Trucking".(n)</desc>
+    <credits>
+      <director>Damien Dante Wayans</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell-Martin</actor>
+      <actor>George Gore II</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker Mckenna Posey</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mywifeandkids01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820204500 -0300" stop="20210820211000 -0300" channel="Comedy Central HD">
+    <title lang="pt">A Boa Vizinhança</title>
+    <desc lang="pt">Dave Johnson se muda com a família de Michigan para Los Angeles e percebe que o segredo para se adaptar ao novo bairro é fazer amizade com Calvin Butler, o seu teimoso vizinho.(n)</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">E.U.A</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820211000 -0300" stop="20210820213500 -0300" channel="Comedy Central HD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+    <desc lang="pt">Chris entra para o time de basquete da escola para ser popular. O único problema é que ele não sabe jogar, então passa o maior vexame.(n)</desc>
+    <credits>
+      <director>Lev L. Spiro</director>
+      <actor>Terry Crews</actor>
+      <actor>Tichina Arnold</actor>
+      <actor>Tyler James Williams</actor>
+      <actor>Imani Hakim</actor>
+      <actor>Tequan Richmond</actor>
+      <actor>Daniel Samonas</actor>
+      <actor>Robert Cicchini</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/everybodyhateschris01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820213500 -0300" stop="20210820215500 -0300" channel="Comedy Central HD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+    <desc lang="pt">Julius compra uma caixa grande de linguiças e obriga todos a comê-las por dias seguidos em diferentes refeições. Tonya se recusa, gerando atritos entre ela e Rochelle.(n)</desc>
+    <credits>
+      <director>Eric Laneuville</director>
+      <actor>Terry Crews</actor>
+      <actor>Tichina Arnold</actor>
+      <actor>Tyler James Williams</actor>
+      <actor>Imani Hakim</actor>
+      <actor>Tequan Richmond</actor>
+      <actor>Travis T. Flory</actor>
+      <actor>Vincent Martella</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/everybodyhateschris01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820215500 -0300" stop="20210820220000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Porta No Comedy</title>
+    <desc lang="pt">A cada semana você vai ver as melhores esquetes do Porta dos Fundos no Comedy.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_portanocomedy01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820222500 -0300" channel="Comedy Central HD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <desc lang="pt">Michael, que prefere ficar em casa assistindo a uma partida de boxe, é obrigado a jogar boliche. Ele está enfrentando na pista o seu arquiinimigo, Stu Tyler (Larry Miller) e sua irritante família.(n)</desc>
+    <credits>
+      <director>Sheldon Epps</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell-Martin</actor>
+      <actor>George Gore II</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker Mckenna Posey</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mywifeandkids01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E26</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820222500 -0300" stop="20210820225000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <desc lang="pt">Quando Júnior finalmente consegue tirar sua carteira de motorista, ele compra seu primeiro carro, um ferro-velho horroroso, em vez do carro que o Michael escolheu para ele.(n)</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell-martin</actor>
+      <actor>George Gore Ii</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker Mckenna Posey</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mywifeandkids01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E27</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820225000 -0300" stop="20210820231500 -0300" channel="Comedy Central HD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <desc lang="pt">Janet está curiosa para descobrir o que Michael planejou para o aniversário de casamento. Ela fica decepcionada quando descobre que seu atencioso marido planejou uma partida de golfe em seu grande dia.(n)</desc>
+    <credits>
+      <director>Will Mackenzie</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell-Martin</actor>
+      <actor>George Gore II</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker Mckenna Posey</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mywifeandkids01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E28</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820231500 -0300" stop="20210820234000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <desc lang="pt">Janet está decepcionada pois acha que Michael se esqueceu de seu aniversário de casamento. Porém, ela não sabe que, na verdade, ele planeja uma cerimônia para renovar os votos, com uma serenata conduzida por Brian McKnight, cantor de R&amp;B.(n)</desc>
+    <credits>
+      <director>Will Mackenzie</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell-Martin</actor>
+      <actor>George Gore II</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker Mckenna Posey</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mywifeandkids01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E29</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820234000 -0300" stop="20210821011500 -0300" channel="Comedy Central HD">
+    <title lang="pt">Ilha dos Dinossauros</title>
+    <desc lang="pt">As férias de um garoto se transformam na aventura de sua vida, quando ele se encontra em um mundo cheio de navios fantasmas, criaturas pré-históricas e um amor do passado.(n)</desc>
+    <credits>
+      <director>Matt Drummond</director>
+      <actor>Darius Williams</actor>
+      <actor>Kate Rasmussen</actor>
+      <actor>Albert Allu</actor>
+      <actor>Diana Babajanyan</actor>
+      <actor>Jenna Begly</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/filme_ilhadosdinossauros01_2_2019.jpg" />
+    <country lang="pt">Austrália</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821011500 -0300" stop="20210821021500 -0300" channel="Comedy Central HD">
+    <title lang="pt">A Culpa é do Cabral</title>
+    <desc lang="pt">Nesse episódio, elenco imagina como seria se os feriados fossem diferentes. No quadro "TV Raiz", eles terão que gastar o vocabulário no "Jogo da Palavra".(n)</desc>
+    <credits>
+      <actor>Fabiano Cambota</actor>
+      <actor>Thiago Ventura</actor>
+      <actor>Nando Viana</actor>
+      <actor>Rafael Portugal</actor>
+      <actor>Rodrigo Marques</actor>
+      <actor>Edu Elias</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S7 E12</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821021500 -0300" stop="20210821022000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Porta No Comedy</title>
+    <desc lang="pt">A cada semana você vai ver as melhores esquetes do Porta dos Fundos no Comedy.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_portanocomedy01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821022000 -0300" stop="20210821025000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Ugly Americans</title>
+    <desc lang="pt">Ao ver Mark cuidar de um bebê demônio, Callie fica mexida e sente que está ovulando. Agora ela terá que tomar uma decisão difícil.(n)</desc>
+    <credits>
+      <director>Devin Clark</director>
+      <director>Lucy Snyder</director>
+      <actor>Vozes de Matt Oberg</actor>
+      <actor>Devin Clark</actor>
+      <actor>Pete Holmes</actor>
+      <actor>Julie Klausner</actor>
+      <actor>Natasha Leggero</actor>
+      <actor>Randy Pearlstein</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/uglyamericans01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821025000 -0300" stop="20210821032000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Broad City - A Cidade Das Minas</title>
+    <desc lang="pt">Ilana visita uma antiga paixão para sacar suas bitcoins; Abbi deixa suas roupas sujas em uma lavanderia do bairro pela primeira vez e perde seu moletom favorito.(n)</desc>
+    <credits>
+      <director>Lilly Burns</director>
+      <actor>Ilana Glazer</actor>
+      <actor>Abbi Jacobson</actor>
+      <actor>Seth Green</actor>
+      <actor>Tracee Ellis Ross</actor>
+      <actor>Adam Levine</actor>
+      <actor>Justin Dobies</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_broadcity01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821032000 -0300" stop="20210821035000 -0300" channel="Comedy Central HD">
+    <title lang="pt">South Park</title>
+    <desc lang="pt">As crianças aprendem a masturbar cachorros o que leva a escola a ensinar Educação Sexual. Informações errôneas levam a uma guerra entre sexos.(n)</desc>
+    <credits>
+      <director>Trey Parker</director>
+      <actor>Vozes de Trey Parker</actor>
+      <actor>Matt Stone</actor>
+      <actor>Mona Marshall</actor>
+      <actor>Eliza Schneider</actor>
+      <actor>Isaac Hayes</actor>
+      <actor>Danielle Quidilla</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/southpark01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E7</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821035000 -0300" stop="20210821041500 -0300" channel="Comedy Central HD">
+    <title lang="pt">South Park</title>
+    <desc lang="pt">Um novo personagem aparece em South Park e os garotos enfrentam líderes de corporações e o governo americano, para recuperar seu sistema de videogame.(n)</desc>
+    <credits>
+      <director>Trey Parker</director>
+      <actor>Vozes de Trey Parker</actor>
+      <actor>Matt Stone</actor>
+      <actor>Mona Marshall</actor>
+      <actor>Isaac Hayes</actor>
+      <actor>Eliza Schneider</actor>
+      <actor>Vernon Chatman</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/southpark01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E8</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821041500 -0300" stop="20210821044000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Idiotando</title>
+    <desc lang="pt">É a vez das crianças pequenas receberem nossos comentários (não tão) delicados. De birras épicas a bagunça com comida! Temos de tudo!(n)</desc>
+    <credits>
+      <actor>Greg James</actor>
+      <actor>Federico Pesce</actor>
+      <actor>Beren Money</actor>
+      <actor>Warren Prentice</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821044000 -0300" stop="20210821050500 -0300" channel="Comedy Central HD">
+    <title lang="pt">Idiotando</title>
+    <desc lang="pt">E vamos a academia ver as bizarrices que temos por lá. De incríveis levantamentos de peso a acidentes nas esteiras.(n)</desc>
+    <credits>
+      <actor>Greg James</actor>
+      <actor>Federico Pesce</actor>
+      <actor>Beren Money</actor>
+      <actor>Warren Prentice</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821050500 -0300" stop="20210821053000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Takeshi's Castle Thailand - O desafio do castelo</title>
+    <desc lang="pt">O general reúne outras centenas de tropas para a Fresco Painting, Hongo Volador e El Hoyo del Diablo antes de terem a oportunidade de atacar o grande Castelo de Takeshi. Algum deles terá o necessário para conquistá-lo?(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_takeshiscastlethailandodesaf01.jpg" />
+    <country lang="pt">Tailândia</country>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821053000 -0300" stop="20210821060000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Balcony Stories, vizinhos de quarentena</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Carlos Pardeiro</director>
+      <actor>Manuel Trenado</actor>
+      <actor>Mario Briongos</actor>
+      <actor>Cristina Alcelay</actor>
+      <actor>Francesco Boserman</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821063000 -0300" channel="Comedy Central HD">
+    <title lang="pt">A História Bêbada</title>
+    <desc lang="pt">Um convidado narra, a seu modo, três períodos da história brasileira.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_ahistoriabebada01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821063000 -0300" stop="20210821070000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Porta no Comedy XXL</title>
+    <desc lang="pt">Nesse episódio, começamos vendo uma desconcertante discussão sobre bordões estranhos, a arca de Noé, e limites no ambiente de trabalho. Isso é só uma parte do conteúdo desse episódio, há muitos outros casos malucos contados em esquetes. Não perca!(n)</desc>
+    <credits>
+      <director>Ian SBF</director>
+      <director>Luanne Araujo</director>
+      <director>Rodrigo Maga</director>
+      <actor>Nataly Mega</actor>
+      <actor>Livia Andrade</actor>
+      <actor>Bianca Caetano</actor>
+      <actor>Alexia Souza</actor>
+      <actor>Ian SBF</actor>
+      <actor>Rodrigo Magal</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_portanocomedyxxl01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821070000 -0300" stop="20210821072500 -0300" channel="Comedy Central HD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <desc lang="pt">Michael vê o seu amigo, que antes era calvo, com a cabeça cheia de cabelo. Isso faz cmo que ele queira tomar a mesma pílula de crescimento capilar. Nascem três fios novos de cabelo, e ele comete o grande erro de aumentar a dose...(n)</desc>
+    <credits>
+      <director>Damien Dante Wayans</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell-Martin</actor>
+      <actor>George Gore II</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker Mckenna Posey</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mywifeandkids01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E2</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821072500 -0300" stop="20210821075000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <desc lang="pt">Michael quer que o Júnior aprenda tudo sobre os negócios da família começando de baixo, então ele manda o Júnior fazer trabalhos secundários na "Kyle Trucking".(n)</desc>
+    <credits>
+      <director>Damien Dante Wayans</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell-Martin</actor>
+      <actor>George Gore II</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker Mckenna Posey</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mywifeandkids01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821075000 -0300" stop="20210821085000 -0300" channel="Comedy Central HD">
+    <title lang="pt">A Culpa é da Carlota</title>
+    <desc lang="pt">A Culpa é da Carlota recebe a apresentadora e ex BBB Marcela Mc Gowan. Nesse episódio as Carlotas vão descobrir tudo sobre a Carol Zoccoli no quadro "Coletiva de Imprensa" e ainda jogar o "Uma Palavra um filme".(n)</desc>
+    <credits>
+      <actor>Victor Camejo</actor>
+      <actor>Bruna Louise</actor>
+      <actor>Fernanda Leite</actor>
+      <actor>Cris</actor>
+      <actor>Arianna Nutt</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821085000 -0300" stop="20210821092500 -0300" channel="Comedy Central HD">
+    <title lang="pt">Comedy Central Stand Up</title>
+    <desc lang="pt">Especial da Central do Stand Up do Comedy Central.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_comedycentralstandup01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821092500 -0300" stop="20210821095000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <desc lang="pt">Michael, que prefere ficar em casa assistindo a uma partida de boxe, é obrigado a jogar boliche. Ele está enfrentando na pista o seu arquiinimigo, Stu Tyler (Larry Miller) e sua irritante família.(n)</desc>
+    <credits>
+      <director>Sheldon Epps</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell-Martin</actor>
+      <actor>George Gore II</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker Mckenna Posey</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mywifeandkids01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E26</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821095000 -0300" stop="20210821101500 -0300" channel="Comedy Central HD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <desc lang="pt">Quando Júnior finalmente consegue tirar sua carteira de motorista, ele compra seu primeiro carro, um ferro-velho horroroso, em vez do carro que o Michael escolheu para ele.(n)</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell-martin</actor>
+      <actor>George Gore Ii</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker Mckenna Posey</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mywifeandkids01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E27</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821101500 -0300" stop="20210821104000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <desc lang="pt">Janet está curiosa para descobrir o que Michael planejou para o aniversário de casamento. Ela fica decepcionada quando descobre que seu atencioso marido planejou uma partida de golfe em seu grande dia.(n)</desc>
+    <credits>
+      <director>Will Mackenzie</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell-Martin</actor>
+      <actor>George Gore II</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker Mckenna Posey</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mywifeandkids01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E28</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821104000 -0300" stop="20210821110500 -0300" channel="Comedy Central HD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <desc lang="pt">Janet está decepcionada pois acha que Michael se esqueceu de seu aniversário de casamento. Porém, ela não sabe que, na verdade, ele planeja uma cerimônia para renovar os votos, com uma serenata conduzida por Brian McKnight, cantor de R&amp;B.(n)</desc>
+    <credits>
+      <director>Will Mackenzie</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell-Martin</actor>
+      <actor>George Gore II</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker Mckenna Posey</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mywifeandkids01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E29</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821110500 -0300" stop="20210821124000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Ilha dos Dinossauros</title>
+    <desc lang="pt">As férias de um garoto se transformam na aventura de sua vida, quando ele se encontra em um mundo cheio de navios fantasmas, criaturas pré-históricas e um amor do passado.(n)</desc>
+    <credits>
+      <director>Matt Drummond</director>
+      <actor>Darius Williams</actor>
+      <actor>Kate Rasmussen</actor>
+      <actor>Albert Allu</actor>
+      <actor>Diana Babajanyan</actor>
+      <actor>Jenna Begly</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/filme_ilhadosdinossauros01_2_2019.jpg" />
+    <country lang="pt">Austrália</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821124000 -0300" stop="20210821130500 -0300" channel="Comedy Central HD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <desc lang="pt">Michael vê o seu amigo, que antes era calvo, com a cabeça cheia de cabelo. Isso faz cmo que ele queira tomar a mesma pílula de crescimento capilar. Nascem três fios novos de cabelo, e ele comete o grande erro de aumentar a dose...(n)</desc>
+    <credits>
+      <director>Damien Dante Wayans</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell-Martin</actor>
+      <actor>George Gore II</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker Mckenna Posey</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mywifeandkids01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E2</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821130500 -0300" stop="20210821133000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <desc lang="pt">Michael quer que o Júnior aprenda tudo sobre os negócios da família começando de baixo, então ele manda o Júnior fazer trabalhos secundários na "Kyle Trucking".(n)</desc>
+    <credits>
+      <director>Damien Dante Wayans</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell-Martin</actor>
+      <actor>George Gore II</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker Mckenna Posey</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mywifeandkids01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821133000 -0300" stop="20210821135500 -0300" channel="Comedy Central HD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <desc lang="pt">Michael, que prefere ficar em casa assistindo a uma partida de boxe, é obrigado a jogar boliche. Ele está enfrentando na pista o seu arquiinimigo, Stu Tyler (Larry Miller) e sua irritante família.(n)</desc>
+    <credits>
+      <director>Sheldon Epps</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell-Martin</actor>
+      <actor>George Gore II</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker Mckenna Posey</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mywifeandkids01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E26</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821135500 -0300" stop="20210821142000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <desc lang="pt">Quando Júnior finalmente consegue tirar sua carteira de motorista, ele compra seu primeiro carro, um ferro-velho horroroso, em vez do carro que o Michael escolheu para ele.(n)</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell-martin</actor>
+      <actor>George Gore Ii</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker Mckenna Posey</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mywifeandkids01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E27</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821142000 -0300" stop="20210821144500 -0300" channel="Comedy Central HD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <desc lang="pt">Janet está curiosa para descobrir o que Michael planejou para o aniversário de casamento. Ela fica decepcionada quando descobre que seu atencioso marido planejou uma partida de golfe em seu grande dia.(n)</desc>
+    <credits>
+      <director>Will Mackenzie</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell-Martin</actor>
+      <actor>George Gore II</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker Mckenna Posey</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mywifeandkids01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E28</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821144500 -0300" stop="20210821151000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <desc lang="pt">Janet está decepcionada pois acha que Michael se esqueceu de seu aniversário de casamento. Porém, ela não sabe que, na verdade, ele planeja uma cerimônia para renovar os votos, com uma serenata conduzida por Brian McKnight, cantor de R&amp;B.(n)</desc>
+    <credits>
+      <director>Will Mackenzie</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell-Martin</actor>
+      <actor>George Gore II</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker Mckenna Posey</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mywifeandkids01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E29</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821151000 -0300" stop="20210821153500 -0300" channel="Comedy Central HD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <desc lang="pt">O Will terá um jogo contra o time de Malibu, e um caça talentos estará no público. O caça talentos fala com um jogador do outro time.(n)</desc>
+    <credits>
+      <director>Ellen Gittelsohn</director>
+      <actor>Will Smith</actor>
+      <actor>James Avery</actor>
+      <actor>Janet Hubert-Whitten</actor>
+      <actor>Alfonso Ribeiro</actor>
+      <actor>Karyn Parsons</actor>
+      <actor>Tatyana Ali</actor>
+      <actor>Joseph Marcell</actor>
+      <actor>Ebony Monique Solomon</actor>
+    </credits>
+    <date>1992</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/freshprince01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E15</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821153500 -0300" stop="20210821160000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <desc lang="pt">O Geoffrey se apaixona pela vizinha, pensando que ela é a governanta. Quando ele descobre que ela é só uma visita e tem 25 milhões de dólares, ele precisa decidir se quer continuar com ela ou não.(n)</desc>
+    <credits>
+      <director>Ellen Gittelsohn</director>
+      <actor>Will Smith</actor>
+      <actor>James Avery</actor>
+      <actor>Janet Hubert-Whitten</actor>
+      <actor>Alfonso Ribeiro</actor>
+      <actor>Karyn Parsons</actor>
+      <actor>Tatyana Ali</actor>
+      <actor>Joseph Marcell</actor>
+      <actor>Ebony Monique Solomon</actor>
+    </credits>
+    <date>1992</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/freshprince01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E16</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821160000 -0300" stop="20210821162500 -0300" channel="Comedy Central HD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+    <desc lang="pt">Chris entra para o time de basquete da escola para ser popular. O único problema é que ele não sabe jogar, então passa o maior vexame.(n)</desc>
+    <credits>
+      <director>Lev L. Spiro</director>
+      <actor>Terry Crews</actor>
+      <actor>Tichina Arnold</actor>
+      <actor>Tyler James Williams</actor>
+      <actor>Imani Hakim</actor>
+      <actor>Tequan Richmond</actor>
+      <actor>Daniel Samonas</actor>
+      <actor>Robert Cicchini</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/everybodyhateschris01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821162500 -0300" stop="20210821165000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+    <desc lang="pt">Julius compra uma caixa grande de linguiças e obriga todos a comê-las por dias seguidos em diferentes refeições. Tonya se recusa, gerando atritos entre ela e Rochelle.(n)</desc>
+    <credits>
+      <director>Eric Laneuville</director>
+      <actor>Terry Crews</actor>
+      <actor>Tichina Arnold</actor>
+      <actor>Tyler James Williams</actor>
+      <actor>Imani Hakim</actor>
+      <actor>Tequan Richmond</actor>
+      <actor>Travis T. Flory</actor>
+      <actor>Vincent Martella</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/everybodyhateschris01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821165000 -0300" stop="20210821171500 -0300" channel="Comedy Central HD">
+    <title lang="pt">A Boa Vizinhança</title>
+    <desc lang="pt">Dave Johnson se muda com a família de Michigan para Los Angeles e percebe que o segredo para se adaptar ao novo bairro é fazer amizade com Calvin Butler, o seu teimoso vizinho.(n)</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">E.U.A</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821171500 -0300" stop="20210821172000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Porta No Comedy</title>
+    <desc lang="pt">A cada semana você vai ver as melhores esquetes do Porta dos Fundos no Comedy.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_portanocomedy01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821172000 -0300" stop="20210821174500 -0300" channel="Comedy Central HD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <desc lang="pt">Michael recebe uma injeção anti-rugas, porém, o tratamento dá errado e ele fica com uma expressão anormal. No outro dia, ele vai resolver um assunto sério no tribunal, porém, o juíz se irrita com a cara dele e isso atrapalha na sentença.(n)</desc>
+    <credits>
+      <director>Kim Wayan</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell-Martin</actor>
+      <actor>George Gore II</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker Mckenna Posey</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mywifeandkids01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E18</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821174500 -0300" stop="20210821181000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <desc lang="pt">O Michael fica em êxtase quando ganha uma entrada para ver a estrela de basquete LeBron James, mas a sua felicidade logo se transforma em paranoia quando, alguns dias antes do jogo, todos na família Kyle, menos o Michael, ficam doentes.(n)</desc>
+    <credits>
+      <director>Damien Dante Wayans</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell-Martin</actor>
+      <actor>George Gore II</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker Mckenna Posey</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/mywifeandkids01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E19</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821181000 -0300" stop="20210821183500 -0300" channel="Comedy Central HD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+    <desc lang="pt">Chris empresta sua bicicleta nova ao amigo, Mike, apesar das advertências de Julius, o garoto foge com a bicicleta.(n)</desc>
+    <credits>
+      <director>Eric Laneuville</director>
+      <actor>Terry Crews</actor>
+      <actor>Tichina Arnold</actor>
+      <actor>Tyler James Williams</actor>
+      <actor>Imani Hakim</actor>
+      <actor>Tequan Richmond</actor>
+      <actor>Myzel Robinson</actor>
+      <actor>Owen Smith</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/everybodyhateschris01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821183500 -0300" stop="20210821190000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+    <desc lang="pt">É Dia das Bruxas e Chris se anima quando outra garota o convida para uma festa a fantasia. Mas pode ser que Caruso já tenha planos para ele.(n)</desc>
+    <credits>
+      <director>Eric Laneuville</director>
+      <actor>Terry Crews</actor>
+      <actor>Tichina Arnold</actor>
+      <actor>Tyler James Williams</actor>
+      <actor>Imani Hakim</actor>
+      <actor>Tequan Richmond</actor>
+      <actor>Myzel Robinson</actor>
+      <actor>Owen Smith</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/everybodyhateschris01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821190000 -0300" stop="20210821192500 -0300" channel="Comedy Central HD">
+    <title lang="pt">A Boa Vizinhança</title>
+    <desc lang="pt">Dave Johnson se muda com a família de Michigan para Los Angeles e percebe que o segredo para se adaptar ao novo bairro é fazer amizade com Calvin Butler, o seu teimoso vizinho.(n)</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">E.U.A</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821192500 -0300" stop="20210821195000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <desc lang="pt">A Hilary dedura o Will por várias coisas, inclusive chegar em casa às 3 da manhã do dia anterior para usar o carro da família. O Will planeja se vingar.(n)</desc>
+    <credits>
+      <director>Jeff Melman</director>
+      <actor>Will Smith</actor>
+      <actor>James Avery</actor>
+      <actor>Janet Huber</actor>
+      <actor>Alfonso Ribeiro</actor>
+      <actor>Karyn Parsons</actor>
+      <actor>Tatyana Ali</actor>
+      <actor>Joseph Marcell</actor>
+      <actor>Helen Page Camp</actor>
+      <actor>John Petlock</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/freshprince01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821195000 -0300" stop="20210821201500 -0300" channel="Comedy Central HD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <desc lang="pt">A Ashley e as suas amigas pedem que o Will conte uma história de terror na sua festa de pijama antes de ir dormir. O Will conta como foi o seu primeiro dia na Academia de Bel-Air.(n)</desc>
+    <credits>
+      <director>Jeff Melman</director>
+      <actor>Will Smith</actor>
+      <actor>James Avery</actor>
+      <actor>Janet Huber</actor>
+      <actor>Alfonso Ribeiro</actor>
+      <actor>Karyn Parsons</actor>
+      <actor>Tatyana Ali</actor>
+      <actor>Joseph Marcell</actor>
+      <actor>Helen Page Camp</actor>
+      <actor>John Petlock</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/freshprince01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821201500 -0300" stop="20210821204000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <desc lang="pt">O Will percebe que a Ashley nunca teve um natal de verdade antes e faz de tudo para que ela tenha um. Ele decora o interior e o exterior da mansão completamente, e isso irrita alguns vizinhos.(n)</desc>
+    <credits>
+      <director>Jeff Melman</director>
+      <actor>Will Smith</actor>
+      <actor>James Avery</actor>
+      <actor>Janet Hubert-Whitten</actor>
+      <actor>Alfonso Ribeiro</actor>
+      <actor>Karyn Parsons</actor>
+      <actor>Tatyana Ali</actor>
+      <actor>Joseph Marcell</actor>
+      <actor>Taylor Negron</actor>
+      <actor>Keith Bogart</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/freshprince01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821204000 -0300" stop="20210821210500 -0300" channel="Comedy Central HD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <desc lang="pt">Um dos clientes do Philip é muito supersticioso e fica amigo do Will por causa de algumas coincidências. Ele acha que o Will é o seu amuleto da sorte e o deixa tomar algumas decisões importantes.(n)</desc>
+    <credits>
+      <director>Jeff Melman</director>
+      <actor>Will Smith</actor>
+      <actor>James Avery</actor>
+      <actor>Janet Huber</actor>
+      <actor>Alfonso Ribeiro</actor>
+      <actor>Karyn Parsons</actor>
+      <actor>Tatyana Ali</actor>
+      <actor>Joseph Marcell</actor>
+      <actor>Helen Page Camp</actor>
+      <actor>John Petlock</actor>
+    </credits>
+    <date>1991</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/freshprince01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821210500 -0300" stop="20210821213000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <desc lang="pt">O Will propõe que tenha uma aula de história negra na Academia de Bel-Air, e fica surpreso quando a tia Viv se torna sua professora.(n)</desc>
+    <credits>
+      <director>Jeff Melman</director>
+      <actor>Will Smith</actor>
+      <actor>James Avery</actor>
+      <actor>Janet Huber</actor>
+      <actor>Alfonso Ribeiro</actor>
+      <actor>Karyn Parsons</actor>
+      <actor>Tatyana Ali</actor>
+      <actor>Joseph Marcell</actor>
+      <actor>Helen Page Camp</actor>
+      <actor>John Petlock</actor>
+    </credits>
+    <date>1991</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/freshprince01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821213000 -0300" stop="20210821220000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Entre Risos</title>
+    <desc lang="pt">Thiago Ventura é um comediante da quebrada e com muito orgulho! O Entre Risos não poderia ter outro cenário se não Taboão da Serra! Nesse episódio conhecemos sua família.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_entrerisos01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821220000 -0300" stop="20210821223000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Entre Risos</title>
+    <desc lang="pt">De Malandro ele não tem nada, mas bem que gostaria! Murilo Couto é desafiado a fazer piadas com o tema "Vida Loka". Nesse episódio ele participa de uma rinha de MC's, toca com sua banda nada malandra.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_entrerisos01.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821223000 -0300" stop="20210821230000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Entre Risos</title>
+    <desc lang="pt">Nando Viana é um humorista devagar quase parando. O Entre Risos desafiou (e o ajudou!) a fazer piadas com o tema procrastinação! Nando precisa acordar para a vida e nós o ajudamos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_entrerisos01.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821230000 -0300" stop="20210821233000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Trampo Zika</title>
+    <desc lang="pt">Sabe aquele trampo que você paga um pau, mas não faz ideia de como é o outro lado? Lucas Maciel te mostra a correria do funk. Com participação de Gabi Prado, o desafio é fazer um hit e de quebra, eles têm os mentores: Mc Dedê e Dj Zullu.(n)</desc>
+    <credits>
+      <director>Lucas Maciel</director>
+      <actor>Sara Augusto</actor>
+      <actor>Lucas Maciel</actor>
+      <actor>Gabi Lopes</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821233000 -0300" stop="20210822000000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Trampo Zika</title>
+    <desc lang="pt">Lucas e Christian Figueiredo vestem a camisa do trabalho voluntário para construir uma casa. Entre carregar telha e levantar parede debaixo do sol quente, eles se divertiram e se emocionaram com as histórias em uma comunidade de São Paulo.(n)</desc>
+    <credits>
+      <director>Lucas Maciel</director>
+      <actor>Sara Augusto</actor>
+      <actor>Lucas Maciel</actor>
+      <actor>Christian Figueiredo</actor>
+      <actor>Daniel Blake</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="BR">
+      <value>10</value>
     </rating>
   </programme>
 </tv>
