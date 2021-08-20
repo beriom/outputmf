@@ -346,6 +346,7 @@
   </channel>
   <channel id="Love Nature HD">
     <display-name lang="pt">Love Nature HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/lovenature.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Mais na Tela HD">
@@ -45188,6 +45189,514 @@
     <desc lang="pt">Toda semana, De Olho no Mundo traz ao fã do esporte histórias curiosas, inusitadas em diferentes lugares do planeta, sempre relacionadas ao esporte.(n)</desc>
     <category lang="pt">Jornalismo</category>
     <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820135000 -0300" stop="20210820144000 -0300" channel="Love Nature HD">
+    <title lang="pt">Rockies, As Montanhas Selvagens</title>
+    <desc lang="pt">Esta série te aproxima dos animais que fizeram das icônicas Montanhas Rochosas sua casa. Testemunhe os cavalos selvagens que vivem nos arredores desérticos do vale de Okanagan e os ursos pardos a golpear os salmões dos rios.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820144000 -0300" stop="20210820153000 -0300" channel="Love Nature HD">
+    <title lang="pt">Israel Selvagem</title>
+    <desc lang="pt">O deserto de Negev se espalha por mais da metade de Israel. É um deserto extremo que fica dentro de uma cordilheira subtropical, que também inclui o deserto do Saara.(n)</desc>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Meio Ambiente</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820153000 -0300" stop="20210820162000 -0300" channel="Love Nature HD">
+    <title lang="pt">África</title>
+    <desc lang="pt">Dos dentes afiados do grande tubarão branco, ao golpe rápido de uma mamba negra, nós exploramos alguns dos animais mais perigosos conhecidos pelo homem.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820162000 -0300" stop="20210820170800 -0300" channel="Love Nature HD">
+    <title lang="pt">Contos de Zâmbia</title>
+    <desc lang="pt">No Vale Luangwa, na Zâmbia, alguns dos maiores animais da Terra vivem lado a lado. Descubra como cada um desses gigantes usa estratégias engenhosas e incríveis adaptações, aperfeiçoadas por milhões de anos, para sobreviver e prosperar.(n)</desc>
+    <credits>
+      <actor>David Vickery</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Canadá</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820170800 -0300" stop="20210820171100 -0300" channel="Love Nature HD">
+    <title lang="pt">Caninópolis</title>
+    <desc lang="pt">Bateria, piano, baixo, violino e violão. Essa é a formação da banda de Otto e seus amigos. Eles resolveram fazer um show pros animais e foi um tremendo sucesso, alguns até tentaram e imitar e deixaram a música ainda melhor.(n)</desc>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820171100 -0300" stop="20210820171300 -0300" channel="Love Nature HD">
+    <title lang="pt">Lubinho, O Lobo Marinho</title>
+    <desc lang="pt">A série conta a história de um filhote de lobo marinho que se perde da mãe na correnteza, durante uma viagem das águas gélidas do sul antártico, rumo ao norte temperado.(n)</desc>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820171300 -0300" stop="20210820171500 -0300" channel="Love Nature HD">
+    <title lang="pt">Lubinho, O Lobo Marinho</title>
+    <desc lang="pt">A série conta a história de um filhote de lobo marinho que se perde da mãe na correnteza, durante uma viagem das águas gélidas do sul antártico, rumo ao norte temperado.(n)</desc>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820171500 -0300" stop="20210820174500 -0300" channel="Love Nature HD">
+    <title lang="pt">Na Trilha da Energia</title>
+    <desc lang="pt">O segundo episódio da 2ª temporada embarca nas fontes complementares de geração de energia. Visitamos um aterro sanitário que gera energia elétrica usando lixo como combustível.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Ecologia</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820174500 -0300" stop="20210820183000 -0300" channel="Love Nature HD">
+    <title lang="pt">A Incrível Madagascar</title>
+    <desc lang="pt">Este filme viaja pela ilha visitando algumas de suas paisagens mais impressionantes para explorar como as espécies de Madagascar evoluíram ao longo do tempo.(n)</desc>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Viagem</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820183000 -0300" stop="20210820192000 -0300" channel="Love Nature HD">
+    <title lang="pt">Contos de Zâmbia</title>
+    <desc lang="pt">No Vale Luangwa, na Zâmbia, alguns dos maiores animais da Terra vivem lado a lado. Descubra como cada um desses gigantes usa estratégias engenhosas e incríveis adaptações, aperfeiçoadas por milhões de anos, para sobreviver e prosperar.(n)</desc>
+    <credits>
+      <actor>David Vickery</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Canadá</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820192000 -0300" stop="20210820201000 -0300" channel="Love Nature HD">
+    <title lang="pt">Mistérios do Rio Mekong</title>
+    <desc lang="pt">O Mekong continua sua jornada sul marcando a fronteira oriental do Sudeste Asiático, na Tailândia. É a junção de muitas regiões importantes.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820201000 -0300" stop="20210820210000 -0300" channel="Love Nature HD">
+    <title lang="pt">Impérios Animais</title>
+    <desc lang="pt">Como personagens populares de canções e histórias, os animais de fazenda são celebrados em todo o mundo. Mas poucas histórias falam de suas espécies irmãs que vivem em estado selvagem.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820210000 -0300" stop="20210820215000 -0300" channel="Love Nature HD">
+    <title lang="pt">A Vida Secreta do Canguru</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820215000 -0300" stop="20210820224000 -0300" channel="Love Nature HD">
+    <title lang="pt">Escola de Orangotangos</title>
+    <desc lang="pt">Orangutan Jungle School é um sistema educacional único, onde centenas de orangotangos órfãos progridem através de uma série de classes de selva e ilhas de pré-lançamento, onde aprendem habilidades que precisam para sobreviver na natureza.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820224000 -0300" stop="20210820233000 -0300" channel="Love Nature HD">
+    <title lang="pt">Esquadrão de Tubarões</title>
+    <desc lang="pt">Os tubarões são ameaçados globalmente - retratados como assassinos irracionais pela mídia e vitimados pela pesca irresponsável.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820233000 -0300" stop="20210821002000 -0300" channel="Love Nature HD">
+    <title lang="pt">Recifes de Naufrágios</title>
+    <desc lang="pt">Existem mais de 3 milhões de locais conhecidos de naufrágios no mundo. Alguns detêm riquezas - outros revelam a história perdida. Mas os destroços mais espetaculares são os que simplesmente se recusam a morrer.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821002000 -0300" stop="20210821011000 -0300" channel="Love Nature HD">
+    <title lang="pt">Os Supercães e seus Extraordinários Trabalhos</title>
+    <desc lang="pt">Os cães são inteligentes e leais, mas também estão preparados para fazer coisas que nós humanos simplesmente não podemos.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821011000 -0300" stop="20210821020000 -0300" channel="Love Nature HD">
+    <title lang="pt">O País Do Grande Felino</title>
+    <desc lang="pt">No Vale de Luangwa, o poderoso bando MK tem força, mas o seu macho idoso e dominante não consegue manter o poder por muito mais tempo.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Viagem</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821020000 -0300" stop="20210821025000 -0300" channel="Love Nature HD">
+    <title lang="pt">Rockies, As Montanhas Selvagens</title>
+    <desc lang="pt">Esta série te aproxima dos animais que fizeram das icônicas Montanhas Rochosas sua casa. Testemunhe os cavalos selvagens que vivem nos arredores desérticos do vale de Okanagan e os ursos pardos a golpear os salmões dos rios.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821025000 -0300" stop="20210821034000 -0300" channel="Love Nature HD">
+    <title lang="pt">Israel Selvagem</title>
+    <desc lang="pt">O deserto de Negev se espalha por mais da metade de Israel. É um deserto extremo que fica dentro de uma cordilheira subtropical, que também inclui o deserto do Saara.(n)</desc>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Meio Ambiente</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821034000 -0300" stop="20210821043000 -0300" channel="Love Nature HD">
+    <title lang="pt">África</title>
+    <desc lang="pt">Dos dentes afiados do grande tubarão branco, ao golpe rápido de uma mamba negra, nós exploramos alguns dos animais mais perigosos conhecidos pelo homem.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821043000 -0300" stop="20210821052000 -0300" channel="Love Nature HD">
+    <title lang="pt">Cenas da Natureza</title>
+    <desc lang="pt">CENAS DA NATUREZA traz uma experiência imersiva, com cenas incríveis da Natureza, sem a necessidade de narrações, mostrando o que de mais bonito temos no mundo.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821052000 -0300" stop="20210821061000 -0300" channel="Love Nature HD">
+    <title lang="pt">A Incrível Madagascar</title>
+    <desc lang="pt">Este filme viaja pela ilha visitando algumas de suas paisagens mais impressionantes para explorar como as espécies de Madagascar evoluíram ao longo do tempo.(n)</desc>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Viagem</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821061000 -0300" stop="20210821070000 -0300" channel="Love Nature HD">
+    <title lang="pt">Contos de Zâmbia</title>
+    <desc lang="pt">No Vale Luangwa, na Zâmbia, alguns dos maiores animais da Terra vivem lado a lado. Descubra como cada um desses gigantes usa estratégias engenhosas e incríveis adaptações, aperfeiçoadas por milhões de anos, para sobreviver e prosperar.(n)</desc>
+    <credits>
+      <actor>David Vickery</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Canadá</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821070000 -0300" stop="20210821080000 -0300" channel="Love Nature HD">
+    <title lang="pt">Mistérios do Rio Mekong</title>
+    <desc lang="pt">O Mekong continua sua jornada sul marcando a fronteira oriental do Sudeste Asiático, na Tailândia. É a junção de muitas regiões importantes.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821080000 -0300" stop="20210821085000 -0300" channel="Love Nature HD">
+    <title lang="pt">Terra dos Primatas</title>
+    <desc lang="pt">A África é o lar da maior variedade de primatas do mundo. De lêmures e bebês do mato, a társios e pottos, e o mais famoso de todos, macacos e macacos.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821085000 -0300" stop="20210821094000 -0300" channel="Love Nature HD">
+    <title lang="pt">Caçadores da África</title>
+    <desc lang="pt">Caçadores da África é um olhar cativante, veja sob o olhar do personagem a vida de alguns dos predadores mais formidáveis da Zâmbia - leões, leopardos e hienas.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821094000 -0300" stop="20210821103000 -0300" channel="Love Nature HD">
+    <title lang="pt">Vale Indomável</title>
+    <desc lang="pt">Isolada e abrigada, longe da agitação do rio Luangwa, na Zâmbia, a lagoa Kasikizi abriga uma pequena comunidade de vida selvagem diversificada.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821103000 -0300" stop="20210821112000 -0300" channel="Love Nature HD">
+    <title lang="pt">África</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821112000 -0300" stop="20210821121000 -0300" channel="Love Nature HD">
+    <title lang="pt">Parques Oceânicos</title>
+    <desc lang="pt">Na Costa Oeste dos Estados Unidos, o Santuário Marinho Nacional da Baía de Monterey é o maior santuário marinho do país - lar de 525 espécies de peixes e uma enorme floresta de algas subaquáticas.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821121000 -0300" stop="20210821130000 -0300" channel="Love Nature HD">
+    <title lang="pt">Terra dos Primatas</title>
+    <desc lang="pt">A África é o lar da maior variedade de primatas do mundo. De lêmures e bebês do mato, a társios e pottos, e o mais famoso de todos, macacos e macacos.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821130000 -0300" stop="20210821132500 -0300" channel="Love Nature HD">
+    <title lang="pt">Criaturas Estranhas</title>
+    <desc lang="pt">Admire alguns dos animais mais feios do mundo que devem sua sobrevivência às adaptações que os tornaram tão estranhos. Uma enguia rechonchuda, um rato-toupeira nu e uma horrenda lampreia do mar.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Canadá</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821132500 -0300" stop="20210821135000 -0300" channel="Love Nature HD">
+    <title lang="pt">Criaturas Estranhas</title>
+    <desc lang="pt">Admire alguns dos animais mais feios do mundo que devem sua sobrevivência às adaptações que os tornaram tão estranhos. Uma enguia rechonchuda, um rato-toupeira nu e uma horrenda lampreia do mar.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Canadá</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821135000 -0300" stop="20210821141500 -0300" channel="Love Nature HD">
+    <title lang="pt">Os Mistérios da Evolução</title>
+    <desc lang="pt">Algumas das adaptações mais interessantes no mundo animal são completamente invisíveis. Estude essas alterações internas ocultas para ver como os diferentes animais evoluíram para sobreviver de maneiras surpreendentes e invisíveis.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Ecologia</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821141500 -0300" stop="20210821144000 -0300" channel="Love Nature HD">
+    <title lang="pt">Primeiros Passos</title>
+    <desc lang="pt">Todo gigante começa como um bebezinho. Elefantes, rinocerontes, gorilas e bisontes têm alguns dos bebês mais fofos do reino animal. Eles são mini gigantes.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821144000 -0300" stop="20210821150500 -0300" channel="Love Nature HD">
+    <title lang="pt">Primeiros Passos</title>
+    <desc lang="pt">Todo gigante começa como um bebezinho. Elefantes, rinocerontes, gorilas e bisontes têm alguns dos bebês mais fofos do reino animal. Eles são mini gigantes.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821150500 -0300" stop="20210821153000 -0300" channel="Love Nature HD">
+    <title lang="pt">Resgate Animal</title>
+    <desc lang="pt">Na cidade, equipes especializadas fazem todo o possível para ajudar os animais.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821153000 -0300" stop="20210821162000 -0300" channel="Love Nature HD">
+    <title lang="pt">Ícones da Vida Selvagem</title>
+    <desc lang="pt">Todos os dias uma luta pela sobrevivência acontece em toda a África. Os predadores se alimentam dos mortos e os agentes funerários da natureza circulam à espera de sua chance.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821162000 -0300" stop="20210821170800 -0300" channel="Love Nature HD">
+    <title lang="pt">Ícones da Vida Selvagem</title>
+    <desc lang="pt">Todos os dias uma luta pela sobrevivência acontece em toda a África. Os predadores se alimentam dos mortos e os agentes funerários da natureza circulam à espera de sua chance.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821170800 -0300" stop="20210821171100 -0300" channel="Love Nature HD">
+    <title lang="pt">Caninópolis</title>
+    <desc lang="pt">Bateria, piano, baixo, violino e violão. Essa é a formação da banda de Otto e seus amigos. Eles resolveram fazer um show pros animais e foi um tremendo sucesso, alguns até tentaram e imitar e deixaram a música ainda melhor.(n)</desc>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Musical</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821171100 -0300" stop="20210821171300 -0300" channel="Love Nature HD">
+    <title lang="pt">Lubinho, O Lobo Marinho</title>
+    <desc lang="pt">A série conta a história de um filhote de lobo marinho que se perde da mãe na correnteza, durante uma viagem das águas gélidas do sul antártico, rumo ao norte temperado.(n)</desc>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821171300 -0300" stop="20210821171500 -0300" channel="Love Nature HD">
+    <title lang="pt">Lubinho, O Lobo Marinho</title>
+    <desc lang="pt">A série conta a história de um filhote de lobo marinho que se perde da mãe na correnteza, durante uma viagem das águas gélidas do sul antártico, rumo ao norte temperado.(n)</desc>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821171500 -0300" stop="20210821174500 -0300" channel="Love Nature HD">
+    <title lang="pt">Na Trilha da Energia</title>
+    <desc lang="pt">O segundo episódio da 2ª temporada embarca nas fontes complementares de geração de energia. Visitamos um aterro sanitário que gera energia elétrica usando lixo como combustível.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Ecologia</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821174500 -0300" stop="20210821183000 -0300" channel="Love Nature HD">
+    <title lang="pt">Recifes de Naufrágios</title>
+    <desc lang="pt">Existem mais de 3 milhões de locais conhecidos de naufrágios no mundo. Alguns detêm riquezas - outros revelam a história perdida. Mas os destroços mais espetaculares são os que simplesmente se recusam a morrer.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821183000 -0300" stop="20210821192000 -0300" channel="Love Nature HD">
+    <title lang="pt">A Grande Natureza Azul</title>
+    <desc lang="pt">As regiões mais inspiradoras do planeta escondem ainda mais beleza ao fundo. Descubra formas de vida diversas, experimente cores brilhantes e criaturas de todos os tamanhos e formatos.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821192000 -0300" stop="20210821201000 -0300" channel="Love Nature HD">
+    <title lang="pt">Os Supercães e seus Extraordinários Trabalhos</title>
+    <desc lang="pt">Os cães são inteligentes e leais, mas também estão preparados para fazer coisas que nós humanos simplesmente não podemos.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821201000 -0300" stop="20210821210000 -0300" channel="Love Nature HD">
+    <title lang="pt">Parques Oceânicos</title>
+    <desc lang="pt">Na Costa Oeste dos Estados Unidos, o Santuário Marinho Nacional da Baía de Monterey é o maior santuário marinho do país - lar de 525 espécies de peixes e uma enorme floresta de algas subaquáticas.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821210000 -0300" stop="20210821215000 -0300" channel="Love Nature HD">
+    <title lang="pt">África</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821215000 -0300" stop="20210821224000 -0300" channel="Love Nature HD">
+    <title lang="pt">O País Do Grande Felino</title>
+    <desc lang="pt">No Vale de Luangwa, o poderoso bando MK tem força, mas o seu macho idoso e dominante não consegue manter o poder por muito mais tempo.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Viagem</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821224000 -0300" stop="20210821233000 -0300" channel="Love Nature HD">
+    <title lang="pt">Rockies, As Montanhas Selvagens</title>
+    <desc lang="pt">Esta série te aproxima dos animais que fizeram das icônicas Montanhas Rochosas sua casa. Testemunhe os cavalos selvagens que vivem nos arredores desérticos do vale de Okanagan e os ursos pardos a golpear os salmões dos rios.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821233000 -0300" stop="20210822003000 -0300" channel="Love Nature HD">
+    <title lang="pt">Israel Selvagem</title>
+    <desc lang="pt">O deserto de Negev se espalha por mais da metade de Israel. É um deserto extremo que fica dentro de uma cordilheira subtropical, que também inclui o deserto do Saara.(n)</desc>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Meio Ambiente</category>
     <rating system="BR">
       <value>L</value>
     </rating>
