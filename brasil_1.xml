@@ -53172,4 +53172,654 @@
     <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
     <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/1526.png" />
   </programme>
+  <programme start="20210820093000 -0300" stop="20210820104000 -0300" channel="InterTV Cabugi">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+    <credits>
+      <director>Frederico Oliveira</director>
+      <director>Viviane De Marco</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/maisvoce01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820104000 -0300" stop="20210820114500 -0300" channel="InterTV Cabugi">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+    <credits>
+      <director>Fabrício Mamberti</director>
+      <director>Mario Marcio Bandarra</director>
+      <actor>Fátima Bernardes</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/encontrofatima01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820114500 -0300" stop="20210820124500 -0300" channel="InterTV Cabugi">
+    <title lang="pt">RN TV - 1ª Edição</title>
+    <desc lang="pt">Telejornal local que mostra as notícias de cada estado. Em pauta a notícia da cidade, prestação de serviço, situação do trânsito e previsão do tempo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820124500 -0300" stop="20210820131000 -0300" channel="InterTV Cabugi">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O programa apresenta a cobertura completa dos eventos esportivos do Brasil e do mundo, e acompanha o dia a dia dos atletas.(n)</desc>
+    <credits>
+      <director>André Boaventura</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/globoesporte01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820131000 -0300" stop="20210820142000 -0300" channel="InterTV Cabugi">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+    <credits>
+      <director>Cláudio Marques</director>
+      <actor>Maria Júlia Coutinho</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/jornalhoje01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820142000 -0300" stop="20210820154000 -0300" channel="InterTV Cabugi">
+    <title lang="pt">Copa do Mundo de Futebol de Areia - Suíça x Brasil - Ao Vivo</title>
+    <desc lang="pt">Siga ao vivo campeonatos estaduais, o Brasileirão, a Copa do Brasil, a Libertadores, a Liga dos Campeões, mundiais de clubes e amistosos.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol de Areia</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820154000 -0300" stop="20210820171000 -0300" channel="InterTV Cabugi">
+    <title lang="pt">Sessão da Tarde: Sonhos de Papel</title>
+    <title lang="en">Paper Planes</title>
+    <desc lang="pt">Jornada de um garoto e seu pai se reconectando após a luta de sua família que nos faz torcer para eles no campeonato mundial de aviões de papel.(n)</desc>
+    <credits>
+      <director>Robert Connolly</director>
+      <actor>Sam Worthington</actor>
+      <actor>Ed Oxenbould</actor>
+      <actor>Deborah Mailman</actor>
+      <actor>Nicholas Bakopoulos-cooke</actor>
+      <actor>Ena Imai</actor>
+      <actor>Terry Norris</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/filme_sessaodatardeasmilpala01.jpg" />
+    <country lang="pt">Austrália</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820171000 -0300" stop="20210820180500 -0300" channel="InterTV Cabugi">
+    <title lang="pt">Vale a Pena Ver de Novo</title>
+    <title lang="en">Ti Ti Ti</title>
+    <desc lang="pt">A história da grande rivalidade entre André Spina/Jacques Leclair e Ariclenes Martins/Victor Valentim, que extrapola as fronteiras da vila do Belenzinho.(n)</desc>
+    <credits>
+      <director>Jorge Fernando</director>
+      <actor>Alexandre Borges</actor>
+      <actor>Murilo Benício</actor>
+      <actor>Caio Castro</actor>
+      <actor>Isis Valverde</actor>
+      <actor>Malu Mader</actor>
+      <actor>Nicette Bruno</actor>
+      <actor>Juliana Paiva</actor>
+      <actor>Tato Gabus Mendes</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820180500 -0300" stop="20210820183000 -0300" channel="InterTV Cabugi">
+    <title lang="pt">Malhação</title>
+    <desc lang="pt">Duca se desculpa com Nat e a beija. Bianca desabafa com o retrato de sua mãe. Lobão, embriagado, chega à casa de Nat e Duca se esconde.(n)</desc>
+    <credits>
+      <director>Luiz Henrique Rios</director>
+      <director>José Alvarenga Jr.</director>
+      <actor>Arthur Aguiar</actor>
+      <actor>Bruna Hamu</actor>
+      <actor>Emanuelle Araújo</actor>
+      <actor>Eriberto Leão</actor>
+      <actor>Isabella Santoni</actor>
+      <actor>Jeniffer Nascimento</actor>
+      <actor>Rafael Vitti</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E149</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820183000 -0300" stop="20210820191500 -0300" channel="InterTV Cabugi">
+    <title lang="pt">Nos Tempos do Imperador</title>
+    <desc lang="pt">Eugênio e Luísa discutem. Pedro afirma a Pilar que não pode interceder por ela junto à faculdade de Salvador.(n)</desc>
+    <credits>
+      <director>Vinicius Coimbra</director>
+      <actor>Alexandre Nero</actor>
+      <actor>Gabriela Medvedovski</actor>
+      <actor>Letícia Sabatella</actor>
+      <actor>Mariana Ximenes</actor>
+      <actor>Selton Mello</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E11</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820191500 -0300" stop="20210820194500 -0300" channel="InterTV Cabugi">
+    <title lang="pt">RN TV - 2ª Edição</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_rntv2aedicao01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820194500 -0300" stop="20210820203000 -0300" channel="InterTV Cabugi">
+    <title lang="pt">Pega Pega</title>
+    <desc lang="pt">Madalena não aceita a ajuda de Cristóvão. Nelito aconselha Pedrinho a fazer as pazes com Luiza.(n)</desc>
+    <credits>
+      <director>Luiz Henrique Rios</director>
+      <actor>Camila Queiroz</actor>
+      <actor>Mateus Solano</actor>
+      <actor>Marcos Caruso</actor>
+      <actor>Vanessa Giácomo</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/pegapega01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E29</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820203000 -0300" stop="20210820213000 -0300" channel="InterTV Cabugi">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+    <credits>
+      <director>William Bonner</director>
+      <actor>William Bonner</actor>
+      <actor>Renata Vasconcellos</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/jornalnacional01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820213000 -0300" stop="20210820223500 -0300" channel="InterTV Cabugi">
+    <title lang="pt">Império</title>
+    <desc lang="pt">Beatriz sente falta de Enrico. Cláudio liga para Leonardo. Du é levada para a maternidade e João Lucas tenta acalmá-la.(n)</desc>
+    <credits>
+      <director>Rogério Gomes</director>
+      <actor>Alexandre Nero</actor>
+      <actor>Lilia Cabral</actor>
+      <actor>Mariana Ruy Barbosa</actor>
+      <actor>Marjorie Estiano</actor>
+      <actor>Drica Moraes</actor>
+      <actor>Caio Blat</actor>
+      <actor>Andreia Horta</actor>
+      <actor>Daniel Rocha</actor>
+      <actor>Leandra Leal</actor>
+      <actor>Rafael Cardoso</actor>
+      <actor>Paulo Betti</actor>
+      <actor>Zezé Polessa</actor>
+      <actor>Nanda Costa</actor>
+      <actor>Vanessa Giácomo</actor>
+      <actor>Malu Galli</actor>
+      <actor>Flavio Galvão</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/imperio01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E113</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820223500 -0300" stop="20210820232500 -0300" channel="InterTV Cabugi">
+    <title lang="pt">Globo Repórter</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <actor>Glória Maria</actor>
+      <actor>Sandra Annenberg</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/globoreporter01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820232500 -0300" stop="20210821003000 -0300" channel="InterTV Cabugi">
+    <title lang="pt">Ilha de Ferro</title>
+    <desc lang="pt">A série conta a história de uma equipe de petroleiros que se divide entre os dilemas da vida familiar em terra firme e o clima de ebulição em alto-mar.(n)</desc>
+    <credits>
+      <director>Afonso Poyart</director>
+      <director>Guga Sander</director>
+      <actor>Cauã Reymond</actor>
+      <actor>Klebber Toledo</actor>
+      <actor>Maria Casadevall</actor>
+      <actor>Sophie Charlotte</actor>
+      <actor>Taumaturgo Ferreira</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821003000 -0300" stop="20210821012000 -0300" channel="InterTV Cabugi">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+    <credits>
+      <director>Jorge Sacramento</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/jornaldaglobo01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821012000 -0300" stop="20210821020000 -0300" channel="InterTV Cabugi">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Com experiência de décadas de reportagem e o espírito curioso pela história do outro, Pedro Bial apresenta um amplo espaço para escutar, opinar e multiplicar opiniões.(n)</desc>
+    <credits>
+      <director>Monica Almeida</director>
+      <actor>Pedro Bial</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/conversacombial01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821020000 -0300" stop="20210821031500 -0300" channel="InterTV Cabugi">
+    <title lang="pt">Corujão: Qualquer Gato Vira-Lata</title>
+    <title lang="en">Qualquer Gato Vira-Lata</title>
+    <desc lang="pt">Depois de ser desprezada pelo namorado mimado e mulherengo, Tati busca maneiras de reconquistá-lo. Para isso, ela procura Conrado, um professor de biologia que defende uma polêmica tese.(n)</desc>
+    <credits>
+      <director>Tomas Portella</director>
+      <director>Daniela De Carlo</director>
+      <actor>Cléo Pires</actor>
+      <actor>Dudu Azevedo</actor>
+      <actor>Malvino Salvador</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/filme_corujaopadre01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821031500 -0300" stop="20210821044500 -0300" channel="InterTV Cabugi">
+    <title lang="pt">Corujão II: Dia de Casamento 2</title>
+    <title lang="en">Wedding March 2: Resorting To Love</title>
+    <desc lang="pt">Olivia e Mick se reencontraram depois de 25 anos. Agora, eles são sócios em um resort para casamentos e percebem que um romance pode estar no seu destino.(n)</desc>
+    <credits>
+      <director>David Weaver</director>
+      <actor>Jack Wagner</actor>
+      <actor>Josie Bissett</actor>
+      <actor>Aren Buchholz</actor>
+      <actor>Sarah Grey</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/filme_corujaoiimaxpaynesededevin01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821044500 -0300" stop="20210821055500 -0300" channel="InterTV Cabugi">
+    <title lang="pt">Corujão III: Minutos Atrás</title>
+    <title lang="en">Minutos Atrás</title>
+    <desc lang="pt">Nildo e Alonso são catadores cujas almas vagam atrás de sonhos e medos jogados fora em busca de um motivo para viverem. Junto com o cavalo Ruminante, os dois dividem histórias fantásticas e surreais.(n)</desc>
+    <credits>
+      <director>Caio Sóh</director>
+      <actor>Vladimir Brichta</actor>
+      <actor>Otávio Müller</actor>
+      <actor>Paulinho Moska</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/filme_corujaoiiipalavrasdeamor01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821055500 -0300" stop="20210821065000 -0300" channel="InterTV Cabugi">
+    <title lang="pt">Como Será?</title>
+    <desc lang="pt">Reportagens sobre cidadania, educação, ecologia, trabalho e inovação, com apresentação de Sandra Annenberg.(n)</desc>
+    <credits>
+      <director>Maurício Yared</director>
+      <actor>Sandra Annenberg</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Educativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/comosera01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821065000 -0300" stop="20210821120000 -0300" channel="InterTV Cabugi">
+    <title lang="pt">É de Casa</title>
+    <desc lang="pt">Programa feito para toda a família conta com convidados para falar sobre tutoriais de moda, culinária, serviço, construção, pet, faça você mesmo, entre outros.(n)</desc>
+    <credits>
+      <director>Leandro Meneguite</director>
+      <actor>Ana Furtado</actor>
+      <actor>André Marques</actor>
+      <actor>Cissa Guimarães</actor>
+      <actor>Patrícia Poeta</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/edecasa01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821120000 -0300" stop="20210821130000 -0300" channel="InterTV Cabugi">
+    <title lang="pt">RN TV - 1ª Edição</title>
+    <desc lang="pt">Telejornal local que mostra as notícias de cada estado. Em pauta a notícia da cidade, prestação de serviço, situação do trânsito e previsão do tempo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821130000 -0300" stop="20210821132500 -0300" channel="InterTV Cabugi">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O programa apresenta a cobertura completa dos eventos esportivos do Brasil e do mundo, e acompanha o dia a dia dos atletas.(n)</desc>
+    <credits>
+      <director>André Boaventura</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/globoesporte01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821132500 -0300" stop="20210821141000 -0300" channel="InterTV Cabugi">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+    <credits>
+      <director>Cláudio Marques</director>
+      <actor>Maria Júlia Coutinho</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/jornalhoje01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821141000 -0300" stop="20210821145000 -0300" channel="InterTV Cabugi">
+    <title lang="pt">O Melhor da Escolinha</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Cininha de Paula</director>
+      <actor>Bruno Mazzeo</actor>
+      <actor>Lúcio Mauro Filho</actor>
+      <actor>Otávio Müller</actor>
+      <actor>Rodrigo Sant'Anna</actor>
+      <actor>Fabiana Karla</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821145000 -0300" stop="20210821160000 -0300" channel="InterTV Cabugi">
+    <title lang="pt">Se Joga</title>
+    <desc lang="pt">'Se Joga' traz entretenimento e informação com o melhor da semana no mundo das celebridades, da TV, do cinema, da música e das redes sociais.(n)</desc>
+    <credits>
+      <director>Bianca Lopes</director>
+      <director>Frederico Neves</director>
+      <actor>Fernanda Gentil</actor>
+      <actor>Érico Brás</actor>
+      <actor>Tati Machado</actor>
+      <actor>Juliane Massaoka</actor>
+      <actor>Cauê Fabiano</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821160000 -0300" stop="20210821184000 -0300" channel="InterTV Cabugi">
+    <title lang="pt">Caldeirão do Huck</title>
+    <desc lang="pt">Programa de auditório de Luciano Huck, com quadros como 'Mandando Bem', 'Olha a Minha Banda', 'Lar Doce Lar', 'Lata Velha' e 'Agora ou Nunca 5 Estrelas'.(n)</desc>
+    <credits>
+      <director>Rodrigo Cebrian</director>
+      <director>Mario Meirelles</director>
+      <actor>Luciano Huck</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/caldeiraodohuck01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821184000 -0300" stop="20210821192500 -0300" channel="InterTV Cabugi">
+    <title lang="pt">Nos Tempos do Imperador</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Vinicius Coimbra</director>
+      <actor>Alexandre Nero</actor>
+      <actor>Gabriela Medvedovski</actor>
+      <actor>Letícia Sabatella</actor>
+      <actor>Mariana Ximenes</actor>
+      <actor>Selton Mello</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821192500 -0300" stop="20210821195000 -0300" channel="InterTV Cabugi">
+    <title lang="pt">RN TV - 2ª Edição</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_rntv2aedicao01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821195000 -0300" stop="20210821203000 -0300" channel="InterTV Cabugi">
+    <title lang="pt">Pega Pega</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Luiz Henrique Rios</director>
+      <actor>Marcos Caruso</actor>
+      <actor>Mateus Solano</actor>
+      <actor>Camila Queiroz</actor>
+      <actor>Rodrigo Fagundes</actor>
+      <actor>João Baldasserini</actor>
+      <actor>Thiago Martins</actor>
+      <actor>Nanda Costa</actor>
+      <actor>Guilherme Weber</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/pegapega01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821203000 -0300" stop="20210821212000 -0300" channel="InterTV Cabugi">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+    <credits>
+      <director>William Bonner</director>
+      <actor>William Bonner</actor>
+      <actor>Renata Vasconcellos</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/jornalnacional01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821212000 -0300" stop="20210821222500 -0300" channel="InterTV Cabugi">
+    <title lang="pt">Império</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Rogério Gomes</director>
+      <actor>Alexandre Nero</actor>
+      <actor>Lilia Cabral</actor>
+      <actor>Mariana Ruy Barbosa</actor>
+      <actor>Marjorie Estiano</actor>
+      <actor>Drica Moraes</actor>
+      <actor>Caio Blat</actor>
+      <actor>Andreia Horta</actor>
+      <actor>Daniel Rocha</actor>
+      <actor>Leandra Leal</actor>
+      <actor>Rafael Cardoso</actor>
+      <actor>Paulo Betti</actor>
+      <actor>Zezé Polessa</actor>
+      <actor>Nanda Costa</actor>
+      <actor>Vanessa Giácomo</actor>
+      <actor>Malu Galli</actor>
+      <actor>Flavio Galvão</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/imperio01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821222500 -0300" stop="20210821231000 -0300" channel="InterTV Cabugi">
+    <title lang="pt">Vai Que Cola</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Regis Faria</director>
+      <director>João Fonseca</director>
+      <actor>Marcus Majella</actor>
+      <actor>Samantha Schmütz</actor>
+      <actor>Cacau Protásio</actor>
+      <actor>Luis Lobianco</actor>
+      <actor>Catarina Abdalla</actor>
+      <actor>Emiliano D'Ávila</actor>
+      <actor>Marcelo Médici</actor>
+      <actor>Aline Riscado</actor>
+      <actor>Rafael Infante</actor>
+      <actor>Grace Gianoukas</actor>
+      <actor>Alejandro</actor>
+      <actor>Paulinho Serra</actor>
+      <actor>Rhaisa Batista</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/vaiquecola01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821231000 -0300" stop="20210822005500 -0300" channel="InterTV Cabugi">
+    <title lang="pt">Altas Horas</title>
+    <desc lang="pt">Serginho Groisman comanda a atração, que abre espaço para boa música, encontros inesperados e entrevistas com personalidades.(n)</desc>
+    <credits>
+      <director>Serginho Groisman</director>
+      <actor>Serginho Groisman</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/altashoras01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
 </tv>
