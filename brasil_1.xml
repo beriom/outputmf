@@ -260,10 +260,12 @@
   </channel>
   <channel id="H2 HD">
     <display-name lang="pt">H2 HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/h2.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="HBO (HD)">
     <display-name lang="pt">HBO (HD)</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/hbo.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="HBO 2 HD">
@@ -9602,6 +9604,264 @@
     <category lang="pt">Talk Show</category>
     <country lang="pt">Brasil</country>
     <episode-num system="onscreen">S3 E22</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820160400 -0300" stop="20210820170000 -0300" channel="H2 HD">
+    <title lang="pt">Naufrágios</title>
+    <desc lang="pt">Uma equipe de exploradores marítimos parte para encontrar um navio desaparecido há mais de 100 anos no Triângulo das Bermudas.(n)</desc>
+    <credits>
+      <director>Tom Alexander</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820170000 -0300" stop="20210820175800 -0300" channel="H2 HD">
+    <title lang="pt">Naufrágios</title>
+    <desc lang="pt">Um grupo de exploradores subaquáticos investiga o naufrágio de um navio com um enorme canhão em seu convés, descoberto na costa da Flórida. A Alemanha nazista esteve muito mais perto dos EUA do que se acredita durante a Segunda Guerra Mundial?(n)</desc>
+    <credits>
+      <director>Tom Alexander</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820175800 -0300" stop="20210820183100 -0300" channel="H2 HD">
+    <title lang="pt">A Cara do Futuro</title>
+    <desc lang="pt">Este episódio mostra a revolução tecnológica no campo e como aplicativos e sistemas estão mudando a vida de homens e mulheres em todo o Brasil.(n)</desc>
+    <credits>
+      <director>Esdras de Lucia</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ciência</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E11</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820183100 -0300" stop="20210820190300 -0300" channel="H2 HD">
+    <title lang="pt">A Cara do Futuro</title>
+    <desc lang="pt">Como podemos erradicar a fome e a violência doméstica no país? Fazemos uma jornada pelo Brasil para conhecer iniciativas sociais e tecnológicas que visam juntar as pessoas para criar um futuro melhor.(n)</desc>
+    <credits>
+      <director>Esdras de Lucia</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ciência</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820190300 -0300" stop="20210820200000 -0300" channel="H2 HD">
+    <title lang="pt">O Universo</title>
+    <desc lang="pt">Pegue uma carona na viagem de um cometa, enquanto ele percorre desde o exterior frio e escuro do sistema solar até a superfície ardente do sol, visitando cada planeta, desde as montanhas nas luas de Netuno até as cavernas no subsolo de Marte.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ouniverso01.jpg" />
+    <episode-num system="onscreen">E66</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820200000 -0300" stop="20210820205900 -0300" channel="H2 HD">
+    <title lang="pt">O Legado das Civilizações</title>
+    <desc lang="pt">O humanismo da filosofia chinesa de Confúcio, a república de Platão e Aristóteles e os instrumentos políticos dos romanos influenciaram a vida social e transformaram as sociedades até os dias de hoje.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820205900 -0300" stop="20210820220000 -0300" channel="H2 HD">
+    <title lang="pt">Animais Que Mudaram O Mundo</title>
+    <desc lang="pt">Os animais inspiraram nossa criatividade ao longo da história. Desde as mais antigas pinturas rupestres, diferentes culturas e religiões, e até mesmo as mais modernas invenções científicas, os utilizam como figuras centrais.(n)</desc>
+    <credits>
+      <actor>Mark Parton</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820225900 -0300" channel="H2 HD">
+    <title lang="pt">Austrália Em Cores</title>
+    <desc lang="pt">Após o final da guerra, a imigração muda a cara da Austrália e o governo adota medidas polêmicas. O trabalho e a diversificação da economia geram prosperidade. A identidade nacional é impulsionada, mas os aborígenes sofrem racismo.(n)</desc>
+    <credits>
+      <director>Lisa Matthews</director>
+      <actor>Hugo Weaving</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Australia</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820225900 -0300" stop="20210820235500 -0300" channel="H2 HD">
+    <title lang="pt">Mundos Subterrâneos</title>
+    <desc lang="pt">Na Suíça, visitaremos 3 dos 300 mil bunkers construídos entre a 2ª Guerra Mundial e a atualidade. Na sequência, conheceremos a extraordinária e misteriosa criação subterrânea de um empresário de Liverpool.(n)</desc>
+    <credits>
+      <director>Jonny Leeder</director>
+      <director>Iain Paterson</director>
+      <actor>Chris Jarman</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820235500 -0300" stop="20210821005300 -0300" channel="H2 HD">
+    <title lang="pt">Inventos da Antiguidade</title>
+    <desc lang="pt">Investigaremos o castelo que ajudou a criar a Grã Bretanha; saiba porque era uma fortaleza inacessível. Descobriremos os invisíveis sistemas defensivos subterrâneos da Capadócia, os mais longos da história, e saberemos porque tiveram tanto sucesso.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_inventosdaantiguidade01.jpg" />
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820155000 -0300" stop="20210820180000 -0300" channel="HBO (HD)">
+    <title lang="pt">Jumanji: Próxima Fase</title>
+    <desc lang="pt">Dwayne Johnson, Kevin Hart e Jack Black voltam ao jogo mais uma vez, o único problema é que seus personagens estão misturados.(n)</desc>
+    <credits>
+      <director>Jake Kasdan</director>
+      <actor>Dwayne Johnson</actor>
+      <actor>Jack Black</actor>
+      <actor>Kevin Hart</actor>
+      <actor>Karen Gillan</actor>
+      <actor>Awkwafina</actor>
+      <actor>Nick Jonas</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820190500 -0300" channel="HBO (HD)">
+    <title lang="pt">Fora do Armário</title>
+    <desc lang="pt">O deputado federal Jean Wyllys e o ator e cantor Thammy Miranda, contam como foi sair do armário - tudo ao vivo e em cores.(n)</desc>
+    <credits>
+      <director>Guto Barra</director>
+      <director>Tatiana Issa</director>
+      <actor>Gretchen</actor>
+      <actor>Sula Miranda</actor>
+      <actor>Thammy Miranda</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_foradoarmario01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820190500 -0300" stop="20210820201000 -0300" channel="HBO (HD)">
+    <title lang="pt">Fora do Armário</title>
+    <desc lang="pt">Talvez, uma das decisões mais difíceis para um pai ou uma mãe seja, saber o momento certo para revelar aos filhos sua real orientação sexual.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_foradoarmario01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820201000 -0300" stop="20210820220000 -0300" channel="HBO (HD)">
+    <title lang="pt">Alguém Avisa?</title>
+    <desc lang="pt">"Kristen Stewart estrela nesta comédia romântica na qual deve fingir ser ""apenas uma amiga"" quando visita os pais de sua namorada no Natal.".(n)</desc>
+    <credits>
+      <director>Clea DuVall</director>
+      <actor>Kristen Stewart</actor>
+      <actor>Mackenzie Davis</actor>
+      <actor>Mary Steenburgen</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Reino Unido</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820230000 -0300" channel="HBO (HD)">
+    <title lang="pt">We're Here</title>
+    <desc lang="pt">As queens viajam para Branson, Missouri, uma comunidade que se orgulha de seus valores religiosos tradicionais.(n)</desc>
+    <credits>
+      <director>Peter LoGreco</director>
+      <actor>David Huggard</actor>
+      <actor>D.J. 'Shangela' Pierce</actor>
+      <actor>Caldwell Tidicue</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820230000 -0300" stop="20210820233500 -0300" channel="HBO (HD)">
+    <title lang="pt">Greg News Com Gregório Duvivier</title>
+    <desc lang="pt">Com humor afiado, Gregório Duvivier vai direto ao ponto na interpretação das principais notícias na quinta temporada de Greg News.(n)</desc>
+    <credits>
+      <director>Alessandra Orofino</director>
+      <actor>Gregório Duvivier</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/gregnews01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S5</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820233500 -0300" stop="20210821021000 -0300" channel="HBO (HD)">
+    <title lang="pt">Tenet</title>
+    <desc lang="pt">Christopher Nolan apresenta esta ficção científica não sobre viagem no tempo, mas sobre sua inversão, estrelado por John David Washington.(n)</desc>
+    <credits>
+      <director>Christopher Nolan</director>
+      <actor>John David Washington</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
     <rating system="BR">
       <value>14</value>
     </rating>
