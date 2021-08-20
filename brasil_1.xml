@@ -4684,4 +4684,383 @@
       <value>L</value>
     </rating>
   </programme>
+  <programme start="20210820090000 -0300" stop="20210820110000 -0300" channel="Band SP HD">
+    <title lang="pt">The Chef com Edu Guedes</title>
+    <desc lang="pt">Programa culinário com as maiores receitas de Edu Guedes.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820110000 -0300" stop="20210820123000 -0300" channel="Band SP HD">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">Notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/jogoaberto01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820123000 -0300" stop="20210820150000 -0300" channel="Band SP HD">
+    <title lang="pt">Local</title>
+    <desc lang="pt">Programa Local.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820150000 -0300" stop="20210820160000 -0300" channel="Band SP HD">
+    <title lang="pt">Melhor Da Tarde com Cátia Fonseca</title>
+    <title lang="en">Melhor da Tarde</title>
+    <desc lang="pt">Dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_melhordatardecomcatiafonseca01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820160000 -0300" stop="20210820185000 -0300" channel="Band SP HD">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/brasilurgente01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820185000 -0300" stop="20210820192000 -0300" channel="Band SP HD">
+    <title lang="pt">Local</title>
+    <desc lang="pt">Programa Local.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820192000 -0300" stop="20210820202500 -0300" channel="Band SP HD">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/jornaldaband01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820202500 -0300" stop="20210820211000 -0300" channel="Band SP HD">
+    <title lang="pt">Nazaré</title>
+    <desc lang="pt">Verônica tem em mãos o vídeo de Félix assassinando Antônio, ela mostra para ele e o chantageia para transferir a empresa somente para o nome dela.(n)</desc>
+    <credits>
+      <director>Sandra Santos</director>
+      <actor>Afonso Pimentel</actor>
+      <actor>Carolina Loureiro</actor>
+      <actor>José Mata</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Portugal</country>
+    <episode-num system="onscreen">E69</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820211000 -0300" stop="20210820220000 -0300" channel="Band SP HD">
+    <title lang="pt">Igreja da Graça</title>
+    <desc lang="pt">Programa religioso comandado pelo Missionário R.R. Soares.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_igrejadagraca01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210820224500 -0300" channel="Band SP HD">
+    <title lang="pt">Band Notícias</title>
+    <desc lang="pt">Programa jornalístico com opinião e foco nos principais temas do dia, complementando os noticiários da Band.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820224500 -0300" stop="20210821003000 -0300" channel="Band SP HD">
+    <title lang="pt">90 Dias para Casar - Antes dos 90 Dias</title>
+    <title lang="en">90 Day Fiance</title>
+    <desc lang="pt">Imagina conhecer seu noivo e ter apenas 90 dias para casar, ou você seria expulso do país? O drama desses relacionamentos apressados com paixão e confusão está aqui!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821003000 -0300" stop="20210821011000 -0300" channel="Band SP HD">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no Mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/jornaldanoite01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821011000 -0300" stop="20210821011500 -0300" channel="Band SP HD">
+    <title lang="pt">Que Fim Levou? - Boletim</title>
+    <desc lang="pt">A memória esportiva brasileira sendo resgatada.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821011500 -0300" stop="20210821020000 -0300" channel="Band SP HD">
+    <title lang="pt">Esporte Total</title>
+    <desc lang="pt">Um resumo das últimas rodadas do futebol brasileiro e internacional e tudo sobre as modalidades esportivas ao redor do mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821020000 -0300" stop="20210821023000 -0300" channel="Band SP HD">
+    <title lang="pt">Caçadora de Relíquias</title>
+    <title lang="en">Relic Hunter</title>
+    <desc lang="pt">Relic Hunter mostra as aventuras da arqueologista americana nada convencional, Sydney Fox, e seu reservado assistente britânico Nigel Bailey.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/cacadoradereliquias01.jpg" />
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821023000 -0300" stop="20210821024000 -0300" channel="Band SP HD">
+    <title lang="pt">+info</title>
+    <desc lang="pt">Reportagens especiais sobre todos ao assuntos, do Brasil e do Mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_info01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821024000 -0300" stop="20210821034500 -0300" channel="Band SP HD">
+    <title lang="pt">Jornal da Band - Reapresentação</title>
+    <desc lang="pt">Os principais fatos do dia no Brasil e no Mundo relatados com imparcialidade e profundidade, por uma equipe de jornalistas a serviço da verdade.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/jornaldaband01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821034500 -0300" stop="20210821051500 -0300" channel="Band SP HD">
+    <title lang="pt">Cine+ Detenção</title>
+    <title lang="en">The Experiment</title>
+    <desc lang="pt">Um grupo de homens se oferece como voluntários em uma experiência científica. Com o objetivo de testar o comportamento humano, este reality show violento vai levar todos aos seus limites.(n)</desc>
+    <credits>
+      <director>Paul Scheuring</director>
+      <actor>Cam Gigandet</actor>
+      <actor>Adrien Brody</actor>
+      <actor>Forest Whitaker</actor>
+      <actor>Maggie Grace</actor>
+      <actor>Rod Maiorano</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/filme_cineaplataforma01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821051500 -0300" stop="20210821060000 -0300" channel="Band SP HD">
+    <title lang="pt">+info</title>
+    <desc lang="pt">Reportagens especiais sobre todos ao assuntos, do Brasil e do Mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/jornal_info01_2_2019.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821120000 -0300" channel="Band SP HD">
+    <title lang="pt">Local</title>
+    <desc lang="pt">Programa Local.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821120000 -0300" stop="20210821123000 -0300" channel="Band SP HD">
+    <title lang="pt">Nosso Agro</title>
+    <desc lang="pt">Informação, qualificação profissional e educação aos produtores rurais de todo o país, além de divulgar as ações do setor agropecuário para toda a sociedade brasileira.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821123000 -0300" stop="20210821130000 -0300" channel="Band SP HD">
+    <title lang="pt">Acelerados</title>
+    <desc lang="pt">Um programa especial para aqueles que amam carros, motos e muita velocidade.(n)</desc>
+    <credits>
+      <actor>Rubens Barrichello</actor>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821130000 -0300" stop="20210821132500 -0300" channel="Band SP HD">
+    <title lang="pt">Programação BAND</title>
+    <desc lang="pt">Horário destinado à exibição de conteúdo regional.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_programacaoband01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821132500 -0300" stop="20210821153000 -0300" channel="Band SP HD">
+    <title lang="pt">Campeonato Alemão: Bayer Leverkusen x Mönchengladbach - Ao Vivo</title>
+    <desc lang="pt">Torneio da principal liga de futebol profissional da Alemanha, a Bundesliga.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821153000 -0300" stop="20210821160000 -0300" channel="Band SP HD">
+    <title lang="pt">Band Esporte Clube</title>
+    <desc lang="pt">Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/bandesporte01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821160000 -0300" stop="20210821185000 -0300" channel="Band SP HD">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/brasilurgente01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821185000 -0300" stop="20210821192000 -0300" channel="Band SP HD">
+    <title lang="pt">Local</title>
+    <desc lang="pt">Programa Local.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821192000 -0300" stop="20210821202500 -0300" channel="Band SP HD">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/jornaldaband01.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821202500 -0300" stop="20210821212000 -0300" channel="Band SP HD">
+    <title lang="pt">Duelo de Mães</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <actor>Ticiana Villas Boas</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821212000 -0300" stop="20210821221500 -0300" channel="Band SP HD">
+    <title lang="pt">Igreja da Graça</title>
+    <desc lang="pt">Programa religioso comandado pelo Missionário R.R. Soares.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_igrejadagraca01.jpg" />
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821221500 -0300" stop="20210821230000 -0300" channel="Band SP HD">
+    <title lang="pt">Dr. House</title>
+    <title lang="en">House M.D.</title>
+    <desc lang="pt">Uma jovem professora de jardim de infância, Rebecca Adler, tem convulses e desmaia na frente de sua turma.(n)</desc>
+    <credits>
+      <director>Bryan Singer</director>
+      <actor>Hugh Laurie</actor>
+      <actor>Lisa Edelstein</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821230000 -0300" stop="20210821234500 -0300" channel="Band SP HD">
+    <title lang="pt">The Blacklist</title>
+    <title lang="en">The Blacklist: The Judge</title>
+    <desc lang="pt">Quando um proeminente promotor é encontrado depois de 12 anos desaparecido, Red acredita que isto foi trabalho de Ruth Kipling (Diane Wiest), também conhecida como "A Juíza".(n)</desc>
+    <credits>
+      <director>Joe Carnahan</director>
+      <actor>James Spader</actor>
+      <actor>Megan Boone</actor>
+      <actor>Diego Klattenhoff</actor>
+      <actor>Ryan Eggold</actor>
+      <actor>Parminder Nagra</actor>
+      <actor>Harry Lennix</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/theblacklist01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821234500 -0300" stop="20210822012000 -0300" channel="Band SP HD">
+    <title lang="pt">SFT - MMA</title>
+    <desc lang="pt">As melhores lutas dos atletas que disputarão o SFT MMA.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
 </tv>
