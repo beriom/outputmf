@@ -72,6 +72,7 @@
   </channel>
   <channel id="Combate HD">
     <display-name lang="pt">Combate HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/combate.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Comedy Central HD">
@@ -12790,6 +12791,249 @@
     <desc lang="pt">O CNN Sinais Vitais, com o Dr. Roberto Kalil, vai mostrar como é difícil a vida de pacientes jovens e adultos com asma.(n)</desc>
     <category lang="pt">Jornalismo</category>
     <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820140000 -0300" stop="20210820172000 -0300" channel="Combate HD">
+    <title lang="pt">UFC 265: Lewis x Gane</title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ufc01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820172000 -0300" stop="20210820183000 -0300" channel="Combate HD">
+    <title lang="pt">Arena Combate: Karate Combat</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_ufcunleashed01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820183000 -0300" stop="20210821003000 -0300" channel="Combate HD">
+    <title lang="pt">PFL 2021 - Playoffs 2: Pesos Meio-Pesados e Médios - Ao Vivo</title>
+    <desc lang="pt">As grandes estrelas do MMA estão no PFL. Aqui no SporTV. Somos todos campeões!(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821003000 -0300" stop="20210821013000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Unleashed</title>
+    <desc lang="pt">Veja alguns dos melhores duelos com lutadores da American Kickboxing Academy. Com Brock Lesnar x Cain Velasquez; Luke Rockhold x Tim Boetsch; Josh Thomson x Nate Diaz; Daniel Cormier x Dan Henderson.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_ufcunleashed01.jpg" />
+    <episode-num system="onscreen">S9 E11</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821013000 -0300" stop="20210821023000 -0300" channel="Combate HD">
+    <title lang="pt">Tuf 29: Team Volkanovski Vs Team Ortega</title>
+    <desc lang="pt">Tuf 2021: The Return Of The Ultimate Fighter.(n)</desc>
+    <credits>
+      <director>Eduardo Gabbay</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821023000 -0300" stop="20210821030000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Series: UFC Chronicles: O Cara Mais Durão do Planeta</title>
+    <desc lang="pt">Documentários, séries e filmes com grandes nomes do MMA nacional e internacional produzidos pelo UFC.(n)</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_ufcseries01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821030000 -0300" stop="20210821040000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Unleashed</title>
+    <desc lang="pt">Veja alguns dos melhores duelos com lutadores da American Kickboxing Academy. Com Brock Lesnar x Cain Velasquez; Luke Rockhold x Tim Boetsch; Josh Thomson x Nate Diaz; Daniel Cormier x Dan Henderson.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_ufcunleashed01.jpg" />
+    <episode-num system="onscreen">S9 E11</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821040000 -0300" stop="20210821050000 -0300" channel="Combate HD">
+    <title lang="pt">Tuf 29: Team Volkanovski Vs Team Ortega</title>
+    <desc lang="pt">Tuf 2021: The Return Of The Ultimate Fighter.(n)</desc>
+    <credits>
+      <director>Eduardo Gabbay</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821050000 -0300" stop="20210821080000 -0300" channel="Combate HD">
+    <title lang="pt">Arena Combate: PFL 2021 Playoffs 1: Pesos-Penas e Pesos-Leves</title>
+    <desc lang="pt">As grandes estrelas do MMA estão no PFL. Aqui no SporTV. Somos todos campeões!(n)</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_ufcunleashed01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821080000 -0300" stop="20210821113000 -0300" channel="Combate HD">
+    <title lang="pt">UFC 265: Lewis x Gane</title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ufc01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821113000 -0300" stop="20210821123000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Unleashed</title>
+    <desc lang="pt">Veja alguns dos melhores duelos com lutadores da American Kickboxing Academy. Com Brock Lesnar x Cain Velasquez; Luke Rockhold x Tim Boetsch; Josh Thomson x Nate Diaz; Daniel Cormier x Dan Henderson.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_ufcunleashed01.jpg" />
+    <episode-num system="onscreen">S9 E11</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821123000 -0300" stop="20210821130000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Series: Conexão UFC</title>
+    <desc lang="pt">Conexão UFC.(n)</desc>
+    <credits>
+      <director>Eduardo Gabbay</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_ufcseries01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821130000 -0300" stop="20210821140000 -0300" channel="Combate HD">
+    <title lang="pt">Especial Combate: UFC Gastelum x Cannonier</title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
+    <credits>
+      <director>Chris Kartzmark</director>
+      <director>Eduardo Gabbay</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ufc01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821140000 -0300" stop="20210821172000 -0300" channel="Combate HD">
+    <title lang="pt">UFC 265: Lewis x Gane</title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ufc01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821172000 -0300" stop="20210821183000 -0300" channel="Combate HD">
+    <title lang="pt">Arena Combate: Karate Combat</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/esport_ufcunleashed01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821183000 -0300" stop="20210821194500 -0300" channel="Combate HD">
+    <title lang="pt">Especial Combate: UFC Gastelum x Cannonier</title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
+    <credits>
+      <director>Chris Kartzmark</director>
+      <director>Eduardo Gabbay</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ufc01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821194500 -0300" stop="20210821200000 -0300" channel="Combate HD">
+    <title lang="pt">Aquecimento Combate</title>
+    <desc lang="pt">Aquecimento 2021.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821200000 -0300" stop="20210822020000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Gastelum x Cannonier - Ao Vivo</title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
+    <credits>
+      <director>Chris Kartzmark</director>
+      <director>Eduardo Gabbay</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/ufc01.jpg" />
+    <country lang="pt">EUA</country>
     <rating system="BR">
       <value>L</value>
     </rating>
