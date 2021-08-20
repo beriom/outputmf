@@ -550,10 +550,12 @@
   </channel>
   <channel id="Telecine Pipoca HD">
     <display-name lang="pt">Telecine Pipoca HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/tcpipoca.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Telecine Premium HD">
     <display-name lang="pt">Telecine Premium HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/tcpremium.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Telecine Touch HD">
@@ -17336,6 +17338,162 @@
     <country lang="pt">EUA</country>
     <rating system="BR">
       <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820161000 -0300" stop="20210820175500 -0300" channel="Telecine Pipoca HD">
+    <title lang="pt">Operação Obscura</title>
+    <desc lang="pt">A policial Renee testemunha um brutal assassinato por meio da câmera ligada ao seu uniforme. Ela então sente que há algo de macabro no ar quando novas mortes sem explicação começam a acontecer.(n)</desc>
+    <credits>
+      <director>Malik Vitthal</director>
+      <actor>Mary J. Blige</actor>
+      <actor>Anika Noni Rose</actor>
+      <actor>David Zayas</actor>
+      <actor>Nat Wolff</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820175500 -0300" stop="20210820194500 -0300" channel="Telecine Pipoca HD">
+    <title lang="pt">Synchronic</title>
+    <desc lang="pt">A vida de dois paramédicos de Nova Orleans é destruída depois que eles encontram uma série de mortes horríveis ligadas a uma droga projetada com efeitos bizarros e sobrenaturais.(n)</desc>
+    <credits>
+      <director>Aaron Moorhead</director>
+      <director>Justin Benson</director>
+      <actor>Anthony Mackie</actor>
+      <actor>Ally Ioannides</actor>
+      <actor>Jamie Dornan</actor>
+      <actor>Katie Aselton</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820194500 -0300" stop="20210820220000 -0300" channel="Telecine Pipoca HD">
+    <title lang="pt">Velozes E Furiosos 6</title>
+    <desc lang="pt">Após o golpe no Rio de Janeiro, Dom, Brian e o resto do grupo se tornaram fugitivos. Enquanto isso, o agente Hobbs esteve perseguindo uma organização de mercenários, que conta com a ajuda de uma destemida aliada.(n)</desc>
+    <credits>
+      <director>Justin Lin</director>
+      <actor>Vin Diesel</actor>
+      <actor>Dwayne Johnson</actor>
+      <actor>Jordana Brewster</actor>
+      <actor>Michelle Rodriguez</actor>
+      <actor>Paul Walker</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210821000000 -0300" channel="Telecine Pipoca HD">
+    <title lang="pt">Deixe-o Partir</title>
+    <desc lang="pt">Em luto pela morte do filho, dois aposentados vão atrás de seu neto que vive com outra família. Quando descobrem o perigo que aquelas pessoas podem trazer, eles tentam resgatar a criança sem causar problemas.(n)</desc>
+    <credits>
+      <director>Thomas Bezucha</director>
+      <actor>Diane Lane</actor>
+      <actor>Jeffrey Donovan</actor>
+      <actor>Kayli Carter</actor>
+      <actor>Kevin Costner</actor>
+      <actor>Lesley Manville</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820151000 -0300" stop="20210820173000 -0300" channel="Telecine Premium HD">
+    <title lang="pt">Godzilla Ii: Rei dos Monstros</title>
+    <desc lang="pt">Nesta continuação que se passa cinco anos após Godzilla (2014), os integrantes da agência Monarch precisam lidar com a súbita aparição de vários monstros, incluindo Mothra, Rodan e Ghidorah.(n)</desc>
+    <credits>
+      <director>Michael Dougherty</director>
+      <actor>Bradley Whitford</actor>
+      <actor>Ken Watanabe</actor>
+      <actor>Kyle Chandler</actor>
+      <actor>Millie Bobby Brown</actor>
+      <actor>Thomas Middleditch</actor>
+      <actor>Vera Farmiga</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country lang="pt">Canadá</country>
+    <country lang="pt">China</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820173000 -0300" stop="20210820195000 -0300" channel="Telecine Premium HD">
+    <title lang="pt">O Dia do Atentado</title>
+    <desc lang="pt">A história do bombardeio da Maratona de Boston de 2013 e as consequências, que inclui a caçada à cidade para encontrar os terroristas responsáveis.(n)</desc>
+    <credits>
+      <director>Peter Berg</director>
+      <actor>Mark Wahlberg</actor>
+      <actor>John Goodman</actor>
+      <actor>Kevin Bacon</actor>
+      <actor>Michelle Monaghan</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <country lang="pt">Hong Kong</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820195000 -0300" stop="20210820220000 -0300" channel="Telecine Premium HD">
+    <title lang="pt">John Wick: Um Novo Dia Para Matar</title>
+    <desc lang="pt">John Wick é forçado a voltar à ativa quando lhe cobram uma dívida. Ele deve matar uma mafiosa italiana, mas logo passa a lutar pela própria vida quando abrem um contrato milionário por sua cabeça.(n)</desc>
+    <credits>
+      <director>Chad Stahelski</director>
+      <actor>Keanu Reeves</actor>
+      <actor>Common</actor>
+      <actor>Laurence Fishburne</actor>
+      <actor>Riccardo Scamarcio</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+    <country lang="pt">Hong Kong</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210821003000 -0300" channel="Telecine Premium HD">
+    <title lang="pt">Aquaman</title>
+    <desc lang="pt">Filho da rainha Atlanna com um homem comum, Arthur cresceu dividido entre terra e mar. Mas, quando a superfície é ameaçada, o Aquaman assume de vez a posição de rei dos mares para proteger aqueles que ama.(n)</desc>
+    <credits>
+      <director>James Wan</director>
+      <actor>Amber Heard</actor>
+      <actor>Dolph Lundgren</actor>
+      <actor>Jason Momoa</actor>
+      <actor>Nicole Kidman</actor>
+      <actor>Patrick Wilson</actor>
+      <actor>Willem Dafoe</actor>
+      <actor>Yahya Abdul-Mateen Ii</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">Austrália</country>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
     </rating>
   </programme>
 </tv>
