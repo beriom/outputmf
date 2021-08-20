@@ -161,6 +161,7 @@
   </channel>
   <channel id="E! HD">
     <display-name lang="pt">E! HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/eentertainment.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="ESPN 2 HD">
@@ -24895,6 +24896,672 @@
     <episode-num system="onscreen">S5 E99</episode-num>
     <rating system="BR">
       <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820134500 -0300" stop="20210820144000 -0300" channel="E! HD">
+    <title lang="pt">Flip It Like Disick</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <actor>Scott Disick</actor>
+      <actor>Willa Ford</actor>
+      <actor>Benny Luciano</actor>
+      <actor>Kozet Luciano</actor>
+      <actor>Miki Mor</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820144000 -0300" stop="20210820153500 -0300" channel="E! HD">
+    <title lang="pt">Project Runway</title>
+    <desc lang="pt">Desta vez a inspiração para as criações serão os fãs de Project Runway. Cada estilista terá como dupla um fã do programa e os participantes terão de criar um look específico para cada um deles.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/projectrunway01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S12</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820153500 -0300" stop="20210820163000 -0300" channel="E! HD">
+    <title lang="pt">Project Runway</title>
+    <desc lang="pt">Desta vez os competidores irão se inspirar em jovens inovadores que marcam tendência. O que não sabem é que estas personalidades se unirão a eles durante o programa.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/projectrunway01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S12 E11</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820163000 -0300" stop="20210820172500 -0300" channel="E! HD">
+    <title lang="pt">Below Deck - Vida a Bordo Mediterrâneo</title>
+    <desc lang="pt">Adam aparece para comer com a tripulação colocando toda a conversa em dia.(n)</desc>
+    <credits>
+      <director>Mark Cronin</director>
+      <actor>Hannah Ferrier</actor>
+      <actor>Sandy Yawn</actor>
+      <actor>João Franco</actor>
+      <actor>Kasey Cohen</actor>
+      <actor>Conrad Empson</actor>
+      <actor>Adam Glick</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E15</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820172500 -0300" stop="20210820181500 -0300" channel="E! HD">
+    <title lang="pt">Below Deck - Vida a Bordo Mediterrâneo</title>
+    <desc lang="pt">No final da temporada, a equipe do Talisman faz de tudo para terminar a temporada com uma alta aprovação.(n)</desc>
+    <credits>
+      <director>Mark Cronin</director>
+      <actor>Hannah Ferrier</actor>
+      <actor>Sandy Yawn</actor>
+      <actor>João Franco</actor>
+      <actor>Kasey Cohen</actor>
+      <actor>Conrad Empson</actor>
+      <actor>Adam Glick</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E16</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820181500 -0300" stop="20210820181700 -0300" channel="E! HD">
+    <title lang="pt">Pop!</title>
+    <desc lang="pt">#Pop!Tips - Manu Maya e Ju Malaguti conversam sobre aconselhamento amoroso e como é que funciona a complicada relação entre namoro e redes sociais.(n)</desc>
+    <credits>
+      <director>Alexandre Marinho</director>
+      <actor>Ju Malaguti</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+    <episode-num system="onscreen">S1 E74</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820181700 -0300" stop="20210820191200 -0300" channel="E! HD">
+    <title lang="pt">Below Deck - Vida a Bordo Mediterrâneo</title>
+    <desc lang="pt">A capitã Sandy embarca em outra temporada no Mediterrâneo fora do mundialmente famoso centro de iatismo, a Riviera Francesa.(n)</desc>
+    <credits>
+      <director>Mark Cronin</director>
+      <actor>Hannah Ferrier</actor>
+      <actor>Sandy Yawn</actor>
+      <actor>João Franco</actor>
+      <actor>Mila Kolomeitseva</actor>
+      <actor>Anastasia Surmava</actor>
+      <actor>Aesha Scott</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820191200 -0300" stop="20210820191500 -0300" channel="E! HD">
+    <title lang="pt">Pop!</title>
+    <desc lang="pt">#Socionário - Ouvimos sempre a expressão "masculinidade tóxica", que deixa homens e mulheres em dúvida de como identificar esse comportamento.(n)</desc>
+    <credits>
+      <director>Alexandre Marinho</director>
+      <actor>Ju Malaguti</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+    <episode-num system="onscreen">S1 E73</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820191500 -0300" stop="20210820201000 -0300" channel="E! HD">
+    <title lang="pt">Below Deck - Vida a Bordo Mediterrâneo</title>
+    <desc lang="pt">O primeiro piquenique da temporada na praia começa muito difícil, deixando Colin quebrado e de mãos vazias.(n)</desc>
+    <credits>
+      <director>Mark Cronin</director>
+      <actor>Hannah Ferrier</actor>
+      <actor>Sandy Yawn</actor>
+      <actor>João Franco</actor>
+      <actor>Mila Kolomeitseva</actor>
+      <actor>Aesha Scott</actor>
+      <actor>Travis Michalzik</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820201000 -0300" stop="20210820210500 -0300" channel="E! HD">
+    <title lang="pt">Botched</title>
+    <desc lang="pt">Os médicos ajudam uma halterofilista que quer uma aparência mais feminina. Paul opera uma mulher que tem as narinas aumentadas pela ansiedade, e Katella Dash fará de tudo para se parecer com uma boneca inflável humana.".(n)</desc>
+    <credits>
+      <director>Michelle Brando</director>
+      <actor>Katella Dash</actor>
+      <actor>Michael Dean</actor>
+      <actor>Terry J. Dubrow</actor>
+      <actor>Lauren Powers</actor>
+      <actor>Paul nassif</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_botchedpostop01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820210500 -0300" stop="20210820224500 -0300" channel="E! HD">
+    <title lang="pt">Eu Odeio o Dia dos Namorados</title>
+    <desc lang="pt">Genevive é dona de uma floricultura e adora o Dia dos Namorados, porque aumenta as vendas de flores. No fundo, ela detesta relacionamentos. O amor se tornou um jogo para ela e a vitória é garantida já que nunca se envolve o suficiente.(n)</desc>
+    <credits>
+      <director>Nia Vardalos</director>
+      <actor>Nia Vardalos</actor>
+      <actor>John Corbett</actor>
+      <actor>Stephen Guarino</actor>
+      <actor>Amir Arison</actor>
+      <actor>Zoe Kazan</actor>
+      <actor>Gary Wilmes</actor>
+      <actor>Mike Starr</actor>
+      <actor>Jason Mantzoukas</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_euodeioodiadosnamorados01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820224500 -0300" stop="20210820231000 -0300" channel="E! HD">
+    <title lang="pt">10 Coisas Que Você Não Sabe</title>
+    <desc lang="pt">As coisas mais inacreditáveis e surpreendentes sobre Keanu Reeves, desde a história por trás de seu famoso nome até as revelações de onde foi parar todo o seu dinheiro que ganhou em Matrix.(n)</desc>
+    <credits>
+      <director>PJ Morrison</director>
+      <actor>Dulce Sloan</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820231000 -0300" stop="20210821000000 -0300" channel="E! HD">
+    <title lang="pt">Os Szafirs</title>
+    <desc lang="pt">No evento Eu Dou Sangu e" Beth topa com o apresentador Caio Fischer o convidado do Podcast de hoje para um papo sobre o mundo das celebridades.(n)</desc>
+    <credits>
+      <director>Beto Ribeiro</director>
+      <director>Carla Albuquerque</director>
+      <actor>Luciano Szafir</actor>
+      <actor>Beth Szafir</actor>
+      <actor>Luhanna Melloni</actor>
+      <actor>Pedro Szafir</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821000000 -0300" stop="20210821030000 -0300" channel="E! HD">
+    <title lang="pt">Joias VIP</title>
+    <desc lang="pt">Joias Vip, programa de vendas na TV.(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Televendas</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821030000 -0300" stop="20210821035000 -0300" channel="E! HD">
+    <title lang="pt">Keeping up With the Kardashians</title>
+    <desc lang="pt">No fim de semana de 04 de julho as Kardashians viajam para NYC. Reggie e Kim encontram e conversam sobre sua vida com Miles Austin.(n)</desc>
+    <credits>
+      <actor>Kourtney Kardashian</actor>
+      <actor>Khloé Kardashian</actor>
+      <actor>Kim Kardashian</actor>
+      <actor>Kris Jenner</actor>
+      <actor>Miles Austin</actor>
+      <actor>Brooke Adams</actor>
+      <actor>Robert Kardashian Jr</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/keepingupwiththekardashians01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E11</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821035000 -0300" stop="20210821044000 -0300" channel="E! HD">
+    <title lang="pt">Keeping up With the Kardashians</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Chris Ray</director>
+      <actor>Kourtney Kardashian</actor>
+      <actor>Khloé Kardashian</actor>
+      <actor>Kim Kardashian</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/keepingupwiththekardashians01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E12</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821044000 -0300" stop="20210821053000 -0300" channel="E! HD">
+    <title lang="pt">Flip It Like Disick</title>
+    <desc lang="pt">Scott, Benny e Miki estão quase acabando sua mais recente propriedade em Malibu, quando Scott contrata um novo membro para a equipe, Willa Ford, para ajudar com os acabamentos e toques finais de decoração.(n)</desc>
+    <credits>
+      <actor>Scott Disick</actor>
+      <actor>Willa Ford</actor>
+      <actor>Benny Luciano</actor>
+      <actor>Kozet Luciano</actor>
+      <actor>Miki Mor</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821053000 -0300" stop="20210821060000 -0300" channel="E! HD">
+    <title lang="pt">Overserved with Lisa Vanderpump</title>
+    <desc lang="pt">Lisa transforma seu jardim de oliveira em uma viagem à Grécia - completando com um banquete para 10 pessoas e um jogo Olímpico.(n)</desc>
+    <credits>
+      <director>Alex Baskin</director>
+      <actor>Lisa Vanderpump</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821070000 -0300" channel="E! HD">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+    <desc lang="pt">Tyler faz uma conexão emotiva entre Amber Rose, a mãe dela e uma tia querida. Uma estrela de rock que morreu por overdose envia uma mensagem do além para Heather e Terry Dubrow.(n)</desc>
+    <credits>
+      <director>Sarah Skibitzke</director>
+      <actor>Henry Tyler</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821070000 -0300" stop="20210821075000 -0300" channel="E! HD">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+    <desc lang="pt">Uma criança assassinada faz contato com Tracey Gold; toda a dureza da diva do WWE Natalya é quebrada quando Tyler faz uma conexão com alguns entes queridos de sua família.(n)</desc>
+    <credits>
+      <director>Sarah Skibitzke</director>
+      <actor>Henry Tyler</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821075000 -0300" stop="20210821084000 -0300" channel="E! HD">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+    <desc lang="pt">Tyler dá uma mensagem a Joey, Matthew e Andrew Lawrence de sua avó morta que pode mudar a vida deles. Quando se encontra com Candis Cayne, Tyler se surpreende ao canalizar um amigo cuja morte trágica ainda a persegue.(n)</desc>
+    <credits>
+      <director>Sarah Skibitzke</director>
+      <actor>Henry Tyler</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821084000 -0300" stop="20210821093000 -0300" channel="E! HD">
+    <title lang="pt">Os Szafirs</title>
+    <desc lang="pt">Luhanna se prepara para a gravação de sua música e Luciano surpreende ao retornar ao treino de jiu-jitsu depois de anos parado Em São Paulo.(n)</desc>
+    <credits>
+      <director>Beto Ribeiro</director>
+      <director>Carla Albuquerque</director>
+      <actor>Luciano Szafir</actor>
+      <actor>Beth Szafir</actor>
+      <actor>Luhanna Melloni</actor>
+      <actor>Pedro Szafir</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821093000 -0300" stop="20210821102000 -0300" channel="E! HD">
+    <title lang="pt">Os Szafirs</title>
+    <desc lang="pt">No evento Eu Dou Sangu e" Beth topa com o apresentador Caio Fischer o convidado do Podcast de hoje para um papo sobre o mundo das celebridades.(n)</desc>
+    <credits>
+      <director>Beto Ribeiro</director>
+      <director>Carla Albuquerque</director>
+      <actor>Luciano Szafir</actor>
+      <actor>Beth Szafir</actor>
+      <actor>Luhanna Melloni</actor>
+      <actor>Pedro Szafir</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821102000 -0300" stop="20210821111000 -0300" channel="E! HD">
+    <title lang="pt">Project Runway</title>
+    <desc lang="pt">Uma eliminação surpresa relembra os participantes que devem impressionar os jurados se querem seguir no programa.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/projectrunway01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S12 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821111000 -0300" stop="20210821120000 -0300" channel="E! HD">
+    <title lang="pt">Project Runway</title>
+    <desc lang="pt">Os participantes devem criar desenhos para a linha da New Balance de Heidi Klum, e o vencedor poderá vender suas criações nas lojas selecionadas. Mas, para consegui-lo, deverão competir em eventos esportivos para ganhar mais tempo.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/projectrunway01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S12 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821120000 -0300" stop="20210821125000 -0300" channel="E! HD">
+    <title lang="pt">Project Runway</title>
+    <desc lang="pt">Os estilistas deverão se esforçar ao máximo para criar um look audaz e moderno para a mulher do sul. A recompensa será enorme, já que o look vencedor será vendido nas famosas lojas Belk e em seu site.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/projectrunway01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S12 E9</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821125000 -0300" stop="20210821135000 -0300" channel="E! HD">
+    <title lang="pt">Million Dollar Listing Los Angeles</title>
+    <desc lang="pt">Josh e Heather se preparam para dizer o "sim", mas primeiro se enfrentam em uma negociação tensa.(n)</desc>
+    <credits>
+      <director>Fenton Bailey</director>
+      <actor>Josh Flagg</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S9 E6</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821135000 -0300" stop="20210821144000 -0300" channel="E! HD">
+    <title lang="pt">Million Dollar Listing Los Angeles</title>
+    <desc lang="pt">Josh Flagg pega um casarão antigo no estilo moderno e precisa brigar com os construtores que querem demolir a estrutura.(n)</desc>
+    <credits>
+      <director>Fenton Bailey</director>
+      <actor>Josh Flagg</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S9 E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821144000 -0300" stop="20210821153500 -0300" channel="E! HD">
+    <title lang="pt">Million Dollar Listing NY</title>
+    <desc lang="pt">Fredrik começa a questionar os efeitos da "gentrificação". Ryan começa a duvidar de sua estratégia de vendas.(n)</desc>
+    <credits>
+      <director>Fredrik Eklund</director>
+      <director>Ryan Serhant</director>
+      <actor>Fredrik Eklund</actor>
+      <actor>Ryan Serhant</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821153500 -0300" stop="20210821163000 -0300" channel="E! HD">
+    <title lang="pt">Million Dollar Listing NY</title>
+    <desc lang="pt">Steve trabalha duro para convencer seus potenciais compradores de que a única coisa melhor do que o apartamento que eles moram hoje, é o imóvel que ele tem em mãos.(n)</desc>
+    <credits>
+      <director>Fredrik Eklund</director>
+      <director>Ryan Serhant</director>
+      <actor>Fredrik Eklund</actor>
+      <actor>Ryan Serhant</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E9</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821163000 -0300" stop="20210821173000 -0300" channel="E! HD">
+    <title lang="pt">Botched</title>
+    <desc lang="pt">Os médicos atendem três pacientes que sempre esconderam suas cirurgias plásticas de seus entes queridos.(n)</desc>
+    <credits>
+      <director>Alex Baskin</director>
+      <actor>Paul Nassif</actor>
+      <actor>Terry J. Dubrow</actor>
+      <actor>Jacob Kosarian</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_botchedpostop01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821173000 -0300" stop="20210821183000 -0300" channel="E! HD">
+    <title lang="pt">Below Deck - Vida A Bordo Mediterrâneo</title>
+    <desc lang="pt">Jess confronta Aesha sobre a foto do grupo de hóspedes, enquanto o resto do barco corre para acabar com os danos iminentes.(n)</desc>
+    <credits>
+      <director>Mark Cronin</director>
+      <actor>Hannah Ferrier</actor>
+      <actor>Sandy Yawn</actor>
+      <actor>João Franco</actor>
+      <actor>Travis Michalzik</actor>
+      <actor>Ben Robinson</actor>
+      <actor>Anastasia Surmava</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E19</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821183000 -0300" stop="20210821193000 -0300" channel="E! HD">
+    <title lang="pt">Below Deck - Vida A Bordo Mediterrâneo</title>
+    <desc lang="pt">Quando chega a hora da última saída, a capitã Sandy avalia uma temporada caótica, enquanto as poucas fichas restantes continuam caindo.(n)</desc>
+    <credits>
+      <director>Mark Cronin</director>
+      <actor>Hannah Ferrier</actor>
+      <actor>Sandy Yawn</actor>
+      <actor>João Franco</actor>
+      <actor>Travis Michalzik</actor>
+      <actor>Ben Robinson</actor>
+      <actor>Anastasia Surmava</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821193000 -0300" stop="20210821211000 -0300" channel="E! HD">
+    <title lang="pt">Eu Odeio o Dia dos Namorados</title>
+    <desc lang="pt">Genevive é dona de uma floricultura e adora o Dia dos Namorados, porque aumenta as vendas de flores. No fundo, ela detesta relacionamentos. O amor se tornou um jogo para ela e a vitória é garantida já que nunca se envolve o suficiente.(n)</desc>
+    <credits>
+      <director>Nia Vardalos</director>
+      <actor>Nia Vardalos</actor>
+      <actor>John Corbett</actor>
+      <actor>Stephen Guarino</actor>
+      <actor>Amir Arison</actor>
+      <actor>Zoe Kazan</actor>
+      <actor>Gary Wilmes</actor>
+      <actor>Mike Starr</actor>
+      <actor>Jason Mantzoukas</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_euodeioodiadosnamorados01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821211000 -0300" stop="20210821230000 -0300" channel="E! HD">
+    <title lang="pt">Apenas Amigos</title>
+    <desc lang="pt">Chris é bonito e bem-sucedido. Mas, nem sempre sua vida foi tão boa. Quando jovem ele era gordo, alvo de gozações e apaixonado por Jamie, sua linda e melhor amiga. Dez anos depois ele volta à sua cidade e decide conquistar seu amor.(n)</desc>
+    <credits>
+      <director>Roger Kumble</director>
+      <actor>Ryan Reynolds</actor>
+      <actor>Amy Smart</actor>
+      <actor>Anna Faris</actor>
+      <actor>Chris Klein</actor>
+      <actor>Chris Marquette</actor>
+      <actor>Amy Matysio</actor>
+      <actor>Barry Flatman</actor>
+      <actor>Jaden Ryan</actor>
+      <actor>Ty Olsson</actor>
+      <actor>Stephen Root</actor>
+      <actor>Robin Dunne</actor>
+      <actor>Maria Arcé</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">Alemanha</country>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821230000 -0300" stop="20210821233000 -0300" channel="E! HD">
+    <title lang="pt">Drag me as a Queen</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Maristela Mattos</director>
+      <director>Amadeu Alban</director>
+      <actor>Juliane Sturm</actor>
+      <actor>Ikaro Kadoshi</actor>
+      <actor>Penelopy Jean</actor>
+      <actor>Rita Von Hunty</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_dragmeasaqueen01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821233000 -0300" stop="20210822000000 -0300" channel="E! HD">
+    <title lang="pt">Drag me as a Queen</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Maristela Mattos</director>
+      <director>Amadeu Alban</director>
+      <actor>Juliane Sturm</actor>
+      <actor>Ikaro Kadoshi</actor>
+      <actor>Penelopy Jean</actor>
+      <actor>Rita Von Hunty</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_dragmeasaqueen01.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>12</value>
     </rating>
   </programme>
 </tv>
