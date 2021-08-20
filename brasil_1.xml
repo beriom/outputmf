@@ -24999,4 +24999,656 @@
       <value>10</value>
     </rating>
   </programme>
+  <programme start="20210820092400 -0300" stop="20210820101500 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Dupla do Barulho Ao Resgate</title>
+    <title lang="en">Garage Rehab</title>
+    <desc lang="pt">Richard Rawlings investe tempo, dinheiro e contatos para ajudar a reconstruir a Keys Customs, em Key West, Florida. A oficina foi devastada pelo furacão Irma e a equipe de Richard tem uma semana para recuperá-la.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820101500 -0300" stop="20210820110700 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Oficina de Sonhos</title>
+    <title lang="en">Mexicanicos</title>
+    <desc lang="pt">Dono de uma oficina de restauração de veículos no México, Martin Vaca e sua equipe fazem de tudo para realizarem os sonhos de seus clientes. Para Martin e sua equipe, não há limites para a criatividade.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820110700 -0300" stop="20210820115700 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Carros Irados</title>
+    <title lang="en">Kindig Customs</title>
+    <desc lang="pt">Um admirador de Corvettes chega à Kindig It Design com um modelo 1963. A equipe instala um enorme motor LS X, uma transmissão maior, retira os tubos laterais e executa um trabalho de pintura incomum.(n)</desc>
+    <credits>
+      <director>Nick Meagher</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/carrosirados01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E11</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820115700 -0300" stop="20210820125100 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Os Reis da Sucata</title>
+    <title lang="en">Junkyard Empire</title>
+    <desc lang="pt">Quando Andy Cohen tenta transformar uma velha picape Dodge em uma perua vintage, Bobby não se conforma. Para acalmá-lo, Chris e Jeff precisam tornar o carro lucrativo. Depois, Andy compra um caminhão militar.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Competição</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_osreisdasucata01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820125100 -0300" stop="20210820134100 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Corridas Proibidas</title>
+    <title lang="en">Street Outlaws</title>
+    <desc lang="pt">Boosted organiza rodadas de grudge racing em Fort Worth e decide criar uma escola para preparar a Farmtruck e a AZN, mas tem uma surpresa. A competição é selvagem nas pistas do Texas.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Competição</category>
+    <episode-num system="onscreen">S2 E11</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820134100 -0300" stop="20210820143300 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Texas Chrome - Negócios de Família</title>
+    <title lang="en">Texas Trocas</title>
+    <desc lang="pt">Um motorista meticuloso encomenda a reforma de um caminhão Peterbilt amarelo, um modelo usado em eventos para angariar fundos para crianças. Raul Sr. pensa em participar de um rodeio mexicano, mas nem todos gostam da ideia.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820143300 -0300" stop="20210820152500 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Carro Ostentação Com Will Castro</title>
+    <desc lang="pt">A Team Unique transforma o Camaro conversível de Mike Epps em um carro dos sonhos, customizado com bancos de couro. Will e a equipe precisam reformar um Jeep Sahara em uma semana.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Competição</category>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820152500 -0300" stop="20210820162400 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Top Gear</title>
+    <desc lang="pt">Paddy e Freddie viajam para Bornéu para uma aventura na selva com os Gurkhas, pilotando dois carros raros e baratos. Chris Harris testa o SUV mais luxuoso do mundo, o Rolls-Royce Cullinan. Bob Mortimer é o convidado especial.(n)</desc>
+    <credits>
+      <actor>Andrew Flintoff</actor>
+      <actor>Chris Harris</actor>
+      <actor>Paddy McGuinness</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/topgearbbc01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S27 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820162400 -0300" stop="20210820171800 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Invasão de Garagens</title>
+    <title lang="en">Garage Squad</title>
+    <desc lang="pt">Um Daytona 1969 recupera seu charme.(n)</desc>
+    <credits>
+      <director>Ted Lega</director>
+      <actor>Ron Gregurich</actor>
+      <actor>Cy Kellogg</actor>
+      <actor>Jeff King</actor>
+      <actor>Bruno Massel</actor>
+      <actor>Zoe Zolper</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820171800 -0300" stop="20210820180900 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Battlebots</title>
+    <desc lang="pt">As lendas das batalhas de robôs, Hypershock e Biteforce, travam um confronto épico, enquanto estrelas em ascensão tentam provar que são dignos de vencer o campeonato mundial.(n)</desc>
+    <credits>
+      <director>Mark Polonia</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Ciência</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/varied_battlebots01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820180900 -0300" stop="20210820183600 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Tunadas</title>
+    <desc lang="pt">Suzane treina com o supercampeão Jean Azevedo para correr na Copa Adrenalina Cross Country em Guarulhos-SP.(n)</desc>
+    <credits>
+      <director>Carla Maria Albuquerque de Sá</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820183600 -0300" stop="20210820190300 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Tunadas</title>
+    <desc lang="pt">Com um Audi, Suzane tenta ser o melhor tempo do Track Day na Fazenda Capuava em Indaiatuba-SP.(n)</desc>
+    <credits>
+      <director>Carla Maria Albuquerque de Sá</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820190300 -0300" stop="20210820195500 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Carros Irados</title>
+    <title lang="en">Kindig Customs</title>
+    <desc lang="pt">A funilaria do Coronet 1967 é concluída e a equipe da Kindig It Design agora se concentra na pintura. Vinnie se dedica ao máximo para concluir o projeto e Dave desenha uma de suas criações mais inovadoras.(n)</desc>
+    <credits>
+      <director>Nick Meagher</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/carrosirados01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E14</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820195500 -0300" stop="20210820204700 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Os Reis da Sucata</title>
+    <title lang="en">Junkyard Empire</title>
+    <desc lang="pt">As pessoas que olham para o ferro-velho de Andy só veem lixo, mas ele vê oportunidades. Com o terreno abarrotado, Andy tenta encontrar novas formas de mover as peças para tentar aumentar os lucros.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Competição</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_osreisdasucata01.jpg" />
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820204700 -0300" stop="20210820214000 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Overhaulin'</title>
+    <title lang="en">Overhaulin</title>
+    <desc lang="pt">Um grupo de fabricantes de carros por encomenda trabalha em velocidade máxima com orçamento limitado e transforma um carro velho numa máquina poderosa sem que o dono perceba.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/overhaulin2012picapechevy195401.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210820214000 -0300" stop="20210820223200 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Joias Sobre Rodas</title>
+    <desc lang="pt">Mike sempre quis reformar um Caterham em sua oficina, mas nunca conseguiu encontrar um em bom estado a um preço acessível. Dessa vez, ele compra um modelo direto da fábrica.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/jewelsonwheelsgolf01.jpg" />
+    <episode-num system="onscreen">S12 E13</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820223200 -0300" stop="20210820232700 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Corridas de Arrancada</title>
+    <title lang="en">Fastest Cars In The Dirty South</title>
+    <desc lang="pt">Depois de um péssimo começo de temporada e uma batida que quase explodiu um dos carros da equipe, o 256 se une para ajudar Britt a reconstruir o Bull, enquanto um novo time ameaça tomar o título de "carros mais velozes".(n)</desc>
+    <credits>
+      <director>Sam Wackerle</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820232700 -0300" stop="20210821001900 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Caçador de Autopeças</title>
+    <title lang="en">Turbo Pickers</title>
+    <desc lang="pt">Uma coletânea do melhores momentos da série. Quais foram os carros que mais chamaram a atenção de Paul Cowland e Dave Southall?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821001900 -0300" stop="20210821011000 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Overhaulin'</title>
+    <title lang="en">Overhaulin</title>
+    <desc lang="pt">Um grupo de fabricantes de carros por encomenda trabalha em velocidade máxima com orçamento limitado e transforma um carro velho numa máquina poderosa sem que o dono perceba.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/overhaulin2012picapechevy195401.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821011000 -0300" stop="20210821015900 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Carros Irados</title>
+    <title lang="en">Kindig Customs</title>
+    <desc lang="pt">A funilaria do Coronet 1967 é concluída e a equipe da Kindig It Design agora se concentra na pintura. Vinnie se dedica ao máximo para concluir o projeto e Dave desenha uma de suas criações mais inovadoras.(n)</desc>
+    <credits>
+      <director>Nick Meagher</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/carrosirados01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E14</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821015900 -0300" stop="20210821024900 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Corridas Proibidas</title>
+    <title lang="en">Street Outlaws</title>
+    <desc lang="pt">A 405 se prepara para a Outlaw Armageddon, a maior e mais disputada corrida de rua do país, a Outlaw Armageddon. Grandes nomes das corridas profissionais e de rua se encontram para disputar o prêmio de 40 mil dólares.(n)</desc>
+    <credits>
+      <director>Sam Korkis</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Competição</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E17</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821024900 -0300" stop="20210821033900 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Joias Sobre Rodas</title>
+    <desc lang="pt">Mike sempre quis reformar um Caterham em sua oficina, mas nunca conseguiu encontrar um em bom estado a um preço acessível. Dessa vez, ele compra um modelo direto da fábrica.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/jewelsonwheelsgolf01.jpg" />
+    <episode-num system="onscreen">S12 E13</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821033900 -0300" stop="20210821043100 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Corridas de Arrancada</title>
+    <title lang="en">Fastest Cars In The Dirty South</title>
+    <desc lang="pt">Depois de um péssimo começo de temporada e uma batida que quase explodiu um dos carros da equipe, o 256 se une para ajudar Britt a reconstruir o Bull, enquanto um novo time ameaça tomar o título de "carros mais velozes".(n)</desc>
+    <credits>
+      <director>Sam Wackerle</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821043100 -0300" stop="20210821051500 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Caçador de Autopeças</title>
+    <title lang="en">Turbo Pickers</title>
+    <desc lang="pt">Uma coletânea do melhores momentos da série. Quais foram os carros que mais chamaram a atenção de Paul Cowland e Dave Southall?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821051500 -0300" stop="20210821060000 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Oficina de Sonhos</title>
+    <title lang="en">Mexicanicos</title>
+    <desc lang="pt">Dono de uma oficina de restauração de veículos no México, Martin Vaca e sua equipe fazem de tudo para realizarem os sonhos de seus clientes. Para Martin e sua equipe, não há limites para a criatividade.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821065200 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Carros Irados</title>
+    <title lang="en">Kindig Customs</title>
+    <desc lang="pt">A funilaria do Coronet 1967 é concluída e a equipe da Kindig It Design agora se concentra na pintura. Vinnie se dedica ao máximo para concluir o projeto e Dave desenha uma de suas criações mais inovadoras.(n)</desc>
+    <credits>
+      <director>Nick Meagher</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/carrosirados01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E14</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821065200 -0300" stop="20210821074400 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Os Reis da Sucata</title>
+    <title lang="en">Junkyard Empire</title>
+    <desc lang="pt">As pessoas que olham para o ferro-velho de Andy só veem lixo, mas ele vê oportunidades. Com o terreno abarrotado, Andy tenta encontrar novas formas de mover as peças para tentar aumentar os lucros.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Competição</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_osreisdasucata01.jpg" />
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821074400 -0300" stop="20210821083600 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Joias Sobre Rodas</title>
+    <desc lang="pt">Mike sempre quis reformar um Caterham em sua oficina, mas nunca conseguiu encontrar um em bom estado a um preço acessível. Dessa vez, ele compra um modelo direto da fábrica.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/jewelsonwheelsgolf01.jpg" />
+    <episode-num system="onscreen">S12 E13</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821083600 -0300" stop="20210821093000 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Corridas de Arrancada</title>
+    <title lang="en">Fastest Cars In The Dirty South</title>
+    <desc lang="pt">Depois de um péssimo começo de temporada e uma batida que quase explodiu um dos carros da equipe, o 256 se une para ajudar Britt a reconstruir o Bull, enquanto um novo time ameaça tomar o título de "carros mais velozes".(n)</desc>
+    <credits>
+      <director>Sam Wackerle</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821093000 -0300" stop="20210821102200 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Caçador de Autopeças</title>
+    <title lang="en">Turbo Pickers</title>
+    <desc lang="pt">Uma coletânea do melhores momentos da série. Quais foram os carros que mais chamaram a atenção de Paul Cowland e Dave Southall?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821102200 -0300" stop="20210821111400 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Oficina de Sonhos</title>
+    <title lang="en">Mexicanicos</title>
+    <desc lang="pt">Dono de uma oficina de restauração de veículos no México, Martin Vaca e sua equipe fazem de tudo para realizarem os sonhos de seus clientes. Para Martin e sua equipe, não há limites para a criatividade.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821111400 -0300" stop="20210821120600 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Carros Irados</title>
+    <title lang="en">Kindig Customs</title>
+    <desc lang="pt">A equipe da Kindig encara um Roadster 1932 cheio de problemas, vindo de outra oficina, enquanto restauram um Coupe 1940. O Roadster 1932 de Wild Bill volta a rodar e o buggy de Dave desaparece.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/carrosirados01.jpg" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821120600 -0300" stop="20210821125800 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Os Reis da Sucata</title>
+    <title lang="en">Junkyard Empire</title>
+    <desc lang="pt">Andy provou que sabe dirigir suas duas empresas, mas como não pode estar nos dois lugares ao mesmo tempo, depende dos funcionários e de seu pai para manter tudo funcionando bem.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Competição</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_osreisdasucata01.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821125800 -0300" stop="20210821135000 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Corridas Proibidas</title>
+    <title lang="en">Street Outlaws</title>
+    <desc lang="pt">Boosted quer ser o primeiro a figurar na lista dos cinco melhores e fazer história na área 405. Com Farmtruck deprimido pela morte de Louise, AZN traz um novo membro para a equipe.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Competição</category>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821135000 -0300" stop="20210821144200 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Texas Metal</title>
+    <desc lang="pt">A Ekstensive finaliza o rebaixamento de uma Denali 2020 de fábrica e, como toque final, Bill faz alto-falantes para a caçamba. Bill personaliza uma Polaris Ranger 2019 para uma família atingida por um tornado.(n)</desc>
+    <credits>
+      <director>Daniel Miller</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821144200 -0300" stop="20210821153300 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Os Reis da Sucata</title>
+    <title lang="en">Junkyard Empire</title>
+    <desc lang="pt">Obcecado pela expansão do negócio, Andy está disposto a correr riscos para ter mais lucro. Os projetos que ele escolhe aumentam sua confiança, mas não há garantia de sucesso.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Competição</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_osreisdasucata01.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821153300 -0300" stop="20210821162500 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">ToyMakerz</title>
+    <desc lang="pt">O fabricante de 'brinquedos' para adultos, Dave Ankin, e sua equipe aperfeiçoam um carro de Fórmula 1 miniatura com 3/4 do tamanho natural.(n)</desc>
+    <credits>
+      <director>Sonya Gay Bourn</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821162500 -0300" stop="20210821171700 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">ToyMakerz</title>
+    <desc lang="pt">Dave Ankin enfrenta seus sócios em uma corrida de marcha à ré com triciclos.(n)</desc>
+    <credits>
+      <director>Sonya Gay Bourn</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821171700 -0300" stop="20210821180900 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">ToyMakerz</title>
+    <desc lang="pt">Dave Ankin e os construtores convidados deste episódio aperfeiçoam uma edição limitada em miniatura da motocicleta Hayabusa.(n)</desc>
+    <credits>
+      <director>Sonya Gay Bourn</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821180900 -0300" stop="20210821190400 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Overhaulin'</title>
+    <title lang="en">Overhaulin</title>
+    <desc lang="pt">A equipe do Overhaulin trabalha num Dodge A-100, 1967.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/overhaulin2012picapechevy195401.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821190400 -0300" stop="20210821195900 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Texas Metal</title>
+    <desc lang="pt">A equipe faz uma mudança de última hora no projeto do Ford F5 COE 1950 quando o cliente pede a instalação de um motor a diesel Cummins. Um gráfico errado afeta a reforma do Ford F350 2001.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821195900 -0300" stop="20210821202500 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Joia master com Ant Anstead</title>
+    <title lang="en">Ant Anstead Master Mechanic</title>
+    <desc lang="pt">Ant Anstead tem um sonho: construir uma réplica de um carro lendário da Fórmula 1, o Alfa Romeo 158. Para isso, ele usa peças sobressalentes, componentes improvisados e qualquer outra matéria-prima que estiver à mão.(n)</desc>
+    <credits>
+      <director>Henric Nieminen</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821202500 -0300" stop="20210821205100 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Joia master com Ant Anstead</title>
+    <title lang="en">Ant Anstead Master Mechanic</title>
+    <desc lang="pt">Ant Anstead tem um sonho: construir uma réplica de um carro lendário da Fórmula 1, o Alfa Romeo 158. Para isso, ele usa peças sobressalentes, componentes improvisados e qualquer outra matéria-prima que estiver à mão.(n)</desc>
+    <credits>
+      <director>Henric Nieminen</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821205100 -0300" stop="20210821214300 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Dupla do Barulho</title>
+    <title lang="en">Fast N Loud</title>
+    <desc lang="pt">Aaron e a equipe transformam um Chevy Kingwood 1971, que era um verdadeiro patinho feio, no dragster hot rod que ele deveria ser. Richard quer o MG Replicar 1980 de um marido relutante.(n)</desc>
+    <credits>
+      <director>Aaron Krummel</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/dupladobarulho01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821214300 -0300" stop="20210821223500 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Dupla do Barulho</title>
+    <title lang="en">Fast N Loud</title>
+    <desc lang="pt">A equipe se junta a Mike, finalista da Batalha dos Construtores da feira SEMA, para construir o primeiro carro modificado importado da Gas Monkey: um Datsun 280Z 1975.(n)</desc>
+    <credits>
+      <director>Aaron Krummel</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/dupladobarulho01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821223500 -0300" stop="20210821232700 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Dupla do Barulho</title>
+    <title lang="en">Fast N Loud</title>
+    <desc lang="pt">Enquanto os Monkeys e o construtor convidado Big Mike se apressam para terminar o Datsun 280Z 1975, a falta de uma peça pode impedir que Richard estreie o primeiro carro modificado da Gas Monkeys na SEMA.(n)</desc>
+    <credits>
+      <director>Aaron Krummel</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/dupladobarulho01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E6</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821232700 -0300" stop="20210822001900 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Dupla do Barulho</title>
+    <title lang="en">Fast N Loud</title>
+    <desc lang="pt">Richard e Aaron ressuscitam dois carros comprados em uma casa de caridade local: um Fairlane 500 Galaxie 59 e um Bel Air 54. Richard fica preocupado com sua segurança em um ferro-velho de Model A.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/dupladobarulho01.jpg" />
+    <episode-num system="onscreen">E15</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
 </tv>
