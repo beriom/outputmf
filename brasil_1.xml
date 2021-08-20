@@ -35592,4 +35592,1152 @@
       <value>16</value>
     </rating>
   </programme>
+  <programme start="20210820094200 -0300" stop="20210820103400 -0300" channel="FOX Premium 1">
+    <title lang="pt">Impuros</title>
+    <desc lang="pt">1989: Evandro vive no Morro do Dendê com sua mãe Arlete. Ela acredita que terá sua família de volta quando o outro filho, Zeca, saír da FEBEM.(n)</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Cyria Coentro</actor>
+      <actor>Fernanda Machado</actor>
+      <actor>João Vitor Silva</actor>
+      <actor>Raphael Logam</actor>
+      <actor>Rocco Pitanga</actor>
+      <actor>Rui Ricardo</actor>
+      <actor>Rui Ricardo Diaz</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_impuros01_2_2019.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820103400 -0300" stop="20210820113000 -0300" channel="FOX Premium 1">
+    <title lang="pt">Impuros</title>
+    <desc lang="pt">Depois do plano de vingança pela morte do irmão, Evandro é recrutado para o tráfico. Ele e seu melhor amigo Afonso logo ganham espaço. Afonso é ganancioso e desvia dinheiro do tráfico para lucrar em investimento bancário.(n)</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Cyria Coentro</actor>
+      <actor>Fernanda Machado</actor>
+      <actor>João Vitor Silva</actor>
+      <actor>Raphael Logam</actor>
+      <actor>Rocco Pitanga</actor>
+      <actor>Rui Ricardo</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_impuros01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820113000 -0300" stop="20210820115600 -0300" channel="FOX Premium 1">
+    <title lang="pt">Atlanta</title>
+    <desc lang="pt">A noite no clube Primal não sai como planejada ou esperada. O clube está fervendo, mas Paper Boi não está recebendo o amor e respeito que ele sente que merece.(n)</desc>
+    <credits>
+      <director>Donald Glover</director>
+      <director>Hiro Murai</director>
+      <actor>Donald Glover</actor>
+      <actor>Colin Lacativa</actor>
+      <actor>Mason Pike</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_atlanta01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820115600 -0300" stop="20210820122000 -0300" channel="FOX Premium 1">
+    <title lang="pt">Atlanta</title>
+    <desc lang="pt">Van leva Earn para uma festa de independência negra no lar de uns conhecidos ricos, mas ele está menos que entusiasmado no tema de emancipação ou na natureza snob do casal bi racial e seus convidados.(n)</desc>
+    <credits>
+      <director>Donald Glover</director>
+      <actor>Alano Miller</actor>
+      <actor>Chris Greene</actor>
+      <actor>Tim McAdams</actor>
+      <actor>Niles Stewart</actor>
+      <actor>Brian Tyree Henry</actor>
+      <actor>Erskine C. Johnson III</actor>
+      <actor>Mary Kraft</actor>
+      <actor>Tonia Jackson</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_atlanta01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820122000 -0300" stop="20210820130000 -0300" channel="FOX Premium 1">
+    <title lang="pt">Run Coyote Run</title>
+    <desc lang="pt">Um imigrante centro americano chega a Naco depois de dois exaustos meses de viagem.(n)</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Harold Torres</actor>
+      <actor>Eivaut Rischen</actor>
+      <actor>Macarena Miguel</actor>
+      <actor>Maya Zapata</actor>
+      <actor>Héctor Jiménez</actor>
+      <actor>Fernando Gaviria</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_runcoyoterun01.jpg" />
+    <country lang="pt">México</country>
+    <country lang="pt">Argentina</country>
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820130000 -0300" stop="20210820134500 -0300" channel="FOX Premium 1">
+    <title lang="pt">Run Coyote Run</title>
+    <desc lang="pt">A máfia chinesa que lida com órgãos chega a Naco e tenta se estabelecer com um restaurante.(n)</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Harold Torres</actor>
+      <actor>Eivaut Rischen</actor>
+      <actor>Macarena Miguel</actor>
+      <actor>Maya Zapata</actor>
+      <actor>Héctor Jiménez</actor>
+      <actor>Fernando Gaviria</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_runcoyoterun01.jpg" />
+    <country lang="pt">México</country>
+    <country lang="pt">Argentina</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820134500 -0300" stop="20210820143000 -0300" channel="FOX Premium 1">
+    <title lang="pt">Run Coyote Run</title>
+    <desc lang="pt">El Güevín é sequestrado por Natividad, que em troca exige que retornem Jenny em 24 horas, senão o rapaz morre. Gama e Morris vão a Las Vegas em busca de Jenny e a encontram festejando com o cantor Cristian Castro.(n)</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Harold Torres</actor>
+      <actor>Eivaut Rischen</actor>
+      <actor>Macarena Miguel</actor>
+      <actor>Maya Zapata</actor>
+      <actor>Héctor Jiménez</actor>
+      <actor>Fernando Gaviria</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_runcoyoterun01.jpg" />
+    <country lang="pt">México</country>
+    <country lang="pt">Argentina</country>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820143000 -0300" stop="20210820151000 -0300" channel="FOX Premium 1">
+    <title lang="pt">Riviera</title>
+    <desc lang="pt">Georgina tem que revelar a verdade sobre Constantino para tentar proteger o império de Nico. O caos leva Georgina a recorrer a medidas desesperadas.(n)</desc>
+    <credits>
+      <director>Destiny Ekaragha</director>
+      <actor>Adrian Lester</actor>
+      <actor>Dimitri Leonidas</actor>
+      <actor>Julia Stiles</actor>
+      <actor>Lena Olin</actor>
+      <actor>Will Arnett</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_riviera01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820151000 -0300" stop="20210820155800 -0300" channel="FOX Premium 1">
+    <title lang="pt">Homeland</title>
+    <desc lang="pt">Carrie se reconecta com um velho aliado. Tasneem procura aconselhamento. Saul encontra esperança.(n)</desc>
+    <credits>
+      <director>Lesli Linka Glatter</director>
+      <actor>Amy Hargreaves</actor>
+      <actor>Claire Danes</actor>
+      <actor>F. Murray Abraham</actor>
+      <actor>Mandy Patinkin</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/homeland01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S8 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820155800 -0300" stop="20210820162000 -0300" channel="FOX Premium 1">
+    <title lang="pt">Bless This Mess</title>
+    <desc lang="pt">Dolores, uma rica restauradora, chega ao Bucksnort com planos de abrir um novo restaurante fora da cidade, e Mike aproveita a chance de firmar o seu negócio como fornecedor de ovos.(n)</desc>
+    <credits>
+      <director>Lennon Parham</director>
+      <actor>David Koechner</actor>
+      <actor>Dax Shepard</actor>
+      <actor>Ed Begley Jr.</actor>
+      <actor>JT Neal</actor>
+      <actor>Lake Bell</actor>
+      <actor>Lennon Parham</actor>
+      <actor>Pam Grier</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E19</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820162000 -0300" stop="20210820164100 -0300" channel="FOX Premium 1">
+    <title lang="pt">Bless This Mess</title>
+    <desc lang="pt">Um tornado atinge Bucksnort. Mike e Beau ainda discordam sobre os seus negócios de ovos e quem ganhará o contrato do restaurante de Dolores.(n)</desc>
+    <credits>
+      <director>Molly McGlynn</director>
+      <actor>David Koechner</actor>
+      <actor>Dax Shepard</actor>
+      <actor>Ed Begley Jr.</actor>
+      <actor>JT Neal</actor>
+      <actor>Lake Bell</actor>
+      <actor>Lennon Parham</actor>
+      <actor>Pam Grier</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820164100 -0300" stop="20210820172700 -0300" channel="FOX Premium 1">
+    <title lang="pt">Empire</title>
+    <desc lang="pt">Em meio ao lançamento do Bossy Fest e da luta para recuperar o controle da Empire, Cookie reflete sobre a sua vida e a mulher que se tornou.(n)</desc>
+    <credits>
+      <director>Sanaa Hamri</director>
+      <actor>Bryshere Y. Gray</actor>
+      <actor>Chet Hanks</actor>
+      <actor>Gabourey Sidibe</actor>
+      <actor>Jussie Smollett</actor>
+      <actor>Taraji P. Henson</actor>
+      <actor>Terrence Howard</actor>
+      <actor>Trai Byers</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/empire01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E18</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820172700 -0300" stop="20210820181100 -0300" channel="FOX Premium 1">
+    <title lang="pt">Empire</title>
+    <desc lang="pt">Lucious está foragido e é perseguido pelos federais. Cookie se mantém ocupada concentrando-se em sua marca que agora inclui um talk show diurno e um centro comunitário.(n)</desc>
+    <credits>
+      <director>Craig Brewer</director>
+      <actor>Bryshere Y. Gray</actor>
+      <actor>Chet Hanks</actor>
+      <actor>Gabourey Sidibe</actor>
+      <actor>Jussie Smollett</actor>
+      <actor>Taraji P. Henson</actor>
+      <actor>Terrence Howard</actor>
+      <actor>Trai Byers</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/empire01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820181100 -0300" stop="20210820185500 -0300" channel="FOX Premium 1">
+    <title lang="pt">Empire</title>
+    <desc lang="pt">Lucious segue foragido. Cookie confronta Damon sobre as mentiras que ele disse. Andre lida com o seu próprio trauma pessoal e com uma complicação familiar.(n)</desc>
+    <credits>
+      <director>Craig Brewer</director>
+      <actor>Bryshere Y. Gray</actor>
+      <actor>Chet Hanks</actor>
+      <actor>Gabourey Sidibe</actor>
+      <actor>Jussie Smollett</actor>
+      <actor>Taraji P. Henson</actor>
+      <actor>Terrence Howard</actor>
+      <actor>Trai Byers</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/empire01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820185500 -0300" stop="20210820193600 -0300" channel="FOX Premium 1">
+    <title lang="pt">This Is Us</title>
+    <desc lang="pt">Kevin embarca em uma viagem estressante. Jack e o jovem Kevin vão para um campo de treinamento de futebol.(n)</desc>
+    <credits>
+      <director>Kevin Rodney Sullivan</director>
+      <actor>Chrissy Metz</actor>
+      <actor>Justin Hartley</actor>
+      <actor>Mandy Moore</actor>
+      <actor>Milo Ventimiglia</actor>
+      <actor>Sterling K. Brown</actor>
+      <actor>Eris Baker</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_thisisus01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820193600 -0300" stop="20210820201900 -0300" channel="FOX Premium 1">
+    <title lang="pt">This Is Us</title>
+    <desc lang="pt">Os Pearson percorrem grandes marcos familiares, à distância.(n)</desc>
+    <credits>
+      <director>Ken Olin</director>
+      <actor>Chrissy Metz</actor>
+      <actor>Justin Hartley</actor>
+      <actor>Mandy Moore</actor>
+      <actor>Milo Ventimiglia</actor>
+      <actor>Sterling K. Brown</actor>
+      <actor>Eris Baker</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_thisisus01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820201900 -0300" stop="20210820211000 -0300" channel="FOX Premium 1">
+    <title lang="pt">Homeland</title>
+    <desc lang="pt">Saul intercepta conversas importantes, já Carrie precisa de mais um favor.(n)</desc>
+    <credits>
+      <director>Lesli Linka Glatter</director>
+      <actor>Amy Hargreaves</actor>
+      <actor>Claire Danes</actor>
+      <actor>F. Murray Abraham</actor>
+      <actor>Mandy Patinkin</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/homeland01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S8 E11</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820211000 -0300" stop="20210820221700 -0300" channel="FOX Premium 1">
+    <title lang="pt">Homeland</title>
+    <desc lang="pt">Último episódio da série.(n)</desc>
+    <credits>
+      <director>Lesli Linka Glatter</director>
+      <actor>Amy Hargreaves</actor>
+      <actor>Claire Danes</actor>
+      <actor>F. Murray Abraham</actor>
+      <actor>Mandy Patinkin</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/homeland01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S8 E12</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820221700 -0300" stop="20210820231500 -0300" channel="FOX Premium 1">
+    <title lang="pt">Homeland</title>
+    <desc lang="pt">Carrie se recupera na Alemanha. Saul negocia. Max tem uma nova missão.(n)</desc>
+    <credits>
+      <director>Lesli Linka Glatter</director>
+      <actor>Amy Hargreaves</actor>
+      <actor>Claire Danes</actor>
+      <actor>F. Murray Abraham</actor>
+      <actor>Mandy Patinkin</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/homeland01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S8 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820231500 -0300" stop="20210821000400 -0300" channel="FOX Premium 1">
+    <title lang="pt">Homeland</title>
+    <desc lang="pt">Carrie se reconecta com um velho aliado. Tasneem procura aconselhamento. Saul encontra esperança.(n)</desc>
+    <credits>
+      <director>Lesli Linka Glatter</director>
+      <actor>Amy Hargreaves</actor>
+      <actor>Claire Danes</actor>
+      <actor>F. Murray Abraham</actor>
+      <actor>Mandy Patinkin</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/homeland01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S8 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821000400 -0300" stop="20210821005400 -0300" channel="FOX Premium 1">
+    <title lang="pt">Homeland</title>
+    <desc lang="pt">Carrie organiza uma reunião. Haqqani encontra problemas em casa. Saul faz um acordo.(n)</desc>
+    <credits>
+      <director>Lesli Linka Glatter</director>
+      <actor>Amy Hargreaves</actor>
+      <actor>Claire Danes</actor>
+      <actor>F. Murray Abraham</actor>
+      <actor>Mandy Patinkin</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/homeland01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S8 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821005400 -0300" stop="20210821011600 -0300" channel="FOX Premium 1">
+    <title lang="pt">Atlanta</title>
+    <desc lang="pt">Aí, tudo bem! Temos celebridades cheias da grana no edifício para as crianças. Eu adoraria ter um Justin Bieber. Cara, os jurássicos vão odiar, kkkk.(n)</desc>
+    <credits>
+      <director>Hiro Murai</director>
+      <actor>Donald Glover</actor>
+      <actor>Lil' Zane</actor>
+      <actor>Keith Stanfield</actor>
+      <actor>Jade Fernandez</actor>
+      <actor>Jessica A. Caesar</actor>
+      <actor>Brian Tyree Henry</actor>
+      <actor>Jaleel White</actor>
+      <actor>David Silverman</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_atlanta01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821011600 -0300" stop="20210821014100 -0300" channel="FOX Premium 1">
+    <title lang="pt">Atlanta</title>
+    <desc lang="pt">Eu amo a minha melhor amiga de verdade, mas eu também não a suporto. Van fica com inveja porque sua garota fashion abre alas. Ok, garota, vá pegar o que é seu!(n)</desc>
+    <credits>
+      <director>Donald Glover</director>
+      <actor>Donald Glover</actor>
+      <actor>Zazie Beetz</actor>
+      <actor>Danny Chung</actor>
+      <actor>Keith Stanfield</actor>
+      <actor>Armie Hicks Jr.</actor>
+      <actor>Montrel Miller</actor>
+      <actor>Precious Bright</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_atlanta01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821014100 -0300" stop="20210821020200 -0300" channel="FOX Premium 1">
+    <title lang="pt">Bless This Mess</title>
+    <desc lang="pt">Dolores, uma rica restauradora, chega ao Bucksnort com planos de abrir um novo restaurante fora da cidade, e Mike aproveita a chance de firmar o seu negócio como fornecedor de ovos.(n)</desc>
+    <credits>
+      <director>Lennon Parham</director>
+      <actor>David Koechner</actor>
+      <actor>Dax Shepard</actor>
+      <actor>Ed Begley Jr.</actor>
+      <actor>JT Neal</actor>
+      <actor>Lake Bell</actor>
+      <actor>Lennon Parham</actor>
+      <actor>Pam Grier</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E19</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821020200 -0300" stop="20210821022400 -0300" channel="FOX Premium 1">
+    <title lang="pt">Bless This Mess</title>
+    <desc lang="pt">Um tornado atinge Bucksnort. Mike e Beau ainda discordam sobre os seus negócios de ovos e quem ganhará o contrato do restaurante de Dolores.(n)</desc>
+    <credits>
+      <director>Molly McGlynn</director>
+      <actor>David Koechner</actor>
+      <actor>Dax Shepard</actor>
+      <actor>Ed Begley Jr.</actor>
+      <actor>JT Neal</actor>
+      <actor>Lake Bell</actor>
+      <actor>Lennon Parham</actor>
+      <actor>Pam Grier</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821022400 -0300" stop="20210821030400 -0300" channel="FOX Premium 1">
+    <title lang="pt">Riviera</title>
+    <desc lang="pt">Georgina tem que revelar a verdade sobre Constantino para tentar proteger o império de Nico. O caos leva Georgina a recorrer a medidas desesperadas.(n)</desc>
+    <credits>
+      <director>Destiny Ekaragha</director>
+      <actor>Adrian Lester</actor>
+      <actor>Dimitri Leonidas</actor>
+      <actor>Julia Stiles</actor>
+      <actor>Lena Olin</actor>
+      <actor>Will Arnett</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_riviera01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821030400 -0300" stop="20210821034400 -0300" channel="FOX Premium 1">
+    <title lang="pt">Run Coyote Run</title>
+    <desc lang="pt">Um imigrante centro americano chega a Naco depois de dois exaustos meses de viagem.(n)</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Harold Torres</actor>
+      <actor>Eivaut Rischen</actor>
+      <actor>Macarena Miguel</actor>
+      <actor>Maya Zapata</actor>
+      <actor>Héctor Jiménez</actor>
+      <actor>Fernando Gaviria</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_runcoyoterun01.jpg" />
+    <country lang="pt">México</country>
+    <country lang="pt">Argentina</country>
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821034400 -0300" stop="20210821042900 -0300" channel="FOX Premium 1">
+    <title lang="pt">Run Coyote Run</title>
+    <desc lang="pt">A máfia chinesa que lida com órgãos chega a Naco e tenta se estabelecer com um restaurante.(n)</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Harold Torres</actor>
+      <actor>Eivaut Rischen</actor>
+      <actor>Macarena Miguel</actor>
+      <actor>Maya Zapata</actor>
+      <actor>Héctor Jiménez</actor>
+      <actor>Fernando Gaviria</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_runcoyoterun01.jpg" />
+    <country lang="pt">México</country>
+    <country lang="pt">Argentina</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821042900 -0300" stop="20210821051400 -0300" channel="FOX Premium 1">
+    <title lang="pt">Run Coyote Run</title>
+    <desc lang="pt">El Güevín é sequestrado por Natividad, que em troca exige que retornem Jenny em 24 horas, senão o rapaz morre. Gama e Morris vão a Las Vegas em busca de Jenny e a encontram festejando com o cantor Cristian Castro.(n)</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Harold Torres</actor>
+      <actor>Eivaut Rischen</actor>
+      <actor>Macarena Miguel</actor>
+      <actor>Maya Zapata</actor>
+      <actor>Héctor Jiménez</actor>
+      <actor>Fernando Gaviria</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_runcoyoterun01.jpg" />
+    <country lang="pt">México</country>
+    <country lang="pt">Argentina</country>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821051400 -0300" stop="20210821062500 -0300" channel="FOX Premium 1">
+    <title lang="pt">Aqui na Terra</title>
+    <desc lang="pt">Rocha triunfa nos comícios e vira candidato à presidência enquanto Adán enfrenta uma morte inesperada. Já Carlos obtém o teste que confirma todas as suas suspeitas sobre a morte de seu pai.(n)</desc>
+    <credits>
+      <director>Mariana Chenillo</director>
+      <actor>Alfonso Dosal</actor>
+      <actor>Ariadna Gil</actor>
+      <actor>Daniel Giménez Cacho</actor>
+      <actor>Gael García Bernal</actor>
+      <actor>Paulina Dávila</actor>
+      <actor>Tenoch Huerta</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_aquinaterra01.jpg" />
+    <country lang="pt">México</country>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821062500 -0300" stop="20210821065000 -0300" channel="FOX Premium 1">
+    <title lang="pt">Atlanta</title>
+    <desc lang="pt">Dois primos tentam subir na cena de rap na cidade de Atlanta.(n)</desc>
+    <credits>
+      <director>Hiro Murai</director>
+      <actor>Donald Glover</actor>
+      <actor>Brian Tyree Henry</actor>
+      <actor>Emmett Hunter</actor>
+      <actor>Keith Stanfield</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_atlanta01.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821065000 -0300" stop="20210821074500 -0300" channel="FOX Premium 1">
+    <title lang="pt">Harlots</title>
+    <desc lang="pt">Lucy pagará o preço quando o passado de Elizabeth vem à tona? Emily poderá negociar a paz antes que a briga entre Wells e Pincher fique fora de controle?(n)</desc>
+    <credits>
+      <director>Debs Paterson</director>
+      <actor>Alfie Allen</actor>
+      <actor>Eloise Smyth</actor>
+      <actor>Jessica Brown Findlay</actor>
+      <actor>Lesley Manville</actor>
+      <actor>Liv Tyler</actor>
+      <actor>Samantha Morton</actor>
+      <actor>Kate Fleetwood</actor>
+      <actor>Holli Dempsey</actor>
+      <actor>Pippa Bennett-Warner</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_harlots01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821074500 -0300" stop="20210821083700 -0300" channel="FOX Premium 1">
+    <title lang="pt">Harlots</title>
+    <desc lang="pt">Quando Blayne exerce o seu poder, Lydia deve fazer uma escolha terrível. Com a briga de Wells-Pincher no auge e Nancy na mira de Hal, o quão longe irá a vingança?(n)</desc>
+    <credits>
+      <director>Debs Paterson</director>
+      <actor>Alfie Allen</actor>
+      <actor>Eloise Smyth</actor>
+      <actor>Jessica Brown Findlay</actor>
+      <actor>Lesley Manville</actor>
+      <actor>Liv Tyler</actor>
+      <actor>Samantha Morton</actor>
+      <actor>Kate Fleetwood</actor>
+      <actor>Holli Dempsey</actor>
+      <actor>Pippa Bennett-Warner</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_harlots01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821083700 -0300" stop="20210821092800 -0300" channel="FOX Premium 1">
+    <title lang="pt">Harlots</title>
+    <desc lang="pt">Após um ataque de novos cafetões da cidade, Charlotte Wells revida, o que acaba em consequências desastrosas. Será que Charlotte pode proteger as suas garotas dos homens que querem derrubá-la?(n)</desc>
+    <credits>
+      <director>Robin Sheppard</director>
+      <actor>Alfie Allen</actor>
+      <actor>Eloise Smyth</actor>
+      <actor>Jessica Brown Findlay</actor>
+      <actor>Lesley Manville</actor>
+      <actor>Liv Tyler</actor>
+      <actor>Samantha Morton</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_harlots01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821092800 -0300" stop="20210821102700 -0300" channel="FOX Premium 1">
+    <title lang="pt">Aqui na Terra</title>
+    <desc lang="pt">Voltamos ao passado para descobrir alguns dos mistérios que cercam o personagem de Pía e Pájaro, e como Rocha, Landa e Hurtado estão envolvidos em uma rede sombria de interesses políticos nas entranhas do poder.(n)</desc>
+    <credits>
+      <director>Everardo Gout</director>
+      <actor>Alfonso Dosal</actor>
+      <actor>Ariadna Gil</actor>
+      <actor>Daniel Giménez Cacho</actor>
+      <actor>Gael García Bernal</actor>
+      <actor>Paulina Dávila</actor>
+      <actor>Tenoch Huerta</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_aquinaterra01.jpg" />
+    <country lang="pt">México</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821102700 -0300" stop="20210821111500 -0300" channel="FOX Premium 1">
+    <title lang="pt">Aqui na Terra</title>
+    <desc lang="pt">Carlos e Elisa viajam para a Patagônia em busca de Pía Landa, que confirma a Carlos suas suspeitas mais densas. Enquanto isso, Rufino intercede com Rocha para tirar Adán da prisão.(n)</desc>
+    <credits>
+      <director>Gabriel Ripstein</director>
+      <actor>Alfonso Dosal</actor>
+      <actor>Ariadna Gil</actor>
+      <actor>Daniel Giménez Cacho</actor>
+      <actor>Gael García Bernal</actor>
+      <actor>Paulina Dávila</actor>
+      <actor>Tenoch Huerta</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_aquinaterra01.jpg" />
+    <country lang="pt">México</country>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821111500 -0300" stop="20210821120700 -0300" channel="FOX Premium 1">
+    <title lang="pt">Aqui na Terra</title>
+    <desc lang="pt">Adán planeja uma jogada arriscada para chamar a atenção de Rocha. Enquanto isso, Carlos consegue acessar o arquivo sobre a morte de seu pai e faz uma nova descoberta que o aproxima da verdade.(n)</desc>
+    <credits>
+      <director>Gabriel Ripstein</director>
+      <actor>Alfonso Dosal</actor>
+      <actor>Ariadna Gil</actor>
+      <actor>Daniel Giménez Cacho</actor>
+      <actor>Gael García Bernal</actor>
+      <actor>Paulina Dávila</actor>
+      <actor>Tenoch Huerta</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_aquinaterra01.jpg" />
+    <country lang="pt">México</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821120700 -0300" stop="20210821125300 -0300" channel="FOX Premium 1">
+    <title lang="pt">Empire</title>
+    <desc lang="pt">Em meio ao lançamento do Bossy Fest e da luta para recuperar o controle da Empire, Cookie reflete sobre a sua vida e a mulher que se tornou.(n)</desc>
+    <credits>
+      <director>Sanaa Hamri</director>
+      <actor>Bryshere Y. Gray</actor>
+      <actor>Chet Hanks</actor>
+      <actor>Gabourey Sidibe</actor>
+      <actor>Jussie Smollett</actor>
+      <actor>Taraji P. Henson</actor>
+      <actor>Terrence Howard</actor>
+      <actor>Trai Byers</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/empire01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E18</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821125300 -0300" stop="20210821133700 -0300" channel="FOX Premium 1">
+    <title lang="pt">Empire</title>
+    <desc lang="pt">Lucious está foragido e é perseguido pelos federais. Cookie se mantém ocupada concentrando-se em sua marca que agora inclui um talk show diurno e um centro comunitário.(n)</desc>
+    <credits>
+      <director>Craig Brewer</director>
+      <actor>Bryshere Y. Gray</actor>
+      <actor>Chet Hanks</actor>
+      <actor>Gabourey Sidibe</actor>
+      <actor>Jussie Smollett</actor>
+      <actor>Taraji P. Henson</actor>
+      <actor>Terrence Howard</actor>
+      <actor>Trai Byers</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/empire01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821133700 -0300" stop="20210821142100 -0300" channel="FOX Premium 1">
+    <title lang="pt">Empire</title>
+    <desc lang="pt">Lucious segue foragido. Cookie confronta Damon sobre as mentiras que ele disse. Andre lida com o seu próprio trauma pessoal e com uma complicação familiar.(n)</desc>
+    <credits>
+      <director>Craig Brewer</director>
+      <actor>Bryshere Y. Gray</actor>
+      <actor>Chet Hanks</actor>
+      <actor>Gabourey Sidibe</actor>
+      <actor>Jussie Smollett</actor>
+      <actor>Taraji P. Henson</actor>
+      <actor>Terrence Howard</actor>
+      <actor>Trai Byers</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/empire01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821142100 -0300" stop="20210821150700 -0300" channel="FOX Premium 1">
+    <title lang="pt">Riviera</title>
+    <desc lang="pt">Georgina se prepara para lançar a sua exposição ao lado de Jeff e Noah. Enquanto isso, Constantino tenta mandar uma mensagem para ela. Já Irina se aproxima da verdade sobre Adam.(n)</desc>
+    <credits>
+      <director>Paul Norton Walker</director>
+      <actor>Adrian Lester</actor>
+      <actor>Dimitri Leonidas</actor>
+      <actor>Julia Stiles</actor>
+      <actor>Lena Olin</actor>
+      <actor>Will Arnett</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_riviera01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821150700 -0300" stop="20210821155700 -0300" channel="FOX Premium 1">
+    <title lang="pt">Riviera</title>
+    <desc lang="pt">Georgina percebe que Irina pretende fazê-la sofrer e procura a pintura perdida de Noé. A trilha leva a um incômodo. Enquanto isso, Adriana e Nico se aproximam, apesar dos avisos de Christos.(n)</desc>
+    <credits>
+      <director>Paul Norton Walker</director>
+      <actor>Adrian Lester</actor>
+      <actor>Dimitri Leonidas</actor>
+      <actor>Julia Stiles</actor>
+      <actor>Lena Olin</actor>
+      <actor>Will Arnett</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_riviera01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821155700 -0300" stop="20210821164300 -0300" channel="FOX Premium 1">
+    <title lang="pt">Riviera</title>
+    <desc lang="pt">Georgina confessa a verdade para Jeff. Enquanto ele confronta Irina, o segredo de Cassandra finalmente é revelado. Georgina fica cara a cara com Constantine.(n)</desc>
+    <credits>
+      <director>Paul Norton Walker</director>
+      <actor>Adrian Lester</actor>
+      <actor>Dimitri Leonidas</actor>
+      <actor>Julia Stiles</actor>
+      <actor>Lena Olin</actor>
+      <actor>Will Arnett</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_riviera01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821164300 -0300" stop="20210821172400 -0300" channel="FOX Premium 1">
+    <title lang="pt">Riviera</title>
+    <desc lang="pt">Georgina usa o memorial de Raoul para canalizar a sua tristeza pela morte de Constantine. Enquanto isso, Nico fica de olho no império Clios e solta uma bomba que ameaça a família. Já Georgina descobre que Noah não é o que parece ser.(n)</desc>
+    <credits>
+      <director>Destiny Ekaragha</director>
+      <actor>Adrian Lester</actor>
+      <actor>Dimitri Leonidas</actor>
+      <actor>Julia Stiles</actor>
+      <actor>Lena Olin</actor>
+      <actor>Will Arnett</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_riviera01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821172400 -0300" stop="20210821180500 -0300" channel="FOX Premium 1">
+    <title lang="pt">Riviera</title>
+    <desc lang="pt">Georgina tem que revelar a verdade sobre Constantino para tentar proteger o império de Nico. O caos leva Georgina a recorrer a medidas desesperadas.(n)</desc>
+    <credits>
+      <director>Destiny Ekaragha</director>
+      <actor>Adrian Lester</actor>
+      <actor>Dimitri Leonidas</actor>
+      <actor>Julia Stiles</actor>
+      <actor>Lena Olin</actor>
+      <actor>Will Arnett</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_riviera01.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821180500 -0300" stop="20210821190700 -0300" channel="FOX Premium 1">
+    <title lang="pt">Outlander</title>
+    <desc lang="pt">Em uma sociedade que caminha à revolução, Jamie deverá pôr fim às perturbações e ocultar a sua relação com o líder do Movimento Regulador.(n)</desc>
+    <credits>
+      <director>Stephen Woolfenden</director>
+      <actor>Caitriona Balfe</actor>
+      <actor>Ed Speleers</actor>
+      <actor>John Bell</actor>
+      <actor>Maria Doyle Kennedy</actor>
+      <actor>Sam Heughan</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/outlander01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E11</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821190700 -0300" stop="20210821195800 -0300" channel="FOX Premium 1">
+    <title lang="pt">Outlander</title>
+    <desc lang="pt">Em uma sociedade que caminha à revolução, Jamie deverá pôr fim às perturbações e ocultar a sua relação com o líder do Movimento Regulador.(n)</desc>
+    <credits>
+      <director>Stephen Woolfenden</director>
+      <actor>Caitriona Balfe</actor>
+      <actor>Ed Speleers</actor>
+      <actor>John Bell</actor>
+      <actor>Maria Doyle Kennedy</actor>
+      <actor>Sam Heughan</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/outlander01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E12</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821195800 -0300" stop="20210821204400 -0300" channel="FOX Premium 1">
+    <title lang="pt">Aqui na Terra</title>
+    <desc lang="pt">Um atentado abala a realidade política mexicana e a vida de Rocha. Adam tenta estabelecer as responsabilidades dos rebeldes de San Mateo.(n)</desc>
+    <credits>
+      <director>Alonso Ruizpalacios</director>
+      <actor>Alfonso Dosal</actor>
+      <actor>Ariadna Gil</actor>
+      <actor>Daniel Giménez Cacho</actor>
+      <actor>Gael García Bernal</actor>
+      <actor>Paulina Dávila</actor>
+      <actor>Tenoch Huerta</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_aquinaterra01.jpg" />
+    <country lang="pt">México</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821204400 -0300" stop="20210821214800 -0300" channel="FOX Premium 1">
+    <title lang="pt">Aqui na Terra</title>
+    <desc lang="pt">Enquanto Rocha tenta evitar ser preso, uma dúvida sinistra toma conta de Carlos. Adam confronta os líderes de San Mateo novamente para exigir o bom senso deles.(n)</desc>
+    <credits>
+      <director>Alonso Ruizpalacios</director>
+      <actor>Alfonso Dosal</actor>
+      <actor>Ariadna Gil</actor>
+      <actor>Daniel Giménez Cacho</actor>
+      <actor>Gael García Bernal</actor>
+      <actor>Paulina Dávila</actor>
+      <actor>Tenoch Huerta</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_aquinaterra01.jpg" />
+    <country lang="pt">México</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821214800 -0300" stop="20210821224700 -0300" channel="FOX Premium 1">
+    <title lang="pt">Aqui na Terra</title>
+    <desc lang="pt">Voltamos ao passado para descobrir alguns dos mistérios que cercam o personagem de Pía e Pájaro, e como Rocha, Landa e Hurtado estão envolvidos em uma rede sombria de interesses políticos nas entranhas do poder.(n)</desc>
+    <credits>
+      <director>Everardo Gout</director>
+      <actor>Alfonso Dosal</actor>
+      <actor>Ariadna Gil</actor>
+      <actor>Daniel Giménez Cacho</actor>
+      <actor>Gael García Bernal</actor>
+      <actor>Paulina Dávila</actor>
+      <actor>Tenoch Huerta</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_aquinaterra01.jpg" />
+    <country lang="pt">México</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821224700 -0300" stop="20210821233100 -0300" channel="FOX Premium 1">
+    <title lang="pt">This Is Us</title>
+    <desc lang="pt">Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
+    <credits>
+      <director>Jon Huertas</director>
+      <actor>Chrissy Metz</actor>
+      <actor>Justin Hartley</actor>
+      <actor>Mandy Moore</actor>
+      <actor>Milo Ventimiglia</actor>
+      <actor>Sterling K. Brown</actor>
+      <actor>Eris Baker</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_thisisus01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821233100 -0300" stop="20210822001400 -0300" channel="FOX Premium 1">
+    <title lang="pt">This Is Us</title>
+    <desc lang="pt">Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
+    <credits>
+      <director>Jon Huertas</director>
+      <actor>Chrissy Metz</actor>
+      <actor>Justin Hartley</actor>
+      <actor>Mandy Moore</actor>
+      <actor>Milo Ventimiglia</actor>
+      <actor>Sterling K. Brown</actor>
+      <actor>Eris Baker</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_thisisus01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
 </tv>
