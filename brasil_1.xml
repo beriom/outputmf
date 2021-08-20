@@ -286,6 +286,7 @@
   </channel>
   <channel id="HBO Mundi HD">
     <display-name lang="pt">HBO Mundi HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/hbomundi.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="HBO Plus HD">
@@ -38813,6 +38814,391 @@
     <icon src="https://oisa.tmsimg.com/assets/p18260263_v_h8_af.jpg" />
     <rating>
       <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820133000 -0300" stop="20210820152000 -0300" channel="HBO Mundi HD">
+    <title lang="pt">Greed - A Indústria da Moda</title>
+    <desc lang="pt">Steve Coogan e Isla Fisher protagonizam esta comédia satírica sobre a grotesca desigualdade de riqueza na indústria da moda.(n)</desc>
+    <credits>
+      <director>Michael Winterbottom</director>
+      <actor>Isla Fisher</actor>
+      <actor>Asa Butterfield</actor>
+      <actor>Shirley Henderson</actor>
+      <actor>Sophie Cookson</actor>
+      <actor>Steve Coogan</actor>
+      <actor>Paul Higgins</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820152000 -0300" stop="20210820170500 -0300" channel="HBO Mundi HD">
+    <title lang="pt">O Retorno de Ben</title>
+    <desc lang="pt">Lucas Hedges protagonizam este filme onde o adorável Ben Burns, um adolescente viciado em drogas, aparece inesperadamente em sua casa na véspera de Natal.(n)</desc>
+    <credits>
+      <director>Peter Hedges</director>
+      <actor>Julia Roberts</actor>
+      <actor>Lucas Hedges</actor>
+      <actor>Courtney B. Vance</actor>
+      <actor>Rachel Bay Jones</actor>
+      <actor>Michael Esper</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210820170500 -0300" stop="20210820185000 -0300" channel="HBO Mundi HD">
+    <title lang="pt">Um Caso de Detetive</title>
+    <desc lang="pt">Adam Brody protagoniza essa comédia no papel de Abe Applebaum, um imaturo investigador que acaba de pegar seu primeiro caso "adulto".(n)</desc>
+    <credits>
+      <director>Evan Morgan</director>
+      <actor>Kaitlyn Chalmers-Rizzato</actor>
+      <actor>Adam Brody</actor>
+      <actor>Kaleb Horn</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">Canadá</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820185000 -0300" stop="20210820202000 -0300" channel="HBO Mundi HD">
+    <title lang="pt">12 Moedas</title>
+    <desc lang="pt">Uma constatação curiosa: o Brasil, apesar de ser um país jovem, já teve 12 diferente moedas. Este é o mote para o diretor Renato Rossi investigar o que está em jogo na política monetária de um país.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Brasil</country>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820202000 -0300" stop="20210820220000 -0300" channel="HBO Mundi HD">
+    <title lang="pt">Tudo pela Arte</title>
+    <desc lang="pt">Claes Bang e Mick Jagger estrelam este thriller sobre um crítico de arte que recebe uma oferta de um marchand para roubar um quadro.(n)</desc>
+    <credits>
+      <director>Giuseppe Capotondi</director>
+      <actor>Claes Bang</actor>
+      <actor>Elizabeth Debicki</actor>
+      <actor>Mick Jagger</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820220000 -0300" stop="20210821000500 -0300" channel="HBO Mundi HD">
+    <title lang="pt">O Último Vermeer</title>
+    <desc lang="pt">Claes Bang e Guy Pearce estrelam este drama baseado em fatos reais sobre um soldado que investiga um falsificador de obras de arte.(n)</desc>
+    <credits>
+      <director>Dan Friedkin</director>
+      <actor>Guy Pearce</actor>
+      <actor>Claes Bang</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821000500 -0300" stop="20210821015500 -0300" channel="HBO Mundi HD">
+    <title lang="pt">Enquanto a Guerra Durar</title>
+    <desc lang="pt">O vencedor do Oscar® Alejandro Amenábar dirige este filme que segue o confronto do escritor Miguel de Unamuno à ditadura espanhola em 1936.(n)</desc>
+    <credits>
+      <director>Alejandro Amenábar</director>
+      <actor>Karra Elejalde</actor>
+      <actor>Eduard Fernández</actor>
+      <actor>Santi Prego</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">Argentina</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821015500 -0300" stop="20210821042000 -0300" channel="HBO Mundi HD">
+    <title lang="pt">Todos os Homens do Presidente</title>
+    <desc lang="pt">Dois repórteres do Washington Post investigam denúncias que relacionam a invasão da sede do Partido Democrata com o presidente dos EUA.(n)</desc>
+    <credits>
+      <director>Alan J. Pakula</director>
+      <actor>Robert Redford</actor>
+      <actor>Dustin Hoffman</actor>
+      <actor>Jason Robards</actor>
+      <actor>Jack Warden</actor>
+      <actor>Martin Balsam</actor>
+      <actor>Hal Holbrook</actor>
+      <actor>Meredith Baxter</actor>
+      <actor>Ned Beatty</actor>
+      <actor>F. Murray Abraham</actor>
+      <actor>Lindsay Crouse</actor>
+    </credits>
+    <date>1976</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_homenspresidente01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821042000 -0300" stop="20210821060000 -0300" channel="HBO Mundi HD">
+    <title lang="pt">Vidas à Deriva</title>
+    <desc lang="pt">A bordo de um veleiro sem comida ou água e com seu namorado gravemente ferido, Tami tem apenas sua coragem e determinação para salvar a si mesma e o homem que ama depois que um furacão os pega de surpresa.(n)</desc>
+    <credits>
+      <director>Baltasar Kormákur</director>
+      <actor>Shailene Woodley</actor>
+      <actor>Sam Claflin</actor>
+      <actor>Jeffrey Thomas</actor>
+      <actor>Elizabeth Hawthorne</actor>
+      <actor>Siale Tunoka</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">Hong Kong</country>
+    <country lang="pt">Islândia</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821072000 -0300" channel="HBO Mundi HD">
+    <title lang="pt">Complexo de Deus: Os Bebês do Dr. Quincy Fortier</title>
+    <desc lang="pt">Documentário sobre o legado do especialista em fertilidade Quincy Fortier, que secretamente inseminava suas pacientes com o próprio sêmen.(n)</desc>
+    <credits>
+      <director>Hannah Olson</director>
+      <actor>Quincy Fortier</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821072000 -0300" stop="20210821090500 -0300" channel="HBO Mundi HD">
+    <title lang="pt">Laurel Canyon - A Rua das Tentações</title>
+    <desc lang="pt">Alex e Sam acabam de se formar em Medicina. Para continuar os estudos, eles vão morar em Los Angeles com Jane, a mãe de Sam. Mas o liberal modo de vida de Jane vai pôr à prova a relação de Sam e Alex.(n)</desc>
+    <credits>
+      <director>Lisa Cholodenko</director>
+      <actor>Frances McDormand</actor>
+      <actor>Christian Bale</actor>
+      <actor>Kate Beckinsale</actor>
+      <actor>Natascha McElhone</actor>
+      <actor>Alessandro Nivola</actor>
+      <actor>Lou Barlow</actor>
+      <actor>Russell Pollard</actor>
+      <actor>Imaad Wasif</actor>
+      <actor>Mikey Petralia</actor>
+      <actor>Rick Gonzalez</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_laurelcanyonaruadastentacoes01.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821090500 -0300" stop="20210821102000 -0300" channel="HBO Mundi HD">
+    <title lang="pt">Hank e Asha</title>
+    <desc lang="pt">Asha é uma estudante indiana que vive em Praga e Hank é um jovem solitário que vive em Nova York. Eles são dois estranhos que mantém contato online há pouco tempo e agora seus sentimentos os farão decidir se o próximo passo será se encontrar.(n)</desc>
+    <credits>
+      <director>James E. Duff</director>
+      <actor>Andrew Pastides</actor>
+      <actor>Mahira Kakkarm Brian Sloan</actor>
+      <actor>Anna Tydlitatova</actor>
+      <actor>Bianca Butti</actor>
+      <actor>Robyn Kerr</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">EUA</country>
+    <country lang="pt">República Tcheca</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821102000 -0300" stop="20210821120500 -0300" channel="HBO Mundi HD">
+    <title lang="pt">Uma Sereia em Paris</title>
+    <desc lang="pt">Gaspard Snow, um músico de coração partido que jurou não se apaixonar mais, cruza o caminho de uma sereia em Paris.(n)</desc>
+    <credits>
+      <director>Mathias Malzieu</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Romance</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821120500 -0300" stop="20210821135500 -0300" channel="HBO Mundi HD">
+    <title lang="pt">118 Dias</title>
+    <desc lang="pt">Teerã, 2009. O jornalista da Newsweek, Maziar Bahari, foi a seu país para cobrir as eleições em que se enfrentaram Ahmadineyad e Mousavi, sem imaginar que seria acusado de espionagem e sofreria torturas por forças iranianas durante 118 dias.(n)</desc>
+    <credits>
+      <director>Jon Stewart</director>
+      <actor>Gael García Bernal</actor>
+      <actor>Kim Bodnia</actor>
+      <actor>Dimitri Leonidas</actor>
+      <actor>Shohreh Aghdashloo</actor>
+      <actor>Haluk Bilginer</actor>
+      <actor>Golshifteh Farahani</actor>
+      <actor>Amir El-Masry</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/filme_118dias01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821135500 -0300" stop="20210821155500 -0300" channel="HBO Mundi HD">
+    <title lang="pt">Fome de Poder</title>
+    <desc lang="pt">Ray Kroc descobre o restaurante de fast-food operado pelos irmãos McDonald no sul da Califórnia no final dos anos 50. Impressionado com o potencial do empreendimento, o ambicioso faz de tudo para assumir o controle do negócio.(n)</desc>
+    <credits>
+      <director>John Lee Hancock</director>
+      <actor>Nick Offerman</actor>
+      <actor>Laura Dern</actor>
+      <actor>Griff Furst</actor>
+      <actor>Michael Keaton</actor>
+      <actor>John Carroll Lynch</actor>
+      <actor>Linda Cardellini</actor>
+      <actor>B.J. Novak</actor>
+      <actor>Patrick Wilson</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/filme_fomedepoder01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821155500 -0300" stop="20210821181000 -0300" channel="HBO Mundi HD">
+    <title lang="pt">O Povo Contra Larry Flynt</title>
+    <desc lang="pt">História de Larry Flynt que dividiu opiniões nos EUA. De infância pobre, ex-dono de casas de striptease, fica milionário ao lançar a revista Hustler, de conteúdo erótico.(n)</desc>
+    <credits>
+      <director>Milos Forman</director>
+      <actor>Woody Harrelson</actor>
+      <actor>Courtney Love</actor>
+      <actor>Edward Norton</actor>
+      <actor>Brett Harrelson</actor>
+      <actor>James Cromwell</actor>
+      <actor>Donna Hanower</actor>
+      <actor>Crispin Glover</actor>
+      <actor>Vincent Schiavelli</actor>
+      <actor>Miles Chapin</actor>
+      <actor>Richard Paul</actor>
+    </credits>
+    <date>1996</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/filme_larryflint01.jpg" />
+    <country lang="pt">Canadá</country>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210821181000 -0300" stop="20210821200000 -0300" channel="HBO Mundi HD">
+    <title lang="pt">Meu Jantar com Hervé</title>
+    <desc lang="pt">Hervé Villechaize ficou famoso pelo papel na série "A Ilha da Fantasia" e por seu nanismo. Em 1993, ele conhece o jornalista Danny Tate, com quem faz amizade durante uma noite selvagem que traz graves consequências para os dois.(n)</desc>
+    <credits>
+      <director>Sacha Gervasi</director>
+      <actor>Andy Garcia</actor>
+      <actor>Peter Dinklage</actor>
+      <actor>Jamie Dornan</actor>
+      <actor>Mireille Enos</actor>
+      <actor>Oona Chaplin</actor>
+      <actor>Daniel Mays</actor>
+      <actor>Harriet Walter</actor>
+      <actor>Wallace Langham</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/filme_meujantarcomherve01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821200000 -0300" stop="20210821220000 -0300" channel="HBO Mundi HD">
+    <title lang="pt">No Portal da Eternidade</title>
+    <desc lang="pt">O famoso e atormentado Vincent van Gogh passa os seus últimos anos em Arles, na França, transformando o mundo que o cerca em obras-primas.(n)</desc>
+    <credits>
+      <director>Julian Schnabel</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Biografia</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821220000 -0300" stop="20210821235500 -0300" channel="HBO Mundi HD">
+    <title lang="pt">Projeto Flórida</title>
+    <desc lang="pt">Em um hotel de beira de estrada à sombra de um parque da Disney na Flórida, Moonee (Brooklynn Prince), uma garotinha de seis anos, vive um verão de descoberta e fantasia junto de seus amigos.(n)</desc>
+    <credits>
+      <director>Sean Baker</director>
+      <actor>Willem Dafoe</actor>
+      <actor>Brooklynn Prince</actor>
+      <actor>Bria Vinaite</actor>
+      <actor>Christopher Rivera</actor>
+      <actor>Aiden Malik</actor>
+      <actor>Josie Olivo</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821235500 -0300" stop="20210822022500 -0300" channel="HBO Mundi HD">
+    <title lang="pt">Brooklyn: Sem Pai Nem Mãe</title>
+    <desc lang="pt">O vencedor do Globo de Ouro® Edward Norton é Lionel Essrog, um detetive privado em busca de solucionar o assassinato de seu único amigo.(n)</desc>
+    <credits>
+      <director>Edward Norton</director>
+      <actor>Edward Norton</actor>
+      <actor>Gugu Mbatha-Raw</actor>
+      <actor>Alec Baldwin</actor>
+      <actor>Willem Dafoe</actor>
+      <actor>Ethan Suplee</actor>
+      <actor>Bruce Willis</actor>
+      <actor>Bobby Cannavale</actor>
+      <actor>Cherry Jones</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <rating system="BR">
+      <value>16</value>
     </rating>
   </programme>
 </tv>
