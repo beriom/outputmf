@@ -200,6 +200,7 @@
   </channel>
   <channel id="Food Network HD">
     <display-name lang="pt">Food Network HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/foodnetwork.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="FOX HD ³">
@@ -28160,5 +28161,3056 @@
     <rating system="BR">
       <value>L</value>
     </rating>
+  </programme>
+  <programme start="20210820140000 -0300" stop="20210820144800 -0300" channel="Food Network HD">
+    <title lang="pt">Show de Cozinha</title>
+    <desc lang="pt">É hora do lanche e Katie Lee prepara um lanche fresco e crocante com o ingrediente de verão mais pesquisado da Food Network. Nós mapeamos sua viagem de verão com lanches prontos para o carro, como o Marcelo's Aztec Fruit Bars.(n)</desc>
+    <credits>
+      <director>Gary Corrigan</director>
+      <actor>Geoffrey Zakarian</actor>
+      <actor>Jeff Mauro</actor>
+      <actor>Katie Lee</actor>
+      <actor>Marcela Valladolid</actor>
+      <actor>Sunny Anderson</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_showdecozinha01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820144800 -0300" stop="20210820151200 -0300" channel="Food Network HD">
+    <title lang="pt">Sabor Às Cegas</title>
+    <desc lang="pt">Neste episódio, as participantes Simona, Silvia e Katiuscia pertencem à categoria "Pin-Up". Benedetta apresenta o prato que elas devem preparar durante um tempo limitado: macarrão com queijo.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">Itália</country>
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820151200 -0300" stop="20210820153600 -0300" channel="Food Network HD">
+    <title lang="pt">Comidas de Praia com Katie Lee</title>
+    <desc lang="pt">De St. Thomas para a ilha Mackinac, Michigan para Montauk, Nova York, Katie Lee está passeando pelas praias atrás de encontrar versões das melhores comidas que estas ilhas têm a oferecer.(n)</desc>
+    <credits>
+      <actor>Katie Lee</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_comidasdepraiacomkatielee01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820153600 -0300" stop="20210820160000 -0300" channel="Food Network HD">
+    <title lang="pt">Lanchonetes Clássicas com Guy Fieri</title>
+    <desc lang="pt">Neste programa, Guy Fieri cozinha de tudo, desde culinária creole a crepes asiáticos, passando por frios. Primeiro, um restaurante que está há décadas na mesma família leva Nova Orleans para Los Angeles com um gumbo e um éttouffé fora de série.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_lanchonetesclassicascomgu01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S25 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820160000 -0300" stop="20210820162400 -0300" channel="Food Network HD">
+    <title lang="pt">Lanchonetes Clássicas com Guy Fieri</title>
+    <desc lang="pt">Nessa viagem o Guy vai comer uns rangos feito em pubs. Em Minneapolis, uma grande cervejaria que tem pratos como uma deliciosa carne de porco desfiada e um sanduíche de peito bovino que é matador.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_lanchonetesclassicascomgu01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S25 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820162400 -0300" stop="20210820164800 -0300" channel="Food Network HD">
+    <title lang="pt">Na Brasa com Bobby Flay</title>
+    <desc lang="pt">Diversão tamanho família! Vamos conhecer um ex-fuzileiro naval que hoje é um guru do treinamento militar e descobrir os sabores dominicanos dos seus hambúrgueres chimichurri com banana-da-terra grelhada com calda.(n)</desc>
+    <credits>
+      <actor>Rock Shrimp</actor>
+      <actor>Embassy Row</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820164800 -0300" stop="20210820171200 -0300" channel="Food Network HD">
+    <title lang="pt">Giada na Itália</title>
+    <desc lang="pt">Giada de Laurentiis celebra a pizza de Nápoles ao criar uma massa de pizza napolitana e montar pizzas com suas coberturas preferidas.(n)</desc>
+    <credits>
+      <actor>Giada De Laurentiis</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_giadanaitalia01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820171200 -0300" stop="20210820180000 -0300" channel="Food Network HD">
+    <title lang="pt">Bolo Perfeito</title>
+    <desc lang="pt">As equipes de confeiteiros são desafiadas a criar um bolo épico para o 250° episódio da série "A Batalha dos Carrinhos".(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820180000 -0300" stop="20210820182500 -0300" channel="Food Network HD">
+    <title lang="pt">Doces Lugares</title>
+    <desc lang="pt">Em Charleston, a Callie's Hot Little Biscuit prepara rosquinhas com sabores originais, como canela e mirtilo. A Brown's Court Bakery testa os limites da confeitaria com o croissant Sriracha e a barra Caramelita.(n)</desc>
+    <credits>
+      <director>Jaclyn Fasano</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_doceslugares01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820182500 -0300" stop="20210820185100 -0300" channel="Food Network HD">
+    <title lang="pt">Doces Lugares</title>
+    <desc lang="pt">Em Portland, a confeitaria Holy Donut serve deliciosos donuts de gengibre feitos com purê de batatas. No Brooklyn, o kolache, uma tradicional sobremesa texana ganha um novo recheio com três tipos de frutas vermelhas.(n)</desc>
+    <credits>
+      <director>Jaclyn Fasano</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_doceslugares01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820185100 -0300" stop="20210820193900 -0300" channel="Food Network HD">
+    <title lang="pt">A Guerra dos Bolos</title>
+    <desc lang="pt">Quarto confeiteiros competem para ter sua criação no centro de uma grande comemoração das Escoteiras dos Estados Unidos e pelo prêmio de U$10.000. Eles terão que impressionar uma Escoteira de verdade se quiserem ganhar a insígnia A Guerra dos Bolos.(n)</desc>
+    <credits>
+      <actor>Jonathan Bennett</actor>
+      <actor>Ron Ben Israel</actor>
+      <actor>Waylynn Lucas</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_aguerradosbolos01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820193900 -0300" stop="20210820202700 -0300" channel="Food Network HD">
+    <title lang="pt">Chopped</title>
+    <desc lang="pt">É, nós não temos bananas. Mas nós temos corações de bananeira na primeira cesta, e quatro mulheres competindo! As três chefs que passarem para a rodada do prato principal devem trabalhar com um ingrediente muito malcheiroso.(n)</desc>
+    <credits>
+      <actor>Ted Allen</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_chopped01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820202700 -0300" stop="20210820205100 -0300" channel="Food Network HD">
+    <title lang="pt">Duelo Com Bobby Flay</title>
+    <desc lang="pt">A garota da fazenda Rochelle Bilow enfrenta o menino da cidade Paul Denamiel para ter a chance de competir com Bobby Flay.(n)</desc>
+    <credits>
+      <actor>Bobby Flay</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/beatbobbyflay01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820205100 -0300" stop="20210820211500 -0300" channel="Food Network HD">
+    <title lang="pt">Duelo Com Bobby Flay</title>
+    <desc lang="pt">Dois chefs talentosos se enfrentam pela chance de ganhar de Bobby Flay. Para chegar até o Bobby, os chefs primeiro precisam se enfrentar, criando um prato espetacular com um ingrediente secreto escolhido pelo Bobby.(n)</desc>
+    <credits>
+      <actor>Bobby Flay</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/beatbobbyflay01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820211500 -0300" stop="20210820220300 -0300" channel="Food Network HD">
+    <title lang="pt">SOS Restaurante</title>
+    <desc lang="pt">A família de Paul tem o Paul's Bar &amp; Bowling, em Paterson, Nova Jersey, desde 1929, mas este clássico da vizinhança só tem piorado nos últimos 8 anos, deixando o Paul sem escolhas além de chamar o chef Robert Irvine para ajudar.(n)</desc>
+    <credits>
+      <actor>Robert Irvine</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_sosrestaurante01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S9 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820220300 -0300" stop="20210820222700 -0300" channel="Food Network HD">
+    <title lang="pt">Na Pegada dos Food Trucks</title>
+    <desc lang="pt">Brad Miller visita o food truck que pertence a um príncipe italiano em Venice Beach, Califórnia.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820222700 -0300" stop="20210820225100 -0300" channel="Food Network HD">
+    <title lang="pt">Na Pegada dos Food Trucks</title>
+    <desc lang="pt">Brad Miller experimenta hambúrgueres enormes com batata frita em um food truck no sul de Los Angeles.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820225100 -0300" stop="20210820231500 -0300" channel="Food Network HD">
+    <title lang="pt">O Favorito dos Chefs</title>
+    <desc lang="pt">Estrelas da culinária, como Wolfgang Puck, Curtis Stone e Andrew Zimmern homenageiam suas mães e revelam os pratos que os fazem lembrar de sua infância.(n)</desc>
+    <credits>
+      <actor>Bobby Flay</actor>
+      <actor>Ted Allen</actor>
+      <actor>Duff Goldman</actor>
+      <actor>Claire Robinson</actor>
+      <actor>Grant Achatz</actor>
+      <actor>Paul Bartolotta</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820231500 -0300" stop="20210820233900 -0300" channel="Food Network HD">
+    <title lang="pt">Os Favoritos de Sophie e Bobby Flay</title>
+    <desc lang="pt">Bobby e Sophie Flay contam quais são seus pratos de filé favoritos nos restaurantes Quality Eats NoMad e Wolfgang's Steakhouse, em Nova York.(n)</desc>
+    <credits>
+      <director>Mark Levine</director>
+      <actor>Bobby Flay</actor>
+      <actor>Sophie Flay</actor>
+      <actor>Ed McFarland</actor>
+      <actor>Susan Povich</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820233900 -0300" stop="20210821000300 -0300" channel="Food Network HD">
+    <title lang="pt">O Rei do Sanduíche</title>
+    <desc lang="pt">O po-boy é um dos maiores membros do panteão dos sanduíches, e Jeff Mauro sabe exatamente onde encontrar um genuíno em Chicago.(n)</desc>
+    <credits>
+      <director>Rock Shrimp</director>
+      <director>Embassy Row Productions</director>
+      <actor>Jeff Mauro</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_oreidosanduiche01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821000300 -0300" stop="20210821002700 -0300" channel="Food Network HD">
+    <title lang="pt">Giada na Itália</title>
+    <desc lang="pt">Giada vai passar a tarde de domingo na cozinha preparando um jantar para a família. O cardápio terá abóbora assada com cereja seca e pistache.(n)</desc>
+    <credits>
+      <actor>Giada De Laurentiis</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_giadanaitalia01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821002700 -0300" stop="20210821005100 -0300" channel="Food Network HD">
+    <title lang="pt">Cozinha à la Fieri</title>
+    <desc lang="pt">Guy Fieri quer provar que refeições dentro de um orçamento não precisam ser sem graça e pode ser uma refeição cheia de sabor. Cacciatore de coxa de frango e linguiça servida com risoto de cevada e cogumelos com certeza vão satisfazer os famintos.(n)</desc>
+    <credits>
+      <actor>Guy Fieri</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_cozinhaalafieri01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S17 E11</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210821005100 -0300" stop="20210821013900 -0300" channel="Food Network HD">
+    <title lang="pt">Drinques Pelo Mundo</title>
+    <desc lang="pt">Jack Maxwell mergulha atrás de uma iguaria de fruto do mar, visita o laboratório de bebidas do dr. Frankenstein, desenterra o vinho da morte e prova a joia da coroa portuguesa, o vinho do Porto.(n)</desc>
+    <credits>
+      <actor>Jack Maxwell</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_drinquespelomundo01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E14</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210821013900 -0300" stop="20210821020300 -0300" channel="Food Network HD">
+    <title lang="pt">Lanchonetes Clássicas com Guy Fieri</title>
+    <desc lang="pt">Neste programa, Guy Fieri cozinha de tudo, desde culinária creole a crepes asiáticos, passando por frios. Primeiro, um restaurante que está há décadas na mesma família leva Nova Orleans para Los Angeles com um gumbo e um éttouffé fora de série.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_lanchonetesclassicascomgu01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S25 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821020300 -0300" stop="20210821025100 -0300" channel="Food Network HD">
+    <title lang="pt">Chopped</title>
+    <desc lang="pt">É, nós não temos bananas. Mas nós temos corações de bananeira na primeira cesta, e quatro mulheres competindo! As três chefs que passarem para a rodada do prato principal devem trabalhar com um ingrediente muito malcheiroso.(n)</desc>
+    <credits>
+      <actor>Ted Allen</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_chopped01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821025100 -0300" stop="20210821033900 -0300" channel="Food Network HD">
+    <title lang="pt">SOS Restaurante</title>
+    <desc lang="pt">A família de Paul tem o Paul's Bar &amp; Bowling, em Paterson, Nova Jersey, desde 1929, mas este clássico da vizinhança só tem piorado nos últimos 8 anos, deixando o Paul sem escolhas além de chamar o chef Robert Irvine para ajudar.(n)</desc>
+    <credits>
+      <actor>Robert Irvine</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_sosrestaurante01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S9 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821033900 -0300" stop="20210821040200 -0300" channel="Food Network HD">
+    <title lang="pt">Na Pegada dos Food Trucks</title>
+    <desc lang="pt">Brad Miller visita o food truck que pertence a um príncipe italiano em Venice Beach, Califórnia.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821040200 -0300" stop="20210821042600 -0300" channel="Food Network HD">
+    <title lang="pt">Na Pegada dos Food Trucks</title>
+    <desc lang="pt">Brad Miller experimenta hambúrgueres enormes com batata frita em um food truck no sul de Los Angeles.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821042600 -0300" stop="20210821051300 -0300" channel="Food Network HD">
+    <title lang="pt">O Favorito dos Chefs</title>
+    <desc lang="pt">Estrelas da culinária, como Wolfgang Puck, Curtis Stone e Andrew Zimmern homenageiam suas mães e revelam os pratos que os fazem lembrar de sua infância.(n)</desc>
+    <credits>
+      <actor>Bobby Flay</actor>
+      <actor>Ted Allen</actor>
+      <actor>Duff Goldman</actor>
+      <actor>Claire Robinson</actor>
+      <actor>Grant Achatz</actor>
+      <actor>Paul Bartolotta</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821051300 -0300" stop="20210821053600 -0300" channel="Food Network HD">
+    <title lang="pt">Refeição em 30 Minutos</title>
+    <desc lang="pt">Rachael Ray prepara sua versão de filé au poivre com molho sichuan e pimenta-do-reino.(n)</desc>
+    <credits>
+      <actor>Rachael Ray</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_refeicaoem30minutos01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S28 E18</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821053600 -0300" stop="20210821060000 -0300" channel="Food Network HD">
+    <title lang="pt">Refeição em 30 Minutos</title>
+    <desc lang="pt">Rachael Ray prepara o sanduíche favorito de seu marido, John Cusimano: um filé au jus estilo italiano.(n)</desc>
+    <credits>
+      <actor>Rachael Ray</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_refeicaoem30minutos01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S28 E19</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821060000 -0300" stop="20210821062400 -0300" channel="Food Network HD">
+    <title lang="pt">Refeição em 30 Minutos</title>
+    <desc lang="pt">Rach vai criar sua própria versão de dois pratos que normalmente você pede em casa. Stir fry de frango barbecue asiático com amendoins e arroz, e sopa chinesa de ovos com capim-limão, gengibre e acelga-suíça.(n)</desc>
+    <credits>
+      <actor>Rachael Ray</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_refeicaoem30minutos01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S25 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821062400 -0300" stop="20210821064800 -0300" channel="Food Network HD">
+    <title lang="pt">Refeição em 30 Minutos</title>
+    <desc lang="pt">Um piquenique no estilo italiano dentro de casa que agradará uma multidão e te fará economizar. Gaspacho com tomates-italianos, coxas de frango com cebola, funcho e pimentão tostado, e crostini de pão com milho.(n)</desc>
+    <credits>
+      <actor>Rachael Ray</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_refeicaoem30minutos01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S25 E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821064800 -0300" stop="20210821071200 -0300" channel="Food Network HD">
+    <title lang="pt">Receitas da Ina</title>
+    <desc lang="pt">Este é o Back to Basic especial entretenimento fácil e elegante. Quando as pessoas estão esperando algo sofisticado, torne simples e as surpreenda com um prato italiano.(n)</desc>
+    <credits>
+      <actor>Ina Garten</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/barefoodconfessa01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821071200 -0300" stop="20210821073600 -0300" channel="Food Network HD">
+    <title lang="pt">Receitas da Ina</title>
+    <desc lang="pt">É voltando ao básico que Ina cozinha para uma multidão numa festa aos seus amigos do teatro. Ela está compartilhando seus hábitos de organização e know-how para demonstar como preparar grandes festas sem nenhum estresse.(n)</desc>
+    <credits>
+      <actor>Ina Garten</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/barefoodconfessa01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821073600 -0300" stop="20210821080000 -0300" channel="Food Network HD">
+    <title lang="pt">Giada em Casa</title>
+    <desc lang="pt">Se você tem um novo bebê em casa ou apenas quer apimentar o seu relacionamento, é sempre importante reservar um tempo para passar a sós com o seu companheiro.(n)</desc>
+    <credits>
+      <actor>Giada De Laurentiis</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/giadaathome01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E18</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821080000 -0300" stop="20210821082400 -0300" channel="Food Network HD">
+    <title lang="pt">Giada em Casa</title>
+    <desc lang="pt">Giada vai preparar os pratos para o chá de cozinha de uma amiga querida que vai se casar. Em vez dos típicos minissanduíches, bolo e ponche, ela vai oferecer um cardápio especial, que será divertido e surpreendente.(n)</desc>
+    <credits>
+      <actor>Giada De Laurentiis</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/giadaathome01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821082400 -0300" stop="20210821084800 -0300" channel="Food Network HD">
+    <title lang="pt">Receitas Secretas dos Avós</title>
+    <desc lang="pt">Lita mostra Mo Rocca como fazer alguns alimentos básicos da América Central, incluindo arroz e feijão e maduros de plátanos. Ela também o apresenta ao amigo leal e peludo Canela.(n)</desc>
+    <credits>
+      <director>Hal Lewis</director>
+      <actor>Mo Rocca</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821084800 -0300" stop="20210821091200 -0300" channel="Food Network HD">
+    <title lang="pt">Receitas Secretas dos Avós</title>
+    <desc lang="pt">Dave Whitney, de 77 anos, pescou toda a sua vida e apresenta Mo Rocca ao passatempo em um lago em Lakeland, na Flórida. E, claro, peixe também está no cardápio - filetes de bass revestidos com batatas fritas.(n)</desc>
+    <credits>
+      <actor>Mo Rocca</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821091200 -0300" stop="20210821093600 -0300" channel="Food Network HD">
+    <title lang="pt">Chef Estrela</title>
+    <desc lang="pt">A apresentadora de TV Erin Andrews pode entender de esportes, mas a chef Susan Feniger tem uma coisa ou duas para ensinar a ela na cozinha. Em um restaurante em Los Angeles, Erin deve servir o almoço a clientes famintos.(n)</desc>
+    <credits>
+      <director>Mark Lafleur</director>
+      <actor>Erin Andrews</actor>
+      <actor>Susan Feniger</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821093600 -0300" stop="20210821100000 -0300" channel="Food Network HD">
+    <title lang="pt">Chef Estrela</title>
+    <desc lang="pt">A atriz Minka Kelly tenta aprender a preparar um de seus pratos favoritos, suflê de chocolate meio amargo, com o chef Geoffrey Zakarian no restaurante Georgie Montage Beverly Hills.(n)</desc>
+    <credits>
+      <director>Mark Lafleur</director>
+      <actor>Minka Kelly</actor>
+      <actor>Geoffrey Zakarian</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821100000 -0300" stop="20210821102400 -0300" channel="Food Network HD">
+    <title lang="pt">Cozinhando com Damaris</title>
+    <desc lang="pt">Damaris Phillips prepara uma refeição com ingredientes calóricos e saborosos, mas muito saudáveis.(n)</desc>
+    <credits>
+      <director>Kevin Lezak</director>
+      <actor>Damaris Phillips</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E11</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821102400 -0300" stop="20210821104800 -0300" channel="Food Network HD">
+    <title lang="pt">Cozinhando com Damaris</title>
+    <desc lang="pt">Damaris Phillips prepara uma deliciosa carne grelhada com pimenta jalapeño e morangos.(n)</desc>
+    <credits>
+      <director>Kevin Lezak</director>
+      <actor>Damaris Phillips</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821104800 -0300" stop="20210821111200 -0300" channel="Food Network HD">
+    <title lang="pt">Receitas Caseiras da Valerie</title>
+    <desc lang="pt">Valerie Bertinelli organiza uma tradicional festa do chá inglesa com toques modernos para sua amiga Jane Leeves.(n)</desc>
+    <credits>
+      <director>Justin Morong</director>
+      <actor>Valerie Bertinelli</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821111200 -0300" stop="20210821113600 -0300" channel="Food Network HD">
+    <title lang="pt">Receitas Caseiras da Valerie</title>
+    <desc lang="pt">Valerie Bertinelli prepara para seus sobrinhos uma série de petiscos típicos de feiras estaduais, incluindo cachorro-quente com pão de milho e churros.(n)</desc>
+    <credits>
+      <director>Justin Morong</director>
+      <actor>Valerie Bertinelli</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S8 E11</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821113600 -0300" stop="20210821120000 -0300" channel="Food Network HD">
+    <title lang="pt">Delícias da Fazenda</title>
+    <desc lang="pt">Jean, a tia de Nacy, acaba de voltar de Las Vegas e se apaixonou pela comida mexicana. Nancy organiza uma noite de pôquer, em que serve tortilhas de linguiça com molho caseiro, espetinhos de camarão e guacamole de romã.(n)</desc>
+    <credits>
+      <director>Pasquale Defazio</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821120000 -0300" stop="20210821122400 -0300" channel="Food Network HD">
+    <title lang="pt">Delícias da Fazenda</title>
+    <desc lang="pt">Nancy recebe três pessoas especiais no Dia das Mães. Ao longo do dia, serve deliciosas panquecas com creme de leite e xarope de mirtilo; torta de linguiça, espinafre e batata, e salada cítrica com pistaches, vinagrete e mel.(n)</desc>
+    <credits>
+      <director>Pasquale Defazio</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821122400 -0300" stop="20210821124800 -0300" channel="Food Network HD">
+    <title lang="pt">Feito em Casa com Gesine Prado</title>
+    <desc lang="pt">Gesine cria formas sagazes de levar receitas do forno à grelha, enquanto organiza uma festa ao ar livre para comemorar o clima quente com os amigos queridos.(n)</desc>
+    <credits>
+      <actor>Gesine Bullock-Prado</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821124800 -0300" stop="20210821131200 -0300" channel="Food Network HD">
+    <title lang="pt">Feito em Casa com Gesine Prado</title>
+    <desc lang="pt">Gesine prepara um elegante piquenique para o marido. Todas as receitas são feitas com sua massa filo favorita.(n)</desc>
+    <credits>
+      <director>Guto Barra</director>
+      <actor>Gesine Bullock-Prado</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821131200 -0300" stop="20210821133600 -0300" channel="Food Network HD">
+    <title lang="pt">Giada Faz a Festa</title>
+    <desc lang="pt">Giada De Laurentiis organiza um coquetel com minipetiscos feitos de comidas reconfortantes. O cardápio inclui salame crocante, rolinhos de ovo com queijo, madeleines de chocolate com avelã e leite com conhaque.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821133600 -0300" stop="20210821140000 -0300" channel="Food Network HD">
+    <title lang="pt">Giada Faz a Festa</title>
+    <desc lang="pt">Giada De Laurentiis e sua filha, Jade, convidam os amigos da menina para uma festa da pintura. O cardápio ganha um toque artístico com sanduíches de geleia com bacon, salada de feijão verde e refrescos multicoloridos.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821140000 -0300" stop="20210821142400 -0300" channel="Food Network HD">
+    <title lang="pt">Sabores da Fazenda com Molly</title>
+    <desc lang="pt">Molly Yeh prepara as receitas favoritas de sua irmã, incluindo um delicioso homus com carne.(n)</desc>
+    <credits>
+      <director>Jenny Kirsten</director>
+      <actor>Molly Yeh</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821142400 -0300" stop="20210821144800 -0300" channel="Food Network HD">
+    <title lang="pt">Sabores da Fazenda com Molly</title>
+    <desc lang="pt">Molly Yeh prepara duas pizzas com uma receita de massa caseira e bolo de gotas de chocolate de sobremesa.(n)</desc>
+    <credits>
+      <director>Jenny Kirsten</director>
+      <actor>Molly Yeh</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821144800 -0300" stop="20210821153600 -0300" channel="Food Network HD">
+    <title lang="pt">Chef Itinerante</title>
+    <desc lang="pt">Jock se aventura na Etiópia e descobre como uma das comunidades pastorais mais antigas do mundo transformou milhares de anos de cultura e tradição em uma cozinha nacional de fazer inveja à África.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821153600 -0300" stop="20210821160000 -0300" channel="Food Network HD">
+    <title lang="pt">Em Busca do Taco Perfeito</title>
+    <desc lang="pt">O chef Aarón Sanchez prova deliciosas comidas de rua mexicanas em São Francisco. O burrito do Papalote é recheado com carne assada, franco e camarão. No Tacolicous, é a vez de uma tortilha de atum cru com um toque de tequila.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821160000 -0300" stop="20210821162400 -0300" channel="Food Network HD">
+    <title lang="pt">Kömer</title>
+    <desc lang="pt">A invenção do número zero, de almanaques precisos, de sistemas de irrigação, das pirâmides... O mundo maia contribuiu com sua sabedoria em muitas áreas, e não foi diferente com a gastronomia.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821162400 -0300" stop="20210821171200 -0300" channel="Food Network HD">
+    <title lang="pt">A Guerra dos Cupcakes</title>
+    <desc lang="pt">Quatro confeiteiros disputam a oportunidade de servir seus cupcakes em uma festa exclusiva no famoso Zoológico de San Diego.(n)</desc>
+    <credits>
+      <actor>Justin Willman</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/aguerradoscupcakes01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E12</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821171200 -0300" stop="20210821180000 -0300" channel="Food Network HD">
+    <title lang="pt">A Guerra dos Bolos</title>
+    <desc lang="pt">Uma das famílias mais famosas da televisão vai dar o ar da graça na nossa batalha. São "Os Simpsons", que vão ganhar uma festa para comemorar seu grande sucesso.(n)</desc>
+    <credits>
+      <actor>Jonathan Bennett</actor>
+      <actor>Waylynn Lucas</actor>
+      <actor>Ron Ben Israel</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_aguerradosbolos01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821180000 -0300" stop="20210821182500 -0300" channel="Food Network HD">
+    <title lang="pt">Um Dia de Chef</title>
+    <desc lang="pt">Sergio trabalhou por muitos anos como modelo em Nova Iorque e no México, e nesses lugares tomou gosto por pratos mais temperados e apimentados.(n)</desc>
+    <credits>
+      <director>Carol Scalice</director>
+      <actor>Emmanuel Bassoleil</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_umdiadechef01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821182500 -0300" stop="20210821185100 -0300" channel="Food Network HD">
+    <title lang="pt">Um Dia de Chef</title>
+    <desc lang="pt">A única coisa que Cecília sabe fazer é tapioca. Lázaro seu esposo quer uma folga da cozinha e deseja que o chef Emmanuel ensine Cecília a fazer um prato saudável e gostoso que possa ser saboreado por toda a família.(n)</desc>
+    <credits>
+      <director>Carol Scalice</director>
+      <actor>Emmanuel Bassoleil</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_umdiadechef01_2_2019.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821185100 -0300" stop="20210821193900 -0300" channel="Food Network HD">
+    <title lang="pt">Food Network Star</title>
+    <desc lang="pt">O Food Network Star de hoje em dia deve ter uma presença em diversas plataformas.(n)</desc>
+    <credits>
+      <actor>Alton Brown</actor>
+      <actor>Bobby Flay</actor>
+      <actor>Giada De Laurentiis</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas/foodstar01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821193900 -0300" stop="20210821202700 -0300" channel="Food Network HD">
+    <title lang="pt">O Favorito dos Chefs</title>
+    <desc lang="pt">Um hambúrguer mergulhado em salada de repolho, um sanduíche de lasanha e um pão repleto de calda de chocolate são alguns dos pratos que Andrew Zimmern, Duff e Alton Brown experimentam neste episódio.(n)</desc>
+    <credits>
+      <actor>Bobby Flay</actor>
+      <actor>Ted Allen</actor>
+      <actor>Duff Goldman</actor>
+      <actor>Claire Robinson</actor>
+      <actor>Grant Achatz</actor>
+      <actor>Paul Bartolotta</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821202700 -0300" stop="20210821211500 -0300" channel="Food Network HD">
+    <title lang="pt">Na Rota do Sabor</title>
+    <desc lang="pt">Dê uma esquentada na sua vida com as comidas mais picantes dos EUA. Estrelando asas de frango com molho de pimenta habanero em Seattle, um burrito picante coberto com molho de pimenta bhut jolokia em São Francisco e um frango apimentado em Nashville.(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821211500 -0300" stop="20210821213900 -0300" channel="Food Network HD">
+    <title lang="pt">Sabor na Brasa</title>
+    <desc lang="pt">Roger encontra dois talentosos chefs em Miami, na Flórida, e em Birmingham, no Alabama. Ambos usam criações para cozinhar ao ar livre.(n)</desc>
+    <credits>
+      <director>Irene Wong</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821213900 -0300" stop="20210821220300 -0300" channel="Food Network HD">
+    <title lang="pt">Sabor na Brasa</title>
+    <desc lang="pt">Roger encontra o chefe da tribo indígena coquille, no Oregon, para assar um salmão. Depois, ele vai a Los Angeles para descobrir o segredo do frango assado do Pok Pok.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E7</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821220300 -0300" stop="20210821222700 -0300" channel="Food Network HD">
+    <title lang="pt">Sabores da América com Michael Symon</title>
+    <desc lang="pt">No estado de Nova York, Michael prova uma costela de porco defumada lentamente e coberta com um molho barbecue cítrico. Em Columbus, ele come um hambúrguer com salsicha polonesa.(n)</desc>
+    <credits>
+      <director>Maggie Zeltner</director>
+      <actor>Michael Symon</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821222700 -0300" stop="20210821225100 -0300" channel="Food Network HD">
+    <title lang="pt">Sabores da América com Michael Symon</title>
+    <desc lang="pt">Em Providence, Michael prova uma tradição local: um cachorro-quente feito com crepe e chili. Em Columbus, ele visita um restaurante que serve sua costelinha de porco em uma cama de feno em chamas.(n)</desc>
+    <credits>
+      <director>Maggie Zeltner</director>
+      <actor>Michael Symon</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821225100 -0300" stop="20210821231500 -0300" channel="Food Network HD">
+    <title lang="pt">Descobrindo Restaurantes com Adam Richman</title>
+    <desc lang="pt">Adam Richman sai à caça de restaurantes secretos em Hong Kong. Lá, ele conhece um filé tomahawk gigante em um pub escondido, e asas de frango em um bar secreto.(n)</desc>
+    <credits>
+      <actor>Adam Richman</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_descobrindorestaurantescomadamr01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821231500 -0300" stop="20210821233900 -0300" channel="Food Network HD">
+    <title lang="pt">Descobrindo Restaurantes com Adam Richman</title>
+    <desc lang="pt">Adam investiga as mais deliciosas comidas secretas de Londres, incluindo uma taberna disfarçada de agência de detetives, um sundae de um menu secreto que requerer que os clientes dancem.(n)</desc>
+    <credits>
+      <actor>Adam Richman</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_descobrindorestaurantescomadamr01_2_2019.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210821233900 -0300" stop="20210822000300 -0300" channel="Food Network HD">
+    <title lang="pt">Lanchonetes Clássicas com Guy Fieri</title>
+    <desc lang="pt">Guy vai visitar alguns lugares que são totalmente autênticos. Em Santa Fé, Novo México, o dono do Chimayo serve pratos tradicionais como enchiladas de milho com molho picante.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <icon src="https://www.tvmagazine.com.br/imagens/programas1/series_lanchonetesclassicascomgu01.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S18 E5</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210820010900 -0300" stop="20210820031600 -0300" channel="FOX HD ³">
+    <title lang="pt">O Lado Bom da Vida</title>
+    <desc lang="pt">Pat Solitano Jr. perdeu a sua casa e arruinou o seu casamento. Depois de tratamento médico mas ainda instável, conhece Tiffany, que causará mudanças na sua vida.(n)</desc>
+    <credits>
+      <director>David O. Russell</director>
+      <actor>Bradley Cooper</actor>
+      <actor>Jennifer Lawrence</actor>
+      <actor>Robert de Niro</actor>
+      <actor>Jacki Weaver</actor>
+      <actor>Chris Tucker</actor>
+      <actor>Cheryl Williams</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820031600 -0300" stop="20210820050900 -0300" channel="FOX HD ³">
+    <title lang="pt">Lições em Família</title>
+    <desc lang="pt">Aidan Bloom é um ator, pai e marido, que com 35 anos ainda sonha em encontrar sua identidade ou um propósito para sua vida.(n)</desc>
+    <credits>
+      <director>Zach Braff</director>
+      <actor>Zach Braff</actor>
+      <actor>Kate Hudson</actor>
+      <actor>Mandy Patinkin</actor>
+      <actor>Pierce Gagnon</actor>
+      <actor>Joey King</actor>
+      <actor>Alexander Chaplin</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820050900 -0300" stop="20210820064700 -0300" channel="FOX HD ³">
+    <title lang="pt">Como Treinar o Seu Dragão</title>
+    <desc lang="pt">Soluço é um viking que não se enquadra com a tradição de sua tribo de matadores de dragões. Ele encontra e se aproxima de Banguela, um dragão que desafia todos a verem o mundo sob outro ponto de vista.(n)</desc>
+    <credits>
+      <director>Dean DeBlois</director>
+      <director>Chris Sanders</director>
+      <actor>Vozes de Jay Baruchel</actor>
+      <actor>Gerard Butler</actor>
+      <actor>Craig Ferguson</actor>
+      <actor>America Ferrera</actor>
+      <actor>Jonah Hill</actor>
+    </credits>
+    <category lang="pt">Animação</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820064700 -0300" stop="20210820070000 -0300" channel="FOX HD ³">
+    <title lang="pt">Zoom In</title>
+    <desc lang="pt">Uma emocionante viagem pela produção dos melhores filmes. Fique por dentro de tudo o que aconteceu por trás dos bastidores, orçamento, equipe e elenco de cada obra.(n)</desc>
+    <credits>
+      <actor>Angela Valley</actor>
+      <actor>Michelle Blenker</actor>
+      <actor>Krisanna Spinato</actor>
+    </credits>
+    <category lang="pt">Cinema</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20210820070000 -0300" stop="20210820073000 -0300" channel="FOX HD ³">
+    <title lang="pt">How I Met Your Mother</title>
+    <desc lang="pt">Enquanto procuram por um embriagado Barney no dia do casamento, Robin e Ted relembram relacionamentos do passado.(n)</desc>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor>Josh Radnor</actor>
+      <actor>Jason Segel</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Neil Patrick Harris</actor>
+      <actor>Alyson Hannigan</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <episode-num system="onscreen">S9 E17</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820073000 -0300" stop="20210820080000 -0300" channel="FOX HD ³">
+    <title lang="pt">How I Met Your Mother</title>
+    <desc lang="pt">Quando Barney é acometido pela pior ressaca do mundo na manhã do seu casamento, o grupo tenta encontrar os ingredientes praticamente impossíveis para a criação do \.(n)</desc>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor>Josh Radnor</actor>
+      <actor>Jason Segel</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Neil Patrick Harris</actor>
+      <actor>Alyson Hannigan</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <episode-num system="onscreen">S9 E18</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820080000 -0300" stop="20210820100000 -0300" channel="FOX HD ³">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Diversos. Espaço publicitário para divulgação de produtos e serviços.(n)</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820100000 -0300" stop="20210820120000 -0300" channel="FOX HD ³">
+    <title lang="pt">O Terminal</title>
+    <desc lang="pt">Baseado em fato real. Ao ter seu passaporte invalidado, Viktor não pode entrar nos EUA e nem voltar ao seu país. Ele acaba passando 09 meses de sua vida no aeroporto.(n)</desc>
+    <credits>
+      <director>Steven Spielberg</director>
+      <actor>Tom Hanks</actor>
+      <actor>Catherine Zeta-Jones</actor>
+      <actor>Stanley Tucci</actor>
+      <actor>Kenneth Choi</actor>
+      <actor>Dan Finnerty</actor>
+      <actor>Chi McBride</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820120000 -0300" stop="20210820123000 -0300" channel="FOX HD ³">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Na série de histórias de Dia das Bruxas desse ano, Bart descobre que ele tem uma irmã nova, especial; Lisa descobre que ela é deusa de uma raça de anõezinhos.(n)</desc>
+    <credits>
+      <director>Steven Dean Moore</director>
+      <actor>Vozes de Julie Kavner</actor>
+      <actor>Hank Azaria</actor>
+      <actor>Dan Castellaneta</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Yeardley Smith</actor>
+      <actor>Harry Shearer</actor>
+    </credits>
+    <category lang="pt">Animação</category>
+    <episode-num system="onscreen">S8 E6</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820123000 -0300" stop="20210820130000 -0300" channel="FOX HD ³">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Quando Homer simula a própria morte, sua mãe, que todos pensavam já ter morrido, aparece em Springfield para prestar sua última homenagem ao filho.(n)</desc>
+    <credits>
+      <director>David Silverman</director>
+      <actor>Vozes de Dan Castellaneta</actor>
+      <actor>Julie Kavner</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Yeardley Smith</actor>
+      <actor>Hank Azaria</actor>
+      <actor>Harry Shearer</actor>
+    </credits>
+    <category lang="pt">Animação</category>
+    <episode-num system="onscreen">S7 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820130000 -0300" stop="20210820133000 -0300" channel="FOX HD ³">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Homer contrata um investigador particular desonesto para espionar Lisa percebendo que desconhece muita coisa a respeito da filha.(n)</desc>
+    <credits>
+      <director>Mark Kirkland</director>
+      <actor>Vozes de Dan Castellaneta</actor>
+      <actor>Julie Kavner</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Yeardley Smith</actor>
+      <actor>Hank Azaria</actor>
+      <actor>Elliott Gould</actor>
+    </credits>
+    <category lang="pt">Animação</category>
+    <episode-num system="onscreen">S14 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820133000 -0300" stop="20210820140000 -0300" channel="FOX HD ³">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Lisa tem uma crise de identidade quando Maggie se mostra mais inteligente do que ela.(n)</desc>
+    <credits>
+      <director>Steven Dean Moore</director>
+      <actor>Vozes de Nancy Cartwright</actor>
+      <actor>Dan Castellaneta</actor>
+      <actor>Julie Kavner</actor>
+      <actor>Yeardley Smith</actor>
+      <actor>Harry Shearer</actor>
+      <actor>Simon Cowell</actor>
+    </credits>
+    <category lang="pt">Animação</category>
+    <episode-num system="onscreen">S15 E13</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820140000 -0300" stop="20210820143000 -0300" channel="FOX HD ³">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Homer e Barney são recrutados para ser astronautas da NASA, de forma a que a organização seja mais atraente para o homem comum. Parece que Barney vai ser lançado ao espaço, mas quando ele cai do veículo, Homer vai em seu lugar.(n)</desc>
+    <credits>
+      <director>Carlos Baeza</director>
+      <actor>Vozes de Julie Kavner</actor>
+      <actor>Pamela Hayden</actor>
+      <actor>Dan Castellaneta</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Yeardley Smith</actor>
+      <actor>Maggie Roswell</actor>
+    </credits>
+    <category lang="pt">Animação</category>
+    <episode-num system="onscreen">S5 E15</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820143000 -0300" stop="20210820164500 -0300" channel="FOX HD ³">
+    <title lang="pt">Homem-Aranha</title>
+    <desc lang="pt">O tímido Peter Parker leva uma vida simples ao lado dos amigos Mary Jane e Harry. De repente, ele é picado por uma aranha que o transforma em um super-herói que está disposto a combater o mal.(n)</desc>
+    <credits>
+      <director>Sam Raimi</director>
+      <actor>Tobey Maguire</actor>
+      <actor>J.K. Simmons</actor>
+      <actor>James Franco</actor>
+      <actor>Kirsten Dunst</actor>
+      <actor>Rosemary Harris</actor>
+      <actor>Willem Dafoe</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820164500 -0300" stop="20210820192000 -0300" channel="FOX HD ³">
+    <title lang="pt">Transformers: O Último Cavaleiro</title>
+    <desc lang="pt">Os humanos estão em guerra com os Transformers, que precisam se esconder na medida do possível. Cade Yeager é um de seus protetores, liderando um núcleo de resistência situado em um ferro-velho.(n)</desc>
+    <credits>
+      <director>Michael Bay</director>
+      <actor>Mark Wahlberg</actor>
+      <actor>Anthony Hopkins</actor>
+      <actor>Josh Duhamel</actor>
+      <actor>Laura Haddock</actor>
+      <actor>Santiago Cabrera</actor>
+      <actor>Isabela Moner</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820192000 -0300" stop="20210820194500 -0300" channel="FOX HD ³">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Homer deixa de sair com Marge para que possa comprar um bilhete de loteria. Quando descobre que ganhou um milhão de dólares, ele teme a reação de Marge ao saber que a trocou pela chance de ganhar uma fortuna.(n)</desc>
+    <credits>
+      <director>Chris Clements</director>
+      <actor>Vozes de Dan Castellaneta</actor>
+      <actor>Julie Kavner</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Yeardley Smith</actor>
+      <actor>Hank Azaria</actor>
+      <actor>Harry Shearer</actor>
+    </credits>
+    <category lang="pt">Animação</category>
+    <episode-num system="onscreen">S21 E11</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820194500 -0300" stop="20210820201000 -0300" channel="FOX HD ³">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Lisa finalmente faz uma nova e melhor amiga, Isabel Gutierrez, até descobrir que ela é uma republicana... e sua oponente na concorrência para representante de classe.(n)</desc>
+    <credits>
+      <director>Mark Kirkland</director>
+      <actor>Vozes de Dan Castellaneta</actor>
+      <actor>Julie Kavner</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Yeardley Smith</actor>
+      <actor>Hank Azaria</actor>
+      <actor>Eva Longoria</actor>
+    </credits>
+    <category lang="pt">Animação</category>
+    <episode-num system="onscreen">S25 E6</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820201000 -0300" stop="20210820203500 -0300" channel="FOX HD ³">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Depois de Moe ter sido vaiado por não ter companhia, o melhor amigo de Moe, um pano, narra sua incrível jornada milenar para Springfield.(n)</desc>
+    <credits>
+      <director>Matt Groening</director>
+      <actor>Vozes de Dan Castellaneta</actor>
+      <actor>Julie Kavner</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Yeardley Smith</actor>
+    </credits>
+    <category lang="pt">Animação</category>
+    <episode-num system="onscreen">S23 E12</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820203500 -0300" stop="20210820210000 -0300" channel="FOX HD ³">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Em Michigan, o reverendo Lovejoy descobre o motivo pelo qual Bode foi para Springfield. Quando a congregação descobre o seu crime, eles decidem se devem banir o seu novo sacerdote.(n)</desc>
+    <credits>
+      <director>Mike B. Anderson</director>
+      <director>Steven Dean Moore</director>
+      <actor>Vozes de Dan Castellaneta</actor>
+      <actor>Julie Kavner</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Yeardley Smith</actor>
+      <actor>Tress MacNeille</actor>
+      <actor>Chris Edgerly</actor>
+    </credits>
+    <category lang="pt">Animação</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820210000 -0300" stop="20210820223500 -0300" channel="FOX HD ³">
+    <title lang="pt">Meu Malvado Favorito 3</title>
+    <desc lang="pt">Nos anos 1980, Balthazar Bratt interpretava um vilão de sucesso na TV. Caído no esquecimento, ele planejou uma vingança triunfal. Para combater esse poderoso inimigo, Gru e Lucy terão que entrar em ação.(n)</desc>
+    <credits>
+      <director>Kyle Balda</director>
+      <director>Pierre Coffin</director>
+      <actor>Steve Carell</actor>
+      <actor>Dana Gaier</actor>
+      <actor>Kristen Wiig</actor>
+      <actor>Miranda Cosgrove</actor>
+      <actor>Nev Scharrel</actor>
+      <actor>Trey Parker</actor>
+    </credits>
+    <category lang="pt">Animação</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210820223500 -0300" stop="20210821004500 -0300" channel="FOX HD ³">
+    <title lang="pt">Jurassic World: Reino Ameaçado</title>
+    <desc lang="pt">Três anos após o fechamento do Jurassic Park, um vulcão prestes a entrar em erupção põe em risco a vida na ilha Nublar.(n)</desc>
+    <credits>
+      <director>J.A. Bayona</director>
+      <actor>Chris Pratt</actor>
+      <actor>Bryce Dallas Howard</actor>
+      <actor>Rafe Spall</actor>
+      <actor>Justice Smith</actor>
+      <actor>Daniella Pineda</actor>
+      <actor>James Cromwell</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821004500 -0300" stop="20210821025500 -0300" channel="FOX HD ³">
+    <title lang="pt">Atirador</title>
+    <desc lang="pt">Bobby é um excelente atirador que é chamado para ajudar a impedir o assassinato do presidente, mas acaba se envolvendo em uma armação e terá que provar sua inocência.(n)</desc>
+    <credits>
+      <director>Antoine Fuqua</director>
+      <actor>Mark Wahlberg</actor>
+      <actor>Michael Peña</actor>
+      <actor>Danny Glover</actor>
+      <actor>Kyle Gallner</actor>
+      <actor>Kate Mara</actor>
+      <actor>Jonathan Walker</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821025500 -0300" stop="20210821051000 -0300" channel="FOX HD ³">
+    <title lang="pt">O Terminal</title>
+    <desc lang="pt">Baseado em fato real. Ao ter seu passaporte invalidado, Viktor não pode entrar nos EUA e nem voltar ao seu país. Ele acaba passando 09 meses de sua vida no aeroporto.(n)</desc>
+    <credits>
+      <director>Steven Spielberg</director>
+      <actor>Tom Hanks</actor>
+      <actor>Catherine Zeta-Jones</actor>
+      <actor>Stanley Tucci</actor>
+      <actor>Kenneth Choi</actor>
+      <actor>Dan Finnerty</actor>
+      <actor>Chi McBride</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821051000 -0300" stop="20210821070000 -0300" channel="FOX HD ³">
+    <title lang="pt">O Casamento do meu Melhor Amigo</title>
+    <desc lang="pt">Julianne entra em desespero quando descobre que um antigo amigo, apaixonado por ela, irá se casar com outra mulher. Desesperada, e apaixonada por ele, ela se mete em hilárias confusões para roubar o lugar da noiva.(n)</desc>
+    <credits>
+      <director>P. J. Hogan</director>
+      <actor>Julia Roberts</actor>
+      <actor>Dermot Mulroney</actor>
+      <actor>Cameron Diaz</actor>
+      <actor>Rupert Everett</actor>
+      <actor>Philip Bosco</actor>
+      <actor>M. Emmet Walsh</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821070000 -0300" stop="20210821073000 -0300" channel="FOX HD ³">
+    <title lang="pt">How I Met Your Mother</title>
+    <desc lang="pt">Quando Barney é acometido pela pior ressaca do mundo na manhã do seu casamento, o grupo tenta encontrar os ingredientes praticamente impossíveis para a criação do \.(n)</desc>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor>Josh Radnor</actor>
+      <actor>Jason Segel</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Neil Patrick Harris</actor>
+      <actor>Alyson Hannigan</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <episode-num system="onscreen">S9 E18</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821073000 -0300" stop="20210821080000 -0300" channel="FOX HD ³">
+    <title lang="pt">How I Met Your Mother</title>
+    <desc lang="pt">Na manhã do casamento, Lily e Robin brigam enquanto Barney surta na hora de escolher que terno usar. Mais tarde, a gangue assiste a um filme que Ted os proibiu de ver.(n)</desc>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor>Josh Radnor</actor>
+      <actor>Jason Segel</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Neil Patrick Harris</actor>
+      <actor>Alyson Hannigan</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <episode-num system="onscreen">S9 E19</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821080000 -0300" stop="20210821100000 -0300" channel="FOX HD ³">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Diversos. Espaço publicitário para divulgação de produtos e serviços.(n)</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210821100000 -0300" stop="20210821120000 -0300" channel="FOX HD ³">
+    <title lang="pt">Qual Seu Número?</title>
+    <desc lang="pt">Uma clássica comédia romântica divertida do começo ao fim. Uma mulher solteira sai em busca dos 20 homens com quem teve alguma relação ao longo da vida para vislumbrar qual deles é sua alma gêmea.(n)</desc>
+    <credits>
+      <director>Mark Mylod</director>
+      <actor>Anna Faris</actor>
+      <actor>Chris Evans</actor>
+      <actor>Ari Graynor</actor>
+      <actor>Blythe Danner</actor>
+      <actor>Ed Begley Jr</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821120000 -0300" stop="20210821123000 -0300" channel="FOX HD ³">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Homer e Marge ficam arrebatados por um guru carismático chamado Brad Goodman. Enquanto assiste um seminário de Brad Goodman com seus pais, Bart é solicitado a aparecer no palco com o próprio e, como sempre, se comporta mal.(n)</desc>
+    <credits>
+      <director>Bob Anderson</director>
+      <actor>Vozes de Julie Kavner</actor>
+      <actor>Pamela Reed</actor>
+      <actor>Dan Castellaneta</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Phil Hartman</actor>
+      <actor>Albert Brooks</actor>
+    </credits>
+    <category lang="pt">Animação</category>
+    <episode-num system="onscreen">S5 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821123000 -0300" stop="20210821130000 -0300" channel="FOX HD ³">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Homer começa a desafiar todo mundo à sua volta para duelar, depois que vê um filme do Zorro no Googoplex. A maioria das pessoas se recusa, até que Homer encontra um coronel antiquado que aceita seu desafio.(n)</desc>
+    <credits>
+      <director>Bob Anderson</director>
+      <actor>Vozes de Julie Kavner</actor>
+      <actor>Hank Azaria</actor>
+      <actor>Dan Castellaneta</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Yeardley Smith</actor>
+      <actor>Harry Shearer</actor>
+    </credits>
+    <category lang="pt">Animação</category>
+    <episode-num system="onscreen">S11 E5</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210821130000 -0300" stop="20210821133000 -0300" channel="FOX HD ³">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">O diretor Skinner leva os alunos da Escola Elementar de Springfield a uma nova era de espionagem e denúncia com a criação da Unidade Contra Vadiagem, com.(n)</desc>
+    <credits>
+      <director>Raymond S. Persi</director>
+      <actor>Vozes de Julie Kavner</actor>
+      <actor>Hank Azaria</actor>
+      <actor>Dan Castellaneta</actor>
+      <actor>Mary Lynn Rajskub</actor>
+      <actor>Kiefer Sutherland</actor>
+      <actor>Karl Wiedergott</actor>
+    </credits>
+    <category lang="pt">Animação</category>
+    <episode-num system="onscreen">S18 E21</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821133000 -0300" stop="20210821140000 -0300" channel="FOX HD ³">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Homer e Marge são acusados de assassinar uma senhora e são sentenciados à cadeira elétrica, sem que o Chef Gorgory dê importância aos fatos e às alegações de Marge. Enquanto isso, Bart, Lisa e Maggie são adotados por Cletus.(n)</desc>
+    <credits>
+      <director>Lauren MacMullan</director>
+      <actor>Vozes de Dan Castellaneta</actor>
+      <actor>Julie Kavner</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Yeardley Smith</actor>
+      <actor>Robert Pinsky</actor>
+    </credits>
+    <category lang="pt">Animação</category>
+    <episode-num system="onscreen">S13 E21</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821140000 -0300" stop="20210821143000 -0300" channel="FOX HD ³">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Depois de escapar de um cão que o persegue sem motivo, Bart conhece Buck McCoy, estrela de antigos filmes de velho oeste.(n)</desc>
+    <credits>
+      <director>Bob Anderson</director>
+      <actor>Vozes de Dan Castellaneta</actor>
+      <actor>Julie Kavner</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Yeardley Smith</actor>
+      <actor>Hank Azaria</actor>
+      <actor>Harry Shearer</actor>
+    </credits>
+    <category lang="pt">Animação</category>
+    <episode-num system="onscreen">S13 E12</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821143000 -0300" stop="20210821164500 -0300" channel="FOX HD ³">
+    <title lang="pt">Atirador</title>
+    <desc lang="pt">Bobby é um excelente atirador que é chamado para ajudar a impedir o assassinato do presidente, mas acaba se envolvendo em uma armação e terá que provar sua inocência.(n)</desc>
+    <credits>
+      <director>Antoine Fuqua</director>
+      <actor>Mark Wahlberg</actor>
+      <actor>Michael Peña</actor>
+      <actor>Danny Glover</actor>
+      <actor>Kyle Gallner</actor>
+      <actor>Kate Mara</actor>
+      <actor>Jonathan Walker</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821164500 -0300" stop="20210821183500 -0300" channel="FOX HD ³">
+    <title lang="pt">O Preço do Amanhã</title>
+    <desc lang="pt">Em um futuro próximo, tempo literalmente significa dinheiro para sobreviver. Nesse contexto, Will Salas é acusado e perseguido pelos guardiões do tempo por receber uma enorme e misteriosa doação.(n)</desc>
+    <credits>
+      <director>Andrew Niccol</director>
+      <actor>Cillian Murphy</actor>
+      <actor>Justin Timberlake</actor>
+      <actor>Amanda Seyfried</actor>
+      <actor>Shyloh Oostwald</actor>
+      <actor>Johnny Galecki</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821183500 -0300" stop="20210821210000 -0300" channel="FOX HD ³">
+    <title lang="pt">Independence Day</title>
+    <desc lang="pt">Seres alienígenas lançam ataque arrasador contra a Terra. Apenas poucos sobreviventes são obrigados a descobrir maneira para derrotar a força invasora.(n)</desc>
+    <credits>
+      <director>Roland Emmerich</director>
+      <actor>Will Smith</actor>
+      <actor>Jeff Goldblum</actor>
+      <actor>Bill Pullman</actor>
+      <actor>Robert Loggia</actor>
+      <actor>Margaret Colin</actor>
+      <actor>Mary McDonnell</actor>
+    </credits>
+    <category lang="pt">Ficção</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821210000 -0300" stop="20210821230000 -0300" channel="FOX HD ³">
+    <title lang="pt">Deadpool</title>
+    <desc lang="pt">Wade Wilson é diagnosticado com câncer terminal, porém encontra uma possibilidade de cura em uma experiência científica. Recuperado e com poderes, ele torna-se Deadpool e busca vingança contra o homem que destruiu sua vida.(n)</desc>
+    <credits>
+      <director>Tim Miller</director>
+      <actor>Ryan Reynolds</actor>
+      <actor>Morena Baccarin</actor>
+      <actor>T.J. Miller</actor>
+      <actor>Karan Soni</actor>
+      <actor>Ed Skrein</actor>
+      <actor>Michael Benyaer</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821230000 -0300" stop="20210822010000 -0300" channel="FOX HD ³">
+    <title lang="pt">O Amor é Cego</title>
+    <desc lang="pt">Hal Larson, hipnotizado por um guru, encontra o amor de sua vida, uma linda mulher, sem enxergar a verdade: ela é uma obesa de 150 quilos.(n)</desc>
+    <credits>
+      <director>Peter Farrelly</director>
+      <director>Bobby Farrelly</director>
+      <actor>Jack Black</actor>
+      <actor>Gwyneth Paltrow</actor>
+      <actor>Jason Alexander</actor>
+      <actor>Sascha Knopf</actor>
+      <actor>Libby Langdon</actor>
+      <actor>Sasha Neulinger</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820001200 -0300" stop="20210820003400 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Atlanta</title>
+    <desc lang="pt">Aí, tudo bem! Temos celebridades cheias da grana no edifício para as crianças. Eu adoraria ter um Justin Bieber. Cara, os jurássicos vão odiar, kkkk.(n)</desc>
+    <credits>
+      <director>Hiro Murai</director>
+      <actor>Donald Glover</actor>
+      <actor>Lil' Zane</actor>
+      <actor>Keith Stanfield</actor>
+      <actor>Jade Fernandez</actor>
+      <actor>Jessica A. Caesar</actor>
+      <actor>Brian Tyree Henry</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820003400 -0300" stop="20210820010100 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Atlanta</title>
+    <desc lang="pt">Eu amo a minha melhor amiga de verdade, mas eu também não a suporto. Van fica com inveja porque sua garota fashion abre alas. Ok, garota, vá pegar o que é seu!(n)</desc>
+    <credits>
+      <director>Donald Glover</director>
+      <actor>Donald Glover</actor>
+      <actor>Zazie Beetz</actor>
+      <actor>Danny Chung</actor>
+      <actor>Keith Stanfield</actor>
+      <actor>Armie Hicks Jr</actor>
+      <actor>Montrel Miller</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820010100 -0300" stop="20210820012200 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Bless This Mess</title>
+    <desc lang="pt">Kay pede a ajuda de Mike e Rio para acompanhar o evento pós-baile de Jacob no centro comunitário.(n)</desc>
+    <credits>
+      <director>Erin O'Malley</director>
+      <actor>David Koechner</actor>
+      <actor>Dax Shepard</actor>
+      <actor>Ed Begley Jr</actor>
+      <actor>JT Neal</actor>
+      <actor>Lake Bell</actor>
+      <actor>Lennon Parham</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820012200 -0300" stop="20210820014600 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Bless This Mess</title>
+    <desc lang="pt">A família de Mike vai a Bucksnort para surpreendê-lo no aniversário dele. Um segredo familiar envolvendo Rudy é revelado, e Mike precisa lidar com isso.(n)</desc>
+    <credits>
+      <director>Bill Purple</director>
+      <actor>David Koechner</actor>
+      <actor>Dax Shepard</actor>
+      <actor>Ed Begley Jr</actor>
+      <actor>JT Neal</actor>
+      <actor>Lake Bell</actor>
+      <actor>Lennon Parham</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820014600 -0300" stop="20210820023000 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Riviera</title>
+    <desc lang="pt">Georgina usa o memorial de Raoul para canalizar a sua tristeza pela morte de Constantine. Enquanto isso, Nico fica de olho no império Clios e solta uma bomba que ameaça a família.(n)</desc>
+    <credits>
+      <director>Destiny Ekaragha</director>
+      <actor>Adrian Lester</actor>
+      <actor>Dimitri Leonidas</actor>
+      <actor>Julia Stiles</actor>
+      <actor>Lena Olin</actor>
+      <actor>Will Arnett</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820023000 -0300" stop="20210820031200 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Run Coyote Run</title>
+    <desc lang="pt">Na primeiríssima vez dessa cidade fronteiriça e pitoresca, Naco apresenta o concurso de rainha da beleza Miss Naco. Todas as belezas locais são bem-vindas, inclusive nossos dançarinos de mesa russos.(n)</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Harold Torres</actor>
+      <actor>Eivaut Rischen</actor>
+      <actor>Macarena Miguel</actor>
+      <actor>Maya Zapata</actor>
+      <actor>Héctor Jiménez</actor>
+      <actor>Fernando Gaviria</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820031200 -0300" stop="20210820035700 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Run Coyote Run</title>
+    <desc lang="pt">O último desejo de Don Ezequiel é ser enterrado ao lado de seus pais no Arizona. Lethicia pretende realizar o desejo de seu pai a qualquer custo.(n)</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Harold Torres</actor>
+      <actor>Eivaut Rischen</actor>
+      <actor>Macarena Miguel</actor>
+      <actor>Maya Zapata</actor>
+      <actor>Héctor Jiménez</actor>
+      <actor>Fernando Gaviria</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820035700 -0300" stop="20210820044300 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Run Coyote Run</title>
+    <desc lang="pt">Um mestre de Yoga paquistanês chega na cidade. Enquanto o tempo passa, descobrimos que nosso mestre zen tenta cruzar a fronteira aos EUA e aniquilar a Casa Branca.(n)</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Harold Torres</actor>
+      <actor>Eivaut Rischen</actor>
+      <actor>Macarena Miguel</actor>
+      <actor>Maya Zapata</actor>
+      <actor>Héctor Jiménez</actor>
+      <actor>Fernando Gaviria</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820044300 -0300" stop="20210820053600 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Aqui na Terra</title>
+    <desc lang="pt">Pía retorna ao México e choca os planos de Rocha. Adán se esconde dos contrabandistas na casa de Carlos.(n)</desc>
+    <credits>
+      <director>Mariana Chenillo</director>
+      <actor>Alfonso Dosal</actor>
+      <actor>Ariadna Gil</actor>
+      <actor>Daniel Giménez Cacho</actor>
+      <actor>Gael García Bernal</actor>
+      <actor>Paulina Dávila</actor>
+      <actor>Tenoch Huerta</actor>
+    </credits>
+    <category lang="pt">Suspense</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820053600 -0300" stop="20210820063600 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Atlanta</title>
+    <desc lang="pt">Aí, tudo bem! Temos celebridades cheias da grana no edifício para as crianças. Eu adoraria ter um Justin Bieber. Cara, os jurássicos vão odiar, kkkk.(n)</desc>
+    <credits>
+      <director>Hiro Murai</director>
+      <actor>Donald Glover</actor>
+      <actor>Lil' Zane</actor>
+      <actor>Keith Stanfield</actor>
+      <actor>Jade Fernandez</actor>
+      <actor>Jessica A. Caesar</actor>
+      <actor>Brian Tyree Henry</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820063600 -0300" stop="20210820070000 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Atlanta</title>
+    <desc lang="pt">Vocês, jovens, não sabem de nada. Essa me faz me lembrar do ensino médio. Um salve para Miller Grove!(n)</desc>
+    <credits>
+      <director>Donald Glover</director>
+      <director>Hiro Murai</director>
+      <actor>Donald Glover</actor>
+      <actor>Stella Doyle</actor>
+      <actor>Zazie Beetz</actor>
+      <actor>Griffin Freeman</actor>
+      <actor>Brian Tyree Henry</actor>
+      <actor>Tobias Jelinek</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820070000 -0300" stop="20210820074700 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Aqui na Terra</title>
+    <desc lang="pt">Rocha triunfa nos comícios e vira candidato à presidência enquanto Adán enfrenta uma morte inesperada. Já Carlos obtém o teste que confirma todas as suas suspeitas sobre a morte de seu pai.(n)</desc>
+    <credits>
+      <director>Mariana Chenillo</director>
+      <actor>Alfonso Dosal</actor>
+      <actor>Ariadna Gil</actor>
+      <actor>Daniel Giménez Cacho</actor>
+      <actor>Gael García Bernal</actor>
+      <actor>Paulina Dávila</actor>
+      <actor>Tenoch Huerta</actor>
+    </credits>
+    <category lang="pt">Suspense</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820074700 -0300" stop="20210820084700 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Impuros</title>
+    <desc lang="pt">Evandro negocia com os Urquiza pois perdeu um carregamento de drogas. Para piorar, os irmãos descobrem sobre o laboratório de Evandro.(n)</desc>
+    <credits>
+      <director>Tomas Portella</director>
+      <director>René Sampaio</director>
+      <actor>Cyria Coentro</actor>
+      <actor>Fernanda Machado</actor>
+      <actor>Leandro Firmino</actor>
+      <actor>Lorena Comparato</actor>
+      <actor>Raphael Logam</actor>
+      <actor>Rui Ricardo Diaz</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820084700 -0300" stop="20210820094200 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Impuros</title>
+    <desc lang="pt">Evandro e Gilmar têm que se livrar dos corpos depois de um jantar que termina em várias mortes, mas Arlete chega na casa de surpresa.(n)</desc>
+    <credits>
+      <director>Tomas Portella</director>
+      <director>René Sampaio</director>
+      <actor>Cyria Coentro</actor>
+      <actor>Fernanda Machado</actor>
+      <actor>Leandro Firmino</actor>
+      <actor>Lorena Comparato</actor>
+      <actor>Raphael Logam</actor>
+      <actor>Rui Ricardo Diaz</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820094200 -0300" stop="20210820103400 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Impuros</title>
+    <desc lang="pt">1989: Evandro vive no Morro do Dendê com sua mãe Arlete. Ela acredita que terá sua família de volta quando o outro filho, Zeca, saír da FEBEM.(n)</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Cyria Coentro</actor>
+      <actor>Fernanda Machado</actor>
+      <actor>João Vitor Silva</actor>
+      <actor>Raphael Logam</actor>
+      <actor>Rocco Pitanga</actor>
+      <actor>Rui Ricardo</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820103400 -0300" stop="20210820113000 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Impuros</title>
+    <desc lang="pt">Depois do plano de vingança pela morte do irmão, Evandro é recrutado para o tráfico. Ele e seu melhor amigo Afonso logo ganham espaço. Afonso é ganancioso e desvia dinheiro do tráfico para lucrar em investimento bancário.(n)</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Cyria Coentro</actor>
+      <actor>Fernanda Machado</actor>
+      <actor>João Vitor Silva</actor>
+      <actor>Raphael Logam</actor>
+      <actor>Rocco Pitanga</actor>
+      <actor>Rui Ricardo</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820113000 -0300" stop="20210820115600 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Atlanta</title>
+    <desc lang="pt">A noite no clube Primal não sai como planejada ou esperada. O clube está fervendo, mas Paper Boi não está recebendo o amor e respeito que ele sente que merece.(n)</desc>
+    <credits>
+      <director>Donald Glover</director>
+      <director>Hiro Murai</director>
+      <actor>Donald Glover</actor>
+      <actor>Colin Lacativa</actor>
+      <actor>Mason Pike</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820115600 -0300" stop="20210820122000 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Atlanta</title>
+    <desc lang="pt">Van leva Earn para uma festa de independência negra no lar de uns conhecidos ricos, mas ele está menos que entusiasmado no tema de emancipação ou na natureza snob do casal bi racial e seus convidados.(n)</desc>
+    <credits>
+      <director>Donald Glover</director>
+      <actor>Alano Miller</actor>
+      <actor>Chris Greene</actor>
+      <actor>Tim McAdams</actor>
+      <actor>Niles Stewart</actor>
+      <actor>Brian Tyree Henry</actor>
+      <actor>Erskine C. Johnson III</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>5</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820122000 -0300" stop="20210820130000 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Run Coyote Run</title>
+    <desc lang="pt">Um imigrante centro americano chega a Naco depois de dois exaustos meses de viagem.(n)</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Harold Torres</actor>
+      <actor>Eivaut Rischen</actor>
+      <actor>Macarena Miguel</actor>
+      <actor>Maya Zapata</actor>
+      <actor>Héctor Jiménez</actor>
+      <actor>Fernando Gaviria</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210820130000 -0300" stop="20210820134500 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Run Coyote Run</title>
+    <desc lang="pt">A máfia chinesa que lida com órgãos chega a Naco e tenta se estabelecer com um restaurante.(n)</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Harold Torres</actor>
+      <actor>Eivaut Rischen</actor>
+      <actor>Macarena Miguel</actor>
+      <actor>Maya Zapata</actor>
+      <actor>Héctor Jiménez</actor>
+      <actor>Fernando Gaviria</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820134500 -0300" stop="20210820143000 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Run Coyote Run</title>
+    <desc lang="pt">El Güevín é sequestrado por Natividad, que em troca exige que retornem Jenny em 24 horas, senão o rapaz morre. Gama e Morris vão a Las Vegas em busca de Jenny e a encontram festejando com o cantor Cristian Castro.(n)</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Harold Torres</actor>
+      <actor>Eivaut Rischen</actor>
+      <actor>Macarena Miguel</actor>
+      <actor>Maya Zapata</actor>
+      <actor>Héctor Jiménez</actor>
+      <actor>Fernando Gaviria</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820143000 -0300" stop="20210820151000 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Riviera</title>
+    <desc lang="pt">Georgina tem que revelar a verdade sobre Constantino para tentar proteger o império de Nico. O caos leva Georgina a recorrer a medidas desesperadas.(n)</desc>
+    <credits>
+      <director>Destiny Ekaragha</director>
+      <actor>Adrian Lester</actor>
+      <actor>Dimitri Leonidas</actor>
+      <actor>Julia Stiles</actor>
+      <actor>Lena Olin</actor>
+      <actor>Will Arnett</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820151000 -0300" stop="20210820155800 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Homeland</title>
+    <desc lang="pt">Carrie se reconecta com um velho aliado. Tasneem procura aconselhamento. Saul encontra esperança.(n)</desc>
+    <credits>
+      <director>Lesli Linka Glatter</director>
+      <actor>Amy Hargreaves</actor>
+      <actor>Claire Danes</actor>
+      <actor>F. Murray Abraham</actor>
+      <actor>Mandy Patinkin</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820155800 -0300" stop="20210820162000 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Bless This Mess</title>
+    <desc lang="pt">Dolores, uma rica restauradora, chega ao Bucksnort com planos de abrir um novo restaurante fora da cidade, e Mike aproveita a chance de firmar o seu negócio como fornecedor de ovos.(n)</desc>
+    <credits>
+      <director>Lennon Parham</director>
+      <actor>David Koechner</actor>
+      <actor>Dax Shepard</actor>
+      <actor>Ed Begley Jr</actor>
+      <actor>JT Neal</actor>
+      <actor>Lake Bell</actor>
+      <actor>Lennon Parham</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820162000 -0300" stop="20210820164100 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Bless This Mess</title>
+    <desc lang="pt">Um tornado atinge Bucksnort. Mike e Beau ainda discordam sobre os seus negócios de ovos e quem ganhará o contrato do restaurante de Dolores.(n)</desc>
+    <credits>
+      <director>Molly McGlynn</director>
+      <actor>David Koechner</actor>
+      <actor>Dax Shepard</actor>
+      <actor>Ed Begley Jr</actor>
+      <actor>JT Neal</actor>
+      <actor>Lake Bell</actor>
+      <actor>Lennon Parham</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820164100 -0300" stop="20210820172700 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Empire</title>
+    <desc lang="pt">Em meio ao lançamento do Bossy Fest e da luta para recuperar o controle da Empire, Cookie reflete sobre a sua vida e a mulher que se tornou.(n)</desc>
+    <credits>
+      <director>Sanaa Hamri</director>
+      <actor>Bryshere Y. Gray</actor>
+      <actor>Chet Hanks</actor>
+      <actor>Gabourey Sidibe</actor>
+      <actor>Jussie Smollett</actor>
+      <actor>Taraji P. Henson</actor>
+      <actor>Terrence Howard</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820172700 -0300" stop="20210820181100 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Empire</title>
+    <desc lang="pt">Lucious está foragido e é perseguido pelos federais. Cookie se mantém ocupada concentrando-se em sua marca que agora inclui um talk show diurno e um centro comunitário.(n)</desc>
+    <credits>
+      <director>Craig Brewer</director>
+      <actor>Bryshere Y. Gray</actor>
+      <actor>Chet Hanks</actor>
+      <actor>Gabourey Sidibe</actor>
+      <actor>Jussie Smollett</actor>
+      <actor>Taraji P. Henson</actor>
+      <actor>Terrence Howard</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820181100 -0300" stop="20210820185500 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Empire</title>
+    <desc lang="pt">Lucious segue foragido. Cookie confronta Damon sobre as mentiras que ele disse. Andre lida com o seu próprio trauma pessoal e com uma complicação familiar.(n)</desc>
+    <credits>
+      <director>Craig Brewer</director>
+      <actor>Bryshere Y. Gray</actor>
+      <actor>Chet Hanks</actor>
+      <actor>Gabourey Sidibe</actor>
+      <actor>Jussie Smollett</actor>
+      <actor>Taraji P. Henson</actor>
+      <actor>Terrence Howard</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820185500 -0300" stop="20210820193600 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">This Is Us</title>
+    <desc lang="pt">Kevin embarca em uma viagem estressante. Jack e o jovem Kevin vão para um campo de treinamento de futebol.(n)</desc>
+    <credits>
+      <director>Kevin Rodney Sullivan</director>
+      <actor>Chrissy Metz</actor>
+      <actor>Justin Hartley</actor>
+      <actor>Mandy Moore</actor>
+      <actor>Milo Ventimiglia</actor>
+      <actor>Sterling K. Brown</actor>
+      <actor>Eris Baker</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820193600 -0300" stop="20210820201900 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">This Is Us</title>
+    <desc lang="pt">Os Pearson percorrem grandes marcos familiares, à distância.(n)</desc>
+    <credits>
+      <director>Ken Olin</director>
+      <actor>Chrissy Metz</actor>
+      <actor>Justin Hartley</actor>
+      <actor>Mandy Moore</actor>
+      <actor>Milo Ventimiglia</actor>
+      <actor>Sterling K. Brown</actor>
+      <actor>Eris Baker</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820201900 -0300" stop="20210820211000 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Homeland</title>
+    <desc lang="pt">Saul intercepta conversas importantes, já Carrie precisa de mais um favor.(n)</desc>
+    <credits>
+      <director>Lesli Linka Glatter</director>
+      <actor>Amy Hargreaves</actor>
+      <actor>Claire Danes</actor>
+      <actor>F. Murray Abraham</actor>
+      <actor>Mandy Patinkin</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820211000 -0300" stop="20210820221700 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Homeland</title>
+    <desc lang="pt">Último episódio da série.(n)</desc>
+    <credits>
+      <director>Lesli Linka Glatter</director>
+      <actor>Amy Hargreaves</actor>
+      <actor>Claire Danes</actor>
+      <actor>F. Murray Abraham</actor>
+      <actor>Mandy Patinkin</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820221700 -0300" stop="20210820231500 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Homeland</title>
+    <desc lang="pt">Carrie se recupera na Alemanha. Saul negocia. Max tem uma nova missão.(n)</desc>
+    <credits>
+      <director>Lesli Linka Glatter</director>
+      <actor>Amy Hargreaves</actor>
+      <actor>Claire Danes</actor>
+      <actor>F. Murray Abraham</actor>
+      <actor>Mandy Patinkin</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210820231500 -0300" stop="20210821000400 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Homeland</title>
+    <desc lang="pt">Carrie se reconecta com um velho aliado. Tasneem procura aconselhamento. Saul encontra esperança.(n)</desc>
+    <credits>
+      <director>Lesli Linka Glatter</director>
+      <actor>Amy Hargreaves</actor>
+      <actor>Claire Danes</actor>
+      <actor>F. Murray Abraham</actor>
+      <actor>Mandy Patinkin</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821000400 -0300" stop="20210821005400 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Homeland</title>
+    <desc lang="pt">Carrie organiza uma reunião. Haqqani encontra problemas em casa. Saul faz um acordo.(n)</desc>
+    <credits>
+      <director>Lesli Linka Glatter</director>
+      <actor>Amy Hargreaves</actor>
+      <actor>Claire Danes</actor>
+      <actor>F. Murray Abraham</actor>
+      <actor>Mandy Patinkin</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821005400 -0300" stop="20210821011600 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Atlanta</title>
+    <desc lang="pt">Aí, tudo bem! Temos celebridades cheias da grana no edifício para as crianças. Eu adoraria ter um Justin Bieber. Cara, os jurássicos vão odiar, kkkk.(n)</desc>
+    <credits>
+      <director>Hiro Murai</director>
+      <actor>Donald Glover</actor>
+      <actor>Lil' Zane</actor>
+      <actor>Keith Stanfield</actor>
+      <actor>Jade Fernandez</actor>
+      <actor>Jessica A. Caesar</actor>
+      <actor>Brian Tyree Henry</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821011600 -0300" stop="20210821014100 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Atlanta</title>
+    <desc lang="pt">Eu amo a minha melhor amiga de verdade, mas eu também não a suporto. Van fica com inveja porque sua garota fashion abre alas. Ok, garota, vá pegar o que é seu!(n)</desc>
+    <credits>
+      <director>Donald Glover</director>
+      <actor>Donald Glover</actor>
+      <actor>Zazie Beetz</actor>
+      <actor>Danny Chung</actor>
+      <actor>Keith Stanfield</actor>
+      <actor>Armie Hicks Jr</actor>
+      <actor>Montrel Miller</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821014100 -0300" stop="20210821020200 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Bless This Mess</title>
+    <desc lang="pt">Dolores, uma rica restauradora, chega ao Bucksnort com planos de abrir um novo restaurante fora da cidade, e Mike aproveita a chance de firmar o seu negócio como fornecedor de ovos.(n)</desc>
+    <credits>
+      <director>Lennon Parham</director>
+      <actor>David Koechner</actor>
+      <actor>Dax Shepard</actor>
+      <actor>Ed Begley Jr</actor>
+      <actor>JT Neal</actor>
+      <actor>Lake Bell</actor>
+      <actor>Lennon Parham</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821020200 -0300" stop="20210821022400 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Bless This Mess</title>
+    <desc lang="pt">Um tornado atinge Bucksnort. Mike e Beau ainda discordam sobre os seus negócios de ovos e quem ganhará o contrato do restaurante de Dolores.(n)</desc>
+    <credits>
+      <director>Molly McGlynn</director>
+      <actor>David Koechner</actor>
+      <actor>Dax Shepard</actor>
+      <actor>Ed Begley Jr</actor>
+      <actor>JT Neal</actor>
+      <actor>Lake Bell</actor>
+      <actor>Lennon Parham</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821022400 -0300" stop="20210821030400 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Riviera</title>
+    <desc lang="pt">Georgina tem que revelar a verdade sobre Constantino para tentar proteger o império de Nico. O caos leva Georgina a recorrer a medidas desesperadas.(n)</desc>
+    <credits>
+      <director>Destiny Ekaragha</director>
+      <actor>Adrian Lester</actor>
+      <actor>Dimitri Leonidas</actor>
+      <actor>Julia Stiles</actor>
+      <actor>Lena Olin</actor>
+      <actor>Will Arnett</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821030400 -0300" stop="20210821034400 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Run Coyote Run</title>
+    <desc lang="pt">Um imigrante centro americano chega a Naco depois de dois exaustos meses de viagem.(n)</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Harold Torres</actor>
+      <actor>Eivaut Rischen</actor>
+      <actor>Macarena Miguel</actor>
+      <actor>Maya Zapata</actor>
+      <actor>Héctor Jiménez</actor>
+      <actor>Fernando Gaviria</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821034400 -0300" stop="20210821042900 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Run Coyote Run</title>
+    <desc lang="pt">A máfia chinesa que lida com órgãos chega a Naco e tenta se estabelecer com um restaurante.(n)</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Harold Torres</actor>
+      <actor>Eivaut Rischen</actor>
+      <actor>Macarena Miguel</actor>
+      <actor>Maya Zapata</actor>
+      <actor>Héctor Jiménez</actor>
+      <actor>Fernando Gaviria</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821042900 -0300" stop="20210821051400 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Run Coyote Run</title>
+    <desc lang="pt">El Güevín é sequestrado por Natividad, que em troca exige que retornem Jenny em 24 horas, senão o rapaz morre. Gama e Morris vão a Las Vegas em busca de Jenny e a encontram festejando com o cantor Cristian Castro.(n)</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Harold Torres</actor>
+      <actor>Eivaut Rischen</actor>
+      <actor>Macarena Miguel</actor>
+      <actor>Maya Zapata</actor>
+      <actor>Héctor Jiménez</actor>
+      <actor>Fernando Gaviria</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821051400 -0300" stop="20210821062500 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Aqui na Terra</title>
+    <desc lang="pt">Rocha triunfa nos comícios e vira candidato à presidência enquanto Adán enfrenta uma morte inesperada. Já Carlos obtém o teste que confirma todas as suas suspeitas sobre a morte de seu pai.(n)</desc>
+    <credits>
+      <director>Mariana Chenillo</director>
+      <actor>Alfonso Dosal</actor>
+      <actor>Ariadna Gil</actor>
+      <actor>Daniel Giménez Cacho</actor>
+      <actor>Gael García Bernal</actor>
+      <actor>Paulina Dávila</actor>
+      <actor>Tenoch Huerta</actor>
+    </credits>
+    <category lang="pt">Suspense</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821062500 -0300" stop="20210821065000 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Atlanta</title>
+    <desc lang="pt">Dois primos tentam subir na cena de rap na cidade de Atlanta.(n)</desc>
+    <credits>
+      <director>Hiro Murai</director>
+      <actor>Donald Glover</actor>
+      <actor>Brian Tyree Henry</actor>
+      <actor>Emmett Hunter</actor>
+      <actor>Keith Stanfield</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821065000 -0300" stop="20210821074500 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Harlots</title>
+    <desc lang="pt">Lucy pagará o preço quando o passado de Elizabeth vem à tona? Emily poderá negociar a paz antes que a briga entre Wells e Pincher fique fora de controle?(n)</desc>
+    <credits>
+      <director>Debs Paterson</director>
+      <actor>Alfie Allen</actor>
+      <actor>Eloise Smyth</actor>
+      <actor>Jessica Brown Findlay</actor>
+      <actor>Lesley Manville</actor>
+      <actor>Liv Tyler</actor>
+      <actor>Samantha Morton</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821074500 -0300" stop="20210821083700 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Harlots</title>
+    <desc lang="pt">Quando Blayne exerce o seu poder, Lydia deve fazer uma escolha terrível. Com a briga de Wells-Pincher no auge e Nancy na mira de Hal, o quão longe irá a vingança?(n)</desc>
+    <credits>
+      <director>Debs Paterson</director>
+      <actor>Alfie Allen</actor>
+      <actor>Eloise Smyth</actor>
+      <actor>Jessica Brown Findlay</actor>
+      <actor>Lesley Manville</actor>
+      <actor>Liv Tyler</actor>
+      <actor>Samantha Morton</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821083700 -0300" stop="20210821092800 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Harlots</title>
+    <desc lang="pt">Após um ataque de novos cafetões da cidade, Charlotte Wells revida, o que acaba em consequências desastrosas. Será que Charlotte pode proteger as suas garotas dos homens que querem derrubá-la?(n)</desc>
+    <credits>
+      <director>Robin Sheppard</director>
+      <actor>Alfie Allen</actor>
+      <actor>Eloise Smyth</actor>
+      <actor>Jessica Brown Findlay</actor>
+      <actor>Lesley Manville</actor>
+      <actor>Liv Tyler</actor>
+      <actor>Samantha Morton</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821092800 -0300" stop="20210821102700 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Aqui na Terra</title>
+    <desc lang="pt">Voltamos ao passado para descobrir alguns dos mistérios que cercam o personagem de Pía e Pájaro, e como Rocha, Landa e Hurtado estão envolvidos em uma rede sombria de interesses políticos nas entranhas do poder.(n)</desc>
+    <credits>
+      <director>Everardo Gout</director>
+      <actor>Alfonso Dosal</actor>
+      <actor>Ariadna Gil</actor>
+      <actor>Daniel Giménez Cacho</actor>
+      <actor>Gael García Bernal</actor>
+      <actor>Paulina Dávila</actor>
+      <actor>Tenoch Huerta</actor>
+    </credits>
+    <category lang="pt">Suspense</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821102700 -0300" stop="20210821111500 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Aqui na Terra</title>
+    <desc lang="pt">Carlos e Elisa viajam para a Patagônia em busca de Pía Landa, que confirma a Carlos suas suspeitas mais densas. Enquanto isso, Rufino intercede com Rocha para tirar Adán da prisão.(n)</desc>
+    <credits>
+      <director>Gabriel Ripstein</director>
+      <actor>Alfonso Dosal</actor>
+      <actor>Ariadna Gil</actor>
+      <actor>Daniel Giménez Cacho</actor>
+      <actor>Gael García Bernal</actor>
+      <actor>Paulina Dávila</actor>
+      <actor>Tenoch Huerta</actor>
+    </credits>
+    <category lang="pt">Suspense</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821111500 -0300" stop="20210821120700 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Aqui na Terra</title>
+    <desc lang="pt">Adán planeja uma jogada arriscada para chamar a atenção de Rocha. Enquanto isso, Carlos consegue acessar o arquivo sobre a morte de seu pai e faz uma nova descoberta que o aproxima da verdade.(n)</desc>
+    <credits>
+      <director>Gabriel Ripstein</director>
+      <actor>Alfonso Dosal</actor>
+      <actor>Ariadna Gil</actor>
+      <actor>Daniel Giménez Cacho</actor>
+      <actor>Gael García Bernal</actor>
+      <actor>Paulina Dávila</actor>
+      <actor>Tenoch Huerta</actor>
+    </credits>
+    <category lang="pt">Suspense</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821120700 -0300" stop="20210821125300 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Empire</title>
+    <desc lang="pt">Em meio ao lançamento do Bossy Fest e da luta para recuperar o controle da Empire, Cookie reflete sobre a sua vida e a mulher que se tornou.(n)</desc>
+    <credits>
+      <director>Sanaa Hamri</director>
+      <actor>Bryshere Y. Gray</actor>
+      <actor>Chet Hanks</actor>
+      <actor>Gabourey Sidibe</actor>
+      <actor>Jussie Smollett</actor>
+      <actor>Taraji P. Henson</actor>
+      <actor>Terrence Howard</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821125300 -0300" stop="20210821133700 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Empire</title>
+    <desc lang="pt">Lucious está foragido e é perseguido pelos federais. Cookie se mantém ocupada concentrando-se em sua marca que agora inclui um talk show diurno e um centro comunitário.(n)</desc>
+    <credits>
+      <director>Craig Brewer</director>
+      <actor>Bryshere Y. Gray</actor>
+      <actor>Chet Hanks</actor>
+      <actor>Gabourey Sidibe</actor>
+      <actor>Jussie Smollett</actor>
+      <actor>Taraji P. Henson</actor>
+      <actor>Terrence Howard</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821133700 -0300" stop="20210821142100 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Empire</title>
+    <desc lang="pt">Lucious segue foragido. Cookie confronta Damon sobre as mentiras que ele disse. Andre lida com o seu próprio trauma pessoal e com uma complicação familiar.(n)</desc>
+    <credits>
+      <director>Craig Brewer</director>
+      <actor>Bryshere Y. Gray</actor>
+      <actor>Chet Hanks</actor>
+      <actor>Gabourey Sidibe</actor>
+      <actor>Jussie Smollett</actor>
+      <actor>Taraji P. Henson</actor>
+      <actor>Terrence Howard</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821142100 -0300" stop="20210821150700 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Riviera</title>
+    <desc lang="pt">Georgina se prepara para lançar a sua exposição ao lado de Jeff e Noah. Enquanto isso, Constantino tenta mandar uma mensagem para ela. Já Irina se aproxima da verdade sobre Adam.(n)</desc>
+    <credits>
+      <director>Paul Norton Walker</director>
+      <actor>Adrian Lester</actor>
+      <actor>Dimitri Leonidas</actor>
+      <actor>Julia Stiles</actor>
+      <actor>Lena Olin</actor>
+      <actor>Will Arnett</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821150700 -0300" stop="20210821155700 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Riviera</title>
+    <desc lang="pt">Georgina percebe que Irina pretende fazê-la sofrer e procura a pintura perdida de Noé. A trilha leva a um incômodo. Enquanto isso, Adriana e Nico se aproximam, apesar dos avisos de Christos.(n)</desc>
+    <credits>
+      <director>Paul Norton Walker</director>
+      <actor>Adrian Lester</actor>
+      <actor>Dimitri Leonidas</actor>
+      <actor>Julia Stiles</actor>
+      <actor>Lena Olin</actor>
+      <actor>Will Arnett</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821155700 -0300" stop="20210821164300 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Riviera</title>
+    <desc lang="pt">Georgina confessa a verdade para Jeff. Enquanto ele confronta Irina, o segredo de Cassandra finalmente é revelado. Georgina fica cara a cara com Constantine.(n)</desc>
+    <credits>
+      <director>Paul Norton Walker</director>
+      <actor>Adrian Lester</actor>
+      <actor>Dimitri Leonidas</actor>
+      <actor>Julia Stiles</actor>
+      <actor>Lena Olin</actor>
+      <actor>Will Arnett</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821164300 -0300" stop="20210821172400 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Riviera</title>
+    <desc lang="pt">Georgina usa o memorial de Raoul para canalizar a sua tristeza pela morte de Constantine. Enquanto isso, Nico fica de olho no império Clios e solta uma bomba que ameaça a família.(n)</desc>
+    <credits>
+      <director>Destiny Ekaragha</director>
+      <actor>Adrian Lester</actor>
+      <actor>Dimitri Leonidas</actor>
+      <actor>Julia Stiles</actor>
+      <actor>Lena Olin</actor>
+      <actor>Will Arnett</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821172400 -0300" stop="20210821180500 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Riviera</title>
+    <desc lang="pt">Georgina tem que revelar a verdade sobre Constantino para tentar proteger o império de Nico. O caos leva Georgina a recorrer a medidas desesperadas.(n)</desc>
+    <credits>
+      <director>Destiny Ekaragha</director>
+      <actor>Adrian Lester</actor>
+      <actor>Dimitri Leonidas</actor>
+      <actor>Julia Stiles</actor>
+      <actor>Lena Olin</actor>
+      <actor>Will Arnett</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821180500 -0300" stop="20210821190700 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Outlander</title>
+    <desc lang="pt">Em uma sociedade que caminha à revolução, Jamie deverá pôr fim às perturbações e ocultar a sua relação com o líder do Movimento Regulador.(n)</desc>
+    <credits>
+      <director>Stephen Woolfenden</director>
+      <actor>Caitriona Balfe</actor>
+      <actor>Ed Speleers</actor>
+      <actor>John Bell</actor>
+      <actor>Maria Doyle Kennedy</actor>
+      <actor>Sam Heughan</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>5</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821190700 -0300" stop="20210821195800 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Outlander</title>
+    <desc lang="pt">Em uma sociedade que caminha à revolução, Jamie deverá pôr fim às perturbações e ocultar a sua relação com o líder do Movimento Regulador.(n)</desc>
+    <credits>
+      <director>Stephen Woolfenden</director>
+      <actor>Caitriona Balfe</actor>
+      <actor>Ed Speleers</actor>
+      <actor>John Bell</actor>
+      <actor>Maria Doyle Kennedy</actor>
+      <actor>Sam Heughan</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>5</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821195800 -0300" stop="20210821204400 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Aqui na Terra</title>
+    <desc lang="pt">Um atentado abala a realidade política mexicana e a vida de Rocha. Adam tenta estabelecer as responsabilidades dos rebeldes de San Mateo.(n)</desc>
+    <credits>
+      <director>Alonso Ruizpalacios</director>
+      <actor>Alfonso Dosal</actor>
+      <actor>Ariadna Gil</actor>
+      <actor>Daniel Giménez Cacho</actor>
+      <actor>Gael García Bernal</actor>
+      <actor>Paulina Dávila</actor>
+      <actor>Tenoch Huerta</actor>
+    </credits>
+    <category lang="pt">Suspense</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821204400 -0300" stop="20210821214800 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Aqui na Terra</title>
+    <desc lang="pt">Enquanto Rocha tenta evitar ser preso, uma dúvida sinistra toma conta de Carlos. Adam confronta os líderes de San Mateo novamente para exigir o bom senso deles.(n)</desc>
+    <credits>
+      <director>Alonso Ruizpalacios</director>
+      <actor>Alfonso Dosal</actor>
+      <actor>Ariadna Gil</actor>
+      <actor>Daniel Giménez Cacho</actor>
+      <actor>Gael García Bernal</actor>
+      <actor>Paulina Dávila</actor>
+      <actor>Tenoch Huerta</actor>
+    </credits>
+    <category lang="pt">Suspense</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210821214800 -0300" stop="20210821224700 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">Aqui na Terra</title>
+    <desc lang="pt">Voltamos ao passado para descobrir alguns dos mistérios que cercam o personagem de Pía e Pájaro, e como Rocha, Landa e Hurtado estão envolvidos em uma rede sombria de interesses políticos nas entranhas do poder.(n)</desc>
+    <credits>
+      <director>Everardo Gout</director>
+      <actor>Alfonso Dosal</actor>
+      <actor>Ariadna Gil</actor>
+      <actor>Daniel Giménez Cacho</actor>
+      <actor>Gael García Bernal</actor>
+      <actor>Paulina Dávila</actor>
+      <actor>Tenoch Huerta</actor>
+    </credits>
+    <category lang="pt">Suspense</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821224700 -0300" stop="20210821233100 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">This Is Us</title>
+    <desc lang="pt">Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. “This Is Us” é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
+    <credits>
+      <director>Jon Huertas</director>
+      <actor>Chrissy Metz</actor>
+      <actor>Justin Hartley</actor>
+      <actor>Mandy Moore</actor>
+      <actor>Milo Ventimiglia</actor>
+      <actor>Sterling K. Brown</actor>
+      <actor>Eris Baker</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210821233100 -0300" stop="20210822001400 -0300" channel="Fox Premium 1 HD">
+    <title lang="pt">This Is Us</title>
+    <desc lang="pt">Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. “This Is Us” é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
+    <credits>
+      <director>Jon Huertas</director>
+      <actor>Chrissy Metz</actor>
+      <actor>Justin Hartley</actor>
+      <actor>Mandy Moore</actor>
+      <actor>Milo Ventimiglia</actor>
+      <actor>Sterling K. Brown</actor>
+      <actor>Eris Baker</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
   </programme>
 </tv>
