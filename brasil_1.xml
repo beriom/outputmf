@@ -381,6 +381,7 @@
   </channel>
   <channel id="Loading HD">
     <display-name lang="pt">Loading HD</display-name>
+    <icon src="https://www.tvmagazine.com.br/imagens/icones/600/.png" />
     <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Love Nature HD">
