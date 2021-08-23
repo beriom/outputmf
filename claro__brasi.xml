@@ -1,0 +1,3219 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id=" TV Pai Eterno HD">
+    <display-name lang="pt"> TV Pai Eterno HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id=" Universal TV HD">
+    <display-name lang="pt"> Universal TV HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="A&amp;E HD">
+    <display-name lang="pt">A&amp;E HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Agro Mais HD ">
+    <display-name lang="pt">Agro Mais HD </display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="AMC HD">
+    <display-name lang="pt">AMC HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Animal Planet HD">
+    <display-name lang="pt">Animal Planet HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Arte 1 HD">
+    <display-name lang="pt">Arte 1 HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="AXN HD ³">
+    <display-name lang="pt">AXN HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Band HD">
+    <display-name lang="pt">Band HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Band News HD">
+    <display-name lang="pt">Band News HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Band Sports HD ³">
+    <display-name lang="pt">Band Sports HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="BIS HD ³">
+    <display-name lang="pt">BIS HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Boomerang HD ³">
+    <display-name lang="pt">Boomerang HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Canal Brasil HD ³">
+    <display-name lang="pt">Canal Brasil HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Cartoon HD ³">
+    <display-name lang="pt">Cartoon HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Cinemax HD ³">
+    <display-name lang="pt">Cinemax HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="CNN Brasil HD">
+    <display-name lang="pt">CNN Brasil HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Combate HD">
+    <display-name lang="pt">Combate HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Comedy Central HD">
+    <display-name lang="pt">Comedy Central HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Cultura HD">
+    <display-name lang="pt">Cultura HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Curta! HD">
+    <display-name lang="pt">Curta! HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Discovery HD ³">
+    <display-name lang="pt">Discovery HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Discovery Home &amp; Health HD ³">
+    <display-name lang="pt">Discovery Home &amp; Health HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Discovery Kids HD ³">
+    <display-name lang="pt">Discovery Kids HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Discovery Science HD ³">
+    <display-name lang="pt">Discovery Science HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Discovery Theater HD ³">
+    <display-name lang="pt">Discovery Theater HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Discovery Turbo HD ³">
+    <display-name lang="pt">Discovery Turbo HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Discovery world HD ³">
+    <display-name lang="pt">Discovery world HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Disney Channel HD ³">
+    <display-name lang="pt">Disney Channel HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Disney JR HD">
+    <display-name lang="pt">Disney JR HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="DogTV HD">
+    <display-name lang="pt">DogTV HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="E! HD">
+    <display-name lang="pt">E! HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="ESPN 2 HD">
+    <display-name lang="pt">ESPN 2 HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="ESPN Brasil HD ³">
+    <display-name lang="pt">ESPN Brasil HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="ESPN Extra HD">
+    <display-name lang="pt">ESPN Extra HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="ESPN HD ³">
+    <display-name lang="pt">ESPN HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Eurochannel HD">
+    <display-name lang="pt">Eurochannel HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Fashion TV HD">
+    <display-name lang="pt">Fashion TV HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Film&amp;Arts HD">
+    <display-name lang="pt">Film&amp;Arts HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="FISH TV HD">
+    <display-name lang="pt">FISH TV HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="FOOD NETWORK HD">
+    <display-name lang="pt">FOOD NETWORK HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="FOX HD ³">
+    <display-name lang="pt">FOX HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="FOX LIFE HD">
+    <display-name lang="pt">FOX LIFE HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Fox Premium 1 HD">
+    <display-name lang="pt">Fox Premium 1 HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Fox Premium 2 HD">
+    <display-name lang="pt">Fox Premium 2 HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="FOX Sports 2 HD ³">
+    <display-name lang="pt">FOX Sports 2 HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Fox Sports HD ³">
+    <display-name lang="pt">Fox Sports HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Futura HD">
+    <display-name lang="pt">Futura HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="FX HD ³">
+    <display-name lang="pt">FX HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Gazeta HD">
+    <display-name lang="pt">Gazeta HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Globo HD">
+    <display-name lang="pt">Globo HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="GloboNews HD ³">
+    <display-name lang="pt">GloboNews HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Gloob HD ³">
+    <display-name lang="pt">Gloob HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="GNT HD ³">
+    <display-name lang="pt">GNT HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HBO + HD">
+    <display-name lang="pt">HBO + HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HBO Family HD ³">
+    <display-name lang="pt">HBO Family HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HBO HD 2 ³">
+    <display-name lang="pt">HBO HD 2 ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HBO HD ³">
+    <display-name lang="pt">HBO HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HBO MUNDI HD">
+    <display-name lang="pt">HBO MUNDI HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HBO POP HD">
+    <display-name lang="pt">HBO POP HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HBO Signature HD ³">
+    <display-name lang="pt">HBO Signature HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HBO Xtreme HD">
+    <display-name lang="pt">HBO Xtreme HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HGTV HD">
+    <display-name lang="pt">HGTV HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="History 2 HD">
+    <display-name lang="pt">History 2 HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="ID HD ³">
+    <display-name lang="pt">ID HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Ideal TV HD">
+    <display-name lang="pt">Ideal TV HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Lifetime HD">
+    <display-name lang="pt">Lifetime HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Like HD">
+    <display-name lang="pt">Like HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Love Nature HD">
+    <display-name lang="pt">Love Nature HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Mais Globosat HD ³">
+    <display-name lang="pt">Mais Globosat HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Mega TV HD">
+    <display-name lang="pt">Mega TV HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Megapix HD ³">
+    <display-name lang="pt">Megapix HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="MTV HD ³">
+    <display-name lang="pt">MTV HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="MTV Live HD">
+    <display-name lang="pt">MTV Live HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Multishow HD ³">
+    <display-name lang="pt">Multishow HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Music Box Brazil HD ³">
+    <display-name lang="pt">Music Box Brazil HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="NatGeo Kids HD">
+    <display-name lang="pt">NatGeo Kids HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="NATGEO WILD HD ³">
+    <display-name lang="pt">NATGEO WILD HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="National Geographic HD ³">
+    <display-name lang="pt">National Geographic HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="NET TV HD ³">
+    <display-name lang="pt">NET TV HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Nick Jr HD ³">
+    <display-name lang="pt">Nick Jr HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Nickelodeon HD">
+    <display-name lang="pt">Nickelodeon HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Novo Tempo HD">
+    <display-name lang="pt">Novo Tempo HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Off HD ³">
+    <display-name lang="pt">Off HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Paramount Network HD">
+    <display-name lang="pt">Paramount Network HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Playboy HD">
+    <display-name lang="pt">Playboy HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Premiere Clubes HD">
+    <display-name lang="pt">Premiere Clubes HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Premiere HD 2">
+    <display-name lang="pt">Premiere HD 2</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="PREMIERE HD 3 ³">
+    <display-name lang="pt">PREMIERE HD 3 ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="PREMIERE HD 4 ³">
+    <display-name lang="pt">PREMIERE HD 4 ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="PREMIERE HD 5 ³">
+    <display-name lang="pt">PREMIERE HD 5 ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Premiere HD 6">
+    <display-name lang="pt">Premiere HD 6</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Premiere HD 7">
+    <display-name lang="pt">Premiere HD 7</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Prime Box Brazil HD ³">
+    <display-name lang="pt">Prime Box Brazil HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Record HD">
+    <display-name lang="pt">Record HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Rede Gospel HD">
+    <display-name lang="pt">Rede Gospel HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Rede TV HD">
+    <display-name lang="pt">Rede TV HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Rede Vida HD">
+    <display-name lang="pt">Rede Vida HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="SBT HD">
+    <display-name lang="pt">SBT HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Smithsonian HD">
+    <display-name lang="pt">Smithsonian HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Sony HD ³">
+    <display-name lang="pt">Sony HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Space HD ³">
+    <display-name lang="pt">Space HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="SporTV 2 HD ³">
+    <display-name lang="pt">SporTV 2 HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="SporTV 3 HD ³">
+    <display-name lang="pt">SporTV 3 HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="SporTV HD ³">
+    <display-name lang="pt">SporTV HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Studio Universal HD">
+    <display-name lang="pt">Studio Universal HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Syfy HD">
+    <display-name lang="pt">Syfy HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TBS HD ³">
+    <display-name lang="pt">TBS HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Telecine Action HD ³">
+    <display-name lang="pt">Telecine Action HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Telecine Cult HD ³">
+    <display-name lang="pt">Telecine Cult HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Telecine Fun HD ³">
+    <display-name lang="pt">Telecine Fun HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Telecine Pipoca HD ³">
+    <display-name lang="pt">Telecine Pipoca HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Telecine Premium HD ³">
+    <display-name lang="pt">Telecine Premium HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Telecine Touch HD ³">
+    <display-name lang="pt">Telecine Touch HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="The History Channel HD ³">
+    <display-name lang="pt">The History Channel HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TLC HD ³">
+    <display-name lang="pt">TLC HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TNT HD ³">
+    <display-name lang="pt">TNT HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TNT SÉRIES HD">
+    <display-name lang="pt">TNT SÉRIES HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Trace Brazuca HD">
+    <display-name lang="pt">Trace Brazuca HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Travel Box Brasil HD ">
+    <display-name lang="pt">Travel Box Brasil HD </display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TV Brasil HD">
+    <display-name lang="pt">TV Brasil HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TV Rá Tim Bum HD ³">
+    <display-name lang="pt">TV Rá Tim Bum HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="VH1 HD ³">
+    <display-name lang="pt">VH1 HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Viva HD">
+    <display-name lang="pt">Viva HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Warner HD ³">
+    <display-name lang="pt">Warner HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Woohoo HD">
+    <display-name lang="pt">Woohoo HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="ZooMoo HD">
+    <display-name lang="pt">ZooMoo HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <programme start="20210823000000 -0300" stop="20210823005000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Chicago P.D.</title>
+    <desc lang="pt">Um caso de assalto armado se transforma rapidamente em uma investigação de homicídio. Upton é forçada a enfrentar um trauma de infância quando surgem sinais de violência doméstica em um dos suspeitos.(n)</desc>
+    <credits>
+      <director>Mykelti Williamson</director>
+      <actor>Jason Beghe</actor>
+      <actor>Jesse Lee Soffer</actor>
+      <actor>Tracy Spiridakos</actor>
+      <actor>LaRoyce Hawkins</actor>
+      <actor>Kara Killmer</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823005000 -0300" stop="20210823014000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Chicago P.D.</title>
+    <desc lang="pt">Voight consegue a ajuda de um membro de uma gangue para recrutar uma testemunha em um caso de assassinato.(n)</desc>
+    <credits>
+      <director>Nicole Rubio</director>
+      <actor>Jason Beghe</actor>
+      <actor>Jesse Lee Soffer</actor>
+      <actor>Tracy Spiridakos</actor>
+      <actor>LaRoyce Hawkins</actor>
+      <actor>Kara Killmer</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823014000 -0300" stop="20210823023000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Chicago P.D.</title>
+    <desc lang="pt">A Inteligência faz tudo que pode para construir um caso contra um difícil líder de uma rede de drogas, mas as coisas complicam quando Rojas percebe que uma coisa particular pode estar envolvida.(n)</desc>
+    <credits>
+      <director>Alex Chapple</director>
+      <actor>Jason Beghe</actor>
+      <actor>Jesse Lee Soffer</actor>
+      <actor>Tracy Spiridakos</actor>
+      <actor>LaRoyce Hawkins</actor>
+      <actor>Kara Killmer</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823023000 -0300" stop="20210823032000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Chicago P.D.</title>
+    <desc lang="pt">A Unidade de Inteligência precisa correr contra o tempo depois que Ruzek testemunha o sequestro de uma mulher. Burgess tenta se conectar com Ruzek fora do ambiente de trabalho, mas ele se afasta.(n)</desc>
+    <credits>
+      <director>Paul McCrane</director>
+      <actor>Jason Beghe</actor>
+      <actor>Jesse Lee Soffer</actor>
+      <actor>Tracy Spiridakos</actor>
+      <actor>LaRoyce Hawkins</actor>
+      <actor>Kara Killmer</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823032000 -0300" stop="20210823041000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Chicago P.D.</title>
+    <desc lang="pt">Atwater precisa se disfarçar para derrubar uma organização criminosa, mas descobre que um policial conhecido também está disfarçado na mesma operação.(n)</desc>
+    <credits>
+      <director>Alex Chapple</director>
+      <actor>Jason Beghe</actor>
+      <actor>Jesse Lee Soffer</actor>
+      <actor>Tracy Spiridakos</actor>
+      <actor>LaRoyce Hawkins</actor>
+      <actor>Kara Killmer</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823041000 -0300" stop="20210823052000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Chicago P.D.</title>
+    <desc lang="pt">Após mortes brutais, o Distrito 21 — liderado pelo sargento Hank Voigh — vão atrás do cartel colombiano em Chicago. Ali eles encontram D'Anthony, que prova ser uma vantagem para a investigação.(n)</desc>
+    <credits>
+      <director>Michael Slovis</director>
+      <actor>Jason Beghe</actor>
+      <actor>Jon Seda</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Jesse Lee Soffer</actor>
+      <actor>Patrick John Flueger</actor>
+      <actor>Marina Squerciati</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823052000 -0300" stop="20210823070000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Como Treinar o Seu Dragão 2</title>
+    <desc lang="pt">Sequência da épica aventura \.(n)</desc>
+    <credits>
+      <director>Dean DeBlois</director>
+      <director>Chris Sanders</director>
+      <actor>Vozes de Jay Baruchel</actor>
+      <actor>Gerard Butler</actor>
+      <actor>Craig Ferguson</actor>
+      <actor>America Ferrera</actor>
+      <actor>Jonah Hill</actor>
+    </credits>
+    <category lang="pt">Animação</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823070000 -0300" stop="20210823081000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços.(n)</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823081000 -0300" stop="20210823090500 -0300" channel=" Universal TV HD">
+    <title lang="pt">The Rookie</title>
+    <desc lang="pt">Sob as ordens do capitão Andersen, Nolan e o sargento Grey precisam trabalhar em equipe durante um dia de patrulha.(n)</desc>
+    <credits>
+      <director>Jessica Yu</director>
+      <actor>Nathan Fillion</actor>
+      <actor>Alyssa Diaz</actor>
+      <actor>Richard T. Jones</actor>
+      <actor>Mercedes Mason</actor>
+      <actor>Eric Winter</actor>
+      <actor>Maggie Parto</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823090500 -0300" stop="20210823100000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <desc lang="pt">Um jovem é encontrado morto dentro de um armário em um hotel e, durante a investigação, os detetives descobrem que o rapaz foi expulso de um casamento no local momentos antes do crime.(n)</desc>
+    <credits>
+      <director>David Platt</director>
+      <actor>Richard Belzer</actor>
+      <actor>Ice-T</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>B.D. Wong</actor>
+      <actor>Tamara Tunie</actor>
+    </credits>
+    <category lang="pt">Policial</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823100000 -0300" stop="20210823105500 -0300" channel=" Universal TV HD">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <desc lang="pt">Os detetives investigam o caso de uma jovem que é estuprada e assassinada. Na tentativa de descobrir o que aconteceu, Olivia tem que se infiltrar em uma indústria de manufatura de carnes.(n)</desc>
+    <credits>
+      <director>Peter Leto</director>
+      <actor>Ice-T</actor>
+      <actor>B.D. Wong</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Tamara Tunie</actor>
+    </credits>
+    <category lang="pt">Policial</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823105500 -0300" stop="20210823123000 -0300" channel=" Universal TV HD">
+    <title lang="pt">O Escorpião Rei</title>
+    <desc lang="pt">Há cerca de 5.000 anos, a força do Mal tenta exterminar a população nômade do deserto do Egito, mas o guerreiro Mathayus lutará contra isso.(n)</desc>
+    <credits>
+      <director>Chuck Russell</director>
+      <actor>The Rock</actor>
+      <actor>Steven Brand</actor>
+      <actor>Kelly Hu</actor>
+      <actor>Michael Clarke Duncan</actor>
+      <actor>Grant Heslov</actor>
+      <actor>Peter Facinelli</actor>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823123000 -0300" stop="20210823132500 -0300" channel=" Universal TV HD">
+    <title lang="pt">The Rookie</title>
+    <desc lang="pt">Uma inesperada visita do vice presidente dos Estados Unidos deixa o Departamento de Polícia de Los Angeles sob alerta total. O Serviço Secreto escala Nolan e Bishop para investigar possíveis ameaças.(n)</desc>
+    <credits>
+      <director>Sylvain White</director>
+      <actor>Nathan Fillion</actor>
+      <actor>Alyssa Diaz</actor>
+      <actor>Richard T. Jones</actor>
+      <actor>Titus Makin Jr.</actor>
+      <actor>Afton Williamson</actor>
+      <actor>Pooja Batra</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823132500 -0300" stop="20210823142000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Chicago Med</title>
+    <desc lang="pt">O processo contra Halstead continua, ao mesmo tempo em que Sarah e Zanetti tentam salvar um paciente que foi diagnostica do com uma doença bacteriana.(n)</desc>
+    <credits>
+      <director>Donald Petrie</director>
+      <actor>Brian Tee</actor>
+      <actor>Yaya DaCosta</actor>
+      <actor>S. Epatha Merkerson</actor>
+      <actor>Oliver Platt</actor>
+      <actor>Colin Donnell</actor>
+      <actor>Rachel DiPillo</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823142000 -0300" stop="20210823151500 -0300" channel=" Universal TV HD">
+    <title lang="pt">Chicago Fire</title>
+    <desc lang="pt">Uma tragédia atinge a todos quando uma tentativa de resgate em um edifício residencial não tem êxito. E a tensão aumenta entre Severide e Casey sobre Heather.(n)</desc>
+    <credits>
+      <director>Darnell Martin</director>
+      <actor>Jesse Spencer</actor>
+      <actor>Taylor Kinney</actor>
+      <actor>Monica Raymund</actor>
+      <actor>Lauren German</actor>
+      <actor>Charlie Barnett</actor>
+      <actor>David Eigenberg</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823151500 -0300" stop="20210823161000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Chicago Fire</title>
+    <desc lang="pt">Mills é alvo do ressentimento de alguns colegas quando Severide dá apoio ao seu desejo de se juntar ao esquadrão. Tara, uma candidata a paramédica, se junta a Dawson e Shay no trabalho por alguns turnos.(n)</desc>
+    <credits>
+      <director>Arthur W. Forney</director>
+      <actor>Jesse Spencer</actor>
+      <actor>Taylor Kinney</actor>
+      <actor>Monica Raymund</actor>
+      <actor>Lauren German</actor>
+      <actor>Charlie Barnett</actor>
+      <actor>Eamonn Walker</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823161000 -0300" stop="20210823170500 -0300" channel=" Universal TV HD">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <desc lang="pt">Uma promotora, conhecida de Elliot, pede a ajuda dos detetives na investigação da morte de duas meninas em um incêndio. Participação especial de Sharon Stone.(n)</desc>
+    <credits>
+      <director>Peter Leto</director>
+      <actor>Ice-T</actor>
+      <actor>B.D. Wong</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Tamara Tunie</actor>
+      <actor>Richard Belzer</actor>
+    </credits>
+    <category lang="pt">Policial</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823170500 -0300" stop="20210823180000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <desc lang="pt">Os detetives investigam o desaparecimento de uma mulher grávida, vítima de estupro. Para tentar solucionar o caso, Olivia e Elliot têm que se disfarçar de marido e mulher.(n)</desc>
+    <credits>
+      <director>David Platt</director>
+      <actor>Ice-T</actor>
+      <actor>B.D. Wong</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Tamara Tunie</actor>
+      <actor>Richard Belzer</actor>
+    </credits>
+    <category lang="pt">Policial</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823180000 -0300" stop="20210823183000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Unidade Básica</title>
+    <desc lang="pt">O caso de Joel é mais complicado do que parece. Por mais que seja esquizofrênico e agressivo, precisando de ajuda, a UBS sabe que sua família é dependente financeiramente dele e não concorda com uma internação.(n)</desc>
+    <credits>
+      <director>Carlos Cortez</director>
+      <director>Caroline Fioratti</director>
+      <actor>Carlota Joaquina</actor>
+      <actor>Vinicius de Oliveira</actor>
+      <actor>Bianca Muller</actor>
+      <actor>Caco Ciocler</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210823183000 -0300" stop="20210823190000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Unidade Básica</title>
+    <desc lang="pt">Dr. Paulo precisa recorrer a especialistas para tentar descobrir o que anda sentindo na garganta. Ao mesmo tempo, Dra. Laura pode estar saindo da UBS, caso passe na residência de Radiologia.(n)</desc>
+    <credits>
+      <director>Carlos Cortez</director>
+      <director>Caroline Fioratti</director>
+      <actor>Carlota Joaquina</actor>
+      <actor>Vinicius de Oliveira</actor>
+      <actor>Bianca Muller</actor>
+      <actor>Caco Ciocler</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210823190000 -0300" stop="20210823195000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Chicago Fire</title>
+    <desc lang="pt">Severide enfrenta consequências e luta por sobrevivência; O detetive Voight retorna; Dawson, Hermann e Otis se preparam para a grande abertura do Molly's.(n)</desc>
+    <credits>
+      <director>Jean de Segonzac</director>
+      <actor>Jesse Spencer</actor>
+      <actor>Taylor Kinney</actor>
+      <actor>Monica Raymund</actor>
+      <actor>Lauren German</actor>
+      <actor>Charlie Barnett</actor>
+      <actor>David Eigenberg</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823195000 -0300" stop="20210823204000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Chicago Fire</title>
+    <desc lang="pt">Frustrado, Severide se volta à um aliado improvável para resolver seu dilema atual. Casey começa a encontrar satisfação em sua vida pessoal, enquanto Mills e Dawson enfrentam desafios pessoais.(n)</desc>
+    <credits>
+      <director>Michael Slovis</director>
+      <actor>Jesse Spencer</actor>
+      <actor>Taylor Kinney</actor>
+      <actor>Monica Raymund</actor>
+      <actor>Lauren German</actor>
+      <actor>Charlie Barnett</actor>
+      <actor>David Eigenberg</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823204000 -0300" stop="20210823213000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Chicago P.D.</title>
+    <desc lang="pt">O filho de Antonio é sequestrado e ele acredita que a gangue colombiana é a responsável pelo caso. Pulpo, o líder dos criminosos, está na cadeia e sugere que sua liberdade também trará a de Diego.(n)</desc>
+    <credits>
+      <director>Joe Chappelle</director>
+      <actor>Jason Beghe</actor>
+      <actor>Jon Seda</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Jesse Lee Soffer</actor>
+      <actor>Marina Squerciati</actor>
+      <actor>Laroyce Hawkins</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823213000 -0300" stop="20210823222000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Chicago Med</title>
+    <desc lang="pt">Enquanto Maggie lida com seu próprio trauma, ela intervém para ajudar a mãe. Um paciente vai ao hospital precisando de tratamento imediato.(n)</desc>
+    <credits>
+      <director>Mykelti Williamson</director>
+      <actor>Nick Gehlfuss</actor>
+      <actor>Yaya DaCosta</actor>
+      <actor>Torrey DeVitto</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823222000 -0300" stop="20210823231000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Chicago Fire</title>
+    <desc lang="pt">Um golpe feio na cabeça causa em Casey uma dor inimaginável.(n)</desc>
+    <credits>
+      <director>Reza Tabrizi</director>
+      <actor>Jesse Spencer</actor>
+      <actor>Taylor Kinney</actor>
+      <actor>Kara Killmer</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823231000 -0300" stop="20210824000000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Chicago P.D.</title>
+    <desc lang="pt">Quando um empresário é morto a tiros em sua loja, Atwater leva para o lado pessoal, pois patrulhava o bairro quando era um jovem policial.(n)</desc>
+    <credits>
+      <director>Charles S. Carroll</director>
+      <actor>Jason Beghe</actor>
+      <actor>Jesse Lee Soffer</actor>
+      <actor>Tracy Spiridakos</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824000000 -0300" stop="20210824005000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <desc lang="pt">Benson se junta ao tenente Barek e ao SVU do Bronx para rastrear um estuprador em série.(n)</desc>
+    <credits>
+      <director>Batan Silva</director>
+      <actor>Mariska Hargitay</actor>
+      <actor>Kelli Giddish</actor>
+      <actor>Ice-T</actor>
+    </credits>
+    <category lang="pt">Investigação</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824005000 -0300" stop="20210824014000 -0300" channel=" Universal TV HD">
+    <title lang="pt">FBI: Most Wanted</title>
+    <desc lang="pt">Depois que um suspeito escapa do julgamento, a equipe se junta a Jackie para localizá-lo. Além disso, Jess continua lutando para seguir em frente com sua vida amorosa.(n)</desc>
+    <credits>
+      <director>Eric Laneuville</director>
+      <actor>Julian McMahon</actor>
+      <actor>Kellan Lutz</actor>
+      <actor>Roxy Sternberg</actor>
+    </credits>
+    <category lang="pt">Policial</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824014000 -0300" stop="20210824023000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Chicago P.D.</title>
+    <desc lang="pt">O filho de Antonio é sequestrado e ele acredita que a gangue colombiana é a responsável pelo caso. Pulpo, o líder dos criminosos, está na cadeia e sugere que sua liberdade também trará a de Diego.(n)</desc>
+    <credits>
+      <director>Joe Chappelle</director>
+      <actor>Jason Beghe</actor>
+      <actor>Jon Seda</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Jesse Lee Soffer</actor>
+      <actor>Marina Squerciati</actor>
+      <actor>Laroyce Hawkins</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824023000 -0300" stop="20210824032000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Chicago Med</title>
+    <desc lang="pt">O processo contra Halstead continua, ao mesmo tempo em que Sarah e Zanetti tentam salvar um paciente que foi diagnostica do com uma doença bacteriana.(n)</desc>
+    <credits>
+      <director>Donald Petrie</director>
+      <actor>Brian Tee</actor>
+      <actor>Yaya DaCosta</actor>
+      <actor>S. Epatha Merkerson</actor>
+      <actor>Oliver Platt</actor>
+      <actor>Colin Donnell</actor>
+      <actor>Rachel DiPillo</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824032000 -0300" stop="20210824041000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <desc lang="pt">Uma promotora, conhecida de Elliot, pede a ajuda dos detetives na investigação da morte de duas meninas em um incêndio. Participação especial de Sharon Stone.(n)</desc>
+    <credits>
+      <director>Peter Leto</director>
+      <actor>Ice-T</actor>
+      <actor>B.D. Wong</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Tamara Tunie</actor>
+      <actor>Richard Belzer</actor>
+    </credits>
+    <category lang="pt">Policial</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824041000 -0300" stop="20210824052500 -0300" channel=" Universal TV HD">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <desc lang="pt">Os detetives investigam o desaparecimento de uma mulher grávida, vítima de estupro. Para tentar solucionar o caso, Olivia e Elliot têm que se disfarçar de marido e mulher.(n)</desc>
+    <credits>
+      <director>David Platt</director>
+      <actor>Ice-T</actor>
+      <actor>B.D. Wong</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Tamara Tunie</actor>
+      <actor>Richard Belzer</actor>
+    </credits>
+    <category lang="pt">Policial</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824052500 -0300" stop="20210824070000 -0300" channel=" Universal TV HD">
+    <title lang="pt">O Escorpião Rei</title>
+    <desc lang="pt">Há cerca de 5.000 anos, a força do Mal tenta exterminar a população nômade do deserto do Egito, mas o guerreiro Mathayus lutará contra isso.(n)</desc>
+    <credits>
+      <director>Chuck Russell</director>
+      <actor>The Rock</actor>
+      <actor>Steven Brand</actor>
+      <actor>Kelly Hu</actor>
+      <actor>Michael Clarke Duncan</actor>
+      <actor>Grant Heslov</actor>
+      <actor>Peter Facinelli</actor>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824070000 -0300" stop="20210824081000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços.(n)</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210824081000 -0300" stop="20210824090500 -0300" channel=" Universal TV HD">
+    <title lang="pt">The Rookie</title>
+    <desc lang="pt">Uma inesperada visita do vice presidente dos Estados Unidos deixa o Departamento de Polícia de Los Angeles sob alerta total. O Serviço Secreto escala Nolan e Bishop para investigar possíveis ameaças.(n)</desc>
+    <credits>
+      <director>Sylvain White</director>
+      <actor>Nathan Fillion</actor>
+      <actor>Alyssa Diaz</actor>
+      <actor>Richard T. Jones</actor>
+      <actor>Titus Makin Jr.</actor>
+      <actor>Afton Williamson</actor>
+      <actor>Pooja Batra</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824090500 -0300" stop="20210824100000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <desc lang="pt">Uma promotora, conhecida de Elliot, pede a ajuda dos detetives na investigação da morte de duas meninas em um incêndio. Participação especial de Sharon Stone.(n)</desc>
+    <credits>
+      <director>Peter Leto</director>
+      <actor>Ice-T</actor>
+      <actor>B.D. Wong</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Tamara Tunie</actor>
+      <actor>Richard Belzer</actor>
+    </credits>
+    <category lang="pt">Policial</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824100000 -0300" stop="20210824105500 -0300" channel=" Universal TV HD">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <desc lang="pt">Os detetives investigam o desaparecimento de uma mulher grávida, vítima de estupro. Para tentar solucionar o caso, Olivia e Elliot têm que se disfarçar de marido e mulher.(n)</desc>
+    <credits>
+      <director>David Platt</director>
+      <actor>Ice-T</actor>
+      <actor>B.D. Wong</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Tamara Tunie</actor>
+      <actor>Richard Belzer</actor>
+    </credits>
+    <category lang="pt">Policial</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824105500 -0300" stop="20210824123000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Ouija: O Jogo dos Espíritos</title>
+    <desc lang="pt">Após a morte de Debbie, um grupo de amigos resolve usar o tabuleiro Ouija para conversar com o espirito dela. Após a sessão, situações estranhas começam acontecer com cada um deles.(n)</desc>
+    <credits>
+      <director>Stiles White</director>
+      <actor>Douglas Smith</actor>
+      <actor>Olivia Cooke</actor>
+      <actor>Ana Coto</actor>
+      <actor>Daren Kagasoff</actor>
+      <actor>Bianca A. Santos</actor>
+      <actor>Shelley Hennig</actor>
+    </credits>
+    <category lang="pt">Terror</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824123000 -0300" stop="20210824132500 -0300" channel=" Universal TV HD">
+    <title lang="pt">The Rookie</title>
+    <desc lang="pt">Um dos dias mais perigosos do ano, o Dia dos Namorados, deixa o Departamento da Polícia de Los Angeles sob alerta máximo, e Nolan convida sua equipe para uma festa em sua casa agora que está solteiro.(n)</desc>
+    <credits>
+      <director>Carol Banker</director>
+      <actor>Michelle Bernard</actor>
+      <actor>John Billingsley</actor>
+      <actor>Stephen Bralver</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824132500 -0300" stop="20210824142000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Chicago Med</title>
+    <desc lang="pt">Enfermeira Lockwood é presa ao defender uma decisão. Dr. Halstead lida com uma ação judicial pendente contra ele; Dr. Charles enfrenta problemas pessoais e levantam-se suspeitas sobre um paciente que foi atingido por um carro.(n)</desc>
+    <credits>
+      <director>Donald Petrie</director>
+      <actor>Brian Tee</actor>
+      <actor>Yaya DaCosta</actor>
+      <actor>S. Epatha Merkerson</actor>
+      <actor>Oliver Platt</actor>
+      <actor>Colin Donnell</actor>
+      <actor>Rachel DiPillo</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824142000 -0300" stop="20210824151500 -0300" channel=" Universal TV HD">
+    <title lang="pt">Chicago Fire</title>
+    <desc lang="pt">Severide enfrenta consequências e luta por sobrevivência; O detetive Voight retorna; Dawson, Hermann e Otis se preparam para a grande abertura do Molly's.(n)</desc>
+    <credits>
+      <director>Jean de Segonzac</director>
+      <actor>Jesse Spencer</actor>
+      <actor>Taylor Kinney</actor>
+      <actor>Monica Raymund</actor>
+      <actor>Lauren German</actor>
+      <actor>Charlie Barnett</actor>
+      <actor>David Eigenberg</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824151500 -0300" stop="20210824161000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Chicago Fire</title>
+    <desc lang="pt">Frustrado, Severide se volta à um aliado improvável para resolver seu dilema atual. Casey começa a encontrar satisfação em sua vida pessoal, enquanto Mills e Dawson enfrentam desafios pessoais.(n)</desc>
+    <credits>
+      <director>Michael Slovis</director>
+      <actor>Jesse Spencer</actor>
+      <actor>Taylor Kinney</actor>
+      <actor>Monica Raymund</actor>
+      <actor>Lauren German</actor>
+      <actor>Charlie Barnett</actor>
+      <actor>David Eigenberg</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824161000 -0300" stop="20210824170500 -0300" channel=" Universal TV HD">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <desc lang="pt">Os detetives têm que investigar o estupro de três jovens, mas as investigações trazem à tona segredos sobre o policial novato que prendeu o estuprador.(n)</desc>
+    <credits>
+      <director>David Platt</director>
+      <actor>Ice-T</actor>
+      <actor>B.D. Wong</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Tamara Tunie</actor>
+      <actor>Richard Belzer</actor>
+    </credits>
+    <category lang="pt">Policial</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824170500 -0300" stop="20210824180000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <desc lang="pt">Durante a investigação do sequestro de um menino de oito anos, os detetives se deparam com uma situação perigosa e com revelações sobre o passado da promotora Jo Marlowe.(n)</desc>
+    <credits>
+      <director>Peter Leto</director>
+      <actor>Ice-T</actor>
+      <actor>B.D. Wong</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Tamara Tunie</actor>
+      <actor>Richard Belzer</actor>
+    </credits>
+    <category lang="pt">Policial</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824180000 -0300" stop="20210824180500 -0300" channel=" Universal TV HD">
+    <title lang="pt">Spoiler Game</title>
+    <desc lang="pt">Nesse episódio de Spoiler Game, uma fã de Brooklyn 99 precisa montar uma maquete com o cartão postal da cidade de Nova Iorque: a Ponte do Brooklyn.(n)</desc>
+    <credits>
+      <director>Júlio Piconi</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210824180500 -0300" stop="20210824190000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Rotas do Ódio</title>
+    <desc lang="pt">A equipe da DECRADI é chamada e eles encontram o corpo do Levi. Buá e Lukeny mantêm Weza preso a mando de Abílio, mas Capitão tenta intervir e pede resgate para a mãe de Weza.(n)</desc>
+    <credits>
+      <director>Susanna Lira</director>
+      <director>Vinícius Reis</director>
+      <actor>Mayana Neiva</actor>
+      <actor>Antônio Saboia</actor>
+      <actor>André Bankoff</actor>
+      <actor>Rafael Losso</actor>
+      <actor>Eduardo Semerjian</actor>
+      <actor>Marat Decartes</actor>
+    </credits>
+    <category lang="pt">Ficção</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824190000 -0300" stop="20210824195000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Chicago Fire</title>
+    <desc lang="pt">Casey é forçado a se juntar ao time da Unidade de Inteligência comandado por Voight. Mills e Dawson enfrentam alguns desafios pessoais. Enquanto isso, o batalhão se une para apoiar a inauguração do bar Molly.(n)</desc>
+    <credits>
+      <director>Joe Chappelle</director>
+      <actor>Jesse Spencer</actor>
+      <actor>Taylor Kinney</actor>
+      <actor>Monica Raymund</actor>
+      <actor>Lauren German</actor>
+      <actor>Charlie Barnett</actor>
+      <actor>David Eigenberg</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824195000 -0300" stop="20210824204000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Chicago Fire</title>
+    <desc lang="pt">A tensão cresce quando o batalhão responde a um chamado na penitenciária Cook County. Enquanto isso, Shay se sente otimista com o resultado de sua inseminação artificial.(n)</desc>
+    <credits>
+      <director>Alex Chapple</director>
+      <actor>Jesse Spencer</actor>
+      <actor>Taylor Kinney</actor>
+      <actor>Monica Raymund</actor>
+      <actor>Lauren German</actor>
+      <actor>Charlie Barnett</actor>
+      <actor>David Eigenberg</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824204000 -0300" stop="20210824213000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Chicago P.D.</title>
+    <desc lang="pt">Voight e seu time seguem para uma casa que parece estar associada com várias gangues.(n)</desc>
+    <credits>
+      <director>Sanford Bookstaver</director>
+      <actor>Jason Beghe</actor>
+      <actor>Jon Seda</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Jesse Lee Soffer</actor>
+      <actor>Laroyce Hawkins</actor>
+      <actor>Archie Kao</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824213000 -0300" stop="20210824222000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Chicago P.D.</title>
+    <desc lang="pt">Mais é descoberto sobre Halstead e seu ódio da família Rodiger. Enquanto isso, Olinsky mostra seu lado paternal com a filha Lexi, ao mesmo tempo em que Voight tenta ajudar o filho que acaba de ser libertado da cadeia.(n)</desc>
+    <credits>
+      <director>Mark Tinker</director>
+      <actor>Jason Beghe</actor>
+      <actor>Jon Seda</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Jesse Lee Soffer</actor>
+      <actor>Laroyce Hawkins</actor>
+      <actor>Archie Kao</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824222000 -0300" stop="20210824231000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <desc lang="pt">Benson ajuda duas irmãs a dar um fim em um trauma de infância. A prima de Kat pede auxílio.(n)</desc>
+    <credits>
+      <director>Martha Mitchell</director>
+      <actor>Mariska Hargitay</actor>
+      <actor>Kelli Giddish</actor>
+      <actor>Ice-T</actor>
+    </credits>
+    <category lang="pt">Investigação</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824231000 -0300" stop="20210825000000 -0300" channel=" Universal TV HD">
+    <title lang="pt">Coroner</title>
+    <desc lang="pt">Jenny e Donovan investigam uma morte misteriosa em uma casa mal-assombrada.(n)</desc>
+    <credits>
+      <director>Charles Officer</director>
+      <actor>Olunike Adeliyi</actor>
+      <actor>Liz Adjei</actor>
+      <actor>Celestine Caravaggio</actor>
+      <actor>Nicola Correia-Damude</actor>
+      <actor>Sukhman Gill</actor>
+    </credits>
+    <category lang="pt">Investigação</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823001000 -0300" stop="20210823010300 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <desc lang="pt">Série sobre acumuladores usando exemplo de pessoas reais.(n)</desc>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210823010300 -0300" stop="20210823015500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <desc lang="pt">Série sobre acumuladores usando exemplo de pessoas reais.(n)</desc>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210823015500 -0300" stop="20210823033000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Complô Contra Os Estados Unidos</title>
+    <desc lang="pt">Charles Lindbergh, o herói da aviação historicamente populista, derrota Franklin D. Roosevelt e se torna então presidente dos Estados Unidos.(n)</desc>
+    <credits>
+      <director>Minkie Spiro</director>
+      <director>Thomas Schlamme</director>
+      <actor>Winona Ryder</actor>
+      <actor>Anthony Boyle</actor>
+      <actor>Zoe Kazan</actor>
+      <actor>Ben Cole</actor>
+      <actor>Caroline Kaplan</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823033000 -0300" stop="20210823042000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Palavra de Assassino</title>
+    <desc lang="pt">Em 2011, MaksimGelman se envolveu em uma onda de ataques brutais em Nova York, que deixou quatro mortos e quatro feridos.(n)</desc>
+    <category lang="pt">Policial</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210823042000 -0300" stop="20210823051000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Palavra de Assassino</title>
+    <desc lang="pt">Duas semanas antes do Natal, Earl Forrest invadiu a casa de um amigo e atirou em duas pessoas a sangue frio. Ainda com sede de matar,Forrest atira em outras quatro pessoas.(n)</desc>
+    <category lang="pt">Policial</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210823051000 -0300" stop="20210823060000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Quem Matou Tupac?</title>
+    <desc lang="pt">O advogado dos direitos civis Benjamin Crump e sua equipe examinam a teoria de que o membro da gangue Orlando Anderson pode ter sido o responsável pelo assassinato de Tupac Shakur.(n)</desc>
+    <credits>
+      <director>Jason Sklaver</director>
+      <actor>Alex Alonso</actor>
+      <actor>Chuck D</actor>
+      <actor>Lolita Files</actor>
+      <actor>'Freeway' Ricky Ross</actor>
+      <actor>P. Frank Williams</actor>
+    </credits>
+    <category lang="pt">Investigação</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823060000 -0300" stop="20210823065200 -0300" channel="A&amp;E HD">
+    <title lang="pt">Reencarnação: O Espírito Em Meu Filho</title>
+    <desc lang="pt">Noite após noite, Eric, de dois anos, acordava gritando de um sonho horrível sobre ser esmagado até a morte. No entanto, foi a obsessão de Eric por Hollywood que aumentou até o ponto em que eles tiveram que trancar as portas.(n)</desc>
+    <credits>
+      <actor>Liam Nicosia</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823065200 -0300" stop="20210823074700 -0300" channel="A&amp;E HD">
+    <title lang="pt">As Primeiras 48 Horas: Minutos Críticos</title>
+    <desc lang="pt">Um estranho assalto em Nova Orleans complica a vida de um detetive novato. Em Phoenix, um investigador tenta resolver o seu primeiro caso a partir de uma única pista.(n)</desc>
+    <credits>
+      <director>Matt Frazier</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210823074700 -0300" stop="20210823092700 -0300" channel="A&amp;E HD">
+    <title lang="pt">Complô Contra Os Estados Unidos</title>
+    <desc lang="pt">Charles Lindbergh, o herói da aviação historicamente populista, derrota Franklin D. Roosevelt e se torna então presidente dos Estados Unidos.(n)</desc>
+    <credits>
+      <director>Minkie Spiro</director>
+      <director>Thomas Schlamme</director>
+      <actor>Winona Ryder</actor>
+      <actor>Anthony Boyle</actor>
+      <actor>Zoe Kazan</actor>
+      <actor>Ben Cole</actor>
+      <actor>Caroline Kaplan</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823092700 -0300" stop="20210823102300 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <desc lang="pt">Série sobre acumuladores usando exemplo de pessoas reais.(n)</desc>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210823102300 -0300" stop="20210823111700 -0300" channel="A&amp;E HD">
+    <title lang="pt">Reencarnação: O Espírito Em Meu Filho</title>
+    <desc lang="pt">Kimberly brincava constantemente com a sua irmã invisível, a Sarah. O que a sua mãe fez quando ela contou que Sarah a havia matado jogando-a em direção ao fogo?(n)</desc>
+    <credits>
+      <actor>Tyler McMichael</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823111700 -0300" stop="20210823121100 -0300" channel="A&amp;E HD">
+    <title lang="pt">Reencarnação: O Espírito Em Meu Filho</title>
+    <desc lang="pt">Aos 4 anos, Andrew falava com gente invisível e dizia ter morrido em um bombardeio. Ele foi soldado da Marinha em sua vida anterior?(n)</desc>
+    <credits>
+      <actor>Liam Nicosia</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823121100 -0300" stop="20210823130700 -0300" channel="A&amp;E HD">
+    <title lang="pt">El Chapo</title>
+    <desc lang="pt">O governo mexicano decide oferecer uma recompensa em troca da captura de Joaquín \.(n)</desc>
+    <credits>
+      <actor>Marco de la O</actor>
+      <actor>Humberto Busto</actor>
+      <actor>Alejandro Aguilar</actor>
+      <actor>Juan Carlos Olivas</actor>
+      <actor>Diego Vásquez</actor>
+      <actor>Joseph Fussey</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823130700 -0300" stop="20210823140200 -0300" channel="A&amp;E HD">
+    <title lang="pt">El Chapo</title>
+    <desc lang="pt">Don Sol disponibiliza informação importante a Gabriela que pode servir de ajuda durante a sua procura por uma vítima que poderia declarar contra o General Blanco.(n)</desc>
+    <credits>
+      <actor>Marco de la O</actor>
+      <actor>Humberto Busto</actor>
+      <actor>Alejandro Aguilar</actor>
+      <actor>Juan Carlos Olivas</actor>
+      <actor>Diego Vásquez</actor>
+      <actor>Joseph Fussey</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823140200 -0300" stop="20210823145600 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <desc lang="pt">Série sobre acumuladores usando exemplo de pessoas reais.(n)</desc>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210823145600 -0300" stop="20210823163600 -0300" channel="A&amp;E HD">
+    <title lang="pt">A Revolta Que Incendiou Los Angeles</title>
+    <desc lang="pt">A Revolta que Incendiou Los Angeles aborda a narrativa ampla que o mundo já conhece, mas também traz relatos ocultos e imagens que nunca foram vistas antes – as histórias não contadas dos motins de LA.(n)</desc>
+    <credits>
+      <director>One9</director>
+      <director>Erik Parker</director>
+      <actor>John Singleton</actor>
+    </credits>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823163600 -0300" stop="20210823170100 -0300" channel="A&amp;E HD">
+    <title lang="pt">Flagrantes Das Câmeras: Tribunais</title>
+    <desc lang="pt">Um juiz e um advogado de defesa levam uma discussão acalorada às brigas;a mulher acusada de desprezo dá um salto para o juiz; um suspeito de assassinato pleiteia com a família da vítima e não chega a lugar algum.(n)</desc>
+    <credits>
+      <actor>Dan Abrams</actor>
+      <actor>Michael Troiano</actor>
+    </credits>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823170100 -0300" stop="20210823175600 -0300" channel="A&amp;E HD">
+    <title lang="pt">Bull</title>
+    <desc lang="pt">Bull e Benny representam um casal sendo processado pelo pai biológico do bebê por custódia depois que uma clínica de fertilidade usou erroneamente a amostra do homem errado.(n)</desc>
+    <credits>
+      <director>Dennis Smith</director>
+      <actor>Michael Weatherly</actor>
+      <actor>Freddy Rodríguez</actor>
+      <actor>Geneva Carr</actor>
+      <actor>Annabelle Attanasio</actor>
+      <actor>Trieste Kelly Dunn</actor>
+      <actor>Todd Faulkner</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823175600 -0300" stop="20210823184800 -0300" channel="A&amp;E HD">
+    <title lang="pt">Último Dia Em Liberdade</title>
+    <desc lang="pt">Ben é um ex-bombeiro que cometeu um ato atroz e agora enfrenta uma doença terminal. Será que ele conseguirá suspender a sua condenação até que o seu tratamento termine?(n)</desc>
+    <category lang="pt">Suspense</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210823184800 -0300" stop="20210823185300 -0300" channel="A&amp;E HD">
+    <title lang="pt">Listas</title>
+    <desc lang="pt">O programa “Listas” recomenda filmes e/ou séries e programas com um tema em comum, podendo variar desde temas abrangentes como “5 Comédias dos Anos 80”, até assuntos inusitados.(n)</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823185300 -0300" stop="20210823195600 -0300" channel="A&amp;E HD">
+    <title lang="pt">Até Que a Morte Nos Separe</title>
+    <desc lang="pt">A empregada de Lilian chega ao prédio onde a jovem mora com as duas filhas, em Belém, e encontra um trio de pessoas aflitas perguntando por ela. Intrigada, a mulher fica sabendo que houve uma briga entre Fábio e Lilian.(n)</desc>
+    <category lang="pt">Policial</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210823195600 -0300" stop="20210823215100 -0300" channel="A&amp;E HD">
+    <title lang="pt">O Pacto</title>
+    <desc lang="pt">Will leva uma vida pacífica até o dia em que sua esposa é atacada brutalmente por um desconhecido. Em seguida um estranho aparece oferecendo a Will um plano de vingança.(n)</desc>
+    <credits>
+      <director>Roger Donaldson</director>
+      <actor>Nicolas Cage</actor>
+      <actor>January Jones</actor>
+      <actor>Guy Pearce</actor>
+      <actor>Harold Perrineau</actor>
+      <actor>Jennifer Carpenter</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823215100 -0300" stop="20210823223600 -0300" channel="A&amp;E HD">
+    <title lang="pt">Cold Case</title>
+    <desc lang="pt">A equipe reabre um caso de 1978, em que uma patinadora adolescente foi encontrada morta em um vale.(n)</desc>
+    <credits>
+      <director>Holly Dale</director>
+      <actor>Danny Pino</actor>
+      <actor>John Finn</actor>
+      <actor>Kathryn Morris</actor>
+      <actor>Jeremy Ratchford</actor>
+      <actor>Thom Barry</actor>
+      <actor>Tracie Thoms</actor>
+    </credits>
+    <category lang="pt">Policial</category>
+    <episode-num system="onscreen">S6 E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823223600 -0300" stop="20210823233200 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <desc lang="pt">Série sobre acumuladores usando exemplo de pessoas reais.(n)</desc>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210823233200 -0300" stop="20210824002800 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <desc lang="pt">Série sobre acumuladores usando exemplo de pessoas reais.(n)</desc>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210824002800 -0300" stop="20210824012100 -0300" channel="A&amp;E HD">
+    <title lang="pt">El Chapo</title>
+    <desc lang="pt">Ramón Avendaño contrata os serviços de um grupo de assassinos de aluguel para caçar Joaquín \.(n)</desc>
+    <credits>
+      <actor>Marco de la O</actor>
+      <actor>Humberto Busto</actor>
+      <actor>Alejandro Aguilar</actor>
+      <actor>Juan Carlos Olivas</actor>
+      <actor>Diego Vásquez</actor>
+      <actor>Joseph Fussey</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824012100 -0300" stop="20210824025600 -0300" channel="A&amp;E HD">
+    <title lang="pt">Complô Contra Os Estados Unidos</title>
+    <desc lang="pt">Charles Lindbergh, o herói da aviação historicamente populista, derrota Franklin D. Roosevelt e se torna então presidente dos Estados Unidos.(n)</desc>
+    <credits>
+      <director>Minkie Spiro</director>
+      <director>Thomas Schlamme</director>
+      <actor>Winona Ryder</actor>
+      <actor>Anthony Boyle</actor>
+      <actor>Zoe Kazan</actor>
+      <actor>Ben Cole</actor>
+      <actor>Caroline Kaplan</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824025600 -0300" stop="20210824034800 -0300" channel="A&amp;E HD">
+    <title lang="pt">Bull</title>
+    <desc lang="pt">Bull e Benny representam um casal sendo processado pelo pai biológico do bebê por custódia depois que uma clínica de fertilidade usou erroneamente a amostra do homem errado.(n)</desc>
+    <credits>
+      <director>Dennis Smith</director>
+      <actor>Michael Weatherly</actor>
+      <actor>Freddy Rodríguez</actor>
+      <actor>Geneva Carr</actor>
+      <actor>Annabelle Attanasio</actor>
+      <actor>Trieste Kelly Dunn</actor>
+      <actor>Todd Faulkner</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824034800 -0300" stop="20210824043900 -0300" channel="A&amp;E HD">
+    <title lang="pt">Reencarnação: O Espírito Em Meu Filho</title>
+    <desc lang="pt">O que você faria se sua filha dissesse que você não era sua mãe e acreditasse que a tinha levado de sua casa real?(n)</desc>
+    <credits>
+      <actor>Tyler McMichael</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824043900 -0300" stop="20210824053000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Reencarnação: O Espírito Em Meu Filho</title>
+    <desc lang="pt">Quando criança, Nick sofreu com pesadelos em que lembrava de ter participado da Guerra Civil estadunidense. Ele terá coragem de voltar ao lugar onde perdeu sua vida há séculos?(n)</desc>
+    <credits>
+      <actor>Tyler McMichael</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824053000 -0300" stop="20210824060000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Flagrantes Das Câmeras: Tribunais</title>
+    <desc lang="pt">Um suspeito de assassino corta a própria garganta no tribunal; um de boca sujao réu solta o juiz; uma jovem tenta salvar a vida do homem que está processando sua família.(n)</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210824060000 -0300" stop="20210824065300 -0300" channel="A&amp;E HD">
+    <title lang="pt">Reencarnação: O Espírito Em Meu Filho</title>
+    <desc lang="pt">Erika e Nick estavam tão animados quando o filho Luke nasceu. Mas quando Luke disse à mãe que seu nome era Pam do \.(n)</desc>
+    <credits>
+      <actor>Liam Nicosia</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824065300 -0300" stop="20210824074900 -0300" channel="A&amp;E HD">
+    <title lang="pt">Quem Matou Tupac?</title>
+    <desc lang="pt">O advogado dos direitos civis Benjamin Crump e sua equipe examinam a teoria de que o membro da gangue Orlando Anderson pode ter sido o responsável pelo assassinato de Tupac Shakur.(n)</desc>
+    <credits>
+      <director>Jason Sklaver</director>
+      <actor>Alex Alonso</actor>
+      <actor>Chuck D</actor>
+      <actor>Lolita Files</actor>
+      <actor>'Freeway' Ricky Ross</actor>
+      <actor>P. Frank Williams</actor>
+    </credits>
+    <category lang="pt">Investigação</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824074900 -0300" stop="20210824084400 -0300" channel="A&amp;E HD">
+    <title lang="pt">Quem Matou Tupac?</title>
+    <desc lang="pt">A equipe investiga a teoria de que uma rivalidade de rap da Costa Leste vs. Costa Oeste levou ao assassinato de Tupac Shakur, e que os artistas de rap Biggie e P. Diddy podem estar envolvidos.(n)</desc>
+    <credits>
+      <director>Jason Sklaver</director>
+      <actor>Big Boy</actor>
+      <actor>Kirk Burrowes</actor>
+      <actor>Chopmaster-J</actor>
+      <actor>Sean 'Diddy' Combs</actor>
+      <actor>Chuck D</actor>
+      <actor>Benjamin Crump</actor>
+    </credits>
+    <category lang="pt">Investigação</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824084400 -0300" stop="20210824094000 -0300" channel="A&amp;E HD">
+    <title lang="pt">As Primeiras 48 Horas</title>
+    <desc lang="pt">Um pai desaparecido aparece morto, quando seus planos de despejar um inquilino acendem uma fúria assassina.(n)</desc>
+    <credits>
+      <director>Mira Chang</director>
+    </credits>
+    <category lang="pt">Policial</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>5</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824094000 -0300" stop="20210824103700 -0300" channel="A&amp;E HD">
+    <title lang="pt">El Chapo</title>
+    <desc lang="pt">Ramón Avendaño contrata os serviços de um grupo de assassinos de aluguel para caçar Joaquín \.(n)</desc>
+    <credits>
+      <actor>Marco de la O</actor>
+      <actor>Humberto Busto</actor>
+      <actor>Alejandro Aguilar</actor>
+      <actor>Juan Carlos Olivas</actor>
+      <actor>Diego Vásquez</actor>
+      <actor>Joseph Fussey</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824103700 -0300" stop="20210824113400 -0300" channel="A&amp;E HD">
+    <title lang="pt">Reencarnação: O Espírito Em Meu Filho</title>
+    <desc lang="pt">Aos 4 anos, Andrew falava com gente invisível e dizia ter morrido em um bombardeio. Ele foi soldado da Marinha em sua vida anterior?(n)</desc>
+    <credits>
+      <actor>Liam Nicosia</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824113400 -0300" stop="20210824123000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Reencarnação: O Espírito Em Meu Filho</title>
+    <desc lang="pt">A mãe de Anissa pensava que as “lembranças” de sua pequena vivendo em Nova York eram simpáticas, até ela descrever um pai alcoólatra de seu passado.(n)</desc>
+    <credits>
+      <actor>Liam Nicosia</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824123000 -0300" stop="20210824132600 -0300" channel="A&amp;E HD">
+    <title lang="pt">Bull</title>
+    <desc lang="pt">Bull e Benny representam um casal sendo processado pelo pai biológico do bebê por custódia depois que uma clínica de fertilidade usou erroneamente a amostra do homem errado.(n)</desc>
+    <credits>
+      <director>Dennis Smith</director>
+      <actor>Michael Weatherly</actor>
+      <actor>Freddy Rodríguez</actor>
+      <actor>Geneva Carr</actor>
+      <actor>Annabelle Attanasio</actor>
+      <actor>Trieste Kelly Dunn</actor>
+      <actor>Todd Faulkner</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824132600 -0300" stop="20210824142200 -0300" channel="A&amp;E HD">
+    <title lang="pt">As Primeiras 48 Horas</title>
+    <desc lang="pt">Um pai desaparecido aparece morto, quando seus planos de despejar um inquilino acendem uma fúria assassina.(n)</desc>
+    <credits>
+      <director>Mira Chang</director>
+    </credits>
+    <category lang="pt">Policial</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>5</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824142200 -0300" stop="20210824151500 -0300" channel="A&amp;E HD">
+    <title lang="pt">El Chapo</title>
+    <desc lang="pt">Ramón Avendaño contrata os serviços de um grupo de assassinos de aluguel para caçar Joaquín \.(n)</desc>
+    <credits>
+      <actor>Marco de la O</actor>
+      <actor>Humberto Busto</actor>
+      <actor>Alejandro Aguilar</actor>
+      <actor>Juan Carlos Olivas</actor>
+      <actor>Diego Vásquez</actor>
+      <actor>Joseph Fussey</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824151500 -0300" stop="20210824161000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Palavra de Assassino</title>
+    <desc lang="pt">Em 2005, aos 23 anos, Levi King matou dois vizinhos inocentes e, ao liberar sua raiva interior, sentiu uma sensação de paz.(n)</desc>
+    <category lang="pt">Policial</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210824161000 -0300" stop="20210824170500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Palavra de Assassino</title>
+    <desc lang="pt">Duas semanas antes do Natal, Earl Forrest invadiu a casa de um amigo e atirou em duas pessoas a sangue frio. Ainda com sede de matar,Forrest atira em outras quatro pessoas.(n)</desc>
+    <category lang="pt">Policial</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210824170500 -0300" stop="20210824180100 -0300" channel="A&amp;E HD">
+    <title lang="pt">Bull</title>
+    <desc lang="pt">Bull é contratado por um médico acusado de subornar a faculdade, assim como a ex-mulher de Bull deve dar à luz; enquanto espera que Izzy entre em trabalho de parto.(n)</desc>
+    <credits>
+      <director>Bethany Rooney</director>
+      <actor>Michael Weatherly</actor>
+      <actor>Freddy Rodríguez</actor>
+      <actor>Geneva Carr</actor>
+      <actor>Annabelle Attanasio</actor>
+      <actor>Trieste Kelly Dunn</actor>
+      <actor>Todd Faulkner</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824180100 -0300" stop="20210824185700 -0300" channel="A&amp;E HD">
+    <title lang="pt">As Primeiras 48 Horas: Minutos Críticos</title>
+    <desc lang="pt">Os detetives de Tulsa realizam uma operação policial secreta para capturar o suspeito de ter executado um tiroteio em um hotel.(n)</desc>
+    <credits>
+      <director>Matt Frazier</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210824185700 -0300" stop="20210824190200 -0300" channel="A&amp;E HD">
+    <title lang="pt">Listas</title>
+    <desc lang="pt">O programa “Listas” recomenda filmes e/ou séries e programas com um tema em comum, podendo variar desde temas abrangentes como “5 Comédias dos Anos 80”, até assuntos inusitados.(n)</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210824190200 -0300" stop="20210824193400 -0300" channel="A&amp;E HD">
+    <title lang="pt">Retratos do Cárcere</title>
+    <desc lang="pt">As deficiências do sistema penitenciário brasileiro e seus reflexos na criminalidade organizada e na própria sociedade são temas da série documental RETRATOS DO CÁRCERE.(n)</desc>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210824193400 -0300" stop="20210824200600 -0300" channel="A&amp;E HD">
+    <title lang="pt">Retratos do Cárcere</title>
+    <desc lang="pt">As deficiências do sistema penitenciário brasileiro e seus reflexos na criminalidade organizada e na própria sociedade são temas da série documental RETRATOS DO CÁRCERE.(n)</desc>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210824200600 -0300" stop="20210824215300 -0300" channel="A&amp;E HD">
+    <title lang="pt">Antes de Dormir</title>
+    <desc lang="pt">Ao acordar todas as manhãs, Christine não lembra quem é ou onde está, e seu marido, Ben tem a tarefa de relembrá-la de sua vida. Conforme passa por uma terapia sigilosa, ela começa a lembrar do passado.(n)</desc>
+    <credits>
+      <director>Rowan Joffe</director>
+      <actor>Nicole Kidman</actor>
+      <actor>Colin Firth</actor>
+      <actor>Mark Strong</actor>
+    </credits>
+    <category lang="pt">Suspense</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210824215300 -0300" stop="20210824223800 -0300" channel="A&amp;E HD">
+    <title lang="pt">Exumação</title>
+    <sub-title lang="pt">A História Não Acabou</sub-title>
+    <desc lang="pt">Semanas após o parto, Meg Purk é encontrada morta em sua casa devido a um aparente suicídio. Meg realmente se matou e seu bebê ainda não nascido, ou a verdade é mais horrível do que qualquer um pode imaginar?(n)</desc>
+    <credits>
+      <actor>Natalie Moore</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210824223800 -0300" stop="20210825003100 -0300" channel="A&amp;E HD">
+    <title lang="pt">Codinome Cassius 7</title>
+    <desc lang="pt">Um agente aposentado da CIA volta à ativa para investigar o assassinato de um senador americano e se une a um agente do FBI para resolver o caso. Ambos suspeitam de um assassino soviético chamado Cassius.(n)</desc>
+    <credits>
+      <director>Michael Brandt</director>
+      <actor>Richard Gere</actor>
+      <actor>Topher Grace</actor>
+      <actor>Martin Sheen</actor>
+      <actor>Tamer Hassan</actor>
+      <actor>Stephen Moyer</actor>
+      <actor>Chris Marquette</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823000000 -0300" stop="20210823003000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Brasil Verde</title>
+    <desc lang="pt">Apresentado por Evaristo de Miranda, o programa recebe especialistas para debates sobre sustentabilidade.(n)</desc>
+    <category lang="pt">Debate</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823003000 -0300" stop="20210823010000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Energia Agro</title>
+    <desc lang="pt">Apresentado por Plinio Nastari, o programa tem como objetivo discutir números do setor energético na agricultura.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823010000 -0300" stop="20210823013000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Ação Sustentável</title>
+    <desc lang="pt">Apresentada por Samanta Pineda, a atração traz atualizações semanais da sustentabilidade inserida no agro.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823013000 -0300" stop="20210823020000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Conexão Leite e Derivados</title>
+    <desc lang="pt">Veja debates sobre assuntos ligados à cadeia produtiva do leite, como bioseguridade, rastreabilidade, nutrição animal, reprodução, melhoramentos genéticos e sistemas de produção a pasto.(n)</desc>
+    <category lang="pt">Debate</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823020000 -0300" stop="20210823023000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Boi Forte</title>
+    <desc lang="pt">Cobertura completa sobre a cadeia produtiva da carne bovina, apresentando reportagens e entrevistas, com especialistas e produtores.(n)</desc>
+    <category lang="pt">Entrevista</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823023000 -0300" stop="20210823030000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Avicultura &amp; Suinocultura</title>
+    <desc lang="pt">O programa relata os acontecimentos mais importantes do mercado de aves e de suínos, dando espaço para debates e identificação de tendências.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823030000 -0300" stop="20210823033000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Aquicultura</title>
+    <desc lang="pt">Programa semanal que combina assuntos técnicos e linguagem jornalística para discutir a aquicultura, com sínteses das principais novidades do setor, pesquisas e entrevistas.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823033000 -0300" stop="20210823040000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Tech &amp; Startups</title>
+    <desc lang="pt">Programa que apresenta as principais novidades do empreendedorismo rural e conta com entrevistas e modelos de empresas competitivas que aproximam campo e tecnologia, em busca de produtividade e sustentabilidade.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823040000 -0300" stop="20210823043000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Agro América</title>
+    <desc lang="pt">Programa Agro América.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823043000 -0300" stop="20210823050000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Campo Diplomático</title>
+    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823050000 -0300" stop="20210823053000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Agro+ Entrevista</title>
+    <desc lang="pt">Veja debates e esclarecimentos sobre o assunto mais comentado da semana, sempre com entrevistas.(n)</desc>
+    <category lang="pt">Entrevista</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823053000 -0300" stop="20210823060000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Que Fique Bem Claro!</title>
+    <desc lang="pt">Programa que enfoca o setor agrícola e suas necessidades atuais.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823060000 -0300" stop="20210823070000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Agro Notícias</title>
+    <sub-title lang="pt">1ª edição</sub-title>
+    <desc lang="pt">Telejornal com as últimas notícias do agronegócio, fundamental para começar o dia.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823070000 -0300" stop="20210823073000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">De Olho No Clima</title>
+    <desc lang="pt">Boletins meteorológicos especializados para cada tipo de safra.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823073000 -0300" stop="20210823080000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">República Agro</title>
+    <desc lang="pt">Apresentado por Roberto Rodrigues, ex-ministro da Agricultura, Pecuária e Abastecimento.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823080000 -0300" stop="20210823090000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Band News Tv</title>
+    <desc lang="pt">As principais noticias da hora com a equipe do canal especializado em jornalismo.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823090000 -0300" stop="20210823110000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Agro Manhã</title>
+    <desc lang="pt">Telejornal com atualização das notícias e cotações, entrevistas e debates.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823110000 -0300" stop="20210823113000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Mundo Soja</title>
+    <desc lang="pt">Espaço semanal dedicado ao alimento mais relevante na cadeia do agronegócio brasileiro. Entrevistas e debates com especialistas e stakeholders do setor.(n)</desc>
+    <category lang="pt">Debate</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823113000 -0300" stop="20210823120000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Novos Caminhos</title>
+    <desc lang="pt">Programa Novos Caminhos.(n)</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823120000 -0300" stop="20210823123000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Agro Em Revista</title>
+    <desc lang="pt">Revista Com Narrativa Do Cotidiano Rural Sem Abrir Mão Da Atualização.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823123000 -0300" stop="20210823130000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Agrimercado</title>
+    <desc lang="pt">O mercado no meio do dia com apresentação e análises de Silmar César Müller. Cotações, comentários, bolsas internacionais e nacionais e mercado físico. Entrevistas ao vivo com corretores e analistas de mercado.(n)</desc>
+    <category lang="pt">Entrevista</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823130000 -0300" stop="20210823140000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Agro Notícias</title>
+    <sub-title lang="pt">2ª edição</sub-title>
+    <desc lang="pt">Telejornal com as noticias atualizadas do agronegócio.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823140000 -0300" stop="20210823143000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Agro América</title>
+    <desc lang="pt">Programa Agro América.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823143000 -0300" stop="20210823150000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Conexão Leite e Derivados</title>
+    <desc lang="pt">Veja debates sobre assuntos ligados à cadeia produtiva do leite, como bioseguridade, rastreabilidade, nutrição animal, reprodução, melhoramentos genéticos e sistemas de produção a pasto.(n)</desc>
+    <category lang="pt">Debate</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823150000 -0300" stop="20210823170000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Agro Tarde</title>
+    <desc lang="pt">Telejornal com o panorama de mercados, produtos e tendências do agronegócio.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823170000 -0300" stop="20210823173000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Tech &amp; Startups</title>
+    <desc lang="pt">Programa que apresenta as principais novidades do empreendedorismo rural e conta com entrevistas e modelos de empresas competitivas que aproximam campo e tecnologia, em busca de produtividade e sustentabilidade.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823173000 -0300" stop="20210823180000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Campo Diplomático</title>
+    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823180000 -0300" stop="20210823183000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Questão de Ordem</title>
+    <desc lang="pt">Apresentado por Valteno Oliveira, o programa acompanha a pauta do agronegócio em Brasília, comissões no Congresso, projetos de interesse, medidas do Ministério da Agricultura e encaminhamentos dos poderes Executivo e Judiciário.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823183000 -0300" stop="20210823190000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Consultor Agro</title>
+    <desc lang="pt">Telejornal com informações sobre o mercado e cotações agro.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823190000 -0300" stop="20210823192000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">De Olho No Clima</title>
+    <desc lang="pt">Boletins meteorológicos especializados para cada tipo de safra.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823192000 -0300" stop="20210823203000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823203000 -0300" stop="20210823220000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Agronoite</title>
+    <desc lang="pt">Resumo do dia com fechamento de mercados e cotações, além de análise e opinião.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823220000 -0300" stop="20210823223000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">É Tempo de Amazônia</title>
+    <desc lang="pt">Acompanhe importantes debates sobre a Amazônia, tais como sustentabilidade da produção brasileira na região.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823223000 -0300" stop="20210823230000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Tech &amp; Startups</title>
+    <desc lang="pt">Programa que apresenta as principais novidades do empreendedorismo rural e conta com entrevistas e modelos de empresas competitivas que aproximam campo e tecnologia, em busca de produtividade e sustentabilidade.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823230000 -0300" stop="20210823233000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Novos Caminhos</title>
+    <desc lang="pt">Programa Novos Caminhos.(n)</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823233000 -0300" stop="20210824000000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Agro Notícias</title>
+    <sub-title lang="pt">3ª edição</sub-title>
+    <desc lang="pt">Notícias do Brasil e o mundo com ênfase em agronegócio.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210824000000 -0300" stop="20210824013000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Madrugada Bandnews</title>
+    <desc lang="pt">As notícias não param nem durante a madrugada e o BandNews também não. Jornais atualizados com as principais  informações a cada 30 minutos.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210824013000 -0300" stop="20210824020000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Questão de Ordem</title>
+    <desc lang="pt">Apresentado por Valteno Oliveira, o programa acompanha a pauta do agronegócio em Brasília, comissões no Congresso, projetos de interesse, medidas do Ministério da Agricultura e encaminhamentos dos poderes Executivo e Judiciário.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210824020000 -0300" stop="20210824053000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Madrugada Bandnews</title>
+    <desc lang="pt">As notícias não param nem durante a madrugada e o BandNews também não. Jornais atualizados com as principais  informações a cada 30 minutos.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210824053000 -0300" stop="20210824060000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Novos Caminhos</title>
+    <desc lang="pt">Programa Novos Caminhos.(n)</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210824060000 -0300" stop="20210824070000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Agro Notícias</title>
+    <sub-title lang="pt">1ª edição</sub-title>
+    <desc lang="pt">Telejornal com as últimas notícias do agronegócio, fundamental para começar o dia.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210824070000 -0300" stop="20210824073000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">De Olho No Clima</title>
+    <desc lang="pt">Boletins meteorológicos especializados para cada tipo de safra.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210824073000 -0300" stop="20210824080000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">É Tempo de Amazônia</title>
+    <desc lang="pt">Acompanhe importantes debates sobre a Amazônia, tais como sustentabilidade da produção brasileira na região.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210824080000 -0300" stop="20210824090000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Band News Tv</title>
+    <desc lang="pt">As principais noticias da hora com a equipe do canal especializado em jornalismo.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210824090000 -0300" stop="20210824110000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Agro Manhã</title>
+    <desc lang="pt">Telejornal com atualização das notícias e cotações, entrevistas e debates.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210824110000 -0300" stop="20210824113000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Milho Plus</title>
+    <desc lang="pt">Espaço focado na cadeia produtiva do milho, produto primordial no agronegócio brasileiro. O programa traz conteúdos técnicos e as últimas cotações do mercado.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210824113000 -0300" stop="20210824120000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Questão de Ordem</title>
+    <desc lang="pt">Apresentado por Valteno Oliveira, o programa acompanha a pauta do agronegócio em Brasília, comissões no Congresso, projetos de interesse, medidas do Ministério da Agricultura e encaminhamentos dos poderes Executivo e Judiciário.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210824120000 -0300" stop="20210824123000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Agro Em Revista</title>
+    <desc lang="pt">Revista Com Narrativa Do Cotidiano Rural Sem Abrir Mão Da Atualização.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210824123000 -0300" stop="20210824130000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Agrimercado</title>
+    <desc lang="pt">O mercado no meio do dia com apresentação e análises de Silmar César Müller. Cotações, comentários, bolsas internacionais e nacionais e mercado físico. Entrevistas ao vivo com corretores e analistas de mercado.(n)</desc>
+    <category lang="pt">Entrevista</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210824130000 -0300" stop="20210824140000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Agro Notícias</title>
+    <sub-title lang="pt">2ª edição</sub-title>
+    <desc lang="pt">Telejornal com as noticias atualizadas do agronegócio.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210824140000 -0300" stop="20210824143000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">HF Notícias</title>
+    <desc lang="pt">Atração para o segmento de hortifrúti, um dos mais significativos no panorama do agronegócio brasileiro. Do cinturão verde nas grandes metrópoles à produção artesanal no campo.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210824143000 -0300" stop="20210824150000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Citricultura</title>
+    <desc lang="pt">Programa jornalístico com notícias, informações, entrevistas e dados sobre o mercado da citricultura no Brasil e no mundo.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210824150000 -0300" stop="20210824170000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Agro Tarde</title>
+    <desc lang="pt">Telejornal com o panorama de mercados, produtos e tendências do agronegócio.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210824170000 -0300" stop="20210824173000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Tech &amp; Startups</title>
+    <desc lang="pt">Programa que apresenta as principais novidades do empreendedorismo rural e conta com entrevistas e modelos de empresas competitivas que aproximam campo e tecnologia, em busca de produtividade e sustentabilidade.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210824173000 -0300" stop="20210824180000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Seguro Rural</title>
+    <desc lang="pt">Programa que apresenta uma operação fundamental do agronegócio mundial: o seguro rural. Como a adesão desse instrumento ainda é baixa, o horizonte a ser explorado é quase que ilimitado.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210824180000 -0300" stop="20210824183000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Ação Sustentável</title>
+    <desc lang="pt">Apresentada por Samanta Pineda, a atração traz atualizações semanais da sustentabilidade inserida no agro.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210824183000 -0300" stop="20210824190000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Consultor Agro</title>
+    <desc lang="pt">Telejornal com informações sobre o mercado e cotações agro.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210824190000 -0300" stop="20210824192000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">De Olho No Clima</title>
+    <desc lang="pt">Boletins meteorológicos especializados para cada tipo de safra.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210824192000 -0300" stop="20210824203000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210824203000 -0300" stop="20210824220000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Agronoite</title>
+    <desc lang="pt">Resumo do dia com fechamento de mercados e cotações, além de análise e opinião.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210824220000 -0300" stop="20210824223000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Que Fique Bem Claro!</title>
+    <desc lang="pt">Programa que enfoca o setor agrícola e suas necessidades atuais.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210824223000 -0300" stop="20210824230000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Tech &amp; Startups</title>
+    <desc lang="pt">Programa que apresenta as principais novidades do empreendedorismo rural e conta com entrevistas e modelos de empresas competitivas que aproximam campo e tecnologia, em busca de produtividade e sustentabilidade.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210824230000 -0300" stop="20210824233000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Mundo Soja</title>
+    <desc lang="pt">Espaço semanal dedicado ao alimento mais relevante na cadeia do agronegócio brasileiro. Entrevistas e debates com especialistas e stakeholders do setor.(n)</desc>
+    <category lang="pt">Debate</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210824233000 -0300" stop="20210825000000 -0300" channel="Agro Mais HD ">
+    <title lang="pt">Agro Notícias</title>
+    <sub-title lang="pt">3ª edição</sub-title>
+    <desc lang="pt">Notícias do Brasil e o mundo com ênfase em agronegócio.(n)</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20210823001000 -0300" stop="20210823010500 -0300" channel="AMC HD">
+    <title lang="pt">Reprisal</title>
+    <desc lang="pt">Ethan teme ser descoberto, quando Burt chega em casa e declara guerra. Tendo perdido o controle, Joel faz o que é melhor para sua filha.(n)</desc>
+    <credits>
+      <director>Jonathan Van Tulleken</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210823010500 -0300" stop="20210823031500 -0300" channel="AMC HD">
+    <title lang="pt">Libertador</title>
+    <desc lang="pt">Século XIX. Um homem venezuelano enfrenta o poder do império espanhol para iniciar a independência da América Latina. A coragem de Simon Bolívar despertará a força de muitos povos.(n)</desc>
+    <credits>
+      <director>Alberto Arvelo</director>
+      <actor>María Valverde</actor>
+      <actor>Erich Wildpret</actor>
+      <actor>Édgar Ramírez</actor>
+      <actor>Juana Acosta</actor>
+      <actor>Imanol Arias</actor>
+      <actor>Alejandro Furth</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823031500 -0300" stop="20210823052500 -0300" channel="AMC HD">
+    <title lang="pt">Livrai-nos do Mal</title>
+    <desc lang="pt">O Oficial de polícia de Nova York, Ralph Sarchie, tem que investigar uma série de inexplicáveis crimes aterrorizantes. Quando conhece o sacerdote Mendoza, unirá forças para lutar contra as forças demoníacas que atormentam a cidade.(n)</desc>
+    <credits>
+      <director>Scott Derrickson</director>
+      <actor>Eric Bana</actor>
+      <actor>Édgar Ramírez</actor>
+      <actor>Olivia Munn</actor>
+      <actor>Sean Harris</actor>
+      <actor>Chris Coy</actor>
+      <actor>Dorian Missick</actor>
+    </credits>
+    <category lang="pt">Suspense</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823052500 -0300" stop="20210823070000 -0300" channel="AMC HD">
+    <title lang="pt">Voo 7500</title>
+    <desc lang="pt">O voo 7500 sai do Estados Unidos com destino ao Japão. Por ser um voo longo, cada passageiro tenta se distrair quando um homem morre inesperadamente.(n)</desc>
+    <credits>
+      <director>Takashi Shimizu</director>
+      <actor>Leslie Bibb</actor>
+      <actor>Amy Smart</actor>
+      <actor>Ryan Kwanten</actor>
+      <actor>Jamie Chung</actor>
+      <actor>Scout Taylor-Compton</actor>
+      <actor>Jerry Ferrara</actor>
+    </credits>
+    <category lang="pt">Terror</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823070000 -0300" stop="20210823073000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone 2020</title>
+    <desc lang="pt">Action Zone é uma série de TV de 25 minutos que mantém os espectadores completamente atualizados com os filmes mais recentes, efeitos especiais surpreendentes e muitas informações.(n)</desc>
+    <category lang="pt">Cinema</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210823073000 -0300" stop="20210823080000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone 2020</title>
+    <desc lang="pt">Action Zone é uma série de TV de 25 minutos que mantém os espectadores completamente atualizados com os filmes mais recentes, efeitos especiais surpreendentes e muitas informações.(n)</desc>
+    <category lang="pt">Cinema</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210823080000 -0300" stop="20210823090000 -0300" channel="AMC HD">
+    <title lang="pt">Fear The Walking Dead</title>
+    <desc lang="pt">A jornada de Morgan é interrompida por novos conhecidos.(n)</desc>
+    <credits>
+      <director>Tara Nicole Weyr</director>
+      <actor>Colman Domingo</actor>
+      <actor>Jenna Elfman</actor>
+      <actor>Garret Dillahunt</actor>
+      <actor>Lennie James</actor>
+    </credits>
+    <category lang="pt">Terror</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823090000 -0300" stop="20210823100000 -0300" channel="AMC HD">
+    <title lang="pt">Fear The Walking Dead</title>
+    <desc lang="pt">June ajuda Al quando a saúde dele piora. Enquanto isso, Morgan procura amigos que se perderam na tempestade.(n)</desc>
+    <credits>
+      <director>Colman Domingo</director>
+      <actor>Colman Domingo</actor>
+      <actor>Jenna Elfman</actor>
+      <actor>Garret Dillahunt</actor>
+      <actor>Lennie James</actor>
+    </credits>
+    <category lang="pt">Terror</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823100000 -0300" stop="20210823120000 -0300" channel="AMC HD">
+    <title lang="pt">Espelho, Espelho Meu</title>
+    <desc lang="pt">Uma nova e bem humorada versão da história de Branca de Neve. A invejosa Rainha Má, vivida por Julia Roberts, exila a princesa quando esta chama a atenção de um rico príncipe. Branca de Neve quer reaver o trono.(n)</desc>
+    <credits>
+      <director>Tarsem Singh</director>
+      <actor>Julia Roberts</actor>
+      <actor>Lily Collins</actor>
+      <actor>Armie Hammer. Nathan Lane</actor>
+      <actor>Jordan Prentice</actor>
+      <actor>Mark Povinelli</actor>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823120000 -0300" stop="20210823135500 -0300" channel="AMC HD">
+    <title lang="pt">O Reino Proibido</title>
+    <desc lang="pt">Um adolescente americano encontra em uma loja de penhores o lendário bastão do rei-macaco Son Goku, do folclore chinês. O jovem é, então, transportado para a China, onde lutará para libertar o aprisonado rei.(n)</desc>
+    <credits>
+      <director>Rob Minkoff</director>
+      <actor>Jet Li</actor>
+      <actor>Jackie Chan</actor>
+      <actor>Liu Yifei</actor>
+      <actor>Michael Angarano</actor>
+      <actor>Collin Chou</actor>
+      <actor>Juana Collignon</actor>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823135500 -0300" stop="20210823142500 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone 2020</title>
+    <desc lang="pt">Action Zone é uma série de TV de 25 minutos que mantém os espectadores completamente atualizados com os filmes mais recentes, efeitos especiais surpreendentes e muitas informações.(n)</desc>
+    <category lang="pt">Cinema</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210823142500 -0300" stop="20210823165000 -0300" channel="AMC HD">
+    <title lang="pt">Um Homem de Família</title>
+    <desc lang="pt">Jack Campbell há 13 anos desistiu de um grande amor para se tornar um empresário bem-sucedido. No entanto, a véspera de Natal traz uma surpresa: ele acorda em outra vida, casado e pai de dois filhos.(n)</desc>
+    <credits>
+      <director>Brett Ratner</director>
+      <actor>Nicolas Cage</actor>
+      <actor>Don Cheadle</actor>
+      <actor>Jeremy Piven</actor>
+      <actor>Saul Rubinek</actor>
+      <actor>Téa Leoni</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210823165000 -0300" stop="20210823182500 -0300" channel="AMC HD">
+    <title lang="pt">A Colônia</title>
+    <desc lang="pt">Depois dos estragos do aquecimento global, a Terra entra em uma nova Idade do gelo. Forçados a viver em colônias debaixo da terra, os sobreviventes lutam para preservar a raça humana e se proteger de uma ameaça ainda mais dura.(n)</desc>
+    <credits>
+      <director>Jeff Renfroe</director>
+      <actor>Lisa Berry</actor>
+      <actor>Kevin Zegers</actor>
+      <actor>Bill Paxton</actor>
+      <actor>Laurence Fishburne</actor>
+      <actor>Charlotte Sullivan</actor>
+      <actor>Romano Orzari</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823182500 -0300" stop="20210823201000 -0300" channel="AMC HD">
+    <title lang="pt">Mundo Cão</title>
+    <desc lang="pt">Santana é um funcionário do Centro de Controle de Zoonoses de São Paulo que trabalha recolhendo cães de rua. Certo dia ele captura um enorme cachorro raivoso cujo dono só aparece para recuperá-lo dias depois.(n)</desc>
+    <credits>
+      <director>Marcos Jorge</director>
+      <actor>Lázaro Ramos</actor>
+      <actor>Babu Santana</actor>
+      <actor>Adriana Esteves</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210823201000 -0300" stop="20210823220000 -0300" channel="AMC HD">
+    <title lang="pt">Salt</title>
+    <desc lang="pt">Antes de se tornar agente da CIA, Evelyn Salt prestou juramento de servir e honrar o seu país. Ela colocará o seu juramento em prática, quando um desertor russo a acusa de ser uma espiã russa.(n)</desc>
+    <credits>
+      <director>Phillip Noyce</director>
+      <actor>Angelina Jolie</actor>
+      <actor>Liev Schreiber</actor>
+      <actor>Chiwetel Ejiofor</actor>
+      <actor>August Diehl</actor>
+      <actor>Daniel Pearce</actor>
+      <actor>Vladislav Koulikov</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210823220000 -0300" stop="20210823230000 -0300" channel="AMC HD">
+    <title lang="pt">Reprisal</title>
+    <desc lang="pt">A abalada Meredith se reconecta com seu pai. Doris e o Monster Ring comparecem a um Bang-a-Rang. Queenie e as Pin-ups defendem sua família.(n)</desc>
+    <credits>
+      <director>Jonathan Van Tulleken</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210823230000 -0300" stop="20210824000000 -0300" channel="AMC HD">
+    <title lang="pt">Fear The Walking Dead</title>
+    <desc lang="pt">O apocalipse está presente, e os sobreviventes fazem o melhor para lutar contra os infectados e trabalhar juntos para reconstruir não apenas a sociedade, mas seus relacionamentos.(n)</desc>
+    <credits>
+      <director>Tawnia McKiernan</director>
+      <actor>James Lennie</actor>
+      <actor>Colman Domingo</actor>
+      <actor>Alycia Debnam-Carey</actor>
+    </credits>
+    <category lang="pt">Terror</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210824000000 -0300" stop="20210824020000 -0300" channel="AMC HD">
+    <title lang="pt">Código de Conduta</title>
+    <desc lang="pt">Clyde testemunha sua esposa e filha serem assassinadas. Um dos culpados ganha liberdade. Anos depois o assassino é morto e Clyde é preso mesmo sem provas contra ele. Seu único objetivo é denunciar o corrupto sistema judicial.(n)</desc>
+    <credits>
+      <director>F. Gary Gray</director>
+      <actor>Gerard Butler</actor>
+      <actor>Jamie Foxx</actor>
+      <actor>Leslie Bibb</actor>
+      <actor>Colm Meaney</actor>
+      <actor>Bruce McGill</actor>
+      <actor>Gregory Itzin</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824020000 -0300" stop="20210824030000 -0300" channel="AMC HD">
+    <title lang="pt">Reprisal</title>
+    <desc lang="pt">A abalada Meredith se reconecta com seu pai. Doris e o Monster Ring comparecem a um Bang-a-Rang. Queenie e as Pin-ups defendem sua família.(n)</desc>
+    <credits>
+      <director>Jonathan Van Tulleken</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210824030000 -0300" stop="20210824051500 -0300" channel="AMC HD">
+    <title lang="pt">Operação Valquíria</title>
+    <desc lang="pt">Ferido em combate, o general Claus von Stauffenberg retorna à África para unir-se à resistência alemã e ajudar a criar um plano que irá permitir a substituição de Hitler no poder assim que ele for assassinado.(n)</desc>
+    <credits>
+      <director>Bryan Singer</director>
+      <actor>Tom Cruise</actor>
+      <actor>Bill Nighy</actor>
+      <actor>Kenneth Branagh</actor>
+      <actor>Tom Wilkinson</actor>
+      <actor>Carice van Houten</actor>
+      <actor>Thomas Kretschmann</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824051500 -0300" stop="20210824070000 -0300" channel="AMC HD">
+    <title lang="pt">A Corrida da Superação</title>
+    <desc lang="pt">Drew Jacobs é um adolescente marginalizado que procura desesperadamente por uma saída. Seu destino acaba se cruzando com o do velho e recluso treinador de atletismo Coleman.(n)</desc>
+    <credits>
+      <director>Charles-Olivier Michaud</director>
+      <actor>Kelly Blatz</actor>
+      <actor>Richard Jenkins</actor>
+      <actor>Kim Basinger</actor>
+      <actor>Cam Gigandet</actor>
+      <actor>Analeigh Tipton</actor>
+      <actor>Rhys Coiro</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824070000 -0300" stop="20210824073000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone 2020</title>
+    <desc lang="pt">Action Zone é uma série de TV de 25 minutos que mantém os espectadores completamente atualizados com os filmes mais recentes, efeitos especiais surpreendentes e muitas informações.(n)</desc>
+    <category lang="pt">Cinema</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210824073000 -0300" stop="20210824080000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone 2020</title>
+    <desc lang="pt">Action Zone é uma série de TV de 25 minutos que mantém os espectadores completamente atualizados com os filmes mais recentes, efeitos especiais surpreendentes e muitas informações.(n)</desc>
+    <category lang="pt">Cinema</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210824080000 -0300" stop="20210824090000 -0300" channel="AMC HD">
+    <title lang="pt">Fear The Walking Dead</title>
+    <desc lang="pt">June ajuda Al quando a saúde dele piora. Enquanto isso, Morgan procura amigos que se perderam na tempestade.(n)</desc>
+    <credits>
+      <director>Colman Domingo</director>
+      <actor>Colman Domingo</actor>
+      <actor>Jenna Elfman</actor>
+      <actor>Garret Dillahunt</actor>
+      <actor>Lennie James</actor>
+    </credits>
+    <category lang="pt">Terror</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824090000 -0300" stop="20210824100000 -0300" channel="AMC HD">
+    <title lang="pt">Fear The Walking Dead</title>
+    <desc lang="pt">Strand e Dorie são abandonados. Luciana ajuda um homem necessitado. Os esforços do grupo para ajudar um estranho coloca todos em perigo.(n)</desc>
+    <credits>
+      <director>Sharat Raju</director>
+      <actor>Lennie James</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Maggie Grace</actor>
+    </credits>
+    <category lang="pt">Terror</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824100000 -0300" stop="20210824120000 -0300" channel="AMC HD">
+    <title lang="pt">Walt antes de Mickey</title>
+    <desc lang="pt">Baseado no livro \.(n)</desc>
+    <credits>
+      <director>Khoa Le</director>
+      <actor>Thomas Ian Nicholas</actor>
+      <actor>Jon Heder</actor>
+      <actor>Armando Gutierrez</actor>
+    </credits>
+    <category lang="pt">Biografia</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210824120000 -0300" stop="20210824140500 -0300" channel="AMC HD">
+    <title lang="pt">Kickboxer: a Retaliação</title>
+    <desc lang="pt">Depois de vencer uma luta em Las Vegas, Kurt Sloane é sedado e levado para uma prisão em Bangkok, onde é forçado a lutar contra um gigante de 6'10 pela liberdade e $1milhão.(n)</desc>
+    <credits>
+      <director>Dimitri Logothetis</director>
+      <actor>Alain Moussi</actor>
+      <actor>Sara Malakul Lane</actor>
+      <actor>Maxime Savaria</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210824140500 -0300" stop="20210824161000 -0300" channel="AMC HD">
+    <title lang="pt">O Poder e a Lei</title>
+    <desc lang="pt">Michael é um advogado que adora ganhar dinheiro fácil. Quando ele é contratado para defender um jovem acusado de tentativa de estupro e agressão, pensa ser o caso de sua vida.(n)</desc>
+    <credits>
+      <director>Brad Furman</director>
+      <actor>Matthew McConaughey</actor>
+      <actor>Ryan Phillippe</actor>
+      <actor>Marisa Tomei</actor>
+      <actor>William H. Macy</actor>
+      <actor>Josh Lucas</actor>
+      <actor>John Leguizamo</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824161000 -0300" stop="20210824180500 -0300" channel="AMC HD">
+    <title lang="pt">Pompeia</title>
+    <desc lang="pt">O escravo Milo luta pela sua própria sobrevivência em uma arena de gladiadores. Ele chama a atenção de Cassia, a bela filha de um rico comerciante. Milo precisa salvar a si mesmo e a sua amada.(n)</desc>
+    <credits>
+      <director>Paul W. S. Anderson</director>
+      <actor>Kiefer Sutherland</actor>
+      <actor>Emily Browning</actor>
+      <actor>Kit Harington</actor>
+      <actor>Carrie-Anne Moss</actor>
+      <actor>Adewale Akinnuoye-Agbaje</actor>
+      <actor>Jessica Lucas</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824180500 -0300" stop="20210824195500 -0300" channel="AMC HD">
+    <title lang="pt">O Tio</title>
+    <desc lang="pt">Com a chegada de um tio, Barbara, uma jovem independente, vê sua vida mergulhar em um tormento velado.(n)</desc>
+    <credits>
+      <director>André Borrelli</director>
+      <actor>Gabriela Hamati</actor>
+      <actor>Chico Neto</actor>
+      <actor>Marianna Troccoli</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210824195500 -0300" stop="20210824220000 -0300" channel="AMC HD">
+    <title lang="pt">Operação Valquíria</title>
+    <desc lang="pt">Ferido em combate, o general Claus von Stauffenberg retorna à África para unir-se à resistência alemã e ajudar a criar um plano que irá permitir a substituição de Hitler no poder assim que ele for assassinado.(n)</desc>
+    <credits>
+      <director>Bryan Singer</director>
+      <actor>Tom Cruise</actor>
+      <actor>Bill Nighy</actor>
+      <actor>Kenneth Branagh</actor>
+      <actor>Tom Wilkinson</actor>
+      <actor>Carice van Houten</actor>
+      <actor>Thomas Kretschmann</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210824220000 -0300" stop="20210825000500 -0300" channel="AMC HD">
+    <title lang="pt">Caçador de Recompensas</title>
+    <desc lang="pt">Milo, um caçador de recompensas que está na pior, consegue o trabalho dos seus sonhos quando é designado a capturar sua fugitiva ex-mulher, a repórter Nicole.(n)</desc>
+    <credits>
+      <director>Andy Tennant</director>
+      <actor>Gerard Butler</actor>
+      <actor>Jennifer Aniston</actor>
+      <actor>Gio Perez</actor>
+      <actor>Joel Garland</actor>
+      <actor>Jason Kolotouros</actor>
+      <actor>Matt Malloy</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+</tv>
