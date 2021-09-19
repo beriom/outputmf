@@ -81967,4 +81967,220 @@
       <value>5</value>
     </rating>
   </programme>
+  <programme start="20210919023000 -0300" stop="20210919030000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter Americano</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20210919030000 -0300" stop="20210919040000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter Americano</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20210919040000 -0300" stop="20210919070000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Tênis: US Open: Terceira Rodada</title>
+    <desc lang="pt">Quarto e último torneio Grand Slam da temporada, o US Open é disputado em quadras rápidas. Veja os principais tenistas da ATP e da WTA em busca do título no complexo de Flushing Meadows, em Nova York.</desc>
+    <category lang="pt">Esporte (Tênis)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20210919070000 -0300" stop="20210919080000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20210919080000 -0300" stop="20210919103000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Futebol Americano Universitário</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol Americano)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20210919103000 -0300" stop="20210919122000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Campeonato Argentino</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20210919122000 -0300" stop="20210919125000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">La Liga World</title>
+    <desc lang="pt">Confira, em primeira mão, tudo o que antecede a próxima rodada da Liga espanhola. Análises táticas, curiosidades, perfis e reportagens exclusivas.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20210919125000 -0300" stop="20210919135000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Bola da Vez: Bruno Fratus</title>
+    <desc lang="pt">Grandes nomes do esporte em uma conversa franca, direta e, muitas vezes, reveladora. Passado, presente e os projetos para o futuro. Todo sábado, após o Sportscenter, na ESPN Brasil, sob o comando de André Plihal.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20210919135000 -0300" stop="20210919155000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Ciclismo: Vuelta a España: Etapa 21: Padrón - Santiago De Compostela</title>
+    <desc lang="pt">Realizada desde 1935, a Vuelta a España é um dos três principais eventos de ciclismo de estrada do mundo (ao lado do Tour de France e do Giro d'Italia). Confira todas as etapas nos canais ESPN.</desc>
+    <category lang="pt">Esporte (Ciclismo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20210919155000 -0300" stop="20210919190000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Golfe: Tour Championship: Rodada Final</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Golfe)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20210919190000 -0300" stop="20210919193000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Mundo Premier League</title>
+    <desc lang="pt">Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20210919193000 -0300" stop="20210919200000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Ciclismo: Destaques Da Vuelta A España</title>
+    <desc lang="pt">Todas as principais provas do ciclismo de estrada estão nos canais ESPN. Confira as emocionantes corridas, repletas de estratégia e superação, ao longo de magníficas paisagens.</desc>
+    <category lang="pt">Esporte (Ciclismo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20210919200000 -0300" stop="20210919230000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">MLB</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Beisebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20210919230000 -0300" stop="20210920000000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter Americano</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20210920000000 -0300" stop="20210920013000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter Americano</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20210920013000 -0300" stop="20210920033000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Campeonato Argentino</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20210920033000 -0300" stop="20210920063000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Tênis: US Open: Oitavas-de-Final</title>
+    <desc lang="pt">Quarto e último torneio Grand Slam da temporada, o US Open é disputado em quadras rápidas. Veja os principais tenistas da ATP e da WTA em busca do título no complexo de Flushing Meadows, em Nova York.</desc>
+    <category lang="pt">Esporte (Tênis)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20210920063000 -0300" stop="20210920073000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20210920073000 -0300" stop="20210920093000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Campeonato Argentino</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20210920093000 -0300" stop="20210920113000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20210920113000 -0300" stop="20210920123000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Resenha de Casa: Lucas Moura, Atacante Do Tottenham</title>
+    <desc lang="pt">Comandado por André Plihal, o programa recebe semanalmente jogadores e ex-jogadores de futebol para a resenha. Papo solto, cheio de histórias de um jeito bem moleque. Eleito quatro vezes como o Melhor Programa Esportivo da Televisão Brasileira pelos próprios jogadores do Campeonato Brasileiro.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20210920123000 -0300" stop="20210920130000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Mundo Premier League</title>
+    <desc lang="pt">Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20210920130000 -0300" stop="20210920140000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20210920140000 -0300" stop="20210920160000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">ESPN Knockout: Kyrone Davis x Martez McGregor</title>
+    <desc lang="pt">O melhor do boxe internacional nos canais ESPN.</desc>
+    <category lang="pt">Esporte (Luta)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20210920160000 -0300" stop="20210920180000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">ESPN Knockout: Jesus Alejandro Ramos x Brian Mendoza</title>
+    <desc lang="pt">O melhor do boxe internacional nos canais ESPN.</desc>
+    <category lang="pt">Esporte (Luta)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20210920180000 -0300" stop="20210920200000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Eliminatórias da Concacaf</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20210920200000 -0300" stop="20210920210000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">ESPN League</title>
+    <desc lang="pt">Um mosaico do que acontece no esporte em todo o mundo. Os fatos mais importantes, gols, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada, opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="pt">Esporte (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
 </tv>
