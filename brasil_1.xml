@@ -892,4 +892,2723 @@
     <desc lang="pt">Escrita por Aguinaldo Silva, com direção artística de Rogerio Gomes, 'Império' ganhou o Emmy Internacional de Melhor Novela de 2014.</desc>
     <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/11099.jpg" />
   </programme>
+  <programme start="20211019000000 -0300" stop="20211019060000 -0300" channel="CONMEBOL TV 3 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019060000 -0300" stop="20211019120000 -0300" channel="CONMEBOL TV 3 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019120000 -0300" stop="20211019180000 -0300" channel="CONMEBOL TV 3 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019180000 -0300" stop="20211020000000 -0300" channel="CONMEBOL TV 3 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020000000 -0300" stop="20211020060000 -0300" channel="CONMEBOL TV 3 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020060000 -0300" stop="20211020120000 -0300" channel="CONMEBOL TV 3 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020120000 -0300" stop="20211020180000 -0300" channel="CONMEBOL TV 3 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020180000 -0300" stop="20211021000000 -0300" channel="CONMEBOL TV 3 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019000000 -0300" stop="20211019010000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Internacional</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019010000 -0300" stop="20211019020000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Corinthians</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019020000 -0300" stop="20211019030000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Juventude</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019030000 -0300" stop="20211019040000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Ceará x Bragantino</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019040000 -0300" stop="20211019050000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Atlético GO x Atlético MG</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019050000 -0300" stop="20211019060000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Flamengo x Cuiabá</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019060000 -0300" stop="20211019070000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Sport x Santos</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019070000 -0300" stop="20211019080000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vila Nova x CRB AL</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019080000 -0300" stop="20211019090000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Chapecoense x Fortaleza</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019090000 -0300" stop="20211019100000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">América MG x Bahia</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019100000 -0300" stop="20211019110000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Internacional</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019110000 -0300" stop="20211019120000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Corinthians</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019120000 -0300" stop="20211019130000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Juventude</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019130000 -0300" stop="20211019140000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Ceará x Bragantino</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019140000 -0300" stop="20211019150000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Atlético GO x Atlético MG</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019150000 -0300" stop="20211019160000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Flamengo x Cuiabá</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019160000 -0300" stop="20211019170000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Sport x Santos</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019170000 -0300" stop="20211019180000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vila Nova x CRB AL</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019180000 -0300" stop="20211019184500 -0300" channel="Premiere Clubes">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais.</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019184500 -0300" stop="20211019210000 -0300" channel="Premiere Clubes">
+    <title lang="pt">Londrina x Goiás</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019210000 -0300" stop="20211019211500 -0300" channel="Premiere Clubes">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais.</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019211500 -0300" stop="20211019233000 -0300" channel="Premiere Clubes">
+    <title lang="pt">Coritiba x Sampaio Corrêa</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019233000 -0300" stop="20211020000000 -0300" channel="Premiere Clubes">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais.</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020000000 -0300" stop="20211020010000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Flamengo x Cuiabá</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020010000 -0300" stop="20211020020000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Sport x Santos</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020020000 -0300" stop="20211020030000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vila Nova x CRB AL</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020030000 -0300" stop="20211020040000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Coritiba x Sampaio Corrêa</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020040000 -0300" stop="20211020050000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Londrina x Goiás</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020050000 -0300" stop="20211020060000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Chapecoense x Fortaleza</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020060000 -0300" stop="20211020070000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">América MG x Bahia</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020070000 -0300" stop="20211020080000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Internacional</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020080000 -0300" stop="20211020090000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Corinthians</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020090000 -0300" stop="20211020100000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Juventude</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020100000 -0300" stop="20211020110000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Ceará x Bragantino</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020110000 -0300" stop="20211020120000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Atlético GO x Atlético MG</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020120000 -0300" stop="20211020130000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT de Eventos</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020130000 -0300" stop="20211020140000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT de Eventos</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020140000 -0300" stop="20211020150000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT de Eventos</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020150000 -0300" stop="20211020160000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT de Eventos</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020160000 -0300" stop="20211020170000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT de Eventos</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020170000 -0300" stop="20211020184500 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT de Eventos</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020184500 -0300" stop="20211020211500 -0300" channel="Premiere Clubes">
+    <title lang="pt">Ceará x Palmeiras</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020211500 -0300" stop="20211021000000 -0300" channel="Premiere Clubes">
+    <title lang="pt">Athletico PR x Flamengo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Copa do Brasil 2021.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019000000 -0300" stop="20211019060000 -0300" channel="Premiere 2">
+    <title lang="pt">Venda PREMIERE 2</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019060000 -0300" stop="20211019120000 -0300" channel="Premiere 2">
+    <title lang="pt">Venda PREMIERE 2</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019120000 -0300" stop="20211019180000 -0300" channel="Premiere 2">
+    <title lang="pt">Venda PREMIERE 2</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019180000 -0300" stop="20211020000000 -0300" channel="Premiere 2">
+    <title lang="pt">Venda PREMIERE 2</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020000000 -0300" stop="20211020060000 -0300" channel="Premiere 2">
+    <title lang="pt">Venda PREMIERE 2</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020060000 -0300" stop="20211020120000 -0300" channel="Premiere 2">
+    <title lang="pt">Venda PREMIERE 2</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020120000 -0300" stop="20211020180000 -0300" channel="Premiere 2">
+    <title lang="pt">Venda PREMIERE 2</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020180000 -0300" stop="20211021000000 -0300" channel="Premiere 2">
+    <title lang="pt">Venda PREMIERE 2</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019000000 -0300" stop="20211019060000 -0300" channel="Premiere 3">
+    <title lang="pt">Venda PREMIERE 8</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019060000 -0300" stop="20211019120000 -0300" channel="Premiere 3">
+    <title lang="pt">Venda PREMIERE 8</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019120000 -0300" stop="20211019180000 -0300" channel="Premiere 3">
+    <title lang="pt">Venda PREMIERE 8</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019180000 -0300" stop="20211020000000 -0300" channel="Premiere 3">
+    <title lang="pt">Venda PREMIERE 8</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020000000 -0300" stop="20211020060000 -0300" channel="Premiere 3">
+    <title lang="pt">Venda PREMIERE 8</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020060000 -0300" stop="20211020120000 -0300" channel="Premiere 3">
+    <title lang="pt">Venda PREMIERE 8</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020120000 -0300" stop="20211020180000 -0300" channel="Premiere 3">
+    <title lang="pt">Venda PREMIERE 8</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020180000 -0300" stop="20211021000000 -0300" channel="Premiere 3">
+    <title lang="pt">Venda PREMIERE 8</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019000000 -0300" stop="20211019060000 -0300" channel="Premiere 4">
+    <title lang="pt">Venda PREMIERE 4</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019060000 -0300" stop="20211019120000 -0300" channel="Premiere 4">
+    <title lang="pt">Venda PREMIERE 4</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019120000 -0300" stop="20211019180000 -0300" channel="Premiere 4">
+    <title lang="pt">Venda PREMIERE 4</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019180000 -0300" stop="20211020000000 -0300" channel="Premiere 4">
+    <title lang="pt">Venda PREMIERE 4</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020000000 -0300" stop="20211020060000 -0300" channel="Premiere 4">
+    <title lang="pt">Venda PREMIERE 4</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020060000 -0300" stop="20211020120000 -0300" channel="Premiere 4">
+    <title lang="pt">Venda PREMIERE 4</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020120000 -0300" stop="20211020180000 -0300" channel="Premiere 4">
+    <title lang="pt">Venda PREMIERE 4</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020180000 -0300" stop="20211021000000 -0300" channel="Premiere 4">
+    <title lang="pt">Venda PREMIERE 4</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019000000 -0300" stop="20211019060000 -0300" channel="Premiere 5">
+    <title lang="pt">Venda PREMIERE 5</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019060000 -0300" stop="20211019120000 -0300" channel="Premiere 5">
+    <title lang="pt">Venda PREMIERE 5</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019120000 -0300" stop="20211019180000 -0300" channel="Premiere 5">
+    <title lang="pt">Venda PREMIERE 5</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019180000 -0300" stop="20211020000000 -0300" channel="Premiere 5">
+    <title lang="pt">Venda PREMIERE 5</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020000000 -0300" stop="20211020060000 -0300" channel="Premiere 5">
+    <title lang="pt">Venda PREMIERE 5</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020060000 -0300" stop="20211020120000 -0300" channel="Premiere 5">
+    <title lang="pt">Venda PREMIERE 5</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020120000 -0300" stop="20211020180000 -0300" channel="Premiere 5">
+    <title lang="pt">Venda PREMIERE 5</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020180000 -0300" stop="20211021000000 -0300" channel="Premiere 5">
+    <title lang="pt">Venda PREMIERE 5</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019000000 -0300" stop="20211019060000 -0300" channel="Premiere 6">
+    <title lang="pt">Venda PREMIERE 6</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019060000 -0300" stop="20211019120000 -0300" channel="Premiere 6">
+    <title lang="pt">Venda PREMIERE 6</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019120000 -0300" stop="20211019180000 -0300" channel="Premiere 6">
+    <title lang="pt">Venda PREMIERE 6</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019180000 -0300" stop="20211020000000 -0300" channel="Premiere 6">
+    <title lang="pt">Venda PREMIERE 6</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020000000 -0300" stop="20211020060000 -0300" channel="Premiere 6">
+    <title lang="pt">Venda PREMIERE 6</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020060000 -0300" stop="20211020120000 -0300" channel="Premiere 6">
+    <title lang="pt">Venda PREMIERE 6</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020120000 -0300" stop="20211020180000 -0300" channel="Premiere 6">
+    <title lang="pt">Venda PREMIERE 6</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020180000 -0300" stop="20211021000000 -0300" channel="Premiere 6">
+    <title lang="pt">Venda PREMIERE 6</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019000000 -0300" stop="20211019060000 -0300" channel="Premiere 7">
+    <title lang="pt">Venda PREMIERE 7</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019060000 -0300" stop="20211019120000 -0300" channel="Premiere 7">
+    <title lang="pt">Venda PREMIERE 7</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019120000 -0300" stop="20211019180000 -0300" channel="Premiere 7">
+    <title lang="pt">Venda PREMIERE 7</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019180000 -0300" stop="20211020000000 -0300" channel="Premiere 7">
+    <title lang="pt">Venda PREMIERE 7</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020000000 -0300" stop="20211020060000 -0300" channel="Premiere 7">
+    <title lang="pt">Venda PREMIERE 7</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020060000 -0300" stop="20211020120000 -0300" channel="Premiere 7">
+    <title lang="pt">Venda PREMIERE 7</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020120000 -0300" stop="20211020180000 -0300" channel="Premiere 7">
+    <title lang="pt">Venda PREMIERE 7</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020180000 -0300" stop="20211021000000 -0300" channel="Premiere 7">
+    <title lang="pt">Venda PREMIERE 7</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019000000 -0300" stop="20211019060000 -0300" channel="CONMEBOL TV 1 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019060000 -0300" stop="20211019120000 -0300" channel="CONMEBOL TV 1 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019120000 -0300" stop="20211019180000 -0300" channel="CONMEBOL TV 1 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019180000 -0300" stop="20211020000000 -0300" channel="CONMEBOL TV 1 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020000000 -0300" stop="20211020060000 -0300" channel="CONMEBOL TV 1 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020060000 -0300" stop="20211020120000 -0300" channel="CONMEBOL TV 1 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020120000 -0300" stop="20211020180000 -0300" channel="CONMEBOL TV 1 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020180000 -0300" stop="20211021000000 -0300" channel="CONMEBOL TV 1 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019000000 -0300" stop="20211019060000 -0300" channel="CONMEBOL TV 2 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019060000 -0300" stop="20211019120000 -0300" channel="CONMEBOL TV 2 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019120000 -0300" stop="20211019180000 -0300" channel="CONMEBOL TV 2 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019180000 -0300" stop="20211020000000 -0300" channel="CONMEBOL TV 2 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020000000 -0300" stop="20211020060000 -0300" channel="CONMEBOL TV 2 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020060000 -0300" stop="20211020120000 -0300" channel="CONMEBOL TV 2 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020120000 -0300" stop="20211020180000 -0300" channel="CONMEBOL TV 2 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020180000 -0300" stop="20211021000000 -0300" channel="CONMEBOL TV 2 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019000000 -0300" stop="20211019060000 -0300" channel="CONMEBOL TV 4 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019060000 -0300" stop="20211019120000 -0300" channel="CONMEBOL TV 4 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019120000 -0300" stop="20211019180000 -0300" channel="CONMEBOL TV 4 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019180000 -0300" stop="20211020000000 -0300" channel="CONMEBOL TV 4 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020000000 -0300" stop="20211020060000 -0300" channel="CONMEBOL TV 4 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020060000 -0300" stop="20211020120000 -0300" channel="CONMEBOL TV 4 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020120000 -0300" stop="20211020180000 -0300" channel="CONMEBOL TV 4 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020180000 -0300" stop="20211021000000 -0300" channel="CONMEBOL TV 4 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019000000 -0300" stop="20211019010000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Faixa Combate: Ufc</title>
+    <sub-title lang="pt">Bate-estaca x Namajunas</sub-title>
+    <desc lang="pt">\.</desc>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019010000 -0300" stop="20211019020000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Operário x Londrina</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019020000 -0300" stop="20211019030000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Brusque x Remo</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019030000 -0300" stop="20211019040000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Goiás x CSA AL</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019040000 -0300" stop="20211019050000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Sampaio Corrêa x Vitória</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019050000 -0300" stop="20211019060000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Ponte Preta x Náutico</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019060000 -0300" stop="20211019070000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vasco x Coritiba</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019070000 -0300" stop="20211019090000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Campeonato Paulista de Vôlei Masculino: Campinas x Guarulhos</title>
+    <desc lang="pt">A Algumas das melhores equipes do voleibol nacional estão na disputa do tradicional Campeonato Paulista de Vôlei Masculino e você confere todas as emoções da competição aqui no Sportv.</desc>
+    <category lang="pt">Vôlei</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019090000 -0300" stop="20211019110000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Supercopa de Vôlei Feminino: Minas x Praia Clube</title>
+    <desc lang="pt">Supercopa De Vôlei Feminino.</desc>
+    <category lang="pt">Vôlei Feminino</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019110000 -0300" stop="20211019120000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Atlético GO x Atlético MG</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019120000 -0300" stop="20211019130000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vasco x Coritiba</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019130000 -0300" stop="20211019140000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Campeonato Paulista de Futebol Feminino: Santos x São Paulo</title>
+    <desc lang="pt">Campeonato Paulista De Futebol Feminino - Santos X São Paulo - Semifinal - Jogo Ida.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019140000 -0300" stop="20211019150000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vila Nova x CRB AL</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019150000 -0300" stop="20211019160000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Flamengo x Cuiabá</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019160000 -0300" stop="20211019165000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais.</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019165000 -0300" stop="20211019172000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Faixa Combate</title>
+    <desc lang="pt">Assista agora um programa especial com os maiores lutadores do mundo.</desc>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019172000 -0300" stop="20211019180000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Faixa Combate</title>
+    <desc lang="pt">Assista agora um programa especial com os maiores lutadores do mundo.</desc>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019180000 -0300" stop="20211019190500 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">UFC 251</title>
+    <sub-title lang="pt">Usman x Masvidal</sub-title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.</desc>
+    <credits>
+      <director>Chris Kartzmark</director>
+    </credits>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019190500 -0300" stop="20211019200000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Faixa Combate</title>
+    <desc lang="pt">Assista agora um programa especial com os maiores lutadores do mundo.</desc>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019200000 -0300" stop="20211019211000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Faixa Combate</title>
+    <desc lang="pt">Assista agora um programa especial com os maiores lutadores do mundo.</desc>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019211000 -0300" stop="20211019220000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Faixa Combate</title>
+    <desc lang="pt">Assista agora um programa especial com os maiores lutadores do mundo.</desc>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019220000 -0300" stop="20211019223000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Faixa Combate: Ufc</title>
+    <sub-title lang="pt">Cerrone x Medeiros</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019223000 -0300" stop="20211019230000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Faixa Combate</title>
+    <desc lang="pt">Assista agora um programa especial com os maiores lutadores do mundo.</desc>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019230000 -0300" stop="20211020000000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">PBR</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Rodeio</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020000000 -0300" stop="20211020010000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Corinthians</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020010000 -0300" stop="20211020020000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Coritiba x Sampaio Corrêa</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020020000 -0300" stop="20211020030000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vila Nova x CRB AL</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020030000 -0300" stop="20211020053000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Bem, Amigos!</title>
+    <desc lang="pt">Galvão Bueno comanda um dos mais tradicionais programas do SporTV. Toda segunda ao vivo à 21hs, ele recebe jogadores, técnicos e personalidades do esporte para um bate-papo animado entre amigos.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020053000 -0300" stop="20211020063000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Copa do Brasil de Futebol Sub-17: São Paulo x Atlético MG</title>
+    <desc lang="pt">\.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020063000 -0300" stop="20211020073000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">PBR</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Rodeio</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020073000 -0300" stop="20211020093000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Campeonato Paulista de Vôlei Masculino: Campinas x Guarulhos</title>
+    <desc lang="pt">A Algumas das melhores equipes do voleibol nacional estão na disputa do tradicional Campeonato Paulista de Vôlei Masculino e você confere todas as emoções da competição aqui no Sportv.</desc>
+    <category lang="pt">Vôlei</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020093000 -0300" stop="20211020113000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">NBA: Milwaukee Bucks x Brooklyn Nets</title>
+    <desc lang="pt">Somos todos fãs do melhor basquete do planeta! Assista agora a mais um jogo da NBA. Todas as emoções do basquete com as maiores estrelas do Mundo. SporTV: Somos Todos Campeões!</desc>
+    <category lang="pt">Basquete</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020113000 -0300" stop="20211020133000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">NBA: L.A. Lakers x Golden State Warriors</title>
+    <desc lang="pt">Somos todos fãs do melhor basquete do planeta! Assista agora a mais um jogo da NBA. Todas as emoções do basquete com as maiores estrelas do Mundo. SporTV: Somos Todos Campeões!</desc>
+    <category lang="pt">Basquete</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020133000 -0300" stop="20211020153000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Campeonato Paulista de Vôlei Feminino: Barueri x Osasco</title>
+    <desc lang="pt">A Algumas das melhores equipes do voleibol nacional estão na disputa do tradicional Campeonato Paulista de Vôlei Masculino e você confere todas as emoções da competição aqui no Sportv.</desc>
+    <category lang="pt">Vôlei Feminino</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020153000 -0300" stop="20211020173000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Campeonato Paulista de Vôlei Masculino: Campinas x Guarulhos</title>
+    <desc lang="pt">A Algumas das melhores equipes do voleibol nacional estão na disputa do tradicional Campeonato Paulista de Vôlei Masculino e você confere todas as emoções da competição aqui no Sportv.</desc>
+    <category lang="pt">Vôlei</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020173000 -0300" stop="20211020181500 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Faixa Combate: UFC</title>
+    <sub-title lang="pt">Hunt x Oleinik</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020181500 -0300" stop="20211020193500 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">UFC Fight Night Combate: Eye x Calvillo</title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.</desc>
+    <credits>
+      <director>Chris Kartzmark</director>
+    </credits>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020193500 -0300" stop="20211020203000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">UFC 246: Mcgregor x Cerrone</title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.</desc>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020203000 -0300" stop="20211020213000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Faixa Combate</title>
+    <desc lang="pt">Assista agora um programa especial com os maiores lutadores do mundo.</desc>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020213000 -0300" stop="20211020220000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Faixa Combate: Ufc</title>
+    <sub-title lang="pt">Cerrone x Medeiros</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020220000 -0300" stop="20211020224500 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Faixa Combate: UFC</title>
+    <sub-title lang="pt">Hunt x Oleinik</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020224500 -0300" stop="20211021000000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">UFC Fight Night Combate: Eye x Calvillo</title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.</desc>
+    <credits>
+      <director>Chris Kartzmark</director>
+    </credits>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019013000 -0300" stop="20211019023000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Campeonato Brasileiro de Futebol Sub-20: Internacional x Palmeiras</title>
+    <desc lang="pt">\.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019023000 -0300" stop="20211019033000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Campeonato Paulista de Futebol Feminino: Ferroviária x Corinthians</title>
+  </programme>
+  <programme start="20211019033000 -0300" stop="20211019043000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vasco x Coritiba</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019043000 -0300" stop="20211019070000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Bem, Amigos!</title>
+    <desc lang="pt">Galvão Bueno comanda um dos mais tradicionais programas do SporTV. Toda segunda ao vivo à 21hs, ele recebe jogadores, técnicos e personalidades do esporte para um bate-papo animado entre amigos.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019070000 -0300" stop="20211019080000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Atlético GO x Atlético MG</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019080000 -0300" stop="20211019090000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vasco x Coritiba</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019090000 -0300" stop="20211019100000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Flamengo x Cuiabá</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019100000 -0300" stop="20211019110000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais.</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019110000 -0300" stop="20211019120000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Corinthians</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019120000 -0300" stop="20211019130000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Flamengo x Cuiabá</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019130000 -0300" stop="20211019134500 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais.</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019134500 -0300" stop="20211019154500 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Campeonato Paulista de Vôlei Masculino: Campinas x Guarulhos</title>
+    <desc lang="pt">A Algumas das melhores equipes do voleibol nacional estão na disputa do tradicional Campeonato Paulista de Vôlei Masculino e você confere todas as emoções da competição aqui no Sportv.</desc>
+    <category lang="pt">Vôlei</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019154500 -0300" stop="20211019174500 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Supercopa de Vôlei Feminino: Minas x Praia Clube</title>
+    <desc lang="pt">Supercopa De Vôlei Feminino.</desc>
+    <category lang="pt">Vôlei Feminino</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019174500 -0300" stop="20211019200000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Campeonato Paulista de Vôlei Masculino: Barueri x Osasco</title>
+  </programme>
+  <programme start="20211019200000 -0300" stop="20211019230000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">NBA: Milwaukee Bucks x Brooklyn Nets</title>
+    <desc lang="pt">Somos todos fãs do melhor basquete do planeta! Assista agora a mais um jogo da NBA. Todas as emoções do basquete com as maiores estrelas do Mundo. SporTV: Somos Todos Campeões!</desc>
+    <category lang="pt">Basquete</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019230000 -0300" stop="20211020013000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">NBA: L.A. Lakers x Golden State Warriors</title>
+    <desc lang="pt">Somos todos fãs do melhor basquete do planeta! Assista agora a mais um jogo da NBA. Todas as emoções do basquete com as maiores estrelas do Mundo. SporTV: Somos Todos Campeões!</desc>
+    <category lang="pt">Basquete</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020013000 -0300" stop="20211020023000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Copa do Brasil de Futebol Sub-17: São Paulo x Atlético MG</title>
+    <desc lang="pt">\.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020023000 -0300" stop="20211020033000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Londrina x Goiás</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020033000 -0300" stop="20211020043000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Coritiba x Sampaio Corrêa</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020043000 -0300" stop="20211020053000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vila Nova x CRB AL</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020053000 -0300" stop="20211020063000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Londrina x Goiás</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020063000 -0300" stop="20211020073000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Coritiba x Sampaio Corrêa</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020073000 -0300" stop="20211020083000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Flamengo x Cuiabá</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019003000 -0300" stop="20211019004500 -0300" channel="SporTV HD ³">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019004500 -0300" stop="20211019014500 -0300" channel="SporTV HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Corinthians</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019014500 -0300" stop="20211019024500 -0300" channel="SporTV HD ³">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais.</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019024500 -0300" stop="20211019034500 -0300" channel="SporTV HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Flamengo x Cuiabá</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019034500 -0300" stop="20211019044500 -0300" channel="SporTV HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Atlético GO x Atlético MG</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019044500 -0300" stop="20211019054500 -0300" channel="SporTV HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Corinthians</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019054500 -0300" stop="20211019064500 -0300" channel="SporTV HD ³">
+    <title lang="pt">Campeonato Brasileiro de Futebol Sub-20: Internacional x Palmeiras</title>
+    <desc lang="pt">\.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019064500 -0300" stop="20211019074500 -0300" channel="SporTV HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Flamengo x Cuiabá</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019074500 -0300" stop="20211019084500 -0300" channel="SporTV HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Corinthians</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019084500 -0300" stop="20211019100000 -0300" channel="SporTV HD ³">
+    <title lang="pt">SporTV News</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019100000 -0300" stop="20211019123000 -0300" channel="SporTV HD ³">
+    <title lang="pt">Redação SporTV</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Marcelo Barreto está de volta no Redação e, recebe jornalistas convidados para discutir o esporte e rodar o Brasil com notícias de norte a sul. O programa repercute as notícias do rádio, TV, impresso e online.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019123000 -0300" stop="20211019130000 -0300" channel="SporTV HD ³">
+    <title lang="pt">SporTV News</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019130000 -0300" stop="20211019151500 -0300" channel="SporTV HD ³">
+    <title lang="pt">Seleção SporTV</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Conheça o novo Seleção SporTV! Entrevistas, arbitagem, boteco e muito mais. No estúdio novo, André Rizek e seus convidados trazem mais polêmica e agito para a sua tarde! Seleção SporTV, de 2ª a 6ª às 12:45h no SporTV!</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019151500 -0300" stop="20211019154500 -0300" channel="SporTV HD ³">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O programa apresenta a cobertura completa dos eventos esportivos do Brasil e do mundo, e acompanha o dia a dia dos atletas.</desc>
+    <credits>
+      <director>André Boaventura</director>
+    </credits>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019154500 -0300" stop="20211019180000 -0300" channel="SporTV HD ³">
+    <title lang="pt">Copa do Brasil de Futebol Sub-17: São Paulo x Atlético MG</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">\.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019180000 -0300" stop="20211019184500 -0300" channel="SporTV HD ³">
+    <title lang="pt">Tá na Área</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">O Tá na Área, com Magno Navarro e Igor Rodrigues, é o aquecimento para as principais transmissões ao vivo do SporTV.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019184500 -0300" stop="20211019210000 -0300" channel="SporTV HD ³">
+    <title lang="pt">Londrina x Goiás</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019210000 -0300" stop="20211019233000 -0300" channel="SporTV HD ³">
+    <title lang="pt">Coritiba x Sampaio Corrêa</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019233000 -0300" stop="20211020010000 -0300" channel="SporTV HD ³">
+    <title lang="pt">Troca de Passes</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">André Hernan e Roger Flores comandam o novo Troca, agora de terça a domingo e com novo estúdio. Sempre após a rodada, acompanhe a melhor análise pós-jogo da TV brasileira.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020010000 -0300" stop="20211020020000 -0300" channel="SporTV HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Flamengo x Cuiabá</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020020000 -0300" stop="20211020030000 -0300" channel="SporTV HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Atlético GO x Atlético MG</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020030000 -0300" stop="20211020040000 -0300" channel="SporTV HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Corinthians</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020040000 -0300" stop="20211020050000 -0300" channel="SporTV HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Flamengo x Cuiabá</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020050000 -0300" stop="20211020060000 -0300" channel="SporTV HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Atlético GO x Atlético MG</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020060000 -0300" stop="20211020070000 -0300" channel="SporTV HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Corinthians</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020070000 -0300" stop="20211020071500 -0300" channel="SporTV HD ³">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais.</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020071500 -0300" stop="20211020084500 -0300" channel="SporTV HD ³">
+    <title lang="pt">Troca de Passes</title>
+    <desc lang="pt">André Hernan e Roger Flores comandam o novo Troca, agora de terça a domingo e com novo estúdio. Sempre após a rodada, acompanhe a melhor análise pós-jogo da TV brasileira.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020084500 -0300" stop="20211020100000 -0300" channel="SporTV HD ³">
+    <title lang="pt">SporTV News</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020100000 -0300" stop="20211020123000 -0300" channel="SporTV HD ³">
+    <title lang="pt">Redação SporTV</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Marcelo Barreto está de volta no Redação e, recebe jornalistas convidados para discutir o esporte e rodar o Brasil com notícias de norte a sul. O programa repercute as notícias do rádio, TV, impresso e online.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020123000 -0300" stop="20211020130000 -0300" channel="SporTV HD ³">
+    <title lang="pt">SporTV News</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020130000 -0300" stop="20211020153000 -0300" channel="SporTV HD ³">
+    <title lang="pt">Seleção SporTV</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Conheça o novo Seleção SporTV! Entrevistas, arbitagem, boteco e muito mais. No estúdio novo, André Rizek e seus convidados trazem mais polêmica e agito para a sua tarde! Seleção SporTV, de 2ª a 6ª às 12:45h no SporTV!</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020153000 -0300" stop="20211020160000 -0300" channel="SporTV HD ³">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020160000 -0300" stop="20211020164500 -0300" channel="SporTV HD ³">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O programa apresenta a cobertura completa dos eventos esportivos do Brasil e do mundo, e acompanha o dia a dia dos atletas.</desc>
+    <credits>
+      <director>André Boaventura</director>
+    </credits>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020164500 -0300" stop="20211020190000 -0300" channel="SporTV HD ³">
+    <title lang="pt">Campeonato Brasileiro de Futebol Sub-20: Vasco x Flamengo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">\.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020190000 -0300" stop="20211020203000 -0300" channel="SporTV HD ³">
+    <title lang="pt">Tá na Área</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">O Tá na Área, com Magno Navarro e Igor Rodrigues, é o aquecimento para as principais transmissões ao vivo do SporTV.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020203000 -0300" stop="20211020233000 -0300" channel="SporTV HD ³">
+    <title lang="pt">Athletico PR x Flamengo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Copa do Brasil 2021.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020233000 -0300" stop="20211021010000 -0300" channel="SporTV HD ³">
+    <title lang="pt">Troca de Passes</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">André Hernan e Roger Flores comandam o novo Troca, agora de terça a domingo e com novo estúdio. Sempre após a rodada, acompanhe a melhor análise pós-jogo da TV brasileira.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019000000 -0300" stop="20211019010000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Sportscenter</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019010000 -0300" stop="20211019030000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019030000 -0300" stop="20211019040000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Espn FC</title>
+    <desc lang="pt">Fique Por Dentro Das Últimas Notícias E Análises Do Futebol. Diretamente Dos Estádios, Os Repórteres Trazem Informações Exclusivas Sobre Os Confrontos Do Dia. Um Guia Completo Para Acompanhar A Rodada.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019040000 -0300" stop="20211019050000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019050000 -0300" stop="20211019051500 -0300" channel="ESPN Brasil">
+    <title lang="pt">Momento ESPN: Alex Rossi, Adeus Crack</title>
+    <desc lang="pt">Especial com o melhor conteúdo dos canais ESPN.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019051500 -0300" stop="20211019070000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Lazio x Inter de Milão</title>
+    <desc lang="pt">Os Grandes Clubes Do Futebol Italiano Batalham Pela Conquista Do Scudetto. Tradição, Força E Disciplina Tática Marcam As Emocionantes Disputas Da Serie A.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019070000 -0300" stop="20211019090000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019090000 -0300" stop="20211019110000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Espn F360</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">William Tavares traz um giro 360 sobre o dia anterior no futebol com destaque para o jogo mais quente.O FUTEBOL 360  uma agradável conversa, com temperatura, para abrir a jornada do fã sobre o grande jogo.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019110000 -0300" stop="20211019130000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Sportscenter</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019130000 -0300" stop="20211019150000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Espn F90</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">De segunda a sexta, em duas edições, Sebastián Vignolo e um grupo de especialistas dão vida ao FÚTBOL 90. O debate de futebol mais quente, com as melhores entrevistas e análises profundas em um só lugar.</desc>
+    <category lang="pt">Debate</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019150000 -0300" stop="20211019160000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Espn FC</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Programa especialmente dedicado ao futebol internacional. Reportagens, entrevistas exclusivas, matérias históricas e muitos gols dos principais campeonatos do mundo.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019160000 -0300" stop="20211019180000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Sportscenter</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019180000 -0300" stop="20211019200000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Espn FC</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Programa especialmente dedicado ao futebol internacional. Reportagens, entrevistas exclusivas, matérias históricas e muitos gols dos principais campeonatos do mundo.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019200000 -0300" stop="20211019220000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Sportscenter</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019220000 -0300" stop="20211019230000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Especial: ESPN Tá On</title>
+    <desc lang="pt">Especial com o melhor conteúdo dos canais ESPN.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019230000 -0300" stop="20211020000000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Sportscenter</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020000000 -0300" stop="20211020010000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Bola da Vez: Duílio Monteiro Alves, presidente do Corinthians</title>
+    <desc lang="pt">\.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020010000 -0300" stop="20211020020000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Especial: ESPN Tá On</title>
+    <desc lang="pt">Especial com o melhor conteúdo dos canais ESPN.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020020000 -0300" stop="20211020030000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020030000 -0300" stop="20211020050000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Arsenal x Crystal Palace</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020050000 -0300" stop="20211020060000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Espn FC</title>
+    <desc lang="pt">Fique Por Dentro Das Últimas Notícias E Análises Do Futebol. Diretamente Dos Estádios, Os Repórteres Trazem Informações Exclusivas Sobre Os Confrontos Do Dia. Um Guia Completo Para Acompanhar A Rodada.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020060000 -0300" stop="20211020070000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020070000 -0300" stop="20211020071500 -0300" channel="ESPN Brasil">
+    <title lang="pt">Momento ESPN: Maurão do Busão</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020071500 -0300" stop="20211020090000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Barcelona x Valencia</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020090000 -0300" stop="20211020110000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Espn F360</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">William Tavares traz um giro 360 sobre o dia anterior no futebol com destaque para o jogo mais quente.O FUTEBOL 360  uma agradável conversa, com temperatura, para abrir a jornada do fã sobre o grande jogo.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020110000 -0300" stop="20211020130000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Sportscenter</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020130000 -0300" stop="20211020150000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Espn F90</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">De segunda a sexta, em duas edições, Sebastián Vignolo e um grupo de especialistas dão vida ao FÚTBOL 90. O debate de futebol mais quente, com as melhores entrevistas e análises profundas em um só lugar.</desc>
+    <category lang="pt">Debate</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020150000 -0300" stop="20211020160000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Espn FC</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Programa especialmente dedicado ao futebol internacional. Reportagens, entrevistas exclusivas, matérias históricas e muitos gols dos principais campeonatos do mundo.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020160000 -0300" stop="20211020180000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Sportscenter</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020180000 -0300" stop="20211020200000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Espn FC</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Programa especialmente dedicado ao futebol internacional. Reportagens, entrevistas exclusivas, matérias históricas e muitos gols dos principais campeonatos do mundo.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020200000 -0300" stop="20211020222500 -0300" channel="ESPN Brasil">
+    <title lang="pt">Sportscenter</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020222500 -0300" stop="20211020232500 -0300" channel="ESPN Brasil">
+    <title lang="pt">Bola da Vez: Duílio Monteiro Alves, presidente do Corinthians</title>
+    <desc lang="pt">\.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020232500 -0300" stop="20211021010000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019001500 -0300" stop="20211019003000 -0300" channel="ESPN ">
+    <title lang="pt">NFL</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">A Paixão dos EUA, o futebol da bola oval também tem fãs no Brasil. Trinta e dois times disputam a NFL, liga profissional de futebol americano.</desc>
+    <category lang="pt">Futebol Americano</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019003000 -0300" stop="20211019013000 -0300" channel="ESPN ">
+    <title lang="pt">Uefa Europa &amp; Conference League Magazine</title>
+    <desc lang="pt">Revista semanal sobre a UEFA Europa League. Reportagens, matérias exclusivas, entrevistas e análises sobre o torneio.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019013000 -0300" stop="20211019023000 -0300" channel="ESPN ">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019023000 -0300" stop="20211019050000 -0300" channel="ESPN ">
+    <title lang="pt">NFL: Arizona Cardinals x Cleveland Browns</title>
+    <desc lang="pt">Touchdowns, viradas espetaculares, jogadas que entram para a história e os melhores atletas em campo. A NFL reúne a elite do futebol americano.</desc>
+    <category lang="pt">Futebol Americano</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019050000 -0300" stop="20211019070000 -0300" channel="ESPN ">
+    <title lang="pt">Watford x Liverpool</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019070000 -0300" stop="20211019080000 -0300" channel="ESPN ">
+    <title lang="pt">ESPN League</title>
+    <desc lang="pt">Análise completa das principais ligas esportivas americanas: NFL (futebol americano), NBA (basquete), MLB (baseball) e NHL (hóquei).</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019080000 -0300" stop="20211019090000 -0300" channel="ESPN ">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019090000 -0300" stop="20211019114000 -0300" channel="ESPN ">
+    <title lang="pt">NFL: Buffalo Bills x Tennessee Titans</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol Americano</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019114000 -0300" stop="20211019132500 -0300" channel="ESPN ">
+    <title lang="pt">Manchester City x Burnley</title>
+    <desc lang="pt">Grandes craques, estádios históricos, equipes de peso, torcedores fanáticos e técnicos renomados. A Premier League é a elite do futebol inglês e um dos melhores campeonatos de futebol do mundo.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019132500 -0300" stop="20211019142500 -0300" channel="ESPN ">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019142500 -0300" stop="20211019145500 -0300" channel="ESPN ">
+    <title lang="pt">Show da Rodada: Ligue 1</title>
+    <desc lang="pt">Assista aos destaques e o que de melhor aconteceu na rodada da liga mais charmosa, o Campeonato Francês, que passou a receber investimentos milionários nas últimas temporadas.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019145500 -0300" stop="20211019170000 -0300" channel="ESPN ">
+    <title lang="pt">AFC Champions League</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Confira o torneio anual de futebol entre clubes organizado pela Confederação Asiática de Futebol para definir o clube campeão continental principal do continente. Não perca a Liga dos Campeões Asiática.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019170000 -0300" stop="20211019173000 -0300" channel="ESPN ">
+    <title lang="pt">Show da Rodada: La Liga</title>
+    <desc lang="pt">Fique por dentro de tudo o que aconteceu na última rodada da Liga das Estrelas, o Campeonato Espanhol de futebol. Todos os gols e os principais lances da liga que reúne os melhores jogadores do mundo.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019173000 -0300" stop="20211019180000 -0300" channel="ESPN ">
+    <title lang="pt">Show da Rodada: Premier League</title>
+    <desc lang="pt">Fique por dentro de tudo o que aconteceu na última rodada da Premier League, o Campeonato Inglês de futebol. Todos os gols e os principais lances da liga mais assistida ao redor do mundo.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019180000 -0300" stop="20211019210000 -0300" channel="ESPN ">
+    <title lang="pt">Mlb Play-offs</title>
+    <desc lang="pt">A MLB reúne 30 equipes norte-americanas no mais antigo e importante campeonato de beisebol do mundo. As grandes estrelas disputam, a cada rebatida, o aclamado título da World Series.</desc>
+    <category lang="pt">Beisebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019210000 -0300" stop="20211019220000 -0300" channel="ESPN ">
+    <title lang="pt">Uefa Europa &amp; Conference League Magazine</title>
+    <desc lang="pt">Revista semanal sobre a UEFA Europa League. Reportagens, matérias exclusivas, entrevistas e análises sobre o torneio.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019220000 -0300" stop="20211020000000 -0300" channel="ESPN ">
+    <title lang="pt">WNBA Finals: Chicago Sky x Phoenix Mercury</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">A WNBA é a mais importante liga de basquete feminino. É disputada nos Estados Unidos desde 1997, sempre apresentando grande equilíbrio e competitividade. As melhores atletas do mundo estão aqui.</desc>
+    <category lang="pt">Basquete</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020000000 -0300" stop="20211020003000 -0300" channel="ESPN ">
+    <title lang="pt">Show da Rodada: La Liga</title>
+    <desc lang="pt">Fique por dentro de tudo o que aconteceu na última rodada da Liga das Estrelas, o Campeonato Espanhol de futebol. Todos os gols e os principais lances da liga que reúne os melhores jogadores do mundo.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020003000 -0300" stop="20211020013000 -0300" channel="ESPN ">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020013000 -0300" stop="20211020040000 -0300" channel="ESPN ">
+    <title lang="pt">Mlb Play-offs: Liga Nacional</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">A MLB reúne 30 equipes norte-americanas no mais antigo e importante campeonato de beisebol do mundo. As grandes estrelas disputam, a cada rebatida, o aclamado título da World Series.</desc>
+    <category lang="pt">Beisebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020040000 -0300" stop="20211020050000 -0300" channel="ESPN ">
+    <title lang="pt">Bola da Vez: Duílio Monteiro Alves, presidente do Corinthians</title>
+    <desc lang="pt">\.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020050000 -0300" stop="20211020065500 -0300" channel="ESPN ">
+    <title lang="pt">Celtic x Ferencvaros</title>
+    <desc lang="pt">A Uefa Europa League É A Segunda Competição Continental Mais Importante Da Europa. Veja Clubes Tradicionais Em Busca Do Título E Também Do Prêmio Principal: Uma Vaga Na Uefa Champions League.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020065500 -0300" stop="20211020090000 -0300" channel="ESPN ">
+    <title lang="pt">AFC Champions League</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Confira o torneio anual de futebol entre clubes organizado pela Confederação Asiática de Futebol para definir o clube campeão continental principal do continente. Não perca a Liga dos Campeões Asiática.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020090000 -0300" stop="20211020113000 -0300" channel="ESPN ">
+    <title lang="pt">NHL: New York Islanders x Chicago Blackhawks</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Hóquei</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020113000 -0300" stop="20211020133000 -0300" channel="ESPN ">
+    <title lang="pt">Juventus x Roma</title>
+    <desc lang="pt">Os grandes clubes do futebol italiano batalham pela conquista do Scudetto. Tradição, força e disciplina tática marcam as emocionantes disputas da Serie A.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020133000 -0300" stop="20211020143000 -0300" channel="ESPN ">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020143000 -0300" stop="20211020161000 -0300" channel="ESPN ">
+    <title lang="pt">ATP 1000</title>
+    <desc lang="pt">O ATP Masters 1000 é a mais importante série do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.</desc>
+    <category lang="pt">Tênis</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020161000 -0300" stop="20211020164000 -0300" channel="ESPN ">
+    <title lang="pt">Show da Rodada: Serie A</title>
+    <desc lang="pt">Fique por dentro de tudo o que aconteceu na última rodada da Serie A, o Campeonato Italiano de futebol. Todos os gols e os principais lances deste charmoso e tradicional torneio.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020164000 -0300" stop="20211020184500 -0300" channel="ESPN ">
+    <title lang="pt">San Lorenzo x Lanus</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">A paixão nas arquibancadas e as disputas emocionantes dentro de campo. A Liga Profissional de Futebol da Argentina reúne as equipes da primeira divisão do país em um combo perfeito para os mais fanáticos torcedores.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020184500 -0300" stop="20211020190000 -0300" channel="ESPN ">
+    <title lang="pt">Cestou ESPN</title>
+    <desc lang="pt">Alana Ambrosio traz o que de melhor aconteceu na semana do basquete de maneira descontraída com ajuda de convidados especiais. Semanalmente, às sextas-feiras, na ESPN Extra e no WatchESPN.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020190000 -0300" stop="20211020200000 -0300" channel="ESPN ">
+    <title lang="pt">ESPN Filmes</title>
+    <desc lang="pt">A faixa dedicada a documentários produzidos pela ESPN em parceria com grandes produtoras nacionais e internacionais. Um mergulho profundo na história do esporte e em seus personagens.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020200000 -0300" stop="20211020203000 -0300" channel="ESPN ">
+    <title lang="pt">Sportscenter Abre o Jogo: NBA</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Abertura da transmissão das grandes competições esportivas. Análises completas, materiais exclusivos e todas as últimas notícias sobre o evento que virá a seguir.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020203000 -0300" stop="20211020204500 -0300" channel="ESPN ">
+    <title lang="pt">NBA</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Basquete</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020204500 -0300" stop="20211020230500 -0300" channel="ESPN ">
+    <title lang="pt">NBA: Boston Celtics x New York Knicks</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes.</desc>
+    <category lang="pt">Basquete</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020230500 -0300" stop="20211021013500 -0300" channel="ESPN ">
+    <title lang="pt">NBA: Denver Nuggets x Phoenix Suns</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes.</desc>
+    <category lang="pt">Basquete</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019003000 -0300" stop="20211019010000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Show da Rodada: Ligue 1</title>
+    <desc lang="pt">Assista aos destaques e o que de melhor aconteceu na rodada da liga mais charmosa, o Campeonato Francês, que passou a receber investimentos milionários nas últimas temporadas.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019010000 -0300" stop="20211019034500 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Maratona de Amsterdã</title>
+    <sub-title lang="pt">HOL</sub-title>
+    <desc lang="pt">Os melhores atletas do mundo disputam as maratonas internacionais mais prestigiadas, em que se destacam as Majors e os Mundiais.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019034500 -0300" stop="20211019040000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Cestou ESPN</title>
+    <desc lang="pt">Alana Ambrosio traz o que de melhor aconteceu na semana do basquete de maneira descontraída com ajuda de convidados especiais. Semanalmente, às sextas-feiras, na ESPN Extra e no WatchESPN.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019040000 -0300" stop="20211019053000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Espn Knockout: David Cuellar x Moises Fuentes</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Boxe</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019053000 -0300" stop="20211019073000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">New York Red Bulls x New York City Fc</title>
+    <desc lang="pt">A Major League Soccer é o principal campeonato de futebol dos Estados Unidos e do Canadá.  Com grandes contratações e um público sempre presente, a MLS vem se tornando mais forte a cada ano.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019073000 -0300" stop="20211019080000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Show da Rodada: Ligue 1</title>
+    <desc lang="pt">Assista aos destaques e o que de melhor aconteceu na rodada da liga mais charmosa, o Campeonato Francês, que passou a receber investimentos milionários nas últimas temporadas.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019080000 -0300" stop="20211019090000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Compacto NFL</title>
+    <desc lang="pt">O futebol americano é o esporte mais popular dos Estados Unidos. A NFL reúne as grandes estrelas do esporte e tem conquistado fãs por todo o planeta.</desc>
+    <category lang="pt">Futebol Americano</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019090000 -0300" stop="20211019104500 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Lyon x Monaco</title>
+    <desc lang="pt">Tradicional e charmoso, o Campeonato Francês passou a receber investimentos milionários nas últimas temporadas. Comandado por Neymar, o jogador mais caro mundo, o PSG busca voltar ao topo.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019104500 -0300" stop="20211019110000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Cestou ESPN</title>
+    <desc lang="pt">Alana Ambrosio traz o que de melhor aconteceu na semana do basquete de maneira descontraída com ajuda de convidados especiais. Semanalmente, às sextas-feiras, na ESPN Extra e no WatchESPN.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019110000 -0300" stop="20211019113000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">F1: The Inside Line</title>
+    <desc lang="pt">Seja bem-vindo ao mundo da principal categoria do automobilismo mundial. Acompanhe os bastidores, as principais notícias e o debate sobre as principais questões que envolvem o badalado e milionário circo da Fórmula 1.</desc>
+    <category lang="pt">Automobilismo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019113000 -0300" stop="20211019123000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Resenha: Denílson e João Victor</title>
+    <desc lang="pt">Comandado por André Plihal, o programa recebe semanalmente jogadores e ex-jogadores de futebol para a resenha. Papo solto, cheio de histórias de um jeito bem moleque.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019123000 -0300" stop="20211019153000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">NFL: Buffalo Bills x Tennessee Titans</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol Americano</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019153000 -0300" stop="20211019173000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Juventus x Roma</title>
+    <desc lang="pt">Os grandes clubes do futebol italiano batalham pela conquista do Scudetto. Tradição, força e disciplina tática marcam as emocionantes disputas da Serie A.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019173000 -0300" stop="20211019183000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">ESPN League</title>
+    <desc lang="pt">Análise completa das principais ligas esportivas americanas: NFL (futebol americano), NBA (basquete), MLB (baseball) e NHL (hóquei).</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019183000 -0300" stop="20211019193000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Uefa Europa &amp; Conference League Magazine</title>
+    <desc lang="pt">Revista semanal sobre a UEFA Europa League. Reportagens, matérias exclusivas, entrevistas e análises sobre o torneio.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019193000 -0300" stop="20211019203000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Compacto NFL: Seattle Seahawks x Pittsburgh Steelers</title>
+    <desc lang="pt">O futebol americano é o esporte mais popular dos Estados Unidos.  A NFL reúne as grandes estrelas do esporte e tem conquistado fãs por todo o planeta.</desc>
+    <category lang="pt">Futebol Americano</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019203000 -0300" stop="20211019210000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Show da Rodada: Premier League</title>
+    <desc lang="pt">Fique por dentro de tudo o que aconteceu na última rodada da Premier League, o Campeonato Inglês de futebol. Todos os gols e os principais lances da liga mais assistida ao redor do mundo.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019210000 -0300" stop="20211019213000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Show da Rodada: La Liga</title>
+    <desc lang="pt">Fique por dentro de tudo o que aconteceu na última rodada da Liga das Estrelas, o Campeonato Espanhol de futebol. Todos os gols e os principais lances da liga que reúne os melhores jogadores do mundo.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019213000 -0300" stop="20211019223000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">ESPN League</title>
+    <desc lang="pt">Análise completa das principais ligas esportivas americanas: NFL (futebol americano), NBA (basquete), MLB (baseball) e NHL (hóquei).</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211019223000 -0300" stop="20211020003000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">ESPN Knockout</title>
+    <desc lang="pt">Os melhores lutadores de MMA do mundo e as lutas mais esperadas estão no universo do UFC. Dentro do octógono, dois competidores ficam frente a frente em busca da vitória.</desc>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020003000 -0300" stop="20211020004500 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Cestou ESPN</title>
+    <desc lang="pt">Alana Ambrosio traz o que de melhor aconteceu na semana do basquete de maneira descontraída com ajuda de convidados especiais. Semanalmente, às sextas-feiras, na ESPN Extra e no WatchESPN.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020004500 -0300" stop="20211020033000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Nascar Xfinity Series: Texas</title>
+    <desc lang="pt">Acompanhe a segunda divisão da NASCAR, utilizada por equipes para testar seus pilotos visando a divisão principal, a NASCAR Cup Series.</desc>
+    <category lang="pt">Automobilismo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020033000 -0300" stop="20211020053000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">AFC Champions League</title>
+    <desc lang="pt">Confira o torneio anual de futebol entre clubes organizado pela Confederação Asiática de Futebol para definir o clube campeão continental principal do continente. Não perca a Liga dos Campeões Asiática.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020053000 -0300" stop="20211020073000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">WNBA Finals: Chicago Sky x Phoenix Mercury</title>
+    <desc lang="pt">A WNBA é a mais importante liga de basquete feminino. É disputada nos Estados Unidos desde 1997, sempre apresentando grande equilíbrio e competitividade. As melhores atletas do mundo estão aqui.</desc>
+    <category lang="pt">Basquete</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020073000 -0300" stop="20211020103000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Mlb Play-offs</title>
+    <desc lang="pt">A MLB reúne 30 equipes norte-americanas no mais antigo e importante campeonato de beisebol do mundo. As grandes estrelas disputam, a cada rebatida, o aclamado título da World Series.</desc>
+    <category lang="pt">Beisebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020103000 -0300" stop="20211020123000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">River Plate x San Lorenzo</title>
+    <desc lang="pt">A paixão nas arquibancadas e as disputas emocionantes dentro de campo. A Liga Profissional de Futebol da Argentina reúne as equipes da primeira divisão do país em um combo perfeito para os mais fanáticos torcedores.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020123000 -0300" stop="20211020150000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">NHL: New York Islanders x Chicago Blackhawks</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Hóquei</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020150000 -0300" stop="20211020170000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Drone Racing League</title>
+    <desc lang="pt">Até parece videogame, mas é a vida real! Os melhores pilotos de drone do mundo se enfrentam numa competição emocionante em belas locações, cheias de desafios, como edifícios em ruínas e estádios.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020170000 -0300" stop="20211020200000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">NFL: Seattle Seahawks x Pittsburgh Steelers</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol Americano</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020200000 -0300" stop="20211020220000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Brentford x Chelsea</title>
+    <desc lang="pt">Grandes craques, estádios históricos, equipes de peso, torcedores fanáticos e técnicos renomados. A Premier League é a elite do futebol inglês e um dos melhores campeonatos de futebol do mundo.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211020220000 -0300" stop="20211021000000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Juventus x Roma</title>
+    <desc lang="pt">Os grandes clubes do futebol italiano batalham pela conquista do Scudetto. Tradição, força e disciplina tática marcam as emocionantes disputas da Serie A.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
 </tv>
