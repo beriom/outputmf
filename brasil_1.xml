@@ -47892,4 +47892,770 @@
       <value>livre</value>
     </rating>
   </programme>
+  <programme start="20211122000000 -0300" stop="20211122004500 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Clínica Animal</title>
+    <sub-title lang="pt">Bugged Bunny</sub-title>
+    <desc lang="pt">Ho, oh, não! É época de Natal em Michigan e o Dr. Pol e sua equipe fazem sua lista de pacientes, verificam tudo duas vezes e cuidam daqueles que são impertinentes, inocentes e bonzinhos!</desc>
+    <credits>
+      <director>Ted Duvall</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211122004500 -0300" stop="20211122013000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Clube da Luta Animal</title>
+    <desc lang="pt">Este episódio revela as táticas secretas dos lutadores felinos mais ferozes do reino animal, e te leva mais perto do que nunca de brigas cheias de adrenalina na África, nas Américas e além.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S6 E10</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211122013000 -0300" stop="20211122021500 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Clube da Luta Animal</title>
+    <desc lang="pt">As batalhas ferozes pela sobrevivência acontecem em todas as escalas - desde elefantes de 6 toneladas lutando com uma fúria cegada por testosterona.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211122021500 -0300" stop="20211122030000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Yukon: Plantão Veterinário</title>
+    <sub-title lang="pt">Dr Oakley: Yukon Vet</sub-title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <director>Tracy Rudolph</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Comportamento)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211122030000 -0300" stop="20211122034500 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">O Melhor de Clínica Animal</title>
+    <sub-title lang="pt">The Incredible Dr Pol</sub-title>
+    <desc lang="pt">Não é só você, os veterinários da clínica também estão vendo em dobro! Dias agitados são normais para o Dr. Pol e sua equipe.</desc>
+    <credits>
+      <director>Tracy Rudolph</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S6 E17</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211122034500 -0300" stop="20211122043000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Ben E Erin: Veterinários do Meio-Oeste</title>
+    <sub-title lang="pt">Heartland Docs</sub-title>
+    <desc lang="pt">Pela sua profissão, Erin e Ben Schroeder prometem não machucar, o que eles mantêm ao enfrentar problemas difíceis que afligem seus pacientes.</desc>
+    <credits>
+      <director>Pam Caragol Wells</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211122043000 -0300" stop="20211122051500 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Os Vídeos Mais Divertidos: Especial Animais</title>
+    <sub-title lang="pt">America's Funniest Home Videos: Animal Edition</sub-title>
+    <desc lang="pt">Um barco tem um encontro perigoso com uma baleia, um cão ninja aparece do nada e mostraremos a mascote universitária mais estranho e improvável que você já viu.</desc>
+    <date>2021</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122051500 -0300" stop="20211122060000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Amizades Insólitas: Especial Filhotes</title>
+    <sub-title lang="pt">Unlikely Animal Friends: Puppy Love</sub-title>
+    <desc lang="pt">Os cães formam laços incríveis com animais de diferentes espécies. Um Jack Russell é amigo de um cavalo briguento.</desc>
+    <date>2021</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122060000 -0300" stop="20211122070000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">O Melhor de Clínica Animal</title>
+    <sub-title lang="pt">The Incredible Dr Pol</sub-title>
+    <desc lang="pt">Esta semana em ''O Melhor de Clínica Animal'', os veterinários do PVS tiram seus melhores truques para tratar de vira-latas - e um dos maiores brinquedos que o doutor já pôs em prática!</desc>
+    <credits>
+      <director>Erin Reuss Alconcel</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211122070000 -0300" stop="20211122074500 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Clínica Animal</title>
+    <sub-title lang="pt">Bugged Bunny</sub-title>
+    <desc lang="pt">Por fim os dias ficam mais quentes e os animais ficam mais animados. Esta semana será incrível para a equipe.</desc>
+    <credits>
+      <director>Ted Duvall</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211122074500 -0300" stop="20211122081500 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">O Melhor de Yukon: Plantão Veterinário</title>
+    <sub-title lang="pt">Dr. Oakley: Yukon Vet Compilations</sub-title>
+    <desc lang="pt">A Dra. Oakley ajuda um cavalo com um caroço misterioso, um touro que perde uma grande quantidade de peso e um cão atacado por um porco-espinho tarde da noite.</desc>
+    <credits>
+      <director>Jeanine Butler</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Comportamento)</category>
+    <episode-num system="onscreen">S5 E16</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211122081500 -0300" stop="20211122090000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Loucuras Animais</title>
+    <sub-title lang="pt">Animals Gone Wild 3</sub-title>
+    <desc lang="pt">Dos mais corajosos predadores do oceano até os maiores monstros da África, estes animais não têm medo de ficarem cara-a-cara. Um elefante aparece em um jantar com uma única e ousada jogada.</desc>
+    <credits>
+      <director>Michael Hoff</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122090000 -0300" stop="20211122094500 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Loucuras Animais</title>
+    <sub-title lang="pt">Animals Gone Wild 3</sub-title>
+    <desc lang="pt">Dos mais corajosos predadores do oceano até os maiores monstros da África, estes animais não têm medo de ficarem cara-a-cara. Um elefante aparece em um jantar com uma única e ousada jogada.</desc>
+    <credits>
+      <director>Michael Hoff</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122094500 -0300" stop="20211122103000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Dra K: Animais Exóticos</title>
+    <sub-title lang="pt">Dr. K's Exotic Animal</sub-title>
+    <desc lang="pt">É um dia agitado na clínica da Dra. K, um filhote de lêmure malnutrido chamado Lena entra às pressas, em choque. Stuart, um querido rato, faz uma plástica nos olhos e um camaleão chamado Yoda tem algo estranho saindo de seu rabo.</desc>
+    <credits>
+      <director>Elaine Pugliese</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211122103000 -0300" stop="20211122113000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Loucuras Animais</title>
+    <sub-title lang="pt">Animals Gone Wild 3</sub-title>
+    <desc lang="pt">Dos mais corajosos predadores do oceano até os maiores monstros da África, estes animais não têm medo de ficarem cara-a-cara. Um elefante aparece em um jantar com uma única e ousada jogada.</desc>
+    <credits>
+      <director>Michael Hoff</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S4 E20</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122113000 -0300" stop="20211122121500 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">O Melhor de Clínica Animal</title>
+    <sub-title lang="pt">The Incredible Dr Pol</sub-title>
+    <desc lang="pt">Com tantos anos de experiência, o Dr. Pol é realmente um especialista em animais. Enquanto ensina seus clientes a cuidar de seus animais de estimação.</desc>
+    <credits>
+      <director>Tracy Rudolph</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211122121500 -0300" stop="20211122130000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">África Selvagem: Sobrevivendo na Natureza</title>
+    <desc lang="pt">Botsuana é uma terra de beleza épica, onde a vida selvagem dá forma à terra, à medida que os hipopótamos esculpem estradas através do vasto Delta do Okavango.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211122130000 -0300" stop="20211122134500 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Predadores: Sucessão ao Trono</title>
+    <sub-title lang="pt">Predator Bloodlines</sub-title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <director>Emily Wallington</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211122134500 -0300" stop="20211122143000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Cesar Millan: Melhores Humanos, Melhores Cachorros</title>
+    <desc lang="pt">César reabilita uma matilha de três cães grandes, incluindo um pit bull agressivo, enquanto ajuda um energético bernedoodle a superar a ansiedade de separação.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122143000 -0300" stop="20211122151500 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Cesar Millan: Melhores Humanos, Melhores Cachorros</title>
+    <desc lang="pt">Uma família com um passado traumático pede a César para salvar um cão de caça que matou um companheiro de matilha, mas César descobre que outro cão da família é a verdadeira causa do problema.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122151500 -0300" stop="20211122160000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Reabilitação Canina</title>
+    <sub-title lang="pt">Dog: Impossible</sub-title>
+    <desc lang="pt">Matt Beisner enfrenta dois casos extremos de agressões caninas e trabalha com as duas famílias para tomar decisões difíceis.</desc>
+    <credits>
+      <director>Corinna Robbins</director>
+      <actor>Matt Beisner</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211122160000 -0300" stop="20211122164500 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Yukon: Plantão Veterinário</title>
+    <sub-title lang="pt">Dr Oakley: Yukon Vet</sub-title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <director>Tracy Rudolph</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Comportamento)</category>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211122164500 -0300" stop="20211122173000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Alasca: Reabilitação Selvagem</title>
+    <sub-title lang="pt">Alaska Animal Rescue</sub-title>
+    <desc lang="pt">Uma equipe do Alaska Wildlife Conservation Center ajuda um urso-negro a preparar sua toca para a hibernação.</desc>
+    <credits>
+      <director>Pamela Caragol Wells</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S6 E14</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211122173000 -0300" stop="20211122181500 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Os Segredos do Zoológico</title>
+    <desc lang="pt">Um mandril chamado Tatu tem tratadores trabalhando contra o relógio em uma luta de vida ou morte para resolver um mistério médico e salvar sua vida.</desc>
+    <credits>
+      <director>Ahsley Hoppin</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211122181500 -0300" stop="20211122190000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Clínica Animal</title>
+    <sub-title lang="pt">Bugged Bunny</sub-title>
+    <desc lang="pt">Nesta semana em "Clínica Animal", os doutores da Vet Pol são bombardeados não com um, nem dois, nem três, mas quatro cachorros que foram atacados.</desc>
+    <credits>
+      <director>Ted Duvall</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211122190000 -0300" stop="20211122194500 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Clínica Animal com Dr. Pol</title>
+    <desc lang="pt">Enquanto os doutores Lisa e Pol estão disponíveis para ajudar em um parto de emergência de um cavalo, a Dra. Brenda examina um bezerro nascido durante temperaturas abaixo de zero.</desc>
+    <credits>
+      <director>Tracy Rudolph</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S8 E10</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211122194500 -0300" stop="20211122203000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Clínica Animal com Dr. Pol</title>
+    <desc lang="pt">A luta é real com pacientes do PVS esta semana, que conseguiram encontrar um caminho para sérios problemas.</desc>
+    <credits>
+      <director>Tracy Rudolph</director>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S10 E14</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211122203000 -0300" stop="20211122211500 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Yukon: Plantão Veterinário</title>
+    <sub-title lang="pt">Dr Oakley: Yukon Vet</sub-title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Séries (Comportamento)</category>
+    <episode-num system="onscreen">S9 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122211500 -0300" stop="20211122220000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Os Segredos do Zoológico: Tampa</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <director>Pam Caragol Wells</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211122220000 -0300" stop="20211122224500 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Cesar Millan: Melhores Humanos, Melhores Cachorros</title>
+    <desc lang="pt">César reabilita uma matilha de três cães grandes, incluindo um pit bull agressivo, enquanto ajuda um energético bernedoodle a superar a ansiedade de separação.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122224500 -0300" stop="20211122233000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Cesar Millan: Melhores Humanos, Melhores Cachorros</title>
+    <desc lang="pt">Uma família com um passado traumático pede a César para salvar um cão de caça que matou um companheiro de matilha, mas César descobre que outro cão da família é a verdadeira causa do problema.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122233000 -0300" stop="20211123001500 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Reabilitação Canina</title>
+    <sub-title lang="pt">Dog: Impossible</sub-title>
+    <desc lang="pt">Matt ajuda um doberman intimidante chamado Nero a superar sua extrema agressividade. Ele também faz com que Lily e Olive, duas irmãs pug, parem de brigar.</desc>
+    <credits>
+      <director>Corinna Robbins</director>
+      <actor>Matt Beisner</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123001500 -0300" stop="20211123010000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Congo Selvagem</title>
+    <desc lang="pt">O rio Congo é o segundo maior do mundo. Ele nasce como um riacho no norte da Zâmbia, que é o cenário de uma das maiores migrações de mamíferos do mundo.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123010000 -0300" stop="20211123014500 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Predadores: Sucessão ao Trono</title>
+    <sub-title lang="pt">Predator Bloodlines</sub-title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <director>Emily Wallington</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123014500 -0300" stop="20211123023000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Clínica Animal</title>
+    <sub-title lang="pt">Bugged Bunny</sub-title>
+    <desc lang="pt">Nesta semana em "Clínica Animal", os doutores da Vet Pol são bombardeados não com um, nem dois, nem três, mas quatro cachorros que foram atacados.</desc>
+    <credits>
+      <director>Ted Duvall</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123023000 -0300" stop="20211123031500 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Yukon: Plantão Veterinário</title>
+    <sub-title lang="pt">Dr Oakley: Yukon Vet</sub-title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <director>Tracy Rudolph</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Comportamento)</category>
+    <episode-num system="onscreen">S8 E10</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123031500 -0300" stop="20211123040000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Alasca: Reabilitação Selvagem</title>
+    <sub-title lang="pt">Alaska Animal Rescue</sub-title>
+    <desc lang="pt">Neste episódio, a equipe do Alaska Sealife Center ajuda uma lontra-marinha com uma braçadeira embutida em uma de suas patas.</desc>
+    <credits>
+      <director>Pamela Caragol Wells</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S6 E5</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123040000 -0300" stop="20211123044500 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Os Segredos do Zoológico</title>
+    <desc lang="pt">Todos no zoológico esperam pelo grande acontecimento: o nascimento de Zuri, um filhote de girafa. Será a primeira girafa a nascer no Columbus Zoo em mais de vinte anos.</desc>
+    <credits>
+      <director>Ahsley Hoppin</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123044500 -0300" stop="20211123053000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Cesar Millan: Melhores Humanos, Melhores Cachorros</title>
+    <desc lang="pt">César reabilita uma matilha de três cães grandes, incluindo um pit bull agressivo, enquanto ajuda um energético bernedoodle a superar a ansiedade de separação.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123053000 -0300" stop="20211123061500 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Cesar Millan: Melhores Humanos, Melhores Cachorros</title>
+    <desc lang="pt">Uma família com um passado traumático pede a César para salvar um cão de caça que matou um companheiro de matilha, mas César descobre que outro cão da família é a verdadeira causa do problema.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123061500 -0300" stop="20211123070000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Os Segredos Do Zoológico: Histórias Especiais</title>
+    <desc lang="pt">Vai ser uma semana muito agitada no Zoológico de Columbus com a chegada de recém-nascidos e uma cirurgia de emergência.</desc>
+    <credits>
+      <director>Jeanine Butler</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123070000 -0300" stop="20211123074500 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Clínica Animal</title>
+    <sub-title lang="pt">Bugged Bunny</sub-title>
+    <desc lang="pt">A intensidade do tempo pode variar, mas não a do trabalho do Dr. Pol e sua equipe.</desc>
+    <credits>
+      <director>Ted Duvall</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123074500 -0300" stop="20211123081500 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">O Melhor de Yukon: Plantão Veterinário</title>
+    <sub-title lang="pt">Dr. Oakley: Yukon Vet Compilations</sub-title>
+    <desc lang="pt">A Dra. Oakley luta para salvar um filhote de rena recém-nascido, realiza uma cirurgia milagrosa em um cão vítima de queimadura e castra um grande coelho.</desc>
+    <credits>
+      <director>Jeanine Butler</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Comportamento)</category>
+    <episode-num system="onscreen">S5 E17</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123081500 -0300" stop="20211123090000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Reabilitação Animal</title>
+    <desc lang="pt">Kristin recebe um telefonema à noite sobre uma coruja afogada que, quando encontrada, mostrou ter mais problemas de saúde do que se podia imaginar.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123090000 -0300" stop="20211123094500 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Reabilitação Animal</title>
+    <desc lang="pt">Kristin e sua família já têm muitas bocas para alimentar todas as manhãs, e eles estão prestes a receber mais quatro. Ela é a nova mãe de quatro filhotes de raposa que foram encontrados em um prédio abandonado na cidade.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123094500 -0300" stop="20211123103000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Dra K: Animais Exóticos</title>
+    <sub-title lang="pt">Dr. K's Exotic Animal</sub-title>
+    <desc lang="pt">Um macaco-esquilo que gosta de comer sushi, um mistério que liga uma calopsita a uma estátua de cerâmica e uma coelha prenhe que se instalou no banheiro - a clínica da Dra. K está movimentada, com curiosos casos de animais exóticos. A equipe veterinária entra em modo de atenção ao que Gwen, a coelhinha prenhe, constrói um ninho e se prepara para ter seus filhotes. A Dra. T faz um raio-x de uma estátua para ver se ela pode ser a causa da doença de uma calopsita. Zooky, um macaco-esquilo que se comporta mal, é levado à clínica para ser castrado e vai para casa com uma dieta melhor. E a lesão de um guaxinim resgatado toma um rumo inesperado.</desc>
+    <credits>
+      <director>Elaine Pugliese</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123103000 -0300" stop="20211123113000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Loucuras Animais</title>
+    <sub-title lang="pt">Animals Gone Wild 3</sub-title>
+    <desc lang="pt">Existem escapadas incrivelmente improváveis, e existem aqueles que simplesmente não conseguem escapar. Lhamas invadem as ruas do Arizona, transformando-as em um rodeio estressante.</desc>
+    <credits>
+      <director>Michael Hoff</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123113000 -0300" stop="20211123121500 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">O Melhor de Clínica Animal</title>
+    <sub-title lang="pt">The Incredible Dr Pol</sub-title>
+    <desc lang="pt">Duas cabeças são melhores que uma! Quando a clínica está cheia de pacientes, é aconselhável chamar outro veterinário para ajudar.</desc>
+    <credits>
+      <director>Tracy Rudolph</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123121500 -0300" stop="20211123130000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Uganda: Perigos No Paraíso</title>
+    <sub-title lang="pt">Wild Uganda: Perils in Paradise</sub-title>
+    <desc lang="pt">O coração de Uganda é um oásis para a vida selvagem. Mas os perigos aguardam inclusive no paraíso.</desc>
+    <credits>
+      <director>Melanie Sams</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123130000 -0300" stop="20211123134500 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Predadores: Sucessão ao Trono</title>
+    <sub-title lang="pt">Predator Bloodlines</sub-title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <director>Emily Wallington</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123134500 -0300" stop="20211123143000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Clínica Animal com Dr. Pol</title>
+    <desc lang="pt">Os doutores Brenda, Ray e Pol começam com um dia agitado, com as mãos ocupadas tratando um porco que não engorda.</desc>
+    <credits>
+      <director>Tracy Rudolph</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123143000 -0300" stop="20211123151500 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Yukon: Plantão Veterinário</title>
+    <sub-title lang="pt">Dr Oakley: Yukon Vet</sub-title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Séries (Comportamento)</category>
+    <episode-num system="onscreen">S10 E17</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123151500 -0300" stop="20211123160000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Ben E Erin: Veterinários do Meio-Oeste</title>
+    <sub-title lang="pt">Heartland Docs</sub-title>
+    <desc lang="pt">Antes do início de um rodeio, Erin e Ben Schroeder garantem que os animais estejam saudáveis e prontos.</desc>
+    <credits>
+      <director>Pam Caragol Wells</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123160000 -0300" stop="20211123164500 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Yukon: Plantão Veterinário</title>
+    <sub-title lang="pt">Dr Oakley: Yukon Vet</sub-title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <director>Tracy Rudolph</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Comportamento)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123164500 -0300" stop="20211123173000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Alasca: Reabilitação Selvagem</title>
+    <sub-title lang="pt">Alaska Animal Rescue</sub-title>
+    <desc lang="pt">No Sealife Center, duas focas usam o poder da amizade para trabalharem juntas na sua reabilitação. No Alaska Wildlife Conservation Center, um caribu órfão está procurando um rebanho para adotá-lo.</desc>
+    <credits>
+      <director>Pamela Caragol Wells</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S6 E15</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123173000 -0300" stop="20211123181500 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Os Segredos do Zoológico</title>
+    <desc lang="pt">O zoológico inteiro está de vigia enquanto Phoebe, a elefante, entra em trabalho de parto. Pode levar três ou trinta dias para o grande evento acontecer.</desc>
+    <credits>
+      <director>Ahsley Hoppin</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123181500 -0300" stop="20211123190000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Clínica Animal</title>
+    <sub-title lang="pt">Bugged Bunny</sub-title>
+    <desc lang="pt">A nova veterinária está botando o pé na estrada! A Dra. Michele acompanha nossos doutores veteranos em um curso intensivo na fazenda - estilo Dr. Pol!</desc>
+    <credits>
+      <director>Ted Duvall</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123190000 -0300" stop="20211123194500 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Radar Pet</title>
+    <desc lang="pt">Junte-se ao grupo de pesquisadores em uma corrida contra o tempo na busca por animais desaparecidos. Marcela, Jorge e Rapha são os especialistas.</desc>
+    <credits>
+      <director>Juliana Vonlanten</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S8 E11</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123194500 -0300" stop="20211123203000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Dra K: Animais Exóticos</title>
+    <sub-title lang="pt">Dr. K's Exotic Animal</sub-title>
+    <desc lang="pt">O furão Xanthus não responde e é levado às pressas para a clínica para ser atendido. O tratamento para uma queda acentuada de açúcar no sangue não muda sua condição, e diagnosticar sua doença se torna mais desafiador.</desc>
+    <credits>
+      <director>Elaine Pugliese</director>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123203000 -0300" stop="20211123211500 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Dra. T: Clínica De Animais Exóticos</title>
+    <sub-title lang="pt">Dr. T Lone Star Vet</sub-title>
+    <desc lang="pt">A Dra. T trata a tartaruga da sua família, que não consegue nadar, e uma coelha prenha que não consegue dar à luz.</desc>
+    <credits>
+      <director>Dean Bushala</director>
+      <actor>Chris Payne Gilbert</actor>
+      <actor>Lauren Thielen</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S6 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123211500 -0300" stop="20211123220000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Clínica Animal com Dr. Pol</title>
+    <desc lang="pt">Os experientes veterinários estão atentos a tudo ao tratar emues que tropeçam nas coisas, potros machucados, porcos aleijados e cães infectados.</desc>
+    <credits>
+      <director>Tracy Rudolph</director>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123220000 -0300" stop="20211123224500 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Clínica Animal com Dr. Pol</title>
+    <desc lang="pt">Os clientes fazem fila antes que o Dr. Pol beba seu café da manhã. Mais tarde, os veterinários cuidam das emergências noturnas, enquanto a equipe aquece um filhote hipotérmico.</desc>
+    <credits>
+      <director>Tracy Rudolph</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S10 E2</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123224500 -0300" stop="20211123233000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Yukon: Plantão Veterinário</title>
+    <sub-title lang="pt">Dr Oakley: Yukon Vet</sub-title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Séries (Comportamento)</category>
+    <episode-num system="onscreen">S10 E12</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
 </tv>
