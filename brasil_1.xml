@@ -46240,4 +46240,1656 @@
       <value>12</value>
     </rating>
   </programme>
+  <programme start="20211122003600 -0300" stop="20211122012700 -0300" channel="Multishow">
+    <title lang="pt">Vai Que Cola</title>
+    <desc lang="pt">Demitido da equipe de Péricles por causa de uma piada sobre o peso do sambista, Lacraia chega da pensão cheio de graça.</desc>
+    <credits>
+      <director>Carlos Milani</director>
+      <actor>Nando Rodrigues</actor>
+      <actor>Paulo Serra</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211122012700 -0300" stop="20211122015900 -0300" channel="Multishow">
+    <title lang="pt">Experimente</title>
+    <desc lang="pt">Série de 10 episódios, que está em sua 13ª temporada, apresentando bandas que começam a despontar no cenário musical brasileiro.</desc>
+    <credits>
+      <director>Rafael Mellin</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Musical)</category>
+    <episode-num system="onscreen">S9 E11</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211122015900 -0300" stop="20211122043000 -0300" channel="Multishow">
+    <title lang="pt">Top TVZ</title>
+    <desc lang="pt">O programa de clipes do Multishow, onde quem escolhe as músicas é o público. Através do site do canal (www.multishow.com.br), o internauta tem a oportunidade de votar em seu clipe preferido exibido pelo TVZ durante a semana anterior. Os vinte clipes mais votados da semana são exibidos no TOP TVZ.</desc>
+    <category lang="pt">Variedades (Musical)</category>
+    <episode-num system="onscreen">S13 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211122043000 -0300" stop="20211122045200 -0300" channel="Multishow">
+    <title lang="pt">Mágica de Rua</title>
+    <desc lang="pt">O ilusionista canadense Eric LeClerc desta vez leva suas mágicas para as ruas dos Estados Unidos.</desc>
+    <credits>
+      <director>Will Nothacker</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211122045200 -0300" stop="20211122052600 -0300" channel="Multishow">
+    <title lang="pt">Prêmio Multishow - Especial</title>
+    <desc lang="pt">Comemorando 25 edições, o Especial Prêmio Multishow 2018 em seu formato documentário vai fazer um recorte divertido e pontual de como o Prêmio dialoga com o cenário musical vigente.</desc>
+    <credits>
+      <director>Daniel Ferro</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Variedades (Musical)</category>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122052600 -0300" stop="20211122060000 -0300" channel="Multishow">
+    <title lang="pt">É o Fluxo</title>
+    <desc lang="pt">A cada episódio, os apresentadores receberão artistas convidados do universo do funk que irão participar dos quadros, fazer performance de suas músicas e mostrar sua relação com a cena cultural retratada.</desc>
+    <credits>
+      <director>Tadeu Jungle</director>
+      <director>Tico Fernandes</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades (Musical)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211122060000 -0300" stop="20211122070000 -0300" channel="Multishow">
+    <title lang="pt">Um Jogo Quase Impossível</title>
+    <sub-title lang="pt">The Almost Impossible Game Show Uk</sub-title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <director>Kevin Batchelor</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211122070000 -0300" stop="20211122073000 -0300" channel="Multishow">
+    <title lang="pt">Cassetadas da Internet</title>
+    <sub-title lang="pt">Alltime Greatest Clip Show</sub-title>
+    <desc lang="pt">Agrupada em torno de temas fáceis de acompanhar, a série abrange uma grande variedade de clipes; de acrobacias diy com falhas épicas de profissionais e suas conquistas incríveis.</desc>
+    <credits>
+      <director>Guillermina Ortega</director>
+    </credits>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211122073000 -0300" stop="20211122075900 -0300" channel="Multishow">
+    <title lang="pt">Off No Multishow</title>
+    <desc lang="pt">Programas, documentários e especiais, cujas imagens são retratadas em cenários paradisíacos, com trilhas sonoras inovadoras e personagens que encaram experiências de tirar o fôlego.</desc>
+    <credits>
+      <director>Rafael Rodrigues</director>
+      <director>Paulo Barcellos</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Aventura)</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122075900 -0300" stop="20211122083100 -0300" channel="Multishow">
+    <title lang="pt">Reclame</title>
+    <desc lang="pt">Tudo sobre o mundo da comunicação: entrevistas com grandes publicitários, pensadores, criativos, cobertura dos maiores festivais de comunicação e muito mais.</desc>
+    <credits>
+      <director>Emerson Souza</director>
+      <director>Roger Garcia</director>
+      <director>Toshio Yamazaki</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211122083100 -0300" stop="20211122090300 -0300" channel="Multishow">
+    <title lang="pt">Anota Aí - Os 10 Mais</title>
+    <desc lang="pt">Titi descobre as sobremesas mais irresistíveis que você pode encontrar dando uma voltinha pelo Brasil. Doces, bolos e sorvetes para elevar os níveis de alegria de qualquer um.</desc>
+    <credits>
+      <director>Paula Buarque</director>
+      <actor>Titi Müller</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Viagem)</category>
+    <episode-num system="onscreen">S15 E38</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211122090300 -0300" stop="20211122093100 -0300" channel="Multishow">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <sub-title lang="pt">Fresh Prince of Bell-Air</sub-title>
+    <desc lang="pt">O Will propõe que tenha uma aula de história negra na Academia de Bel-Air, e fica surpreso quando a tia Viv se torna sua professora.</desc>
+    <credits>
+      <director>Jeff Melman</director>
+      <actor>Will Smith</actor>
+      <actor>James Avery</actor>
+      <actor>Janet Huber</actor>
+      <actor>Alfonso Ribeiro</actor>
+      <actor>Karyn Parsons</actor>
+      <actor>Tatyana Ali</actor>
+      <actor>Joseph Marcell</actor>
+      <actor>Helen Page Camp</actor>
+      <actor>John Petlock</actor>
+    </credits>
+    <date>1991</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S8 E5</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211122093100 -0300" stop="20211122100500 -0300" channel="Multishow">
+    <title lang="pt">Prêmio Multishow - Especial</title>
+    <desc lang="pt">Comemorando 25 edições, o Especial Prêmio Multishow 2018 em seu formato documentário vai fazer um recorte divertido e pontual de como o Prêmio dialoga com o cenário musical vigente.</desc>
+    <credits>
+      <director>Daniel Ferro</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Variedades (Musical)</category>
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122100500 -0300" stop="20211122123500 -0300" channel="Multishow">
+    <title lang="pt">TVZ</title>
+    <desc lang="pt">Quatro horas diárias com os melhores clipes nacionais e internacionais sem apresentador, sem blá blá blá e com legendas em português. As letras originais e traduzidas ficam disponíveis no multishow.com.br.</desc>
+    <category lang="pt">Variedades (Musical)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211122123500 -0300" stop="20211122134000 -0300" channel="Multishow">
+    <title lang="pt">Trace Trends</title>
+    <desc lang="pt">Rei do samba e do pagode, Péricles canta no especial de 2 anos da Trace no Brasil! Ele também fala da carreira, da paternidade na pandemia, de amor e da sua luta antirracista.</desc>
+    <credits>
+      <director>Alberto Pereira Jr.</director>
+    </credits>
+    <category lang="pt">Variedades (Diversos)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211122134000 -0300" stop="20211122150000 -0300" channel="Multishow">
+    <title lang="pt">The Voice Brasil</title>
+    <desc lang="pt">Reality musical em que quatro times, liderados por grandes nomes da música nacional, competem entre si para identificar a nova voz do país.</desc>
+    <credits>
+      <director>Creso Eduardo Macedo</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades (Reality Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122150000 -0300" stop="20211122155300 -0300" channel="Multishow">
+    <title lang="pt">Lady Night - Com Tatá Werneck</title>
+    <sub-title lang="pt">Lady Night</sub-title>
+    <desc lang="pt">"A cada episódio Tatá Werneck recebe um artista em seu talkshow e bate papo, nada comum, com muitas brincadeiras e bom humor".</desc>
+    <credits>
+      <director>Caíto Mainier</director>
+      <director>Lilian Amarante</director>
+      <actor>Tatá Werneck</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211122155300 -0300" stop="20211122162600 -0300" channel="Multishow">
+    <title lang="pt">Henrique &amp; Juliano - O Céu Explica Tudo</title>
+    <desc lang="pt">Conhecidos por arrastar multidões, Henrique &amp; Juliano escolheram gravar o show na cidade de São Paulo, que abraçou a dupla desde o começo da carreira.</desc>
+    <credits>
+      <director>Fernando Trevisan</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Espetáculo (Show)</category>
+    <episode-num system="onscreen">S6 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122162600 -0300" stop="20211122172600 -0300" channel="Multishow">
+    <title lang="pt">Versões</title>
+    <desc lang="pt">Artistas brasileiros são convidados para fazerem suas versões de clássicos da música. A cada episódio, a obra de uma banda ou de um artista é homenageada.</desc>
+    <credits>
+      <director>Guilherme Zattar</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Variedades (Musical)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211122172600 -0300" stop="20211122175800 -0300" channel="Multishow">
+    <title lang="pt">Bis No Multishow</title>
+    <desc lang="pt">Um gostinho da programação do Bis, O Canal que mais entende de música.</desc>
+    <category lang="pt">Variedades (Musical)</category>
+    <episode-num system="onscreen">S4 E10</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122175800 -0300" stop="20211122183000 -0300" channel="Multishow">
+    <title lang="pt">Lugar Incomum</title>
+    <desc lang="pt">Didi Wagner mostra os encantos da Pont des Arts e sua imensa coleção de cadeados; passeia pela região de Pigalle, onde ficam os sex shops da capital francesa e assiste a um show da cantora Anouk Aiata no Les Trois Baudets.</desc>
+    <credits>
+      <director>Paula Buarque</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Viagem)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122183000 -0300" stop="20211122200000 -0300" channel="Multishow">
+    <title lang="pt">TVZ Temporada Dilsinho - Lauana Prado</title>
+    <desc lang="pt">Tvz Temporada Dilsinho - Lauana Prado.</desc>
+    <credits>
+      <director>Tatiana Costa</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades (Musical)</category>
+    <episode-num system="onscreen">S9 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211122200000 -0300" stop="20211122203000 -0300" channel="Multishow">
+    <title lang="pt">É o Fluxo</title>
+    <desc lang="pt">A cada episódio, os apresentadores receberão artistas convidados do universo do funk que irão participar dos quadros, fazer performance de suas músicas e mostrar sua relação com a cena cultural retratada.</desc>
+    <credits>
+      <director>Tadeu Jungle</director>
+      <director>Tico Fernandes</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades (Musical)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211122203000 -0300" stop="20211122220000 -0300" channel="Multishow">
+    <title lang="pt">Adele One Night Only</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Variedades (Musical)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122220000 -0300" stop="20211122223000 -0300" channel="Multishow">
+    <title lang="pt">Tô de Graça</title>
+    <desc lang="pt">Preocupada com as despesas do mês, Graça recebe o telefonema de um ex patrão muito rico que quer visitá-la. Ela se anima, quem sabe o Almirante não pode lhe ajudar? Graça então prepara uma recepção para o velho.</desc>
+    <credits>
+      <director>Cesar Rodrigues</director>
+      <director>João Fonseca</director>
+      <actor>Aline Riscado</actor>
+      <actor>Cacau Protásio</actor>
+      <actor>Catarina Abdalla</actor>
+      <actor>Emiliano D'avila</actor>
+      <actor>Fiorella Mattheis</actor>
+      <actor>Isaac Guedes</actor>
+      <actor>Letícia Lima</actor>
+      <actor>Luis Lobianco</actor>
+      <actor>Marcelo Médici</actor>
+      <actor>Marco Luque</actor>
+      <actor>Marcus Majella</actor>
+      <actor>Rafael Infante</actor>
+      <actor>Samantha Schmütz</actor>
+      <actor>Silvio Guindane</actor>
+      <actor>Tatá Werneck</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211122223000 -0300" stop="20211122231500 -0300" channel="Multishow">
+    <title lang="pt">Vai Que Cola</title>
+    <desc lang="pt">Sanderson consegue um carro emprestado, e chama seus amigos mais próximos da pensão para um dia de pesca numa praia que é um verdadeiro paraíso em Niterói.</desc>
+    <credits>
+      <director>Carlos Milani</director>
+      <actor>Jeniffer Nascimento</actor>
+      <actor>Nando Rodrigues</actor>
+      <actor>Nanny People</actor>
+      <actor>Paulo Serra</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S5 E14</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211122231500 -0300" stop="20211123001200 -0300" channel="Multishow">
+    <title lang="pt">Lady Night - Com Tatá Werneck</title>
+    <sub-title lang="pt">Lady Night</sub-title>
+    <desc lang="pt">"A cada episódio Tatá Werneck recebe um artista em seu talkshow e bate papo, nada comum, com muitas brincadeiras e bom humor".</desc>
+    <credits>
+      <director>Caíto Mainier</director>
+      <director>Lilian Amarante</director>
+      <actor>Tatá Werneck</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S9 E17</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123001200 -0300" stop="20211123010500 -0300" channel="Multishow">
+    <title lang="pt">Lady Night - Com Tatá Werneck</title>
+    <sub-title lang="pt">Lady Night</sub-title>
+    <desc lang="pt">"A cada episódio Tatá Werneck recebe um artista em seu talkshow e bate papo, nada comum, com muitas brincadeiras e bom humor".</desc>
+    <credits>
+      <director>Caíto Mainier</director>
+      <director>Lilian Amarante</director>
+      <actor>Tatá Werneck</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S6 E6</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123010500 -0300" stop="20211123013700 -0300" channel="Multishow">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <sub-title lang="pt">Fresh Prince of Bell-Air</sub-title>
+    <desc lang="pt">A mãe do Philip se junta à família no fim de semana após se recuperar de um resfriado. O Philip quer que ela relaxe no fim de semana, mas ela quer ser mais ativa.</desc>
+    <credits>
+      <director>Jeff Melman</director>
+      <actor>Will Smith</actor>
+      <actor>James Avery</actor>
+      <actor>Janet Huber</actor>
+      <actor>Alfonso Ribeiro</actor>
+      <actor>Karyn Parsons</actor>
+      <actor>Tatyana Ali</actor>
+      <actor>Joseph Marcell</actor>
+      <actor>Helen Page Camp</actor>
+      <actor>John Petlock</actor>
+    </credits>
+    <date>1991</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S6 E5</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123013700 -0300" stop="20211123020700 -0300" channel="Multishow">
+    <title lang="pt">Bar Aberto</title>
+    <desc lang="pt">Dez participantes amantes de coquetelaria disputam o prêmio final de melhor bartender amador do Brasil. A apresentadora Laura Vicente e Márcio Silva, o mais renomado bartender do país, conduzem o programa e recebem, a cada episódio, um convidado da música ou entretenimento e um jurado técnico.</desc>
+    <credits>
+      <director>Eugênia Ruggeri</director>
+      <actor>Eugênia Ruggeri</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S1 E18</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123020700 -0300" stop="20211123043700 -0300" channel="Multishow">
+    <title lang="pt">TVZ Temporada Dilsinho - Lauana Prado</title>
+    <desc lang="pt">Tvz Temporada Dilsinho - Lauana Prado.</desc>
+    <credits>
+      <director>Tatiana Costa</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades (Musical)</category>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123043700 -0300" stop="20211123053000 -0300" channel="Multishow">
+    <title lang="pt">Lady Night - Com Tatá Werneck</title>
+    <sub-title lang="pt">Lady Night</sub-title>
+    <desc lang="pt">"A cada episódio Tatá Werneck recebe um artista em seu talkshow e bate papo, nada comum, com muitas brincadeiras e bom humor".</desc>
+    <credits>
+      <director>Caíto Mainier</director>
+      <director>Lilian Amarante</director>
+      <actor>Tatá Werneck</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123053000 -0300" stop="20211123060200 -0300" channel="Multishow">
+    <title lang="pt">Trolados</title>
+    <sub-title lang="pt">Fameless</sub-title>
+    <desc lang="pt">Segunda temporada da série. Pessoas que querem ser famosas são levadas para reality shows diversos - competições de talento, reformas de casa, jogos de sobrevivência, etc.</desc>
+    <credits>
+      <director>Travis Draft</director>
+      <actor>David Storrs</actor>
+      <actor>Damon Zwicker</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S6 E5</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123060200 -0300" stop="20211123063100 -0300" channel="Multishow">
+    <title lang="pt">Virais Da Internet</title>
+    <sub-title lang="pt">The Hustle</sub-title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <date>2018</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123063100 -0300" stop="20211123070000 -0300" channel="Multishow">
+    <title lang="pt">Truques Pelo Mundo</title>
+    <sub-title lang="pt">Magic: Caught On Camera</sub-title>
+    <desc lang="pt">Mágicos em todos os Estados Unidos e em todo o mundo vão às ruas para realizar ilusões alucinantes. De cidade em cidade, eles surpreendem e confundem os transeuntes com truques de cartas nunca antes vistos, hipnose, prestidigitação, levitação, atos de desaparecimento e muito mais!</desc>
+    <credits>
+      <director>Paul Kaup</director>
+    </credits>
+    <category lang="pt">Séries (Comédia)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123070000 -0300" stop="20211123082000 -0300" channel="Multishow">
+    <title lang="pt">The Voice Brasil</title>
+    <desc lang="pt">Reality musical em que quatro times, liderados por grandes nomes da música nacional, competem entre si para identificar a nova voz do país.</desc>
+    <credits>
+      <director>Creso Eduardo Macedo</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades (Reality Show)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123082000 -0300" stop="20211123092300 -0300" channel="Multishow">
+    <title lang="pt">Trace Trends</title>
+    <desc lang="pt">Rei do samba e do pagode, Péricles canta no especial de 2 anos da Trace no Brasil! Ele também fala da carreira, da paternidade na pandemia, de amor e da sua luta antirracista.</desc>
+    <credits>
+      <director>Alberto Pereira Jr.</director>
+    </credits>
+    <category lang="pt">Variedades (Diversos)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123092300 -0300" stop="20211123100000 -0300" channel="Multishow">
+    <title lang="pt">Tô de Graça</title>
+    <desc lang="pt">Preocupada com as despesas do mês, Graça recebe o telefonema de um ex patrão muito rico que quer visitá-la. Ela se anima, quem sabe o Almirante não pode lhe ajudar? Graça então prepara uma recepção para o velho.</desc>
+    <credits>
+      <director>Cesar Rodrigues</director>
+      <director>João Fonseca</director>
+      <actor>Aline Riscado</actor>
+      <actor>Cacau Protásio</actor>
+      <actor>Catarina Abdalla</actor>
+      <actor>Emiliano D'avila</actor>
+      <actor>Fiorella Mattheis</actor>
+      <actor>Isaac Guedes</actor>
+      <actor>Letícia Lima</actor>
+      <actor>Luis Lobianco</actor>
+      <actor>Marcelo Médici</actor>
+      <actor>Marco Luque</actor>
+      <actor>Marcus Majella</actor>
+      <actor>Rafael Infante</actor>
+      <actor>Samantha Schmütz</actor>
+      <actor>Silvio Guindane</actor>
+      <actor>Tatá Werneck</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123100000 -0300" stop="20211123123000 -0300" channel="Multishow">
+    <title lang="pt">TVZ Temporada Dilsinho - Lauana Prado</title>
+    <desc lang="pt">Tvz Temporada Dilsinho - Lauana Prado.</desc>
+    <credits>
+      <director>Tatiana Costa</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades (Musical)</category>
+    <episode-num system="onscreen">S5 E14</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123123000 -0300" stop="20211123133000 -0300" channel="Multishow">
+    <title lang="pt">Vai Que Cola</title>
+    <desc lang="pt">Sanderson consegue um carro emprestado, e chama seus amigos mais próximos da pensão para um dia de pesca numa praia que é um verdadeiro paraíso em Niterói.</desc>
+    <credits>
+      <director>Carlos Milani</director>
+      <actor>Jeniffer Nascimento</actor>
+      <actor>Nando Rodrigues</actor>
+      <actor>Nanny People</actor>
+      <actor>Paulo Serra</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123133000 -0300" stop="20211123150000 -0300" channel="Multishow">
+    <title lang="pt">Adele One Night Only</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Variedades (Musical)</category>
+    <episode-num system="onscreen">S9 E17</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123150000 -0300" stop="20211123155800 -0300" channel="Multishow">
+    <title lang="pt">Lady Night - Com Tatá Werneck</title>
+    <sub-title lang="pt">Lady Night</sub-title>
+    <desc lang="pt">"A cada episódio Tatá Werneck recebe um artista em seu talkshow e bate papo, nada comum, com muitas brincadeiras e bom humor".</desc>
+    <credits>
+      <director>Caíto Mainier</director>
+      <director>Lilian Amarante</director>
+      <actor>Tatá Werneck</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123155800 -0300" stop="20211123163000 -0300" channel="Multishow">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <sub-title lang="pt">Fresh Prince of Bell-Air</sub-title>
+    <desc lang="pt">A mãe do Philip se junta à família no fim de semana após se recuperar de um resfriado. O Philip quer que ela relaxe no fim de semana, mas ela quer ser mais ativa.</desc>
+    <credits>
+      <director>Jeff Melman</director>
+      <actor>Will Smith</actor>
+      <actor>James Avery</actor>
+      <actor>Janet Huber</actor>
+      <actor>Alfonso Ribeiro</actor>
+      <actor>Karyn Parsons</actor>
+      <actor>Tatyana Ali</actor>
+      <actor>Joseph Marcell</actor>
+      <actor>Helen Page Camp</actor>
+      <actor>John Petlock</actor>
+    </credits>
+    <date>1991</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S6 E6</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123163000 -0300" stop="20211123170400 -0300" channel="Multishow">
+    <title lang="pt">É o Fluxo</title>
+    <desc lang="pt">A cada episódio, os apresentadores receberão artistas convidados do universo do funk que irão participar dos quadros, fazer performance de suas músicas e mostrar sua relação com a cena cultural retratada.</desc>
+    <credits>
+      <director>Tadeu Jungle</director>
+      <director>Tico Fernandes</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades (Musical)</category>
+    <episode-num system="onscreen">S1 E18</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123170400 -0300" stop="20211123173100 -0300" channel="Multishow">
+    <title lang="pt">Bastidores</title>
+    <desc lang="pt">Dedé Teicher e Laura Vicente acompanham os bastidores das principais produções culturais do país.</desc>
+    <credits>
+      <director>Tatiana Costa</director>
+      <actor>Dedé Teicher</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Comportamento)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123173100 -0300" stop="20211123180000 -0300" channel="Multishow">
+    <title lang="pt">O Chefe da Casa</title>
+    <sub-title lang="pt">Man With a Plan</sub-title>
+    <desc lang="pt">Adam tenta organizar um jantar de aniversário para Andi e descobre que administrar convidados não é nada fácil.</desc>
+    <credits>
+      <director>Ben Weiss</director>
+      <actor>Matt Leblanc</actor>
+      <actor>Liza Snyder</actor>
+      <actor>Matt Cook Matt LeBlanc</actor>
+      <actor>Matt Cook</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S19 E10</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123180000 -0300" stop="20211123183000 -0300" channel="Multishow">
+    <title lang="pt">Off No Multishow</title>
+    <desc lang="pt">Programas, documentários e especiais, cujas imagens são retratadas em cenários paradisíacos, com trilhas sonoras inovadoras e personagens que encaram experiências de tirar o fôlego.</desc>
+    <credits>
+      <director>Rafael Rodrigues</director>
+      <director>Paulo Barcellos</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Aventura)</category>
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123183000 -0300" stop="20211123200000 -0300" channel="Multishow">
+    <title lang="pt">TVZ</title>
+    <desc lang="pt">Quatro horas diárias com os melhores clipes nacionais e internacionais sem apresentador, sem blá blá blá e com legendas em português. As letras originais e traduzidas ficam disponíveis no multishow.com.br.</desc>
+    <category lang="pt">Variedades (Musical)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123200000 -0300" stop="20211123203000 -0300" channel="Multishow">
+    <title lang="pt">Central de Bicos</title>
+    <desc lang="pt">"Carlota precisa de um cuidador de idosos para cuidar de seu pai, Jailson, um idoso com histórico de atleta e contrata a Central de Bicos. Gogó e Manteiguinha perdem o pai de Carlota e a confusão está armada.".</desc>
+    <credits>
+      <director>Silvio Guindane</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123203000 -0300" stop="20211123212300 -0300" channel="Multishow">
+    <title lang="pt">Vai Que Cola</title>
+    <desc lang="pt">Sanderson consegue um carro emprestado, e chama seus amigos mais próximos da pensão para um dia de pesca numa praia que é um verdadeiro paraíso em Niterói.</desc>
+    <credits>
+      <director>Carlos Milani</director>
+      <actor>Jeniffer Nascimento</actor>
+      <actor>Nando Rodrigues</actor>
+      <actor>Nanny People</actor>
+      <actor>Paulo Serra</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123212300 -0300" stop="20211123215900 -0300" channel="Multishow">
+    <title lang="pt">Tô de Graça</title>
+    <desc lang="pt">Com contas de água atrasadas e sendo cobrada por Pará, Graça vê através de Pablo uma oportunidade de ouro, ou melhor, de ovo.</desc>
+    <credits>
+      <director>Cesar Rodrigues</director>
+      <director>João Fonseca</director>
+      <actor>Aline Riscado</actor>
+      <actor>Cacau Protásio</actor>
+      <actor>Catarina Abdalla</actor>
+      <actor>Emiliano D'avila</actor>
+      <actor>Fiorella Mattheis</actor>
+      <actor>Isaac Guedes</actor>
+      <actor>Letícia Lima</actor>
+      <actor>Luis Lobianco</actor>
+      <actor>Marcelo Médici</actor>
+      <actor>Marco Luque</actor>
+      <actor>Marcus Majella</actor>
+      <actor>Rafael Infante</actor>
+      <actor>Samantha Schmütz</actor>
+      <actor>Silvio Guindane</actor>
+      <actor>Tatá Werneck</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S9 E17</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123215900 -0300" stop="20211123223000 -0300" channel="Multishow">
+    <title lang="pt">Tô de Graça</title>
+    <desc lang="pt">Enfrentando o stress pós traumático da traição de Moacir,que fugiu com Geralda, e a traição de Moreira, Graça desenvolve uma série de tocs variados, deixando a rotina da casa e a vida dos filhos ainda mais caótica.</desc>
+    <credits>
+      <director>Cesar Rodrigues</director>
+      <director>João Fonseca</director>
+      <actor>Aline Riscado</actor>
+      <actor>Cacau Protásio</actor>
+      <actor>Catarina Abdalla</actor>
+      <actor>Emiliano D'avila</actor>
+      <actor>Fiorella Mattheis</actor>
+      <actor>Isaac Guedes</actor>
+      <actor>Letícia Lima</actor>
+      <actor>Luis Lobianco</actor>
+      <actor>Marcelo Médici</actor>
+      <actor>Marco Luque</actor>
+      <actor>Marcus Majella</actor>
+      <actor>Rafael Infante</actor>
+      <actor>Samantha Schmütz</actor>
+      <actor>Silvio Guindane</actor>
+      <actor>Tatá Werneck</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S5 E15</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123223000 -0300" stop="20211123231500 -0300" channel="Multishow">
+    <title lang="pt">Vai Que Cola</title>
+    <desc lang="pt">Teresinha está bem tristinha por conta da falta de catrancos com os seus ficantes fixos Bebeto e Regine. Mas, ao mesmo tempo, ela também está sentindo falta de algo que ela não sabe bem o que é , ou não quer admitir.</desc>
+    <credits>
+      <director>Carlos Milani</director>
+      <actor>Jeniffer Nascimento</actor>
+      <actor>Nando Rodrigues</actor>
+      <actor>Nanny People</actor>
+      <actor>Paulo Serra</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S5 E16</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211122003000 -0300" stop="20211122015000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Cine Music</title>
+    <desc lang="pt">"O documentário revela como o Sertanejo Universitário se transformou no gênero musical maistocado e rentável do Brasil.</desc>
+    <date>2019</date>
+    <category lang="pt">Variedades (Musical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122015000 -0300" stop="20211122022000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Os Sambas</title>
+    <desc lang="pt">Série documental que visa abordar o universo do samba, reforçando a importância deste gênero musical para formação da identidade cultural brasileira.</desc>
+    <category lang="pt">Séries (Musical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122022000 -0300" stop="20211122023000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Music Drops</title>
+    <desc lang="pt">No intervalo da programação o Music Drops traz pequenas, porém intensas, doses de entrevistas com artistas nacionais.</desc>
+    <category lang="pt">Variedades (Musical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122023000 -0300" stop="20211122030000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Brasil De Todos Os Ritmos</title>
+    <desc lang="pt">Luiz Brasil percorre o país para celebrar todos os seus ritmos.</desc>
+    <credits>
+      <director>Luiz Brasil</director>
+      <actor>Carlos Malta</actor>
+      <actor>Pife Moderno</actor>
+      <actor>Lula Moreira</actor>
+      <actor>Quarteto Bessler</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122030000 -0300" stop="20211122033000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Brasil De Todos Os Ritmos</title>
+    <desc lang="pt">"Cria da musicalidade negra, esse ritmo tem raízes plantadas nos blocos afros deSalvador. Para falar e cantar o SAMBA REGGAE essa edição traz o cantor ecompositor Lazzo Matumbi, que canta "Lamento" dele e Gileno Felix e a cantora ecompositora Margareth Menezes que canta "Faraó", de Luciano Gomes, e "Querera",dela própria. Quem chega também é Mestre Memeu, diretor de bateria do Olodum;Vovô, diretor geral do Ilê Ayê e o diretor de bateria do Ilê Ayê, Mario Pam, que cantacom Luiz "O Mais Belo Dos Belos". Temos ainda a presença da Família Brasil: JorgeBrasil, Mou Brasil, Marcelo Brasil, Victor Brasil), além dos percussionistas baianosGabi Guedes, Josino Eduardo (Dú) e Giba Conceição. O episódio finaliza com LuizBrasil interpretando "Querubim" de sua autoria, com seus convidados especiais:Cesinha (bateria), João Rafael (baixo acústico e elétrico), Marcos Nimrichter (sanfona),Sidinho Moreira (percussão), Luiz Brasil (violão) mais uma Big Band de sopros,Marcelo Martins (Sax Tenor), Eliezer Rodrigues (Tuba), Eduardo Morelenbaum(Clarone), Aldivas Ayres (Trombone), Diogo Gomes (Fluguel horn).".</desc>
+    <credits>
+      <director>Luiz Brasil</director>
+      <actor>Lazzo Matumbi</actor>
+      <actor>Margareth Menezes</actor>
+      <actor>Mestre Memeu</actor>
+      <actor>Mario Pam</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122033000 -0300" stop="20211122034000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Music Drops</title>
+    <desc lang="pt">No intervalo da programação o Music Drops traz pequenas, porém intensas, doses de entrevistas com artistas nacionais.</desc>
+    <category lang="pt">Variedades (Musical)</category>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122034000 -0300" stop="20211122035000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Music Drops</title>
+    <desc lang="pt">No intervalo da programação o Music Drops traz pequenas, porém intensas, doses de entrevistas com artistas nacionais.</desc>
+    <category lang="pt">Variedades (Musical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122035000 -0300" stop="20211122035500 -0300" channel="Music Box Brasil">
+    <title lang="pt">Music Drops</title>
+    <desc lang="pt">No intervalo da programação o Music Drops traz pequenas, porém intensas, doses de entrevistas com artistas nacionais.</desc>
+    <category lang="pt">Variedades (Musical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122035500 -0300" stop="20211122040000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Music Drops</title>
+    <desc lang="pt">No intervalo da programação o Music Drops traz pequenas, porém intensas, doses de entrevistas com artistas nacionais.</desc>
+    <category lang="pt">Variedades (Musical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122040000 -0300" stop="20211122041000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Music Drops</title>
+    <desc lang="pt">No intervalo da programação o Music Drops traz pequenas, porém intensas, doses de entrevistas com artistas nacionais.</desc>
+    <category lang="pt">Variedades (Musical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122041000 -0300" stop="20211122061000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Music Box in Concert</title>
+    <desc lang="pt">Em uma edição especial online, o Festival Se Rasgum se reinventa. São três dias de apresentações e entrevistas com artistas nacionais.</desc>
+    <category lang="pt">Espetáculo (Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122061000 -0300" stop="20211122063000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Music Box in Concert</title>
+    <desc lang="pt">O Music Box Brazil leva você até a primeira fila para conferir os melhores shows do Brasil, sem distinção de gênero. Do axé ao rock, do pop ao sertanejo, os melhores artistas estão no Music Box in Concert.</desc>
+    <category lang="pt">Espetáculo (Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122063000 -0300" stop="20211122070000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Acorda Amor</title>
+    <desc lang="pt">O programa abre com Emicida interpretando, por exemplo, "Apesar de você", de Chico Buarque, antecipando o tom da narrativa que virá a seguir.</desc>
+    <credits>
+      <director>Jodele Larcher</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades (Entrevista)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122070000 -0300" stop="20211122073000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Acorda Amor</title>
+    <desc lang="pt">João Cavalcanti analisa a história da música de protesto no Brasil. Carlos Rennó fala das suas composições e do conceito de utopia. Marcelo Pretto interpreta "samba da utopia" composição de Jonathan Silva. Furmiga Dub destaca a importância das suas parcerias com os artistas da música popular no encontro com o tradicional e o contemporâneo e mostra as suas parcerias com Anitta e Marinho.Gog afirma que o Rap é a música de protesto efetiva atual. Marian Íris fala como a ocupação do espaço público pelos músicos configura um ato de protesto. Juba e Flávia, produtores do festival Honk, levantam as bandeiras do movimento colaborativo que é uma realidade em vários países. Daniel Peixoto lembra como seu trabalho foi precursor para o movimento LGBTQIA + e sobre o preconceito que sofre por ser nordestino. Gilberto Gil reconhece o potencial democrático com a produção de nova mídias. Larissa Luz diz que os artistas acompanham as formas de protestar de seu tempo.</desc>
+    <credits>
+      <director>Jodele Larcher</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades (Entrevista)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122073000 -0300" stop="20211122083500 -0300" channel="Music Box Brasil">
+    <title lang="pt">Music Box in Concert</title>
+    <desc lang="pt">No terceiro concerto da Série Romântica Brasileira, o conjunto de cordas da OSB - sob a regência do maestro Daniel Guedes - apresenta obras de Clóvis Pereira, Schubert e Tchaikovsky.</desc>
+    <credits>
+      <director>Vitor Luiz De Souza Lima</director>
+      <actor>Orquestra Sinfônica Brasileira</actor>
+    </credits>
+    <category lang="pt">Espetáculo (Show)</category>
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122083500 -0300" stop="20211122094500 -0300" channel="Music Box Brasil">
+    <title lang="pt">Music Box in Concert</title>
+    <desc lang="pt">Após a longa turnê de divulgação do disco Praieiro, os Selvagens à Procura de Lei voltaram a Fortaleza para filmar a apresentação no festival Maloca Dragão 2018.</desc>
+    <date>2019</date>
+    <category lang="pt">Espetáculo (Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122094500 -0300" stop="20211122095500 -0300" channel="Music Box Brasil">
+    <title lang="pt">Music Drops</title>
+    <desc lang="pt">No intervalo da programação o Music Drops traz pequenas, porém intensas, doses de entrevistas com artistas nacionais.</desc>
+    <category lang="pt">Variedades (Musical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122095500 -0300" stop="20211122105000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Music Box in Concert</title>
+    <desc lang="pt">MV Bill apresenta, neste tributo à sua consolidada carreira, versões inéditas de algumas de suas músicas mais marcantes, rearranjadas pela banda Afrojazz e ao lado de convidados especiais.</desc>
+    <category lang="pt">Espetáculo (Show)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211122105000 -0300" stop="20211122115000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Batalha De Clipes</title>
+    <desc lang="pt">Seja o VJ do Music escolhendo os clipes que vão rolar por aqui, siga o @musicboxbrazil nas redes sociais e vote.</desc>
+    <category lang="pt">Variedades (Musical)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211122115000 -0300" stop="20211122133000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Terra Brasilis</title>
+    <desc lang="pt">Conhecido como um dos maiores grupos de samba do mundo, o Grupo Revelação apresenta mais uma novidade!</desc>
+    <credits>
+      <director>Luiz Fernando Trindade Paiva</director>
+      <actor>Revelação</actor>
+      <actor>Gaab</actor>
+      <actor>Waguinho</actor>
+      <actor>Ferrugem</actor>
+      <actor>Grupo Di Propósito</actor>
+      <actor>Thiago Martins</actor>
+      <actor>Suel</actor>
+      <actor>Vitinho E Chininha</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades (Musical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122133000 -0300" stop="20211122140000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Rodrigo Santos - Trem Bala</title>
+    <desc lang="pt">O interesse pela música aparece ainda na infância, tipo um garoto que amava os Beatles e Rolling Stones, Rodrigo logo aprende a tocar violão, baixo e guitarra.</desc>
+    <credits>
+      <director>João Elias Ribeiro Junior</director>
+      <actor>Rodrigo Santos</actor>
+      <actor>Marcelo Serrado</actor>
+      <actor>Frejat</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211122140000 -0300" stop="20211122143000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Rodrigo Santos - Trem Bala</title>
+    <desc lang="pt">Rodrigo junto com a banda Front toca com Leo Jaime por quase 3 anos, paralelamente começa a tocar com João Penca e seus Miquinhos Amestrados.</desc>
+    <credits>
+      <director>João Elias Ribeiro Junior</director>
+      <actor>Rodrigo Santos</actor>
+      <actor>Marcelo Serrado</actor>
+      <actor>Frejat</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211122143000 -0300" stop="20211122150000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Robertinho de Recife? Robertinho do Mundo!</title>
+    <desc lang="pt">Compreende a sua volta ao Brasil, recomeçando as atividades, mostrando seu relacionamento com artistas que se tornariam nomes de destaque da cultura brasileira.</desc>
+    <credits>
+      <director>Cláudia André</director>
+      <actor>Robertinho de Recife</actor>
+      <actor>Elba Ramalho</actor>
+      <actor>Caetano Veloso</actor>
+      <actor>Zé Ramalho</actor>
+      <actor>Alceu Valença</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Documentário (Biografia)</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122150000 -0300" stop="20211122153000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Robertinho de Recife? Robertinho do Mundo!</title>
+    <desc lang="pt">Os primeiros sucessos de rádio em que sua guitarra se destaca dando uma nova direção e função do instrumento na MPB.</desc>
+    <credits>
+      <director>Cláudia André</director>
+      <actor>Robertinho de Recife</actor>
+      <actor>Elba Ramalho</actor>
+      <actor>Caetano Veloso</actor>
+      <actor>Zé Ramalho</actor>
+      <actor>Alceu Valença</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Documentário (Biografia)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122153000 -0300" stop="20211122183000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Medalhão Persa</title>
+    <desc lang="pt">Loroza Talk Soul é um Talk Show semanal apresentado pelo super carismático e multi artista Serjão Loroza.</desc>
+    <category lang="pt">Variedades (Diversos)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122183000 -0300" stop="20211122190000 -0300" channel="Music Box Brasil">
+    <title lang="pt">O Que Te Inspira</title>
+    <desc lang="pt">Ao formar-se com honra pela consagrada GIT (USA) em 1992, o músico niteroiense Alex Martinho alça voos através de carreira solo e banda, contando cinco CDs e três DVDs lançados.</desc>
+    <credits>
+      <director>Marcelo De Carvalho Caldas</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Variedades (Entrevista)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122190000 -0300" stop="20211122193000 -0300" channel="Music Box Brasil">
+    <title lang="pt">O Que Te Inspira</title>
+    <desc lang="pt">Compositor e multi-instrumentista, Yuri Corbal é a mais nova promessa da cultura pop niteroiense.</desc>
+    <credits>
+      <director>Marcelo De Carvalho Caldas</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Variedades (Entrevista)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122193000 -0300" stop="20211122195500 -0300" channel="Music Box Brasil">
+    <title lang="pt">Música Para Ver</title>
+    <desc lang="pt">No terceiro ep. convidamos Mú Carvalho músico e produtor musical consagrado. Mú traz em seu currículo diversas trilhas de novela e cinema, num bate papo super descontraído Mú revela algumas histórias.</desc>
+    <credits>
+      <director>Elir Henrique De Mendonça Filho</director>
+    </credits>
+    <category lang="pt">Séries (Musical)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122195500 -0300" stop="20211122202000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Música Para Ver</title>
+    <desc lang="pt">No quarto episódio da obra, recebemos Nilze Carvalho, cantora e multi-instrumentista que desde pequena frequenta estúdios e produz sua própria música.</desc>
+    <credits>
+      <director>Elir Henrique De Mendonça Filho</director>
+    </credits>
+    <category lang="pt">Séries (Musical)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122202000 -0300" stop="20211122212000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Universo Afromusic</title>
+    <desc lang="pt">O festival é protagonizado por artistas e bandas pretas que estão alavancando a nova cena independente que transitam entre gêneros da música tradicional.</desc>
+    <credits>
+      <director>Joyce Pradro E Arthur Baeta</director>
+      <actor>Izzy Gordon</actor>
+    </credits>
+    <category lang="pt">Espetáculo (Show)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211122212000 -0300" stop="20211122215000 -0300" channel="Music Box Brasil">
+    <title lang="pt">A História Secreta do Pop Brasileiro</title>
+    <desc lang="pt">A incrível saga de uma banda paulistana que gravou, segundo cálculos, cerca de 50 mil músicas em 30 anos de carreira, incluindo hits como ''Fuscão Preto'', ''É o Amor'' e ''Feelings'.</desc>
+    <date>2019</date>
+    <category lang="pt">Séries (Musical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122215000 -0300" stop="20211122221500 -0300" channel="Music Box Brasil">
+    <title lang="pt">A História Secreta do Pop Brasileiro</title>
+    <desc lang="pt">Nos anos 70, as lojas de discos passaram a vender milhares de LPs de ''covers'', a maioria sem créditos de músicos. A série vai revelar as histórias por trás de alguns desses LPs.</desc>
+    <date>2019</date>
+    <category lang="pt">Séries (Musical)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122221500 -0300" stop="20211122222500 -0300" channel="Music Box Brasil">
+    <title lang="pt">Music Drops</title>
+    <desc lang="pt">Entrevista com o cantor sertanejo Vittor Augusto.</desc>
+    <category lang="pt">Variedades (Musical)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122222500 -0300" stop="20211122225500 -0300" channel="Music Box Brasil">
+    <title lang="pt">Lincoln Olivetti - O Mago Do Pop</title>
+    <desc lang="pt">É fácil encontrar quem nunca ouviu falar de Lincoln Olivetti, mas é quase impossível achar quem nunca escutou, dançou ou se emocionou com as músicas que carregam o seu DNA.</desc>
+    <category lang="pt">Séries (Musical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122225500 -0300" stop="20211122232500 -0300" channel="Music Box Brasil">
+    <title lang="pt">Lincoln Olivetti - O Mago Do Pop</title>
+    <desc lang="pt">O começo da carreira de Lincoln Olivetti, em São Paulo.</desc>
+    <category lang="pt">Séries (Musical)</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211122232500 -0300" stop="20211123000000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Jukebox (videoclipes)</title>
+    <desc lang="pt">O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox. Toda a diversidade da música brasileira pra não deixar ninguém parado!</desc>
+    <category lang="pt">Variedades (Musical)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123000000 -0300" stop="20211123014000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Terra Brasilis</title>
+    <desc lang="pt">Conhecido como um dos maiores grupos de samba do mundo, o Grupo Revelação apresenta mais uma novidade!</desc>
+    <credits>
+      <director>Luiz Fernando Trindade Paiva</director>
+      <actor>Revelação</actor>
+      <actor>Gaab</actor>
+      <actor>Waguinho</actor>
+      <actor>Ferrugem</actor>
+      <actor>Grupo Di Propósito</actor>
+      <actor>Thiago Martins</actor>
+      <actor>Suel</actor>
+      <actor>Vitinho E Chininha</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades (Musical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123014000 -0300" stop="20211123021000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Rodrigo Santos - Trem Bala</title>
+    <desc lang="pt">Rodrigo entra para o Barão Vermelho, nesse episódio vamos assistir toda sua trajetória na banda.</desc>
+    <credits>
+      <director>João Elias Ribeiro Junior</director>
+      <actor>Rodrigo Santos</actor>
+      <actor>Marcelo Serrado</actor>
+      <actor>Frejat</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123021000 -0300" stop="20211123024000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Rodrigo Santos - Trem Bala</title>
+    <desc lang="pt">Nesse episódio vamos acompanhar como as drogas entraram e saíram da vida de Rodrigo. Seu primeiro contato com a cocaína, o deslumbre, as histórias desde o consumo social até o uso diário.</desc>
+    <credits>
+      <director>João Elias Ribeiro Junior</director>
+      <actor>Rodrigo Santos</actor>
+      <actor>Marcelo Serrado</actor>
+      <actor>Frejat</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123024000 -0300" stop="20211123031000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Robertinho de Recife? Robertinho do Mundo!</title>
+    <desc lang="pt">Compreende a sua volta ao Brasil, recomeçando as atividades, mostrando seu relacionamento com artistas que se tornariam nomes de destaque da cultura brasileira.</desc>
+    <credits>
+      <director>Cláudia André</director>
+      <actor>Robertinho de Recife</actor>
+      <actor>Elba Ramalho</actor>
+      <actor>Caetano Veloso</actor>
+      <actor>Zé Ramalho</actor>
+      <actor>Alceu Valença</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Documentário (Biografia)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123031000 -0300" stop="20211123034000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Robertinho de Recife? Robertinho do Mundo!</title>
+    <desc lang="pt">Os primeiros sucessos de rádio em que sua guitarra se destaca dando uma nova direção e função do instrumento na MPB.</desc>
+    <credits>
+      <director>Cláudia André</director>
+      <actor>Robertinho de Recife</actor>
+      <actor>Elba Ramalho</actor>
+      <actor>Caetano Veloso</actor>
+      <actor>Zé Ramalho</actor>
+      <actor>Alceu Valença</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Documentário (Biografia)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123034000 -0300" stop="20211123035000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Music Drops</title>
+    <desc lang="pt">No intervalo da programação o Music Drops traz pequenas, porém intensas, doses de entrevistas com artistas nacionais.</desc>
+    <category lang="pt">Variedades (Musical)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123035000 -0300" stop="20211123040000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Music Drops</title>
+    <desc lang="pt">No intervalo da programação o Music Drops traz pequenas, porém intensas, doses de entrevistas com artistas nacionais.</desc>
+    <category lang="pt">Variedades (Musical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123040000 -0300" stop="20211123040500 -0300" channel="Music Box Brasil">
+    <title lang="pt">Music Drops</title>
+    <desc lang="pt">No intervalo da programação o Music Drops traz pequenas, porém intensas, doses de entrevistas com artistas nacionais.</desc>
+    <category lang="pt">Variedades (Musical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123040500 -0300" stop="20211123060500 -0300" channel="Music Box Brasil">
+    <title lang="pt">Music Box in Concert</title>
+    <desc lang="pt">Em uma edição especial online, o Festival Se Rasgum se reinventa. São três dias de apresentações e entrevistas com artistas nacionais.</desc>
+    <category lang="pt">Espetáculo (Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123060500 -0300" stop="20211123063000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Music Box in Concert</title>
+    <desc lang="pt">O Music Box Brazil leva você até a primeira fila para conferir os melhores shows do Brasil, sem distinção de gênero. Do axé ao rock, do pop ao sertanejo, os melhores artistas estão no Music Box in Concert.</desc>
+    <category lang="pt">Espetáculo (Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123063000 -0300" stop="20211123070000 -0300" channel="Music Box Brasil">
+    <title lang="pt">O Que Te Inspira</title>
+    <desc lang="pt">Ao formar-se com honra pela consagrada GIT (USA) em 1992, o músico niteroiense Alex Martinho alça voos através de carreira solo e banda, contando cinco CDs e três DVDs lançados.</desc>
+    <credits>
+      <director>Marcelo De Carvalho Caldas</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Variedades (Entrevista)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123070000 -0300" stop="20211123073000 -0300" channel="Music Box Brasil">
+    <title lang="pt">O Que Te Inspira</title>
+    <desc lang="pt">Compositor e multi-instrumentista, Yuri Corbal é a mais nova promessa da cultura pop niteroiense.</desc>
+    <credits>
+      <director>Marcelo De Carvalho Caldas</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Variedades (Entrevista)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123073000 -0300" stop="20211123075500 -0300" channel="Music Box Brasil">
+    <title lang="pt">Música Para Ver</title>
+    <desc lang="pt">No terceiro ep. convidamos Mú Carvalho músico e produtor musical consagrado. Mú traz em seu currículo diversas trilhas de novela e cinema, num bate papo super descontraído Mú revela algumas histórias.</desc>
+    <credits>
+      <director>Elir Henrique De Mendonça Filho</director>
+    </credits>
+    <category lang="pt">Séries (Musical)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123075500 -0300" stop="20211123082000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Música Para Ver</title>
+    <desc lang="pt">No quarto episódio da obra, recebemos Nilze Carvalho, cantora e multi-instrumentista que desde pequena frequenta estúdios e produz sua própria música.</desc>
+    <credits>
+      <director>Elir Henrique De Mendonça Filho</director>
+    </credits>
+    <category lang="pt">Séries (Musical)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123082000 -0300" stop="20211123090000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Jukebox (videoclipes)</title>
+    <desc lang="pt">O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox. Toda a diversidade da música brasileira pra não deixar ninguém parado!</desc>
+    <category lang="pt">Variedades (Musical)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123090000 -0300" stop="20211123093000 -0300" channel="Music Box Brasil">
+    <title lang="pt">A História Secreta do Pop Brasileiro</title>
+    <desc lang="pt">A incrível saga de uma banda paulistana que gravou, segundo cálculos, cerca de 50 mil músicas em 30 anos de carreira, incluindo hits como ''Fuscão Preto'', ''É o Amor'' e ''Feelings'.</desc>
+    <date>2019</date>
+    <category lang="pt">Séries (Musical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123093000 -0300" stop="20211123095500 -0300" channel="Music Box Brasil">
+    <title lang="pt">A História Secreta do Pop Brasileiro</title>
+    <desc lang="pt">Nos anos 70, as lojas de discos passaram a vender milhares de LPs de ''covers'', a maioria sem créditos de músicos. A série vai revelar as histórias por trás de alguns desses LPs.</desc>
+    <date>2019</date>
+    <category lang="pt">Séries (Musical)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123095500 -0300" stop="20211123100500 -0300" channel="Music Box Brasil">
+    <title lang="pt">Music Drops</title>
+    <desc lang="pt">Entrevista com o cantor sertanejo Vittor Augusto.</desc>
+    <category lang="pt">Variedades (Musical)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123100500 -0300" stop="20211123103500 -0300" channel="Music Box Brasil">
+    <title lang="pt">Lincoln Olivetti - O Mago Do Pop</title>
+    <desc lang="pt">É fácil encontrar quem nunca ouviu falar de Lincoln Olivetti, mas é quase impossível achar quem nunca escutou, dançou ou se emocionou com as músicas que carregam o seu DNA.</desc>
+    <category lang="pt">Séries (Musical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123103500 -0300" stop="20211123110500 -0300" channel="Music Box Brasil">
+    <title lang="pt">Lincoln Olivetti - O Mago Do Pop</title>
+    <desc lang="pt">O começo da carreira de Lincoln Olivetti, em São Paulo.</desc>
+    <category lang="pt">Séries (Musical)</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123110500 -0300" stop="20211123120000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Jukebox (videoclipes)</title>
+    <desc lang="pt">O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox. Toda a diversidade da música brasileira pra não deixar ninguém parado!</desc>
+    <category lang="pt">Variedades (Musical)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123120000 -0300" stop="20211123123000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Brasil De Todos Os Ritmos</title>
+    <desc lang="pt">Luiz Brasil percorre o país para celebrar todos os seus ritmos.</desc>
+    <credits>
+      <director>Luiz Brasil</director>
+      <actor>Carlos Malta</actor>
+      <actor>Pife Moderno</actor>
+      <actor>Lula Moreira</actor>
+      <actor>Quarteto Bessler</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123123000 -0300" stop="20211123130000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Brasil De Todos Os Ritmos</title>
+    <desc lang="pt">"Cria da musicalidade negra, esse ritmo tem raízes plantadas nos blocos afros deSalvador. Para falar e cantar o SAMBA REGGAE essa edição traz o cantor ecompositor Lazzo Matumbi, que canta "Lamento" dele e Gileno Felix e a cantora ecompositora Margareth Menezes que canta "Faraó", de Luciano Gomes, e "Querera",dela própria. Quem chega também é Mestre Memeu, diretor de bateria do Olodum;Vovô, diretor geral do Ilê Ayê e o diretor de bateria do Ilê Ayê, Mario Pam, que cantacom Luiz "O Mais Belo Dos Belos". Temos ainda a presença da Família Brasil: JorgeBrasil, Mou Brasil, Marcelo Brasil, Victor Brasil), além dos percussionistas baianosGabi Guedes, Josino Eduardo (Dú) e Giba Conceição. O episódio finaliza com LuizBrasil interpretando "Querubim" de sua autoria, com seus convidados especiais:Cesinha (bateria), João Rafael (baixo acústico e elétrico), Marcos Nimrichter (sanfona),Sidinho Moreira (percussão), Luiz Brasil (violão) mais uma Big Band de sopros,Marcelo Martins (Sax Tenor), Eliezer Rodrigues (Tuba), Eduardo Morelenbaum(Clarone), Aldivas Ayres (Trombone), Diogo Gomes (Fluguel horn).".</desc>
+    <credits>
+      <director>Luiz Brasil</director>
+      <actor>Lazzo Matumbi</actor>
+      <actor>Margareth Menezes</actor>
+      <actor>Mestre Memeu</actor>
+      <actor>Mario Pam</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123130000 -0300" stop="20211123133000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Acorda Amor</title>
+    <desc lang="pt">O programa abre com Emicida interpretando, por exemplo, "Apesar de você", de Chico Buarque, antecipando o tom da narrativa que virá a seguir.</desc>
+    <credits>
+      <director>Jodele Larcher</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades (Entrevista)</category>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123133000 -0300" stop="20211123140000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Acorda Amor</title>
+    <desc lang="pt">João Cavalcanti analisa a história da música de protesto no Brasil. Carlos Rennó fala das suas composições e do conceito de utopia. Marcelo Pretto interpreta "samba da utopia" composição de Jonathan Silva. Furmiga Dub destaca a importância das suas parcerias com os artistas da música popular no encontro com o tradicional e o contemporâneo e mostra as suas parcerias com Anitta e Marinho.Gog afirma que o Rap é a música de protesto efetiva atual. Marian Íris fala como a ocupação do espaço público pelos músicos configura um ato de protesto. Juba e Flávia, produtores do festival Honk, levantam as bandeiras do movimento colaborativo que é uma realidade em vários países. Daniel Peixoto lembra como seu trabalho foi precursor para o movimento LGBTQIA + e sobre o preconceito que sofre por ser nordestino. Gilberto Gil reconhece o potencial democrático com a produção de nova mídias. Larissa Luz diz que os artistas acompanham as formas de protestar de seu tempo.</desc>
+    <credits>
+      <director>Jodele Larcher</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades (Entrevista)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123140000 -0300" stop="20211123143000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Curta o Som</title>
+    <desc lang="pt">O Curta o Som é um programa que leva para o estúdio grandes bandas e novos artistas de destaque no cenário musical brasileiro. Além de participarem de um bate-papo, falando sobre sua trajetória e novos.</desc>
+    <credits>
+      <director>Lorraine Cristina Lopes Santoni</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Variedades (Musical)</category>
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123143000 -0300" stop="20211123150000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Curta o Som</title>
+    <desc lang="pt">O programa ''Curta o Som'' leva grandes artistas e bandas para o estúdio. Gabriel Thomaz, Jairo, Fábio e Érika formam uma das bandas mais bem-sucedidas no meio independente do rock.</desc>
+    <credits>
+      <director>Lorraine Cristina Lopes Santoni</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Variedades (Musical)</category>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123150000 -0300" stop="20211123151000 -0300" channel="Music Box Brasil">
+    <title lang="pt">O Ben Para Todo Mal</title>
+    <desc lang="pt">Série de entrevistas com pais fora da tradicional convenção de família. O foco são rockeiros doidos e gente que não se encaixa nos ''padrões'' estabelecidos.</desc>
+    <category lang="pt">Séries (Diversos)</category>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123151000 -0300" stop="20211123152000 -0300" channel="Music Box Brasil">
+    <title lang="pt">O Ben Para Todo Mal</title>
+    <desc lang="pt">Série de entrevistas com pais fora da tradicional convenção de família. O foco são rockeiros doidos e gente que não se encaixa nos ''padrões'' estabelecidos.</desc>
+    <category lang="pt">Séries (Diversos)</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123152000 -0300" stop="20211123153000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Music Drops</title>
+    <desc lang="pt">Entrevista com a Malvada, uma banda só de mulheres, a vocalista e líder da banda é a Angel Sberze que foi até a semifinal do The Voice cantando rock.</desc>
+    <category lang="pt">Variedades (Musical)</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123153000 -0300" stop="20211123183000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Medalhão Persa</title>
+    <desc lang="pt">Loroza Talk Soul é um Talk Show semanal apresentado pelo super carismático e multi artista Serjão Loroza.</desc>
+    <category lang="pt">Variedades (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123183000 -0300" stop="20211123190000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Lá Em Casa Sessions</title>
+    <desc lang="pt">Uma ''banda livre'' é como os próprios integrantes definem o Circo de Marvin.</desc>
+    <date>2014</date>
+    <category lang="pt">Variedades (Musical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123190000 -0300" stop="20211123193000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Lá Em Casa Sessions</title>
+    <desc lang="pt">Com forte influência do rock e do punk dos anos 80, Irmão Carlos queria ser um dos Titãs.</desc>
+    <date>2014</date>
+    <category lang="pt">Variedades (Musical)</category>
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123193000 -0300" stop="20211123202000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Universo Afromusic</title>
+    <desc lang="pt">O festival é protagonizado por artistas e bandas pretas que estão alavancando a nova cena independente que transitam entre gêneros da música tradicional.</desc>
+    <credits>
+      <director>Joyce Pradro E Arthur Baeta</director>
+      <actor>Biel De Lima</actor>
+    </credits>
+    <category lang="pt">Espetáculo (Show)</category>
+    <episode-num system="onscreen">S2 E11</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123202000 -0300" stop="20211123210500 -0300" channel="Music Box Brasil">
+    <title lang="pt">Universo Afromusic</title>
+    <desc lang="pt">O festival é protagonizado por artistas e bandas pretas que estão alavancando a nova cena independente que transitam entre gêneros da música tradicional.</desc>
+    <credits>
+      <director>Joyce Pradro E Arthur Baeta</director>
+      <actor>Jup Do Bairro</actor>
+    </credits>
+    <category lang="pt">Espetáculo (Show)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123210500 -0300" stop="20211123213500 -0300" channel="Music Box Brasil">
+    <title lang="pt">Buscando Buskers</title>
+    <desc lang="pt">Oito integrantes, inúmeros estilos, um só objetivo: levar a sua marca ao país inteiro através da música. É assim que O Grande Grupo Viajante vem fazendo seu nome pelas mais diversas cidades brasileiras.</desc>
+    <credits>
+      <director>Gabriel Castelhano</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Musical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123213500 -0300" stop="20211123220500 -0300" channel="Music Box Brasil">
+    <title lang="pt">Buscando Buskers</title>
+    <desc lang="pt">Teko Porã vem do Guarani, significa o ''belo caminho'' ou o ''bem viver''. É sob essa filosofia que os músicos Caio Gregory, Pablo Nomás e Bia Rezende se apresentam nos corredores e vagões do metrô de São Paulo.</desc>
+    <credits>
+      <director>Gabriel Castelhano</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Musical)</category>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123220500 -0300" stop="20211123224000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Histórias Do Violão</title>
+    <desc lang="pt">Neste episódio, conhecemos um ícone do Violão argentino, Juanjo Dominguez, em sequência um churrasco com muita música a convite do violonista argentino Horácio Havilano.</desc>
+    <credits>
+      <director>Yamandu Costa</director>
+      <actor>Yamandu Costa</actor>
+      <actor>Hugo Rivas</actor>
+      <actor>Rodrigo Sujodoles Gazzero</actor>
+      <actor>Francisco Offenhenden</actor>
+      <actor>Juan Sueño</actor>
+      <actor>Eduardo Varela</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123224000 -0300" stop="20211123230000 -0300" channel="Music Box Brasil">
+    <title lang="pt">Histórias Do Violão</title>
+    <desc lang="pt">Neste episódio, passaremos em Natal RN, farei uma apresentação com a Sesi Big Band dirigida pelo maestro português Eugênio Graça.</desc>
+    <credits>
+      <director>Yamandu Costa</director>
+      <actor>Yamandu Costa</actor>
+      <actor>Hugo Rivas</actor>
+      <actor>Rodrigo Sujodoles Gazzero</actor>
+      <actor>Francisco Offenhenden</actor>
+      <actor>Juan Sueño</actor>
+      <actor>Eduardo Varela</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
 </tv>
