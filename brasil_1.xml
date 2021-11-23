@@ -49030,4 +49030,2600 @@
       <value>livre</value>
     </rating>
   </programme>
+  <programme start="20211123004900 -0300" stop="20211123014200 -0300" channel="National Geographic">
+    <title lang="pt">Explorer: Covid 19</title>
+    <sub-title lang="pt">Explorer 3.0: Virus Hunters</sub-title>
+    <desc lang="pt">Covid 19 revela as histórias assustadoras de especialistas heróicos que estão na linha de frente da missão científica mais crítica de uma geração.</desc>
+    <credits>
+      <director>Bengt Anderson</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123014200 -0300" stop="20211123023600 -0300" channel="National Geographic">
+    <title lang="pt">Sabores Extremos com Gordon Ramsay</title>
+    <desc lang="pt">O Chef Ramsay enfrenta ondas gigantes, pesca em alto mar e cultiva o campo para explorar e descobrir a simplicidade absoluta da cozinha portuguesa.</desc>
+    <credits>
+      <director>Betsy Forhan</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123023600 -0300" stop="20211123032800 -0300" channel="National Geographic">
+    <title lang="pt">Sobrevivente Primitivo com Hazen Audel</title>
+    <desc lang="pt">Hazen Audel luta para adentrar a densa selva guianense e luta nas águas cheias de predadores famintos, incluindo a piranha e jacaré grande, para rastrear um grupo de homens da tribo Makushi.</desc>
+    <credits>
+      <director>Alistair Smith</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123032800 -0300" stop="20211123042200 -0300" channel="National Geographic">
+    <title lang="pt">Ilhados no Alasca: Melhores Momentos</title>
+    <sub-title lang="pt">Lawless Island: Surviving Alaska</sub-title>
+    <desc lang="pt">Uma terra acidentada no remoto sudeste do Alasca, os moradores de Port Protection enfrentam os perigos constantes.</desc>
+    <credits>
+      <director>Kevin Mohs</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123042200 -0300" stop="20211123051500 -0300" channel="National Geographic">
+    <title lang="pt">Aeroporto: Madri</title>
+    <sub-title lang="pt">Alerta Aeropuerto</sub-title>
+    <desc lang="pt">Mais uma vez, o Aeroporto Internacional de Madrid-Barajas é cenário de combate ao tráfico de drogas e ações ilegais.</desc>
+    <credits>
+      <director>Julian Becker</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123051500 -0300" stop="20211123060700 -0300" channel="National Geographic">
+    <title lang="pt">Aeroporto: Madri</title>
+    <sub-title lang="pt">Alerta Aeropuerto</sub-title>
+    <desc lang="pt">Um homem diz que vai a uma reunião de negócios do outro lado do mundo, mas guarda surpresas infelizes. Além disso, um passageiro revela um grande medo de retornar ao seu país e outro pousa com muito mau humor.</desc>
+    <credits>
+      <director>Julian Becker</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S7 E6</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123060700 -0300" stop="20211123063300 -0300" channel="National Geographic">
+    <title lang="pt">A Fábrica de Comidas</title>
+    <sub-title lang="pt">Food Factory</sub-title>
+    <desc lang="pt">Um olhar exclusivo na fabricação de picles, refrigerantes, chocolates com creme de bordo e muito mais.</desc>
+    <credits>
+      <director>James Taylor</director>
+      <director>Sebastian Cluer</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S7 E7</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123063300 -0300" stop="20211123070000 -0300" channel="National Geographic">
+    <title lang="pt">A Fábrica de Comidas</title>
+    <sub-title lang="pt">Food Factory</sub-title>
+    <desc lang="pt">Um olhar exclusivo sobre como fazer pirulitos gigantes de arco-íris, sopa agridoce e muito mais nestes bastidores das nossas delícias favoritas.</desc>
+    <credits>
+      <director>James Taylor</director>
+      <director>Sebastian Cluer</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S3 E12</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123070000 -0300" stop="20211123073000 -0300" channel="National Geographic">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Diversos. Espaço publicitário para divulgação de produtos e serviços.</desc>
+    <category lang="pt">Variedades (Diversos)</category>
+    <episode-num system="onscreen">S3 E13</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123073000 -0300" stop="20211123080000 -0300" channel="National Geographic">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Diversos. Espaço publicitário para divulgação de produtos e serviços.</desc>
+    <category lang="pt">Variedades (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123080000 -0300" stop="20211123083000 -0300" channel="National Geographic">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Diversos. Espaço publicitário para divulgação de produtos e serviços.</desc>
+    <category lang="pt">Variedades (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123083000 -0300" stop="20211123090000 -0300" channel="National Geographic">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Diversos. Espaço publicitário para divulgação de produtos e serviços.</desc>
+    <category lang="pt">Variedades (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123090000 -0300" stop="20211123100000 -0300" channel="National Geographic">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Diversos. Espaço publicitário para divulgação de produtos e serviços.</desc>
+    <category lang="pt">Variedades (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123100000 -0300" stop="20211123105500 -0300" channel="National Geographic">
+    <title lang="pt">Aeroporto: Colômbia</title>
+    <sub-title lang="pt">Alerta Aeropuerto</sub-title>
+    <desc lang="pt">Neste episódio, o comando anti-drogas detém duas mulheres que vão para a China levando três notebooks, que não são o que parecem. Habilidosamente escondidos nas carcaças dos computadores, viajam pacotes de cocaína. E a tensão aumenta quando uma das passageiras desaparece e complica todo procedimento. Um passageiro que diz ter viajado a Bogotá para conhecer sua filha recém nascida levanta suspeitas nos agentes, que terminam encontrando cocaína em sua bagagem. E dois casais são descobertos quando tentam deixar o país levando cápsulas de cocaína líquida ingeridas. As quatro pessoas devem ser levadas ao hospital, porque a ruptura de uma das cáspulas poderia ser fatal.</desc>
+    <credits>
+      <director>Corina Cohen</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123105500 -0300" stop="20211123115000 -0300" channel="National Geographic">
+    <title lang="pt">Aeroporto: Colômbia</title>
+    <sub-title lang="pt">Alerta Aeropuerto</sub-title>
+    <desc lang="pt">O comando anti-drogas consegue impedir o surpreendente plano de um passageiro, que tenta trocar sua maleta que já foi examinada, por outra entregue por um cúmplice e que contém 19 quilos de cocaína. Além disso, um passageiro que vai para Moscú é capturado levando cocaína de uma maneira nova e quase indetectável chamada "droga encauchutada", que consiste em misturar a cocaína ao material que forma a mala. No setor dos correios, os oficiais descobrem uma tentativa de transportar cocaína no interior de uma suspeita escultura de bronze, impedindo o envio de quase um quilo e meio. Nas Migrações acontece um caso incomum, quando uma adolescente de 17 anos tenta deixar o país com seu noivo de 42, apresentando uma autorização falsificada. E na sala de Body Scanner detectam que um jovem ingeriu trinta e três cápsulas com cocaína em estado líquido, em uma das maneiras de tráfico mais arriscadas.</desc>
+    <credits>
+      <director>Corina Cohen</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123115000 -0300" stop="20211123121500 -0300" channel="National Geographic">
+    <title lang="pt">A Fábrica de Comidas</title>
+    <sub-title lang="pt">Food Factory</sub-title>
+    <desc lang="pt">Esta série vai aos bastidores para revelar como são feitos os produtos comestíveis. Este episódio mostra a elaboração de um doce canadense, o bolo de creme e muito mais.</desc>
+    <credits>
+      <director>James Taylor</director>
+      <director>Sebastian Cluer</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123121500 -0300" stop="20211123124500 -0300" channel="National Geographic">
+    <title lang="pt">A Fábrica de Comidas</title>
+    <sub-title lang="pt">Food Factory</sub-title>
+    <desc lang="pt">Um olhar exclusivo sobre as máquinas que fazem sorvete de biscoito de chocolate, palitos de hortelã com chocolate, gomas com cobertura de caramelo e muito mais.</desc>
+    <credits>
+      <director>James Taylor</director>
+      <director>Sebastian Cluer</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123124500 -0300" stop="20211123134000 -0300" channel="National Geographic">
+    <title lang="pt">Sabores Extremos com Gordon Ramsay</title>
+    <desc lang="pt">No alto do Vale Sagrado dos Incas, no Peru, Gordon Ramsay viaja de moto para descobrir a tradicional culinária de alta altitude.</desc>
+    <credits>
+      <director>Gordon Ramsay</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123134000 -0300" stop="20211123143500 -0300" channel="National Geographic">
+    <title lang="pt">Celebridades à Prova de Tudo</title>
+    <desc lang="pt">Bear Grylls leva a campeã Danica Patrick para o deserto de Moab para uma ação de alta octanagem e de tirar o fôlego na selva.</desc>
+    <credits>
+      <director>Bengt Anderson</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123143500 -0300" stop="20211123153000 -0300" channel="National Geographic">
+    <title lang="pt">Ilhados no Alasca: Melhores Momentos</title>
+    <sub-title lang="pt">Lawless Island: Surviving Alaska</sub-title>
+    <desc lang="pt">No remoto sudeste do Alasca, os moradores de Port Protection dependem da terra para sobreviver.</desc>
+    <credits>
+      <director>Kevin Mohs</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S6 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123153000 -0300" stop="20211123162500 -0300" channel="National Geographic">
+    <title lang="pt">Alasca: Reabilitação Selvagem</title>
+    <sub-title lang="pt">Alaska Animal Rescue</sub-title>
+    <desc lang="pt">A equipe do Alaska SeaLife Center aguarda com expectativa o parto do seu leão-marinho.</desc>
+    <credits>
+      <director>Pamela Caragol Wells</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123162500 -0300" stop="20211123172000 -0300" channel="National Geographic">
+    <title lang="pt">Clube da Luta Animal</title>
+    <desc lang="pt">Neste episódio explosivo, mostramos como algumas das batalhas mais mortais do reino animal são realizadas entre as mesmas espécies, assim como entre predador e presa.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123172000 -0300" stop="20211123181500 -0300" channel="National Geographic">
+    <title lang="pt">Segredos do Fundo do Mar: Mergulho no Escuro</title>
+    <sub-title lang="pt">Drain the Oceans: Deep Dive</sub-title>
+    <desc lang="pt">Nas profundezas do oceano existe um monstro tectônico. O fundo do mar é a maior máquina de tsunami do mundo e os seus perigos permaneceram escondidos, até agora!</desc>
+    <credits>
+      <director>Chris Weber</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123181500 -0300" stop="20211123191000 -0300" channel="National Geographic">
+    <title lang="pt">Planeta Selvagem: México</title>
+    <desc lang="pt">No norte do México, dois desertos carregam histórias fascinantes sobre asorigensda vida: o deserto de Sonora, o mais quente da América do Norte.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123191000 -0300" stop="20211123200500 -0300" channel="National Geographic">
+    <title lang="pt">Mayday! Desastres Aéreos</title>
+    <desc lang="pt">O voo 1404 da Continental Airlines está em alta velocidade na pista do Aeroporto Internacional de Denver quando a aeronave repentinamente se afasta da pista, cai e explode em chamas.</desc>
+    <credits>
+      <director>Sue Davidson</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123200500 -0300" stop="20211123210000 -0300" channel="National Geographic">
+    <title lang="pt">Aeroporto: São Paulo</title>
+    <sub-title lang="pt">Alerta Aeropuerto San Pablo</sub-title>
+    <desc lang="pt">A polícia investiga os verdadeiros motivos da viagem de três passageiras que pretendem viajar para a África, enquanto enfrenta o desafio de descobrir a nacionalidade de um enigmático passageiro que vaga pelo aeroporto.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123210000 -0300" stop="20211123215500 -0300" channel="National Geographic">
+    <title lang="pt">Vale dos Reis: Tesouros do Egito</title>
+    <sub-title lang="pt">Lost Treasures of Egypt</sub-title>
+    <desc lang="pt">Os arqueólogos descobrem novas evidências sobre o reinado de Ramsés, o Grande.</desc>
+    <credits>
+      <director>Carolyn Payne</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123215500 -0300" stop="20211123225000 -0300" channel="National Geographic">
+    <title lang="pt">Vale dos Reis: Tesouros do Egito</title>
+    <sub-title lang="pt">Lost Treasures of Egypt</sub-title>
+    <desc lang="pt">Em busca de pistas pelo misterioso aumento das mumificações, os arqueólogos investigam o que poderia ser uma das múmias mais antigas já encontradas.</desc>
+    <credits>
+      <director>Carolyn Payne</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123225000 -0300" stop="20211123234500 -0300" channel="National Geographic">
+    <title lang="pt">Desvendando os Mistérios do Egito</title>
+    <sub-title lang="pt">Egypt's Unexplained Files</sub-title>
+    <desc lang="pt">A ciência começa a revelar o lado negro do antigo Egito. Arqueólogos forenses investigam um caso não resolvido de 5.000 anos através da história de um homem assassinado no caos do início de sua cultura.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123234500 -0300" stop="20211124004000 -0300" channel="National Geographic">
+    <title lang="pt">Coronavírus: Alerta Ambiental</title>
+    <sub-title lang="pt">Corona: The Pandemic and the Pangolin</sub-title>
+    <desc lang="pt">Enquanto somos bombardeados por informações sobre o COVID-19, surge um momento de clareza e um aviso que não podemos ignorar.</desc>
+    <credits>
+      <director>Susanne Lummer</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211124004000 -0300" stop="20211124013500 -0300" channel="National Geographic">
+    <title lang="pt">Coronavírus: A Origem</title>
+    <desc lang="pt">Este documentário oferece uma explicação científica em sua essência relacionada ao surto global de coronavírus.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211124013500 -0300" stop="20211124022500 -0300" channel="National Geographic">
+    <title lang="pt">Sabores Extremos com Gordon Ramsay</title>
+    <desc lang="pt">No alto do Vale Sagrado dos Incas, no Peru, Gordon Ramsay viaja de moto para descobrir a tradicional culinária de alta altitude.</desc>
+    <credits>
+      <director>Gordon Ramsay</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211124022500 -0300" stop="20211124031500 -0300" channel="National Geographic">
+    <title lang="pt">Sobrevivente Primitivo com Hazen Audel</title>
+    <desc lang="pt">Hazen Audel luta contra as escaldantes planícies quenianas, navega por águas infestadas de crocodilos e luta contra cobras mortais e enxames de abelhas para chegar até os guerreiros.</desc>
+    <credits>
+      <director>Alistair Smith</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211124031500 -0300" stop="20211124040500 -0300" channel="National Geographic">
+    <title lang="pt">Ilhados no Alasca: Melhores Momentos</title>
+    <sub-title lang="pt">Lawless Island: Surviving Alaska</sub-title>
+    <desc lang="pt">No remoto sudeste do Alasca, os moradores de Port Protection sobrevivem a essa região acidentada com um estilo de vida de subsistência.</desc>
+    <credits>
+      <director>Kevin Mohs</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S4 E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211124040500 -0300" stop="20211124045500 -0300" channel="National Geographic">
+    <title lang="pt">Aeroporto: Madri</title>
+    <sub-title lang="pt">Alerta Aeropuerto</sub-title>
+    <desc lang="pt">Os agentes devem decidir se submetem a bagagem estranha de um passageiro a controles usuais, mesmo com o risco de danificá-la, ou se permitem que ele continue viajando.</desc>
+    <credits>
+      <director>Julian Becker</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211124045500 -0300" stop="20211124054500 -0300" channel="National Geographic">
+    <title lang="pt">Aeroporto: Colômbia</title>
+    <sub-title lang="pt">Alerta Aeropuerto</sub-title>
+    <desc lang="pt">A polícia do Aeroporto de El Dorado enfrenta os mais ousados delitos: drogas escondidas com métodos engenhosos, deportações e falsificação de documentos são alguns de seus desafios.</desc>
+    <credits>
+      <director>Corina Cohen</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S7 E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211124054500 -0300" stop="20211124061000 -0300" channel="National Geographic">
+    <title lang="pt">A Fábrica de Comidas</title>
+    <sub-title lang="pt">Food Factory</sub-title>
+    <desc lang="pt">Um olhar exclusivo da preparação das batatas fritas crespas, bolo veludo vermelho, bolos de caçarola de legumes e muitas outras iguarias.</desc>
+    <credits>
+      <director>James Taylor</director>
+      <director>Sebastian Cluer</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124061000 -0300" stop="20211124063500 -0300" channel="National Geographic">
+    <title lang="pt">A Fábrica de Comidas</title>
+    <sub-title lang="pt">Food Factory</sub-title>
+    <desc lang="pt">Um olhar exclusivo sobre a fabricação de palitos de peixe, da batata-doce frita, da massa de biscoito e muito mais.</desc>
+    <credits>
+      <director>James Taylor</director>
+      <director>Sebastian Cluer</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S3 E15</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124063500 -0300" stop="20211124070000 -0300" channel="National Geographic">
+    <title lang="pt">A Fábrica de Comidas</title>
+    <sub-title lang="pt">Food Factory</sub-title>
+    <desc lang="pt">Um olhar exclusivo sobre a elaboração da carne para os hambúrgueres, dos doces de fita, de algumas guloseimas mexicanas e muito mais.</desc>
+    <credits>
+      <director>James Taylor</director>
+      <director>Sebastian Cluer</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S3 E16</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124070000 -0300" stop="20211124073000 -0300" channel="National Geographic">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Diversos. Espaço publicitário para divulgação de produtos e serviços.</desc>
+    <category lang="pt">Variedades (Diversos)</category>
+    <episode-num system="onscreen">S3 E17</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124073000 -0300" stop="20211124080000 -0300" channel="National Geographic">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Diversos. Espaço publicitário para divulgação de produtos e serviços.</desc>
+    <category lang="pt">Variedades (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124080000 -0300" stop="20211124083000 -0300" channel="National Geographic">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Diversos. Espaço publicitário para divulgação de produtos e serviços.</desc>
+    <category lang="pt">Variedades (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124083000 -0300" stop="20211124090000 -0300" channel="National Geographic">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Diversos. Espaço publicitário para divulgação de produtos e serviços.</desc>
+    <category lang="pt">Variedades (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124090000 -0300" stop="20211124100000 -0300" channel="National Geographic">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Diversos. Espaço publicitário para divulgação de produtos e serviços.</desc>
+    <category lang="pt">Variedades (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124100000 -0300" stop="20211124105500 -0300" channel="National Geographic">
+    <title lang="pt">Aeroporto: Colômbia</title>
+    <sub-title lang="pt">Alerta Aeropuerto</sub-title>
+    <desc lang="pt">As forças de segurança do Aeroporto Internacional de El Dorado, em Bogotá, Colômbia, implementam operações para interceptar os planos criminosos que algumas pessoas tentam realizar.</desc>
+    <credits>
+      <director>Corina Cohen</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211124105500 -0300" stop="20211124115000 -0300" channel="National Geographic">
+    <title lang="pt">Aeroporto: Colômbia</title>
+    <sub-title lang="pt">Alerta Aeropuerto</sub-title>
+    <desc lang="pt">Novamente, as equipes de segurança do Aeroporto Internacional de El Dorado, em Bogotá, Colômbia, entram em ação para interceptar as mais variadas tentativas criminosas.</desc>
+    <credits>
+      <director>Corina Cohen</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211124115000 -0300" stop="20211124121500 -0300" channel="National Geographic">
+    <title lang="pt">A Fábrica de Comidas</title>
+    <sub-title lang="pt">Food Factory</sub-title>
+    <desc lang="pt">Um olhar exclusivo da elaboração das barras Clark, da salada de batata com ovo recheado, nda massa folhada com queijo e muito mais.</desc>
+    <credits>
+      <director>James Taylor</director>
+      <director>Sebastian Cluer</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124121500 -0300" stop="20211124124500 -0300" channel="National Geographic">
+    <title lang="pt">A Fábrica de Comidas</title>
+    <sub-title lang="pt">Food Factory</sub-title>
+    <desc lang="pt">Um olhar exclusivo dos processos malucos da fabricação de balas Warhead, na carne alternativa, no chucrute e muito mais.</desc>
+    <credits>
+      <director>James Taylor</director>
+      <director>Sebastian Cluer</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S3 E10</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124124500 -0300" stop="20211124134000 -0300" channel="National Geographic">
+    <title lang="pt">Sabores Extremos com Gordon Ramsay</title>
+    <desc lang="pt">Nas profundezas das montanhas do Médio Atlas do Marrocos, Gordon Ramsay embarca em uma aventura épica para entender a antiga culinária berbere.</desc>
+    <credits>
+      <director>Gordon Ramsay</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S3 E11</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211124134000 -0300" stop="20211124143500 -0300" channel="National Geographic">
+    <title lang="pt">Celebridades à Prova de Tudo</title>
+    <desc lang="pt">Bear Grylls leva o ícone e lenda viva de Los Angeles Danny Trejo aos mais surpreendentes picos e desfiladeiros do Parque Nacional de Arches em Utah, nos Estados Unidos.</desc>
+    <credits>
+      <director>Bengt Anderson</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211124143500 -0300" stop="20211124153000 -0300" channel="National Geographic">
+    <title lang="pt">Enigmas do Oceano</title>
+    <desc lang="pt">Céline e Fabien estão em Shag Harbour, na Nova Escócia, onde eles mergulham fundo para investigar um dos avistamentos de OVNIs mais documentados da história.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S6 E4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211124153000 -0300" stop="20211124162500 -0300" channel="National Geographic">
+    <title lang="pt">Alasca: Reabilitação Selvagem</title>
+    <sub-title lang="pt">Alaska Animal Rescue</sub-title>
+    <desc lang="pt">Um porco-espinho de três patas no Wildlife Conservation Center do Alasca quer ser o rei da colina, enquanto uma garça azul luta para ser uma das poucas de sua espécie a retornar à natureza após passar pelo Alaska Raptor Center.</desc>
+    <credits>
+      <director>Pamela Caragol Wells</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211124162500 -0300" stop="20211124172000 -0300" channel="National Geographic">
+    <title lang="pt">Clube da Luta Animal</title>
+    <desc lang="pt">Neste dramático episódio, a vida selvagem longe - de assassinos minúsculos até os maiores brutamontes. Usando computação gráfica de ponta e incríveis imagens de alguns dos melhores documentaristas do mundo.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211124172000 -0300" stop="20211124181500 -0300" channel="National Geographic">
+    <title lang="pt">Segredos do Fundo do Mar: Mergulho no Escuro</title>
+    <sub-title lang="pt">Drain the Oceans: Deep Dive</sub-title>
+    <desc lang="pt">Sob as águas do mundo, encontram-se impérios submarinos e relíquias de suas sangrentas guerras. Através do uso de tecnologia de ponta, descobriremos impérios perdidos pela primeira vez. Por que um faraó construiu quinze mega-fortes e nenhum deles viu uma grande batalha? E como a Grã-Bretanha e a Alemanha ficaram presas em uma perigosa corrida armamentista, gastando bilhões em navios de guerra cada vez maiores e mais poderosos? Esses mares agitados deram origem a algumas das maiores superpotências da história!</desc>
+    <credits>
+      <director>Chris Weber</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211124181500 -0300" stop="20211124184000 -0300" channel="National Geographic">
+    <title lang="pt">África Animal com Richard Rasmussen</title>
+    <desc lang="pt">A vida selvagem tem técnicas surpreendentes. Uma das ferramentas de inúmeras espécies é o mimetismo. Animais com técnicas inacreditáveis.</desc>
+    <credits>
+      <director>Patrícia Urdiale</director>
+      <director>Richard Rasmussen</director>
+    </credits>
+    <category lang="pt">Séries (Aventura)</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211124184000 -0300" stop="20211124191000 -0300" channel="National Geographic">
+    <title lang="pt">África Animal com Richard Rasmussen</title>
+    <desc lang="pt">Um episódio com animais que causam arrepio e pra muita gente são bem estranhos. Fauna que vem de Madagascar, Namíbia e Uganda, por exemplo.</desc>
+    <credits>
+      <director>Patrícia Urdiale</director>
+      <director>Richard Rasmussen</director>
+    </credits>
+    <category lang="pt">Séries (Aventura)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211124191000 -0300" stop="20211124200500 -0300" channel="National Geographic">
+    <title lang="pt">Mayday! Desastres Aéreos</title>
+    <sub-title lang="pt">Air Crash Investigation</sub-title>
+    <desc lang="pt">No caminho de Moscou para Perm, na Rússia, o voo 821 da Aeroflot Nord está em sua aproximação final quando o avião mergulha e bate na ferrovia trans-siberiana.</desc>
+    <credits>
+      <director>Mark Mainguy</director>
+      <actor>Robin Archer</actor>
+      <actor>Leon Aureus</actor>
+      <actor>Stephen Bogaert</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211124200500 -0300" stop="20211124210000 -0300" channel="National Geographic">
+    <title lang="pt">Aeroporto: São Paulo</title>
+    <sub-title lang="pt">Alerta Aeropuerto San Pablo</sub-title>
+    <desc lang="pt">A polícia revista os pertences de uma mulher cujo comportamento é muito particular, ao mesmo tempo que, precisa tomar um cuidado especial com os problemas de saúde dela.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211124210000 -0300" stop="20211124215500 -0300" channel="National Geographic">
+    <title lang="pt">Aeroporto: Madri</title>
+    <sub-title lang="pt">Alerta Aeropuerto</sub-title>
+    <desc lang="pt">Um jovem chama a atenção dos agentes transportando um instrumento musical como sua única bagagem, enquanto o grupo estrangeiro investiga se um homem que perambula há dias no aeroporto está cometendo um crime.</desc>
+    <credits>
+      <director>Julian Becker</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S5 E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211124215500 -0300" stop="20211124225000 -0300" channel="National Geographic">
+    <title lang="pt">Férias na Prisão</title>
+    <sub-title lang="pt">Banged Up Abroad</sub-title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <director>Carolyn Payne</director>
+      <actor>Victor Hugo</actor>
+      <actor>Luke Tyler</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S7 E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211124225000 -0300" stop="20211124234500 -0300" channel="National Geographic">
+    <title lang="pt">Férias na Prisão: Crime e Punição</title>
+    <desc lang="pt">Condenado por engano no México, Carlos tem que lutar para sobreviver. O FBI captura o mafioso Frank Cullotta, que delata os chefões da máfia de Las Vegas.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S14 E9</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123000000 -0300" stop="20211123003000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+    <sub-title lang="pt">The Thundermans</sub-title>
+    <desc lang="pt">Preocupado em não ser considerado um super-herói valioso, Max cria uma máquina que pode prever crimes futuros. Mas, quando ela não funciona, ele inventa uma rede de mentiras para esconder a verdade de Phoebe.</desc>
+    <credits>
+      <director>Trevor Kirschner</director>
+      <actor>Rosa Blasi</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Kira Kosarin</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Audrey Whitby</actor>
+      <actor>Chris Tallman</actor>
+      <actor>Diego Velazquez</actor>
+      <actor>Reagan Fernandez</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123003000 -0300" stop="20211123010000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+    <sub-title lang="pt">The Thundermans</sub-title>
+    <desc lang="pt">As crianças ficam sabendo que Dr. Colosso estragou o casamento de seus pais e querem recriar o dia dos sonhos de Hank e Barb como presente de aniversário de casamento.</desc>
+    <credits>
+      <director>Lynn M. McCracken</director>
+      <actor>Rosa Blasi</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Kira Kosarin</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Audrey Whitby</actor>
+      <actor>Chris Tallman</actor>
+      <actor>Diego Velazquez</actor>
+      <actor>Reagan Fernandez</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S4 E6</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123010000 -0300" stop="20211123013000 -0300" channel="Nickelodeon">
+    <title lang="pt">Game Shakers</title>
+    <desc lang="pt">Os Game Shakers transmitem ao vivo Hudson jogando para promover seus jogos, mas as coisas saem rapidamente de controle quando Hudson calça as botas a jato de Double G por diversão.</desc>
+    <credits>
+      <director>Nathan Kress</director>
+      <actor>Thomas Kuc</actor>
+      <actor>Cree Cicchino</actor>
+      <actor>Madisyn Shipman</actor>
+      <actor>Benjamin Flores Jr.</actor>
+      <actor>Bubba Ganter</actor>
+      <actor>Kel Mitchell</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123013000 -0300" stop="20211123020000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Quando a invenção de Charlotte para o Gizmo Show é acidentalmente destruída e depois reconstruída, ela se preocupa que a atenção ganha possa expor a identidade secreta do Kid Danger e do Capitão Man.</desc>
+    <credits>
+      <director>Nathan Kress</director>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Jace Norman</actor>
+      <actor>Angelica Salek</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S2 E15</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123020000 -0300" stop="20211123023000 -0300" channel="Nickelodeon">
+    <title lang="pt">Game Shakers</title>
+    <desc lang="pt">Na tentativa de fechar uma parceria promocional com o Clam Jumper, os Game Shakers tentam invadir um painel de led e transmitir ao vivo seu novo jogo.</desc>
+    <credits>
+      <actor>Thomas Kuc</actor>
+      <actor>Cree Cicchino</actor>
+      <actor>Madisyn Shipman</actor>
+      <actor>Benjamin Flores Jr.</actor>
+      <actor>Bubba Ganter</actor>
+      <actor>Kel Mitchell</actor>
+    </credits>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123023000 -0300" stop="20211123030000 -0300" channel="Nickelodeon">
+    <title lang="pt">iCarly</title>
+    <desc lang="pt">Carly tem uma queda por Adam, um garoto da Ridgeway School. Quando ele lhe pergunta se ela quer sair com ele, ela fica chateada ao perceber que não pode ir, pois o iCarly fará uma grande sessão de perguntas na "Webicon".</desc>
+    <credits>
+      <director>Steve Hoefer</director>
+      <actor>Miranda Cosgrove</actor>
+      <actor>Nathan Kress</actor>
+      <actor>Jerry Trainor</actor>
+      <actor>Jennette McCurdy</actor>
+    </credits>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S2 E19</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123030000 -0300" stop="20211123033000 -0300" channel="Nickelodeon">
+    <title lang="pt">iCarly</title>
+    <desc lang="pt">Enquanto Carly está revisando os vídeos enviados pelos fãs, ela encontra o material de uma garota que está de aniversário e que diz que seu melhor presente seria ter seus ídolos do iCarly em sua festa.</desc>
+    <credits>
+      <actor>Miranda Cosgrove</actor>
+      <actor>Nathan Kress</actor>
+      <actor>Jerry Trainor</actor>
+      <actor>Jennette McCurdy</actor>
+      <actor>Noah Munck</actor>
+    </credits>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123033000 -0300" stop="20211123040000 -0300" channel="Nickelodeon">
+    <title lang="pt">iCarly</title>
+    <desc lang="pt">Como Gibby é muito tímido para "chegar" na garota que ele gosta, os amigos decidem fazê-lo concorrer no quadro "Ganhei uma Namorada" do programa.</desc>
+    <credits>
+      <director>Steve Hoefer</director>
+      <actor>Miranda Cosgrove</actor>
+      <actor>Nathan Kress</actor>
+      <actor>Jerry Trainor</actor>
+      <actor>Jennette McCurdy</actor>
+      <actor>Noah Munck</actor>
+      <actor>Jessica Jann</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S2 E43</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123040000 -0300" stop="20211123043000 -0300" channel="Nickelodeon">
+    <title lang="pt">Nicky, Ricky, Dicky e Dawn</title>
+    <sub-title lang="pt">Nicky, Ricky, Dicky and Dawn</sub-title>
+    <desc lang="pt">Os quadrigêmeos tentam fazer amizade com uma nova vizinha para usar a casa na árvore dela. Mas logo descobrem que ela não é quem parece ser.</desc>
+    <credits>
+      <director>Eric Dean Seaton</director>
+      <actor>Lizzy Greene</actor>
+      <actor>Casey Simpson</actor>
+      <actor>Mace Coronel</actor>
+      <actor>Aidan Gallagher</actor>
+      <actor>Allison Munn</actor>
+      <actor>Brian Stepanek</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E24</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123043000 -0300" stop="20211123050000 -0300" channel="Nickelodeon">
+    <title lang="pt">Nicky, Ricky, Dicky e Dawn</title>
+    <sub-title lang="pt">Nicky, Ricky, Dicky and Dawn</sub-title>
+    <desc lang="pt">Os quadrigêmeos ficam animados com a excursão da escola, mas quando Dawn fica doente, eles precisam trabalhar juntos para ninguém descobrir. Do contrário, não poderão participar da excursão.</desc>
+    <credits>
+      <director>Eric Dean Seaton</director>
+      <actor>Lizzy Greene</actor>
+      <actor>Casey Simpson</actor>
+      <actor>Mace Coronel</actor>
+      <actor>Aidan Gallagher</actor>
+      <actor>Allison Munn</actor>
+      <actor>Brian Stepanek</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S2 E23</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123050000 -0300" stop="20211123053000 -0300" channel="Nickelodeon">
+    <title lang="pt">Escola de Rock</title>
+    <sub-title lang="pt">School of Rock</sub-title>
+    <desc lang="pt">A aula inspiradora de Dewey sobre a rebelião do rock dá errado quando o pai do Zack o pega com uma guitarra elétrica em casa, e muda o filho para outra classe com menos distração.</desc>
+    <credits>
+      <director>Trevor Kirschner</director>
+      <actor>Breanna Yde</actor>
+      <actor>Ricardo Hurtado</actor>
+      <actor>Jade Pettyjohn</actor>
+      <actor>Lance Lim</actor>
+      <actor>Aidan Miner</actor>
+      <actor>Tony Cavalero</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Infantil)</category>
+    <episode-num system="onscreen">S2 E24</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123053000 -0300" stop="20211123060000 -0300" channel="Nickelodeon">
+    <title lang="pt">Escola de Rock</title>
+    <sub-title lang="pt">School of Rock</sub-title>
+    <desc lang="pt">A banda decide fazer um clipe musical, mas quando Tomika e Freddy têm ideias diferentes sobre a direção criativa do clipe, acabam criando uma ruptura no grupo.</desc>
+    <credits>
+      <director>Victor Gonzalez</director>
+      <actor>Breanna Yde</actor>
+      <actor>Ricardo Hurtado</actor>
+      <actor>Jade Pettyjohn</actor>
+      <actor>Lance Lim</actor>
+      <actor>Aidan Miner</actor>
+      <actor>Tony Cavalero</actor>
+      <actor>Lucas Adams</actor>
+      <actor>Genneya Walton</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Infantil)</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123060000 -0300" stop="20211123063000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+    <desc lang="pt">Lynn quer desesperadamente vencer um campeonato de basquete, mas acaba sendo convocada para um time horrível. A mãe e o pai estão cansados de esperar na longa fila do banheiro, então decidem construir um banheiro secreto.</desc>
+    <credits>
+      <actor>Vozes de Collin Dean</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Jessica DiCicco</actor>
+      <actor>Brian Stepanek</actor>
+      <actor>Jill Talley</actor>
+      <actor>Catherine Taber</actor>
+      <actor>Tex Hammond</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123063000 -0300" stop="20211123070000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+    <desc lang="pt">As irmãs mais velhas, mesmo relutantes, deixam a Lynn entrar no clube de babás, mas logo ela prova que é agressiva demais. A Ronnie Anne quer ir no centro da cidade. Mas os avós dela acham que é perigoso demais, então eles decidem espioná-la.</desc>
+    <credits>
+      <actor>Vozes de Collin Dean</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Jessica DiCicco</actor>
+      <actor>Brian Stepanek</actor>
+      <actor>Jill Talley</actor>
+      <actor>Nika Futterman</actor>
+      <actor>Liliana Mumy</actor>
+    </credits>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123070000 -0300" stop="20211123073000 -0300" channel="Nickelodeon">
+    <title lang="pt">Patrulha Canina</title>
+    <sub-title lang="pt">Paw Patrol</sub-title>
+    <desc lang="pt">A Prefeita Goodway está organizando um show de talentos, mas precisa de mais candidatos para as apresentações. A Patrulha Canina fará um número musical!</desc>
+    <credits>
+      <actor>Vozes de Alex Thorne</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Christian Distefano</actor>
+      <actor>Max Calinescu</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Berkley Silverman</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S3 E16</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123073000 -0300" stop="20211123080000 -0300" channel="Nickelodeon">
+    <title lang="pt">Patrulha Canina</title>
+    <sub-title lang="pt">Paw Patrol</sub-title>
+    <desc lang="pt">Com os outros filhotes treinando paraquedismo, a Marshal precisa reagrupar os gatinhos perdidos de volta sozinha, Bas ela conta com a ajuda das mochilas dos outros filhotes!</desc>
+    <credits>
+      <actor>Vozes de Alex Thorne</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Christian Distefano</actor>
+      <actor>Max Calinescu</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Berkley Silverman</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123080000 -0300" stop="20211123083000 -0300" channel="Nickelodeon">
+    <title lang="pt">Santiago Dos Mares</title>
+    <sub-title lang="pt">Santiago of the Seas</sub-title>
+    <desc lang="pt">Santiago e sua tripulação terão que unir forças com um cachorrinho pirata para impedir Bonnie Bones e salvar uma velha amiga. A nova engenhoca mecânica do Enrique põe em risco o lar da Lorelai.</desc>
+    <credits>
+      <actor>Vozes de Dave Droxler</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S2 E11</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123083000 -0300" stop="20211123090000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <sub-title lang="pt">SpongeBob SquarePants</sub-title>
+    <desc lang="pt">Seu Siriguejo precisa sair à noite e deixa Bob Esponja tomando conta de sua casa. /A casa de Lula Molusco é destruída e ele decide morar com Patrick.</desc>
+    <credits>
+      <actor>Vozes de Tom Kenny</actor>
+      <actor>Bill Fagerbakke</actor>
+      <actor>Clancy Brown</actor>
+      <actor>Rodger Bumpass</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Mary Jo Catlett</actor>
+    </credits>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123090000 -0300" stop="20211123093000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Casagrandes</title>
+    <sub-title lang="pt">The Casagrandes</sub-title>
+    <desc lang="pt">Ronnie é uma menina divertida que acabou de se mudar para a casa de sua avó com sua mãe e irá viver muitas aventuras.</desc>
+    <credits>
+      <director>Miguel Puga</director>
+      <actor>Bien-Willner</actor>
+      <actor>Alejandro Puga</actor>
+      <actor>Miguel Malach</actor>
+      <actor>Karen Álvarez</actor>
+      <actor>Izabella Cazares</actor>
+      <actor>Alex Kozak</actor>
+      <actor>Jared Manzano</actor>
+      <actor>Sonia Garfias</actor>
+      <actor>Ruben Cruz</actor>
+      <actor>Wilson PenaVega</actor>
+      <actor>Carlos Rodrigues</actor>
+      <actor>Pamella Estevez</actor>
+      <actor>Aline Antas</actor>
+      <actor>Rodrigo Pazete</actor>
+      <actor>Natali Balloussier</actor>
+      <actor>Cafi Dantas</actor>
+      <actor>Jeane Fe</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S3 E60</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123093000 -0300" stop="20211123100000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Casagrandes</title>
+    <sub-title lang="pt">The Casagrandes</sub-title>
+    <desc lang="pt">Ronnie Anne, quando descobre que o seu tio Carlos foi um skatista famoso, o implora para que a ensine manobras novas. Para comprar um skate novo, Ronnie Anne e Sid começam um serviço de passeio de cães que, rapidamente, foge do controle.</desc>
+    <credits>
+      <director>Miguel Puga</director>
+      <director>Mike Nordstrom</director>
+      <actor>Vozes de Carlos Alazraqui</actor>
+      <actor>Izabella Alvarez</actor>
+      <actor>Alex Cazares</actor>
+      <actor>Carlos PenaVega</actor>
+      <actor>Sonia Manzano</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S2 E18</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123100000 -0300" stop="20211123103000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+    <desc lang="pt">Para que a Lily pare de chorar, as crianças lhe dão um velho brinquedo que canta e ele as enloquece. O pai declara guerra contra os aparelhos dos filhos, então eles decidem mostrar a ele como os eletrônicos e a internet são ótimos.</desc>
+    <credits>
+      <director>Kyle Marshall</director>
+      <director>Chris Savino</director>
+      <actor>Vozes de Collin Dean</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Jessica DiCicco</actor>
+      <actor>Brian Stepanek</actor>
+      <actor>Jill Talley</actor>
+      <actor>Catherine Taber</actor>
+      <actor>Tex Hammond</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123103000 -0300" stop="20211123110000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+    <desc lang="pt">Lincoln convida Clyde para uma festa do pijama, mas fica com ciúmes quando Clyde quer sair com suas irmãs. Depois de espionar seus pais, Lincoln pensa que eles decidiram se livrar de seus filhos!</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <actor>Vozes de Jessica DiCicco</actor>
+      <actor>Nika Futterman</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Caleel Harris</actor>
+      <actor>Lara Jill</actor>
+      <actor>Liliana Mumy</actor>
+      <actor>Catherine Taber</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S2 E25</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123110000 -0300" stop="20211123113000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">O entusiasmo de Jasper para combater o crime faz com ele envie o Capitão Man e Kid Danger a incidentes e não crimes. E quando ele é falsamente acusado de furto e mandão à prisão,Henry eRay precisam arranjar um jeito de libertá-lo.</desc>
+    <credits>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Jace Norman</actor>
+      <actor>Angelica Salek</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123113000 -0300" stop="20211123120000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Quando Capitão Man fica preso num poço subterrâneo, Henry precisa dar um jeito de escapar para salvar Ray.</desc>
+    <credits>
+      <director>Steve Hoefer</director>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor />
+      <actor>Andy Cohen</actor>
+      <actor>Jace Norman</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123120000 -0300" stop="20211123123000 -0300" channel="Nickelodeon">
+    <title lang="pt">Side Hustle: Uma Terefa Complicada</title>
+    <sub-title lang="pt">Side Hustle</sub-title>
+    <desc lang="pt">As meninas encontram um mapa do tesouro que fizeram quando crianças que vai levar as duas até suas primeiras pulseiras da amizade dentro de uma lancheira.</desc>
+    <credits>
+      <director>Adam Weissman</director>
+      <actor>Jules LeBlanc</actor>
+      <actor>Jayden Bartels</actor>
+      <actor>Isaiah Crews</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123123000 -0300" stop="20211123130000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+    <sub-title lang="pt">The Thundermans</sub-title>
+    <desc lang="pt">Quando Phoebe fica sabendo dos planos da banda de Max em dispensá-lo, ela suspeita que seu treinamento de super-herói esteja atrapalhando suas amizades.</desc>
+    <credits>
+      <director>Trevor Kirschner</director>
+      <actor>Rosa Blasi</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Kira Kosarin</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Audrey Whitby</actor>
+      <actor>Chris Tallman</actor>
+      <actor>Diego Velazquez</actor>
+      <actor>Reagan Fernandez</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123130000 -0300" stop="20211123133000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+    <sub-title lang="pt">The Thundermans</sub-title>
+    <desc lang="pt">Preocupados com o treinamento Z-Force, Phoebe e Max percebem que se esqueceram de eventos familiares especiais. Para recompensar, Phoebe planeja um dia divertido em família.</desc>
+    <credits>
+      <director>Leonard R. Garner Jr.</director>
+      <actor>Rosa Blasi</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Kira Kosarin</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Audrey Whitby</actor>
+      <actor>Chris Tallman</actor>
+      <actor>Diego Velazquez</actor>
+      <actor>Reagan Fernandez</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123133000 -0300" stop="20211123140000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Capitão Man e Kid Danger encontram-se em meio a um debate sobre qual é o melhor petisco de Swellview. À medida que as tensões aumentam, os super-heróis precisam evitar que suas preferências pessoais de sabor afetem o trabalho.</desc>
+    <credits>
+      <director>Adam Weissman</director>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Jace Norman</actor>
+      <actor>Angelica Salek</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S4 E9</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123140000 -0300" stop="20211123143000 -0300" channel="Nickelodeon">
+    <title lang="pt">Força Danger</title>
+    <sub-title lang="pt">Danger Force</sub-title>
+    <desc lang="pt">Captain Man e Danger Force são contratados para entregar um filme de grande orçamento de Hollywood em sua estreia, mas o produtor os avisa que os estúdios rivais e os trolls da internet estão tentando roubar o filme.</desc>
+    <credits>
+      <actor>Cooper Barnes</actor>
+      <actor>Havan Flores</actor>
+      <actor>Terrence Little Gardenhigh</actor>
+      <actor>Dana Heath</actor>
+      <actor>Luca Luhan</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123143000 -0300" stop="20211123150000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <sub-title lang="pt">SpongeBob SquarePants</sub-title>
+    <desc lang="pt">Bob Esponja é uma esponja do mar que vive na Fenda do Bikini e tem um talento incrível para se meter em confusões. Junto de seu amigo Patrick Estrela, Bob vive aventuras pra lá de malucas.</desc>
+    <credits>
+      <actor>Vozes de Tom Kenny</actor>
+      <actor>Bill Fagerbakke</actor>
+      <actor>Clancy Brown</actor>
+      <actor>Rodger Bumpass</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Mary Jo Catlett</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E26</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123150000 -0300" stop="20211123153000 -0300" channel="Nickelodeon">
+    <title lang="pt">É O Pônei</title>
+    <sub-title lang="pt">It's Pony</sub-title>
+    <desc lang="pt">Mãe e pai saem de casa para visitar alguns amigos. Henrietta prevê que Pônei vai estragar a tentativa de Annie de ganhar uma entrada para um passeio radical no zoológico da cidade.</desc>
+    <credits>
+      <director>Ant Blades</director>
+      <actor>Vozes de Jessica DiCicco</actor>
+      <actor>Josh Zuckerman</actor>
+      <actor>Abraham Benrubi</actor>
+      <actor>Josh Keaton</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S3 E15</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123153000 -0300" stop="20211123160000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+    <desc lang="pt">Lincoln quer ver seu programa favorito e precisa se livrar de todas as irmãs para chegar no sofá primeiro! Depois que o Lincoln deixa uma mensagem raivosa no telefone de Lori, ele percebe que precisa apagá-la antes que Lori escute.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <actor>Vozes de Jessica DiCicco</actor>
+      <actor>Nika Futterman</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Caleel Harris</actor>
+      <actor>Lara Jill Miller</actor>
+      <actor>Liliana Mumy</actor>
+      <actor>Grant Palmer</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123160000 -0300" stop="20211123163000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <sub-title lang="pt">SpongeBob SquarePants</sub-title>
+    <desc lang="pt">Bob Esponja e Patrick gostam da nova mania de fazer o cérebro voar como se fosse um drone. Bob Esponja e Patrick brincam de Homem-Sereia e Mexilhãozinho, mas a diversão muda quando os inimigos dos heróis chegam.</desc>
+    <credits>
+      <actor>Vozes de Tom Kenny</actor>
+      <actor>Bill Fagerbakke</actor>
+      <actor>Dan Povenmire</actor>
+      <actor>Rodger Bumpass</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Clancy Brown</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123163000 -0300" stop="20211123170000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Casagrandes</title>
+    <sub-title lang="pt">The Casagrandes</sub-title>
+    <desc lang="pt">Ronnie é uma menina divertida que acabou de se mudar para a casa de sua avó com sua mãe e irá viver muitas aventuras.</desc>
+    <credits>
+      <director>Miguel Puga</director>
+      <actor>Bien-Willner</actor>
+      <actor>Alejandro Puga</actor>
+      <actor>Miguel Malach</actor>
+      <actor>Karen Álvarez</actor>
+      <actor>Izabella Cazares</actor>
+      <actor>Alex Kozak</actor>
+      <actor>Jared Manzano</actor>
+      <actor>Sonia Garfias</actor>
+      <actor>Ruben Cruz</actor>
+      <actor>Wilson PenaVega</actor>
+      <actor>Carlos Rodrigues</actor>
+      <actor>Pamella Estevez</actor>
+      <actor>Aline Antas</actor>
+      <actor>Rodrigo Pazete</actor>
+      <actor>Natali Balloussier</actor>
+      <actor>Cafi Dantas</actor>
+      <actor>Jeane Fe</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123170000 -0300" stop="20211123173000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Casagrandes</title>
+    <sub-title lang="pt">The Casagrandes</sub-title>
+    <desc lang="pt">Ronnie Anne, quando descobre que o seu tio Carlos foi um skatista famoso, o implora para que a ensine manobras novas. Para comprar um skate novo, Ronnie Anne e Sid começam um serviço de passeio de cães que, rapidamente, foge do controle.</desc>
+    <credits>
+      <director>Miguel Puga</director>
+      <director>Mike Nordstrom</director>
+      <actor>Vozes de Carlos Alazraqui</actor>
+      <actor>Izabella Alvarez</actor>
+      <actor>Alex Cazares</actor>
+      <actor>Carlos PenaVega</actor>
+      <actor>Sonia Manzano</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S2 E18</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123173000 -0300" stop="20211123180000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Undergrounds</title>
+    <desc lang="pt">O empresário da banda envia Layla para um programa de TV para cantores solos.Enquanto isso, os meninos participam de uma competição de boy-bands na TV. Será que osUndergrounds estão se separando?</desc>
+    <credits>
+      <director>Nelson Botter Junior</director>
+      <actor>Vozes de Arthur Berges</actor>
+      <actor>Bruna Guerin</actor>
+      <actor>Robson Kumode</actor>
+      <actor>Fábio Lucindo</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Infantil)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123180000 -0300" stop="20211123183000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Undergrounds</title>
+    <desc lang="pt">Zach se revela novamente uma pessoa cheia de surpresas. No momento que suabanda vai se apresentar, algo inusitado acontece. Enquanto isso, os Under-Undergrounds estão a um passo do fim e se deparam com seu ex-empresário, Dollar Bill.</desc>
+    <credits>
+      <director>Botter Junior</director>
+      <director>Nelson</director>
+      <actor>Vozes de Arthur Berges</actor>
+      <actor>Bruna Guerin</actor>
+      <actor>Robson Kumode</actor>
+      <actor>Fábio Lucindo</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Infantil)</category>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123183000 -0300" stop="20211123190000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <sub-title lang="pt">SpongeBob SquarePants</sub-title>
+    <desc lang="pt">Bob Esponja é uma esponja do mar que vive na Fenda do Bikini e tem um talento incrível para se meter em confusões. Junto de seu amigo Patrick Estrela, Bob vive aventuras pra lá de malucas.</desc>
+    <credits>
+      <actor>Vozes de Tom Kenny</actor>
+      <actor>Bill Fagerbakke</actor>
+      <actor>Clancy Brown</actor>
+      <actor>Rodger Bumpass</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Rodney Bingenheimer</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S2 E18</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123190000 -0300" stop="20211123193000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+    <desc lang="pt">Ronnie Anne e Bobby vão até a cidade para visitar sua família louca e caótica. Agora, Ronnie Anne tem que convencê-los a não se mudarem.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <actor>Vozes de Jessica DiCicco</actor>
+      <actor>Collin Dean</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Caleel Harris</actor>
+      <actor>Lara Jill Miller</actor>
+      <actor>John DiMaggio</actor>
+      <actor>Fred Willard</actor>
+      <actor>Fred Tatasciore</actor>
+      <actor>Veronica Cartwright</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S3 E13</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123193000 -0300" stop="20211123200000 -0300" channel="Nickelodeon">
+    <title lang="pt">Força Danger</title>
+    <sub-title lang="pt">Danger Force</sub-title>
+    <desc lang="pt">Captain Man e Danger Force são contratados para entregar um filme de grande orçamento de Hollywood em sua estreia, mas o produtor os avisa que os estúdios rivais e os trolls da internet estão tentando roubar o filme.</desc>
+    <credits>
+      <actor>Cooper Barnes</actor>
+      <actor>Havan Flores</actor>
+      <actor>Terrence Little Gardenhigh</actor>
+      <actor>Dana Heath</actor>
+      <actor>Luca Luhan</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123200000 -0300" stop="20211123203000 -0300" channel="Nickelodeon">
+    <title lang="pt">Side Hustle: Uma Terefa Complicada</title>
+    <sub-title lang="pt">Side Hustle</sub-title>
+    <desc lang="pt">O ponto de encontro favorito dos três amigos, a Microfazenda, vai ter que fechar no fim de semana, então as crianças se oferecem para administrá-la e mantê-la aberta.</desc>
+    <credits>
+      <director>Evelyn Belasco</director>
+      <actor>Bartels</actor>
+      <actor>Jayden LeBlanc</actor>
+      <actor>Jules Crews</actor>
+      <actor>Isaiah Berg</actor>
+      <actor>Mitchell Malkoff</actor>
+      <actor>Dave Beck</actor>
+      <actor>John D. Hart</actor>
+      <actor>Ron Giudice</actor>
+      <actor>Michelle De Brito</actor>
+      <actor>Giulia Espada</actor>
+      <actor>Enrico Marques</actor>
+      <actor>Diego Belasco</actor>
+      <actor>Evelyn</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E26</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123203000 -0300" stop="20211123210000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+    <sub-title lang="pt">The Thundermans</sub-title>
+    <desc lang="pt">Max e Phoebe pedem para Cherry ajudá-los, depois que Phoebe se machuca na noite anterior à reunião com a Z-Force, mas uma emergência de super-herói testa o plano deles e o futuro dos gêmeos como combatentes do crime.</desc>
+    <credits>
+      <director>Robbie Countryman</director>
+      <actor>Rosa Blasi</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Kira Kosarin</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Audrey Whitby</actor>
+      <actor>Chris Tallman</actor>
+      <actor>Diego Velazquez</actor>
+      <actor>Reagan Fernandez</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123210000 -0300" stop="20211123213000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+    <sub-title lang="pt">The Thundermans</sub-title>
+    <desc lang="pt">Phoebe se preocupa que Max volte a ser maligno depois que pedem para que ele converse com um grupo de jovens supervilões na prisão, mas os esforços dela para proteger Max acabam causando mais mal do que bem.</desc>
+    <credits>
+      <director>Robbie Countryman</director>
+      <actor>Rosa Blasi</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Kira Kosarin</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Audrey Whitby</actor>
+      <actor>Chris Tallman</actor>
+      <actor>Diego Velazquez</actor>
+      <actor>Reagan Fernandez</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S4 E10</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123213000 -0300" stop="20211123220000 -0300" channel="Nickelodeon">
+    <title lang="pt">Game Shakers</title>
+    <desc lang="pt">O projeto escolar de Babe E Kenzie é um jogo que vira a sensação da internet! O Rapper Double G descobre que elas usaram sua música e vai atrás de sua comissão. Apesar das diferenças, o grupo se une para criar a Game Shakers!</desc>
+    <credits>
+      <director>Adam Weissman</director>
+      <actor>Thomas Kuc</actor>
+      <actor>Cree Cicchino</actor>
+      <actor>Madisyn Shipman</actor>
+      <actor>Benjamin Flores Jr.</actor>
+      <actor>Bubba Ganter</actor>
+      <actor>Kel Mitchell</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S4 E11</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123220000 -0300" stop="20211123223000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Quando Drex, um perigoso criminoso que acabou de escaper da penitenciária de Swellview, o Kid Danger e prende o Capitão Man em um capacete, Kid Danger precisa da ajuda do Schwoz para ganhar um super poder e derrotar o Drex.</desc>
+    <credits>
+      <director>Adam Weissman</director>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor />
+      <actor>Andy Cohen</actor>
+      <actor>Jace Norman</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123223000 -0300" stop="20211123230000 -0300" channel="Nickelodeon">
+    <title lang="pt">Side Hustle: Uma Terefa Complicada</title>
+    <sub-title lang="pt">Side Hustle</sub-title>
+    <desc lang="pt">O tio Nedward do Munchy vai passar o final de semana com ele. Ele é um treinador e uma pessoa muito inspiradora.</desc>
+    <credits>
+      <director>Wendy Faraone</director>
+      <actor>Jules LeBlanc</actor>
+      <actor>Jayden Bartels</actor>
+      <actor>Isaiah Crews</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123230000 -0300" stop="20211123233000 -0300" channel="Nickelodeon">
+    <title lang="pt">Sam &amp; Cat</title>
+    <sub-title lang="pt">Sam and Cat</sub-title>
+    <desc lang="pt">Para impulsionar seus negócios de babás, Sam e Cat fazem um comercial que apresenta o cão amado de Dice. A família reconhece o cão e o procura para tomá-lo, alegando que o cão pertence a eles.</desc>
+    <credits>
+      <director>Steve Hoefer</director>
+      <actor>Jennette McCurdy</actor>
+      <actor>Ariana Grande</actor>
+      <actor>Cameron Ocasio</actor>
+      <actor>Steve Bethers</actor>
+      <actor>Maree Cheatham</actor>
+      <actor>Michael McLafferty</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123233000 -0300" stop="20211124000000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+    <sub-title lang="pt">The Thundermans</sub-title>
+    <desc lang="pt">Max e Phoebe seguem para um teste final para ganharem um lugar no esquadrão de elite de super-heróis, mas um novo supervilão pode obrigá-los a sacrificar seu sonho em combater o crime para salvar as pessoas que eles mais amam.</desc>
+    <credits>
+      <director>Jonathan Judge</director>
+      <actor>Rosa Blasi</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Kira Kosarin</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Audrey Whitby</actor>
+      <actor>Chris Tallman</actor>
+      <actor>Diego Velazquez</actor>
+      <actor>Reagan Fernandez</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124000000 -0300" stop="20211124003000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+    <sub-title lang="pt">The Thundermans</sub-title>
+    <desc lang="pt">Max e Phoebe seguem para um teste final para ganharem um lugar no esquadrão de elite de super-heróis, mas um novo supervilão pode obrigá-los a sacrificar seu sonho em combater o crime para salvar as pessoas que eles mais amam.</desc>
+    <credits>
+      <director>Jonathan Judge</director>
+      <actor>Rosa Blasi</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Kira Kosarin</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Audrey Whitby</actor>
+      <actor>Chris Tallman</actor>
+      <actor>Diego Velazquez</actor>
+      <actor>Reagan Fernandez</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S4 E12</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124003000 -0300" stop="20211124010000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+    <sub-title lang="pt">The Thundermans</sub-title>
+    <desc lang="pt">Depois de Max ser dispensado pela namorada, Phoebe tenta animá-lo apresentando-o a outra garota. Porém, essa garota é uma ativista radical defensora de animais e rouba o Dr. Colosso.</desc>
+    <credits>
+      <director>Robbie Countryman</director>
+      <actor>Rosa Blasi</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Kira Kosarin</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Audrey Whitby</actor>
+      <actor>Chris Tallman</actor>
+      <actor>Diego Velazquez</actor>
+      <actor>Reagan Fernandez</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S4 E13</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124010000 -0300" stop="20211124013000 -0300" channel="Nickelodeon">
+    <title lang="pt">Game Shakers</title>
+    <desc lang="pt">A mãe do Triple G convida os Game Shakers para ver os fogos de artificio de seu iate. Mas Double G também reservou o iate, levando Dub a competir pelo afeto das crianças.</desc>
+    <credits>
+      <director>Nathan Kress</director>
+      <actor>Thomas Kuc</actor>
+      <actor>Cree Cicchino</actor>
+      <actor>Madisyn Shipman</actor>
+      <actor>Benjamin Flores Jr.</actor>
+      <actor>Bubba Ganter</actor>
+      <actor>Kel Mitchell</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S4 E14</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124013000 -0300" stop="20211124020000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Capitão Man e Kid Danger encontram-se em meio a um debate sobre qual é o melhor petisco de Swellview. À medida que as tensões aumentam, os super-heróis precisam evitar que suas preferências pessoais de sabor afetem o trabalho.</desc>
+    <credits>
+      <director>Adam Weissman</director>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Jace Norman</actor>
+      <actor>Angelica Salek</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E18</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124020000 -0300" stop="20211124023000 -0300" channel="Nickelodeon">
+    <title lang="pt">Game Shakers</title>
+    <desc lang="pt">Kenzie fica dividida quanto a denunciar Dub depois que ela o vê destruir a própria estátua.</desc>
+    <credits>
+      <director>Steve Hoefer</director>
+      <actor>Thomas Kuc</actor>
+      <actor>Cree Cicchino</actor>
+      <actor>Madisyn Shipman</actor>
+      <actor>Benjamin Flores Jr.</actor>
+      <actor>Bubba Ganter</actor>
+      <actor>Kel Mitchell</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124023000 -0300" stop="20211124030000 -0300" channel="Nickelodeon">
+    <title lang="pt">iCarly</title>
+    <desc lang="pt">O término de seu relacionamento faz com que a professora da turma, Sra. Ackerman, brigue com seus alunos. Spencer chega para resolver e eles se apaixonam.</desc>
+    <credits>
+      <director>Roger Christiansen</director>
+      <actor>Miranda Cosgrove</actor>
+      <actor>Nathan Kress</actor>
+      <actor>Jerry Trainor</actor>
+      <actor>Jennette McCurdy</actor>
+      <actor>Noah Munck</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124030000 -0300" stop="20211124033000 -0300" channel="Nickelodeon">
+    <title lang="pt">iCarly</title>
+    <desc lang="pt">A turma decide contratar um estagiário para as séries. Carly e Sam contratam um cara que acham bonito, mas ele traz mais problemas do que ajuda.</desc>
+    <credits>
+      <director>Clayton Boen</director>
+      <actor>Miranda Cosgrove</actor>
+      <actor>Nathan Kress</actor>
+      <actor>Jerry Trainor</actor>
+      <actor>Jennette McCurdy</actor>
+      <actor>Noah Munck</actor>
+      <actor>Daniel Booko</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E25</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124033000 -0300" stop="20211124040000 -0300" channel="Nickelodeon">
+    <title lang="pt">iCarly</title>
+    <desc lang="pt">O namoro de Sam está atrapalhando as gravações do programa on-line de Carly, por isso Carly e Freddie vão fazer de tudo para separá-los.</desc>
+    <credits>
+      <director>Roger Christiansen</director>
+      <actor>Miranda Cosgrove</actor>
+      <actor>Nathan Kress</actor>
+      <actor>Jerry Trainor</actor>
+      <actor>Jennette McCurdy</actor>
+      <actor>Noah Munck</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124040000 -0300" stop="20211124043000 -0300" channel="Nickelodeon">
+    <title lang="pt">Nicky, Ricky, Dicky e Dawn</title>
+    <sub-title lang="pt">Nicky, Ricky, Dicky and Dawn</sub-title>
+    <desc lang="pt">Dawn planeja se vingar de Nicky, Ricky e Dicky por lerem seu diário, mas isso faz com ninguém mais confie em ninguém e a brincadeira passe dos limites.</desc>
+    <credits>
+      <director>Robbie Countryman</director>
+      <director>Marian Deaton</director>
+      <actor>Lizzy Greene</actor>
+      <actor>Casey Simpson</actor>
+      <actor>Mace Coronel</actor>
+      <actor>Aidan Gallagher</actor>
+      <actor>Allison Munn</actor>
+      <actor>Brian Stepanek</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E20</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124043000 -0300" stop="20211124050000 -0300" channel="Nickelodeon">
+    <title lang="pt">Nicky, Ricky, Dicky e Dawn</title>
+    <sub-title lang="pt">Nicky, Ricky, Dicky and Dawn</sub-title>
+    <desc lang="pt">Os quadrigêmeos ficam empolgados quando o astro de filmes de ação, JT Steele, passa uns dias na casa da família Harper para treinar para um papel. Mas eles têm uma difícil missão: esconder a visita do ator de seus amigos da escola.</desc>
+    <credits>
+      <director>Jody Margolin Hahn</director>
+      <actor>Lizzy Greene</actor>
+      <actor>Casey Simpson</actor>
+      <actor>Mace Coronel</actor>
+      <actor>Aidan Gallagher</actor>
+      <actor>Allison Munn</actor>
+      <actor>Brian Stepanek</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S2 E25</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124050000 -0300" stop="20211124053000 -0300" channel="Nickelodeon">
+    <title lang="pt">Escola de Rock</title>
+    <sub-title lang="pt">School of Rock</sub-title>
+    <desc lang="pt">Lawrence tenta provar seu valor ao grupo ao assumir a produção da primeira gravação deles, mas seu método cria um atrito com a banda.</desc>
+    <credits>
+      <director>Jody Margolin Hahn</director>
+      <actor>Breanna Yde</actor>
+      <actor>Ricardo Hurtado</actor>
+      <actor>Jade Pettyjohn</actor>
+      <actor>Lance Lim</actor>
+      <actor>Aidan Miner</actor>
+      <actor>Tony Cavalero</actor>
+      <actor>Lucas Adams</actor>
+      <actor>Genneya Walton</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Infantil)</category>
+    <episode-num system="onscreen">S2 E26</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124053000 -0300" stop="20211124060000 -0300" channel="Nickelodeon">
+    <title lang="pt">Escola de Rock</title>
+    <sub-title lang="pt">School of Rock</sub-title>
+    <desc lang="pt">Uma nova aluna chega ao colégio: Jacqueline, uma estudante de intercâmbio. Todos querem ficar amigos dela, inclusive Tomika. Mas a vocalista sofre uma série de acidentes desastrados.</desc>
+    <credits>
+      <director>Victor Gonzalez</director>
+      <actor>Breanna Yde</actor>
+      <actor>Ricardo Hurtado</actor>
+      <actor>Jade Pettyjohn</actor>
+      <actor>Lance Lim</actor>
+      <actor>Aidan Miner</actor>
+      <actor>Tony Cavalero</actor>
+      <actor>Lucas Adams</actor>
+      <actor>Genneya Walton</actor>
+      <actor>Shelby Simmons</actor>
+      <actor>Ruby Imes</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Infantil)</category>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124060000 -0300" stop="20211124063000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+    <desc lang="pt">Para que a Lily pare de chorar, as crianças lhe dão um velho brinquedo que canta e ele as enloquece. O pai declara guerra contra os aparelhos dos filhos, então eles decidem mostrar a ele como os eletrônicos e a internet são ótimos.</desc>
+    <credits>
+      <director>Kyle Marshall</director>
+      <director>Chris Savino</director>
+      <actor>Vozes de Collin Dean</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Jessica DiCicco</actor>
+      <actor>Brian Stepanek</actor>
+      <actor>Jill Talley</actor>
+      <actor>Catherine Taber</actor>
+      <actor>Tex Hammond</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S3 E11</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124063000 -0300" stop="20211124070000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+    <desc lang="pt">Lincoln convida Clyde para uma festa do pijama, mas fica com ciúmes quando Clyde quer sair com suas irmãs. Depois de espionar seus pais, Lincoln pensa que eles decidiram se livrar de seus filhos!</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <actor>Vozes de Jessica DiCicco</actor>
+      <actor>Nika Futterman</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Caleel Harris</actor>
+      <actor>Lara Jill</actor>
+      <actor>Liliana Mumy</actor>
+      <actor>Catherine Taber</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S2 E25</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124070000 -0300" stop="20211124073000 -0300" channel="Nickelodeon">
+    <title lang="pt">Patrulha Canina</title>
+    <sub-title lang="pt">Paw Patrol</sub-title>
+    <desc lang="pt">A Patrulha Canina vai para a floresta para ajudar seu amigo Carlos a encontrar o papagaio dele, Mateo! O Ryder e a Patrulha Canina precisam ajudar o Capitão Rodovalho a mover uma colmeia da baía até a fazenda do Al.</desc>
+    <credits>
+      <actor>Vozes de Alex Thorne</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Christian Distefano</actor>
+      <actor>Max Calinescu</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Berkley Silverman</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124073000 -0300" stop="20211124080000 -0300" channel="Nickelodeon">
+    <title lang="pt">Patrulha Canina</title>
+    <sub-title lang="pt">Paw Patrol</sub-title>
+    <desc lang="pt">Quando os filhotes e o Capitão Rodovalho vão acampar sob a Lua Sereia Mágica, coisas mágicas começam a acontecer. Atraídos pela mística canção da filhote sereia, a Patrulha Canina se transfora e filhotes sereias também!</desc>
+    <credits>
+      <actor>Vozes de Alex Thorne</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Christian Distefano</actor>
+      <actor>Max Calinescu</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Berkley Silverman</actor>
+      <actor>Drew Davis</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124080000 -0300" stop="20211124083000 -0300" channel="Nickelodeon">
+    <title lang="pt">Santiago Dos Mares</title>
+    <sub-title lang="pt">Santiago of the Seas</sub-title>
+    <desc lang="pt">Bonnie captura tartarugas recém-nascidas. Santiago e sua tripulação lutam pra vencer a Regata da Ilha Encanto e as trapaças de Enrique.</desc>
+    <credits>
+      <actor>Vozes de Dave Droxler</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124083000 -0300" stop="20211124090000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <sub-title lang="pt">SpongeBob SquarePants</sub-title>
+    <desc lang="pt">Bob Esponja quer mergulhar até a superfície do oceano. Mas ele cai ao invés de subir. É dia de limpeza no Siri Cascudo, e Bob Esponja e Lula Molusco tem que limpar onde Seu Siriguejo guarda a fórmula secreta do hambúrguer.</desc>
+    <credits>
+      <actor>Vozes de Tom Kenny</actor>
+      <actor>Bill Fagerbakke</actor>
+      <actor>Clancy Brown</actor>
+      <actor>Rodger Bumpass</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Mary Jo Catlett</actor>
+    </credits>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124090000 -0300" stop="20211124093000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Casagrandes</title>
+    <sub-title lang="pt">The Casagrandes</sub-title>
+    <desc lang="pt">Quando encontram um mapa do tesouro, os Casagrandes vão em uma caçada louca atrás do ouro do Pancho Villa. A Frida e o Carlos vão em um passeio de avião chique.</desc>
+    <credits>
+      <director>Miguel Puga</director>
+      <actor>Vozes de Carlos Alazraqui</actor>
+      <actor>Izabella Alvarez</actor>
+      <actor>Alex Cazares</actor>
+      <actor>Carlos PenaVega</actor>
+      <actor>Sonia Manzano</actor>
+      <actor>Ruben Garfias</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S3 E30</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124093000 -0300" stop="20211124100000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Casagrandes</title>
+    <sub-title lang="pt">The Casagrandes</sub-title>
+    <desc lang="pt">A abuela ensina à Ronnie Anne que comprar os ingredientes do jantar não é uma tarefa fácil. Quando o apartamento do Vito fica alagado, as crianças tentam achar o melhor lugar para ele.</desc>
+    <credits>
+      <director>Miguel Puga</director>
+      <actor>Vozes de Carlos Alazraqui</actor>
+      <actor>Izabella Alvarez</actor>
+      <actor>Alex Cazares</actor>
+      <actor>Carlos PenaVega</actor>
+      <actor>Sonia Manzano</actor>
+      <actor>Ruben Garfias</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124100000 -0300" stop="20211124103000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+    <desc lang="pt">Os planos de spring break de Lincoln e Clyde são arruinados quando percebem que têm um dia para completar a lista de atividades. Lori finalmente consegue dar uma festa, mas seu plano vai por água abaixo quando seus convidados não gostam do planejado.</desc>
+    <credits>
+      <director>Chris savino</director>
+      <actor>Vozes de Jessica DiCicco</actor>
+      <actor>Collin Dean</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Caleel Harris</actor>
+      <actor>Lara Jill Miller</actor>
+      <actor>John DiMaggio</actor>
+      <actor>Fred Willard</actor>
+      <actor>Fred Tatasciore</actor>
+      <actor>Veronica Cartwright</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124103000 -0300" stop="20211124110000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+    <desc lang="pt">Depois de descobrir que o Chuck era igual a ela no ensino médio, Luna fica preocupada de sua ambição de virar rockeira não ser realista. Quando pegam a comida que o Lincoln guardou na geladeira, começa uma guerra por território na geladeira.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <actor>Vozes de Collin Dean</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Jessica DiCicco</actor>
+      <actor>Brian Stepanek</actor>
+      <actor>Jill Talley</actor>
+      <actor>Catherine Taber</actor>
+      <actor>Tex Hammond</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124110000 -0300" stop="20211124113000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Quando Dawn diz que é mais madura que os meninos e está pronta para ter um encontro, os quadrigêmeos começam uma competição.</desc>
+    <credits>
+      <director>Steve Hoefer</director>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor />
+      <actor>Andy Cohen</actor>
+      <actor>Jace Norman</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124113000 -0300" stop="20211124120000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Depois que Schwoz cria uma doença que acidentalmente afeta Charlotte, Henry, sua família e até mesmo o Ray, ele coloca todos em quarentena na casa do Henry enquanto tenta achar uma cura.</desc>
+    <credits>
+      <director>Steve Hoefer</director>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor />
+      <actor>Andy Cohen</actor>
+      <actor>Jace Norman</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124120000 -0300" stop="20211124123000 -0300" channel="Nickelodeon">
+    <title lang="pt">Side Hustle: Uma Terefa Complicada</title>
+    <sub-title lang="pt">Side Hustle</sub-title>
+    <desc lang="pt">A competição "Dance Dance Altoonisburg" está chegando e Lex, Presley e Munchy estão ansiosos para participar.</desc>
+    <credits>
+      <director>Adam Weissman</director>
+      <actor>Jules LeBlanc</actor>
+      <actor>Jayden Bartels</actor>
+      <actor>Isaiah Crews</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S3 E10</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124123000 -0300" stop="20211124130000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+    <sub-title lang="pt">The Thundermans</sub-title>
+    <desc lang="pt">Max e Phoebe usam seus poderes para dar uma injeção de confiança a um amigo, mas essa atitude acaba se invertendo quando ele começa a pensar que tem superpoderes de verdade.</desc>
+    <credits>
+      <actor>Rosa Blasi</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Kira Kosarin</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Audrey Whitby</actor>
+      <actor>Chris Tallman</actor>
+      <actor>Diego Velazquez</actor>
+      <actor>Reagan Fernandez</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124130000 -0300" stop="20211124133000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+    <sub-title lang="pt">The Thundermans</sub-title>
+    <desc lang="pt">Empolgados por serem homenageados por seu heroísmo em um mural da escola, Phoebe e Max descobrem que a artista guarda um rancor pessoal, e a homenagem não é o que eles imaginavam.</desc>
+    <credits>
+      <director>Robbie Countryman</director>
+      <actor>Rosa Blasi</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Kira Kosarin</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Audrey Whitby</actor>
+      <actor>Chris Tallman</actor>
+      <actor>Diego Velazquez</actor>
+      <actor>Reagan Fernandez</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S4 E15</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124133000 -0300" stop="20211124140000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Quando Ray encontra uma ex-namorada, ele tenta impressioná-la fingindo que Henry, Charlotte e Jasper são seus filhos.</desc>
+    <credits>
+      <director>Adam Weissma</director>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Michael D. Cohen</actor>
+      <actor>Jace Norman</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S4 E16</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124140000 -0300" stop="20211124143000 -0300" channel="Nickelodeon">
+    <title lang="pt">Força Danger</title>
+    <sub-title lang="pt">Danger Force</sub-title>
+    <desc lang="pt">Mika aprende uma lição, mas uma surpresa da mãe de Schwoz pode fazer com que ela seja reprovada.</desc>
+    <credits>
+      <actor>Cooper Barnes</actor>
+      <actor>Havan Flores</actor>
+      <actor>Terrence Little Gardenhigh</actor>
+      <actor>Dana Heath</actor>
+      <actor>Luca Luhan</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S4 E14</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124143000 -0300" stop="20211124150000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <sub-title lang="pt">SpongeBob SquarePants</sub-title>
+    <desc lang="pt">Bob Esponja e Patrick estão brincando, mas Lula Molusco reclama do barulho e pede para os dois "cortarem essa". Com isso, Bob Esponja tem a ideia de cortar um pedaço de si, que logo vira uma cópia dele menor.</desc>
+    <credits>
+      <actor>Vozes de Tom Kenny</actor>
+      <actor>Bill Fagerbakke</actor>
+      <actor>Clancy Brown</actor>
+      <actor>Rodger Bumpass</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Mary Jo Catlett</actor>
+    </credits>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124150000 -0300" stop="20211124153000 -0300" channel="Nickelodeon">
+    <title lang="pt">É O Pônei</title>
+    <sub-title lang="pt">It's Pony</sub-title>
+    <desc lang="pt">Annie quer muito cortar o cabelo, mas Pony mostra que até mesmo a tarefa mais simples pode se tornar uma aventura. Annie e Pony querem fazer para Gerry a melhor festa de aniversário de todas.</desc>
+    <credits>
+      <director>Ant Blades</director>
+      <actor>Vozes de Jessica DiCicco</actor>
+      <actor>Josh Zuckerman</actor>
+      <actor>Abraham Benrubi</actor>
+      <actor>Josh Keaton</actor>
+      <actor>Carolina Ravassa</actor>
+      <actor>Taylor Polidore</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S3 E28</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124153000 -0300" stop="20211124160000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+    <desc lang="pt">Lincoln está cansado de suas irmãs se metendo em sua vida, até que alguém começa a implicar com ele na escola. Lincoln secretamente filma os momentos vai vergonhosos de suas irmãs para ganhar um concurso de vídeos na escola.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <actor>Vozes deJessica DiCicco</actor>
+      <actor>Nika Futterman</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Caleel Harris</actor>
+      <actor>Lara Jill Miller</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124160000 -0300" stop="20211124163000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <sub-title lang="pt">SpongeBob SquarePants</sub-title>
+    <desc lang="pt">Bob Esponja e Patrick vão visitar Sandy. Ela fez uma máquina para viajar para outras dimensões. Eles mexem nos botões. Robalo finge que tem um talk show, mas sua mãe estraga, ele decide sair de casa.</desc>
+    <credits>
+      <actor>Vozes de Tom Kenny</actor>
+      <actor>Bill Fagerbakke</actor>
+      <actor>Clancy Brown</actor>
+      <actor>Rodger Bumpass</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Mary Jo Catlett</actor>
+    </credits>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124163000 -0300" stop="20211124170000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Casagrandes</title>
+    <sub-title lang="pt">The Casagrandes</sub-title>
+    <desc lang="pt">Quando encontram um mapa do tesouro, os Casagrandes vão em uma caçada louca atrás do ouro do Pancho Villa. A Frida e o Carlos vão em um passeio de avião chique.</desc>
+    <credits>
+      <director>Miguel Puga</director>
+      <actor>Vozes de Carlos Alazraqui</actor>
+      <actor>Izabella Alvarez</actor>
+      <actor>Alex Cazares</actor>
+      <actor>Carlos PenaVega</actor>
+      <actor>Sonia Manzano</actor>
+      <actor>Ruben Garfias</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S3 E29</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124170000 -0300" stop="20211124173000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Casagrandes</title>
+    <sub-title lang="pt">The Casagrandes</sub-title>
+    <desc lang="pt">A abuela ensina à Ronnie Anne que comprar os ingredientes do jantar não é uma tarefa fácil. Quando o apartamento do Vito fica alagado, as crianças tentam achar o melhor lugar para ele.</desc>
+    <credits>
+      <director>Miguel Puga</director>
+      <actor>Vozes de Carlos Alazraqui</actor>
+      <actor>Izabella Alvarez</actor>
+      <actor>Alex Cazares</actor>
+      <actor>Carlos PenaVega</actor>
+      <actor>Sonia Manzano</actor>
+      <actor>Ruben Garfias</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124173000 -0300" stop="20211124180000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Undergrounds</title>
+    <desc lang="pt">Banda apresenta o mundo Underground para Heitor. Bob fica desconfiado desse tal "Humano", mas no final os dois acabam se entendendo.</desc>
+    <credits>
+      <actor>Vozes de Arthur Berges</actor>
+      <actor>Bruna Guerin</actor>
+      <actor>Robson Kumode</actor>
+      <actor>Fábio Lucindo</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Infantil)</category>
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124180000 -0300" stop="20211124183000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Undergrounds</title>
+    <desc lang="pt">Heitor cai num bueiro e vai parar no mundo Underground. Lá, ele conhece Layla, Lud e Bob e entra para a banda "Os Under-Undergrounds".</desc>
+    <credits>
+      <actor>Vozes de Arthur Berges</actor>
+      <actor>Bruna Guerin</actor>
+      <actor>Robson Kumode</actor>
+      <actor>Fábio Lucindo</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Infantil)</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124183000 -0300" stop="20211124190000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <sub-title lang="pt">SpongeBob SquarePants</sub-title>
+    <desc lang="pt">Plankton afugenta clientes do Siri Cascuro e Seu Sirigueijo se vê obrigado a dar hambúrgueres grátis para reconquistar seu público. A casa de Bob Esponja se desmancha e ele precisará da ajuda de todos seus amigos para reforma-la.</desc>
+    <credits>
+      <actor>Vozes de Tom Kenny</actor>
+      <actor>Bill Fagerbakke</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E26</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124190000 -0300" stop="20211124193000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+    <desc lang="pt">Lincoln compra uma piscina infantil, mas as coisas saem do controle quando suas 10 irmãs querem usá-la. Após perceber que nenhuma de suas irmãs compartilha de seus interesses, o Lincoln tenta transformar Lily numa versão miniatura dele.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <actor>Vozes de Jessica DiCicco</actor>
+      <actor>Nika Futterman</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Caleel Harris</actor>
+      <actor>Lara Jill</actor>
+      <actor>Liliana Mumy</actor>
+      <actor>Catherine Taber</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S2 E70</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124193000 -0300" stop="20211124200000 -0300" channel="Nickelodeon">
+    <title lang="pt">Força Danger</title>
+    <sub-title lang="pt">Danger Force</sub-title>
+    <desc lang="pt">Mika aprende uma lição, mas uma surpresa da mãe de Schwoz pode fazer com que ela seja reprovada.</desc>
+    <credits>
+      <actor>Cooper Barnes</actor>
+      <actor>Havan Flores</actor>
+      <actor>Terrence Little Gardenhigh</actor>
+      <actor>Dana Heath</actor>
+      <actor>Luca Luhan</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124200000 -0300" stop="20211124203000 -0300" channel="Nickelodeon">
+    <title lang="pt">Side Hustle: Uma Terefa Complicada</title>
+    <sub-title lang="pt">Side Hustle</sub-title>
+    <desc lang="pt">Munchy fica com uma melodia presa em sua cabeça, e as crianças a transformam em uma música e formam uma banda.</desc>
+    <credits>
+      <director>David Rendall</director>
+      <actor>Bartels</actor>
+      <actor>Jayden LeBlanc</actor>
+      <actor>Jules Crews</actor>
+      <actor>Isaiah Berg</actor>
+      <actor>Mitchell Malkoff</actor>
+      <actor>Dave Beck</actor>
+      <actor>John D. Hart</actor>
+      <actor>Ron Giudice</actor>
+      <actor>Michelle De Brito</actor>
+      <actor>Giulia Espada</actor>
+      <actor>Enrico Marques</actor>
+      <actor>Diego Belasco</actor>
+      <actor>Evelyn</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124203000 -0300" stop="20211124210000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+    <sub-title lang="pt">The Thundermans</sub-title>
+    <desc lang="pt">Phoebe e Max serão mentores de um de seus irmãos no Programa Pequeno Z, mas logo se arrependem de ter escolhido Nora quando veem as habilidades surpreendentes de Billy.</desc>
+    <credits>
+      <director>Trevor Kirschner</director>
+      <actor>Rosa Blasi</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Kira Kosarin</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Audrey Whitby</actor>
+      <actor>Chris Tallman</actor>
+      <actor>Diego Velazquez</actor>
+      <actor>Reagan Fernandez</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124210000 -0300" stop="20211124213000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+    <sub-title lang="pt">The Thundermans</sub-title>
+    <desc lang="pt">Com uma de suas pegadinhas malignas podendo arruinar uma reunião de super-heróis, Max pede ajuda a Phoebe para resolver. O poder deles não é o bastante para impedir a ameaça, Phoebe toma uma decisão que pode afetar toda a sua vida.</desc>
+    <credits>
+      <director>Eric Dean Seaton</director>
+      <actor>Rosa Blasi</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Kira Kosarin</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Audrey Whitby</actor>
+      <actor>Chris Tallman</actor>
+      <actor>Diego Velazquez</actor>
+      <actor>Reagan Fernandez</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S4 E17</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124213000 -0300" stop="20211124220000 -0300" channel="Nickelodeon">
+    <title lang="pt">Game Shakers</title>
+    <desc lang="pt">Quando o irmão do Dub aparece na Game Shakers e convida todo mundo, menos o Dub para ser casamento, as crianças o convencem a permitir a presença do irmão, prometendo fazer o Dub se comportar no evento.</desc>
+    <credits>
+      <director>David Kendall</director>
+      <actor>Thomas Kuc</actor>
+      <actor>Cree Cicchino</actor>
+      <actor>Madisyn Shipman</actor>
+      <actor>Benjamin Flores Jr.</actor>
+      <actor>Bubba Ganter</actor>
+      <actor>Kel Mitchell</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S4 E18</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124220000 -0300" stop="20211124223000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Quando o pai de Henry recebe uma nova oportunidade de emprego em Bordertown, Henry e Ray se disfarçam para tentar impedir que ele seja contratado e que Henry precise se mudar.</desc>
+    <credits>
+      <director>Allison Scagliotti-Smit</director>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Michael D. Cohen</actor>
+      <actor>Jace Norman</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124223000 -0300" stop="20211124230000 -0300" channel="Nickelodeon">
+    <title lang="pt">Side Hustle: Uma Terefa Complicada</title>
+    <sub-title lang="pt">Side Hustle</sub-title>
+    <desc lang="pt">O ponto de encontro favorito de Lex, Presley e Munchy, a Microfazenda, está com problemas. Alguém está invadindo ali e ordenhando a vaca Cash à noite.</desc>
+    <credits>
+      <director>Adam Weissman</director>
+      <actor>Jules LeBlanc</actor>
+      <actor>Jayden Bartels</actor>
+      <actor>Isaiah Crews</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S4 E15</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124230000 -0300" stop="20211124233000 -0300" channel="Nickelodeon">
+    <title lang="pt">Sam &amp; Cat</title>
+    <sub-title lang="pt">Sam and Cat</sub-title>
+    <desc lang="pt">Sam abre um cofre em seu quarto e descobre um túnel que leva a uma sala secreta. Cat se filma por 24 horas para se assistir depois de 10 anos.</desc>
+    <credits>
+      <actor>Jennette McCurdy</actor>
+      <actor>Ariana Grande</actor>
+      <actor>Cameron Ocasio</actor>
+      <actor>Zoran Korach</actor>
+      <actor>Eva Bella</actor>
+      <actor>Laura Krystine</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
 </tv>
