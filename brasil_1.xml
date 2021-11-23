@@ -34226,4 +34226,3307 @@
       <value>livre</value>
     </rating>
   </programme>
+  <programme start="20211123010000 -0300" stop="20211123030000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Rayo Vallecano x Mallorca</title>
+    <desc lang="pt">A Liga Das Estrelas Reúne Os Mais Fantásticos Jogadores Do Futebol Mundial. Barça, Real Madrid, Atletico De Madrid Grandes Equipes Em Busca Do Título Mais Cobiçado.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123030000 -0300" stop="20211123050000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Rugby: Amistoso Internacional: Irlanda x Argentina</title>
+    <desc lang="pt">A melhor programação de rugby está nos canais ESPN. Acompanhe os mais talentosos jogadores do mundo em disputas internacionais.</desc>
+    <category lang="pt">Esporte (Rugby)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123050000 -0300" stop="20211123070000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Campeonato Inglês Feminino: Manchester United x Arsenal</title>
+    <desc lang="pt">Fundada em 2010, a liga de futebol feminino do mais alto escalão da Inglaterra, é dirigido pela Associação de Futebol e atualmente conta com 12 times totalmente profissionais. As três melhores equipas, conforme determinado pelo coeficiente feminino da UEFA, se classificam para a disputa da UEFA Women's Champions League.</desc>
+    <category lang="pt">Esporte (Futebol Feminino)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123070000 -0300" stop="20211123080000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Glória Eterna " A Hora Da Verdade "</title>
+    <desc lang="pt">Especial com o melhor conteúdo dos canais ESPN.</desc>
+    <category lang="pt">Documentário (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123080000 -0300" stop="20211123100000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Conmebol Libertadores Feminina: Independiente Santa Fe (col) x Corinthians</title>
+    <desc lang="pt">A Verdadeira Obsessão Dos Clubes Da América Do Sul E A Grande Paixão Dos Torcedores. A Conmebol Libertadores Reúne Todos Os Anos As Melhores Equipes De Brasil, Argentina E Outros Países.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123100000 -0300" stop="20211123110000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Bola da Vez: Zico</title>
+    <desc lang="pt">Grandes nomes do esporte em uma conversa franca, direta e, muitas vezes, reveladora. Passado, presente e os projetos para o futuro. Todo sábado, após o Sportscenter, na ESPN Brasil, sob o comando de André Plihal.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123110000 -0300" stop="20211123130000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Sevilla x Alavés</title>
+    <desc lang="pt">A Liga Das Estrelas Reúne Os Mais Fantásticos Jogadores Do Futebol Mundial. Barça, Real Madrid, Atletico De Madrid Grandes Equipes Em Busca Do Título Mais Cobiçado.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123130000 -0300" stop="20211123144500 -0300" channel="Fox Sports 2">
+    <title lang="pt">Inter de Milão x Napoli</title>
+    <desc lang="pt">Os Grandes Clubes Do Futebol Italiano Batalham Pela Conquista Do Scudetto. Tradição, Força E Disciplina Tática Marcam As Emocionantes Disputas Da Serie A.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123144500 -0300" stop="20211123164500 -0300" channel="Fox Sports 2">
+    <title lang="pt">Barcelona x Espanyol</title>
+    <desc lang="pt">A Liga Das Estrelas Reúne Os Mais Fantásticos Jogadores Do Futebol Mundial. Barça, Real Madrid, Atletico De Madrid Grandes Equipes Em Busca Do Título Mais Cobiçado.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123164500 -0300" stop="20211123174500 -0300" channel="Fox Sports 2">
+    <title lang="pt">Resenha: Junior Baiano</title>
+    <desc lang="pt">Comandado por André Plihal, o programa recebe semanalmente jogadores e ex-jogadores de futebol para a resenha. Papo solto, cheio de histórias de um jeito bem moleque. Eleito quatro vezes como o Melhor Programa Esportivo da Televisão Brasileira pelos próprios jogadores do Campeonato Brasileiro.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123174500 -0300" stop="20211123184500 -0300" channel="Fox Sports 2">
+    <title lang="pt">Bola da Vez: Zico</title>
+    <desc lang="pt">Grandes nomes do esporte em uma conversa franca, direta e, muitas vezes, reveladora. Passado, presente e os projetos para o futuro. Todo sábado, após o Sportscenter, na ESPN Brasil, sob o comando de André Plihal.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123184500 -0300" stop="20211123193500 -0300" channel="Fox Sports 2">
+    <title lang="pt">WWE NXT</title>
+    <desc lang="pt">O WWE é a principal organização de Pro Wrestling no mundo e reúne as maiores estrelas da modalidade em fantásticos combates de tirar o fôlego.</desc>
+    <category lang="pt">Esporte (Luta)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123193500 -0300" stop="20211123200000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Além da Bola: André Balada</title>
+    <desc lang="pt">Especial com o melhor conteúdo dos canais ESPN.</desc>
+    <category lang="pt">Documentário (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123200000 -0300" stop="20211123230000 -0300" channel="Fox Sports 2">
+    <title lang="pt">NFL: Pittsburgh Steelers x Los Angeles Chargers</title>
+    <desc lang="pt">Touchdowns, Viradas Espetaculares, Jogadas Que Entram Para A História E Os Melhores Atletas Em Campo. A Nfl Reúne A Elite Do Futebol Americano.</desc>
+    <category lang="pt">Esporte (Futebol Americano)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123230000 -0300" stop="20211124010000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Coventry City x Birmingham City</title>
+    <desc lang="pt">Conhecida Como The Championship, A Segunda Divisão Do Futebol Inglês Reúne Diversas Equipes De Tradição Secular E Altas Médias De Público. Paixão Incondicional E A Luta Pela Vaga Na Divisão De Elite.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124010000 -0300" stop="20211124030000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Campeonato Argentino</title>
+    <desc lang="pt">A Paixão Nas Arquibancadas E As Disputas Emocionantes Dentro De Campo. A Liga Profissional De Futebol Da Argentina Reúne As Equipes Da Primeira Divisão Do País Em Um Combo Perfeito Para Os Mais Fanáticos Torcedores.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124030000 -0300" stop="20211124050000 -0300" channel="Fox Sports 2">
+    <title lang="pt">AFC Champions League: Al Hilal (KSA) x Pohang Steelers (kor)</title>
+    <desc lang="pt">Confira o torneio anual de futebol entre clubes organizado pela Confederação Asiática de Futebol para definir o clube campeão continental principal do continente. Não perca a Liga dos Campeões Asiática.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124050000 -0300" stop="20211124070000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Campeonato Inglês Feminino: Manchester United x Arsenal</title>
+    <desc lang="pt">Fundada em 2010, a liga de futebol feminino do mais alto escalão da Inglaterra, é dirigido pela Associação de Futebol e atualmente conta com 12 times totalmente profissionais. As três melhores equipas, conforme determinado pelo coeficiente feminino da UEFA, se classificam para a disputa da UEFA Women's Champions League.</desc>
+    <category lang="pt">Esporte (Futebol Feminino)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124070000 -0300" stop="20211124090000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Queens Park Rangers x Luton Town</title>
+    <desc lang="pt">Conhecida como The Championship, a segunda divisão do futebol inglês reúne diversas equipes de tradição secular e altas médias de público. Paixão incondicional e a luta pela vaga na divisão de elite.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124090000 -0300" stop="20211124100000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Resenha: Junior Baiano</title>
+    <desc lang="pt">Comandado por André Plihal, o programa recebe semanalmente jogadores e ex-jogadores de futebol para a resenha. Papo solto, cheio de histórias de um jeito bem moleque. Eleito quatro vezes como o Melhor Programa Esportivo da Televisão Brasileira pelos próprios jogadores do Campeonato Brasileiro.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124100000 -0300" stop="20211124120000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Rugby: Amistoso Internacional: Inglaterra x Africa Do Sul</title>
+    <desc lang="pt">A melhor programação de rugby está nos canais ESPN. Acompanhe os mais talentosos jogadores do mundo em disputas internacionais.</desc>
+    <category lang="pt">Esporte (Rugby)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124120000 -0300" stop="20211124150000 -0300" channel="Fox Sports 2">
+    <title lang="pt">NFL: New York Giants x Tampa Bay Buccaneers</title>
+    <desc lang="pt">Touchdowns, Viradas Espetaculares, Jogadas Que Entram Para A História E Os Melhores Atletas Em Campo. A Nfl Reúne A Elite Do Futebol Americano.</desc>
+    <category lang="pt">Esporte (Futebol Americano)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124150000 -0300" stop="20211124180000 -0300" channel="Fox Sports 2">
+    <title lang="pt">NFL: Arizona Cardinals x Seattle Seahawks</title>
+    <desc lang="pt">Touchdowns, viradas espetaculares, jogadas que entram para a história e os melhores atletas em campo. A NFL reúne a elite do futebol americano. Da pré-temporada aos playoffs, acompanhe semana a semana a batalha das franquias na busca pelo grande sonho: conquistar o Super Bowl.</desc>
+    <category lang="pt">Esporte (Futebol Americano)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124180000 -0300" stop="20211124181500 -0300" channel="Fox Sports 2">
+    <title lang="pt">Narra Quem Sabe</title>
+    <desc lang="pt">'Narra Quem Sabe ESPN' irá revelaros novos talentos femininos da narração. Este novo programa tem como objetivo abrir mais caminhos para as mulheres que almejam ser narradoras.</desc>
+    <category lang="pt">Esporte (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124181500 -0300" stop="20211124184500 -0300" channel="Fox Sports 2">
+    <title lang="pt">Show da Rodada</title>
+    <desc lang="pt">Os principais lances e os gols dos campeonatos internacionais de futebol.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124184500 -0300" stop="20211124193500 -0300" channel="Fox Sports 2">
+    <title lang="pt">WWE Vintage</title>
+    <desc lang="pt">"Fundada Na Década De 50, A Luta Livre Da Wwe É Sucesso Absoluto Em Mais De 150 Países E Já Revelou Diversos Lutadores E Estrelas Para O Mundo Do Entretenimento".</desc>
+    <category lang="pt">Esporte (Luta)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124193500 -0300" stop="20211124200000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Momento ESPN</title>
+    <desc lang="pt">Um resumo com o melhor da rodada do futebol nacional.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124200000 -0300" stop="20211124220000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Bristol City x Stoke City</title>
+    <desc lang="pt">Conhecida Como The Championship, A Segunda Divisão Do Futebol Inglês Reúne Diversas Equipes De Tradição Secular E Altas Médias De Público. Paixão Incondicional E A Luta Pela Vaga Na Divisão De Elite.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124220000 -0300" stop="20211124230000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Bola da Vez: Zico</title>
+    <desc lang="pt">Grandes nomes do esporte em uma conversa franca, direta e, muitas vezes, reveladora. Passado, presente e os projetos para o futuro. Todo sábado, após o Sportscenter, na ESPN Brasil, sob o comando de André Plihal.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123002600 -0300" stop="20211123031700 -0300" channel="FX">
+    <title lang="pt">O Hobbit: A Desolação de Smaug</title>
+    <sub-title lang="pt">The Hobbit: Desolation Of Smaug</sub-title>
+    <desc lang="pt">Bilbo Bolseiro, Gandalf e a Companhia de Thorin seguem em direção à Montanha Solitária, lar do temido dragão Smaug. Ao mesmo tempo, Gandalf se preocupa com uma força sombria que surge na Terra Média.</desc>
+    <credits>
+      <director>Peter Jackson</director>
+      <actor>Martin Freeman</actor>
+      <actor>Benedict Cumberbatch</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>Evangeline Lilly</actor>
+      <actor>Ian McKellen</actor>
+      <actor>Orlando Bloom</actor>
+      <actor>Richard Armitage</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Filme (Aventura)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123031700 -0300" stop="20211123045600 -0300" channel="FX">
+    <title lang="pt">Zumbilândia</title>
+    <sub-title lang="pt">Zombieland</sub-title>
+    <desc lang="pt">O mundo está inundado por zumbis que querem acabar com os humanos. Nesse cenário surge Albuquerque, um camarada denominado "a pessoa mais assustadora da Terra", que lidera um grupo de sobreviventes disposto a lutar pela salvação.</desc>
+    <credits>
+      <director>Ruben Fleischer</director>
+      <actor>Jesse Eisenberg</actor>
+      <actor>Woody Harrelson</actor>
+      <actor>Emma Stone</actor>
+      <actor>Abigail Breslin</actor>
+      <actor>Amber Heard</actor>
+      <actor>Bill Murray</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Filme (Terror)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123045600 -0300" stop="20211123070000 -0300" channel="FX">
+    <title lang="pt">Imperium: Resistência Sem Líder</title>
+    <sub-title lang="pt">Imperium</sub-title>
+    <desc lang="pt">O agente do FBI Nate Foster trabalha infiltrado em um grupo de neonazistas americanos. Idealista, Nate tem que se adaptar às crenças do grupo extremista enquanto tenta, de todas as formas, impedir o plano deles de explodir uma bomba em um ato terrorista.</desc>
+    <credits>
+      <director>Daniel Ragussis</director>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Toni Collette</actor>
+      <actor>Tracy Letts</actor>
+      <actor>Sam Trammell</actor>
+      <actor>Nestor Carbonell</actor>
+      <actor>Chris Sullivan</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Filme (Suspense)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123070000 -0300" stop="20211123100000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Diversos. Espaço publicitário para divulgação de produtos e serviços.</desc>
+    <category lang="pt">Variedades (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123100000 -0300" stop="20211123105000 -0300" channel="FX">
+    <title lang="pt">The Titan Games</title>
+    <desc lang="pt">Dwayne Johnson redefine a competição atlética ao dar a homens e mulheres excepcionais a chance de testar a sua força física e mental para poder lutar no Monte Olimpo e se tornar um Titã.</desc>
+    <credits>
+      <director>Alex Rudzinski</director>
+      <actor>Alex Mendez</actor>
+      <actor>Cari Champion</actor>
+      <actor>Dwayne Johnson</actor>
+      <actor>Liam Mchugh</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Radical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123105000 -0300" stop="20211123130500 -0300" channel="FX">
+    <title lang="pt">Tubarão</title>
+    <sub-title lang="pt">Jaws</sub-title>
+    <desc lang="pt">Um grande tubarão branco aterroriza e faz vítimas entre os banhistas de uma cidade litorânea da Nova Inglaterra. É prríodo de férias e o tubarão pode afastar os turistas. O xerife Martin Brody acredita que pode vencer a criatura embora seja uma tarefa não muito fácil. Para ajudá-lo ele contata um caçador de tubarões e um oceanógrafo. A caçada está apenas começando. Filme ganhador de 3 Oscar (Melhor montagem, Melhor Som e Melhor Trilha Sonora) sendo indicado também para o Melhor Filme.</desc>
+    <credits>
+      <director>Steven Spielberg</director>
+      <actor>Roy Scheider</actor>
+      <actor>Robert Shaw</actor>
+      <actor>Richard Dreyfuss</actor>
+      <actor>Lorraine Gary</actor>
+      <actor>Murray Hamilton</actor>
+      <actor>Carl Gottlieb</actor>
+      <actor>Jeffrey Kramer</actor>
+      <actor>Jonathan Filley</actor>
+      <actor>Ted Grossman</actor>
+      <actor>Jay Mello</actor>
+      <actor>Lee Fierro</actor>
+    </credits>
+    <date>1975</date>
+    <category lang="pt">Filme (Suspense)</category>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123130500 -0300" stop="20211123145000 -0300" channel="FX">
+    <title lang="pt">Pai em Dose Dupla 2</title>
+    <sub-title lang="pt">Daddy's Home 2</sub-title>
+    <desc lang="pt">Após resolverem suas diferenças, Brad e Dusty precisam agora lidar com uma nova situação complicada: a súbita aparição de seus pais, que possuem comportamentos bem diferentes.</desc>
+    <credits>
+      <director>Sean Anders</director>
+      <actor>Will Ferrell</actor>
+      <actor>Mark Wahlberg</actor>
+      <actor>Mel Gibson</actor>
+      <actor>John Lithgow</actor>
+      <actor>Linda Cardellini</actor>
+      <actor>Alessandra Ambrosio</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123145000 -0300" stop="20211123162500 -0300" channel="FX">
+    <title lang="pt">Viagem das Loucas</title>
+    <sub-title lang="pt">Snatched</sub-title>
+    <desc lang="pt">Após ser dispensada pelo namorado na véspera da viagem para o Equador, Emily decide ir mesmo assim com sua mãe. No local, Emily convence a mãe, que é supercautelosa, a embarcar em uma aventura, mas elas acabam se envolvendo em uma tremenda confusão e precisam superar as diferenças para sobreviver.</desc>
+    <credits>
+      <director>Jonathan Levine</director>
+      <actor>Amy Schumer</actor>
+      <actor>Goldie Hawn</actor>
+      <actor>Kim Caramele</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123162500 -0300" stop="20211123182000 -0300" channel="FX">
+    <title lang="pt">Os Outros Caras</title>
+    <sub-title lang="pt">The Other Guys</sub-title>
+    <desc lang="pt">Allen e Terry têm como ídolos os melhores policiais da cidade, Danson e Highsmith, mas, quando surge a oportunidade para os dois mostrarem o seu trabalho, nada funciona como planejado.</desc>
+    <credits>
+      <director>Adam McKay</director>
+      <actor>Samuel L. Jackson</actor>
+      <actor>Dwayne Johnson</actor>
+      <actor>Eva Mendes</actor>
+      <actor>Michael Keaton</actor>
+      <actor>Will Ferrell</actor>
+      <actor>Mark Wahlberg</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123182000 -0300" stop="20211123202000 -0300" channel="FX">
+    <title lang="pt">3 Dias para Matar</title>
+    <sub-title lang="pt">3 Days to Kill</sub-title>
+    <desc lang="pt">Ethan Renner está à beira da morte. Seu último desejo é reatar com a filha. Temendo não ter tempo hábil, ele descobre a existência de uma droga que pode salvá-lo, contanto que ele aceite um trabalho.</desc>
+    <credits>
+      <director>McG</director>
+      <actor>Kevin Costner</actor>
+      <actor>Hailee Steinfeld</actor>
+      <actor>Connie Nielsen</actor>
+      <actor>Amber Heard</actor>
+      <actor>Richard Sammel</actor>
+      <actor>Tómas Lemarquis</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123202000 -0300" stop="20211123220000 -0300" channel="FX">
+    <title lang="pt">A Morte te dá Parabéns</title>
+    <sub-title lang="pt">Happy Death Day</sub-title>
+    <desc lang="pt">Tree é uma jovem estudante que trata mal os meninos, desdenha das amigas e não parece estar muito disposta a atender as ligações do pai no dia do aniversário dela. No fim do mesmo dia, no entanto, ela é brutalmente assassinada por um mascarado.</desc>
+    <credits>
+      <director>Christopher Landon</director>
+      <actor>Jessica Rothe</actor>
+      <actor>Israel Broussard</actor>
+      <actor>Ruby Modine</actor>
+      <actor>Charles Aitken</actor>
+      <actor>Laura Clifton</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme (Suspense)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123220000 -0300" stop="20211123234000 -0300" channel="FX">
+    <title lang="pt">A Morte Te Dá Parabéns 2</title>
+    <sub-title lang="pt">Happy Death Day 2u</sub-title>
+    <desc lang="pt">Dois anos depois, Tree Gelbman mais uma vez mergulha no processo de reviver o mesmo dia, indefinidamente, agora para investigar o porquê disto ter ocorrido na primeira vez. É quando ela reencontra Lori, que também retorna graças ao looping e está em busca de vingança.</desc>
+    <credits>
+      <director>Christopher Landon</director>
+      <actor>Jessica Rothe</actor>
+      <actor>Israel Broussard</actor>
+      <actor>Phi Vu</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme (Terror)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123234000 -0300" stop="20211124014000 -0300" channel="FX">
+    <title lang="pt">Riddick 3</title>
+    <sub-title lang="pt">Riddick</sub-title>
+    <desc lang="pt">Riddick é o homem mais procurado da galáxia. Abandonado para morrer em um planeta habitado apenas por animais selvagens, ele deseja retornar ao seu planeta natal. Quando dois grupos de mercenários chegam ao planeta, Riddick passa a usá-los para tentar conseguir uma das naves para fugir do local.</desc>
+    <credits>
+      <director>David Twohy</director>
+      <actor>Vin Diesel</actor>
+      <actor>Katee Sackhoff</actor>
+      <actor>Karl Urban</actor>
+      <actor>Jordi Mollà</actor>
+      <actor>Matt Nable</actor>
+      <actor>Andreas Apergis</actor>
+      <actor>Noah Danby</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211124014000 -0300" stop="20211124032000 -0300" channel="FX">
+    <title lang="pt">Coração de Dragão 4: A Batalha Pelo Coração de Fogo</title>
+    <sub-title lang="pt">Dragonheart 4</sub-title>
+    <desc lang="pt">O dragão Drago precisa de um novo herdeiro para o trono após o falecimento do Rei Gareth, com quem tem uma ligação. Mas ele vai encontrar dificuldades com os irmãos Edric e Meghan, que estão sempre brigando. Porém, para ajudar o dragão, eles precisarão se unir.</desc>
+    <credits>
+      <director>Patrik Syversen</director>
+      <actor>Patrick Stewart</actor>
+      <actor>Tom Rhys Harries</actor>
+      <actor>Jessamine-Bliss Bell</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme (Aventura)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211124032000 -0300" stop="20211124045000 -0300" channel="FX">
+    <title lang="pt">Quatro Amigas e um Casamento</title>
+    <sub-title lang="pt">Bachelorette</sub-title>
+    <desc lang="pt">Três amigas de colégio se reúnem, anos mais tarde, para o casamento da gordinha Becky, que nunca julgariam capaz do feito. Mesmo com dor de cotovelo, o trio lhe prepara uma despedida de solteira, que promete ser muito louca. O problema é que elas exageram na dose, podendo arruinar o grande dia.</desc>
+    <credits>
+      <director>Leslye Headland</director>
+      <actor>Kirsten Dunst</actor>
+      <actor>Rebel Wilson</actor>
+      <actor>Isla Fisher</actor>
+      <actor>Lizzy Caplan</actor>
+      <actor>Paul Corning</actor>
+      <actor>Andrew Rannells</actor>
+      <actor>Anna Rose Hopkins</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211124045000 -0300" stop="20211124063000 -0300" channel="FX">
+    <title lang="pt">Pai em Dose Dupla 2</title>
+    <sub-title lang="pt">Daddy's Home 2</sub-title>
+    <desc lang="pt">Após resolverem suas diferenças, Brad e Dusty precisam agora lidar com uma nova situação complicada: a súbita aparição de seus pais, que possuem comportamentos bem diferentes.</desc>
+    <credits>
+      <director>Sean Anders</director>
+      <actor>Will Ferrell</actor>
+      <actor>Mark Wahlberg</actor>
+      <actor>Mel Gibson</actor>
+      <actor>John Lithgow</actor>
+      <actor>Linda Cardellini</actor>
+      <actor>Alessandra Ambrosio</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211124063000 -0300" stop="20211124070000 -0300" channel="FX">
+    <title lang="pt">Hermes e Renato</title>
+    <desc lang="pt">Meu, no programa que é um show de entretenimento com Luiz Boça, mais um puta recorde, meu! E no canal Multixoxo, mais estreias para desanimar as suas noites vendo TV!</desc>
+    <credits>
+      <director>Henrique Moreira Pinto</director>
+      <actor>Adriano Silva</actor>
+      <actor>Fausto Fanti</actor>
+      <actor>Felpe Torres</actor>
+      <actor>Franco Fanti</actor>
+      <actor>Marco Alves</actor>
+    </credits>
+    <category lang="pt">Séries (Comédia)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211124070000 -0300" stop="20211124100000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Diversos. Espaço publicitário para divulgação de produtos e serviços.</desc>
+    <category lang="pt">Variedades (Diversos)</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124100000 -0300" stop="20211124105000 -0300" channel="FX">
+    <title lang="pt">The Titan Games</title>
+    <desc lang="pt">Dwayne Johnson redefine a competição atlética ao dar a homens e mulheres excepcionais a chance de testar a sua força física e mental para poder lutar no Monte Olimpo e se tornar um Titã.</desc>
+    <credits>
+      <director>Alex Rudzinski</director>
+      <actor>Alex Mendez</actor>
+      <actor>Cari Champion</actor>
+      <actor>Dwayne Johnson</actor>
+      <actor>Liam Mchugh</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Radical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124105000 -0300" stop="20211124131500 -0300" channel="FX">
+    <title lang="pt">Ponte dos Espiões</title>
+    <sub-title lang="pt">Bridge of Spies</sub-title>
+    <desc lang="pt">Em plena Guerra Fria, o advogado James Donovan aceita a tarefa de defender Rudolf Abel, um espião soviético capturado pelos americanos. Donovan torna-se uma peça central das negociações entre os Estados Unidos e a União Soviética.</desc>
+    <credits>
+      <director>Steven Spielberg</director>
+      <actor>Mark Rylance</actor>
+      <actor>Domenick Lombardozzi</actor>
+      <actor>Victor Verhaeghe</actor>
+      <actor>Mark Fichera</actor>
+      <actor>Brian Hutchison</actor>
+      <actor>Tom Hanks</actor>
+      <actor>Joshua Harto</actor>
+      <actor>Henny Russell</actor>
+      <actor>Rebekah Brockman</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Filme (Suspense)</category>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211124131500 -0300" stop="20211124144000 -0300" channel="FX">
+    <title lang="pt">Jogos Famintos</title>
+    <sub-title lang="pt">The Starving Games</sub-title>
+    <desc lang="pt">Nesta sátira de Jogos Vorazes, a corajosa e habilidosa Kantmiss Evershot se oferece para participar dos Jogos Famintos, onde ela e o filho do padeiro Peter Malarkey vão lutar pelas suas vidas e ainda podem ganhar alguns presentes inesperados no meio do caminho.</desc>
+    <credits>
+      <director>Aaron Seltzer</director>
+      <director>Jason Friedberg</director>
+      <actor>Maiara Walsh</actor>
+      <actor>Cody Christian</actor>
+      <actor>Brant Daugherty</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Lauren Bowles</actor>
+      <actor>Nick Gomez</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211124144000 -0300" stop="20211124164000 -0300" channel="FX">
+    <title lang="pt">Corrida Mortal: Anarquia</title>
+    <sub-title lang="pt">Death Race 4: Beyond Anarchy</sub-title>
+    <desc lang="pt">Em meio ao cenário apocalíptico das corridas mortais, o famoso prisioneiro Frankenstein sofre um ataque mal sucedido. Com isso, o especialista em operações extra oficiais Connor Gibson entra na prisão máxima para se juntar a ilegal Corrida e concluir o plano.</desc>
+    <credits>
+      <director>Don Michael Paul</director>
+      <actor>Danny Glover</actor>
+      <actor>Danny Trejo</actor>
+      <actor>Zach McGowan</actor>
+      <actor>Lucy Aarden</actor>
+      <actor>Cassie Clare</actor>
+      <actor>Nolan North</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211124164000 -0300" stop="20211124183000 -0300" channel="FX">
+    <title lang="pt">O Predador</title>
+    <sub-title lang="pt">The Predator</sub-title>
+    <desc lang="pt">Uma perseguição entre naves alienígenas traz à Terra um novo predador, que acaba sendo capturado por humanos.</desc>
+    <credits>
+      <director>Shane Black</director>
+      <actor>Boyd Holbrook</actor>
+      <actor>Trevante Rhodes</actor>
+      <actor>Olivia Munn</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211124183000 -0300" stop="20211124211500 -0300" channel="FX">
+    <title lang="pt">O Hobbit: A Desolação de Smaug</title>
+    <sub-title lang="pt">The Hobbit: Desolation Of Smaug</sub-title>
+    <desc lang="pt">Bilbo Bolseiro, Gandalf e a Companhia de Thorin seguem em direção à Montanha Solitária, lar do temido dragão Smaug. Ao mesmo tempo, Gandalf se preocupa com uma força sombria que surge na Terra Média.</desc>
+    <credits>
+      <director>Peter Jackson</director>
+      <actor>Martin Freeman</actor>
+      <actor>Benedict Cumberbatch</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>Evangeline Lilly</actor>
+      <actor>Ian McKellen</actor>
+      <actor>Orlando Bloom</actor>
+      <actor>Richard Armitage</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Filme (Aventura)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211124211500 -0300" stop="20211124233000 -0300" channel="FX">
+    <title lang="pt">Duro de Matar 4.0</title>
+    <sub-title lang="pt">Live Free or Die Hard</sub-title>
+    <desc lang="pt">John McClane (Willis) é obrigado a sair da tranquila aposentadoria quando seus antigos superiores o chamam para uma nova missão: desbaratar uma organização terrorista que, sistematicamente, vem atacando os Estados Unidos. O grande desafio de McClane é que o grupo se organiza por meio da internet.</desc>
+    <credits>
+      <director>Len Wiseman</director>
+      <actor>Bruce Willis</actor>
+      <actor>Timothy Olyphant</actor>
+      <actor>Justin Long</actor>
+      <actor>Maggie Q</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Jonathan Sadowski</actor>
+      <actor>Andrew Friedman</actor>
+      <actor>Kevin Smith</actor>
+      <actor>Yorgo Constantine</actor>
+      <actor>Cyril Raffaelli</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123000000 -0300" stop="20211123020000 -0300" channel="Globo News">
+    <title lang="pt">Jornal Globonews - Edição da Meia-Noite</title>
+    <desc lang="pt">O que foi destaque ao longo do dia e o que será manchete amanhã.</desc>
+    <credits>
+      <actor>Erick Bang</actor>
+    </credits>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123020000 -0300" stop="20211123033000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews - Edição das 18h</title>
+    <desc lang="pt">Cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no Mundo.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123033000 -0300" stop="20211123050000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews em Pauta</title>
+    <desc lang="pt">Telejornal diário, com comentaristas que aprofundam as notícias do dia, com um convidado no estúdio. Destaque para política, cenário internacional e cultura.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123050000 -0300" stop="20211123060000 -0300" channel="Globo News">
+    <title lang="pt">Jornal das Dez</title>
+    <desc lang="pt">Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123060000 -0300" stop="20211123090000 -0300" channel="Globo News">
+    <title lang="pt">Globonews em Ponto</title>
+    <desc lang="pt">Notícia e análise de alta qualidade, no início da manhã. Um telejornal que prepara o assinante para começar o dia e tomar as decisões acertadas.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123090000 -0300" stop="20211123130000 -0300" channel="Globo News">
+    <title lang="pt">Conexão GloboNews</title>
+    <desc lang="pt">Informações ao vivo, serviço e análises dos principais acontecimentos das primeiras horas do dia. Tudo isso em uma linguagem direta e clara.</desc>
+    <credits>
+      <director>Ali Kamel</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123130000 -0300" stop="20211123160000 -0300" channel="Globo News">
+    <title lang="pt">Estúdio i</title>
+    <desc lang="pt">Entretenimento. Artistas e comentaristas discutem as principais notícias do dia. Interatividade com o público.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123160000 -0300" stop="20211123180000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews - Edição das 16h</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo.</desc>
+    <credits>
+      <actor>Christiane Pelajo</actor>
+    </credits>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123180000 -0300" stop="20211123200000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews - Edição das 18h</title>
+    <desc lang="pt">Cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no Mundo.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123200000 -0300" stop="20211123220000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews em Pauta</title>
+    <desc lang="pt">Telejornal diário, com comentaristas que aprofundam as notícias do dia, com um convidado no estúdio. Destaque para política, cenário internacional e cultura.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123220000 -0300" stop="20211123233000 -0300" channel="Globo News">
+    <title lang="pt">Jornal das Dez</title>
+    <desc lang="pt">Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123233000 -0300" stop="20211124000000 -0300" channel="Globo News">
+    <title lang="pt">Roberto D'avila</title>
+    <desc lang="pt">Entrevistas com personagens da política, da economia e da cultura nacional. Também traz convidados internacionais de destaque em diversas áreas.</desc>
+    <credits>
+      <director>Ali Kamel</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades (Entrevista)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124000000 -0300" stop="20211124020000 -0300" channel="Globo News">
+    <title lang="pt">Jornal Globonews - Edição da Meia-Noite</title>
+    <desc lang="pt">O que foi destaque ao longo do dia e o que será manchete amanhã.</desc>
+    <credits>
+      <actor>Erick Bang</actor>
+    </credits>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124020000 -0300" stop="20211124033000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews - Edição das 18h</title>
+    <desc lang="pt">Cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no Mundo.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124033000 -0300" stop="20211124050000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews em Pauta</title>
+    <desc lang="pt">Telejornal diário, com comentaristas que aprofundam as notícias do dia, com um convidado no estúdio. Destaque para política, cenário internacional e cultura.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124050000 -0300" stop="20211124060000 -0300" channel="Globo News">
+    <title lang="pt">Jornal das Dez</title>
+    <desc lang="pt">Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124060000 -0300" stop="20211124090000 -0300" channel="Globo News">
+    <title lang="pt">Globonews em Ponto</title>
+    <desc lang="pt">Notícia e análise de alta qualidade, no início da manhã. Um telejornal que prepara o assinante para começar o dia e tomar as decisões acertadas.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124090000 -0300" stop="20211124130000 -0300" channel="Globo News">
+    <title lang="pt">Conexão GloboNews</title>
+    <desc lang="pt">Informações ao vivo, serviço e análises dos principais acontecimentos das primeiras horas do dia. Tudo isso em uma linguagem direta e clara.</desc>
+    <credits>
+      <director>Ali Kamel</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124130000 -0300" stop="20211124160000 -0300" channel="Globo News">
+    <title lang="pt">Estúdio i</title>
+    <desc lang="pt">Entretenimento. Artistas e comentaristas discutem as principais notícias do dia. Interatividade com o público.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124160000 -0300" stop="20211124180000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews - Edição das 16h</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo.</desc>
+    <credits>
+      <actor>Christiane Pelajo</actor>
+    </credits>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124180000 -0300" stop="20211124200000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews - Edição das 18h</title>
+    <desc lang="pt">Cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no Mundo.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124200000 -0300" stop="20211124220000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews em Pauta</title>
+    <desc lang="pt">Telejornal diário, com comentaristas que aprofundam as notícias do dia, com um convidado no estúdio. Destaque para política, cenário internacional e cultura.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123005500 -0300" stop="20211123012500 -0300" channel="HBO">
+    <title lang="pt">Axios</title>
+    <desc lang="pt">Os assuntos que definem o futuro do mundo são abordados de forma ágil, inteligente e investigativa na quarta temporada de Axios.</desc>
+    <credits>
+      <actor>Mike Allen</actor>
+      <actor>Jonathan Swan</actor>
+      <actor>Jim VandeHei</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123012500 -0300" stop="20211123031500 -0300" channel="HBO">
+    <title lang="pt">Enquanto a Guerra Durar</title>
+    <sub-title lang="pt">Mientras Dure La Guerra</sub-title>
+    <desc lang="pt">O vencedor do Oscar® Alejandro Amenábar dirige este filme que segue o confronto do escritor Miguel de Unamuno à ditadura espanhola em 1936.</desc>
+    <credits>
+      <director>Alejandro Amenábar</director>
+      <actor>Karra Elejalde</actor>
+      <actor>Eduard Fernández</actor>
+      <actor>Santi Prego</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme (Ação)</category>
+    <episode-num system="onscreen">S4 E18</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123031500 -0300" stop="20211123040000 -0300" channel="HBO">
+    <title lang="pt">A Linha Invisível</title>
+    <sub-title lang="pt">La Linea Invisible</sub-title>
+    <desc lang="pt">O Inglês pressionam Txabi para que o ETA cometa seu primeiro ataque mortal, colocando vários altos funcionários franquistas em sua mira.</desc>
+    <credits>
+      <director>Mariano Barroso</director>
+      <actor>Àlex Monner</actor>
+      <actor>Antonio de la Torre</actor>
+      <actor>Anna Castillo</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Drama)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123040000 -0300" stop="20211123060000 -0300" channel="HBO">
+    <title lang="pt">Jack, O Caçador De Gigantes</title>
+    <sub-title lang="pt">Jack The Giant Slayer</sub-title>
+    <desc lang="pt">O filme será uma versão adulta do conto do João e o Pé de Feijão. Na história, uma princesa é sequestrada, ameaçando a relação entre os reinos gigante e humano. Um jovem fazendeiro, então, é responsável por liderar uma expedição a caminho do reino dos gigantes para o resgate. Soltos na Terra pela primeira vez em séculos, os gigantes lutam para recuperar o lugar que um dia perderam.</desc>
+    <credits>
+      <director>Bryan Singer</director>
+      <actor>Nicholas Hoult</actor>
+      <actor>Stanley Tucci</actor>
+      <actor>Ewan McGregor</actor>
+      <actor>Eleanor Tomlinson</actor>
+      <actor>Eddie Marsan</actor>
+      <actor>Ewen Bremner</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Filme (Aventura)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123060000 -0300" stop="20211123070500 -0300" channel="HBO">
+    <title lang="pt">Nós Somos o Sonho: As Crianças do Festival de Oratória Martin Luther King</title>
+    <sub-title lang="pt">We Are The Dream: The Kids Of The Oakland Mlk Oratorical Fest</sub-title>
+    <desc lang="pt">Documentário original da HBO indicado ao Emmy® que acompanha os preparativos da 40ª edição do festival de oratória Martin Luther King.</desc>
+    <credits>
+      <director>Amy Schatz</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123070500 -0300" stop="20211123090000 -0300" channel="HBO">
+    <title lang="pt">Winter, o Golfinho 2</title>
+    <sub-title lang="pt">Dolphin Tale 2</sub-title>
+    <desc lang="pt">Após perder a mãe adotiva, Winter fica em luto até que uma reviravolta nos acontecimentos traz Hope.</desc>
+    <credits>
+      <director>Charles Martin Smith</director>
+      <actor>Morgan Freeman</actor>
+      <actor>Ashley Judd</actor>
+      <actor>Harry Connick Jr.</actor>
+      <actor>Nathan Gamble</actor>
+      <actor>Kris Kristofferson</actor>
+      <actor>Cozi Zuehlsdorff</actor>
+      <actor>Bethany Hamilton</actor>
+      <actor>Julia Winter</actor>
+      <actor>Juliana Harkavy</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123090000 -0300" stop="20211123093000 -0300" channel="HBO">
+    <title lang="pt">Axios</title>
+    <desc lang="pt">Os assuntos que definem o futuro do mundo são abordados de forma ágil, inteligente e investigativa na quarta temporada de Axios.</desc>
+    <credits>
+      <actor>Mike Allen</actor>
+      <actor>Jonathan Swan</actor>
+      <actor>Jim VandeHei</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123093000 -0300" stop="20211123110500 -0300" channel="HBO">
+    <title lang="pt">Scooby-Doo - O Filme</title>
+    <sub-title lang="pt">Scooby-Doo</sub-title>
+    <desc lang="pt">Adaptação para o cinema do desenho animado mostra Scooby Doo, Salsicha, Fred, Velma e Daphne tentando desvendar mais um mistério em uma ilha.</desc>
+    <credits>
+      <director>Raja Gosnell</director>
+      <actor>Matthew Lillard</actor>
+      <actor>Freddie Prinze Jr.</actor>
+      <actor>Sarah Michelle Gellar</actor>
+      <actor>Linda Cardellini</actor>
+      <actor>Rowan Atkinson</actor>
+      <actor>Isla Fisher</actor>
+      <actor>Miguel A. NúñezJr.</actor>
+      <actor>Mark McGrath</actor>
+      <actor>Matthew Murphy Karges</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="pt">Filme (Aventura)</category>
+    <episode-num system="onscreen">S4 E18</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123110500 -0300" stop="20211123124500 -0300" channel="HBO">
+    <title lang="pt">Scooby! O Filme</title>
+    <sub-title lang="pt">Scoob!</sub-title>
+    <desc lang="pt">O mais adorável detetive canino e a gangue da Mistério S.A. devem enfrentar seu maior desafio e evitar um "apocãolipse".</desc>
+    <credits>
+      <director>Tony Cervone</director>
+      <actor>Will Forte</actor>
+      <actor>Mark Wahlberg</actor>
+      <actor>Jason Isaacs</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme (Animação)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123124500 -0300" stop="20211123143000 -0300" channel="HBO">
+    <title lang="pt">Alguém Avisa?</title>
+    <sub-title lang="pt">Happiest Season</sub-title>
+    <desc lang="pt">"Kristen Stewart estrela nesta comédia romântica na qual deve fingir ser ""apenas uma amiga"" quando visita os pais de sua namorada no Natal.".</desc>
+    <credits>
+      <director>Clea DuVall</director>
+      <actor>Kristen Stewart</actor>
+      <actor>Mackenzie Davis</actor>
+      <actor>Mary Steenburgen</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123143000 -0300" stop="20211123160000 -0300" channel="HBO">
+    <title lang="pt">O Fim de Semana</title>
+    <sub-title lang="pt">The Weekend</sub-title>
+    <desc lang="pt">"A viagem de final de semana de uma comediante dá uma reviravolta estranha quando seu ex, a namorada dele, e um estranho se juntam à viagem.".</desc>
+    <credits>
+      <director>Stella Meghie</director>
+      <actor>Sasheer Zamata</actor>
+      <actor>Tone Bell</actor>
+      <actor>DeWanda Wise</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123160000 -0300" stop="20211123170000 -0300" channel="HBO">
+    <title lang="pt">Succession</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <date>2021</date>
+    <category lang="pt">Séries (Drama)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211123170000 -0300" stop="20211123185500 -0300" channel="HBO">
+    <title lang="pt">Aves de Rapina (Arlequina e sua Emancipação Fantabulosa)</title>
+    <sub-title lang="pt">Birds Of Prey: And The Fantabulous Emancipation Of One Harley Quinn</sub-title>
+    <desc lang="pt">Margot Robbie retorna ao papel de Harley Quinn em uma história tão torta que apenas a própria Harley pode contá-la.</desc>
+    <credits>
+      <director>Cathy Yan</director>
+      <actor>Margot Robbie</actor>
+      <actor>Rosie Perez</actor>
+      <actor>Mary Elizabeth Winstead</actor>
+      <actor>Jurnee Smollett</actor>
+      <actor>Chris Messina</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme (Ação)</category>
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211123185500 -0300" stop="20211123202500 -0300" channel="HBO">
+    <title lang="pt">Confisco</title>
+    <desc lang="pt">A história dos afetados pelo confisco brasileiro de 1990, o maior já realizado por um governo democrático contra seus cidadãos.</desc>
+    <category lang="pt">Filme (Documentário)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123202500 -0300" stop="20211123220000 -0300" channel="HBO">
+    <title lang="pt">Um Fim de Semana Prolongado</title>
+    <sub-title lang="pt">Long Weekend</sub-title>
+    <desc lang="pt">Um romance idílico de fim de semana leva a revelações inesperadas entre um jovem escritor e uma mulher que guarda um grande segredo.</desc>
+    <credits>
+      <director>Steve Basilone</director>
+      <actor>Steve Basilone</actor>
+      <actor>Jennifer Irwin</actor>
+      <actor>Jess Jacobs</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Filme (Romance)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123220000 -0300" stop="20211123230000 -0300" channel="HBO">
+    <title lang="pt">Black And Missing</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123230000 -0300" stop="20211124000000 -0300" channel="HBO">
+    <title lang="pt">Black And Missing</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124000000 -0300" stop="20211124020000 -0300" channel="HBO">
+    <title lang="pt">Space Jam: Um Novo Legado</title>
+    <sub-title lang="pt">Space Jam: A New Legacy</sub-title>
+    <desc lang="pt">Bem-vindo ao Jogo! Lebron James, Pernalonga, Lola Bunny e o time Looney Tunes jogam a mais importante partida de suas vidas.</desc>
+    <credits>
+      <director>Malcolm D. Lee</director>
+      <actor>LeBron James</actor>
+      <actor>Don Cheadle</actor>
+      <actor>Cedric Joe</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Filme (Animação)</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124020000 -0300" stop="20211124025000 -0300" channel="HBO">
+    <title lang="pt">Batwoman</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <actor>Javicia Leslie</actor>
+      <actor>Rachel Skarsten</actor>
+      <actor>Meagan Tandy</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Ação)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211124025000 -0300" stop="20211124032000 -0300" channel="HBO">
+    <title lang="pt">Insecure</title>
+    <desc lang="pt">Issa Dee, Molly, Lawrence e os outros seguem tentando descobrir o que fazer da vida na última temporada da série.</desc>
+    <credits>
+      <director>Kerry Washington</director>
+      <actor>Catherine Adell</actor>
+      <actor>Blair Hickey</actor>
+      <actor>Richard Nevels</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211124032000 -0300" stop="20211124040000 -0300" channel="HBO">
+    <title lang="pt">Segura a Onda</title>
+    <sub-title lang="pt">Curb Your Enthusiasm</sub-title>
+    <desc lang="pt">Larry David demonstra mais uma vez como os detalhes triviais do dia-a-dia podem precipitar uma cadeia de eventos catastróficos.</desc>
+    <credits>
+      <actor>Lisa Arch</actor>
+      <actor>Megan Ferguson</actor>
+      <actor>Saverio Guerra</actor>
+      <actor>Derek Alvarado</actor>
+      <actor>Ashlee Nicole Jordan</actor>
+      <actor>Shon Wilson</actor>
+      <actor>Seth Cassell</actor>
+      <actor>Bruce Katzman</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S5 E5</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211124040000 -0300" stop="20211124060000 -0300" channel="HBO">
+    <title lang="pt">O Pântano</title>
+    <sub-title lang="pt">The Swamp</sub-title>
+    <desc lang="pt">Um olhar aos bastidores da política de Washington através da tentativa de três congressistas republicanos de reformar o Congresso.</desc>
+    <credits>
+      <director>Daniel DiMauro</director>
+      <director>Morgan Pehme</director>
+      <actor>Ken Buck</actor>
+      <actor>Daniel DiMauro</actor>
+      <actor>Matt Gaetz</actor>
+      <actor>Katie Hill</actor>
+      <actor>Ro Khanna</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme (Documentário)</category>
+    <episode-num system="onscreen">S11 E5</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211124060000 -0300" stop="20211124072500 -0300" channel="HBO">
+    <title lang="pt">Mamãe Morta e Querida</title>
+    <sub-title lang="pt">Mommy Dead And Dearest</sub-title>
+    <desc lang="pt">A bizarra história de Claudine Dee Dee Blanchard e de sua filha, Gypsy Rose Blanchard, que confessou ter matado a própria mãe devido à manipulação e abusos cometidos por ela desde sua infância.</desc>
+    <credits>
+      <director>Erin Lee Carr</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme (Documentário)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211124072500 -0300" stop="20211124095000 -0300" channel="HBO">
+    <title lang="pt">Midway - Batalha em Alto-Mar</title>
+    <sub-title lang="pt">Midway</sub-title>
+    <desc lang="pt">Roland Emmerich dirige um elenco de estrelas neste filme sobre uma das batalhas mais épicas e decisivas da Segunda Guerra Mundial.</desc>
+    <credits>
+      <director>Roland Emmerich</director>
+      <actor>Ed Skrein</actor>
+      <actor>Patrick Wilson</actor>
+      <actor>Woody Harrelson</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme (Aventura)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211124095000 -0300" stop="20211124104000 -0300" channel="HBO">
+    <title lang="pt">Batwoman</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <actor>Javicia Leslie</actor>
+      <actor>Rachel Skarsten</actor>
+      <actor>Meagan Tandy</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Ação)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211124104000 -0300" stop="20211124114000 -0300" channel="HBO">
+    <title lang="pt">Patrulha do Destino</title>
+    <sub-title lang="pt">Doom Patrol</sub-title>
+    <desc lang="pt">A Irmandade do Mal se aproxima e a Patrulha do Destino deve superar o passado para se tornar uma verdadeira equipe de super-heróis.</desc>
+    <credits>
+      <director>Harry Jierjian</director>
+      <actor>Hannah Alline</actor>
+      <actor>April Bowlby</actor>
+      <actor>Catherine Carlen</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Ação)</category>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211124114000 -0300" stop="20211124132500 -0300" channel="HBO">
+    <title lang="pt">Aqueles Que Me Desejam a Morte</title>
+    <sub-title lang="pt">Those Who Wish Me Dead</sub-title>
+    <desc lang="pt">Uma bombeira deve usar todas as suas habilidades de sobrevivência para ajudar um menino a escapar de dois assassinos no meio de um incêndio.</desc>
+    <credits>
+      <director>Taylor Sheridan</director>
+      <actor>Angelina Jolie</actor>
+      <actor>Nicholas Hoult</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Filme (Ação)</category>
+    <episode-num system="onscreen">S3 E10</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211124132500 -0300" stop="20211124143000 -0300" channel="HBO">
+    <title lang="pt">30 Monedas</title>
+    <desc lang="pt">Enquanto velhos conhecidos cumprimentam o padre Vergara em Roma, Paco luta para manter Elena em Pedraza.</desc>
+    <credits>
+      <director>Álex de la Iglesia</director>
+      <actor>Eduard Fernández</actor>
+      <actor>Megan Montaner</actor>
+      <actor>Miguel Ángel Silvestre</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211124143000 -0300" stop="20211124165000 -0300" channel="HBO">
+    <title lang="pt">Adoráveis Mulheres</title>
+    <sub-title lang="pt">Little Women</sub-title>
+    <desc lang="pt">A indicada ao Oscar® Greta Gerwig (Lady Bird) reúne um elenco primoroso em sua versão atualizada do celebrado romance de Louisa May Alcott.</desc>
+    <credits>
+      <director>Greta Gerwig</director>
+      <actor>Saoirse Ronan</actor>
+      <actor>Emma Watson</actor>
+      <actor>Florence Pugh</actor>
+      <actor>Eliza Scanlen</actor>
+    </credits>
+    <category lang="pt">Filme (Drama)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124165000 -0300" stop="20211124184500 -0300" channel="HBO">
+    <title lang="pt">Moonlight: Sob A Luz do Luar</title>
+    <sub-title lang="pt">Moonlight</sub-title>
+    <desc lang="pt">Chiron é um jovem negro vivenciando as dores e belezas duma existência marginal: violência e abandono, uma figura paterna improvável, dúvidas quanto à sexualidade e o amor.</desc>
+    <credits>
+      <director>Barry Jenkins</director>
+      <actor>Mahershala Ali</actor>
+      <actor>Naomie Harris</actor>
+      <actor>Ashton Sanders</actor>
+      <actor>Andre Holland</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211124184500 -0300" stop="20211124193500 -0300" channel="HBO">
+    <title lang="pt">O Hóspede Americano</title>
+    <desc lang="pt">Série em quatro episódios sobre a jornada do ex-presidente dos EUA Theodore Roosevelt e o coronel Cândido Rondon pela Floresta Amazônica.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124193500 -0300" stop="20211124220000 -0300" channel="HBO">
+    <title lang="pt">Midway - Batalha em Alto-Mar</title>
+    <sub-title lang="pt">Midway</sub-title>
+    <desc lang="pt">Roland Emmerich dirige um elenco de estrelas neste filme sobre uma das batalhas mais épicas e decisivas da Segunda Guerra Mundial.</desc>
+    <credits>
+      <director>Roland Emmerich</director>
+      <actor>Ed Skrein</actor>
+      <actor>Patrick Wilson</actor>
+      <actor>Woody Harrelson</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme (Aventura)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211124220000 -0300" stop="20211124230000 -0300" channel="HBO">
+    <title lang="pt">Black And Missing</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123003000 -0300" stop="20211123014000 -0300" channel="HBO 2">
+    <title lang="pt">30 Monedas</title>
+    <desc lang="pt">Enquanto velhos conhecidos cumprimentam o padre Vergara em Roma, Paco luta para manter Elena em Pedraza.</desc>
+    <credits>
+      <director>Álex de la Iglesia</director>
+      <actor>Eduard Fernández</actor>
+      <actor>Megan Montaner</actor>
+      <actor>Miguel Ángel Silvestre</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211123014000 -0300" stop="20211123031500 -0300" channel="HBO 2">
+    <title lang="pt">Vigiados</title>
+    <sub-title lang="pt">The Rental</sub-title>
+    <desc lang="pt">Dois casais alugam uma casa à beira-mar para o fim de semana, mas suspeitam que o proprietário está espionando. Em pouco tempo, o que deveria ser uma viagem de lazer se transforma em algo muito mais sinistro.</desc>
+    <credits>
+      <director>Dave Franco</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme (Terror)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211123031500 -0300" stop="20211123060000 -0300" channel="HBO 2">
+    <title lang="pt">O Último Samurai</title>
+    <sub-title lang="pt">The Last Samurai</sub-title>
+    <desc lang="pt">Em 1870 é enviado ao Japão o capitão Nathan Algren, um conceituado militar norte-americano. A missão de Algren é treinar as tropas do imperador Meiji, para que elas possam eliminar os últimos samurais que ainda vivem na região. Porém, após ser capturado pelo inimigo, Algren aprende com Katsumoto o código de honra dos samurais e passa a ficar em dúvida sobre que lado apoiar.</desc>
+    <credits>
+      <director>Edward Zwick</director>
+      <actor>Tom Cruise</actor>
+      <actor>Ken Watanabe</actor>
+      <actor>Billy Connolly</actor>
+      <actor>Tony Goldwyn</actor>
+      <actor>Masato Harada</actor>
+      <actor>Masashi Odate</actor>
+      <actor>John Koyoma</actor>
+      <actor>Timothy Spall</actor>
+      <actor>Shichinosuke Nakamura</actor>
+      <actor>Togo Igawa</actor>
+      <actor>Shin Koyamada</actor>
+      <actor>Hiroyuki Sanada</actor>
+      <actor>Shun Sugata</actor>
+      <actor>Seizo Fukumoto</actor>
+      <actor>William Atherton</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Filme (Aventura)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211123060000 -0300" stop="20211123080500 -0300" channel="HBO 2">
+    <title lang="pt">O Agente da U.n.c.l.e.</title>
+    <sub-title lang="pt">The Man From U.n.c.l.e</sub-title>
+    <desc lang="pt">Na década de 1960 os até então inimigos mortais Napoleon Solo, agente da CIA, e Illya Kuriakin, espião da KGB, são obrigados a cooperarem. A grande missão da improvável dupla EUA-Rússia é combater a terrível organização T.H.R.U.S.H., que desenvolve armas nucleares.</desc>
+    <credits>
+      <director>Guy Ritchie</director>
+      <actor>Henry Cavill</actor>
+      <actor>Armie Hammer</actor>
+      <actor>Alicia Vikander</actor>
+      <actor>Elizabeth Debicki</actor>
+      <actor>Luca Calvani</actor>
+      <actor>Sylvester Groth</actor>
+      <actor>Hugh Grant</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123080500 -0300" stop="20211123100000 -0300" channel="HBO 2">
+    <title lang="pt">Anjos da Noite: A Evolução</title>
+    <sub-title lang="pt">Underworld Evolution</sub-title>
+    <desc lang="pt">A vampira guerreira Selene e o meio lobisomem Michael caçam pistas que revelem a história de suas raças e o motivo da guerra entre elas.</desc>
+    <credits>
+      <director>Len Wiseman</director>
+      <actor>Kate Beckinsale</actor>
+      <actor>Scott Speedman</actor>
+      <actor>Tony Curran</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Variedades (Diversos)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211123100000 -0300" stop="20211123122000 -0300" channel="HBO 2">
+    <title lang="pt">O Esquadrão Suicida</title>
+    <sub-title lang="pt">The Suicide Squad</sub-title>
+    <desc lang="pt">James Gunn nos apresenta uma equipe com os piores supervilões da DC salvando o mundo. E como sempre, um passo em falso e estão mortos.</desc>
+    <credits>
+      <director>James Gunn</director>
+      <actor>Margot Robbie</actor>
+      <actor>Idris Elba</actor>
+      <actor>John Cena</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Filme (Aventura)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211123122000 -0300" stop="20211123141000 -0300" channel="HBO 2">
+    <title lang="pt">MIB: Homens De Preto 3</title>
+    <sub-title lang="pt">Men In Black 3</sub-title>
+    <desc lang="pt">Os agentes K e J descobrem que o terrível Boris escapou da prisão lunar e planeja se vingar de K. Para isso, ele pretende viajar no tempo e mudar o rumo da História. Na tentativa de impedi-lo, o agente J também terá que voltar ao passado e descobrir os planos de Boris antes que seja tarde demais.</desc>
+    <credits>
+      <director>Barry Sonnenfeld</director>
+      <actor>Will Smith</actor>
+      <actor>Emma Thompson</actor>
+      <actor>Josh Brolin</actor>
+      <actor>Tommy Lee Jones</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123141000 -0300" stop="20211123165000 -0300" channel="HBO 2">
+    <title lang="pt">Millennium - Os Homens Que Não Amavam As Mulheres</title>
+    <sub-title lang="pt">The Girl With The Dragon Tattoo</sub-title>
+    <desc lang="pt">Mikael Blomkvist, um jornalista que passa por problemas, é contratado para encontrar uma garota que desapareceu. A seu lado está a hacker Lisbeth Salander. Ambos descobrirão um caso de corrupção maior do que imaginavam.</desc>
+    <credits>
+      <director>David Fincher</director>
+      <actor>Donald Sumpter</actor>
+      <actor>Goran Visnjic</actor>
+      <actor>Geraldine James</actor>
+      <actor>Joely Richardson</actor>
+      <actor>Robin Wright</actor>
+      <actor>Steven Berkoff</actor>
+      <actor>Christopher Plummer</actor>
+      <actor>Rooney Mara</actor>
+      <actor>Daniel Craig</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Filme (Suspense)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211123165000 -0300" stop="20211123173500 -0300" channel="HBO 2">
+    <title lang="pt">A Linha Invisível</title>
+    <sub-title lang="pt">La Linea Invisible</sub-title>
+    <desc lang="pt">O Inglês pressionam Txabi para que o ETA cometa seu primeiro ataque mortal, colocando vários altos funcionários franquistas em sua mira.</desc>
+    <credits>
+      <director>Mariano Barroso</director>
+      <actor>Àlex Monner</actor>
+      <actor>Antonio de la Torre</actor>
+      <actor>Anna Castillo</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Drama)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123173500 -0300" stop="20211123195500 -0300" channel="HBO 2">
+    <title lang="pt">O Esquadrão Suicida</title>
+    <sub-title lang="pt">The Suicide Squad</sub-title>
+    <desc lang="pt">James Gunn nos apresenta uma equipe com os piores supervilões da DC salvando o mundo. E como sempre, um passo em falso e estão mortos.</desc>
+    <credits>
+      <director>James Gunn</director>
+      <actor>Margot Robbie</actor>
+      <actor>Idris Elba</actor>
+      <actor>John Cena</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Filme (Aventura)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211123195500 -0300" stop="20211123220000 -0300" channel="HBO 2">
+    <title lang="pt">À Procura da Felicidade</title>
+    <sub-title lang="pt">The Pursuit of Happyness</sub-title>
+    <desc lang="pt">A vida de Chris Gardner é um caos: a mãe de seu filho de cinco anos os abandonou, o emprego é ruim e foi despejado de casa. Morando na rua com o filho, ele continua sendo um pai amoroso e luta para superar as adversidades.</desc>
+    <credits>
+      <director>Gabriele Muccino</director>
+      <actor>Will Smith</actor>
+      <actor>Thandie Newton</actor>
+      <actor>Jaden Smith</actor>
+      <actor>Dan Castellaneta</actor>
+      <actor>Brian Howe</actor>
+      <actor>James Karen</actor>
+      <actor>Kurt Fuller</actor>
+      <actor>Takayo Fischer</actor>
+      <actor>Kevin West</actor>
+      <actor>George Cheung</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123220000 -0300" stop="20211123223000 -0300" channel="HBO 2">
+    <title lang="pt">Insecure</title>
+    <desc lang="pt">Issa Dee, Molly, Lawrence e os outros seguem tentando descobrir o que fazer da vida na última temporada da série.</desc>
+    <credits>
+      <director>Kerry Washington</director>
+      <actor>Catherine Adell</actor>
+      <actor>Blair Hickey</actor>
+      <actor>Richard Nevels</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211123223000 -0300" stop="20211124000500 -0300" channel="HBO 2">
+    <title lang="pt">A Hora da Sua Morte</title>
+    <sub-title lang="pt">Countdown</sub-title>
+    <desc lang="pt">Uma jovem enfermeira deve enganar o destino quando um novo aplicativo que prevê a morte decide que ela tem apenas três dias de vida.</desc>
+    <credits>
+      <director>Justin Dec</director>
+      <actor>Elizabeth Lail</actor>
+      <actor>Jordan Calloway</actor>
+      <actor>Talitha Eliana Bateman</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme (Terror)</category>
+    <episode-num system="onscreen">S5 E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211124000500 -0300" stop="20211124010500 -0300" channel="HBO 2">
+    <title lang="pt">Succession</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <date>2021</date>
+    <category lang="pt">Séries (Drama)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211124010500 -0300" stop="20211124014500 -0300" channel="HBO 2">
+    <title lang="pt">Liberdade</title>
+    <sub-title lang="pt">Libertad</sub-title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124014500 -0300" stop="20211124034500 -0300" channel="HBO 2">
+    <title lang="pt">Caminhos da Memória</title>
+    <sub-title lang="pt">Reminiscence</sub-title>
+    <desc lang="pt">Um cientista descobre uma maneira de reviver seu passado e usa a tecnologia para procurar seu amor perdido há muito tempo.</desc>
+    <credits>
+      <director>Lisa Joy</director>
+      <actor>Hugh Jackman</actor>
+      <actor>Rebecca Ferguson</actor>
+      <actor>Thandiwe Newton</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Filme (Ação)</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211124034500 -0300" stop="20211124060000 -0300" channel="HBO 2">
+    <title lang="pt">O Fugitivo</title>
+    <sub-title lang="pt">The Fugitive</sub-title>
+    <desc lang="pt">Acusado de assassinar sua esposa, Dr. Richard Kimble escapa de sua ida para a prisão e tenta descobrir porque ela foi morta e quem a matou.</desc>
+    <credits>
+      <director>Andrew Davis</director>
+      <actor>Harrison Ford</actor>
+      <actor>Tommy Lee Jones</actor>
+      <actor>Sela Ward</actor>
+      <actor>Jeroen Krabbe</actor>
+    </credits>
+    <date>1993</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211124060000 -0300" stop="20211124064500 -0300" channel="HBO 2">
+    <title lang="pt">O Último Cruzeiro</title>
+    <sub-title lang="pt">The Last Cruise</sub-title>
+    <desc lang="pt">Documentário que acompanha o primeiro e maior surto de COVID-19 fora da China: o do cruzeiro de luxo Diamond Princess.</desc>
+    <credits>
+      <director>Hannah Olson</director>
+      <actor>Kent N. Frasure</actor>
+      <actor>Rebecca Frasure</actor>
+      <actor>Jerri Jorgensen</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Filme (Documentário)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211124064500 -0300" stop="20211124082000 -0300" channel="HBO 2">
+    <title lang="pt">Space Jam - O Jogo do Século</title>
+    <sub-title lang="pt">Space Jam</sub-title>
+    <desc lang="pt">Alienígenas querem que Pernalonga e sua turma tornem-se a principal atração de seu parque de diversões. Prestes a ser capturado, Pernalonga propõe jogo de basquete em troca de sua liberdade. E para enfrentar o temível time dos Monstars alienígenas, o coelho convoca um importante reforço do basquete dos EUA.</desc>
+    <credits>
+      <director>Joseph Pytka</director>
+      <actor>Michael Jordan</actor>
+      <actor>Wayne Knight</actor>
+      <actor>Theresa Randle</actor>
+      <actor>Manner Washington</actor>
+      <actor>Billy West</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Danny DeVito</actor>
+      <actor>Bob Bergen</actor>
+    </credits>
+    <date>1996</date>
+    <category lang="pt">Filme (Infantil)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124082000 -0300" stop="20211124102000 -0300" channel="HBO 2">
+    <title lang="pt">Space Jam: Um Novo Legado</title>
+    <sub-title lang="pt">Space Jam: A New Legacy</sub-title>
+    <desc lang="pt">Bem-vindo ao Jogo! Lebron James, Pernalonga, Lola Bunny e o time Looney Tunes jogam a mais importante partida de suas vidas.</desc>
+    <credits>
+      <director>Malcolm D. Lee</director>
+      <actor>LeBron James</actor>
+      <actor>Don Cheadle</actor>
+      <actor>Cedric Joe</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Filme (Animação)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124102000 -0300" stop="20211124120000 -0300" channel="HBO 2">
+    <title lang="pt">Scooby! O Filme</title>
+    <sub-title lang="pt">Scoob!</sub-title>
+    <desc lang="pt">O mais adorável detetive canino e a gangue da Mistério S.A. devem enfrentar seu maior desafio e evitar um "apocãolipse".</desc>
+    <credits>
+      <director>Tony Cervone</director>
+      <actor>Will Forte</actor>
+      <actor>Mark Wahlberg</actor>
+      <actor>Jason Isaacs</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme (Animação)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124120000 -0300" stop="20211124140000 -0300" channel="HBO 2">
+    <title lang="pt">A Fantástica Fábrica de Chocolate</title>
+    <sub-title lang="pt">Charlie And The Chocolate Factory</sub-title>
+    <desc lang="pt">Willy Wonka é dono da maior fábrica de doces do planeta, que realiza um concurso para escolher um herdeiro para seu império. Cinco crianças encontram um convite dourado em barras de chocolate e ganham uma visita à fábrica.</desc>
+    <credits>
+      <director>Tim Burton</director>
+      <actor>David Kelly</actor>
+      <actor>Freddie Highmore</actor>
+      <actor>Helena Bonham Carter</actor>
+      <actor>Johnny Depp</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124140000 -0300" stop="20211124160000 -0300" channel="HBO 2">
+    <title lang="pt">Jack, O Caçador De Gigantes</title>
+    <sub-title lang="pt">Jack The Giant Slayer</sub-title>
+    <desc lang="pt">O filme será uma versão adulta do conto do João e o Pé de Feijão. Na história, uma princesa é sequestrada, ameaçando a relação entre os reinos gigante e humano. Um jovem fazendeiro, então, é responsável por liderar uma expedição a caminho do reino dos gigantes para o resgate. Soltos na Terra pela primeira vez em séculos, os gigantes lutam para recuperar o lugar que um dia perderam.</desc>
+    <credits>
+      <director>Bryan Singer</director>
+      <actor>Nicholas Hoult</actor>
+      <actor>Stanley Tucci</actor>
+      <actor>Ewan McGregor</actor>
+      <actor>Eleanor Tomlinson</actor>
+      <actor>Eddie Marsan</actor>
+      <actor>Ewen Bremner</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Filme (Aventura)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124160000 -0300" stop="20211124180000 -0300" channel="HBO 2">
+    <title lang="pt">Space Jam: Um Novo Legado</title>
+    <sub-title lang="pt">Space Jam: A New Legacy</sub-title>
+    <desc lang="pt">Bem-vindo ao Jogo! Lebron James, Pernalonga, Lola Bunny e o time Looney Tunes jogam a mais importante partida de suas vidas.</desc>
+    <credits>
+      <director>Malcolm D. Lee</director>
+      <actor>LeBron James</actor>
+      <actor>Don Cheadle</actor>
+      <actor>Cedric Joe</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Filme (Animação)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124180000 -0300" stop="20211124190000 -0300" channel="HBO 2">
+    <title lang="pt">Succession</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <date>2021</date>
+    <category lang="pt">Séries (Drama)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211124190000 -0300" stop="20211124210000 -0300" channel="HBO 2">
+    <title lang="pt">Domínio: Prequela de O Exorcista</title>
+    <sub-title lang="pt">Dominion: Prequel to the Exorcist</sub-title>
+    <desc lang="pt">Durante a II Guerra, o padre Lankester Merrin vive uma dura experiência que o afasta do sacerdócio. Anos mais tarde, ele está na África Oriental como arqueólogo para encontrar um templo, sem saber que ali está um espírito do mal.</desc>
+    <credits>
+      <director>Paul Schrader</director>
+      <actor>Stellan Skarsgård</actor>
+      <actor>Israel Aduramo</actor>
+      <actor>Clara Bellar</actor>
+      <actor>Ralph Brown</actor>
+      <actor>Lorenzo Camporese</actor>
+      <actor>Gabriel Mann</actor>
+      <actor>Antonie Kamerling</actor>
+      <actor>Griet Van Damme</actor>
+      <actor>Rick Warden</actor>
+      <actor>Nick Komornicki</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Filme (Terror)</category>
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211124210000 -0300" stop="20211124220500 -0300" channel="HBO 2">
+    <title lang="pt">30 Monedas</title>
+    <desc lang="pt">Enquanto velhos conhecidos cumprimentam o padre Vergara em Roma, Paco luta para manter Elena em Pedraza.</desc>
+    <credits>
+      <director>Álex de la Iglesia</director>
+      <actor>Eduard Fernández</actor>
+      <actor>Megan Montaner</actor>
+      <actor>Miguel Ángel Silvestre</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211123004300 -0300" stop="20211123031700 -0300" channel="HBO Family">
+    <title lang="pt">Harry Potter e a Pedra Filosofal</title>
+    <sub-title lang="pt">Harry Potter and the Sorcerer's Stone</sub-title>
+    <desc lang="pt">Um garoto órfão, chamado Harry Potter, vive uma monótona rotina ao lado de seus rigorosos pais adotivos. Tudo muda quando ele recebe uma inesperada carta escrita com uma estranha tinta verde e acompanhada de uma coruja. Harry fica surpreso com essa entrega curiosa, mas seu tio Valter, horrorizado, destrói a correspondência antes que o sobrinho a leia. Todos os dias, cartas e corujas continuam aparecendo na porta de Harry, até que os Dursley, temendo que não possam mais ignorar o conteúdo dessa correspondência peculiar, fogem com Harry para uma cabana. O plano parece estar funcionando até que, uma batida forte arranca a porta da frente, diante da qual abre-se a imagem terrível de um enorme gigante chamado Hagrid que revela o segredo que irá mudar a vida de Harry: ele, Harry Potter, é um mago! O jovem mago fica totalmente perturbado com as revelações sobre seus pais e com o convite para ingressar na Escola de Magia e Bruxaria de Hogwarts. Contudo, entre ter que enfrentar outra noite no armário debaixo da escada, ele não hesita em acompanhar Hagrid à estação de King's Cross, em Londres, onde descobre a secreta Passagem 9 ¾ - e pega o Expresso de Hogwarts.</desc>
+    <credits>
+      <director>Chris Columbus</director>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Emma Watson</actor>
+      <actor>John Cleese</actor>
+      <actor>Richard Harris</actor>
+      <actor>Maggie Smith</actor>
+      <actor>Robbie Coltrane</actor>
+      <actor>Fiona Shaw</actor>
+      <actor>John Hurt</actor>
+      <actor>Julie Walters</actor>
+      <actor>Tom Felton</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="pt">Filme (Aventura)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123031700 -0300" stop="20211123060000 -0300" channel="HBO Family">
+    <title lang="pt">Harry Potter e a Câmara Secreta</title>
+    <sub-title lang="pt">Harry Potter and the Chamber of Secrets</sub-title>
+    <desc lang="pt">Harry Potter volta para a escola, desobedecendo Elfo. Após sua chegada pessoas se transformam em pedra, gerando mistério e desconfianças.</desc>
+    <credits>
+      <director>Chris Columbus</director>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Emma Watson</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Richard Harris</actor>
+      <actor>Maggie Smith</actor>
+      <actor>Kenneth Branagh</actor>
+      <actor>Robbie Coltrane</actor>
+      <actor>Alan Rickman</actor>
+      <actor>Myriam Margolyes</actor>
+      <actor>Gemma Padley</actor>
+      <actor>John Cleese</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="pt">Filme (Aventura)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123060000 -0300" stop="20211123073600 -0300" channel="HBO Family">
+    <title lang="pt">Riquinho</title>
+    <sub-title lang="pt">Richie Rich</sub-title>
+    <desc lang="pt">O garoto mais rico do mundo tenta impedir que homens inescrupulosos tomem o controle dos negócios de seu pai.</desc>
+    <credits>
+      <director>Donald Petrie</director>
+      <actor>Macaulay Culkin</actor>
+      <actor>Edward Herrman</actor>
+      <actor>John Larroquette</actor>
+      <actor>Christine Ebersole</actor>
+      <actor>Jonathan Hyde</actor>
+      <actor>Michael McShane</actor>
+      <actor>Chelcie Ross</actor>
+      <actor>Mariangela Pino</actor>
+      <actor>Stephi Lineburg</actor>
+    </credits>
+    <date>1994</date>
+    <category lang="pt">Filme (Aventura)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123073600 -0300" stop="20211123095900 -0300" channel="HBO Family">
+    <title lang="pt">Harry Potter e o Prisioneiro de Azkaban</title>
+    <sub-title lang="pt">Harry Potter and the Prisoner of Azkaban</sub-title>
+    <desc lang="pt">Fugitivo de Azkaban, a prisão dos magos, invade Hogwarts em busca de Harry Potter, agora no seu terceiro ano de aprendiz.</desc>
+    <credits>
+      <director>Alfonso Cuarón</director>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Richard Griffithsm</actor>
+      <actor>Pam Ferris</actor>
+      <actor>Fiona Shaw</actor>
+      <actor>Harry Melling</actor>
+      <actor>Adrian Rawlins</actor>
+      <actor>Geraldine Somerville</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Filme (Aventura)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123095900 -0300" stop="20211123123700 -0300" channel="HBO Family">
+    <title lang="pt">Harry Potter e o Cálice de Fogo</title>
+    <sub-title lang="pt">Harry Potter and the Goblet of Fire</sub-title>
+    <desc lang="pt">Em seu quarto ano na Escola de Magia e Bruxaria de Hogwarts, Harry Potter é misteriosamente selecionado para participar do Torneio Tribruxo, uma competição internacional em que enfrentará alunos mais velhos e experientes de Hogwarts e também de outras escolas de magia. A aparição da marca negra de Voldemort na Copa do Mundo de Quadribol põe a comunidade de bruxos em pânico, já que sinaliza que o temido bruxo está prestes a retornar.</desc>
+    <credits>
+      <director>Mike Newell</director>
+      <actor>Eric Sykes</actor>
+      <actor>David Tennant</actor>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Emma Watson</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Mark Williams</actor>
+      <actor>James Phelps</actor>
+      <actor>Bonnie Wright</actor>
+      <actor>Timothy Spall</actor>
+      <actor>Jason Isaacs</actor>
+      <actor>Tom Felton</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Filme (Aventura)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123123700 -0300" stop="20211123145700 -0300" channel="HBO Family">
+    <title lang="pt">Harry Potter e a Ordem da Fênix</title>
+    <sub-title lang="pt">Harry Porter and The Order of the Phoenix</sub-title>
+    <desc lang="pt">Boa parte da comunidade bruxa é levada a crer que o retorno de Voldemort é uma mentira. Com uma nova professora imposta pelo Ministério da Magia, os alunos de Hogwarts decidem estudar magia por conta própria.</desc>
+    <credits>
+      <director>David Yates</director>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Emma Watson</actor>
+      <actor>Helena Bonham Carter</actor>
+      <actor>Robbie Coltrane</actor>
+      <actor>Ralph Fiennes</actor>
+      <actor>Michael Gambon</actor>
+      <actor>Brendan Gleeson</actor>
+      <actor>Richard Griffiths</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Filme (Aventura)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123145700 -0300" stop="20211123173200 -0300" channel="HBO Family">
+    <title lang="pt">Harry Potter e o Enigma do Príncipe</title>
+    <sub-title lang="pt">Harry Potter and the Half-Blood Prince</sub-title>
+    <desc lang="pt">Em seu sexto ano em Hogwarts, Harry Potter encara a atmosfera de incerteza que toma conta da escola de bruxaria com a notícia de que Voldermort está vivo. Harry começa a descobrir informações sobre o passado de seu inimigo.</desc>
+    <credits>
+      <director>David Yates</director>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Emma Watson</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Michael Gambon</actor>
+      <actor>Alan Rickman</actor>
+      <actor>Helena Bonham Carter</actor>
+      <actor>Jim Broadbent</actor>
+      <actor>Robbie Coltrane</actor>
+      <actor>Timothy Spall</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Filme (Aventura)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123173200 -0300" stop="20211123200000 -0300" channel="HBO Family">
+    <title lang="pt">Harry Potter e as Relíquias da Morte: Parte 1</title>
+    <sub-title lang="pt">Harry Potter And The Deathly Hallows Part 1</sub-title>
+    <desc lang="pt">Voldemort está ficando mais poderoso. Ele agora controla o Ministério da Magia e Hogwarts. Harry, Ron e Hermione decidem terminar o trabalho de Dumbledore e encontrar as outras Horcruxes para poderem derrotar o Lorde das Trevas e sua força maligna.</desc>
+    <credits>
+      <director>David Yates</director>
+      <actor>Alan Rickman</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Julie Walters</actor>
+      <actor>Emma Watson</actor>
+      <actor>Bill Nighy</actor>
+      <actor>Helena Bonham Carter</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Filme (Aventura)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123200000 -0300" stop="20211123221200 -0300" channel="HBO Family">
+    <title lang="pt">Harry Potter e as Relíquias da Morte: Parte 2</title>
+    <sub-title lang="pt">Harry Potter And The Deathly Hallows Part 2</sub-title>
+    <desc lang="pt">Harry, Ron e Hermione continuam sua missão de destruir as Horcruxes restantes. Mas conforme as relíquias da morte são descobertas, Voldermort fica sabendo da missão dos garotos e começará a grande batalha.</desc>
+    <credits>
+      <director>David Yates</director>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Ralph Fiennes</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Emma Watson</actor>
+      <actor>Evanna Lynch</actor>
+      <actor>Domhnall Gleeson</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Filme (Aventura)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123221200 -0300" stop="20211123224600 -0300" channel="HBO Family">
+    <title lang="pt">Clubversão</title>
+    <desc lang="pt">Neste episódio, os artistas e músicos convidados trabalham na criação comovente de uma Clubversão da canção 'Virgínia' dos Mutantes, faixa do álbum Tecnicolor de 1970.</desc>
+    <date>2015</date>
+    <category lang="pt">Séries (Musical)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123224600 -0300" stop="20211123231900 -0300" channel="HBO Family">
+    <title lang="pt">Clubversão</title>
+    <desc lang="pt">Neste episódio, um tango argentino clássico composto por Carlos Gardel tem sua Clubversão criada e interpretada em um encontro de músicos e intérpretes de renome da música popular brasileira.</desc>
+    <date>2015</date>
+    <category lang="pt">Séries (Musical)</category>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123231900 -0300" stop="20211124002200 -0300" channel="HBO Family">
+    <title lang="pt">Arquis</title>
+    <desc lang="pt">Seis dos arquitetos mais renomados da América Latina têm sua obra e vida revisitados nesta série documental.</desc>
+    <credits>
+      <director>Emilio Maillé</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Biografia)</category>
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124002200 -0300" stop="20211124021000 -0300" channel="HBO Family">
+    <title lang="pt">Coragem de Viver</title>
+    <sub-title lang="pt">Soul Surfer</sub-title>
+    <desc lang="pt">A inspiradora história real de Bethany Hamilton, uma jovem surfistinha que decide voltar ao esporte depois de ter perdido o seu braço esquerdo num ataque de tubarão.</desc>
+    <credits>
+      <director>Sean McNamara</director>
+      <actor>AnnaSophia Robb</actor>
+      <actor>Helen Hunt</actor>
+      <actor>Dennis Quaid</actor>
+      <actor>Lorraine Nicholson</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Filme (Drama)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124021000 -0300" stop="20211124041600 -0300" channel="HBO Family">
+    <title lang="pt">A Corrente do Bem</title>
+    <sub-title lang="pt">Pay It Forward</sub-title>
+    <desc lang="pt">Para sustentar o filho Trevor (Haley Joel Osment), de 11 anos, Arlene McKinney (Helen Hunt) tem dois empregos. Mas ela é alcoólatra e a convivência dos dois não é das mais fáceis. Na escola, o novo professor de Estudos Sociais, Eugene Simonet (Kevin Spacey), pede um trabalho de final de ano em que os alunos devem propor o que é possível fazer para mudar o mundo. Trevor cria então a corrente do bem: alguém faz um grande favor a três pessoas; cada uma das três faz o mesmo com outras três pessoas e assim sucessivamente. Para pôr em prática sua teoria, ele leva um mendigo para casa e decide unir sua mãe ao professor, dois solitários. Quando o pai do menino reaparece depois de muito tempo sem dar notícias, as coisas se complicam. E Trevor logo descobre que, para mudar o mundo, é preciso mais que boa vontade.</desc>
+    <credits>
+      <director>Mimi Leder</director>
+      <actor>Kevin Spacey</actor>
+      <actor>Haley Joel Osment</actor>
+      <actor>Hen Hunt</actor>
+      <actor>Jay Mohr</actor>
+      <actor>James Caviezel</actor>
+      <actor>Jon Bon Jovi</actor>
+      <actor>David Ramsey</actor>
+      <actor>Gary Werntz</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211124041600 -0300" stop="20211124060000 -0300" channel="HBO Family">
+    <title lang="pt">Uma Noite Mágica</title>
+    <sub-title lang="pt">Jack Frost</sub-title>
+    <desc lang="pt">O músico Jack Frost (Michael Keaton) está sempre viajando e nunca tem tempo para a mulher Gabby (Kelly Preston) e o filho Charlie (Joseph Cross). Quando enfim deixa tudo para trás para passar o Natal ao lado da família, a caminho de casa ele morre num trágico acidente de carro. Um ano depois, ao tocar a gaita que ganhou do pai, Charlie descobre estarrecido que Jack está de volta, só que agora ele é um enorme boneco de neve. E tudo o que querem é aproveitar esta chance para se divertir, aprender um com outro e recuperar o tempo perdido. Mas terão muitos problemas para explicar o que está acontecendo e, principalmente, evitar que o gelo derreta.</desc>
+    <credits>
+      <director>Troy Miller</director>
+      <actor>Michael Keaton</actor>
+      <actor>Kelly Preston</actor>
+      <actor>Joseph Cross</actor>
+      <actor>Mark Addy</actor>
+      <actor>Andrew Lawrence</actor>
+      <actor>Eli Marienthal</actor>
+      <actor>Mika Boorem</actor>
+      <actor>Will Rothhaar</actor>
+      <actor>Taylor Handley</actor>
+      <actor>Paul F. Tompkins</actor>
+      <actor>Henry Rollins</actor>
+    </credits>
+    <date>1998</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124060000 -0300" stop="20211124075000 -0300" channel="HBO Family">
+    <title lang="pt">Happy Feet: O Pinguim</title>
+    <sub-title lang="pt">Happy Feet</sub-title>
+    <desc lang="pt">Entre os pinguins imperador você apenas é alguém se souber cantar. Isto causa grande preocupação a Mano, considerado o pior cantor do mundo e também um grande sapateador. Sua mãe, gosta do sapateado mas seu pai, acha que "isto não é coisa de pinguim". Além disto seus pais sabem que caso ele não encontre sua "canção do coração", talvez nunca encontre o verdadeiro amor.</desc>
+    <credits>
+      <director>George Miller</director>
+      <actor>Vozes de Elijah Wood</actor>
+      <actor>Brittany Murphy</actor>
+      <actor>Hugh Jackman</actor>
+      <actor>Nicole Kidman</actor>
+      <actor>Lombardo Boyar</actor>
+      <actor>Jeffrey Garcia</actor>
+      <actor>Carlos Alazraqui</actor>
+      <actor>Johnny A. Sanchez</actor>
+      <actor>Robin Williams</actor>
+      <actor>Alyssa Shafer</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Filme (Animação)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124075000 -0300" stop="20211124091700 -0300" channel="HBO Family">
+    <title lang="pt">Tá Dando Onda</title>
+    <sub-title lang="pt">Surf's Up</sub-title>
+    <desc lang="pt">Cody é um pinguim que sai de sua casa em Shiverpool, Antártica, para participar do evento Big Z Memorial de Surf na Ilha de Pen Gu. Durante sua aventura ele conhece novos amigos incluindo o maluquinho do surf, Chicken Joe, e seu salva-vidas espiritual, Lani. Para Cody, vencer é o que mais importa até conhecer o Geek, um velho surfista que irá mostrar que um verdadeiro vencedor não é sempre o que chega em primeiro lugar.</desc>
+    <credits>
+      <director>Ash Brannon</director>
+      <director>Chris Buck</director>
+      <actor>Vozes de Jon Heder</actor>
+      <actor>Jeff Bridges</actor>
+      <actor>Shia LaBeouf</actor>
+      <actor>Zooey Deschanel</actor>
+      <actor>James Woods</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Mario Cantone</actor>
+      <actor>Kelly Slater</actor>
+      <actor>Rob Machado</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Filme (Animação)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124091700 -0300" stop="20211124104800 -0300" channel="HBO Family">
+    <title lang="pt">Menores Desacompanhados</title>
+    <sub-title lang="pt">Unaccompanied Minors</sub-title>
+    <desc lang="pt">Uma nevasca na véspera do Natal, fecha um aeroporto, prejudicando os planos de todos os passageiros. Entre eles estão os irmãos Spencer e Katherine que, a caminho da casa do pai, aguardam na Área Especial, no próprio aeroporto. Neste local estão dezenas de crianças, de todos os cantos do país. Cansado de esperar, Spencer decide deixar o local em que estão. Ele lidera então um grupo que conta ainda com a rica e mimada Grace, a estranha Donna, o gênio Charlie e o fanático por quadrinhos Timothy.</desc>
+    <credits>
+      <director>Paul Feig</director>
+      <actor>Lewis Black</actor>
+      <actor>Wilmer Valderrama</actor>
+      <actor>Tyler James Williams</actor>
+      <actor>Dyllan Christopher</actor>
+      <actor>Brett Kelly</actor>
+      <actor>Gina Mantegna</actor>
+      <actor>Quinn Shephard</actor>
+      <actor>Paget Brewster</actor>
+      <actor>Rob Corddry</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124104800 -0300" stop="20211124123200 -0300" channel="HBO Family">
+    <title lang="pt">Os Smurfs</title>
+    <sub-title lang="pt">The Smurfs</sub-title>
+    <desc lang="pt">Quando o vilão Gargamel expulsa os Smurfs de sua vila, eles saem de seu mundo mágico e caem na cidade de Nova York.</desc>
+    <credits>
+      <director>Raja Gosnell</director>
+      <actor>Vozes de Hank Azaria</actor>
+      <actor>Neil Patrick Harris</actor>
+      <actor>Sofía Vergara</actor>
+      <actor>Jayma Mays</actor>
+      <actor>Tim Gunn</actor>
+      <actor>Madison McKinley</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Filme (Animação)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124123200 -0300" stop="20211124144300 -0300" channel="HBO Family">
+    <title lang="pt">Tão Forte e Tão Perto</title>
+    <sub-title lang="pt">Extremely Loud And Incredibly Close</sub-title>
+    <desc lang="pt">Um menino de 9 anos perde seu pai no atentado de 11 de setembro em Nova York. Em sua casa consegue uma chave e acredita que com ela seu pai deixou uma mensagem. Começa assim uma comovente expedição pela cidade para achar a fechadura que abre com a chave.</desc>
+    <credits>
+      <director>Stephen Daldry</director>
+      <actor>Tom Hanks</actor>
+      <actor>Sandra Bullock</actor>
+      <actor>Zoe Caldwell</actor>
+      <actor>John Goodman</actor>
+      <actor>Thomas Horn</actor>
+      <actor>Max Von Sydow</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Filme (Aventura)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124144300 -0300" stop="20211124163800 -0300" channel="HBO Family">
+    <title lang="pt">Ender's Game - O Jogo do Exterminador</title>
+    <sub-title lang="pt">Ender's Game</sub-title>
+    <desc lang="pt">Ender é enviado para uma escola militar espacial com o objetivo de ser treinado para combater, no futuro, extraterrestres que vão invadir a Terra. Seu dom natural para liderar é o segredo de seu sucesso.</desc>
+    <credits>
+      <director>Gavin Hood</director>
+      <actor>Asa Butterfield</actor>
+      <actor>Harrison Ford</actor>
+      <actor>Hailee Steinfeld</actor>
+      <actor>Abigail Breslin</actor>
+      <actor>Ben Kingsley</actor>
+      <actor>Viola Davis</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124163800 -0300" stop="20211124180500 -0300" channel="HBO Family">
+    <title lang="pt">Tá Dando Onda</title>
+    <sub-title lang="pt">Surf's Up</sub-title>
+    <desc lang="pt">Cody é um pinguim que sai de sua casa em Shiverpool, Antártica, para participar do evento Big Z Memorial de Surf na Ilha de Pen Gu. Durante sua aventura ele conhece novos amigos incluindo o maluquinho do surf, Chicken Joe, e seu salva-vidas espiritual, Lani. Para Cody, vencer é o que mais importa até conhecer o Geek, um velho surfista que irá mostrar que um verdadeiro vencedor não é sempre o que chega em primeiro lugar.</desc>
+    <credits>
+      <director>Ash Brannon</director>
+      <director>Chris Buck</director>
+      <actor>Vozes de Jon Heder</actor>
+      <actor>Jeff Bridges</actor>
+      <actor>Shia LaBeouf</actor>
+      <actor>Zooey Deschanel</actor>
+      <actor>James Woods</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Mario Cantone</actor>
+      <actor>Kelly Slater</actor>
+      <actor>Rob Machado</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Filme (Animação)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124180500 -0300" stop="20211124185700 -0300" channel="HBO Family">
+    <title lang="pt">Missões de Vida</title>
+    <desc lang="pt">Uma parteira e uma médica geriatra são responsáveis por mudar os paradigmas de suas áreas de atuação.</desc>
+    <credits>
+      <director>Carlos Baliu</director>
+      <director>Mauro Martins</director>
+      <actor>Bruno R. Modolo</actor>
+      <actor>Selma Perez</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Comportamento)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124185700 -0300" stop="20211124200000 -0300" channel="HBO Family">
+    <title lang="pt">Arquis</title>
+    <desc lang="pt">Seis dos arquitetos mais renomados da América Latina têm sua obra e vida revisitados nesta série documental.</desc>
+    <credits>
+      <director>Emilio Maillé</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Biografia)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124200000 -0300" stop="20211124214100 -0300" channel="HBO Family">
+    <title lang="pt">Aprendiz de Espiã</title>
+    <sub-title lang="pt">My Spy</sub-title>
+    <desc lang="pt">O aguerrido agente da CIA JJ (Dave Bautista) se encontra à mercê de uma travessa menina de 9 anos quando ela desvenda seu disfarce.</desc>
+    <credits>
+      <director>Peter Segal</director>
+      <actor>Erich Hoeber</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124214100 -0300" stop="20211124234200 -0300" channel="HBO Family">
+    <title lang="pt">O Besouro Verde</title>
+    <sub-title lang="pt">The Green Hornet</sub-title>
+    <desc lang="pt">Britt e Kato veem a chance de fazer algo significativo pela primeira vez em suas vidas: combater o crime. Mas para fazer isso, decidem se tornar foras da lei. Britt se transforma no vigilante Besouro Verde.</desc>
+    <credits>
+      <director>Michel Gondry</director>
+      <actor>Seth Rogen</actor>
+      <actor>Cameron Diaz</actor>
+      <actor>Christoph Waltz</actor>
+      <actor>Jay Chou</actor>
+      <actor>Edward Furlong</actor>
+      <actor>Tom Wilkinson</actor>
+      <actor>Edward James Olmos</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123004500 -0300" stop="20211123024000 -0300" channel="HBO Mundi">
+    <title lang="pt">Projeto Flórida</title>
+    <sub-title lang="pt">The Florida Project</sub-title>
+    <desc lang="pt">Em um hotel de beira de estrada à sombra de um parque da Disney na Flórida, Moonee (Brooklynn Prince), uma garotinha de seis anos, vive um verão de descoberta e fantasia junto de seus amigos.</desc>
+    <credits>
+      <director>Sean Baker</director>
+      <actor>Willem Dafoe</actor>
+      <actor>Brooklynn Prince</actor>
+      <actor>Bria Vinaite</actor>
+      <actor>Christopher Rivera</actor>
+      <actor>Aiden Malik</actor>
+      <actor>Josie Olivo</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123024000 -0300" stop="20211123042500 -0300" channel="HBO Mundi">
+    <title lang="pt">A Ganhadora de Defiance, Ohio</title>
+    <sub-title lang="pt">The Prize Winner Of Defiance, Ohio</sub-title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <director>Jane Anderson</director>
+      <actor>Julianne Moore</actor>
+      <actor>Woody Harrelson</actor>
+      <actor>Laura Dern</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Filme (Biografia)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123042500 -0300" stop="20211123060000 -0300" channel="HBO Mundi">
+    <title lang="pt">Os Japão</title>
+    <sub-title lang="pt">Los Japón</sub-title>
+    <desc lang="pt">Quando o Imperador do Japão morre sem deixar descendentes com direito ao trono, a busca do herdeiro do império leva surpreendentemente até Sevilha.</desc>
+    <credits>
+      <director>Álvaro Díaz Lorenzo</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123060000 -0300" stop="20211123081000 -0300" channel="HBO Mundi">
+    <title lang="pt">Além da Vida</title>
+    <sub-title lang="pt">Hereafter</sub-title>
+    <desc lang="pt">Três pessoas são tocadas pela morte de diferentes maneiras. Desde pequeno o americano George mantém contato com a outra vida mas não considera um dom e sim uma maldição e tenta levar a vida normalmente.</desc>
+    <credits>
+      <director>Clint Eastwood</director>
+      <actor>Matt Damon</actor>
+      <actor>Cécile De France</actor>
+      <actor>Frankie McLaren</actor>
+      <actor>George McLaren</actor>
+      <actor>Thierry Neuvic</actor>
+      <actor>Lisa Griffiths</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123081000 -0300" stop="20211123100500 -0300" channel="HBO Mundi">
+    <title lang="pt">Loucuras de Verão</title>
+    <sub-title lang="pt">Odio L'estate</sub-title>
+    <desc lang="pt">Três homens reservam, sem saber, a mesma casa para as férias de suas famílias, transformando o verão em um hilário exercício de tolerância.</desc>
+    <credits>
+      <director>Massimo Venier</director>
+      <actor>Aldo Baglio</actor>
+      <actor>Giovanni Storti</actor>
+      <actor>Giacomo Poretti</actor>
+      <actor>Carlotta Natoli</actor>
+      <actor>Massimo Ranieri</actor>
+      <actor>Pietro Ragusa</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123100500 -0300" stop="20211123113000 -0300" channel="HBO Mundi">
+    <title lang="pt">Emma - Uma Menina de Fé</title>
+    <sub-title lang="pt">Emma</sub-title>
+    <desc lang="pt">Uma menina católica devota e um menino sem religião encontram no amor ao futebol uma lição para a vida toda.</desc>
+    <credits>
+      <director>Julio Bárcenas</director>
+      <actor>Essau Avila</actor>
+      <actor>Jazmin Bárcenas</actor>
+      <actor>Jorge Lan</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123113000 -0300" stop="20211123131500 -0300" channel="HBO Mundi">
+    <title lang="pt">A Fantástica Fábrica de Chocolate</title>
+    <sub-title lang="pt">Willy Wonka And The Chocolate Factory</sub-title>
+    <desc lang="pt">Charlie Bucket (Ostrum) é um garoto pobre que mora com os avós e a mãe. A família mal tem dinheiro para comprar comida, mas mesmo assim o menino tem um sonho: ganhar a promoção promovida pela fábrica de doces de Willy Wonka (Wilder). As cinco crianças que acharem um cupom dourado escondido nas embalagens dos chocolates da empresa terão o direito de visitar a fábrica. Charlie é o ganhador do último cupom. As cinco crianças, acompanhadas dos pais, embarcam nessa viagem conduzida por Willy Wonka na fábrica de doces mais mágica do cinema. As diferentes invenções e estímulos visuais atiçam os defeitos de cada criança e, uma a uma, elas vão sendo eliminadas, até que a mais pura de todas tem a oportunidade de terminar o passeio e, quem sabe, ganhar o maior prêmio de todos: chocolates da fábrica Wonka durante a vida inteira.</desc>
+    <credits>
+      <director>Mel Stuart</director>
+      <actor>Gene Wilder</actor>
+      <actor>Jack Albertson</actor>
+      <actor>Peter Ostrum</actor>
+      <actor>Roy Kinnear</actor>
+      <actor>Julie Dawn Cole</actor>
+      <actor>Leonard Stone</actor>
+      <actor>Denise Nickerson</actor>
+      <actor>Nora Denney</actor>
+      <actor>Michael Bollner</actor>
+      <actor>Diana Sowle</actor>
+    </credits>
+    <date>1971</date>
+    <category lang="pt">Filme (Musical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123131500 -0300" stop="20211123151000 -0300" channel="HBO Mundi">
+    <title lang="pt">Um Reino Unido</title>
+    <sub-title lang="pt">A United Kingdom</sub-title>
+    <desc lang="pt">Seretse Khama, príncipe e herdeiro do trono do Protetorado de Bechuanalândia, e Ruth Williams, uma funcionária de escritório britânica branca, lutam contra complexas questões geopolíticas.</desc>
+    <credits>
+      <director>Amma Asante</director>
+      <actor>David Oyelowo</actor>
+      <actor>Rosamund Pike</actor>
+      <actor>Terry Pheto</actor>
+      <actor>Jack Davenport</actor>
+      <actor>Tom Felton</actor>
+      <actor>Abena Ayivor</actor>
+      <actor>Vusi Kunene</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123151000 -0300" stop="20211123170700 -0300" channel="HBO Mundi">
+    <title lang="pt">Fome de Poder</title>
+    <sub-title lang="pt">The Founder</sub-title>
+    <desc lang="pt">Ray Kroc descobre o restaurante de fast-food operado pelos irmãos McDonald no sul da Califórnia no final dos anos 50. Impressionado com o potencial do empreendimento, o ambicioso faz de tudo para assumir o controle do negócio.</desc>
+    <credits>
+      <director>John Lee Hancock</director>
+      <actor>Nick Offerman</actor>
+      <actor>Laura Dern</actor>
+      <actor>Griff Furst</actor>
+      <actor>Michael Keaton</actor>
+      <actor>John Carroll Lynch</actor>
+      <actor>Linda Cardellini</actor>
+      <actor>B.J. Novak</actor>
+      <actor>Patrick Wilson</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123170700 -0300" stop="20211123192000 -0300" channel="HBO Mundi">
+    <title lang="pt">O Povo Contra Larry Flynt</title>
+    <sub-title lang="pt">The People Vs. Larry Flynt</sub-title>
+    <desc lang="pt">Este drama biográfico retrata a polêmica história de Larry Flynt (Woody Harrelson, indicado ao Oscar por este papel, estrelou filmes como "Kingpin - Estes Loucos Reis do Boliche", "Assalto sobre Trilhos", "Assassinos por Natureza" e "Proposta Indecente"), o homem que nos anos 70 dividiu opiniões nos EUA. Vindo de uma infância pobre, ex-dono de casas de striptease, fica milionário depois de lançar a revista Hustler, de forte conteúdo erótico. Perseguido pelos setores conservadores, que o consideram um divulgador de pornografia, é censurado, preso e acaba numa cadeira de rodas depois de sofrer um atentado. De temperamento forte e vida desregrada, é sempre motivo de controvérsias. Incansável, vai à Suprema Corte enfrentar o respeitado reverendo Jerry Falwell e empreende uma verdadeira cruzada nos tribunais em defesa da liberdade de expressão. Dirigido por Milos Forman (de "Amadeus", que lhe valeu o Globo de Ouro de Melhor Diretor, "Hair" e "Valmont - Uma História de Seduções", entre outros). Co-produção de Oliver Stone, o filme conquistou o Globo de Ouro de Melhor Diretor e Melhor Roteiro. Com Courtney Love (de "Basquiat - Traços de uma Vida" e "Sid e Nancy - O Amor Mata"), Edward Norton (de "Todos Dizem Eu Te Amo" e que ganhou o Globo de Ouro de Ator Coadjuvante por "As Duas Faces de um Crime"), Crispin Glover (de "Até as Vaqueiras Ficam Tristes"), James Cromwell (de "Cão Feiticeiro") e Brett Harrelson.</desc>
+    <credits>
+      <director>Milos Forman</director>
+      <actor>Woody Harrelson</actor>
+      <actor>Courtney Love</actor>
+      <actor>Edward Norton</actor>
+      <actor>Brett Harrelson</actor>
+      <actor>James Cromwell</actor>
+      <actor>Donna Hanower</actor>
+      <actor>Crispin Glover</actor>
+      <actor>Vincent Schiavelli</actor>
+      <actor>Miles Chapin</actor>
+      <actor>Richard Paul</actor>
+    </credits>
+    <date>1996</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20211123192000 -0300" stop="20211123201000 -0300" channel="HBO Mundi">
+    <title lang="pt">Liberdade</title>
+    <sub-title lang="pt">Libertad</sub-title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123201000 -0300" stop="20211123220000 -0300" channel="HBO Mundi">
+    <title lang="pt">A Dama Dourada</title>
+    <sub-title lang="pt">Woman In Gold</sub-title>
+    <desc lang="pt">Maria Altmann é uma mulher judia que conseguiu sair de Viena durante a Segunda Guerra Mundial. Após muitos anos, ela terá que voltar e se reencontrar com suas memórias para recuperar uma obra de arte de Gustav Klimt que os nazistas confiscaram de sua família.</desc>
+    <credits>
+      <director>Simon Curtis</director>
+      <actor>Helen Mirren</actor>
+      <actor>Ryan Reynolds</actor>
+      <actor>Daniel Brühl</actor>
+      <actor>Katie Holmes</actor>
+      <actor>Tatiana Maslany</actor>
+      <actor>Max Irons</actor>
+      <actor>Charles Dance</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Filme (Drama)</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123220000 -0300" stop="20211124002000 -0300" channel="HBO Mundi">
+    <title lang="pt">Macbeth</title>
+    <desc lang="pt">Macbeth, o herói de guerra escocês, é persuadido por sua esposa a matar o Rei Duncan e tomar seu trono. Macbeth acaba se envolvendo em mais assassinatos e decadência moral para manter seu reinado.</desc>
+    <credits>
+      <director>Roman Polanski</director>
+      <actor>John Finch</actor>
+      <actor>Martin Shaw</actor>
+      <actor>John Stride</actor>
+      <actor>Noel Davis</actor>
+      <actor>Francesca Annis</actor>
+      <actor>Stephan Chase</actor>
+      <actor>Paul Shelley</actor>
+      <actor>Nicholas Selby</actor>
+      <actor>Maisie MacFarquhar</actor>
+      <actor>Elsie Taylor</actor>
+      <actor>Patricia Mason</actor>
+    </credits>
+    <date>1971</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211124002000 -0300" stop="20211124023500 -0300" channel="HBO Mundi">
+    <title lang="pt">Anônimo</title>
+    <sub-title lang="pt">Anonymous</sub-title>
+    <desc lang="pt">Um drama que questiona um assunto que intriga acadêmicos e mentes brilhantes até hoje: Quem foi o autor das obras atribuídas a Shakespeare? Eward De Vere é apresentado como o verdadeiro autor do trabalho do escritor mais famoso da história.</desc>
+    <credits>
+      <director>Roland Emmerich</director>
+      <actor>Rhys Ifans</actor>
+      <actor>Vanessa Redgrave</actor>
+      <actor>David Thewlis</actor>
+      <actor>Edward Hogg</actor>
+      <actor>Jamie Campbell Bower</actor>
+      <actor>Joely Richardson</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211124023500 -0300" stop="20211124035500 -0300" channel="HBO Mundi">
+    <title lang="pt">Um Santo Plano</title>
+    <sub-title lang="pt">El Plan Divino</sub-title>
+    <desc lang="pt">Dois coroinhas quarentões enfrentam a primeira crise existencial de suas vidas quando a vida de seu mentor se aproxima do fim.</desc>
+    <credits>
+      <director>Víctor Laplace</director>
+      <actor>Víctor Laplace</actor>
+      <actor>Javier Lester</actor>
+      <actor>Gastón Pauls</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211124035500 -0300" stop="20211124060000 -0300" channel="HBO Mundi">
+    <title lang="pt">Justiça para Todos</title>
+    <sub-title lang="pt">And Justice for All</sub-title>
+    <desc lang="pt">Num sistema em que criminosos saem livres, em que advogados e juízes fazem dos acordos uma rotina e o inocente por vezes acaba desprotegido, o jovem Arthur Kirkland começa a imaginar onde a justiça foi parar.</desc>
+    <credits>
+      <director>Norman Jewison</director>
+      <actor>Al Pacino</actor>
+      <actor>Jack Warden</actor>
+      <actor>John Forsyte</actor>
+      <actor>Lee Strasberg</actor>
+      <actor>Jeffrey Tambor</actor>
+    </credits>
+    <date>1979</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211124060000 -0300" stop="20211124085500 -0300" channel="HBO Mundi">
+    <title lang="pt">Stalin</title>
+    <desc lang="pt">A vida e a carreira do ditador soviético brutal, Josef Stalin.</desc>
+    <credits>
+      <director>Ivan Passer</director>
+      <actor>Robert Duvall</actor>
+      <actor>Julia Ormond</actor>
+      <actor>Joan Plowright</actor>
+      <actor>Maximilian Schell</actor>
+      <actor>Jeroen Krabbé</actor>
+      <actor>Frank Finlay</actor>
+    </credits>
+    <date>1992</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211124085500 -0300" stop="20211124111000 -0300" channel="HBO Mundi">
+    <title lang="pt">Isolados</title>
+    <sub-title lang="pt">Abgeschnitten</sub-title>
+    <desc lang="pt">A jovem Linda acha-se em um jogo de vida ou morte em uma ilha isolada por uma tempestade. Ela precisa fazer uma autópsia para encontrar pistas escondidas em um cadáver.</desc>
+    <credits>
+      <director>Christian Alvart</director>
+      <actor>Bleibtreu</actor>
+      <actor>Jasna Fritzi Bauer</actor>
+      <actor>Lars Eidinger</actor>
+      <actor>Stephanie Amarell</actor>
+      <actor>Urs Jucker</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211124111000 -0300" stop="20211124133000 -0300" channel="HBO Mundi">
+    <title lang="pt">Luta por Justiça</title>
+    <sub-title lang="pt">Just Mercy</sub-title>
+    <desc lang="pt">Estrelando Michael B. Jordan e os vencedores do Oscar® Jamie Foxx e Brie Larson, a provocativa história real do advogado Bryan Stevenson.</desc>
+    <credits>
+      <director>Destin Daniel Cretton</director>
+      <actor>Michael B. Jordan</actor>
+      <actor>Jamie Foxx</actor>
+      <actor>Brie Larson</actor>
+      <actor>Christopher Wolfe</actor>
+      <actor>Adam Boyer</actor>
+      <actor>Jacinte Blankenship</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme (Biografia)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211124133000 -0300" stop="20211124150000 -0300" channel="HBO Mundi">
+    <title lang="pt">Necrotério</title>
+    <sub-title lang="pt">Morgue</sub-title>
+    <desc lang="pt">O segurança de um hospital fica preso no necrotério durante o turno da noite e descobre que não está tão sozinho quanto pensava.</desc>
+    <credits>
+      <director>Hugo Cardozo</director>
+      <actor>Francisco Ayala</actor>
+      <actor>María del Mar Fernández</actor>
+      <actor>Abel Martínez</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme (Terror)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211124150000 -0300" stop="20211124170000 -0300" channel="HBO Mundi">
+    <title lang="pt">O Xangô de Baker Street</title>
+    <desc lang="pt">Para Sherlock Holmes, aquele seria mais um caso como outro qualquer a não ser por um pequeno detalhe... aconteceu no Brasil. Agora, ele precisará muito mais do que sua formalidade britânica, faro apurado e seu fiel ajudante ao descobrir que neste país nada é elementar.</desc>
+    <credits>
+      <director>Miguel Faria Jr.</director>
+      <actor>Joaquim de Almeida</actor>
+      <actor>Marco Nanini</actor>
+      <actor>Anthony O'Donnell</actor>
+      <actor>Maria de Medeiros</actor>
+      <actor>Letícia Sabatella</actor>
+      <actor>Cláudia Abreu</actor>
+      <actor>Claudio Marzo</actor>
+      <actor>Marcello Anthony</actor>
+      <actor>Emiliano Queiroz</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="pt">Filme (Policial)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211124170000 -0300" stop="20211124190000 -0300" channel="HBO Mundi">
+    <title lang="pt">Belle Époque</title>
+    <sub-title lang="pt">La Belle Epoque</sub-title>
+    <desc lang="pt">Um sexagenário desiludido conhece um empresário brilhante que lhe oferece a incrível oportunidade de reviver o melhor momento de sua vida.</desc>
+    <credits>
+      <director>Nicolas Bedos</director>
+      <actor>Daniel Auteuil</actor>
+      <actor>Guillaume Canet</actor>
+      <actor>Doria Tillier</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211124190000 -0300" stop="20211124200000 -0300" channel="HBO Mundi">
+    <title lang="pt">Santos Dumont</title>
+    <desc lang="pt">Uma sabotagem ao dirigível de Dumont faz com que ele desista de uma corrida aérea na Exposição Universal de St. Louis e volte à Paris.</desc>
+    <credits>
+      <director>Estevão Ciavatta</director>
+      <director>Fernando Acquarone</director>
+      <actor>João Pedro Zappa</actor>
+      <actor>Lisa Eiras</actor>
+      <actor>Thierry Tremouroux</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Biografia)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211124200000 -0300" stop="20211124210000 -0300" channel="HBO Mundi">
+    <title lang="pt">Santos Dumont</title>
+    <desc lang="pt">A morte de seu mestre, Henri Lachambre, abala severamente Santos Dumont. Blériot e Voisin trabalham no projeto de um avião, enquanto Santos se entrega ao ócio. Trabalhando às escondidas, ele desenvolve o que será sua criação mais famosa: o 14-bis.</desc>
+    <credits>
+      <director>Estevão Ciavatta</director>
+      <director>Fernando Acquarone</director>
+      <actor>Joana de Verona</actor>
+      <actor>Josias Duarte</actor>
+      <actor>Miguel Pinheiro</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Biografia)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211124210000 -0300" stop="20211124220100 -0300" channel="HBO Mundi">
+    <title lang="pt">Succession</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <date>2021</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211124220100 -0300" stop="20211124232500 -0300" channel="HBO Mundi">
+    <title lang="pt">A Noiva Cadáver</title>
+    <sub-title lang="pt">Corpse Bride</sub-title>
+    <desc lang="pt">Em um vilarejo europeu do século XIX vive Victor Van Dorst, um jovem que está prestes a se casar com Victoria Everglot, porém acidentalmente se casa com a Noiva-Cadáver, que o leva para conhecer a Terra dos Mortos.</desc>
+    <credits>
+      <director>Tim Burton</director>
+      <director>Mike Johnson</director>
+      <actor>Vozes de Johnny Depp</actor>
+      <actor>Helena Bonham Carter</actor>
+      <actor>Emily Watson</actor>
+      <actor>Tracey Ullman</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Filme (Animação)</category>
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211123001500 -0300" stop="20211123020000 -0300" channel="HBO Plus">
+    <title lang="pt">O Calouro</title>
+    <sub-title lang="pt">Shithouse</sub-title>
+    <desc lang="pt">Um solitário calouro se conecta com uma veterana atravessando um momento difícil nesta comédia dramática sobre a vida na universidade.</desc>
+    <credits>
+      <director>Cooper Raiff</director>
+      <actor>Cooper Raiff</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211123020000 -0300" stop="20211123041000 -0300" channel="HBO Plus">
+    <title lang="pt">Garota, Interrompida</title>
+    <sub-title lang="pt">Girl Interrupted</sub-title>
+    <desc lang="pt">Garota com tendências suicidas é internada em clínica psiquiátrica por 2 anos. Lá, em meio a luta para curar-se, desenvolve relacionamento complexo com outros pacientes e com os médicos que a atendem. Entre as pacientes está Lisa (Angelina Jolie), uma charmosa sociopata que organiza uma fuga com Susanna, Daisy e Polly com o intuito de retomarem suas vidas. Baseado em fatos reais. Oscar de melhor atriz coadjuvante para Angelina Jolie.</desc>
+    <credits>
+      <director>James Mangold</director>
+      <actor>Winona Ryder</actor>
+      <actor>Angeline Jolie</actor>
+      <actor>Clea DuVall</actor>
+      <actor>Brittany Murphy</actor>
+      <actor>Elisabeth Moss</actor>
+      <actor>Jared Leto</actor>
+      <actor>Jeffrey Tambor</actor>
+      <actor>Vanessa Redgrave</actor>
+      <actor>Whoopi Goldberg</actor>
+      <actor>Jillian Armenant</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123041000 -0300" stop="20211123060000 -0300" channel="HBO Plus">
+    <title lang="pt">Amor à Distância</title>
+    <sub-title lang="pt">Going The Distance</sub-title>
+    <desc lang="pt">Erin é uma jovem bem humorada que conquista o recém-solteiro Garrett. O relacionamento deveria ser mais um amor de verão, mas quando ambos têm de voltar para casa um dilema se inicia. Como manter a distância num relacionamento que parecia não ter futuro e acabou se transformando em uma grande paixão?</desc>
+    <credits>
+      <director>Nanette Burstein</director>
+      <actor>Drew Barrymore</actor>
+      <actor>Justin Long</actor>
+      <actor>Christina Applegate</actor>
+      <actor>Ron Livingston</actor>
+      <actor>Jim Gaffigan</actor>
+      <actor>Kelli Garner</actor>
+      <actor>Charlie Day</actor>
+      <actor>Sarah Burns</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123060000 -0300" stop="20211123073500 -0300" channel="HBO Plus">
+    <title lang="pt">A Hora do Rush 3</title>
+    <sub-title lang="pt">Rush Hour 3</sub-title>
+    <desc lang="pt">Em Los Angeles, o embaixador Han está decidido a revelar o endereço da maior organização criminosa chinesa, mas sofre um atentado. O detetive Carter e o inspetor Lee acabam se envolvendo no caso e vão enfrentar a perigosa organização em Paris.</desc>
+    <credits>
+      <director>Brett Ratner</director>
+      <actor>Chris Tucker</actor>
+      <actor>Jackie Chan</actor>
+      <actor>Hiroyuki Sanada</actor>
+      <actor>Youki Kudoh</actor>
+      <actor>Max von Sydow</actor>
+      <actor>Yvan Attal</actor>
+      <actor>Noémie Lenoir</actor>
+      <actor>Jingchu Zhang</actor>
+      <actor>Tzi Ma</actor>
+      <actor>Roman Polanski</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Filme (Aventura)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123073500 -0300" stop="20211123095000 -0300" channel="HBO Plus">
+    <title lang="pt">Todo o Dinheiro Do Mundo</title>
+    <sub-title lang="pt">All The Money In The World</sub-title>
+    <desc lang="pt">Após o sequestro do filho, Gail Harris (Michelle Williams) apela a seu ex-sogro, o magnata do petróleo J. Paul Getty (Christopher Plummer), que pague pelo resgate do neto. Em vez disso, Getty decide guardar seu dinheiro e colocar o ex-agente da CIA Fletcher Chace (Mark Wahlberg) para investigar o caso.</desc>
+    <credits>
+      <director>Ridley Scott</director>
+      <actor>Michelle Williams</actor>
+      <actor>Christopher Plummer</actor>
+      <actor>Mark Wahlberg</actor>
+      <actor>Romain Duris</actor>
+      <actor>Timothy Hutton</actor>
+      <actor>Charlie Plummer</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211123095000 -0300" stop="20211123114500 -0300" channel="HBO Plus">
+    <title lang="pt">A Rebelião</title>
+    <sub-title lang="pt">Captive State</sub-title>
+    <desc lang="pt">John Goodman protagoniza este thriller ambientado num futuro distópico onde a cidade de Chicago, após uma invasão alienígena global, foi dividida em dois grupos: os que colaboram com os alienígenas e os que se rebelam contra eles.</desc>
+    <credits>
+      <director>Rupert Wyatt</director>
+      <actor>John Goodman</actor>
+      <actor>Ashton Sanders</actor>
+      <actor>Jonathan Majors</actor>
+      <actor>Vera Farmiga</actor>
+      <actor>Kevin Dunn</actor>
+      <actor>James Ransone</actor>
+      <actor>Machine Gun Kelly</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme (Ficção)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123114500 -0300" stop="20211123135000 -0300" channel="HBO Plus">
+    <title lang="pt">Transcendence: A Revolução</title>
+    <sub-title lang="pt">Transcendence</sub-title>
+    <desc lang="pt">O Dr. Craster, um cientista controverso, é vítima de um atentado contra sua vida. Desesperados, sua esposa e seu amigo fazem o possível para recuperar sua mente em uma Inteligência Artificial, sem saber que isto pode ser um terrível erro. Dirigido pelo aclamado Wally Pfister, o filme é estrelado por Johnny Depp, Rebecca Hall e Paul Bettany.</desc>
+    <credits>
+      <director>Wally Pfister</director>
+      <actor>Paul Bettany</actor>
+      <actor>Johnny Depp</actor>
+      <actor>Rebecca Hall</actor>
+      <actor>Cillian Murphy</actor>
+      <actor>Kate Mara</actor>
+      <actor>Cole Hauser</actor>
+      <actor>Morgan Freeman</actor>
+      <actor>Clifton Collins Jr</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Filme (Ficção)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211123135000 -0300" stop="20211123160000 -0300" channel="HBO Plus">
+    <title lang="pt">A Órfã</title>
+    <sub-title lang="pt">The Orphan</sub-title>
+    <desc lang="pt">Kate e John decidem adotar uma criança. Os dois se encantam pela pequena Esther. O que eles não sabiam é que estranhos acontecimentos fazem parte do histórico da menina.</desc>
+    <credits>
+      <director>Jaume Collet-Serra</director>
+      <actor>Vera Farmiga</actor>
+      <actor>Peter Sarsgaard</actor>
+      <actor>Isabelle Fuhrman</actor>
+      <actor>CCH Pounder</actor>
+      <actor>Jimmy Bennett</actor>
+      <actor>Margo Martindale</actor>
+      <actor>Karel Roden</actor>
+      <actor>Aryana Engineer</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Filme (Terror)</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20211123160000 -0300" stop="20211123181000 -0300" channel="HBO Plus">
+    <title lang="pt">Hereditário</title>
+    <sub-title lang="pt">Hereditary</sub-title>
+    <desc lang="pt">Annie Graham é uma artista que após a morte da mãe passa a lidar com visões perturbadoras e inexplicáveis. Aos poucos, uma história de traumas e maldição vai se revelando.</desc>
+    <credits>
+      <director>Ari Aster</director>
+      <actor>Toni Collette</actor>
+      <actor>Milly Shapiro</actor>
+      <actor>Gabriel Byrne</actor>
+      <actor>Christy Summerhays</actor>
+      <actor>Alex Wolff</actor>
+      <actor>Mallory Bechtel</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme (Terror)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211123181000 -0300" stop="20211123201000 -0300" channel="HBO Plus">
+    <title lang="pt">Invocação do Mal 3: A Ordem do Demônio</title>
+    <sub-title lang="pt">The Conjuring: The Devil Made Me Do It</sub-title>
+    <desc lang="pt">Patrick Wilson e Vera Farmiga retornam como Ed e Lorraine Warren para dar vida a um dos casos paranormais mais famosos dos EUA.</desc>
+    <credits>
+      <director>Michael Chaves</director>
+      <actor>Patrick Wilson</actor>
+      <actor>Vera Farmiga</actor>
+      <actor>Ruairi O'Connor</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Filme (Terror)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211123201000 -0300" stop="20211123210000 -0300" channel="HBO Plus">
+    <title lang="pt">Batwoman</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <actor>Javicia Leslie</actor>
+      <actor>Rachel Skarsten</actor>
+      <actor>Meagan Tandy</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Ação)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211123210000 -0300" stop="20211123220000 -0300" channel="HBO Plus">
+    <title lang="pt">Patrulha do Destino</title>
+    <sub-title lang="pt">Doom Patrol</sub-title>
+    <desc lang="pt">A Irmandade do Mal se aproxima e a Patrulha do Destino deve superar o passado para se tornar uma verdadeira equipe de super-heróis.</desc>
+    <credits>
+      <director>Harry Jierjian</director>
+      <actor>Hannah Alline</actor>
+      <actor>April Bowlby</actor>
+      <actor>Catherine Carlen</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Ação)</category>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211123220000 -0300" stop="20211123230500 -0300" channel="HBO Plus">
+    <title lang="pt">30 Monedas</title>
+    <desc lang="pt">Enquanto velhos conhecidos cumprimentam o padre Vergara em Roma, Paco luta para manter Elena em Pedraza.</desc>
+    <credits>
+      <director>Álex de la Iglesia</director>
+      <actor>Eduard Fernández</actor>
+      <actor>Megan Montaner</actor>
+      <actor>Miguel Ángel Silvestre</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S3 E10</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211123230500 -0300" stop="20211124010000 -0300" channel="HBO Plus">
+    <title lang="pt">A Rebelião</title>
+    <sub-title lang="pt">Captive State</sub-title>
+    <desc lang="pt">John Goodman protagoniza este thriller ambientado num futuro distópico onde a cidade de Chicago, após uma invasão alienígena global, foi dividida em dois grupos: os que colaboram com os alienígenas e os que se rebelam contra eles.</desc>
+    <credits>
+      <director>Rupert Wyatt</director>
+      <actor>John Goodman</actor>
+      <actor>Ashton Sanders</actor>
+      <actor>Jonathan Majors</actor>
+      <actor>Vera Farmiga</actor>
+      <actor>Kevin Dunn</actor>
+      <actor>James Ransone</actor>
+      <actor>Machine Gun Kelly</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme (Ficção)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211124010000 -0300" stop="20211124025000 -0300" channel="HBO Plus">
+    <title lang="pt">Monster Hunter</title>
+    <desc lang="pt">Milla Jovovich luta contra enormes e assustadores monstros nesta aventura-fantasia baseada no videogame de mesmo nome.</desc>
+    <credits>
+      <director>Paul W. S. Anderson</director>
+      <actor>Milla Jovovich</actor>
+      <actor>Tony Jaa</actor>
+      <actor>Ron Perlman</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211124025000 -0300" stop="20211124042000 -0300" channel="HBO Plus">
+    <title lang="pt">Anos 90</title>
+    <sub-title lang="pt">Mid90s</sub-title>
+    <desc lang="pt">O indicado ao Oscar® Jonah Hill conta a história de Stevie, um garoto de 13 anos atravessando a vida ao lado de seu ousado grupo de skate.</desc>
+    <credits>
+      <director>Jonah Hill</director>
+      <actor>Sunny Suljic</actor>
+      <actor>Katherine Waterston</actor>
+      <actor>Lucas Hedges</actor>
+      <actor>Na-kel Smith</actor>
+      <actor>Gio Galicia</actor>
+      <actor>Ryder McLaughlin</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211124042000 -0300" stop="20211124060000 -0300" channel="HBO Plus">
+    <title lang="pt">Uma Viagem Infernal</title>
+    <sub-title lang="pt">Heatstroke</sub-title>
+    <desc lang="pt">Paul é um cientista que deve ir ao deserto africano para fazer um trabalho de pesquisa, em companhia de sua filha Josie e sua namorada Tally. Porém, caçadores assassinam Paul, e Josie e Tally têm que tentar sobreviver.</desc>
+    <credits>
+      <director>Evelyn Purcell</director>
+      <actor>Stephen Dorff</actor>
+      <actor>Maisie Williams</actor>
+      <actor>Peter Stormare</actor>
+      <actor>Svetlana Metkina</actor>
+      <actor>Calvin Hayward</actor>
+      <actor>Jeanne Neilson</actor>
+      <actor>Ndalo Stofile</actor>
+      <actor>Andrew Roux</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211124060000 -0300" stop="20211124074000 -0300" channel="HBO Plus">
+    <title lang="pt">Eva</title>
+    <desc lang="pt">Espanha, 2041. Alex é um engenheiro cibernético que depois de dez anos de ausência regressa à casa onde seu irmão David e sua ex-namorada Lana têm uma filha: Eva. Ele deve criar o primeiro robô-criança e Eva o ajudará. Será que Alex será o primeiro a conseguir tal feito?</desc>
+    <credits>
+      <director>Kike Maíllo</director>
+      <actor>Daniel Brühl</actor>
+      <actor>Marta Etura</actor>
+      <actor>Alberto Ammann</actor>
+      <actor>Lluís Homar</actor>
+      <actor>Claudia Vega</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Filme (Ficção)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211124074000 -0300" stop="20211124091500 -0300" channel="HBO Plus">
+    <title lang="pt">Ataque ao Prédio</title>
+    <sub-title lang="pt">Attack The Block</sub-title>
+    <desc lang="pt">Adolescentes enfrentam uma invasão de alienígenas, transformando uma zona marginal de Londres em zona de guerra. Durante a noite, um bloco de apartamentos se transforma em uma fortaleza sitiada e um grupo de garotos de rua se tornam heróis.</desc>
+    <credits>
+      <director>Joe Cornish</director>
+      <actor>Jodie Whittaker</actor>
+      <actor>John Boyega</actor>
+      <actor>Alex Esmail</actor>
+      <actor>Leeon Jones</actor>
+      <actor>Franz Drameh</actor>
+      <actor>Simon Howard</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211124091500 -0300" stop="20211124110500 -0300" channel="HBO Plus">
+    <title lang="pt">Do Fundo do Mar</title>
+    <sub-title lang="pt">Deep Blue Sea</sub-title>
+    <desc lang="pt">A dr. Susan McAlester (Saffron Burrows) acredita que a cura para o mal de Alzheimer e outras doenças, como câncer, pode estar no cérebro dos tubarões. Por isso, ela modificou o DNA de um grupo deles, que se tornaram quase tão inteligentes quanto seres humanos. No entanto, o patrocinador do projeto, Russell Franklin (Samuel L. Jackson), decidiu conhecer o sofisticado laboratório flutuante onde são feitas as pesquisas e ameaça cortar as verbas se os resultados não aparecerem logo. Determinada a provar que sua teoria está certa, Susan e sua equipe correm contra o tempo. Mas os tubarões parecem ter outros planos. Enfurecidos, começam um terrível ataque. Agora a vida de todos está em perigo e o fundo do mar pode ser o pior lugar do mundo.</desc>
+    <credits>
+      <director>Renny Harlin</director>
+      <actor>Thomas Jane</actor>
+      <actor>Saffron Burrows</actor>
+      <actor>L L Cool J</actor>
+      <actor>Michael Rapaport</actor>
+      <actor>Stellan Skarsgård</actor>
+      <actor>Samuel L. Jackson</actor>
+      <actor>Jacqueline McKenzie</actor>
+      <actor>Aida Turturro</actor>
+      <actor>Ronny Cox</actor>
+      <actor>Brent Roam</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="pt">Filme (Aventura)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211124110500 -0300" stop="20211124125000 -0300" channel="HBO Plus">
+    <title lang="pt">Do Fundo do Mar 3</title>
+    <sub-title lang="pt">Deep Blue Sea 3</sub-title>
+    <desc lang="pt">A cientista Emma Collins enfrenta a violenta prole de um tubarão geneticamente modificado quando eles atacam um santuário ecológico.</desc>
+    <credits>
+      <director>John Pogue</director>
+      <actor>Tania Raymonde</actor>
+      <actor>Nathaniel Buzolic</actor>
+      <actor>Emerson Brooks</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211124125000 -0300" stop="20211124144500 -0300" channel="HBO Plus">
+    <title lang="pt">A Ilha da Fantasia</title>
+    <sub-title lang="pt">Blumhouse's Fantasy Island</sub-title>
+    <desc lang="pt">Lucy Hale e Michael Peña protagonizam esta assustadora aventura baseada na famosa série homônima dos anos 70 sobre uma ilha misteriosa.</desc>
+    <credits>
+      <director>Jeff Wadlow</director>
+      <actor>Michael Peña</actor>
+      <actor>Maggie Q</actor>
+      <actor>Lucy Hale</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211124144500 -0300" stop="20211124161500 -0300" channel="HBO Plus">
+    <title lang="pt">Inatividade Paranormal 2</title>
+    <sub-title lang="pt">A Haunted House 2</sub-title>
+    <desc lang="pt">Passou um ano desde que Malcolm saiu com uma garota possuída por um demônio. Agora, ele se muda com sua nova namorada e os dois filhos dela para uma bela casa, onde os fantasmas e uma horrível boneca acabarão com a pouca sanidade que lhes resta.</desc>
+    <credits>
+      <director>Michael Tiddes</director>
+      <actor>Marlon Wayans</actor>
+      <actor>Jaime Pressly</actor>
+      <actor>Missi Pyle</actor>
+      <actor>Essence Atkins</actor>
+      <actor>Gabriel Iglesias</actor>
+      <actor>Ashley Rickards</actor>
+      <actor>Affion Crockett</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211124161500 -0300" stop="20211124180000 -0300" channel="HBO Plus">
+    <title lang="pt">O Calouro</title>
+    <sub-title lang="pt">Shithouse</sub-title>
+    <desc lang="pt">Um solitário calouro se conecta com uma veterana atravessando um momento difícil nesta comédia dramática sobre a vida na universidade.</desc>
+    <credits>
+      <director>Cooper Raiff</director>
+      <actor>Cooper Raiff</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124180000 -0300" stop="20211124182900 -0300" channel="HBO Plus">
+    <title lang="pt">A Grande Luta</title>
+    <desc lang="pt">Esperança dos argentinos nos anos 1980, Roldán enfrentou até um urso de 270 quilos. E foi responsável pelo primeiro e único knockdown sofrido pelo campeão Hagler.</desc>
+    <date>2016</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211124182900 -0300" stop="20211124185700 -0300" channel="HBO Plus">
+    <title lang="pt">A Grande Luta</title>
+    <desc lang="pt">Ao conquistar o tricampeonato mundial, o mexicano Humberto González garantiu seu lugar no Hall da Fama do Boxe.</desc>
+    <date>2016</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211124185700 -0300" stop="20211124200500 -0300" channel="HBO Plus">
+    <title lang="pt">Outros Tempos: Jovens</title>
+    <desc lang="pt">Chegou a hora ganhar o mundo. Com tudo que há de bom e ruim nisso. Conheça a República Copacabana e seus moradores.</desc>
+    <credits>
+      <director>André Godoi</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211124200500 -0300" stop="20211124220000 -0300" channel="HBO Plus">
+    <title lang="pt">A Ilha da Fantasia</title>
+    <sub-title lang="pt">Blumhouse's Fantasy Island</sub-title>
+    <desc lang="pt">Lucy Hale e Michael Peña protagonizam esta assustadora aventura baseada na famosa série homônima dos anos 70 sobre uma ilha misteriosa.</desc>
+    <credits>
+      <director>Jeff Wadlow</director>
+      <actor>Michael Peña</actor>
+      <actor>Maggie Q</actor>
+      <actor>Lucy Hale</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme (Ação)</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
 </tv>
