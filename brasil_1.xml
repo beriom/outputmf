@@ -54520,4 +54520,1495 @@
       <value>livre</value>
     </rating>
   </programme>
+  <programme start="20211124000000 -0300" stop="20211124005800 -0300" channel="Record News">
+    <title lang="pt">A Fazenda News</title>
+    <desc lang="pt">Com apresentação da Fabiana Oliveira. A atração traz imagens em tempo real, entrevistas e análises do jogo.</desc>
+    <date>2021</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211124005800 -0300" stop="20211124010000 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124010000 -0300" stop="20211124014300 -0300" channel="Record News">
+    <title lang="pt">Balanço Geral</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124014300 -0300" stop="20211124014500 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124014500 -0300" stop="20211124021300 -0300" channel="Record News">
+    <title lang="pt">Balanço Geral</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124021300 -0300" stop="20211124021500 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124021500 -0300" stop="20211124031300 -0300" channel="Record News">
+    <title lang="pt">Balanço Geral</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124031300 -0300" stop="20211124031500 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124031500 -0300" stop="20211124041300 -0300" channel="Record News">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa cujas principais características são a agilidade na apresentação das notícias, o dinamismo na cobertura dos principais fatos, a produção de reportagens especiais, a elaboração de matérias exclusivas e investigativas e a credibilidade de profissionais experientes e consagrados no jornalismo brasileiro.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124041300 -0300" stop="20211124041500 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124041500 -0300" stop="20211124044300 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <desc lang="pt">Em diferentes edições, o Hora News atualiza as notícias do Brasil e do mundo para que o telespectador comece e termine o dia bem informado.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124044300 -0300" stop="20211124044500 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124044500 -0300" stop="20211124053000 -0300" channel="Record News">
+    <title lang="pt">Link News</title>
+    <desc lang="pt">Os principais assuntos do dia transformadas em notícia por meio da interatividade com o telespectador.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124053000 -0300" stop="20211124061300 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <desc lang="pt">Em diferentes edições, o Hora News atualiza as notícias do Brasil e do mundo para que o telespectador comece e termine o dia bem informado.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124061300 -0300" stop="20211124061500 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124061500 -0300" stop="20211124062800 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <desc lang="pt">Em diferentes edições, o Hora News atualiza as notícias do Brasil e do mundo para que o telespectador comece e termine o dia bem informado.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124062800 -0300" stop="20211124063000 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124063000 -0300" stop="20211124065800 -0300" channel="Record News">
+    <title lang="pt">Nosso Tempo</title>
+    <desc lang="pt">Um programa da Igreja Universal do Reino de Deus. O Bispo Rogério leva uma palavra de fé e esperança a todos os internautas.</desc>
+    <category lang="pt">Variedades (Religião)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124065800 -0300" stop="20211124070000 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124070000 -0300" stop="20211124071500 -0300" channel="Record News">
+    <title lang="pt">Record News Rural</title>
+    <desc lang="pt">O Record News Rural leva as novidades do agronegócio, empreendedorismo agrícola, cotações e comportamento rural.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124071500 -0300" stop="20211124081300 -0300" channel="Record News">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa cujas principais características são a agilidade na apresentação das notícias, o dinamismo na cobertura dos principais fatos, a produção de reportagens especiais, a elaboração de matérias exclusivas e investigativas e a credibilidade de profissionais experientes e consagrados no jornalismo brasileiro.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124081300 -0300" stop="20211124081500 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124081500 -0300" stop="20211124090000 -0300" channel="Record News">
+    <title lang="pt">Mundo Record News</title>
+    <desc lang="pt">Telejornal que atualiza o que é notícia pelo mundo.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124090000 -0300" stop="20211124090200 -0300" channel="Record News">
+    <title lang="pt">Boletim A Fazenda News</title>
+    <desc lang="pt">A nova temporada do reality show terá 20 peões confinados.</desc>
+    <date>2021</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211124090200 -0300" stop="20211124100000 -0300" channel="Record News">
+    <title lang="pt">Alerta Brasil</title>
+    <desc lang="pt">Alerta Brasil terá reportagens próprias mescladas com o conteúdo das edições regionais do Cidade Alerta, exibidas pelas filiadas e afiliadas da Record.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124100000 -0300" stop="20211124104300 -0300" channel="Record News">
+    <title lang="pt">Fala Brasil</title>
+    <desc lang="pt">As manhãs de segunda a sábado da Record TV são marcadas pelo bom jornalismo do Fala Brasil. O telejornal matinal traz, em primeira mão, as notícias do dia do Brasil e do mundo.</desc>
+    <credits>
+      <actor>Mariana Godoy</actor>
+      <actor>Sergio Aguiar</actor>
+    </credits>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124104300 -0300" stop="20211124104500 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124104500 -0300" stop="20211124110000 -0300" channel="Record News">
+    <title lang="pt">Fala Brasil</title>
+    <desc lang="pt">As manhãs de segunda a sábado da Record TV são marcadas pelo bom jornalismo do Fala Brasil. O telejornal matinal traz, em primeira mão, as notícias do dia do Brasil e do mundo.</desc>
+    <credits>
+      <actor>Mariana Godoy</actor>
+      <actor>Sergio Aguiar</actor>
+    </credits>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124110000 -0300" stop="20211124115800 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <desc lang="pt">Em diferentes edições, o Hora News atualiza as notícias do Brasil e do mundo para que o telespectador comece e termine o dia bem informado.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124115800 -0300" stop="20211124120000 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124120000 -0300" stop="20211124124300 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <desc lang="pt">Em diferentes edições, o Hora News atualiza as notícias do Brasil e do mundo para que o telespectador comece e termine o dia bem informado.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124124300 -0300" stop="20211124124500 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124124500 -0300" stop="20211124130000 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <desc lang="pt">Em diferentes edições, o Hora News atualiza as notícias do Brasil e do mundo para que o telespectador comece e termine o dia bem informado.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124130000 -0300" stop="20211124130200 -0300" channel="Record News">
+    <title lang="pt">Boletim A Fazenda News</title>
+    <desc lang="pt">A nova temporada do reality show terá 20 peões confinados.</desc>
+    <date>2021</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211124130200 -0300" stop="20211124132800 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <desc lang="pt">Em diferentes edições, o Hora News atualiza as notícias do Brasil e do mundo para que o telespectador comece e termine o dia bem informado.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124132800 -0300" stop="20211124133000 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124133000 -0300" stop="20211124135800 -0300" channel="Record News">
+    <title lang="pt">Mundo Record News</title>
+    <desc lang="pt">Telejornal que atualiza o que é notícia pelo mundo.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124135800 -0300" stop="20211124140000 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124140000 -0300" stop="20211124145800 -0300" channel="Record News">
+    <title lang="pt">Record News Séries</title>
+    <desc lang="pt">Matérias marcantes e de grande repercussão no jornalismo nacional. Record News Séries leva até o telespectador grandes reportagens de diversos temas com uma abordagem ampla e aprofundada.</desc>
+    <date>2021</date>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124145800 -0300" stop="20211124150000 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124150000 -0300" stop="20211124152800 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <desc lang="pt">Em diferentes edições, o Hora News atualiza as notícias do Brasil e do mundo para que o telespectador comece e termine o dia bem informado.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124152800 -0300" stop="20211124153000 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124153000 -0300" stop="20211124154300 -0300" channel="Record News">
+    <title lang="pt">Balanço Geral</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124154300 -0300" stop="20211124154500 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124154500 -0300" stop="20211124164500 -0300" channel="Record News">
+    <title lang="pt">Balanço Geral</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124164500 -0300" stop="20211124180000 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <desc lang="pt">Em diferentes edições, o Hora News atualiza as notícias do Brasil e do mundo para que o telespectador comece e termine o dia bem informado.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124180000 -0300" stop="20211124190000 -0300" channel="Record News">
+    <title lang="pt">Link News</title>
+    <desc lang="pt">Os principais assuntos do dia transformadas em notícia por meio da interatividade com o telespectador.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124190000 -0300" stop="20211124190200 -0300" channel="Record News">
+    <title lang="pt">Boletim A Fazenda News</title>
+    <desc lang="pt">A nova temporada do reality show terá 20 peões confinados.</desc>
+    <date>2021</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211124190200 -0300" stop="20211124191300 -0300" channel="Record News">
+    <title lang="pt">JR Entrevista</title>
+    <desc lang="pt">O programa traz entrevistas de destaque dos poderes Executivo, Legislativo e Judiciário.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124191300 -0300" stop="20211124191500 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124191500 -0300" stop="20211124193000 -0300" channel="Record News">
+    <title lang="pt">Inova 360</title>
+    <desc lang="pt">O programa busca ativar o ímpeto empreendedor e fomentar empresas a agregar valor, gerar mais empregos, inovação e crescimento.</desc>
+    <category lang="pt">Variedades (Cultural)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124193000 -0300" stop="20211124194300 -0300" channel="Record News">
+    <title lang="pt">JR Trade</title>
+    <desc lang="pt">Sergio Aguiar comanda o JR Trade, com conversas com os maiores nomes da publicidade brasileira, diretores de marketing e representantes de grandes agências e empresas.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124194300 -0300" stop="20211124194500 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124194500 -0300" stop="20211124195800 -0300" channel="Record News">
+    <title lang="pt">JR Trade</title>
+    <desc lang="pt">Sergio Aguiar comanda o JR Trade, com conversas com os maiores nomes da publicidade brasileira, diretores de marketing e representantes de grandes agências e empresas.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124195800 -0300" stop="20211124200300 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124200300 -0300" stop="20211124210000 -0300" channel="Record News">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa cujas principais características são a agilidade na apresentação das notícias, o dinamismo na cobertura dos principais fatos, a produção de reportagens especiais, a elaboração de matérias exclusivas e investigativas e a credibilidade de profissionais experientes e consagrados no jornalismo brasileiro.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124210000 -0300" stop="20211124220000 -0300" channel="Record News">
+    <title lang="pt">Jornal da Record News</title>
+    <desc lang="pt">O JR News é o principal telejornal da emissora. Analítico e premiado, o telejornal conta com entrevistados especiais e uma equipe de comentaristas conceituados.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124220000 -0300" stop="20211124223500 -0300" channel="Record News">
+    <title lang="pt">News das 10</title>
+    <desc lang="pt">Um jornal ágil e dinâmico com a informação essencial do dia no Brasil e mundo.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124223500 -0300" stop="20211124223700 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124223700 -0300" stop="20211124231300 -0300" channel="Record News">
+    <title lang="pt">Zapping</title>
+    <desc lang="pt">O Zapping mostra as curiosidades e os bastidores da televisão, cinema, moda e música.</desc>
+    <category lang="pt">Variedades (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124231300 -0300" stop="20211124231500 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124231500 -0300" stop="20211124235800 -0300" channel="Record News">
+    <title lang="pt">Aldeia News</title>
+    <desc lang="pt">Turismo, esportes radicais e outras modalidades estão no Aldeia Global.</desc>
+    <category lang="pt">Variedades (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124235800 -0300" stop="20211125000000 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125000000 -0300" stop="20211125005800 -0300" channel="Record News">
+    <title lang="pt">A Fazenda News</title>
+    <desc lang="pt">Com apresentação da Fabiana Oliveira. A atração traz imagens em tempo real, entrevistas e análises do jogo.</desc>
+    <date>2021</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125005800 -0300" stop="20211125010000 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125010000 -0300" stop="20211125014300 -0300" channel="Record News">
+    <title lang="pt">Balanço Geral</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125014300 -0300" stop="20211125014500 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125014500 -0300" stop="20211125021300 -0300" channel="Record News">
+    <title lang="pt">Balanço Geral</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125021300 -0300" stop="20211125021500 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125021500 -0300" stop="20211125031300 -0300" channel="Record News">
+    <title lang="pt">Balanço Geral</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125031300 -0300" stop="20211125031500 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125031500 -0300" stop="20211125041300 -0300" channel="Record News">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa cujas principais características são a agilidade na apresentação das notícias, o dinamismo na cobertura dos principais fatos, a produção de reportagens especiais, a elaboração de matérias exclusivas e investigativas e a credibilidade de profissionais experientes e consagrados no jornalismo brasileiro.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125041300 -0300" stop="20211125041500 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125041500 -0300" stop="20211125044300 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <desc lang="pt">Em diferentes edições, o Hora News atualiza as notícias do Brasil e do mundo para que o telespectador comece e termine o dia bem informado.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125044300 -0300" stop="20211125044500 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125044500 -0300" stop="20211125053000 -0300" channel="Record News">
+    <title lang="pt">Link News</title>
+    <desc lang="pt">Os principais assuntos do dia transformadas em notícia por meio da interatividade com o telespectador.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125053000 -0300" stop="20211125061300 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <desc lang="pt">Em diferentes edições, o Hora News atualiza as notícias do Brasil e do mundo para que o telespectador comece e termine o dia bem informado.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125061300 -0300" stop="20211125061500 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125061500 -0300" stop="20211125062800 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <desc lang="pt">Em diferentes edições, o Hora News atualiza as notícias do Brasil e do mundo para que o telespectador comece e termine o dia bem informado.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125062800 -0300" stop="20211125063000 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125063000 -0300" stop="20211125065800 -0300" channel="Record News">
+    <title lang="pt">Nosso Tempo</title>
+    <desc lang="pt">Um programa da Igreja Universal do Reino de Deus. O Bispo Rogério leva uma palavra de fé e esperança a todos os internautas.</desc>
+    <category lang="pt">Variedades (Religião)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125065800 -0300" stop="20211125070000 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125070000 -0300" stop="20211125071500 -0300" channel="Record News">
+    <title lang="pt">Record News Rural</title>
+    <desc lang="pt">O Record News Rural leva as novidades do agronegócio, empreendedorismo agrícola, cotações e comportamento rural.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125071500 -0300" stop="20211125081300 -0300" channel="Record News">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa cujas principais características são a agilidade na apresentação das notícias, o dinamismo na cobertura dos principais fatos, a produção de reportagens especiais, a elaboração de matérias exclusivas e investigativas e a credibilidade de profissionais experientes e consagrados no jornalismo brasileiro.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125081300 -0300" stop="20211125081500 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125081500 -0300" stop="20211125090000 -0300" channel="Record News">
+    <title lang="pt">Mundo Record News</title>
+    <desc lang="pt">Telejornal que atualiza o que é notícia pelo mundo.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125090000 -0300" stop="20211125090200 -0300" channel="Record News">
+    <title lang="pt">Boletim A Fazenda News</title>
+    <desc lang="pt">A nova temporada do reality show terá 20 peões confinados.</desc>
+    <date>2021</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125090200 -0300" stop="20211125100000 -0300" channel="Record News">
+    <title lang="pt">Alerta Brasil</title>
+    <desc lang="pt">Alerta Brasil terá reportagens próprias mescladas com o conteúdo das edições regionais do Cidade Alerta, exibidas pelas filiadas e afiliadas da Record.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125100000 -0300" stop="20211125104300 -0300" channel="Record News">
+    <title lang="pt">Fala Brasil</title>
+    <desc lang="pt">As manhãs de segunda a sábado da Record TV são marcadas pelo bom jornalismo do Fala Brasil. O telejornal matinal traz, em primeira mão, as notícias do dia do Brasil e do mundo.</desc>
+    <credits>
+      <actor>Mariana Godoy</actor>
+      <actor>Sergio Aguiar</actor>
+    </credits>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125104300 -0300" stop="20211125104500 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125104500 -0300" stop="20211125110000 -0300" channel="Record News">
+    <title lang="pt">Fala Brasil</title>
+    <desc lang="pt">As manhãs de segunda a sábado da Record TV são marcadas pelo bom jornalismo do Fala Brasil. O telejornal matinal traz, em primeira mão, as notícias do dia do Brasil e do mundo.</desc>
+    <credits>
+      <actor>Mariana Godoy</actor>
+      <actor>Sergio Aguiar</actor>
+    </credits>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125110000 -0300" stop="20211125115800 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <desc lang="pt">Em diferentes edições, o Hora News atualiza as notícias do Brasil e do mundo para que o telespectador comece e termine o dia bem informado.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125115800 -0300" stop="20211125120000 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125120000 -0300" stop="20211125124300 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <desc lang="pt">Em diferentes edições, o Hora News atualiza as notícias do Brasil e do mundo para que o telespectador comece e termine o dia bem informado.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125124300 -0300" stop="20211125124500 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125124500 -0300" stop="20211125130000 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <desc lang="pt">Em diferentes edições, o Hora News atualiza as notícias do Brasil e do mundo para que o telespectador comece e termine o dia bem informado.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125130000 -0300" stop="20211125130200 -0300" channel="Record News">
+    <title lang="pt">Boletim A Fazenda News</title>
+    <desc lang="pt">A nova temporada do reality show terá 20 peões confinados.</desc>
+    <date>2021</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125130200 -0300" stop="20211125132800 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <desc lang="pt">Em diferentes edições, o Hora News atualiza as notícias do Brasil e do mundo para que o telespectador comece e termine o dia bem informado.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125132800 -0300" stop="20211125133000 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125133000 -0300" stop="20211125135800 -0300" channel="Record News">
+    <title lang="pt">Mundo Record News</title>
+    <desc lang="pt">Telejornal que atualiza o que é notícia pelo mundo.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125135800 -0300" stop="20211125140000 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125140000 -0300" stop="20211125145800 -0300" channel="Record News">
+    <title lang="pt">Record News Séries</title>
+    <desc lang="pt">Matérias marcantes e de grande repercussão no jornalismo nacional. Record News Séries leva até o telespectador grandes reportagens de diversos temas com uma abordagem ampla e aprofundada.</desc>
+    <date>2021</date>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125145800 -0300" stop="20211125150000 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125150000 -0300" stop="20211125152800 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <desc lang="pt">Em diferentes edições, o Hora News atualiza as notícias do Brasil e do mundo para que o telespectador comece e termine o dia bem informado.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125152800 -0300" stop="20211125153000 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125153000 -0300" stop="20211125154300 -0300" channel="Record News">
+    <title lang="pt">Balanço Geral</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125154300 -0300" stop="20211125154500 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125154500 -0300" stop="20211125164500 -0300" channel="Record News">
+    <title lang="pt">Balanço Geral</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125164500 -0300" stop="20211125180000 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <desc lang="pt">Em diferentes edições, o Hora News atualiza as notícias do Brasil e do mundo para que o telespectador comece e termine o dia bem informado.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125180000 -0300" stop="20211125190000 -0300" channel="Record News">
+    <title lang="pt">Link News</title>
+    <desc lang="pt">Os principais assuntos do dia transformadas em notícia por meio da interatividade com o telespectador.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125190000 -0300" stop="20211125190200 -0300" channel="Record News">
+    <title lang="pt">Boletim A Fazenda News</title>
+    <desc lang="pt">A nova temporada do reality show terá 20 peões confinados.</desc>
+    <date>2021</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125190200 -0300" stop="20211125191300 -0300" channel="Record News">
+    <title lang="pt">JR Entrevista</title>
+    <desc lang="pt">O programa traz entrevistas de destaque dos poderes Executivo, Legislativo e Judiciário.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125191300 -0300" stop="20211125191500 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125191500 -0300" stop="20211125193000 -0300" channel="Record News">
+    <title lang="pt">Inova 360</title>
+    <desc lang="pt">O programa busca ativar o ímpeto empreendedor e fomentar empresas a agregar valor, gerar mais empregos, inovação e crescimento.</desc>
+    <category lang="pt">Variedades (Cultural)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125193000 -0300" stop="20211125194300 -0300" channel="Record News">
+    <title lang="pt">JR Mundo</title>
+    <desc lang="pt">O JR Mundo, apresentado por André Tal, apresenta debates sobre política internacional e realidade mundial com diplomatas e especialistas no tema.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125194300 -0300" stop="20211125194500 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125194500 -0300" stop="20211125195800 -0300" channel="Record News">
+    <title lang="pt">JR Mundo</title>
+    <desc lang="pt">O JR Mundo, apresentado por André Tal, apresenta debates sobre política internacional e realidade mundial com diplomatas e especialistas no tema.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125195800 -0300" stop="20211125200000 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125200000 -0300" stop="20211125210000 -0300" channel="Record News">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa cujas principais características são a agilidade na apresentação das notícias, o dinamismo na cobertura dos principais fatos, a produção de reportagens especiais, a elaboração de matérias exclusivas e investigativas e a credibilidade de profissionais experientes e consagrados no jornalismo brasileiro.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125210000 -0300" stop="20211125220000 -0300" channel="Record News">
+    <title lang="pt">Jornal da Record News</title>
+    <desc lang="pt">O JR News é o principal telejornal da emissora. Analítico e premiado, o telejornal conta com entrevistados especiais e uma equipe de comentaristas conceituados.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125220000 -0300" stop="20211125222500 -0300" channel="Record News">
+    <title lang="pt">News das 10</title>
+    <desc lang="pt">Um jornal ágil e dinâmico com a informação essencial do dia no Brasil e mundo.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125222500 -0300" stop="20211125223700 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125223700 -0300" stop="20211125231300 -0300" channel="Record News">
+    <title lang="pt">Zapping</title>
+    <desc lang="pt">O Zapping mostra as curiosidades e os bastidores da televisão, cinema, moda e música.</desc>
+    <category lang="pt">Variedades (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125231300 -0300" stop="20211125231500 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125231500 -0300" stop="20211125235800 -0300" channel="Record News">
+    <title lang="pt">Aldeia News</title>
+    <desc lang="pt">Turismo, esportes radicais e outras modalidades estão no Aldeia Global.</desc>
+    <category lang="pt">Variedades (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124010000 -0300" stop="20211124014500 -0300" channel="SBT Rede - SAT Analógico">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt">O programa traz muitos entrevistados interessantes e alto índice de piadas por minuto, abordando os fatos mais e menos relevantes do dia.</desc>
+    <credits>
+      <director>João Mesquita</director>
+      <actor>Léo Lins</actor>
+      <actor>Murilo Couto</actor>
+      <actor>Juliana Oliveira</actor>
+      <actor>Ultraje a Rigor</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Variedades (Comédia)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211124014500 -0300" stop="20211124023000 -0300" channel="SBT Rede - SAT Analógico">
+    <title lang="pt">Operação Mesquita</title>
+    <desc lang="pt">Operação Mesquita se propõe a descobrir o lado B dos famosos. E também de anônimos. O grande diferencial da atração é a ausência de estúdio: todo o programa é feito sobre rodas; os passantes fazem às vezes de auditório.</desc>
+    <category lang="pt">Variedades (Entrevista)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211124023000 -0300" stop="20211124031500 -0300" channel="SBT Rede - SAT Analógico">
+    <title lang="pt">Conexão Repórter</title>
+    <desc lang="pt">Roberto Cabrini comanda o Conexão Repórter. Com reportagens investigativas, denúncias, e com muita seriedade, ele mostra a realidade no Brasil e no Mundo.</desc>
+    <credits>
+      <director>Roberto Cabrini</director>
+      <director>Marcelo Parada</director>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124031500 -0300" stop="20211124040000 -0300" channel="SBT Rede - SAT Analógico">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo são apresentados aos telespectadores com independência, análise, opinião e isenção, num formato de linguagem visual diferenciada.</desc>
+    <credits>
+      <director>Marcelo Parada</director>
+      <actor>Rachel Sheherazade</actor>
+      <actor>Joseval Peixoto</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124040000 -0300" stop="20211124093000 -0300" channel="SBT Rede - SAT Analógico">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo.</desc>
+    <date>2016</date>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124093000 -0300" stop="20211124110000 -0300" channel="SBT Rede - SAT Analógico">
+    <title lang="pt">Vem Pra Cá</title>
+    <desc lang="pt">O programa reúne tudo que o telespectador precisa saber pra começar bem o seu dia.</desc>
+    <credits>
+      <director>Marcelo Kestenbaum</director>
+      <actor>Patricia Abravanel</actor>
+      <actor>Gabriel Cartolano</actor>
+    </credits>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211124110000 -0300" stop="20211124134500 -0300" channel="SBT Rede - SAT Analógico">
+    <title lang="pt">Bom Dia &amp; Cia</title>
+    <desc lang="pt">De segunda a sexta, as manhãs do SBT ficam muito mais divertidas com o Bom Dia &amp; Cia, um programa que traz os melhores desenhos da televisão brasileira e muitas brincadeiras com o telespectador.</desc>
+    <credits>
+      <director>Silvia Abravanel</director>
+      <actor>Ana Julia</actor>
+      <actor>Matheus Ueta</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Infantil (Programa)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124134500 -0300" stop="20211124141500 -0300" channel="SBT Rede - SAT Analógico">
+    <title lang="pt">Informes Comerciais</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços.</desc>
+    <date>2014</date>
+    <category lang="pt">Variedades (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124141500 -0300" stop="20211124151500 -0300" channel="SBT Rede - SAT Analógico">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Quando criança, Raymond Manchester ativou em si mesmo, acidentalmente, uma invenção científica de seu pai, sendo assim transformado em um super-humano indestrutível.</desc>
+    <credits>
+      <director>Steve Hoefer</director>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Jed Alexander</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Jace Norman</actor>
+      <actor>William Romeo</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Infantil)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124151500 -0300" stop="20211124163000 -0300" channel="SBT Rede - SAT Analógico">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt">Em um formato remodelado, o Fofocalizando chega às suas tardes com informação e as principais fofocas do mundo dos famosos.</desc>
+    <category lang="pt">Variedades (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124163000 -0300" stop="20211124173000 -0300" channel="SBT Rede - SAT Analógico">
+    <title lang="pt">Casos de Família</title>
+    <desc lang="pt">Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos.</desc>
+    <credits>
+      <director>Rafael Bello</director>
+      <director>Melissa Ribeiro</director>
+      <director>Raul Garin</director>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Variedades (Debate)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124173000 -0300" stop="20211124183000 -0300" channel="SBT Rede - SAT Analógico">
+    <title lang="pt">Coração Indomável</title>
+    <sub-title lang="pt">Corazón Indomable</sub-title>
+    <desc lang="pt">Depois de ser humilhada, por sua condição humilde, Maricruz muda de identidade e se vinga da família Narváez quando se torna uma mulher rica e poderosa, mostrando ser dona de um Coração Indomável.</desc>
+    <credits>
+      <director>Nathalie Lartilleux</director>
+      <actor>Ana Brenda Contreras</actor>
+      <actor>Daniel Arenas</actor>
+      <actor>Elizabeth Álvarez</actor>
+      <actor>René Strickler</actor>
+    </credits>
+    <category lang="pt">Variedades (Novela)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211124183000 -0300" stop="20211124194500 -0300" channel="SBT Rede - SAT Analógico">
+    <title lang="pt">Te Dou A Vida</title>
+    <desc lang="pt">Te dou a vida narra história de duas famílias que se conhecem por causa de Nicolas, o filho adotivo de Helena e Ernesto. Os três eram felizes até o menino ser diagnosticado com leucemia.</desc>
+    <credits>
+      <director>Lucero Suárez</director>
+      <actor>Jose Ron</actor>
+      <actor>Eva Cedeño</actor>
+      <actor>Jorge Salinas</actor>
+      <actor>Leonardo Herrera</actor>
+      <actor>Erika Buenfil</actor>
+      <actor>Omar Fierro</actor>
+      <actor>Danny Perea</actor>
+      <actor>César Évora</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Variedades (Novela)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211124194500 -0300" stop="20211124203000 -0300" channel="SBT Rede - SAT Analógico">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo são apresentados aos telespectadores com independência, análise, opinião e isenção, num formato de linguagem visual diferenciada.</desc>
+    <credits>
+      <director>Marcelo Parada</director>
+      <actor>Rachel Sheherazade</actor>
+      <actor>Joseval Peixoto</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124203000 -0300" stop="20211124221500 -0300" channel="SBT Rede - SAT Analógico">
+    <title lang="pt">Carinha de Anjo</title>
+    <sub-title lang="pt">Carita de Angel</sub-title>
+    <desc lang="pt">Dulce Maria, uma menina de 5 anos que é muito alegre e com bons pensamentos.</desc>
+    <credits>
+      <director>Ricardo Mantoanelli</director>
+      <actor>Lorena Queiroz</actor>
+      <actor>Jean Paulo Campos</actor>
+      <actor>Maisa Silva</actor>
+      <actor>Renata Randel</actor>
+      <actor>Siena Belle</actor>
+      <actor>Leonardo Oliveira</actor>
+    </credits>
+    <category lang="pt">Variedades (Novela)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124221500 -0300" stop="20211124224500 -0300" channel="SBT Rede - SAT Analógico">
+    <title lang="pt">Roda a Roda Jequiti</title>
+    <desc lang="pt">Já imaginou ganhar prêmios e até 1 milhão de reais? Isso é realidade para quem compra ou vende produtos Jequiti. Comandado por Silvio Santos o Roda a Roda Jequiti pode realizar seu sonho.</desc>
+    <credits>
+      <director>Silvia Abravanel</director>
+      <actor>Patrícia Abravanel</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Variedades (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211124224500 -0300" stop="20211125003000 -0300" channel="SBT Rede - SAT Analógico">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.</desc>
+    <credits>
+      <director>Walter Scaramuzzi</director>
+      <director>Lucimara Parisi</director>
+      <actor>Valentina</actor>
+      <actor>Milene Pavorô Uehara</actor>
+      <actor>Eduardo Mascarenhas</actor>
+      <actor>Marquito</actor>
+      <actor>Faxinildo</actor>
+      <actor>Rodela</actor>
+      <actor>Iran Thieme</actor>
+      <actor>Rhenata Tolksdorf</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Variedades (Diversos)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125003000 -0300" stop="20211125013000 -0300" channel="SBT Rede - SAT Analógico">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt">O programa traz muitos entrevistados interessantes e alto índice de piadas por minuto, abordando os fatos mais e menos relevantes do dia.</desc>
+    <credits>
+      <director>João Mesquita</director>
+      <actor>Léo Lins</actor>
+      <actor>Murilo Couto</actor>
+      <actor>Juliana Oliveira</actor>
+      <actor>Ultraje a Rigor</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Variedades (Comédia)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125013000 -0300" stop="20211125021500 -0300" channel="SBT Rede - SAT Analógico">
+    <title lang="pt">Operação Mesquita</title>
+    <desc lang="pt">Operação Mesquita se propõe a descobrir o lado B dos famosos. E também de anônimos. O grande diferencial da atração é a ausência de estúdio: todo o programa é feito sobre rodas; os passantes fazem às vezes de auditório.</desc>
+    <category lang="pt">Variedades (Entrevista)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125021500 -0300" stop="20211125031500 -0300" channel="SBT Rede - SAT Analógico">
+    <title lang="pt">Conexão Repórter</title>
+    <desc lang="pt">Roberto Cabrini comanda o Conexão Repórter. Com reportagens investigativas, denúncias, e com muita seriedade, ele mostra a realidade no Brasil e no Mundo.</desc>
+    <credits>
+      <director>Roberto Cabrini</director>
+      <director>Marcelo Parada</director>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125031500 -0300" stop="20211125040000 -0300" channel="SBT Rede - SAT Analógico">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo são apresentados aos telespectadores com independência, análise, opinião e isenção, num formato de linguagem visual diferenciada.</desc>
+    <credits>
+      <director>Marcelo Parada</director>
+      <actor>Rachel Sheherazade</actor>
+      <actor>Joseval Peixoto</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125040000 -0300" stop="20211125093000 -0300" channel="SBT Rede - SAT Analógico">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo.</desc>
+    <date>2016</date>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125093000 -0300" stop="20211125110000 -0300" channel="SBT Rede - SAT Analógico">
+    <title lang="pt">Vem Pra Cá</title>
+    <desc lang="pt">O programa reúne tudo que o telespectador precisa saber pra começar bem o seu dia.</desc>
+    <credits>
+      <director>Marcelo Kestenbaum</director>
+      <actor>Patricia Abravanel</actor>
+      <actor>Gabriel Cartolano</actor>
+    </credits>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125110000 -0300" stop="20211125134500 -0300" channel="SBT Rede - SAT Analógico">
+    <title lang="pt">Bom Dia &amp; Cia</title>
+    <desc lang="pt">De segunda a sexta, as manhãs do SBT ficam muito mais divertidas com o Bom Dia &amp; Cia, um programa que traz os melhores desenhos da televisão brasileira e muitas brincadeiras com o telespectador.</desc>
+    <credits>
+      <director>Silvia Abravanel</director>
+      <actor>Ana Julia</actor>
+      <actor>Matheus Ueta</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Infantil (Programa)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125134500 -0300" stop="20211125141500 -0300" channel="SBT Rede - SAT Analógico">
+    <title lang="pt">Informes Comerciais</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços.</desc>
+    <date>2014</date>
+    <category lang="pt">Variedades (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125141500 -0300" stop="20211125151500 -0300" channel="SBT Rede - SAT Analógico">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Quando criança, Raymond Manchester ativou em si mesmo, acidentalmente, uma invenção científica de seu pai, sendo assim transformado em um super-humano indestrutível.</desc>
+    <credits>
+      <director>Steve Hoefer</director>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Jed Alexander</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Jace Norman</actor>
+      <actor>William Romeo</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Infantil)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125151500 -0300" stop="20211125163000 -0300" channel="SBT Rede - SAT Analógico">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt">Em um formato remodelado, o Fofocalizando chega às suas tardes com informação e as principais fofocas do mundo dos famosos.</desc>
+    <category lang="pt">Variedades (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125163000 -0300" stop="20211125173000 -0300" channel="SBT Rede - SAT Analógico">
+    <title lang="pt">Casos de Família</title>
+    <desc lang="pt">Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos.</desc>
+    <credits>
+      <director>Rafael Bello</director>
+      <director>Melissa Ribeiro</director>
+      <director>Raul Garin</director>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Variedades (Debate)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125173000 -0300" stop="20211125183000 -0300" channel="SBT Rede - SAT Analógico">
+    <title lang="pt">Coração Indomável</title>
+    <sub-title lang="pt">Corazón Indomable</sub-title>
+    <desc lang="pt">Depois de ser humilhada, por sua condição humilde, Maricruz muda de identidade e se vinga da família Narváez quando se torna uma mulher rica e poderosa, mostrando ser dona de um Coração Indomável.</desc>
+    <credits>
+      <director>Nathalie Lartilleux</director>
+      <actor>Ana Brenda Contreras</actor>
+      <actor>Daniel Arenas</actor>
+      <actor>Elizabeth Álvarez</actor>
+      <actor>René Strickler</actor>
+    </credits>
+    <category lang="pt">Variedades (Novela)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211125183000 -0300" stop="20211125194500 -0300" channel="SBT Rede - SAT Analógico">
+    <title lang="pt">Te Dou A Vida</title>
+    <desc lang="pt">Te dou a vida narra história de duas famílias que se conhecem por causa de Nicolas, o filho adotivo de Helena e Ernesto. Os três eram felizes até o menino ser diagnosticado com leucemia.</desc>
+    <credits>
+      <director>Lucero Suárez</director>
+      <actor>Jose Ron</actor>
+      <actor>Eva Cedeño</actor>
+      <actor>Jorge Salinas</actor>
+      <actor>Leonardo Herrera</actor>
+      <actor>Erika Buenfil</actor>
+      <actor>Omar Fierro</actor>
+      <actor>Danny Perea</actor>
+      <actor>César Évora</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Variedades (Novela)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125194500 -0300" stop="20211125203000 -0300" channel="SBT Rede - SAT Analógico">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo são apresentados aos telespectadores com independência, análise, opinião e isenção, num formato de linguagem visual diferenciada.</desc>
+    <credits>
+      <director>Marcelo Parada</director>
+      <actor>Rachel Sheherazade</actor>
+      <actor>Joseval Peixoto</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125203000 -0300" stop="20211125221500 -0300" channel="SBT Rede - SAT Analógico">
+    <title lang="pt">Carinha de Anjo</title>
+    <sub-title lang="pt">Carita de Angel</sub-title>
+    <desc lang="pt">Dulce Maria, uma menina de 5 anos que é muito alegre e com bons pensamentos.</desc>
+    <credits>
+      <director>Ricardo Mantoanelli</director>
+      <actor>Lorena Queiroz</actor>
+      <actor>Jean Paulo Campos</actor>
+      <actor>Maisa Silva</actor>
+      <actor>Renata Randel</actor>
+      <actor>Siena Belle</actor>
+      <actor>Leonardo Oliveira</actor>
+    </credits>
+    <category lang="pt">Variedades (Novela)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125221500 -0300" stop="20211125231500 -0300" channel="SBT Rede - SAT Analógico">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.</desc>
+    <credits>
+      <director>Walter Scaramuzzi</director>
+      <director>Lucimara Parisi</director>
+      <actor>Valentina</actor>
+      <actor>Milene Pavorô Uehara</actor>
+      <actor>Eduardo Mascarenhas</actor>
+      <actor>Marquito</actor>
+      <actor>Faxinildo</actor>
+      <actor>Rodela</actor>
+      <actor>Iran Thieme</actor>
+      <actor>Rhenata Tolksdorf</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Variedades (Diversos)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
 </tv>
