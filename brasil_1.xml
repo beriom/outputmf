@@ -55565,4 +55565,3889 @@
       <value>12</value>
     </rating>
   </programme>
+  <programme start="20211125000000 -0300" stop="20211125010000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Máquinas Poderosas</title>
+    <sub-title lang="pt">Mighty Ships</sub-title>
+    <desc lang="pt">Estas maravilhas da tecnologia marítima transportam cargas colossais, levam energia a vilarejos inteiros e proporcionam o melhor do entretenimento a milhares de passageiros.</desc>
+    <credits>
+      <director>Karen Mccairley</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125010000 -0300" stop="20211125020000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Aeroporto Alasca</title>
+    <sub-title lang="pt">Ice Airport Alaska</sub-title>
+    <desc lang="pt">Um dia recorde de nevasca ameaça fechar o aeroporto, prejudicando o espaço aéreo. Essas condições congelantes causam um acidente com um caminhão de quase dez toneladas. Uma aeronave de bilhões de dólares pode não ser segura o suficiente para levantar voo. E um alce selvagem invade o aeroporto, enquanto uma remessa de produtos falsificados é interceptada.</desc>
+    <credits>
+      <director>John Cavanagh</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125020000 -0300" stop="20211125030000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Guerreiros do Ar</title>
+    <sub-title lang="pt">Air Warriors</sub-title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <director>Brian Armstrong</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125030000 -0300" stop="20211125040000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Aéreas Grã-Bretanha</title>
+    <sub-title lang="pt">Aerial Britain</sub-title>
+    <desc lang="pt">Este documentário aéreo mostra a cultura diversificada, os fascinantes relatos humanos e a história incrível do Norte da Inglaterra. Explorando impressionantes cidades modernas, paisagens dramáticas e florestas ancestrais, nós vasculhamos as lendas e os heróis que definem essa região.</desc>
+    <credits>
+      <director>Charles Poe</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125040000 -0300" stop="20211125050000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Aeroporto Alasca</title>
+    <sub-title lang="pt">Ice Airport Alaska</sub-title>
+    <desc lang="pt">O inverno implacável do Alasca não dá nenhum sinal de alívio, e uma nevasca de nível recorde ameaça a segurança nas pistas.</desc>
+    <credits>
+      <director>John Cavanagh</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125050000 -0300" stop="20211125060000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Tibet Selvagem</title>
+    <sub-title lang="pt">Into The Wild Tibet</sub-title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <director>Tria Thalman</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125060000 -0300" stop="20211125070000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Reparação Impossível</title>
+    <sub-title lang="pt">Impossible Repairs</sub-title>
+    <desc lang="pt">Neste episódio de "Reparação Impossível", o apresentador Michael Davidson sobe a bordo do gigantesco guindaste voador Erickson S64, um dos maiores, mais resistentes e versáteis helicópteros do mundo.</desc>
+    <credits>
+      <director>John Cavanagh</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125070000 -0300" stop="20211125080000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Aéreas Grécia</title>
+    <desc lang="pt">É preciso ver para crer as ilhas cíclades da grécia. Dos pontos turísticos de míkonos e santorini à grandeza oculta de naxos e amorgos, este terceiro episódio da série aéreas grécia deixará o espectador surpreso e fascinado.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125080000 -0300" stop="20211125090000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Os Reis do Acordeão</title>
+    <desc lang="pt">Viaje até a Colômbia e veja os bastidores do Festival dos Reis do Vallenato, onde uma vez a cada década, músicos se envolvem em uma intensa batalha pelo título de Rei do Acordeão.</desc>
+    <credits>
+      <director>Alan Tomlinson</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125090000 -0300" stop="20211125100000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Máquinas Poderosas</title>
+    <sub-title lang="pt">Mighty Ships</sub-title>
+    <desc lang="pt">Estas maravilhas da tecnologia marítima transportam cargas colossais, levam energia a vilarejos inteiros e proporcionam o melhor do entretenimento a milhares de passageiros.</desc>
+    <credits>
+      <director>Karen Mccairley</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125100000 -0300" stop="20211125110000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Aeroporto Alasca</title>
+    <sub-title lang="pt">Ice Airport Alaska</sub-title>
+    <desc lang="pt">Um dia recorde de nevasca ameaça fechar o aeroporto, prejudicando o espaço aéreo. Essas condições congelantes causam um acidente com um caminhão de quase dez toneladas. Uma aeronave de bilhões de dólares pode não ser segura o suficiente para levantar voo. E um alce selvagem invade o aeroporto, enquanto uma remessa de produtos falsificados é interceptada.</desc>
+    <credits>
+      <director>John Cavanagh</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125110000 -0300" stop="20211125120000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Aéreas</title>
+    <sub-title lang="pt">Aerial America</sub-title>
+    <desc lang="pt">De lugares famosos e históricos a paisagens inóspitas e intocadas, o programa exibe imagens incríveis de diversas localidades urbanas e rurais dos Estados Unidos.</desc>
+    <credits>
+      <director>Toby Beach</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125120000 -0300" stop="20211125130000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Incríveis Máquinas Voadoras</title>
+    <desc lang="pt">Quando o jet pack realizou o primeiro voo, na década de 1960, 50 anos depois, não mudou muita coisa, mas os engenheiros visionários trabalham sem parar para deixá-lo mais silencioso, mais seguro e mais prático. Será que eles vão conseguir?</desc>
+    <credits>
+      <director>Pip Gilmour</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E75</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125130000 -0300" stop="20211125140000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Reparação Impossível</title>
+    <sub-title lang="pt">Impossible Repairs</sub-title>
+    <desc lang="pt">Neste episódio de "Reparação Impossível", o apresentador Michael Davidson sobe a bordo do gigantesco guindaste voador Erickson S64, um dos maiores, mais resistentes e versáteis helicópteros do mundo.</desc>
+    <credits>
+      <director>John Cavanagh</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125140000 -0300" stop="20211125150000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Por Dentro dos Castelos Britânicos</title>
+    <sub-title lang="pt">An American Aristocrat's Guide To Great Estates</sub-title>
+    <desc lang="pt">Acompanhe Julie Montagu, a viscondessa Hinchingbrooke, enquanto ela visita a herdeira da propriedade, Imogen Hervey-Bathurst, e tem uma visão completa do castelo de 97 quartos.</desc>
+    <credits>
+      <director>Charles Poe</director>
+      <actor>Julie Montagu</actor>
+      <actor>Torquhil Campbell</actor>
+      <actor>Eleanor Campbell</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125150000 -0300" stop="20211125160000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Aéreas África</title>
+    <desc lang="pt">Voe sobre o extenso deserto do Kalahari de botsuana, através de seu vivo delta do Okavango, e se aprofunde em sua história dinâmica.</desc>
+    <credits>
+      <director>Peter Lamberti</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125160000 -0300" stop="20211125170000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Lugares Sagrados</title>
+    <sub-title lang="pt">Sacred Sites</sub-title>
+    <desc lang="pt">Junte-se a nós enquanto viajamos pelo Mediterrâneo, para visitar locais onde as previsões dos oráculos determinaram o destino das nações e examinar a conexão entre a humanidade e o que pode ser o local mais sagrado de todos: a própria terra.</desc>
+    <credits>
+      <director>David Ryan</director>
+      <director>Stephen Rooke</director>
+      <actor>Karim Elidrissi</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125170000 -0300" stop="20211125180000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Aeroporto Alasca</title>
+    <sub-title lang="pt">Ice Airport Alaska</sub-title>
+    <desc lang="pt">O Aeroporto Internacional Ted Stevens está no centro da pandemia mundial do coronavírus, com mais de 200 cidadãos americanos chegando em um voo de evacuação de emergência direto da China. E, pela primeira vez no mundo, helicópteros Rotak tentam transportar um avião hospitalar que caiu em um lago remoto do Alasca.</desc>
+    <credits>
+      <director>John Cavanagh</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125180000 -0300" stop="20211125183000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Estilo Arte 1</title>
+    <desc lang="pt">Produção própria do canal, o programa Estilo Arte 1 apresenta as principais tendências em arquitetura, design, moda e alta gastronomia no Brasil e no mundo.</desc>
+    <credits>
+      <director>Caio Luiz de Carvalho</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Variedades (Diversos)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125183000 -0300" stop="20211125190000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Estilo Arte 1</title>
+    <desc lang="pt">Produção própria do canal, o programa Estilo Arte 1 apresenta as principais tendências em arquitetura, design, moda e alta gastronomia no Brasil e no mundo.</desc>
+    <credits>
+      <director>Caio Luiz de Carvalho</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Variedades (Diversos)</category>
+    <episode-num system="onscreen">S6 E13</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125190000 -0300" stop="20211125200000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Aéreas</title>
+    <sub-title lang="pt">Aerial America</sub-title>
+    <desc lang="pt">Este emocionante passeio leva você até as grandes e pequenas cidades, onde a tradição prospera junto com os ideais de liberdade. Do hot-dog ao chocolate, de Andy Warhol ao Rocky Balboa, este passeio aéreo da Pensilvânia agrada a todos!</desc>
+    <credits>
+      <director>Toby Beach</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S6 E14</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125200000 -0300" stop="20211125210000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Aéreas Irlanda</title>
+    <desc lang="pt">De paisagens primitivas forjadas por geleiras em retração da idade do gelo a tumbas neolíticas e fortes pré-históricos da era celta, à gloriosa arquitetura da igreja celta primitiva.</desc>
+    <credits>
+      <director>David Ryan</director>
+      <director>Stephen Rooke</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125210000 -0300" stop="20211125220000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Máquinas Poderosas</title>
+    <sub-title lang="pt">Mighty Ships</sub-title>
+    <desc lang="pt">Estas maravilhas da tecnologia marítima transportam cargas colossais, levam energia a vilarejos inteiros e proporcionam o melhor do entretenimento a milhares de passageiros.</desc>
+    <credits>
+      <director>Joy Galane</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125220000 -0300" stop="20211125230000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Máquinas Poderosas</title>
+    <sub-title lang="pt">Mighty Ships</sub-title>
+    <desc lang="pt">Estas maravilhas da tecnologia marítima transportam cargas colossais, levam energia a vilarejos inteiros e proporcionam o melhor do entretenimento a milhares de passageiros.</desc>
+    <credits>
+      <director>Joy Galane</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125230000 -0300" stop="20211126000000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Aéreas Grã-Bretanha</title>
+    <sub-title lang="pt">Aerial Britain</sub-title>
+    <desc lang="pt">Este documentário aéreo explora a antiga terra de gales através de uma série de narrativas envolventes e histórias humanas.</desc>
+    <credits>
+      <director>Charles Poe</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126000000 -0300" stop="20211126010000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Aéreas Irlanda</title>
+    <desc lang="pt">De paisagens primitivas forjadas por geleiras em retração da idade do gelo a tumbas neolíticas e fortes pré-históricos da era celta, à gloriosa arquitetura da igreja celta primitiva.</desc>
+    <credits>
+      <director>David Ryan</director>
+      <director>Stephen Rooke</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126010000 -0300" stop="20211126020000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Máquinas Poderosas</title>
+    <sub-title lang="pt">Mighty Ships</sub-title>
+    <desc lang="pt">Estas maravilhas da tecnologia marítima transportam cargas colossais, levam energia a vilarejos inteiros e proporcionam o melhor do entretenimento a milhares de passageiros.</desc>
+    <credits>
+      <director>Joy Galane</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126020000 -0300" stop="20211126030000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Máquinas Poderosas</title>
+    <sub-title lang="pt">Mighty Ships</sub-title>
+    <desc lang="pt">Estas maravilhas da tecnologia marítima transportam cargas colossais, levam energia a vilarejos inteiros e proporcionam o melhor do entretenimento a milhares de passageiros.</desc>
+    <credits>
+      <director>Joy Galane</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126030000 -0300" stop="20211126040000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Aéreas Grã-Bretanha</title>
+    <sub-title lang="pt">Aerial Britain</sub-title>
+    <desc lang="pt">Este documentário aéreo explora a antiga terra de gales através de uma série de narrativas envolventes e histórias humanas.</desc>
+    <credits>
+      <director>Charles Poe</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126040000 -0300" stop="20211126050000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Máquinas Poderosas</title>
+    <sub-title lang="pt">Mighty Ships</sub-title>
+    <desc lang="pt">Estas maravilhas da tecnologia marítima transportam cargas colossais, levam energia a vilarejos inteiros e proporcionam o melhor do entretenimento a milhares de passageiros.</desc>
+    <credits>
+      <director>Karen Mccairley</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126050000 -0300" stop="20211126060000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Como se Faz</title>
+    <sub-title lang="pt">Inside The Food Factory</sub-title>
+    <desc lang="pt">Gregg Wallace explora a fábrica Ribena, rm Gloucestershire. Ela transforma 90% do cassis existente no Reino Unido em refrigerantes, produzindo três bilhões de garrafas por semana.</desc>
+    <credits>
+      <director>Joy Galane</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126060000 -0300" stop="20211126070000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Rei dos Leões do Deserto</title>
+    <desc lang="pt">Conheça os "cinco mosqueteiros", cinco leões irmãos inseparáveis do deserto da Namíbia. Quando enfim eles se tornam independentes da mãe, eles se aventuram pelo deserto em busca do seu próprio reino.</desc>
+    <credits>
+      <director>Will Steenkamp</director>
+      <director>Lianne Steenkamp</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126070000 -0300" stop="20211126080000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Aéreas Grécia</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126080000 -0300" stop="20211126090000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Reparação Impossível</title>
+    <sub-title lang="pt">Impossible Repairs</sub-title>
+    <desc lang="pt">Neste episódio de "Reparação Impossível", o apresentador Michael Davidson sobe a bordo do gigantesco guindaste voador Erickson S64, um dos maiores, mais resistentes e versáteis helicópteros do mundo.</desc>
+    <credits>
+      <director>John Cavanagh</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126090000 -0300" stop="20211126100000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Lugares Sagrados</title>
+    <sub-title lang="pt">Sacred Sites</sub-title>
+    <desc lang="pt">Descubra o papel que as ocorrências celestiais têm desempenhado nas crenças e práticas religiosas irlandesas à medida que exploramos antigos locais sagrados e até mesmo os céus.</desc>
+    <credits>
+      <director>David Ryan</director>
+      <director>Stephen Rooke</director>
+      <actor>Karim Elidrissi</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126100000 -0300" stop="20211126110000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Máquinas Poderosas</title>
+    <sub-title lang="pt">Mighty Ships</sub-title>
+    <desc lang="pt">Estas maravilhas da tecnologia marítima transportam cargas colossais, levam energia a vilarejos inteiros e proporcionam o melhor do entretenimento a milhares de passageiros.</desc>
+    <credits>
+      <director>Joy Galane</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126110000 -0300" stop="20211126120000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Aéreas</title>
+    <sub-title lang="pt">Aerial America</sub-title>
+    <desc lang="pt">De lugares famosos e históricos a paisagens inóspitas e intocadas, o programa exibe imagens incríveis de diversas localidades urbanas e rurais dos Estados Unidos.</desc>
+    <credits>
+      <director>Toby Beach</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126120000 -0300" stop="20211126130000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Aeroporto Alasca</title>
+    <sub-title lang="pt">Ice Airport Alaska</sub-title>
+    <desc lang="pt">O Aeroporto Internacional Ted Stevens está no centro da pandemia mundial do coronavírus, com mais de 200 cidadãos americanos chegando em um voo de evacuação de emergência direto da China. E, pela primeira vez no mundo, helicópteros Rotak tentam transportar um avião hospitalar que caiu em um lago remoto do Alasca.</desc>
+    <credits>
+      <director>John Cavanagh</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E76</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126130000 -0300" stop="20211126140000 -0300" channel="Smithsonian HD">
+    <title lang="pt">No Território dos Pumas</title>
+    <sub-title lang="pt">Into The Puma Triangle</sub-title>
+    <desc lang="pt">De uma maneira completamente diferente da ciência e de observações anteriores, este filme mostrará que os pumas do parque nacional Torres Del Paine do Chile são animais sociais.</desc>
+    <credits>
+      <director>René Araneda</director>
+      <actor>Casey Anderson</actor>
+      <actor>René Araneda</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126140000 -0300" stop="20211126150000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Reparação Impossível</title>
+    <sub-title lang="pt">Impossible Repairs</sub-title>
+    <desc lang="pt">Neste episódio de "Reparação Impossível", o apresentador Michael Davidson sobe a bordo do gigantesco guindaste voador Erickson S64, um dos maiores, mais resistentes e versáteis helicópteros do mundo.</desc>
+    <credits>
+      <director>John Cavanagh</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126150000 -0300" stop="20211126160000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Aéreas África</title>
+    <desc lang="pt">No extremo sul da África, onde dois oceanos colidem violentamente, a espetacular montanha da mesa, de topo pano, vigia uma metrópole de culturas e pessoas ricamente diversificadas.</desc>
+    <credits>
+      <director>Peter Lamberti</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126160000 -0300" stop="20211126170000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Mundo da Música: Folkway Records</title>
+    <desc lang="pt">Veja como o fundador da Folkways Records, Moses Asch, balançou o modelo de negócios da indústria da música.</desc>
+    <credits>
+      <director>Andrea Kalin</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126170000 -0300" stop="20211126180000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Máquinas Poderosas</title>
+    <sub-title lang="pt">Mighty Ships</sub-title>
+    <desc lang="pt">Estas maravilhas da tecnologia marítima transportam cargas colossais, levam energia a vilarejos inteiros e proporcionam o melhor do entretenimento a milhares de passageiros.</desc>
+    <credits>
+      <director>Karen Mccairley</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126180000 -0300" stop="20211126183000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Especial Arte 1</title>
+    <desc lang="pt">Artistas de várias áreas das artes falam sobre suas carreiras e obras. Eles relembram como começaram na profissão, suas referências e parcerias, explicam escolhas e refletem sobre suas trajetórias.</desc>
+    <credits>
+      <director>Serena Ucelli</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126183000 -0300" stop="20211126190000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Especial Arte 1</title>
+    <desc lang="pt">Artistas de várias áreas das artes falam sobre suas carreiras e obras. Eles relembram como começaram na profissão, suas referências e parcerias, explicam escolhas e refletem sobre suas trajetórias.</desc>
+    <credits>
+      <director>Serena Ucelli</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126190000 -0300" stop="20211126200000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Aéreas</title>
+    <sub-title lang="pt">Turquia</sub-title>
+    <desc lang="pt">No céu azul de Capadócia bem no coração da Turquia, Sylvestre Campe e Dean Eldrigde voam entre balões de ar quente de todas as cores e "chaminés de fada" com todas as formas e tons de cinza.</desc>
+    <credits>
+      <director>Sylvestre Campe</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries (Radical)</category>
+    <episode-num system="onscreen">S2 E14</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126200000 -0300" stop="20211126210000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Por Dentro dos Castelos Britânicos</title>
+    <sub-title lang="pt">An American Aristocrat's Guide To Great Estates</sub-title>
+    <desc lang="pt">Acompanhe Julie Montagu, a viscondessa Hinchingbrooke, enquanto ela visita a herdeira da propriedade, Imogen Hervey-Bathurst, e tem uma visão completa do castelo de 97 quartos.</desc>
+    <credits>
+      <director>Charles Poe</director>
+      <actor>Julie Montagu</actor>
+      <actor>Torquhil Campbell</actor>
+      <actor>Eleanor Campbell</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126210000 -0300" stop="20211126220000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Lugares Sagrados</title>
+    <sub-title lang="pt">Sacred Sites</sub-title>
+    <desc lang="pt">Junte-se a nós enquanto entramos em locais sagrados esculpidos em penhascos e revelamos uma civilização onde as mulheres exerceram um poder incomparável por séculos.</desc>
+    <credits>
+      <director>David Ryan</director>
+      <director>Stephen Rooke</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126220000 -0300" stop="20211126230000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Lugares Sagrados</title>
+    <sub-title lang="pt">Sacred Sites</sub-title>
+    <desc lang="pt">Com a ajuda de testes de DNA e uma descoberta notável nos arquivos do Vaticano, revelamos a verdade sobre a ascensão dos cavaleiros à ordem religiosa militar mais poderosa do mundo até sua espetacular e repentina queda em desgraça.</desc>
+    <credits>
+      <director>David Ryan</director>
+      <director>Stephen Rooke</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125010500 -0300" stop="20211125020500 -0300" channel="Sony">
+    <title lang="pt">Guia Feminino do Divórcio</title>
+    <sub-title lang="pt">Girlfriends' Guide to Divorce</sub-title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <director>David Katzenberg</director>
+      <actor>Lisa Edelstein</actor>
+      <actor>Beau Garrett</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125020500 -0300" stop="20211125030500 -0300" channel="Sony">
+    <title lang="pt">Guia Feminino do Divórcio</title>
+    <sub-title lang="pt">Girlfriends' Guide to Divorce</sub-title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <director>Victor Nelli Jr.</director>
+      <actor>Lisa Edelstein</actor>
+      <actor>Beau Garrett</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125030500 -0300" stop="20211125033500 -0300" channel="Sony">
+    <title lang="pt">American Housewife</title>
+    <desc lang="pt">Katie ignora a advertência de Greg e leva Anna-Kat ao aterrorizante labirinto zumbi no parque anual de diversões do Halloween.</desc>
+    <credits>
+      <director>Melissa Kosar</director>
+      <actor>Katy Mixon</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Meg Donnelly</actor>
+      <actor>Daniel Dimaggio</actor>
+      <actor>Carly Hughes</actor>
+      <actor>Ali Wong</actor>
+      <actor>Julia Butters</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125033500 -0300" stop="20211125040000 -0300" channel="Sony">
+    <title lang="pt">Grown-ish</title>
+    <desc lang="pt">Zoey lida com o status de seu relacionamento com Aaron. Sky e Jazz voltam de sua triagem olímpica e lutam para dizer adeus.</desc>
+    <credits>
+      <director>Amy Coughlin</director>
+      <actor>Yara Shahidi</actor>
+      <actor>Deon Cole</actor>
+      <actor>Trevor Jackson</actor>
+      <actor>Francia Raisa</actor>
+      <actor>Emily Arlook</actor>
+      <actor>Jordan Buhat</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125040000 -0300" stop="20211125050000 -0300" channel="Sony">
+    <title lang="pt">Shark Tank</title>
+    <desc lang="pt">Uma mãe da Califórnia apresenta uma linha de bebidas que desenvolveu especialmente para crianças; um empreendedor da Nova Jersey acredita ter reinventado o AirBnB.</desc>
+    <credits>
+      <actor>Barbara Corcoran</actor>
+      <actor>Mark Cuban</actor>
+      <actor>Lori Greiner</actor>
+      <actor>Robert Herjavec</actor>
+      <actor>Kevin O'Leary</actor>
+      <actor>Daniel Lubetzky</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S3 E16</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125050000 -0300" stop="20211125060000 -0300" channel="Sony">
+    <title lang="pt">Shark Tank</title>
+    <desc lang="pt">Duas mães do Estado do Oregon apresentam uma solução sustentável e funcional para resolver um problema comum que envolve as roupas dos bebês.</desc>
+    <credits>
+      <actor>Barbara Corcoran</actor>
+      <actor>Mark Cuban</actor>
+      <actor>Lori Greiner</actor>
+      <actor>Robert Herjavec</actor>
+      <actor>Kevin O'leary</actor>
+      <actor>Daniel Lubetzky</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S11 E15</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125060000 -0300" stop="20211125063000 -0300" channel="Sony">
+    <title lang="pt">Grown-ish</title>
+    <desc lang="pt">Com o apoio dos alunos mais velhos, Aaron volta para a cerimônia de graduação num protesto contra os investimentos da Universidade em prisões privadas. Zoey fica na dúvida se volta com Aaron.</desc>
+    <credits>
+      <director>Amy Coughlin</director>
+      <actor>Yara Shahidi</actor>
+      <actor>Deon Cole</actor>
+      <actor>Trevor Jackson</actor>
+      <actor>Francia Raisa</actor>
+      <actor>Emily Arlook</actor>
+      <actor>Jordan Buhat</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S11 E16</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125063000 -0300" stop="20211125070000 -0300" channel="Sony">
+    <title lang="pt">Black-ish</title>
+    <desc lang="pt">A família Johnson vai de férias para um resort na praia com tudo incluso.</desc>
+    <credits>
+      <director>Catherine Reitman</director>
+      <actor>Anthony Anderson</actor>
+      <actor>Tracee Ellis Ross</actor>
+      <actor>Marcus Scribner</actor>
+      <actor>Miles Brown</actor>
+      <actor>Marsai Martin</actor>
+      <actor>Peter Mackenzie</actor>
+      <actor>Deon Cole</actor>
+      <actor>Jenifer Lewis</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S3 E17</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125070000 -0300" stop="20211125073000 -0300" channel="Sony">
+    <title lang="pt">American Housewife</title>
+    <desc lang="pt">Katie se junta a Oliver na esperança de transformar seu hobby de cozinhar lasanha em um negócio sério e rentável.</desc>
+    <credits>
+      <director>Alisa Statman</director>
+      <actor>Katy Mixon</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Meg Donnelly</actor>
+      <actor>Daniel Dimaggio</actor>
+      <actor>Carly Hughes</actor>
+      <actor>Ali Wong</actor>
+      <actor>Julia Butters</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S6 E13</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125073000 -0300" stop="20211125080000 -0300" channel="Sony">
+    <title lang="pt">American Housewife</title>
+    <desc lang="pt">A rivalidade de Katie com Chloe Brown Mueller é reacendida quando Oliver descobre as tentativas de Chloe sabotar o negócio das lasanhas de Katie.</desc>
+    <credits>
+      <director>Nirvana Adams</director>
+      <actor>Katy Mixon</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Meg Donnelly</actor>
+      <actor>Daniel Dimaggio</actor>
+      <actor>Carly Hughes</actor>
+      <actor>Ali Wong</actor>
+      <actor>Julia Butters</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125080000 -0300" stop="20211125090000 -0300" channel="Sony">
+    <title lang="pt">The Night Shift</title>
+    <sub-title lang="pt">The Night Shift: Ghosts</sub-title>
+    <desc lang="pt">A equipe do turno noturno fica presa no hospital depois de receber um paciente com um envenenamento radiativo mortal. Scott Wolf, Adam Rodriguez, Merle Dandridge e Sarah Jane Morris convidados especiais.</desc>
+    <credits>
+      <director>David Boyd</director>
+      <actor>Eoin Macken</actor>
+      <actor>Jill Flint</actor>
+      <actor>Ken Leung</actor>
+      <actor>Brendan Fehr</actor>
+      <actor>Sarah Jane Morris</actor>
+      <actor>Robert Bailey Jr.</actor>
+      <actor>Jeananne Goossen</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211125090000 -0300" stop="20211125100000 -0300" channel="Sony">
+    <title lang="pt">The Night Shift</title>
+    <sub-title lang="pt">The Night Shift: Fog of War</sub-title>
+    <desc lang="pt">Em meio de uma neblina fechada, os médicos precisam improvisar para salvar as vítimas de um acidente de carro.</desc>
+    <credits>
+      <director>Jason Priestley</director>
+      <actor>Eoin Macken</actor>
+      <actor>Jill Flint</actor>
+      <actor>Ken Leung</actor>
+      <actor>Brendan Fehr</actor>
+      <actor>Kate Blumberg</actor>
+      <actor>Robert Bailey Jr.</actor>
+      <actor>Jeananne Goossen</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211125100000 -0300" stop="20211125103000 -0300" channel="Sony">
+    <title lang="pt">Grown-ish</title>
+    <desc lang="pt">Com o apoio dos alunos mais velhos, Aaron volta para a cerimônia de graduação num protesto contra os investimentos da Universidade em prisões privadas. Zoey fica na dúvida se volta com Aaron.</desc>
+    <credits>
+      <director>Amy Coughlin</director>
+      <actor>Yara Shahidi</actor>
+      <actor>Deon Cole</actor>
+      <actor>Trevor Jackson</actor>
+      <actor>Francia Raisa</actor>
+      <actor>Emily Arlook</actor>
+      <actor>Jordan Buhat</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125103000 -0300" stop="20211125110000 -0300" channel="Sony">
+    <title lang="pt">Black-ish</title>
+    <desc lang="pt">A família Johnson vai de férias para um resort na praia com tudo incluso.</desc>
+    <credits>
+      <director>Catherine Reitman</director>
+      <actor>Anthony Anderson</actor>
+      <actor>Tracee Ellis Ross</actor>
+      <actor>Marcus Scribner</actor>
+      <actor>Miles Brown</actor>
+      <actor>Marsai Martin</actor>
+      <actor>Peter Mackenzie</actor>
+      <actor>Deon Cole</actor>
+      <actor>Jenifer Lewis</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S3 E17</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125110000 -0300" stop="20211125113000 -0300" channel="Sony">
+    <title lang="pt">American Housewife</title>
+    <desc lang="pt">Katie se junta a Oliver na esperança de transformar seu hobby de cozinhar lasanha em um negócio sério e rentável.</desc>
+    <credits>
+      <director>Alisa Statman</director>
+      <actor>Katy Mixon</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Meg Donnelly</actor>
+      <actor>Daniel Dimaggio</actor>
+      <actor>Carly Hughes</actor>
+      <actor>Ali Wong</actor>
+      <actor>Julia Butters</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S6 E13</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125113000 -0300" stop="20211125120000 -0300" channel="Sony">
+    <title lang="pt">American Housewife</title>
+    <desc lang="pt">A rivalidade de Katie com Chloe Brown Mueller é reacendida quando Oliver descobre as tentativas de Chloe sabotar o negócio das lasanhas de Katie.</desc>
+    <credits>
+      <director>Nirvana Adams</director>
+      <actor>Katy Mixon</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Meg Donnelly</actor>
+      <actor>Daniel Dimaggio</actor>
+      <actor>Carly Hughes</actor>
+      <actor>Ali Wong</actor>
+      <actor>Julia Butters</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125120000 -0300" stop="20211125134500 -0300" channel="Sony">
+    <title lang="pt">Um Tira Muito Suspeito</title>
+    <sub-title lang="pt">Blue Streak</sub-title>
+    <desc lang="pt">Após ser libertado da prisão, o ladrão de joias, Logan, corre para o terreno baldio onde enterrou o fruto de um lucrativo golpe: 20 milhões de dólares em joias. Mas ele descobre que, no local, foi construída uma delegacia de polícia, e é forçado a se passar por tira para encontrar o produto do roubo, metendo-se em confusão.</desc>
+    <credits>
+      <director>Les Mayfield</director>
+      <actor>Martin Lawrence</actor>
+      <actor>Luke Wilson</actor>
+      <actor>Peter Greene</actor>
+      <actor>John Hawkes</actor>
+      <actor>William Forsythe</actor>
+      <actor>Tamala Jones</actor>
+      <actor>Julio Oscar Mechoso</actor>
+      <actor>Olek Kruppa</actor>
+      <actor>Carmen Argenziano</actor>
+      <actor>Frank Medrano</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125134500 -0300" stop="20211125144000 -0300" channel="Sony">
+    <title lang="pt">Guia Feminino do Divórcio</title>
+    <sub-title lang="pt">Girlfriends' Guide to Divorce</sub-title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <director>Daisy von Scherler Mayer</director>
+      <actor>Lisa Edelstein</actor>
+      <actor>Beau Garrett</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125144000 -0300" stop="20211125162500 -0300" channel="Sony">
+    <title lang="pt">Olha quem está Falando</title>
+    <sub-title lang="pt">Look Who's Talking</sub-title>
+    <desc lang="pt">Mollie, uma mulher independente, é abandonada pelo amante, mulherengo e casado, quando conta que está grávida, mas resolve ter o filho mesmo assim. Ela conhece e casa-se com o James, um motorista de táxi que se prendera a ela a caminho da maternidade e que parece ser ideal para cuidar de seu filho Mickey- o pequeno bebê- que narrará seus dias desde o momento de sua concepção mostrando quão frágil e bela é a vida.</desc>
+    <credits>
+      <director>Amy Heckerling</director>
+      <actor>John Travolta</actor>
+      <actor>Kirstie Alley</actor>
+      <actor>Olympia Dukakis</actor>
+      <actor>George Segal</actor>
+      <actor>Abe Vigoda</actor>
+      <actor>Twink Caplan</actor>
+      <actor>Jason Schaller</actor>
+      <actor>Don S. Davis</actor>
+      <actor>Joy Boushel</actor>
+      <actor>Jacob Haines</actor>
+    </credits>
+    <date>1989</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125162500 -0300" stop="20211125175500 -0300" channel="Sony">
+    <title lang="pt">Olha quem está Falando Também</title>
+    <sub-title lang="pt">Look Who's Talking, Too</sub-title>
+    <desc lang="pt">Um simpático e esperto bebê já conseguiu convencer a mãe a se casar com o motorista de táxi que a socorreu pouco antes de seu nascimento. Agora ele tem de enfrentar novos desafios: abandonar as fraldas, vencer o medo de fantasmas e monstros, suportar sua babá e conviver com a ideia de ter uma irmã dividindo a atenção de seus pais com ele. Esta comédia romântica é continuação de "Olha Quem Está Falando", que gerou ainda um terceiro filme, "Olha Quem Está Falando Agora!", também estrelado por John Travolta, Kirstie Alley e Olympia Dukakis (com Tom Ropelewski substituindo Amy Heckerling na direção) e a série de TV "Baby Talk". John Travolta, que é casado com a atriz Kelly Preston, foi indicado ao Oscar de Melhor Ator por seus papéis em "Os Embalos de Sábado à Noite" e "Pulp Fiction - Tempo de Violência". Kirstie Alley (que está também no elenco de "Desconstruindo Harry", de Woody Allen) atuou na série de TV "Cheers" e é a estrela da série "Veronica's Closet". Ex-aluna da Escola de Cinema de Nova York, Amy Heckerling se especializou na direção de comédias como "Picardias Estudantis" (que reuniu um elenco de jovens atores como Sean Penn, Jennifer Jason Leigh, Eric Stoltz e Nicolas Cage, entre outros), "Férias Frustradas 2" e "As Patricinhas de Beverly Hills", versão modernizada do romance "Emma", escrito por Jane Austen, e estrelada por Alicia Silverstone. Olympia Dukakis ganhou o Oscar de Melhor Atriz Coadjuvante por "Feitiço da Lua". Elias Koteas atuou em "Jardins de Pedra", "Camilla" e "Crash - Estranhos Prazeres", entre outros. Astros como Bruce Willis, Roseanne Barr, Mel Brooks e Damon Wayans emprestam suas vozes aos bebês do filme.</desc>
+    <credits>
+      <director>Amy Heckerling</director>
+      <actor>John Travolta</actor>
+      <actor>Kirstie Alley</actor>
+      <actor>Olympia Dukakis</actor>
+      <actor>Elias Koteas</actor>
+      <actor>Twink Caplan</actor>
+      <actor>Gilbert Gottfried</actor>
+      <actor>Bruce Willis</actor>
+      <actor>Mel Brooks</actor>
+      <actor>Megan Milner</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125175500 -0300" stop="20211125194000 -0300" channel="Sony">
+    <title lang="pt">Olha quem está Falando Agora!</title>
+    <sub-title lang="pt">Look Who's Talking Now</sub-title>
+    <desc lang="pt">James arranja trabalho como piloto de jato de executiva que quer fisgá-lo. Mesmo atarefada com os filhos, ela sente a ameaça no ar. Tudo acontece às vésperas do Natal.</desc>
+    <credits>
+      <director>Tom Ropelewski</director>
+      <actor>John Travolta</actor>
+      <actor>Kirstie Alley</actor>
+      <actor>Lysette Anthony</actor>
+      <actor>George Segal</actor>
+      <actor>Olympia Dukakis</actor>
+      <actor>David Gallagher</actor>
+      <actor>Danny De Vito</actor>
+      <actor>Diane Keaton</actor>
+    </credits>
+    <date>1993</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125194000 -0300" stop="20211125221500 -0300" channel="Sony">
+    <title lang="pt">Hook - A Volta do Capitão Gancho</title>
+    <sub-title lang="pt">Hook</sub-title>
+    <desc lang="pt">Embora isso não estivesse em seus planos, Peter Pan cresceu e sequer se lembra de sua infância. Agora ele tem 40 anos, chama-se Peter Banning (Robin Williams), é casado, vive estressado com os negócios e quase não tem tempo para os dois filhos. Quando viaja com a família para Londres para visitar Wendy é surpreendido ao descobrir, através de um bilhete, que o Capitão Gancho sequestrou seus filhos. Agora ele vai ter de recuperar as coisas que deixou para trás para voltar a ser Peter Pan e resgatar as crianças na Terra do Nunca.</desc>
+    <credits>
+      <director>Steven Spielberg</director>
+      <actor>Dustin Hoffman</actor>
+      <actor>Robin Williams</actor>
+      <actor>Julia Roberts</actor>
+      <actor>Bob Hoskins</actor>
+      <actor>Maggie Smith</actor>
+      <actor>Gwyneth Paltrow</actor>
+      <actor>Caroline Goodall</actor>
+      <actor>Charlie Korsmo</actor>
+      <actor>Phil Collins</actor>
+      <actor>Dante Basco</actor>
+      <actor>Amber Scott</actor>
+    </credits>
+    <date>1991</date>
+    <category lang="pt">Filme (Aventura)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125221500 -0300" stop="20211126001000 -0300" channel="Sony">
+    <title lang="pt">Um Suburbano Sortudo</title>
+    <desc lang="pt">Denílson é um simples camelô do subúrbio, mas sua vida muda quando seu até então desconhecido pai biológico morre, deixando para ele toda o seu legado milionário. Junto com a fortuna, porém, Denílson herda também a família do falecido.</desc>
+    <credits>
+      <director>Roberto Santucci</director>
+      <director>Marcelo Antunez</director>
+      <actor>Claudia Alencar</actor>
+      <actor>Carol Castro</actor>
+      <actor>Victor Leal</actor>
+      <actor>Stepan Nercessian</actor>
+      <actor>Rodrigo Sant'anna</actor>
+      <actor>Guida Vianna</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126001000 -0300" stop="20211126015500 -0300" channel="Sony">
+    <title lang="pt">Olha quem está Falando</title>
+    <sub-title lang="pt">Look Who's Talking</sub-title>
+    <desc lang="pt">Mollie, uma mulher independente, é abandonada pelo amante, mulherengo e casado, quando conta que está grávida, mas resolve ter o filho mesmo assim. Ela conhece e casa-se com o James, um motorista de táxi que se prendera a ela a caminho da maternidade e que parece ser ideal para cuidar de seu filho Mickey- o pequeno bebê- que narrará seus dias desde o momento de sua concepção mostrando quão frágil e bela é a vida.</desc>
+    <credits>
+      <director>Amy Heckerling</director>
+      <actor>John Travolta</actor>
+      <actor>Kirstie Alley</actor>
+      <actor>Olympia Dukakis</actor>
+      <actor>George Segal</actor>
+      <actor>Abe Vigoda</actor>
+      <actor>Twink Caplan</actor>
+      <actor>Jason Schaller</actor>
+      <actor>Don S. Davis</actor>
+      <actor>Joy Boushel</actor>
+      <actor>Jacob Haines</actor>
+    </credits>
+    <date>1989</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126015500 -0300" stop="20211126025000 -0300" channel="Sony">
+    <title lang="pt">Guia Feminino do Divórcio</title>
+    <sub-title lang="pt">Girlfriends' Guide to Divorce</sub-title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <director>Daisy von Scherler Mayer</director>
+      <actor>Lisa Edelstein</actor>
+      <actor>Beau Garrett</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126025000 -0300" stop="20211126034500 -0300" channel="Sony">
+    <title lang="pt">Guia Feminino do Divórcio</title>
+    <sub-title lang="pt">Girlfriends' Guide to Divorce</sub-title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <director>Brian Dannelly</director>
+      <actor>Lisa Edelstein</actor>
+      <actor>Beau Garrett</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126034500 -0300" stop="20211126041000 -0300" channel="Sony">
+    <title lang="pt">Grown-ish</title>
+    <desc lang="pt">Com o apoio dos alunos mais velhos, Aaron volta para a cerimônia de graduação num protesto contra os investimentos da Universidade em prisões privadas. Zoey fica na dúvida se volta com Aaron.</desc>
+    <credits>
+      <director>Amy Coughlin</director>
+      <actor>Yara Shahidi</actor>
+      <actor>Deon Cole</actor>
+      <actor>Trevor Jackson</actor>
+      <actor>Francia Raisa</actor>
+      <actor>Emily Arlook</actor>
+      <actor>Jordan Buhat</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126041000 -0300" stop="20211126050500 -0300" channel="Sony">
+    <title lang="pt">Shark Tank</title>
+    <desc lang="pt">Amigos do Arizona apresentam aos tubarões um conceito de venda de imóveis por aplicativo.</desc>
+    <credits>
+      <actor>Barbara Corcoran</actor>
+      <actor>Mark Cuban</actor>
+      <actor>Lori Greiner</actor>
+      <actor>Robert Herjavec</actor>
+      <actor>Kevin O'leary</actor>
+      <actor>Daniel Lubetzky</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S3 E17</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126050500 -0300" stop="20211126060000 -0300" channel="Sony">
+    <title lang="pt">Shark Tank</title>
+    <desc lang="pt">Uma mãe da Califórnia apresenta uma linha de bebidas que desenvolveu especialmente para crianças; um empreendedor da Nova Jersey acredita ter reinventado o AirBnB.</desc>
+    <credits>
+      <actor>Barbara Corcoran</actor>
+      <actor>Mark Cuban</actor>
+      <actor>Lori Greiner</actor>
+      <actor>Robert Herjavec</actor>
+      <actor>Kevin O'Leary</actor>
+      <actor>Daniel Lubetzky</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S11 E17</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126060000 -0300" stop="20211126063000 -0300" channel="Sony">
+    <title lang="pt">Grown-ish</title>
+    <desc lang="pt">Zoey e sua turma voltam para o segundo ano de faculdade e Zoey está determinada a ter uma "sequência" de ano melhor que a original.</desc>
+    <credits>
+      <director>Pete Chatmon</director>
+      <actor>Yara Shahidi</actor>
+      <actor>Deon Cole</actor>
+      <actor>Trevor Jackson</actor>
+      <actor>Francia Raisa</actor>
+      <actor>Emily Arlook</actor>
+      <actor>Jordan Buhat</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S11 E18</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126063000 -0300" stop="20211126070000 -0300" channel="Sony">
+    <title lang="pt">Black-ish</title>
+    <desc lang="pt">Dre se preocupa por Diana e Jack não saberem como cuidar de si próprios e os envia a uma aventura, para acabar percebendo que são justamente suas preocupações que estão travando a autonomia deles.</desc>
+    <credits>
+      <director>Todd Biermann</director>
+      <actor>Anthony Anderson</actor>
+      <actor>Tracee Ellis Ross</actor>
+      <actor>Marcus Scribner</actor>
+      <actor>Miles Brown</actor>
+      <actor>Marsai Martin</actor>
+      <actor>Peter Mackenzie</actor>
+      <actor>Deon Cole</actor>
+      <actor>Jenifer Lewis</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126070000 -0300" stop="20211126073000 -0300" channel="Sony">
+    <title lang="pt">American Housewife</title>
+    <desc lang="pt">Numa tentativa de ficar ainda mais conectados, Katie e Greg procuram por atividades que possam desfrutar como casal.</desc>
+    <credits>
+      <director>David L. Bertman</director>
+      <actor>Katy Mixon</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Meg Donnelly</actor>
+      <actor>Daniel Dimaggio</actor>
+      <actor>Carly Hughes</actor>
+      <actor>Ali Wong</actor>
+      <actor>Julia Butters</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S6 E14</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126073000 -0300" stop="20211126080000 -0300" channel="Sony">
+    <title lang="pt">American Housewife</title>
+    <desc lang="pt">Katie quer dividir sua tradição natalina favorita de infância com Taylor, mas uma visita surpresa de sua mãe, Kathryn, coloca em ameaça sua diversão do feriado.</desc>
+    <credits>
+      <director>Chris Koch</director>
+      <actor>Katy Mixon</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Meg Donnelly</actor>
+      <actor>Daniel Dimaggio</actor>
+      <actor>Carly Hughes</actor>
+      <actor>Ali Wong</actor>
+      <actor>Julia Butters</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S4 E9</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126080000 -0300" stop="20211126090000 -0300" channel="Sony">
+    <title lang="pt">Shark Tank Brasil: Negociando com Tubarões</title>
+    <desc lang="pt">Shark Tank Brasil Negociando com Tubarões levará empreendedores em busca de aporte financeiro à frente de grandes investidores. Para convencê-los, será necessário aproveitar bem a chance de impressioná-los na hora de apresentar o negócio.</desc>
+    <credits>
+      <actor>Caito Maia</actor>
+      <actor>Cristiana Arcangeli</actor>
+      <actor>João Appolinário</actor>
+      <actor>Robinson Shiba</actor>
+      <actor>Camila Farani</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S4 E10</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126090000 -0300" stop="20211126100000 -0300" channel="Sony">
+    <title lang="pt">Shark Tank Brasil: Negociando com Tubarões</title>
+    <desc lang="pt">Shark Tank Brasil Negociando com Tubarões levará empreendedores em busca de aporte financeiro à frente de grandes investidores. Para convencê-los, será necessário aproveitar bem a chance de impressioná-los na hora de apresentar o negócio.</desc>
+    <credits>
+      <actor>Caito Maia</actor>
+      <actor>Cristiana Arcangeli</actor>
+      <actor>João Appolinário</actor>
+      <actor>Robinson Shiba</actor>
+      <actor>Camila Farani</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S3 E15</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126100000 -0300" stop="20211126110000 -0300" channel="Sony">
+    <title lang="pt">Shark Tank Brasil: Negociando com Tubarões</title>
+    <desc lang="pt">Shark Tank Brasil Negociando com Tubarões levará empreendedores em busca de aporte financeiro à frente de grandes investidores.</desc>
+    <credits>
+      <actor>Caito Maia</actor>
+      <actor>Camila Farani</actor>
+      <actor>João Appolinário</actor>
+      <actor>José Carlos Semenzato</actor>
+      <actor>Carol Paiffer</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S3 E16</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126110000 -0300" stop="20211126113000 -0300" channel="Sony">
+    <title lang="pt">American Housewife</title>
+    <desc lang="pt">Numa tentativa de ficar ainda mais conectados, Katie e Greg procuram por atividades que possam desfrutar como casal.</desc>
+    <credits>
+      <director>David L. Bertman</director>
+      <actor>Katy Mixon</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Meg Donnelly</actor>
+      <actor>Daniel Dimaggio</actor>
+      <actor>Carly Hughes</actor>
+      <actor>Ali Wong</actor>
+      <actor>Julia Butters</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S6 E9</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126113000 -0300" stop="20211126120000 -0300" channel="Sony">
+    <title lang="pt">American Housewife</title>
+    <desc lang="pt">Katie quer dividir sua tradição natalina favorita de infância com Taylor, mas uma visita surpresa de sua mãe, Kathryn, coloca em ameaça sua diversão do feriado.</desc>
+    <credits>
+      <director>Chris Koch</director>
+      <actor>Katy Mixon</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Meg Donnelly</actor>
+      <actor>Daniel Dimaggio</actor>
+      <actor>Carly Hughes</actor>
+      <actor>Ali Wong</actor>
+      <actor>Julia Butters</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S4 E9</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126120000 -0300" stop="20211126134500 -0300" channel="Sony">
+    <title lang="pt">Olha quem está Falando Agora!</title>
+    <sub-title lang="pt">Look Who's Talking Now</sub-title>
+    <desc lang="pt">James arranja trabalho como piloto de jato de executiva que quer fisgá-lo. Mesmo atarefada com os filhos, ela sente a ameaça no ar. Tudo acontece às vésperas do Natal.</desc>
+    <credits>
+      <director>Tom Ropelewski</director>
+      <actor>John Travolta</actor>
+      <actor>Kirstie Alley</actor>
+      <actor>Lysette Anthony</actor>
+      <actor>George Segal</actor>
+      <actor>Olympia Dukakis</actor>
+      <actor>David Gallagher</actor>
+      <actor>Danny De Vito</actor>
+      <actor>Diane Keaton</actor>
+    </credits>
+    <date>1993</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <episode-num system="onscreen">S4 E10</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126134500 -0300" stop="20211126144000 -0300" channel="Sony">
+    <title lang="pt">Guia Feminino do Divórcio</title>
+    <sub-title lang="pt">Girlfriends' Guide to Divorce</sub-title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <director>Robert Duncan McNeill</director>
+      <actor>Lisa Edelstein</actor>
+      <actor>Beau Garrett</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126144000 -0300" stop="20211126151000 -0300" channel="Sony">
+    <title lang="pt">American Housewife</title>
+    <desc lang="pt">Numa tentativa de ficar ainda mais conectados, Katie e Greg procuram por atividades que possam desfrutar como casal.</desc>
+    <credits>
+      <director>David L. Bertman</director>
+      <actor>Katy Mixon</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Meg Donnelly</actor>
+      <actor>Daniel Dimaggio</actor>
+      <actor>Carly Hughes</actor>
+      <actor>Ali Wong</actor>
+      <actor>Julia Butters</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126151000 -0300" stop="20211126172000 -0300" channel="Sony">
+    <title lang="pt">Crepúsculo</title>
+    <sub-title lang="pt">Twilight</sub-title>
+    <desc lang="pt">Com o novo casamento da mãe, Bella recomeça sua vida com o pai em outra cidade. Na nova escola, fica impressionada com o encantador e misterioso Edward Cullen. Os dois se envolvem intensamente e mesmo após descobrir a verdade sobre ele, Bella decide lutar para que os dois continuem juntos.</desc>
+    <credits>
+      <director>Catherine Hardwicke</director>
+      <actor>Kristen Stewart</actor>
+      <actor>Robert Pattinson</actor>
+      <actor>Ashley Greene</actor>
+      <actor>Billy Burke</actor>
+      <actor>Nikki Reed</actor>
+      <actor>Jackson Rathbone</actor>
+      <actor>Kellan Lutz</actor>
+      <actor>Peter Facinelli</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Filme (Drama)</category>
+    <episode-num system="onscreen">S4 E9</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126172000 -0300" stop="20211126195500 -0300" channel="Sony">
+    <title lang="pt">Hook - A Volta do Capitão Gancho</title>
+    <sub-title lang="pt">Hook</sub-title>
+    <desc lang="pt">Embora isso não estivesse em seus planos, Peter Pan cresceu e sequer se lembra de sua infância. Agora ele tem 40 anos, chama-se Peter Banning (Robin Williams), é casado, vive estressado com os negócios e quase não tem tempo para os dois filhos. Quando viaja com a família para Londres para visitar Wendy é surpreendido ao descobrir, através de um bilhete, que o Capitão Gancho sequestrou seus filhos. Agora ele vai ter de recuperar as coisas que deixou para trás para voltar a ser Peter Pan e resgatar as crianças na Terra do Nunca.</desc>
+    <credits>
+      <director>Steven Spielberg</director>
+      <actor>Dustin Hoffman</actor>
+      <actor>Robin Williams</actor>
+      <actor>Julia Roberts</actor>
+      <actor>Bob Hoskins</actor>
+      <actor>Maggie Smith</actor>
+      <actor>Gwyneth Paltrow</actor>
+      <actor>Caroline Goodall</actor>
+      <actor>Charlie Korsmo</actor>
+      <actor>Phil Collins</actor>
+      <actor>Dante Basco</actor>
+      <actor>Amber Scott</actor>
+    </credits>
+    <date>1991</date>
+    <category lang="pt">Filme (Aventura)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126195500 -0300" stop="20211126223000 -0300" channel="Sony">
+    <title lang="pt">Karate Kid</title>
+    <sub-title lang="pt">The Karate Kid</sub-title>
+    <desc lang="pt">Sem amigos numa nova cidade, Dre não tem a quem recorrer exceto o zelador do seu prédio, que é secretamente um mestre do kung fu. Dre percebe que encarar os brigões da turma será a aventura de uma vida.</desc>
+    <credits>
+      <director>Harald Zwart</director>
+      <actor>Jaden Smith</actor>
+      <actor>Jackie Chan</actor>
+      <actor>Taraji P. Henson</actor>
+      <actor>Zhenwei Wang</actor>
+      <actor>Jared Minns</actor>
+      <actor>Rongguang Yu</actor>
+      <actor>Bo Zhang</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126223000 -0300" stop="20211126233000 -0300" channel="Sony">
+    <title lang="pt">Shark Tank Brasil: Negociando com Tubarões</title>
+    <desc lang="pt">Shark Tank Brasil Negociando com Tubarões levará empreendedores em busca de aporte financeiro à frente de grandes investidores.</desc>
+    <credits>
+      <actor>Caito Maia</actor>
+      <actor>Camila Farani</actor>
+      <actor>João Appolinário</actor>
+      <actor>José Carlos Semenzato</actor>
+      <actor>Carol Paiffer</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125002900 -0300" stop="20211125020200 -0300" channel="Space">
+    <title lang="pt">Sou Vingança: Retaliação</title>
+    <sub-title lang="pt">I Am Vengeance Retaliation</sub-title>
+    <desc lang="pt">O ex-soldado das Forças Especiais, John Gold, tem a oportunidade de levar Sean Teague - o homem que traiu sua equipe em sua missão final na Europa Oriental há vários anos - à justiça.</desc>
+    <credits>
+      <director>Ross Boyask</director>
+      <actor>Stu Bennett</actor>
+      <actor>Vinnie Jones</actor>
+      <actor>Jacob Anderton</actor>
+      <actor>Lainy Boyle</actor>
+      <actor>Greg Burridge</actor>
+    </credits>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125020200 -0300" stop="20211125040100 -0300" channel="Space">
+    <title lang="pt">Invasão Zumbi</title>
+    <sub-title lang="pt">Busanhaeng</sub-title>
+    <desc lang="pt">Uma menina e seu pai vão dar um passeio em um trem de alta velocidade na Coreia do Sul e se encontram em meio a uma epidemia zumbi.</desc>
+    <credits>
+      <director>Sang - Ho Yeon</director>
+      <actor>Yoo Gong</actor>
+      <actor>Dong</actor>
+      <actor>Seok Ma</actor>
+      <actor>Yu</actor>
+      <actor>Mi Jung</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Filme (Terror)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211125040100 -0300" stop="20211125054200 -0300" channel="Space">
+    <title lang="pt">O Imperador</title>
+    <sub-title lang="pt">The Assassins</sub-title>
+    <desc lang="pt">Na China Antiga, um poderoso general busca se tornar imperador. Enquanto isso, os filhos de suas vítimas são treinados secretamente para matá-lo.</desc>
+    <credits>
+      <director>Linshan Zhao</director>
+      <actor>Yifei Liu</actor>
+      <actor>Hiroshi Tamaki</actor>
+      <actor>Yun Fat Chow</actor>
+      <actor>Samuel Pang</actor>
+      <actor>Dahong Ni</actor>
+      <actor>Jeff Bao</actor>
+      <actor>Kar-Ying Law</actor>
+      <actor>Terry Chiu</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125054200 -0300" stop="20211125060000 -0300" channel="Space">
+    <title lang="pt">Movie Talk</title>
+    <desc lang="pt">Apresentado pelo experiente entrevistador,"Movie Talk with Peter Bart" é um exclusivo e aprofundado olhar sobre as carreiras dos atores e cineastas mais reconhecidos de Hollywood.</desc>
+    <credits>
+      <director>Lyndy Saville</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Variedades (Talk Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125060000 -0300" stop="20211125072900 -0300" channel="Space">
+    <title lang="pt">Pooka</title>
+    <desc lang="pt">Um ator em dificuldades arranja um emprego no Natal: tem que promover o boneco mais famoso do ano, Pooka, vestindo um traje de pelúcia.</desc>
+    <credits>
+      <director>Nacho Vigalondo</director>
+      <actor>Nyasha Hatendi</actor>
+      <actor>Jon Daly</actor>
+      <actor>Latarsha Rose</actor>
+      <actor>Dale Dickey</actor>
+      <actor>Jonny Berryman</actor>
+      <actor>Bryan Billy Boone</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme (Suspense)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211125072900 -0300" stop="20211125092500 -0300" channel="Space">
+    <title lang="pt">O Monge à Prova de Balas</title>
+    <sub-title lang="pt">Bulletproof Monk</sub-title>
+    <desc lang="pt">O Monge é um mestre das artes marciais que protege, há sessenta anos, um antigo pergaminho sagrado, um misterioso artefato com grandes poderes. Prestes a se aposentar, ele precisa encontrar um substituto e sua busca o leva aos Estados Unidos. Segundo uma antiga profecia, seu sucessor é um rapaz chamado Kar. À medida que o monge passa seus ensinamentos a Kar, essa insólita dupla se une para proteger o pergaminho de um caçador que o persegue há sessenta anos.</desc>
+    <credits>
+      <director>Paul Hunter</director>
+      <actor>Chow Yun-Fat</actor>
+      <actor>Seann William Scott</actor>
+      <actor>Jaime King</actor>
+      <actor>Karel Roden</actor>
+      <actor>Victoria Smurfit</actor>
+      <actor>Marcus Jean Pirae</actor>
+      <actor>Roger Yuan</actor>
+      <actor>Sean Bell</actor>
+      <actor>Rob Archer</actor>
+      <actor>Bayo Akinfemi</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211125092500 -0300" stop="20211125112100 -0300" channel="Space">
+    <title lang="pt">O Imperador</title>
+    <sub-title lang="pt">The Assassins</sub-title>
+    <desc lang="pt">Na China Antiga, um poderoso general busca se tornar imperador. Enquanto isso, os filhos de suas vítimas são treinados secretamente para matá-lo.</desc>
+    <credits>
+      <director>Linshan Zhao</director>
+      <actor>Yifei Liu</actor>
+      <actor>Hiroshi Tamaki</actor>
+      <actor>Yun Fat Chow</actor>
+      <actor>Samuel Pang</actor>
+      <actor>Dahong Ni</actor>
+      <actor>Jeff Bao</actor>
+      <actor>Kar-Ying Law</actor>
+      <actor>Terry Chiu</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125112100 -0300" stop="20211125132200 -0300" channel="Space">
+    <title lang="pt">O Inferno De Dante</title>
+    <sub-title lang="pt">Dante's Peak</sub-title>
+    <desc lang="pt">Harry é um vulcanólogo que vai para uma pequena cidade estudar um vulcão adormecido. Tudo muda quando ele e a prefeita, Rachel, descobrem indícios de que o vulcão pode entrar em atividade a qualquer momento. Antes de a erupção começar, eles precisarão salvar a todos o mais rápido possível.</desc>
+    <credits>
+      <director>Roger Donaldson</director>
+      <actor>Pierce Brosnan</actor>
+      <actor>Jamie Renée Smith</actor>
+      <actor>Linda Hamilton</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125132200 -0300" stop="20211125152500 -0300" channel="Space">
+    <title lang="pt">Céu em Chamas</title>
+    <sub-title lang="pt">Red Sky</sub-title>
+    <desc lang="pt">Butch e Tom são dois pilotos que recebem uma falsa ordem de explodir um campo abandonado aonde encontram-se vários peritos americanos. Eles então, após o erro, são dispensados de suas funções.</desc>
+    <credits>
+      <director>Mario Van Peebles</director>
+      <actor>Rachel Leigh Cook</actor>
+      <actor>Cam Gigandet</actor>
+      <actor>Shane West</actor>
+      <actor>Jacob Vargas</actor>
+      <actor>Jason Gray-Stanford</actor>
+      <actor>Martin Kove</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211125152500 -0300" stop="20211125171200 -0300" channel="Space">
+    <title lang="pt">A Trilha</title>
+    <sub-title lang="pt">A Perfect Getaway</sub-title>
+    <desc lang="pt">Cliff e Cydney são recém casados que decidem passar sua lua de mel no Havaí. Mas logo encontram outros casais e ficam sabendo de uma série de assassinatos em outra ilha. Logo, o suspeito se apoderará de todos.</desc>
+    <credits>
+      <director>David Twohy</director>
+      <actor>Timothy Olyphant</actor>
+      <actor>Milla Jovovich</actor>
+      <actor>Kiele Sanchez</actor>
+      <actor>Steve Zahn</actor>
+      <actor>Marley Shelton</actor>
+      <actor>Chris Hemsworth</actor>
+      <actor>Anthony Ruivivar</actor>
+      <actor>Peter Navy Tuiasosopo</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125171200 -0300" stop="20211125185700 -0300" channel="Space">
+    <title lang="pt">O Medalhão</title>
+    <sub-title lang="pt">The Medallion</sub-title>
+    <desc lang="pt">Descubra todo seu poder. Um misterioso talismã dá poder, velocidade e força a quem o possui, mas para descobrir o segredo do talismã, um simpático policial de Hong Kong e uma agente da Interpol terão de trabalhar juntos e ainda enfrentar o diabólico Cabeça de Serpente.</desc>
+    <credits>
+      <director>Gordon Chan</director>
+      <actor>Jackie Chan</actor>
+      <actor>Claire Forlani</actor>
+      <actor>Julian Sands</actor>
+      <actor>Lee Evans</actor>
+      <actor>John Rhys-Davies</actor>
+      <actor>Anthony Wong Chau- Sang</actor>
+      <actor>Christy Chung</actor>
+      <actor>Johann Myers</actor>
+      <actor>Alex Bao</actor>
+      <actor>Siu-Ming Lau</actor>
+      <actor>Diana C.Weng</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125185700 -0300" stop="20211125205600 -0300" channel="Space">
+    <title lang="pt">Tô Ryca!</title>
+    <desc lang="pt">A frentista Selminha descobre que tem direito a uma herança de família. Mas, para conseguir essa bolada, ela deve seguir as regras de seu tio e gastar R$30 milhões em 30 dias sem acumular nada e sem contar sobre essa condição a ninguém.</desc>
+    <credits>
+      <director>Pedro Antonio Paes</director>
+      <actor>Marcelo Adnet</actor>
+      <actor>Katiuscia Canoro</actor>
+      <actor>Samantha Schmütz</actor>
+      <actor>Anderson Di Rizzi</actor>
+      <actor>Fabiana Carla</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125205600 -0300" stop="20211125223000 -0300" channel="Space">
+    <title lang="pt">Sou Vingança: Retaliação</title>
+    <sub-title lang="pt">I Am Vengeance Retaliation</sub-title>
+    <desc lang="pt">O ex-soldado das Forças Especiais, John Gold, tem a oportunidade de levar Sean Teague - o homem que traiu sua equipe em sua missão final na Europa Oriental há vários anos - à justiça.</desc>
+    <credits>
+      <director>Ross Boyask</director>
+      <actor>Stu Bennett</actor>
+      <actor>Vinnie Jones</actor>
+      <actor>Jacob Anderton</actor>
+      <actor>Lainy Boyle</actor>
+      <actor>Greg Burridge</actor>
+    </credits>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125223000 -0300" stop="20211126002500 -0300" channel="Space">
+    <title lang="pt">Lendas dos Ringues</title>
+    <sub-title lang="pt">Cage Fighter Worlds Collide</sub-title>
+    <desc lang="pt">O filme conta a história de Reiss, campeão de MMA que perde um combate promovido, inesperadamente, para um campeão de WWE que estava fazendo sua estreia no mundo das artes marciais mistas.</desc>
+    <credits>
+      <director>Jesse Quinones</director>
+      <actor>Alex Montagnani</actor>
+      <actor>Jonathan Good</actor>
+      <actor>Gina Gershon</actor>
+      <actor>Brenna Coates</actor>
+    </credits>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126002500 -0300" stop="20211126022000 -0300" channel="Space">
+    <title lang="pt">Snatch - Porcos e Diamantes</title>
+    <sub-title lang="pt">Snatch</sub-title>
+    <desc lang="pt">Com trama propositalmente emaranhada, que gira em torno de um diamante roubado, Snatch introduz o espectador a um grupo de estranhos personagens empenhados em resgatar a tal pedra preciosa. Tudo tem início quando o ladrão de jóias Franky Quatro Dedos (Benicio Del Toro) faz uma parada em Londres, antes de entregar um enorme diamante roubado para o seu chefe em Nova Iorque. Ele não fazia a menor idéia de que isso desencadearia uma avalanche de sinistros e cômicos acontecimentos que abalariam os mundos do boxe, dos ciganos irlandeses, das lojas de penhores, das fazendas de porcos e de um cão vira-lata pouco amigável. Mais uma história do diretor Guy Ritchie sobre a violência urbana na cidade de Londres.</desc>
+    <credits>
+      <director>Guy Ritchie</director>
+      <actor>Jason Staham</actor>
+      <actor>Stephen Grahan</actor>
+      <actor>Brad Pitt</actor>
+      <actor>Benicio Del Toro</actor>
+      <actor>Dennis Farina</actor>
+      <actor>Vinnie Jones</actor>
+      <actor>Rade Serbedzija</actor>
+      <actor>Alan Ford</actor>
+      <actor>Mike Reid</actor>
+      <actor>Robbie Gee</actor>
+      <actor>Lennie James</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126022000 -0300" stop="20211126041500 -0300" channel="Space">
+    <title lang="pt">30 Dias de Noite</title>
+    <sub-title lang="pt">30 Days of Night</sub-title>
+    <desc lang="pt">Um grupo de vampiros chega a uma pequena cidade do Alasca durante o inverno, quando o local fica na mais completa escuridão por 30 dias. Terror e morte aguarda os moradores do local.</desc>
+    <credits>
+      <director>David Slade</director>
+      <actor>Josh Hartnett</actor>
+      <actor>Melissa George</actor>
+      <actor>Danny Huston</actor>
+      <actor>Ben Foster</actor>
+      <actor>Mark Rendall</actor>
+      <actor>Mark Boone Junior</actor>
+      <actor>Manu Bennett</actor>
+      <actor>Megan Franich</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Filme (Terror)</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20211126041500 -0300" stop="20211126053900 -0300" channel="Space">
+    <title lang="pt">O Mistério de Grace</title>
+    <sub-title lang="pt">Grace: The Possession</sub-title>
+    <desc lang="pt">Grace é uma jovem órfã que decidiu deixar a casa de sua avó para fazer universidade, onde tudo é novo para uma garota religiosa como ela. De repente, ela começa a ter pesadelos e alucinações terríveis.</desc>
+    <credits>
+      <director>Jeff Chandler</director>
+      <actor>Alexia Fast</actor>
+      <actor>Lin Shaye</actor>
+      <actor>Clarke Peters</actor>
+      <actor>Madeleine Arthur</actor>
+      <actor>Alan Dale</actor>
+      <actor>Kurt Ostlund</actor>
+      <actor>Christina Jastrzembska</actor>
+      <actor>John Emmet Tracy</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Filme (Suspense)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126053900 -0300" stop="20211126060000 -0300" channel="Space">
+    <title lang="pt">Movie Talk</title>
+    <desc lang="pt">Apresentado pelo experiente entrevistador,"Movie Talk with Peter Bart" é um exclusivo e aprofundado olhar sobre as carreiras dos atores e cineastas mais reconhecidos de Hollywood.</desc>
+    <credits>
+      <director>Lyndy Saville</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Variedades (Talk Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126060000 -0300" stop="20211126061200 -0300" channel="Space">
+    <title lang="pt">Movie Talk</title>
+    <desc lang="pt">Apresentado pelo experiente entrevistador,"Movie Talk with Peter Bart" é um exclusivo e aprofundado olhar sobre as carreiras dos atores e cineastas mais reconhecidos de Hollywood.</desc>
+    <credits>
+      <director>Lyndy Saville</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Variedades (Talk Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126061200 -0300" stop="20211126081200 -0300" channel="Space">
+    <title lang="pt">The Big Shot</title>
+    <desc lang="pt">Um policial investiga uma rede mafiosa ligada ao negócio da construção na China quando seu amigo entra em coma após resistir a um despejo. A investigação o leva ante o CEO de uma poderosa companhia, jovem e violento.</desc>
+    <credits>
+      <director>Wu Bai</director>
+      <actor>Yuexi Gai</actor>
+      <actor>Yuan Du</actor>
+      <actor>Bei-Er Bao</actor>
+      <actor>Zhanwen Kou</actor>
+      <actor>Mintao Liu</actor>
+      <actor>Xiaolin Lü</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126081200 -0300" stop="20211126105000 -0300" channel="Space">
+    <title lang="pt">Gangnam Blues</title>
+    <desc lang="pt">Em 1970, a corrupção política e o crime organizado controlam Gangnam, ao sul de Seul. Circunstâncias adversas levaram os amigos Jong-dae e Yong-ki a buscarem diferentes vias para conseguir dinheiro e sair da pobreza, independentemente dos riscos.</desc>
+    <credits>
+      <director>Ha Yoo</director>
+      <actor>Min-ho Lee</actor>
+      <actor>Rae-won Kim</actor>
+      <actor>Jin-young Jung</actor>
+      <actor>Ji-su Kim</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126105000 -0300" stop="20211126124800 -0300" channel="Space">
+    <title lang="pt">Snatch - Porcos e Diamantes</title>
+    <sub-title lang="pt">Snatch</sub-title>
+    <desc lang="pt">Com trama propositalmente emaranhada, que gira em torno de um diamante roubado, Snatch introduz o espectador a um grupo de estranhos personagens empenhados em resgatar a tal pedra preciosa. Tudo tem início quando o ladrão de jóias Franky Quatro Dedos (Benicio Del Toro) faz uma parada em Londres, antes de entregar um enorme diamante roubado para o seu chefe em Nova Iorque. Ele não fazia a menor idéia de que isso desencadearia uma avalanche de sinistros e cômicos acontecimentos que abalariam os mundos do boxe, dos ciganos irlandeses, das lojas de penhores, das fazendas de porcos e de um cão vira-lata pouco amigável. Mais uma história do diretor Guy Ritchie sobre a violência urbana na cidade de Londres.</desc>
+    <credits>
+      <director>Guy Ritchie</director>
+      <actor>Jason Staham</actor>
+      <actor>Stephen Grahan</actor>
+      <actor>Brad Pitt</actor>
+      <actor>Benicio Del Toro</actor>
+      <actor>Dennis Farina</actor>
+      <actor>Vinnie Jones</actor>
+      <actor>Rade Serbedzija</actor>
+      <actor>Alan Ford</actor>
+      <actor>Mike Reid</actor>
+      <actor>Robbie Gee</actor>
+      <actor>Lennie James</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126124800 -0300" stop="20211126143100 -0300" channel="Space">
+    <title lang="pt">O Medalhão</title>
+    <sub-title lang="pt">The Medallion</sub-title>
+    <desc lang="pt">Descubra todo seu poder. Um misterioso talismã dá poder, velocidade e força a quem o possui, mas para descobrir o segredo do talismã, um simpático policial de Hong Kong e uma agente da Interpol terão de trabalhar juntos e ainda enfrentar o diabólico Cabeça de Serpente.</desc>
+    <credits>
+      <director>Gordon Chan</director>
+      <actor>Jackie Chan</actor>
+      <actor>Claire Forlani</actor>
+      <actor>Julian Sands</actor>
+      <actor>Lee Evans</actor>
+      <actor>John Rhys-Davies</actor>
+      <actor>Anthony Wong Chau- Sang</actor>
+      <actor>Christy Chung</actor>
+      <actor>Johann Myers</actor>
+      <actor>Alex Bao</actor>
+      <actor>Siu-Ming Lau</actor>
+      <actor>Diana C.Weng</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126143100 -0300" stop="20211126162200 -0300" channel="Space">
+    <title lang="pt">A Trilha</title>
+    <sub-title lang="pt">A Perfect Getaway</sub-title>
+    <desc lang="pt">Cliff e Cydney são recém casados que decidem passar sua lua de mel no Havaí. Mas logo encontram outros casais e ficam sabendo de uma série de assassinatos em outra ilha. Logo, o suspeito se apoderará de todos.</desc>
+    <credits>
+      <director>David Twohy</director>
+      <actor>Timothy Olyphant</actor>
+      <actor>Milla Jovovich</actor>
+      <actor>Kiele Sanchez</actor>
+      <actor>Steve Zahn</actor>
+      <actor>Marley Shelton</actor>
+      <actor>Chris Hemsworth</actor>
+      <actor>Anthony Ruivivar</actor>
+      <actor>Peter Navy Tuiasosopo</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126162200 -0300" stop="20211126181800 -0300" channel="Space">
+    <title lang="pt">Lendas dos Ringues</title>
+    <sub-title lang="pt">Cage Fighter Worlds Collide</sub-title>
+    <desc lang="pt">O filme conta a história de Reiss, campeão de MMA que perde um combate promovido, inesperadamente, para um campeão de WWE que estava fazendo sua estreia no mundo das artes marciais mistas.</desc>
+    <credits>
+      <director>Jesse Quinones</director>
+      <actor>Alex Montagnani</actor>
+      <actor>Jonathan Good</actor>
+      <actor>Gina Gershon</actor>
+      <actor>Brenna Coates</actor>
+    </credits>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126181800 -0300" stop="20211126192000 -0300" channel="Space">
+    <title lang="pt">O Estigma</title>
+    <desc lang="pt">Após cavalgar por horas no interior da mata, Bruno avista uma fazenda e resolve portar. Lá é recebido por Laura, uma menina linda de avental azul, que o apresenta ao dono da casa.</desc>
+    <credits>
+      <director>Fabio di Fiore</director>
+      <actor>Paulo Abel</actor>
+      <actor>Domingos Antonio</actor>
+      <actor>Rson Benedito</actor>
+      <actor>Michel Bercovitch</actor>
+      <actor>Pedro Colepicolo Boueiri</actor>
+      <actor>Rafaela Americano Torre de Alencar</actor>
+      <actor>Ana Petta</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126192000 -0300" stop="20211126210000 -0300" channel="Space">
+    <title lang="pt">Travessia</title>
+    <desc lang="pt">Roberto acabou de perder a esposa e está solitário e infeliz. Além disso, o relacionamento com seu único filho, Júlio, vai de mal a pior. Um dia, após se embebedar, ele acaba atropelando um garoto.</desc>
+    <credits>
+      <director>João Gabriel</director>
+      <actor>Camilla Camargo</actor>
+      <actor>Caio Castro</actor>
+      <actor>Chico Díaz</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126210000 -0300" stop="20211126223000 -0300" channel="Space">
+    <title lang="pt">Demônio</title>
+    <sub-title lang="pt">Devil</sub-title>
+    <desc lang="pt">Cinco pessoas que nunca se viram ficam presas num elevador de um arranha-céu comercial. E o que para muitos já seria motivo de tensão, fica ainda pior com os acontecimentos estranhos e violentos que começam a ocorrer no pequeno espaço.</desc>
+    <credits>
+      <director>John Erick Dowdle</director>
+      <actor>Chris Messina</actor>
+      <actor>Jenny O'Hara</actor>
+      <actor>Logan Marshall-Green</actor>
+      <actor>Bojana Novakovic</actor>
+      <actor>Bokeem Woodbine</actor>
+      <actor>Geoffrey Arend</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Filme (Terror)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125001500 -0300" stop="20211125021500 -0300" channel="Star Channel">
+    <title lang="pt">Assassino a Preço Fixo 2: A Ressurreição</title>
+    <sub-title lang="pt">Mechanic: Resurrection</sub-title>
+    <desc lang="pt">Vivendo escondido no RJ, Arthur Bishop é descoberto por uma capanga enviada por Riah Crain, que quer que Bishop retorne à vida de assassino para eliminar três pessoas que atrapalham seus negócios, mas quer que as mortes aparentem terem sido acidentais.</desc>
+    <credits>
+      <director>Dennis Gansel</director>
+      <actor>Jason Statham</actor>
+      <actor>Jessica Alba</actor>
+      <actor>Tommy Lee Jones</actor>
+      <actor>Michelle Yeoh</actor>
+      <actor>Sam Hazeldine</actor>
+      <actor>John Cenatiempo</actor>
+      <actor>Toby Eddington</actor>
+      <actor>Anteo Quintavalle</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211125021500 -0300" stop="20211125024500 -0300" channel="Star Channel">
+    <title lang="pt">Como Eu Conheci Sua Mãe</title>
+    <sub-title lang="pt">How I Met Your Mother</sub-title>
+    <desc lang="pt">Quando Barney é acometido pela pior ressaca do mundo na manhã do seu casamento, o grupo tenta encontrar os ingredientes praticamente impossíveis para a criação do "Elixir Cura Ressaca" da família Stinson.</desc>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor>Josh Radnor</actor>
+      <actor>Jason Segel</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Neil Patrick Harris</actor>
+      <actor>Alyson Hannigan</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125024500 -0300" stop="20211125044500 -0300" channel="Star Channel">
+    <title lang="pt">Três Anúncios Para um Crime</title>
+    <sub-title lang="pt">Three Billboards Outside Ebbing, Missouri</sub-title>
+    <desc lang="pt">Inconformada com a ineficácia da polícia em encontrar o culpado pelo assassinato de sua filha, Mildred decide chamar atenção para o caso não solucionado alugando três outdoors em uma estrada raramente usada. A inesperada atitude repercute em toda a cidade.</desc>
+    <credits>
+      <director>Martin McDonagh</director>
+      <actor>Frances McDormand</actor>
+      <actor>Caleb Landry Jones</actor>
+      <actor>Kerry Condon</actor>
+      <actor>Sam Rockwell</actor>
+      <actor>Alejandro Barrios</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme (Drama)</category>
+    <episode-num system="onscreen">S9 E17</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125044500 -0300" stop="20211125070000 -0300" channel="Star Channel">
+    <title lang="pt">Viagem das Garotas</title>
+    <sub-title lang="pt">Girls Trip</sub-title>
+    <desc lang="pt">Quatro amigas de longa data partem em uma longa jornada em busca de diversão por Nova Orleães, para participar dos grandes festejos anuais da cidade, o Essence Festival. Lá, a as intimidades são reavidadas e todos voltam a se aproximar com a animação.</desc>
+    <credits>
+      <director>Malcolm D. Lee</director>
+      <actor>Regina Hall</actor>
+      <actor>Queen Latifah</actor>
+      <actor>Jada Pinkett Smith</actor>
+      <actor>Tiffany Haddish</actor>
+      <actor>Larenz Tate</actor>
+      <actor>Mike Colter</actor>
+      <actor>Kate Walsh</actor>
+      <actor>Kofi Siriboe</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211125070000 -0300" stop="20211125080000 -0300" channel="Star Channel">
+    <title lang="pt">Arquivo X</title>
+    <sub-title lang="pt">The X Files</sub-title>
+    <desc lang="pt">Mulder e Scully são enviados para investigar o assassinato de um oficial da cidade, no qual nenhum humano poderia ter feito. Enquanto isso, Scully trabalha seus sentimentos profundos sobre a criança que ela deu para adoção.</desc>
+    <credits>
+      <director>Chris Carter</director>
+      <actor>David Duchovny</actor>
+      <actor>William B. Davis</actor>
+      <actor>Gillian Anderson</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Ficção)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211125080000 -0300" stop="20211125083000 -0300" channel="Star Channel">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Diversos. Espaço publicitário para divulgação de produtos e serviços.</desc>
+    <category lang="pt">Variedades (Diversos)</category>
+    <episode-num system="onscreen">S10 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125083000 -0300" stop="20211125090000 -0300" channel="Star Channel">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Diversos. Espaço publicitário para divulgação de produtos e serviços.</desc>
+    <category lang="pt">Variedades (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125090000 -0300" stop="20211125100000 -0300" channel="Star Channel">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Diversos. Espaço publicitário para divulgação de produtos e serviços.</desc>
+    <category lang="pt">Variedades (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125100000 -0300" stop="20211125114500 -0300" channel="Star Channel">
+    <title lang="pt">As Apimentadas: #desafiomundial</title>
+    <sub-title lang="pt">Bring It On: Worldwide #Cheersmack</sub-title>
+    <desc lang="pt">Destiny, a líder de torcida mais famosa do circuito, está com seu reinado ameaçado: um grupo anônimo e mascarado se junta com líderes do mundo inteiro para desafiá-la. Agora Destiny precisa provar que ainda é a melhor torcedora.</desc>
+    <credits>
+      <director>Robert Adetuyi</director>
+      <actor>Cristine Prosperi</actor>
+      <actor>Jordan Rodrigues</actor>
+      <actor>Sophie Vavasseur</actor>
+      <actor>Joshua Daniel Eady</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125114500 -0300" stop="20211125121500 -0300" channel="Star Channel">
+    <title lang="pt">Como Eu Conheci Sua Mãe</title>
+    <sub-title lang="pt">How I Met Your Mother</sub-title>
+    <desc lang="pt">Enquanto procuram por um embriagado Barney no dia do casamento, Robin e Ted relembram relacionamentos do passado.</desc>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor>Josh Radnor</actor>
+      <actor>Jason Segel</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Neil Patrick Harris</actor>
+      <actor>Alyson Hannigan</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125121500 -0300" stop="20211125124500 -0300" channel="Star Channel">
+    <title lang="pt">Modern Family</title>
+    <desc lang="pt">Cam finalmente está tendo uma chance de brilhar quando ele é convidado a presidir a cerimônia de formatura do ensino médio no último minuto. Jay faz o discurso de formatura.</desc>
+    <credits>
+      <director>Steven Levitan</director>
+      <actor>Ed O'Neill</actor>
+      <actor>Sofía Vergara</actor>
+      <actor>Julie Bowen</actor>
+      <actor>Ty Burrell</actor>
+      <actor>Jesse Tyler Ferguson</actor>
+      <actor>Eric Stonestreet</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S9 E18</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125124500 -0300" stop="20211125141500 -0300" channel="Star Channel">
+    <title lang="pt">A Herança de Mr. Deeds</title>
+    <sub-title lang="pt">Mr. Deeds</sub-title>
+    <desc lang="pt">Com a morte de um parente distante, Deeds (Adam Sandler) herda uma fortuna estimada em U$ 40 bilhões, além de várias empresas milionárias. Acostumado com uma vida simples e feliz na pequena cidade de Mandrake Falls, o simpático rapaz do interior é levado para Nova Iorque por dois executivos que se aproveitam de sua ingenuidade e fazem de tudo para tomar o controle do império deixado para Deeds.</desc>
+    <credits>
+      <director>Steven Brill</director>
+      <actor>Adam Sandler</actor>
+      <actor>Winona Ryder</actor>
+      <actor>John Turturro</actor>
+      <actor>Steve Buscemi</actor>
+      <actor>Jared Harris</actor>
+      <actor>Peter Gallagher</actor>
+      <actor>Conchata Ferrell</actor>
+      <actor>J.B. Smoove</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <episode-num system="onscreen">S10 E21</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125141500 -0300" stop="20211125154500 -0300" channel="Star Channel">
+    <title lang="pt">MIB: Homens de Preto 2</title>
+    <sub-title lang="pt">Men In Black II</sub-title>
+    <desc lang="pt">Um alien na pele de uma atraente modelo deseja pôr fim ao planeta. Jay então busca a ajuda do veterano Kay para que os Homens de Preto se unam e eliminem a nova ameaça.</desc>
+    <credits>
+      <director>Barry Sonnenfeld</director>
+      <actor>Tommy Lee Jones</actor>
+      <actor>Johnny Knoxville</actor>
+      <actor>Rip Torn</actor>
+      <actor>Will Smith</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125154500 -0300" stop="20211125182000 -0300" channel="Star Channel">
+    <title lang="pt">Maze Runner: A Cura Mortal</title>
+    <sub-title lang="pt">Maze Runner: The Death Cure</sub-title>
+    <desc lang="pt">Thomas e seus amigos planejam libertar Minho, capturado pela C.R.U.E.L., grupo que realiza experimentos em humanos imunes para procurar a cura de um vírus mortal. Para concluir a missão, eles precisam invadir a sede da organização, de onde sabem que podem nunca mais sair.</desc>
+    <credits>
+      <director>Wes Ball</director>
+      <actor>Dylan O'brien</actor>
+      <actor>Kaya Scodelario</actor>
+      <actor>Ki Hong Lee</actor>
+      <actor>Thomas Brodie-Sangster</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125182000 -0300" stop="20211125202000 -0300" channel="Star Channel">
+    <title lang="pt">Planeta dos Macacos</title>
+    <sub-title lang="pt">Planet of the Apes</sub-title>
+    <desc lang="pt">Planeta dos Macacos retrata um mundo de cabeça para baixo - um lugar brutal e primitivo, onde os macacos estão no poder e os humanos migalham por sua subsistência, caçados e escravizados por primatas tirânicos. O aparecimento repentino de um homem, estranho à ordem presente e não afetado por sua opressão, serve como desafio ao status que e como catalisador para uma revolução social.</desc>
+    <credits>
+      <director>Tim Burton</director>
+      <actor>Mark Wahlberg</actor>
+      <actor>Tim Roth</actor>
+      <actor>Helena Bonham Carter</actor>
+      <actor>Michael Clarke Duncan</actor>
+      <actor>Paul Giamatti</actor>
+      <actor>Estella Warren</actor>
+      <actor>Cary-Hiroyuki Tagawa</actor>
+      <actor>Kris Kristofferson</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="pt">Filme (Ficção)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211125202000 -0300" stop="20211125223000 -0300" channel="Star Channel">
+    <title lang="pt">Esquadrão Classe A</title>
+    <sub-title lang="pt">The A-Team</sub-title>
+    <desc lang="pt">Em 2003, uma unidade operacional de elite foi condenada pela corte militar por um crime que não cometeu. Mas estes homens escaparam rapidamente da prisão de segurança máxima e passaram a viver clandestinamente no submundo de Los Angeles.</desc>
+    <credits>
+      <director>Joe Carnahan</director>
+      <actor>Liam Neeson</actor>
+      <actor>Bradley Cooper</actor>
+      <actor>Jessica Biel</actor>
+      <actor>Quinton 'Rampage' Jackson</actor>
+      <actor>Sharlto Copley</actor>
+      <actor>Patrick Wilson</actor>
+      <actor>Gerald McRaney</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125223000 -0300" stop="20211126001500 -0300" channel="Star Channel">
+    <title lang="pt">Assassino a Preço Fixo 2: A Ressurreição</title>
+    <sub-title lang="pt">Mechanic: Resurrection</sub-title>
+    <desc lang="pt">Vivendo escondido no RJ, Arthur Bishop é descoberto por uma capanga enviada por Riah Crain, que quer que Bishop retorne à vida de assassino para eliminar três pessoas que atrapalham seus negócios, mas quer que as mortes aparentem terem sido acidentais.</desc>
+    <credits>
+      <director>Dennis Gansel</director>
+      <actor>Jason Statham</actor>
+      <actor>Jessica Alba</actor>
+      <actor>Tommy Lee Jones</actor>
+      <actor>Michelle Yeoh</actor>
+      <actor>Sam Hazeldine</actor>
+      <actor>John Cenatiempo</actor>
+      <actor>Toby Eddington</actor>
+      <actor>Anteo Quintavalle</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126001500 -0300" stop="20211126020000 -0300" channel="Star Channel">
+    <title lang="pt">Águas Rasas</title>
+    <sub-title lang="pt">The Shallows</sub-title>
+    <desc lang="pt">Nancy vai surfar em uma paradisíaca praia isolada e acaba sendo ataca por um tubarão. Ela consegue abrigo em um recife de corais, mas precisa encontrar o quanto antes uma maneira de sair da água.</desc>
+    <credits>
+      <director>Jaume Collet-Serra</director>
+      <actor>Blake Lively</actor>
+      <actor>Sedona Legge</actor>
+      <actor>Óscar Jaenada</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Filme (Suspense)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126020000 -0300" stop="20211126023000 -0300" channel="Star Channel">
+    <title lang="pt">Como Eu Conheci Sua Mãe</title>
+    <sub-title lang="pt">How I Met Your Mother</sub-title>
+    <desc lang="pt">Enquanto procuram por um embriagado Barney no dia do casamento, Robin e Ted relembram relacionamentos do passado.</desc>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor>Josh Radnor</actor>
+      <actor>Jason Segel</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Neil Patrick Harris</actor>
+      <actor>Alyson Hannigan</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126023000 -0300" stop="20211126030000 -0300" channel="Star Channel">
+    <title lang="pt">Modern Family</title>
+    <desc lang="pt">O plano de Haley e Dylan de fugir antes dos bebês nascerem não corre tão bem quanto eles esperavam. Enquanto isso, Jay tenta tirar o seu novo negócio do papel ao paquerar uma celebridade do Instagram.</desc>
+    <credits>
+      <director>Steven Levitan</director>
+      <actor>Ed O'Neill</actor>
+      <actor>Sofía Vergara</actor>
+      <actor>Julie Bowen</actor>
+      <actor>Ty Burrell</actor>
+      <actor>Jesse Tyler Ferguson</actor>
+      <actor>Eric Stonestreet</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S9 E18</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126030000 -0300" stop="20211126044000 -0300" channel="Star Channel">
+    <title lang="pt">Kings: Los Angeles em Chamas</title>
+    <sub-title lang="pt">Kings</sub-title>
+    <desc lang="pt">Em 1992, uma área pobre nos EUA é tomada por protestos quando o taxista negro Rodney King é espancado por policiais que acabam inocentados. Mãe solteira, Millie tenta proteger seus filhos em meio ao caos.</desc>
+    <credits>
+      <director>Deniz Gamze Ergüven</director>
+      <actor>Halle Berry</actor>
+      <actor>Daniel Craig</actor>
+      <actor>Lamar Johnson</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme (Drama)</category>
+    <episode-num system="onscreen">S10 E20</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126044000 -0300" stop="20211126061000 -0300" channel="Star Channel">
+    <title lang="pt">MIB: Homens de Preto</title>
+    <sub-title lang="pt">Men In Black</sub-title>
+    <desc lang="pt">O agente K e seu parceiro James Edwards têm o trabalho de proteger o planeta das ameaças de seres intergalácticos. Desta vez, eles tentam salvar o mundo das garras de um terrorista alienígena.</desc>
+    <credits>
+      <director>Barry Sonnenfeld</director>
+      <actor>Tommy Lee Jones</actor>
+      <actor>Linda Fiorentino</actor>
+      <actor>Vincent D'onofrio</actor>
+      <actor>Will Smith</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126061000 -0300" stop="20211126070000 -0300" channel="Star Channel">
+    <title lang="pt">Arquivo X</title>
+    <sub-title lang="pt">The X Files</sub-title>
+    <desc lang="pt">Mulder e Scully são enviados para investigar o assassinato de um oficial da cidade, no qual nenhum humano poderia ter feito. Enquanto isso, Scully trabalha seus sentimentos profundos sobre a criança que ela deu para adoção.</desc>
+    <credits>
+      <director>Chris Carter</director>
+      <actor>David Duchovny</actor>
+      <actor>William B. Davis</actor>
+      <actor>Gillian Anderson</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Ficção)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126070000 -0300" stop="20211126080000 -0300" channel="Star Channel">
+    <title lang="pt">Arquivo X</title>
+    <sub-title lang="pt">The X Files</sub-title>
+    <desc lang="pt">Quando uma galeria de arte potencialmente ofensiva é bombardeada, Mulder e Scully procuram uma maneira de se comunicar com uma das vítimas para prevenir um futuro ataque. Enquanto isso, dois jovens agentes do FBI forçam Mulder e Scully a examinar suas próprias pistas, enquanto Scully procura respostas da Neurociência e Mulder do misticismo.</desc>
+    <credits>
+      <director>Chris Carter</director>
+      <actor>David Duchovny</actor>
+      <actor>William B. Davis</actor>
+      <actor>Gillian Anderson</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Ficção)</category>
+    <episode-num system="onscreen">S10 E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126080000 -0300" stop="20211126083000 -0300" channel="Star Channel">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Diversos. Espaço publicitário para divulgação de produtos e serviços.</desc>
+    <category lang="pt">Variedades (Diversos)</category>
+    <episode-num system="onscreen">S10 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126083000 -0300" stop="20211126090000 -0300" channel="Star Channel">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Diversos. Espaço publicitário para divulgação de produtos e serviços.</desc>
+    <category lang="pt">Variedades (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126090000 -0300" stop="20211126100000 -0300" channel="Star Channel">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Diversos. Espaço publicitário para divulgação de produtos e serviços.</desc>
+    <category lang="pt">Variedades (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126100000 -0300" stop="20211126120000 -0300" channel="Star Channel">
+    <title lang="pt">Plano B</title>
+    <sub-title lang="pt">The Back Up Plan</sub-title>
+    <desc lang="pt">Após anos de inúmeros namoros, Zoe decidiu que esperar pelo homem certo estava demorando demais. Determinada a se tornar mãe, ela decide fazer uma inseminação artificial.</desc>
+    <credits>
+      <director>Alan Poul</director>
+      <actor>Jennifer Lopez</actor>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Michaela Watkins</actor>
+      <actor>Eri c Christian Olsen</actor>
+      <actor>Anthony Anderson</actor>
+      <actor>Noureen DeWulf</actor>
+      <actor>Melissa McCarthy</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126120000 -0300" stop="20211126123000 -0300" channel="Star Channel">
+    <title lang="pt">Como Eu Conheci Sua Mãe</title>
+    <sub-title lang="pt">How I Met Your Mother</sub-title>
+    <desc lang="pt">Na manhã do casamento, Lily e Robin brigam enquanto Barney surta na hora de escolher que terno usar. Mais tarde, a gangue assiste a um filme que Ted os proibiu de ver.</desc>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor>Josh Radnor</actor>
+      <actor>Jason Segel</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Neil Patrick Harris</actor>
+      <actor>Alyson Hannigan</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126123000 -0300" stop="20211126130000 -0300" channel="Star Channel">
+    <title lang="pt">Modern Family</title>
+    <desc lang="pt">O nascimento dos gêmeos de Haley e Dylan se aproxima. Acompanhe como cada membro da família comemorava o seu aniversário.</desc>
+    <credits>
+      <director>Steven Levitan</director>
+      <actor>Ed O'Neill</actor>
+      <actor>Sofía Vergara</actor>
+      <actor>Julie Bowen</actor>
+      <actor>Ty Burrell</actor>
+      <actor>Jesse Tyler Ferguson</actor>
+      <actor>Eric Stonestreet</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S9 E19</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126130000 -0300" stop="20211126150500 -0300" channel="Star Channel">
+    <title lang="pt">Álbum de Família</title>
+    <sub-title lang="pt">August: Osage County</sub-title>
+    <desc lang="pt">As irmãs Barbara, Ivy e Karen precisam voltar para casa para cuidar de sua mãe Violet, que está com câncer. Mas o reencontro gera uma série de conflitos entre todos e grandes segredos serão revelados.</desc>
+    <credits>
+      <director>John Wells</director>
+      <actor>Meryl Streep</actor>
+      <actor>Julia Roberts</actor>
+      <actor>Juliette Lewis</actor>
+      <actor>Chris Cooper</actor>
+      <actor>Ewan McGregor</actor>
+      <actor>Julianne Nicholson</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Filme (Drama)</category>
+    <episode-num system="onscreen">S10 E22</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126150500 -0300" stop="20211126164500 -0300" channel="Star Channel">
+    <title lang="pt">Pai em Dose Dupla 2</title>
+    <sub-title lang="pt">Daddy's Home 2</sub-title>
+    <desc lang="pt">Após resolverem suas diferenças, Brad e Dusty precisam agora lidar com uma nova situação complicada: a súbita aparição de seus pais, que possuem comportamentos bem diferentes.</desc>
+    <credits>
+      <director>Sean Anders</director>
+      <actor>Will Ferrell</actor>
+      <actor>Mark Wahlberg</actor>
+      <actor>Mel Gibson</actor>
+      <actor>John Lithgow</actor>
+      <actor>Linda Cardellini</actor>
+      <actor>Alessandra Ambrosio</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126164500 -0300" stop="20211126191500 -0300" channel="Star Channel">
+    <title lang="pt">O Hobbit: A Batalha dos Cinco Exércitos</title>
+    <sub-title lang="pt">The Hobbit: The Battle of the Five Armies</sub-title>
+    <desc lang="pt">A épica conclusão da aventura de Bilbo Bolseiro. Após o dragão Smaug ser expulso de Erebor, o arqueiro Bard consegue derrotá-lo. Agora, Bilbo, Gandalf, Thorin Escudo de Carvalho e sua companhia de anões precisam enfrentar elfos e orcs na Batalha dos Cinco Exércitos.</desc>
+    <credits>
+      <director>Peter Jackson</director>
+      <actor>Ian McKellen</actor>
+      <actor>Martin Freeman</actor>
+      <actor>Richard Armitage</actor>
+      <actor>Ken Stott</actor>
+      <actor>Graham McTavish</actor>
+      <actor>James Nesbitt</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Filme (Aventura)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126191500 -0300" stop="20211126210500 -0300" channel="Star Channel">
+    <title lang="pt">Gente Grande 2</title>
+    <sub-title lang="pt">Grown Ups 2</sub-title>
+    <desc lang="pt">Lenny, Eric, Kurt e Marcus voltam a morar na mesma cidade. Ao tentar relembrar os velhos tempos, descobrem que jovens universitários da região dominam o lugar. Agora eles precisam mostrar quem é que manda no local. Pra isso, Lenny precisa enfrentar um fantasma do passado.</desc>
+    <credits>
+      <director>Dennis Dugan</director>
+      <actor>Adam Sandler</actor>
+      <actor>Chris Rock</actor>
+      <actor>David Spade</actor>
+      <actor>Kevin James</actor>
+      <actor>Maria Bello</actor>
+      <actor>Maya Rudolph</actor>
+      <actor>Salma Hayek</actor>
+      <actor>Steve Buscemi</actor>
+      <actor>Tim Meadows</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126210500 -0300" stop="20211126230000 -0300" channel="Star Channel">
+    <title lang="pt">O Amor é Cego</title>
+    <sub-title lang="pt">Shallow Hal</sub-title>
+    <desc lang="pt">Quando seu pai estava no leito de morte, Hal Larson (Jack Black) recebeu o conselho: "nunca se case com uma mulher feia". O tempo passa e o rapaz cresce com a obsessão de encontrar uma namorada de físico perfeito. Ele se torna um executivo bem-sucedido, porém vazio (o título original é ''Shallow Hal'' - Hal quer dizer vazio), só preocupado em aparências. Mas as coisas não são tão simples: gordinho, ele não tem muita sorte com as garotas, principalmente com aquelas que ele tanto sonha. As coisas mudam quando ele é hipnotizado por um famoso guru da auto-ajuda, o que faz com que ele enxergue apenas a beleza interior das mulheres. É quando ele encontra o grande amor de sua vida, Rosemary Shanahan (Gwyneth Paltrow). Bonita, sexy e meiga, Rosemary é perfeita demais para ser real. O que Hal não sabe é que sua namorada não é a garota esbelta que ele vê, e sim uma obesa de 150 quilos.</desc>
+    <credits>
+      <director>Peter Farrelly</director>
+      <director>Bobby Farrelly</director>
+      <actor>Jack Black</actor>
+      <actor>Gwyneth Paltrow</actor>
+      <actor>Jason Alexander</actor>
+      <actor>Sascha Knopf</actor>
+      <actor>Libby Langdon</actor>
+      <actor>Sasha Neulinger</actor>
+      <actor>Tony Robins</actor>
+      <actor>Joe Viterelli</actor>
+      <actor>Brooke Burns</actor>
+      <actor>Laura Kightlinger</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125002500 -0300" stop="20211125011000 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run</title>
+    <desc lang="pt">Uma nave espacial russa aterrissa por acidente em Naco. A notícia se espalha e o povoado fica conhecido mundialmente. O prefeito entrega as chaves da cidade aos astronautas, enquanto Gama e Morris saem em busca de novos horizontes.</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Harold Torres</actor>
+      <actor>Eivaut Rischen</actor>
+      <actor>Macarena Miguel</actor>
+      <actor>Maya Zapata</actor>
+      <actor>Héctor Jiménez</actor>
+      <actor>Fernando Gaviria</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125011000 -0300" stop="20211125015500 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run</title>
+    <desc lang="pt">Gama e Morris vão embora de Naco com Wendy. Natividad fica sabendo disso e manda El Muerto caçá-los. O sicário não poupará violência para cumprir sua missão, e os coiotes deverão enfrentar um destino inesperado.</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Harold Torres</actor>
+      <actor>Eivaut Rischen</actor>
+      <actor>Macarena Miguel</actor>
+      <actor>Maya Zapata</actor>
+      <actor>Héctor Jiménez</actor>
+      <actor>Fernando Gaviria</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125015500 -0300" stop="20211125023600 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run</title>
+    <desc lang="pt">Fugitivos da polícia americana, Gama e Morris retornam a Naco e encontram a cidade tomada por grupos do narcotráfico que disputam a praça. Sem poder encontrar Wendy, eles decidem se refugiar novamente nos Estados Unidos.</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Daniela Botero</actor>
+      <actor>Eivaut Rischen</actor>
+      <actor>Emma Escalante</actor>
+      <actor>Harold Torres</actor>
+      <actor>Héctor Jiménez</actor>
+      <actor>Norma Angélica</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125023600 -0300" stop="20211125030100 -0300" channel="Star Hits 1">
+    <title lang="pt">Atlanta</title>
+    <desc lang="pt">Eu amo a minha melhor amiga de verdade, mas eu também não a suporto. Van fica com inveja porque sua garota fashion abre alas. Ok, garota, vá pegar o que é seu!</desc>
+    <credits>
+      <director>Donald Glover</director>
+      <actor>Donald Glover</actor>
+      <actor>Zazie Beetz</actor>
+      <actor>Danny Chung</actor>
+      <actor>Keith Stanfield</actor>
+      <actor>Armie Hicks Jr.</actor>
+      <actor>Montrel Miller</actor>
+      <actor>Precious Bright</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125030100 -0300" stop="20211125032200 -0300" channel="Star Hits 1">
+    <title lang="pt">Atlanta</title>
+    <desc lang="pt">No Talk Show Montague apresentado por Franklin Montague e o assunto da observação do crescimento da sexualidade aceita e seu efeito na juventude e cultura negra, com os convidados especiais Dr. Debrah Holt e Paper Boi.".</desc>
+    <credits>
+      <director>Janicza Bravo</director>
+      <actor>Donald Glover</actor>
+      <actor>Colin Lacativa</actor>
+      <actor>Mason Pike</actor>
+      <actor>Keith Stanfield</actor>
+      <actor>Al-Jaleel Knox</actor>
+      <actor>Jessica A. Caesar</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125032200 -0300" stop="20211125040500 -0300" channel="Star Hits 1">
+    <title lang="pt">1 Contra Todos</title>
+    <desc lang="pt">Encurralado por todos os lados, Cadu decide fugir para não arriscar a segurança de sua família e aliados.</desc>
+    <credits>
+      <director>Breno Silveira</director>
+      <actor>Julio Andrade</actor>
+      <actor>Adriano Garib</actor>
+      <actor>Bernardo Alves</actor>
+      <actor>Roberto Birindelli</actor>
+      <actor>Thogun Teixeira</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125040500 -0300" stop="20211125045100 -0300" channel="Star Hits 1">
+    <title lang="pt">Harlots</title>
+    <desc lang="pt">Com o bordel de Charlotte destruído pelo fogo, ela está determinada a revidar. Porém, as mulheres precisarão ser espertas já que os Pincher são homens violentos. Lucy se oferece para ajudar a irmã de uma forma que também beneficia o seu novo negócio.</desc>
+    <credits>
+      <director>Robin Sheppard</director>
+      <actor>Alfie Allen</actor>
+      <actor>Eloise Smyth</actor>
+      <actor>Jessica Brown Findlay</actor>
+      <actor>Lesley Manville</actor>
+      <actor>Liv Tyler</actor>
+      <actor>Samantha Morton</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211125045100 -0300" stop="20211125053700 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera</title>
+    <desc lang="pt">Georgina confessa a verdade para Jeff. Enquanto ele confronta Irina, o segredo de Cassandra finalmente é revelado. Georgina fica cara a cara com Constantine.</desc>
+    <credits>
+      <director>Paul Norton Walker</director>
+      <actor>Adrian Lester</actor>
+      <actor>Dimitri Leonidas</actor>
+      <actor>Julia Stiles</actor>
+      <actor>Lena Olin</actor>
+      <actor>Will Arnett</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125053700 -0300" stop="20211125060000 -0300" channel="Star Hits 1">
+    <title lang="pt">Atlanta</title>
+    <desc lang="pt">No meio dos disparos, Earn e Alfred são presos. Enquanto Alfred é solto por fiança, Earn fica dentro e espera ser processado.</desc>
+    <credits>
+      <director>Donald Glover</director>
+      <director>Hiro Murai</director>
+      <actor>Donald Glover</actor>
+      <actor>Angela Ray</actor>
+      <actor>Deaven Brooks</actor>
+      <actor>Carra Greer</actor>
+    </credits>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125060000 -0300" stop="20211125062100 -0300" channel="Star Hits 1">
+    <title lang="pt">Atlanta</title>
+    <desc lang="pt">No Talk Show Montague apresentado por Franklin Montague e o assunto da observação do crescimento da sexualidade aceita e seu efeito na juventude e cultura negra, com os convidados especiais Dr. Debrah Holt e Paper Boi.".</desc>
+    <credits>
+      <director>Janicza Bravo</director>
+      <actor>Donald Glover</actor>
+      <actor>Colin Lacativa</actor>
+      <actor>Mason Pike</actor>
+      <actor>Keith Stanfield</actor>
+      <actor>Al-Jaleel Knox</actor>
+      <actor>Jessica A. Caesar</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125062100 -0300" stop="20211125064700 -0300" channel="Star Hits 1">
+    <title lang="pt">Atlanta</title>
+    <desc lang="pt">A noite no clube Primal não sai como planejada ou esperada. O clube está fervendo, mas Paper Boi não está recebendo o amor e respeito que ele sente que merece.</desc>
+    <credits>
+      <director>Donald Glover</director>
+      <director>Hiro Murai</director>
+      <actor>Donald Glover</actor>
+      <actor>Colin Lacativa</actor>
+      <actor>Mason Pike</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125064700 -0300" stop="20211125071100 -0300" channel="Star Hits 1">
+    <title lang="pt">Atlanta</title>
+    <desc lang="pt">Van leva Earn para uma festa de independência negra no lar de uns conhecidos ricos, mas ele está menos que entusiasmado no tema de emancipação ou na natureza snob do casal bi racial e seus convidados.</desc>
+    <credits>
+      <director>Donald Glover</director>
+      <actor>Alano Miller</actor>
+      <actor>Chris Greene</actor>
+      <actor>Tim McAdams</actor>
+      <actor>Niles Stewart</actor>
+      <actor>Brian Tyree Henry</actor>
+      <actor>Erskine C. Johnson III</actor>
+      <actor>Mary Kraft</actor>
+      <actor>Tonia Jackson</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125071100 -0300" stop="20211125075400 -0300" channel="Star Hits 1">
+    <title lang="pt">1 Contra Todos</title>
+    <desc lang="pt">Carlos Eduardo Oliveira, o CADU, está tendo um dia de cão. Se não bastasse estar atrasado pro trabalho, a casa dele esta um caos por causa das obras inacabadas no quarto do bebê que está para chegar.</desc>
+    <credits>
+      <director>Breno Silveira</director>
+      <actor>Julio Andrade</actor>
+      <actor>Adriano Garib</actor>
+    </credits>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125075400 -0300" stop="20211125083500 -0300" channel="Star Hits 1">
+    <title lang="pt">1 Contra Todos</title>
+    <desc lang="pt">No seu primeiro dia no presídio, Cadu caminha pelo pátio com China, que lhe apresenta aos detentos.</desc>
+    <credits>
+      <director>Breno Silveira</director>
+      <actor>Julio Andrade</actor>
+      <actor>Adriano Garib</actor>
+    </credits>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125083500 -0300" stop="20211125091000 -0300" channel="Star Hits 1">
+    <title lang="pt">1 Contra Todos</title>
+    <desc lang="pt">Cadu começa a viver sua mentira. Age e se veste como o ''dono do Hotel'', mas manter esse status tem um custo alto para uma família quase falida.</desc>
+    <credits>
+      <director>Breno Silveira</director>
+      <actor>Julio Andrade</actor>
+      <actor>Adriano Garib</actor>
+    </credits>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125091000 -0300" stop="20211125094500 -0300" channel="Star Hits 1">
+    <title lang="pt">1 Contra Todos</title>
+    <desc lang="pt">Apresenta a história de Cadu, um defensor público que vê sua vida mudar após ser confundido com um traficante e acabar preso.</desc>
+    <credits>
+      <director>Breno Silveira</director>
+      <actor>Julio Andrade</actor>
+      <actor>Adriano Garib</actor>
+    </credits>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125094500 -0300" stop="20211125100700 -0300" channel="Star Hits 1">
+    <title lang="pt">Bless This Mess</title>
+    <desc lang="pt">Kay pede a ajuda de Mike e Rio para acompanhar o evento pós-baile de Jacob no centro comunitário.</desc>
+    <credits>
+      <director>Erin O'Malley</director>
+      <actor>David Koechner</actor>
+      <actor>Dax Shepard</actor>
+      <actor>Ed Begley Jr.</actor>
+      <actor>JT Neal</actor>
+      <actor>Lake Bell</actor>
+      <actor>Lennon Parham</actor>
+      <actor>Pam Grier</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125100700 -0300" stop="20211125105000 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run</title>
+    <desc lang="pt">Gama e Morris tentam salvar a Wendy antes que seja tarde enquanto a disputa da praça entre o Dragón e Natividad segue.</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Daniela Botero</actor>
+      <actor>Eivaut Rischen</actor>
+      <actor>Emma Escalante</actor>
+      <actor>Harold Torres</actor>
+      <actor>Héctor Jiménez</actor>
+      <actor>Norma Angélica</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S2 E17</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125105000 -0300" stop="20211125113300 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run</title>
+    <desc lang="pt">Três jovens cineastas chegam a Naco para filmar um documentário sobre a fronteira e ficam presos no meio da disputa entre os narcotraficantes.</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Daniela Botero</actor>
+      <actor>Eivaut Rischen</actor>
+      <actor>Emma Escalante</actor>
+      <actor>Harold Torres</actor>
+      <actor>Héctor Jiménez</actor>
+      <actor>Norma Angélica</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125113300 -0300" stop="20211125121600 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run</title>
+    <desc lang="pt">A equipe infantil de beisebol de Naco deverá cruzar até os Estados Unidos para disputar a final contra um time gringo. Sem vistos ou recursos, eles deverão confiar na sagacidade de Gama e Morris para chegar a tempo para a partida.</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Daniela Botero</actor>
+      <actor>Eivaut Rischen</actor>
+      <actor>Emma Escalante</actor>
+      <actor>Harold Torres</actor>
+      <actor>Héctor Jiménez</actor>
+      <actor>Norma Angélica</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125121600 -0300" stop="20211125130400 -0300" channel="Star Hits 1">
+    <title lang="pt">Harlots</title>
+    <desc lang="pt">Todos do Soho estão se preparando para uma festa ilícita na casa de Lady Fitz. Porém, com Lydia fora de Bedlam, Blayne de volta e os Pincher decididos a selar um acordo lucrativo, a tensão aumenta. A chegada de um velho amigo revive as rivalidades.</desc>
+    <credits>
+      <director>Robin Sheppard</director>
+      <actor>Alfie Allen</actor>
+      <actor>Eloise Smyth</actor>
+      <actor>Jessica Brown Findlay</actor>
+      <actor>Lesley Manville</actor>
+      <actor>Liv Tyler</actor>
+      <actor>Samantha Morton</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211125130400 -0300" stop="20211125140300 -0300" channel="Star Hits 1">
+    <title lang="pt">Aqui na Terra</title>
+    <desc lang="pt">Adam enfrenta uma crise no casamento por causa de Rocha. Carlos continua investigando o suposto assassino de seu pai, mas isso o leva a um beco sem saída.</desc>
+    <credits>
+      <director>Everardo Gout</director>
+      <actor>Alfonso Dosal</actor>
+      <actor>Ariadna Gil</actor>
+      <actor>Daniel Giménez Cacho</actor>
+      <actor>Gael García Bernal</actor>
+      <actor>Paulina Dávila</actor>
+      <actor>Tenoch Huerta</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Suspense)</category>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125140300 -0300" stop="20211125144500 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera</title>
+    <desc lang="pt">Georgina usa o memorial de Raoul para canalizar a sua tristeza pela morte de Constantine. Enquanto isso, Nico fica de olho no império Clios e solta uma bomba que ameaça a família. Já Georgina descobre que Noah não é o que parece ser.</desc>
+    <credits>
+      <director>Destiny Ekaragha</director>
+      <actor>Adrian Lester</actor>
+      <actor>Dimitri Leonidas</actor>
+      <actor>Julia Stiles</actor>
+      <actor>Lena Olin</actor>
+      <actor>Will Arnett</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125144500 -0300" stop="20211125154100 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros</title>
+    <desc lang="pt">Evandro tenta se estabelecer na Bolívia com ajuda dos Irmãos Urquiza. Em uma operação extraordinária, Morello finalmente prende Evandro. Detido em Bangu, ele recebe a visita da mãe, que agora sabe do seu real papel na morte do irmão Zeca. Em meio à uma rebelião liderada por Bruninho Bagdá e Salvador, Evandro se surpreende com a reaparição de um velho amigo como um possível aliado para poder seguir com vida.</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Cyria Coentro</actor>
+      <actor>Fernanda Machado</actor>
+      <actor>João Vitor Silva</actor>
+      <actor>Raphael Logam</actor>
+      <actor>Rocco Pitanga</actor>
+      <actor>Rui Ricardo</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125154100 -0300" stop="20211125163400 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S1 E10</episode-num>
+  </programme>
+  <programme start="20211125163400 -0300" stop="20211125173400 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros</title>
+    <desc lang="pt">Os Irmãos Urquiza assaltam a Segunda Armada. O poder de Evandro dentro da prisão se fortalece.</desc>
+    <credits>
+      <director>Tomas Portella</director>
+      <director>René Sampaio</director>
+      <actor>Dj Amorim</actor>
+      <actor>Michel Bercovitch</actor>
+      <actor>Peter Brandão</actor>
+      <actor>Lorena Comparato</actor>
+      <actor>Luciano Cáceres</actor>
+      <actor>Rui Ricardo Diaz</actor>
+      <actor>Cyria Coentro</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125173400 -0300" stop="20211125182900 -0300" channel="Star Hits 1">
+    <title lang="pt">Godfather of Harlem</title>
+    <desc lang="pt">Bumpy incita a guerra entre as famílias Genovese e Bonanno. Quando Margaret desaparece, Mayme e Elise se juntam para encontrá-la.</desc>
+    <credits>
+      <director>John Ridley</director>
+      <actor>Antoinette Crowe-Legacy</actor>
+      <actor>Forest Whitaker</actor>
+      <actor>Ilfenesh Hadera</actor>
+      <actor>Lucy Fry</actor>
+      <actor>Nigel Thatch</actor>
+      <actor>Vincent D'Onofrio</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125182900 -0300" stop="20211125192200 -0300" channel="Star Hits 1">
+    <title lang="pt">Godfather of Harlem</title>
+    <desc lang="pt">No dia da marcha de Washington, Chin e Bonnano estão em guerra no Harlem. Bumpy descobre que ele e Mayme nunca adotaram Margaret formalmente, então ele pede a Elise a sua permissão. Malcolm X e Adam Clayton Powell Jr. viajam para D.C. para a marcha.</desc>
+    <credits>
+      <director>Ernest R. Dickerson</director>
+      <actor>Antoinette Crowe-Legacy</actor>
+      <actor>Forest Whitaker</actor>
+      <actor>Ilfenesh Hadera</actor>
+      <actor>Lucy Fry</actor>
+      <actor>Nigel Thatch</actor>
+      <actor>Vincent D'Onofrio</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125192200 -0300" stop="20211125201600 -0300" channel="Star Hits 1">
+    <title lang="pt">Godfather of Harlem</title>
+    <desc lang="pt">Por conta das condições precárias de moradia no Harlem, Adam Powell Jr. lidera uma greve de aluguel e investiga os donos dos edifícios. Ernie Nunzi procura a prostituta que ajudou a montar o Zambrano enquanto Bumpy e Mayme vivem tensão no casamento.</desc>
+    <credits>
+      <director>Ernest R. Dickerson</director>
+      <actor>Antoinette Crowe-Legacy</actor>
+      <actor>Forest Whitaker</actor>
+      <actor>Ilfenesh Hadera</actor>
+      <actor>Lucy Fry</actor>
+      <actor>Nigel Thatch</actor>
+      <actor>Vincent D'Onofrio</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125201600 -0300" stop="20211125211500 -0300" channel="Star Hits 1">
+    <title lang="pt">Godfather of Harlem</title>
+    <desc lang="pt">No final da primeira temporada, Bumpy chantageia a máfia na tentativa de garantir a segurança de si e de sua família. O presidente John F. Kennedy é assassinado. Teddy se apresenta no Teatro Apollo no Harlem.</desc>
+    <credits>
+      <director>Joe Chappelle</director>
+      <actor>Antoinette Crowe-Legacy</actor>
+      <actor>Forest Whitaker</actor>
+      <actor>Ilfenesh Hadera</actor>
+      <actor>Lucy Fry</actor>
+      <actor>Nigel Thatch</actor>
+      <actor>Vincent D'Onofrio</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125211500 -0300" stop="20211125221500 -0300" channel="Star Hits 1">
+    <title lang="pt">Godfather of Harlem</title>
+    <desc lang="pt">Após voltar de Alcatraz, Bumpy Johnson busca recuperar o controle do Harlem.</desc>
+    <credits>
+      <director>John Ridley</director>
+      <actor>Antoinette Crowe-Legacy</actor>
+      <actor>Forest Whitaker</actor>
+      <actor>Ilfenesh Hadera</actor>
+      <actor>Lucy Fry</actor>
+      <actor>Nigel Thatch</actor>
+      <actor>Vincent D'Onofrio</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125221500 -0300" stop="20211125230400 -0300" channel="Star Hits 1">
+    <title lang="pt">Mrs. America</title>
+    <desc lang="pt">À medida que a campanha anti-emenda cresce e ganha a atenção da mídia, Betty Friedan, a mãe do movimento feminista, assume como a sua principal missão derrubar Phyllis.</desc>
+    <credits>
+      <director>Amma Asante</director>
+      <actor>Ari Graynor</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>Elizabeth Banks</actor>
+      <actor>Rose Byrne</actor>
+      <actor>Sarah Paulson</actor>
+      <actor>Uzo Aduba</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125230400 -0300" stop="20211125235700 -0300" channel="Star Hits 1">
+    <title lang="pt">Mrs. America</title>
+    <desc lang="pt">Phyllis e Fred Schlafly debatem com o casal feminista Brenda e Marc Feigan-Fasteau na televisão.</desc>
+    <credits>
+      <director>Laure de Clermont-Tonnerre</director>
+      <actor>Ari Graynor</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>Elizabeth Banks</actor>
+      <actor>Rose Byrne</actor>
+      <actor>Sarah Paulson</actor>
+      <actor>Uzo Aduba</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125235700 -0300" stop="20211126004600 -0300" channel="Star Hits 1">
+    <title lang="pt">Mrs. America</title>
+    <desc lang="pt">Com uma republicana pró-emenda na Casa Branca, Phyllis protesta contra o seu próprio partido, o que a coloca em conflito com a líder feminista republicana Jill Ruckelshaus.</desc>
+    <credits>
+      <director>Laure de Clermont-Tonnerre</director>
+      <actor>Ari Graynor</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>Elizabeth Banks</actor>
+      <actor>Rose Byrne</actor>
+      <actor>Sarah Paulson</actor>
+      <actor>Uzo Aduba</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126004600 -0300" stop="20211126012900 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run</title>
+    <desc lang="pt">Gama e Morris tentam salvar a Wendy antes que seja tarde enquanto a disputa da praça entre o Dragón e Natividad segue.</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Daniela Botero</actor>
+      <actor>Eivaut Rischen</actor>
+      <actor>Emma Escalante</actor>
+      <actor>Harold Torres</actor>
+      <actor>Héctor Jiménez</actor>
+      <actor>Norma Angélica</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126012900 -0300" stop="20211126021100 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run</title>
+    <desc lang="pt">Três jovens cineastas chegam a Naco para filmar um documentário sobre a fronteira e ficam presos no meio da disputa entre os narcotraficantes.</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Daniela Botero</actor>
+      <actor>Eivaut Rischen</actor>
+      <actor>Emma Escalante</actor>
+      <actor>Harold Torres</actor>
+      <actor>Héctor Jiménez</actor>
+      <actor>Norma Angélica</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126021100 -0300" stop="20211126025400 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run</title>
+    <desc lang="pt">A equipe infantil de beisebol de Naco deverá cruzar até os Estados Unidos para disputar a final contra um time gringo. Sem vistos ou recursos, eles deverão confiar na sagacidade de Gama e Morris para chegar a tempo para a partida.</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Daniela Botero</actor>
+      <actor>Eivaut Rischen</actor>
+      <actor>Emma Escalante</actor>
+      <actor>Harold Torres</actor>
+      <actor>Héctor Jiménez</actor>
+      <actor>Norma Angélica</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126025400 -0300" stop="20211126032000 -0300" channel="Star Hits 1">
+    <title lang="pt">Atlanta</title>
+    <desc lang="pt">A noite no clube Primal não sai como planejada ou esperada. O clube está fervendo, mas Paper Boi não está recebendo o amor e respeito que ele sente que merece.</desc>
+    <credits>
+      <director>Donald Glover</director>
+      <director>Hiro Murai</director>
+      <actor>Donald Glover</actor>
+      <actor>Colin Lacativa</actor>
+      <actor>Mason Pike</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126032000 -0300" stop="20211126034400 -0300" channel="Star Hits 1">
+    <title lang="pt">Atlanta</title>
+    <desc lang="pt">Van leva Earn para uma festa de independência negra no lar de uns conhecidos ricos, mas ele está menos que entusiasmado no tema de emancipação ou na natureza snob do casal bi racial e seus convidados.</desc>
+    <credits>
+      <director>Donald Glover</director>
+      <actor>Alano Miller</actor>
+      <actor>Chris Greene</actor>
+      <actor>Tim McAdams</actor>
+      <actor>Niles Stewart</actor>
+      <actor>Brian Tyree Henry</actor>
+      <actor>Erskine C. Johnson III</actor>
+      <actor>Mary Kraft</actor>
+      <actor>Tonia Jackson</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126034400 -0300" stop="20211126043700 -0300" channel="Star Hits 1">
+    <title lang="pt">1 Contra Todos</title>
+    <desc lang="pt">Vendo todo o estrago e sofrimento a sua volta, Cadu encontra a única forma de não ser uma ameaça a todos aqueles que ama, mesmo que para isso tenha que sacrificar-se.</desc>
+    <credits>
+      <director>Breno Silveira</director>
+      <actor>Julio Andrade</actor>
+      <actor>Adriano Garib</actor>
+      <actor>Bernardo Alves</actor>
+      <actor>Roberto Birindelli</actor>
+      <actor>Thogun Teixeira</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126043700 -0300" stop="20211126052500 -0300" channel="Star Hits 1">
+    <title lang="pt">Harlots</title>
+    <desc lang="pt">Todos do Soho estão se preparando para uma festa ilícita na casa de Lady Fitz. Porém, com Lydia fora de Bedlam, Blayne de volta e os Pincher decididos a selar um acordo lucrativo, a tensão aumenta. A chegada de um velho amigo revive as rivalidades.</desc>
+    <credits>
+      <director>Robin Sheppard</director>
+      <actor>Alfie Allen</actor>
+      <actor>Eloise Smyth</actor>
+      <actor>Jessica Brown Findlay</actor>
+      <actor>Lesley Manville</actor>
+      <actor>Liv Tyler</actor>
+      <actor>Samantha Morton</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126052500 -0300" stop="20211126060000 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera</title>
+    <desc lang="pt">Georgina usa o memorial de Raoul para canalizar a sua tristeza pela morte de Constantine. Enquanto isso, Nico fica de olho no império Clios e solta uma bomba que ameaça a família. Já Georgina descobre que Noah não é o que parece ser.</desc>
+    <credits>
+      <director>Destiny Ekaragha</director>
+      <actor>Adrian Lester</actor>
+      <actor>Dimitri Leonidas</actor>
+      <actor>Julia Stiles</actor>
+      <actor>Lena Olin</actor>
+      <actor>Will Arnett</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126060000 -0300" stop="20211126061300 -0300" channel="Star Hits 1">
+    <title lang="pt">Atlanta</title>
+    <desc lang="pt">Van leva Earn para uma festa de independência negra no lar de uns conhecidos ricos, mas ele está menos que entusiasmado no tema de emancipação ou na natureza snob do casal bi racial e seus convidados.</desc>
+    <credits>
+      <director>Donald Glover</director>
+      <actor>Alano Miller</actor>
+      <actor>Chris Greene</actor>
+      <actor>Tim McAdams</actor>
+      <actor>Niles Stewart</actor>
+      <actor>Brian Tyree Henry</actor>
+      <actor>Erskine C. Johnson III</actor>
+      <actor>Mary Kraft</actor>
+      <actor>Tonia Jackson</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126061300 -0300" stop="20211126063900 -0300" channel="Star Hits 1">
+    <title lang="pt">Atlanta</title>
+    <desc lang="pt">Earn perde sua jaqueta e Quita perde seu telefone.</desc>
+    <credits>
+      <director>Donald Glover</director>
+      <director>Hiro Murai</director>
+      <actor>Donald Glover</actor>
+      <actor>Stella Doyle</actor>
+      <actor>Zazie Beetz</actor>
+      <actor>Griffin Freeman</actor>
+      <actor>Brian Tyree Henry</actor>
+      <actor>Tobias Jelinek</actor>
+      <actor>Walnette Marie Santiago</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126063900 -0300" stop="20211126070900 -0300" channel="Star Hits 1">
+    <title lang="pt">Atlanta</title>
+    <desc lang="pt">As coisas parecem um pouco diferentes em Atlanta. Provavelmente, deve ser por conta da temporada de roubos. Será que Paper Boi será libertado?</desc>
+    <credits>
+      <director>Hiro Murai</director>
+      <actor>Brian Tyree Henry</actor>
+      <actor>Donald Glover</actor>
+      <actor>Lakeith Stanfield</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126070900 -0300" stop="20211126080200 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros</title>
+    <desc lang="pt">1989: Evandro vive no Morro do Dendê com sua mãe Arlete. Ela acredita que terá sua família de volta quando o outro filho, Zeca, saír da FEBEM.</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Cyria Coentro</actor>
+      <actor>Fernanda Machado</actor>
+      <actor>João Vitor Silva</actor>
+      <actor>Raphael Logam</actor>
+      <actor>Rocco Pitanga</actor>
+      <actor>Rui Ricardo</actor>
+      <actor>Rui Ricardo Diaz</actor>
+    </credits>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126080200 -0300" stop="20211126085800 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros</title>
+    <desc lang="pt">Depois do plano de vingança pela morte do irmão, Evandro é recrutado para o tráfico. Ele e seu melhor amigo Afonso logo ganham espaço. Afonso é ganancioso e desvia dinheiro do tráfico para lucrar em investimento bancário. Quando o presidente do Brasil declara o confisco das poupanças, seu plano é descoberto e Evandro é obrigado a matá-lo. Enquanto tenta salvar a pele do melhor amigo, Evandro se depara com o autodestrutivo policial federal Morello.</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Cyria Coentro</actor>
+      <actor>Fernanda Machado</actor>
+      <actor>João Vitor Silva</actor>
+      <actor>Raphael Logam</actor>
+      <actor>Rocco Pitanga</actor>
+      <actor>Rui Ricardo</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126085800 -0300" stop="20211126094300 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros</title>
+    <desc lang="pt">Bruninho Bagdá, chefe do tráfico no Parque Royal, arma um esquema com o policial civil Britto para levar uma grana e culpar Evandro perante o Comando. Prevendo o destino arriscado do filho, Arlete tenta dissuadi-lo das escolhas erradas enquanto ele engata um namoro com Geise. Morello segue as trilhas de Evandro com perspicácia e começa a decifrar a engenhosidade de seu rival.</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Cyria Coentro</actor>
+      <actor>Fernanda Machado</actor>
+      <actor>João Vitor Silva</actor>
+      <actor>Raphael Logam</actor>
+      <actor>Rocco Pitanga</actor>
+      <actor>Rui Ricardo</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126094300 -0300" stop="20211126104300 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros</title>
+    <desc lang="pt">Após reverter o golpe de Bruninho Bagdá, Evandro se torna líder do tráfico no Morro do Dendê. Seguindo de perto a escalada do traficante, Morello invade o morro na operação para travar a entrada de drogas e armas. Em meio ao tiroteio, Evandro é ajudado por Geise, enquanto Arlete encontra na delegada Andreia, parceira de Morello, uma possível aliada para salvar o filho dele mesmo.</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Cyria Coentro</actor>
+      <actor>Fernanda Machado</actor>
+      <actor>João Vitor Silva</actor>
+      <actor>Raphael Logam</actor>
+      <actor>Rocco Pitanga</actor>
+      <actor>Rui Ricardo</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126104300 -0300" stop="20211126110400 -0300" channel="Star Hits 1">
+    <title lang="pt">Bless This Mess</title>
+    <desc lang="pt">A família de Mike vai a Bucksnort para surpreendê-lo no aniversário dele. Um segredo familiar envolvendo Rudy é revelado, e Mike precisa lidar com isso.</desc>
+    <credits>
+      <director>Bill Purple</director>
+      <actor>David Koechner</actor>
+      <actor>Dax Shepard</actor>
+      <actor>Ed Begley Jr.</actor>
+      <actor>JT Neal</actor>
+      <actor>Lake Bell</actor>
+      <actor>Lennon Parham</actor>
+      <actor>Pam Grier</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126110400 -0300" stop="20211126115000 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run</title>
+    <desc lang="pt">Um casal de argentinos chega a Naco para desenvolver um mega projeto de infraestrutura que converterá a cidade na futura Dubai mexicana. Gama e Morris não hesitam em participar da empresa sem medir as consequências.</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Daniela Botero</actor>
+      <actor>Eivaut Rischen</actor>
+      <actor>Emma Escalante</actor>
+      <actor>Harold Torres</actor>
+      <actor>Héctor Jiménez</actor>
+      <actor>Norma Angélica</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S2 E18</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126115000 -0300" stop="20211126123200 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run</title>
+    <desc lang="pt">Na fronteira com os Estados Unidos, os filhos dos imigrantes são separados dos seus pais por conta das novas disposições do governo.</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Daniela Botero</actor>
+      <actor>Eivaut Rischen</actor>
+      <actor>Emma Escalante</actor>
+      <actor>Harold Torres</actor>
+      <actor>Héctor Jiménez</actor>
+      <actor>Norma Angélica</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126123200 -0300" stop="20211126131700 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run</title>
+    <desc lang="pt">Um jovem gay foge da repressão familiar e chega à fronteira no intuito de passar aos Estados Unidos. Gama e Morris o acompanharão até São Francisco onde poderá se encontrar com um novo amor.</desc>
+    <credits>
+      <director>Gustavo Loza</director>
+      <actor>Daniela Botero</actor>
+      <actor>Eivaut Rischen</actor>
+      <actor>Emma Escalante</actor>
+      <actor>Harold Torres</actor>
+      <actor>Héctor Jiménez</actor>
+      <actor>Norma Angélica</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126131700 -0300" stop="20211126141300 -0300" channel="Star Hits 1">
+    <title lang="pt">Harlots</title>
+    <desc lang="pt">Os eventos desastrosos da noite anterior deixam toda a cidade em apuros. À medida que mais detalhes são descobertos, a suspeita começa a se espalhar pelo Soho. Quem é o culpado por essa tragédia?</desc>
+    <credits>
+      <director>Chloe Thomas</director>
+      <actor>Alfie Allen</actor>
+      <actor>Eloise Smyth</actor>
+      <actor>Jessica Brown Findlay</actor>
+      <actor>Lesley Manville</actor>
+      <actor>Liv Tyler</actor>
+      <actor>Samantha Morton</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126141300 -0300" stop="20211126150500 -0300" channel="Star Hits 1">
+    <title lang="pt">Aqui na Terra</title>
+    <desc lang="pt">Rocha se recusa a negociar com seus rivais e ganha novos inimigos. Carlos descobre uma pessoa do passado de seu pai e recupera a esperança de descobrir a verdade.</desc>
+    <credits>
+      <director>Everardo Gout</director>
+      <actor>Alfonso Dosal</actor>
+      <actor>Ariadna Gil</actor>
+      <actor>Daniel Giménez Cacho</actor>
+      <actor>Gael García Bernal</actor>
+      <actor>Paulina Dávila</actor>
+      <actor>Tenoch Huerta</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Suspense)</category>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126150500 -0300" stop="20211126154500 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera</title>
+    <desc lang="pt">Georgina tem que revelar a verdade sobre Constantino para tentar proteger o império de Nico. O caos leva Georgina a recorrer a medidas desesperadas.</desc>
+    <credits>
+      <director>Destiny Ekaragha</director>
+      <actor>Adrian Lester</actor>
+      <actor>Dimitri Leonidas</actor>
+      <actor>Julia Stiles</actor>
+      <actor>Lena Olin</actor>
+      <actor>Will Arnett</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126154500 -0300" stop="20211126160800 -0300" channel="Star Hits 1">
+    <title lang="pt">Atlanta</title>
+    <desc lang="pt">No meio dos disparos, Earn e Alfred são presos. Enquanto Alfred é solto por fiança, Earn fica dentro e espera ser processado.</desc>
+    <credits>
+      <director>Donald Glover</director>
+      <director>Hiro Murai</director>
+      <actor>Donald Glover</actor>
+      <actor>Angela Ray</actor>
+      <actor>Deaven Brooks</actor>
+      <actor>Carra Greer</actor>
+    </credits>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126160800 -0300" stop="20211126163300 -0300" channel="Star Hits 1">
+    <title lang="pt">Atlanta</title>
+    <desc lang="pt">Haver gastado seu último trocado pra que a música de Paper Boi fosse tocada na rádio, o quebrou e está indignado que apesar do sucesso repentino de Alfred.</desc>
+    <credits>
+      <director>Donald Glover</director>
+      <director>Hiro Murai</director>
+      <actor>Jane Adams</actor>
+      <actor>Donald Glover</actor>
+      <actor>Derrick Haywood</actor>
+      <actor>Zerrick Williams</actor>
+    </credits>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126163300 -0300" stop="20211126165600 -0300" channel="Star Hits 1">
+    <title lang="pt">Atlanta</title>
+    <desc lang="pt">Zan, uma estrela da mídia, se aproxima a Earn, Alfred e Darius fora de um clube. Logo eles descobrem que Zan é mais do que diz ser e que já publicou Tweets de besteiras sobre Paper Boi.</desc>
+    <credits>
+      <director>Donald Glover</director>
+      <director>Hiro Murai</director>
+      <actor>Donald Glover</actor>
+      <actor>Colin Lacativa</actor>
+      <actor>Mason Pike</actor>
+    </credits>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126165600 -0300" stop="20211126171800 -0300" channel="Star Hits 1">
+    <title lang="pt">Atlanta</title>
+    <desc lang="pt">Aí, tudo bem! Temos celebridades cheias da grana no edifício para as crianças. Eu adoraria ter um Justin Bieber. Cara, os jurássicos vão odiar, kkkk.</desc>
+    <credits>
+      <director>Hiro Murai</director>
+      <actor>Donald Glover</actor>
+      <actor>Lil' Zane</actor>
+      <actor>Keith Stanfield</actor>
+      <actor>Jade Fernandez</actor>
+      <actor>Jessica A. Caesar</actor>
+      <actor>Brian Tyree Henry</actor>
+      <actor>Jaleel White</actor>
+      <actor>David Silverman</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126171800 -0300" stop="20211126174300 -0300" channel="Star Hits 1">
+    <title lang="pt">Atlanta</title>
+    <desc lang="pt">Eu amo a minha melhor amiga de verdade, mas eu também não a suporto. Van fica com inveja porque sua garota fashion abre alas. Ok, garota, vá pegar o que é seu!</desc>
+    <credits>
+      <director>Donald Glover</director>
+      <actor>Donald Glover</actor>
+      <actor>Zazie Beetz</actor>
+      <actor>Danny Chung</actor>
+      <actor>Keith Stanfield</actor>
+      <actor>Armie Hicks Jr.</actor>
+      <actor>Montrel Miller</actor>
+      <actor>Precious Bright</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126174300 -0300" stop="20211126180500 -0300" channel="Star Hits 1">
+    <title lang="pt">Atlanta</title>
+    <desc lang="pt">No Talk Show Montague apresentado por Franklin Montague e o assunto da observação do crescimento da sexualidade aceita e seu efeito na juventude e cultura negra, com os convidados especiais Dr. Debrah Holt e Paper Boi.".</desc>
+    <credits>
+      <director>Janicza Bravo</director>
+      <actor>Donald Glover</actor>
+      <actor>Colin Lacativa</actor>
+      <actor>Mason Pike</actor>
+      <actor>Keith Stanfield</actor>
+      <actor>Al-Jaleel Knox</actor>
+      <actor>Jessica A. Caesar</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126180500 -0300" stop="20211126190200 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros</title>
+    <desc lang="pt">Tabuada se encontra com Evandro no S.A. Enquanto isso, o Dr. Burgos restabelece o controle de Evandro sobre o ouro branco dos Urquiza Brothers.</desc>
+    <credits>
+      <director>Tomas Portella</director>
+      <director>René Sampaio</director>
+      <actor>Raphael Logam</actor>
+      <actor>Rui Ricardo Diaz</actor>
+      <actor>Dj Amorim</actor>
+      <actor>Peter Brandão</actor>
+      <actor>Carolina Chalita</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126190200 -0300" stop="20211126200200 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros</title>
+    <desc lang="pt">Os Irmãos Urquiza assaltam a Segunda Armada. O poder de Evandro dentro da prisão se fortalece.</desc>
+    <credits>
+      <director>Tomas Portella</director>
+      <director>René Sampaio</director>
+      <actor>Dj Amorim</actor>
+      <actor>Michel Bercovitch</actor>
+      <actor>Peter Brandão</actor>
+      <actor>Lorena Comparato</actor>
+      <actor>Luciano Cáceres</actor>
+      <actor>Rui Ricardo Diaz</actor>
+      <actor>Cyria Coentro</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126200200 -0300" stop="20211126204600 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros</title>
+    <desc lang="pt">Sozinho em casa, Inês fica viciado em drogas. Evandro encontra uma maneira de sair da prisão.</desc>
+    <credits>
+      <director>Tomas Portella</director>
+      <director>René Sampaio</director>
+      <actor>Dj Amorim</actor>
+      <actor>Michel Bercovitch</actor>
+      <actor>Peter Brandão</actor>
+      <actor>Karize Brum</actor>
+      <actor>Carolina Chalita</actor>
+      <actor>Gillray Coutinho</actor>
+      <actor>André Gonçalves</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126204600 -0300" stop="20211126212900 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros</title>
+    <desc lang="pt">Morello sai da clínica e vai trabalhar para a DEA. Geise e seu filho Airton tentam fugir do país, mas ele é sequestrado.</desc>
+    <credits>
+      <director>Tomas Portella</director>
+      <director>René Sampaio</director>
+      <actor>Dj Amorim</actor>
+      <actor>Michel Bercovitch</actor>
+      <actor>Peter Brandão</actor>
+      <actor>Karize Brum</actor>
+      <actor>Carolina Chalita</actor>
+      <actor>Cyria Coentro</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126212900 -0300" stop="20211126221500 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros</title>
+    <desc lang="pt">Mariana volta ao Dendé. Arlete acorda de seu coma, confundindo Evandro com seu falecido filho Zeca, tratando-o com amor e carinho.</desc>
+    <credits>
+      <director>Tomas Portella</director>
+      <director>René Sampaio</director>
+      <actor>Dj Amorim</actor>
+      <actor>Michel Bercovitch</actor>
+      <actor>Peter Brandão</actor>
+      <actor>Lorena Comparato</actor>
+      <actor>Gillray Coutinho</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126221500 -0300" stop="20211126231200 -0300" channel="Star Hits 1">
+    <title lang="pt">The New Pope</title>
+    <desc lang="pt">Voiello descobre o segredo de João Paulo III. Enquanto isso, Lenny Belardo voltou secretamente ao Vaticano.</desc>
+    <credits>
+      <director>Paolo Sorrentino</director>
+      <actor>Cécile de France</actor>
+      <actor>Javier Cámara</actor>
+      <actor>John Malkovich</actor>
+      <actor>Jude Law</actor>
+      <actor>Ludivine Sagnier</actor>
+      <actor>Silvio Orlando</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
 </tv>
