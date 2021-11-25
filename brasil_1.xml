@@ -27872,4 +27872,3208 @@
       <value>livre</value>
     </rating>
   </programme>
+  <programme start="20211125000000 -0300" stop="20211125001500 -0300" channel="Disney XD">
+    <title lang="pt">Galáxia Wander</title>
+    <sub-title lang="pt">Wander over Yonder</sub-title>
+    <desc lang="pt">A comédia de animação conta as aventuras de Wander, um otimista viajante intergaláctico que vive fazendo o bem, e da sua melhor amiga e montaria Sylvia, que apesar de esquentadinha, é muito leal.</desc>
+    <credits>
+      <director>Craig  McCracken</director>
+      <actor>Vozes de Jack McBrayer</actor>
+      <actor>April Winchell</actor>
+      <actor>Keith Ferguson</actor>
+      <actor>Tom Kenny</actor>
+      <actor>Fred Tatasciore</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries (Animação)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125001500 -0300" stop="20211125003000 -0300" channel="Disney XD">
+    <title lang="pt">Adolepeixes</title>
+    <desc lang="pt">Adolepeixes é uma comédia animada que apresenta as histórias de três amigos aquáticos que vivem em um aquário.</desc>
+    <credits>
+      <director>Noah Jones</director>
+      <actor>Vozes de  Chelsea Kane</actor>
+      <actor>John Caparulo</actor>
+      <actor>John DiMaggio</actor>
+      <actor>Rachel Dratch</actor>
+      <actor>Alex Hirsch</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Infantil (Animação)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125003000 -0300" stop="20211125004500 -0300" channel="Disney XD">
+    <title lang="pt">Picles e Amendoim</title>
+    <sub-title lang="pt">Pickle &amp; Peanut</sub-title>
+    <desc lang="pt">A animação mostra as aventuras dos melhores amigos Picles e Amendoim em seu último ano de escola, onde estão aproveitando ao máximo a possibilidade de se divertir o tempo todo antes das responsabilidades da vida adulta.</desc>
+    <credits>
+      <actor>Vozes de Johnny Pemberton</actor>
+      <actor>Jon Heder</actor>
+      <actor>Bennie Arthur</actor>
+      <actor>Michael Croner</actor>
+      <actor>Matt Chapman</actor>
+      <actor>Joel Trussell</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E40</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125004500 -0300" stop="20211125010000 -0300" channel="Disney XD">
+    <title lang="pt">Minhoca do Futuro</title>
+    <sub-title lang="pt">Future-Worm!</sub-title>
+    <desc lang="pt">A série apresenta as aventuras de Danny e Minhoca do Futuro, que viajam no tempo usando uma máquina do tempo em forma de lancheira.</desc>
+    <credits>
+      <director>Pete Michels</director>
+      <actor>James Adomian</actor>
+      <actor>Andy Milonakis</actor>
+      <actor>Ryan Quincy</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E36</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125010000 -0300" stop="20211125013000 -0300" channel="Disney XD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <desc lang="pt">Dipper e Mabel são dois irmãos gêmeos criados na cidade grande que são enviados para passar o verão com seu velho tio Stan, em Gravity Falls, Oregon. Por lá, eles terão de cuidar do The Mystery Shack, uma atração turística, mas acontece que o lugar não é um paraíso, escondendo mistérios e fenômenos inimagináveis.</desc>
+    <credits>
+      <director>Alex Hirsch</director>
+      <actor>Vozes de Kristen Schaal</actor>
+      <actor>Jason Ritter</actor>
+      <actor>Alex Hirsch</actor>
+      <actor>Linda Cardellini</actor>
+      <actor>Kevin Michael Richardson</actor>
+      <actor>Keith Ferguson</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125013000 -0300" stop="20211125020000 -0300" channel="Disney XD">
+    <title lang="pt">Kick Buttowski - Um Projeto de Dublê</title>
+    <desc lang="pt">Kick Buttowski é um garoto sensacional que vive na cidade mais comum do mundo na série de animação em 2-D original do Disney XD, Kick Buttowski - Um Projeto de Dublê, repleta de ousadas sequências de ação e manobras.</desc>
+    <credits>
+      <director>Chris Savino</director>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Infantil (Animação)</category>
+    <episode-num system="onscreen">S2 E36</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125020000 -0300" stop="20211125023000 -0300" channel="Disney XD">
+    <title lang="pt">Os Vizinhos Green</title>
+    <sub-title lang="pt">Big City Greens</sub-title>
+    <desc lang="pt">A série conta a vida aventureira de um menino do campo que se muda com sua família da fazenda para uma metrópole moderna.</desc>
+    <credits>
+      <actor>Vozes de  Chris Houghton</actor>
+      <actor>Artemis Pebdani</actor>
+      <actor>Marieve Herington</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Infantil)</category>
+    <episode-num system="onscreen">S1 E18</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125023000 -0300" stop="20211125030000 -0300" channel="Disney XD">
+    <title lang="pt">Operação Big Hero - A Série</title>
+    <desc lang="pt">Hiro continua suas aventuras com seu amigo robô Baymax e o resto da equipe Big Hero 6.</desc>
+    <credits>
+      <actor>Vozes de Scott Adsit</actor>
+      <actor>Ryan Potter</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E18</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125030000 -0300" stop="20211125033000 -0300" channel="Disney XD">
+    <title lang="pt">A Lei de Milo Murphy</title>
+    <sub-title lang="pt">Milo Murphy's Law</sub-title>
+    <desc lang="pt">Dos criadores de "Phineas e Ferb", a comédia acompanha Milo, a personificação da Lei de Murphy, onde qualquer coisa que pode dar errado vai dar errado.</desc>
+    <credits>
+      <director>Bob Bowen</director>
+      <director>Robert Hughes</director>
+      <director>Dan Povenmire</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Infantil)</category>
+    <episode-num system="onscreen">S2 E35</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125033000 -0300" stop="20211125040000 -0300" channel="Disney XD">
+    <title lang="pt">Phineas e Ferb</title>
+    <sub-title lang="pt">Phineas &amp; Ferb</sub-title>
+    <desc lang="pt">Phineas e Ferb, dois meio irmãos de 10 anos de idade, decidem que cada dia será mais emocionante do que o anterior, através de fabulosas aventuras, como construir no quintal dos fundos uma montanha russa que desafie todos os limites.</desc>
+    <credits>
+      <director>Jeff 'Swampy' Marsh</director>
+      <director>Dan Povenmire</director>
+      <actor>Vozes de Vincent Martella</actor>
+      <actor>Caroline Rhea</actor>
+      <actor>Ashley Tisdale</actor>
+      <actor>Dee Bradley Baker</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E18</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125040000 -0300" stop="20211125043000 -0300" channel="Disney XD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <desc lang="pt">Dipper e Mabel são dois irmãos gêmeos criados na cidade grande que são enviados para passar o verão com seu velho tio Stan, em Gravity Falls, Oregon. Por lá, eles terão de cuidar do The Mystery Shack, uma atração turística, mas acontece que o lugar não é um paraíso, escondendo mistérios e fenômenos inimagináveis.</desc>
+    <credits>
+      <director>Alex Hirsch</director>
+      <actor>Vozes de Kristen Schaal</actor>
+      <actor>Jason Ritter</actor>
+      <actor>Alex Hirsch</actor>
+      <actor>Linda Cardellini</actor>
+      <actor>Kevin Michael Richardson</actor>
+      <actor>Keith Ferguson</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S2 E62</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125043000 -0300" stop="20211125050000 -0300" channel="Disney XD">
+    <title lang="pt">Star vs. as Forças do Mal</title>
+    <sub-title lang="pt">Star vs. the Forces of Evil</sub-title>
+    <desc lang="pt">Depois de enfrentar uma série de monstros perigosos, Star Butterfly chega à Terra para viver com a família Diaz. No entanto, em vez de viver uma vida normal, Star continua a batalhar contra vilões tanto em todo o universo, como em sua escola, e ela usa uma poderosa varinha como arma.</desc>
+    <credits>
+      <director>Dave Wasson</director>
+      <actor>Vozes de  Eden Sher</actor>
+      <actor>Adam McArthur</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Jeff Bennett</actor>
+      <actor>Alan Tudyk</actor>
+      <actor>Daron Nefcy</actor>
+      <actor>Nate Torrence</actor>
+    </credits>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125050000 -0300" stop="20211125053000 -0300" channel="Disney XD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <desc lang="pt">Dipper e Mabel são dois irmãos gêmeos criados na cidade grande que são enviados para passar o verão com seu velho tio Stan, em Gravity Falls, Oregon. Por lá, eles terão de cuidar do The Mystery Shack, uma atração turística, mas acontece que o lugar não é um paraíso, escondendo mistérios e fenômenos inimagináveis.</desc>
+    <credits>
+      <director>Alex Hirsch</director>
+      <actor>Vozes de Kristen Schaal</actor>
+      <actor>Jason Ritter</actor>
+      <actor>Alex Hirsch</actor>
+      <actor>Linda Cardellini</actor>
+      <actor>Kevin Michael Richardson</actor>
+      <actor>Keith Ferguson</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S2 E18</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125053000 -0300" stop="20211125060000 -0300" channel="Disney XD">
+    <title lang="pt">Operação Big Hero - A Série</title>
+    <desc lang="pt">Hiro continua suas aventuras com seu amigo robô Baymax e o resto da equipe Big Hero 6.</desc>
+    <credits>
+      <actor>Vozes de Scott Adsit</actor>
+      <actor>Ryan Potter</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125060000 -0300" stop="20211125063000 -0300" channel="Disney XD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <desc lang="pt">Dipper e Mabel são dois irmãos gêmeos criados na cidade grande que são enviados para passar o verão com seu velho tio Stan, em Gravity Falls, Oregon. Por lá, eles terão de cuidar do The Mystery Shack, uma atração turística, mas acontece que o lugar não é um paraíso, escondendo mistérios e fenômenos inimagináveis.</desc>
+    <credits>
+      <director>Alex Hirsch</director>
+      <actor>Vozes de Kristen Schaal</actor>
+      <actor>Jason Ritter</actor>
+      <actor>Alex Hirsch</actor>
+      <actor>Linda Cardellini</actor>
+      <actor>Kevin Michael Richardson</actor>
+      <actor>Keith Ferguson</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S2 E36</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125063000 -0300" stop="20211125064500 -0300" channel="Disney XD">
+    <title lang="pt">Amphibia</title>
+    <desc lang="pt">A ordinária Anne Boonchuy, de 13 anos, encontra uma arca do tesouro que a envia para Amphibia, um mundo cheio de rãs, sapos e insetos gigantes.</desc>
+    <credits>
+      <director>Derek Kirk Kim</director>
+      <actor>Brenda Song</actor>
+      <actor>Justin Felbinger</actor>
+      <actor>Bill Farmer</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125064500 -0300" stop="20211125070000 -0300" channel="Disney XD">
+    <title lang="pt">Kick Buttowski - Um Projeto de Dublê</title>
+    <desc lang="pt">Kick Buttowski é um garoto sensacional que vive na cidade mais comum do mundo na série de animação em 2-D original do Disney XD, Kick Buttowski - Um Projeto de Dublê, repleta de ousadas sequências de ação e manobras.</desc>
+    <credits>
+      <director>Chris Savino</director>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Infantil (Animação)</category>
+    <episode-num system="onscreen">S1 E38</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125070000 -0300" stop="20211125071500 -0300" channel="Disney XD">
+    <title lang="pt">Phineas e Ferb</title>
+    <sub-title lang="pt">Phineas &amp; Ferb</sub-title>
+    <desc lang="pt">Phineas e Ferb, dois meio irmãos de 10 anos de idade, decidem que cada dia será mais emocionante do que o anterior, através de fabulosas aventuras, como construir no quintal dos fundos uma montanha russa que desafie todos os limites.</desc>
+    <credits>
+      <director>Jeff 'Swampy' Marsh</director>
+      <director>Dan Povenmire</director>
+      <actor>Vozes de Vincent Martella</actor>
+      <actor>Caroline Rhea</actor>
+      <actor>Ashley Tisdale</actor>
+      <actor>Dee Bradley Baker</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E37</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125071500 -0300" stop="20211125072800 -0300" channel="Disney XD">
+    <title lang="pt">Adolepeixes</title>
+    <sub-title lang="pt">Adolepeixes: Fish Out of Water</sub-title>
+    <desc lang="pt">"Adolepeixes é uma comédia animada que apresenta as histórias de três amigos aquáticos que vivem em um aquário. A série foi criada através de uma inovadora mistura de animação digital 2D e colagem de fotografias pelo Disney Television Animation para o Disney Channels Worldwide. Os 21 episódios da série acompanham Milo, Oscar e Bea, três amigos e vizinhos que frequentam a Freshwater High, uma escola submersa em um aquário gigante no centro de uma loja de animais. Juntos, eles enfrentam os desafios e conflitos típicos da pré-adolescência, como amizades, encontros e esportes, até assuntos um pouco mais atípicos como o ataque de uma lagosta gigante e as visitas com a escola às gaiolas dos hamsters.".</desc>
+    <credits>
+      <director>Maxwell Atoms</director>
+      <actor>Vozes de  Chelsea Kane</actor>
+      <actor>John Caparulo</actor>
+      <actor>John DiMaggio</actor>
+      <actor>Rachel Dratch</actor>
+      <actor>Alex Hirsch</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Infantil (Animação)</category>
+    <episode-num system="onscreen">S1 E50</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125072800 -0300" stop="20211125073000 -0300" channel="Disney XD">
+    <title lang="pt">Phineas e Ferb</title>
+    <sub-title lang="pt">Phineas &amp; Ferb</sub-title>
+    <desc lang="pt">Phineas e Ferb, dois meio irmãos de 10 anos de idade, decidem que cada dia será mais emocionante do que o anterior, através de fabulosas aventuras, como construir no quintal dos fundos uma montanha russa que desafie todos os limites.</desc>
+    <credits>
+      <director>Jeff 'Swampy' Marsh</director>
+      <director>Dan Povenmire</director>
+      <actor>Vozes de Vincent Martella</actor>
+      <actor>Caroline Rhea</actor>
+      <actor>Ashley Tisdale</actor>
+      <actor>Dee Bradley Baker</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125073000 -0300" stop="20211125080000 -0300" channel="Disney XD">
+    <title lang="pt">Hércules</title>
+    <desc lang="pt">Uma aventura épica, baseada no maior herói da mitologia greco-romana, adaptada para o público infantil.</desc>
+    <credits>
+      <director>John Musker</director>
+      <director>Ron Clements</director>
+      <actor>Vozes de Tate Donovan</actor>
+      <actor>Josh Keaton</actor>
+      <actor>Roger Bart</actor>
+      <actor>Danny DeVito</actor>
+      <actor>James Woods</actor>
+      <actor>Susan Egan</actor>
+      <actor>Bob Goldthwait</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E23</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125080000 -0300" stop="20211125082700 -0300" channel="Disney XD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <desc lang="pt">Dipper e Mabel são dois irmãos gêmeos criados na cidade grande que são enviados para passar o verão com seu velho tio Stan, em Gravity Falls, Oregon. Por lá, eles terão de cuidar do The Mystery Shack, uma atração turística, mas acontece que o lugar não é um paraíso, escondendo mistérios e fenômenos inimagináveis.</desc>
+    <credits>
+      <director>Alex Hirsch</director>
+      <actor>Vozes de Kristen Schaal</actor>
+      <actor>Jason Ritter</actor>
+      <actor>Alex Hirsch</actor>
+      <actor>Linda Cardellini</actor>
+      <actor>Kevin Michael Richardson</actor>
+      <actor>Keith Ferguson</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125082700 -0300" stop="20211125083000 -0300" channel="Disney XD">
+    <title lang="pt">Mickey Mouse</title>
+    <sub-title lang="pt">Mickey Mouse Shorts</sub-title>
+    <desc lang="pt">Mickey viaja a diferentes lugares para viver momentos fofos e heroicos com seus divertidos amigos: Minnie, Pato Donald, Margarida, Pateta e Pluto.</desc>
+    <credits>
+      <director>Paul Rudish</director>
+      <actor>Chris Diamantopoulos</actor>
+      <actor>Russi Taylor</actor>
+      <actor>Tony Anselmo</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S2 E37</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125083000 -0300" stop="20211125090000 -0300" channel="Disney XD">
+    <title lang="pt">Lilo &amp; Stitch da Disney - A Série</title>
+    <sub-title lang="pt">Lilo &amp; Stitch</sub-title>
+    <desc lang="pt">Stitch ajuda Lilo a capturar um Experimento: o nº 624, um experimento feminino pelo qual Stitch imediatamente se apaixona.</desc>
+    <credits>
+      <director>Robert Gannaway</director>
+      <actor>Vozes de Jillian Henry</actor>
+      <actor>Daveigh Chase</actor>
+      <actor>Chris Sanders</actor>
+      <actor>Gregory A. Kyprianou</actor>
+      <actor>Tress MacNeille</actor>
+      <actor>Kevin McDonald</actor>
+      <actor>Tia Carrere</actor>
+      <actor>Kevin Michael Richardson</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125090000 -0300" stop="20211125093000 -0300" channel="Disney XD">
+    <title lang="pt">TV Quack</title>
+    <sub-title lang="pt">Quack Pack</sub-title>
+    <desc lang="pt">O multifacetado Donald deverá fazer malabarismos para combinar sua carreira profissional, sua relação com a Margarida, batalhas virtuais contra extraterrestres, viagens no tempo, descobertas de civilizações perdidas, lutas contra dragões e salvar repetidas vezes o mundo da destruição enquanto trabalha na televisão realizando as mais malucas reportagens.</desc>
+    <credits>
+      <director>Toby Shelton</director>
+      <director>Kurt Anderson</director>
+      <actor>Vozes originais de Tony Anselmo</actor>
+      <actor>Kath Soucie</actor>
+      <actor>Jeannie Elias</actor>
+      <actor>Pamela Adlon</actor>
+      <actor>Elizabeth Daily</actor>
+      <actor>Corey Burton</actor>
+      <actor>Cam Clarke</actor>
+      <actor>Tim Curry</actor>
+      <actor>Pat Fraley</actor>
+      <actor>Joe Lala</actor>
+      <actor>Joe Nipote</actor>
+      <actor>Roger Rose</actor>
+      <actor>April Winchell.</actor>
+    </credits>
+    <date>1996</date>
+    <category lang="pt">Infantil (Animação)</category>
+    <episode-num system="onscreen">S1 E24</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125093000 -0300" stop="20211125100000 -0300" channel="Disney XD">
+    <title lang="pt">Ultimate Homem-Aranha</title>
+    <sub-title lang="pt">Ultimate Spider-Man</sub-title>
+    <desc lang="pt">Peter Parker se vira do avesso com os problemas comuns de uma escola de ensino médio e os extraordinários desafios encarados por um herói.</desc>
+    <credits>
+      <director>Jeff Allen</director>
+      <actor>Drake Bell</actor>
+      <actor>Clark Gregg</actor>
+      <actor>Stan Lee</actor>
+      <actor>Chi McBride</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E24</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125100000 -0300" stop="20211125103000 -0300" channel="Disney XD">
+    <title lang="pt">Star Wars Rebels</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <director>Dave Filoni</director>
+      <director>Steven G. Lee</director>
+      <director>Steward Lee</director>
+      <actor>Dave Filoni</actor>
+      <actor>Freddie Prinze Jr.</actor>
+      <actor>Taylor Gray</actor>
+      <actor>Tiya Sircar</actor>
+      <actor>Vanessa Marshall</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E24</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125103000 -0300" stop="20211125110000 -0300" channel="Disney XD">
+    <title lang="pt">Par de Reis</title>
+    <sub-title lang="pt">Pair of Kings</sub-title>
+    <desc lang="pt">Uma série que conta a história dos irmãos gêmeos que vivem uma típica vida adolescente em Chicago e, que sem saber, se transformam em herdeiros do trono da Ilha de Kinkou.</desc>
+    <credits>
+      <director>Dan Cross</director>
+      <director>Dave  Hoge</director>
+      <actor>Mitchel Musso</actor>
+      <actor>Ryan Ochoa</actor>
+      <actor>Larramie Doc Shaw</actor>
+      <actor>Kelsey Chow</actor>
+      <actor>Geno Segers</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125110000 -0300" stop="20211125113000 -0300" channel="Disney XD">
+    <title lang="pt">Os Guerreiros Wasabi</title>
+    <sub-title lang="pt">Kickin' It</sub-title>
+    <desc lang="pt">A comédia se passa na Academia de Artes Marciais Bobby Wasabi, uma escola de artes marciais localizada em pequeno centro comercial, sendo considerada a pior da rede nacional de escolas de Bobby Wasabi.</desc>
+    <credits>
+      <director>Jim  O'Doherty</director>
+      <actor>Jason Earles</actor>
+      <actor>Mateo Arias</actor>
+      <actor>Alex Jonas</actor>
+      <actor>Olivia Holt</actor>
+      <actor>Stephanie Arellano</actor>
+      <actor>Cedric L. Williams</actor>
+      <actor>Savannah Rae Linz</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125113000 -0300" stop="20211125120000 -0300" channel="Disney XD">
+    <title lang="pt">Lab Rats</title>
+    <desc lang="pt">Leo, um garoto de 14 anos de idade, vai parar acidentalmente em um laboratório subterrâneo secreto no porão da casa que compartilha com seu padrasto.</desc>
+    <credits>
+      <director>Chris Peterson</director>
+      <director>Bryan Moore</director>
+      <actor>Billy Unger</actor>
+      <actor>Kelli Berglund</actor>
+      <actor>Spencer Boldman</actor>
+      <actor>Tyrel Jackson Williams</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125120000 -0300" stop="20211125123000 -0300" channel="Disney XD">
+    <title lang="pt">Phineas e Ferb</title>
+    <sub-title lang="pt">Phineas &amp; Ferb</sub-title>
+    <desc lang="pt">Phineas e Ferb, dois meio irmãos de 10 anos de idade, decidem que cada dia será mais emocionante do que o anterior, através de fabulosas aventuras, como construir no quintal dos fundos uma montanha russa que desafie todos os limites.</desc>
+    <credits>
+      <director>Jeff 'Swampy' Marsh</director>
+      <director>Dan Povenmire</director>
+      <actor>Vozes de Vincent Martella</actor>
+      <actor>Caroline Rhea</actor>
+      <actor>Ashley Tisdale</actor>
+      <actor>Dee Bradley Baker</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125123000 -0300" stop="20211125124500 -0300" channel="Disney XD">
+    <title lang="pt">ICO BIT ZIP</title>
+    <desc lang="pt">Ico tem que acompanhar Gerg nesta insólita pesquisa: como a gente enxergava sem óculos? E a sua maior dificuldade não será encontrar a resposta, mas sim convencer Gerg a responder exatamente o que foi perguntado.</desc>
+    <credits>
+      <director>Rodrigo Soldado</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Infantil)</category>
+    <episode-num system="onscreen">S2 E63</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125124500 -0300" stop="20211125130000 -0300" channel="Disney XD">
+    <title lang="pt">ICO BIT ZIP</title>
+    <desc lang="pt">As formigas andam sempre em uma fila, mas por quê? Ico e Kelly entram nos misteriosos túneis do formigueiro para descobrir.</desc>
+    <credits>
+      <director>Rodrigo Soldado</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Infantil)</category>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125130000 -0300" stop="20211125133000 -0300" channel="Disney XD">
+    <title lang="pt">A Casa Coruja</title>
+    <sub-title lang="pt">The Owl House</sub-title>
+    <desc lang="pt">Uma adolescente tropeça em um portal para um reino mágico, onde faz amizade com uma bruxa rebelde.</desc>
+    <credits>
+      <director>Stu Livingston</director>
+      <director>Sabrina Cotugno</director>
+      <director>Aminder Dhaliwal</director>
+      <director>Stephen Sandoval</director>
+      <actor>Vozes de  Sarah-Nicole Robles</actor>
+      <actor>Wendie Malick</actor>
+      <actor>Alex Hirsch</actor>
+      <actor>Grey Griffin</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125133000 -0300" stop="20211125134500 -0300" channel="Disney XD">
+    <title lang="pt">Boris e Rufus</title>
+    <desc lang="pt">Rufus recebe um e-mail dizendo que seus amigos estarão em perigo caso a mensagem não seja encaminhada em 30 segundos. Porém uma queda de energia o atrapalha na tarefa e ele fica desesperado.</desc>
+    <date>2018</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125134500 -0300" stop="20211125140000 -0300" channel="Disney XD">
+    <title lang="pt">Boris e Rufus</title>
+    <desc lang="pt">Rufus recebe um e-mail dizendo que seus amigos estarão em perigo caso a mensagem não seja encaminhada em 30 segundos. Porém uma queda de energia o atrapalha na tarefa e ele fica desesperado.</desc>
+    <date>2018</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S2 E34</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125140000 -0300" stop="20211125143000 -0300" channel="Disney XD">
+    <title lang="pt">Trollhunters: Tales of Arcadia</title>
+    <desc lang="pt">Depois de descobrir um amuleto misterioso, um adolescente encontra uma civilização secreta de poderosos trolls sob a pequena cidade de Arcadia.</desc>
+    <credits>
+      <director>Rodrigo Blaas</director>
+      <director>Andrew L. Schmidt</director>
+      <director>Simon Otto</director>
+      <actor>Vozes de Charlie Saxton</actor>
+      <actor>Lexi Medrano</actor>
+      <actor>Anton Yelchin</actor>
+      <actor>Kelsey Grammer</actor>
+      <actor>Mitch Carter</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S2 E35</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125143000 -0300" stop="20211125144500 -0300" channel="Disney XD">
+    <title lang="pt">Randy Cunningham - Ninja Total</title>
+    <desc lang="pt">As façanhas de Randy, um jovem estudante com seu traje super-humano de Ninja, os ensinamentos do "Ninja Nomicon", e a ajuda do seu melhor amigo, que percebe ser o único capaz de proteger a sua escola e o mundo da destruição total.</desc>
+    <credits>
+      <director>Shaun Cashman</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S2 E37</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125144500 -0300" stop="20211125144900 -0300" channel="Disney XD">
+    <title lang="pt">Mickey Mouse</title>
+    <sub-title lang="pt">Mickey Mouse Shorts</sub-title>
+    <desc lang="pt">Mickey viaja a diferentes lugares para viver momentos fofos e heroicos com seus divertidos amigos: Minnie, Pato Donald, Margarida, Pateta e Pluto.</desc>
+    <credits>
+      <director>Paul Rudish</director>
+      <actor>Chris Diamantopoulos</actor>
+      <actor>Russi Taylor</actor>
+      <actor>Tony Anselmo</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E40</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125144900 -0300" stop="20211125150000 -0300" channel="Disney XD">
+    <title lang="pt">Star vs. as Forças do Mal</title>
+    <sub-title lang="pt">Star vs. the Forces of Evil</sub-title>
+    <desc lang="pt">Depois de enfrentar uma série de monstros perigosos, Star Butterfly chega à Terra para viver com a família Diaz. No entanto, em vez de viver uma vida normal, Star continua a batalhar contra vilões tanto em todo o universo, como em sua escola, e ela usa uma poderosa varinha como arma.</desc>
+    <credits>
+      <director>Dave Wasson</director>
+      <actor>Vozes de  Eden Sher</actor>
+      <actor>Adam McArthur</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Jeff Bennett</actor>
+      <actor>Alan Tudyk</actor>
+      <actor>Daron Nefcy</actor>
+      <actor>Nate Torrence</actor>
+    </credits>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S3 E20</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125150000 -0300" stop="20211125153000 -0300" channel="Disney XD">
+    <title lang="pt">Os Vizinhos Green</title>
+    <sub-title lang="pt">Big City Greens</sub-title>
+    <desc lang="pt">A série conta a vida aventureira de um menino do campo que se muda com sua família da fazenda para uma metrópole moderna.</desc>
+    <credits>
+      <actor>Vozes de  Chris Houghton</actor>
+      <actor>Artemis Pebdani</actor>
+      <actor>Marieve Herington</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Infantil)</category>
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125153000 -0300" stop="20211125160000 -0300" channel="Disney XD">
+    <title lang="pt">A Casa Coruja</title>
+    <sub-title lang="pt">The Owl House</sub-title>
+    <desc lang="pt">Uma adolescente tropeça em um portal para um reino mágico, onde faz amizade com uma bruxa rebelde.</desc>
+    <credits>
+      <director>Stu Livingston</director>
+      <director>Sabrina Cotugno</director>
+      <director>Aminder Dhaliwal</director>
+      <director>Stephen Sandoval</director>
+      <actor>Vozes de  Sarah-Nicole Robles</actor>
+      <actor>Wendie Malick</actor>
+      <actor>Alex Hirsch</actor>
+      <actor>Grey Griffin</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S2 E49</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125160000 -0300" stop="20211125163000 -0300" channel="Disney XD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <desc lang="pt">Dipper e Mabel são dois irmãos gêmeos criados na cidade grande que são enviados para passar o verão com seu velho tio Stan, em Gravity Falls, Oregon. Por lá, eles terão de cuidar do The Mystery Shack, uma atração turística, mas acontece que o lugar não é um paraíso, escondendo mistérios e fenômenos inimagináveis.</desc>
+    <credits>
+      <director>Alex Hirsch</director>
+      <actor>Vozes de Kristen Schaal</actor>
+      <actor>Jason Ritter</actor>
+      <actor>Alex Hirsch</actor>
+      <actor>Linda Cardellini</actor>
+      <actor>Kevin Michael Richardson</actor>
+      <actor>Keith Ferguson</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125163000 -0300" stop="20211125164500 -0300" channel="Disney XD">
+    <title lang="pt">Phineas e Ferb</title>
+    <sub-title lang="pt">Phineas &amp; Ferb</sub-title>
+    <desc lang="pt">Phineas e Ferb, dois meio irmãos de 10 anos de idade, decidem que cada dia será mais emocionante do que o anterior, através de fabulosas aventuras, como construir no quintal dos fundos uma montanha russa que desafie todos os limites.</desc>
+    <credits>
+      <director>Jeff 'Swampy' Marsh</director>
+      <director>Dan Povenmire</director>
+      <actor>Vozes de Vincent Martella</actor>
+      <actor>Caroline Rhea</actor>
+      <actor>Ashley Tisdale</actor>
+      <actor>Dee Bradley Baker</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125164500 -0300" stop="20211125164800 -0300" channel="Disney XD">
+    <title lang="pt">Os Vizinhos Green</title>
+    <sub-title lang="pt">Big City Greens</sub-title>
+    <desc lang="pt">A série conta a vida aventureira de um menino do campo que se muda com sua família da fazenda para uma metrópole moderna.</desc>
+    <credits>
+      <actor>Vozes de  Chris Houghton</actor>
+      <actor>Artemis Pebdani</actor>
+      <actor>Marieve Herington</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Infantil)</category>
+    <episode-num system="onscreen">S1 E51</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125164800 -0300" stop="20211125165500 -0300" channel="Disney XD">
+    <title lang="pt">Randy Cunningham - Ninja Total</title>
+    <desc lang="pt">As façanhas de Randy, um jovem estudante com seu traje super-humano de Ninja, os ensinamentos do "Ninja Nomicon", e a ajuda do seu melhor amigo, que percebe ser o único capaz de proteger a sua escola e o mundo da destruição total.</desc>
+    <credits>
+      <director>Shaun Cashman</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125165500 -0300" stop="20211125170000 -0300" channel="Disney XD">
+    <title lang="pt">Larva</title>
+    <desc lang="pt">Larva conta as aventuras de dois personagens centrais: o Amarelo e o Vermelho. Juntos, eles passam por várias situações cômicas, enfatizando a importância da amizade e do amor.</desc>
+    <category lang="pt">Séries (Infantil)</category>
+    <episode-num system="onscreen">S2 E93</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125170000 -0300" stop="20211125171500 -0300" channel="Disney XD">
+    <title lang="pt">Star vs. as Forças do Mal</title>
+    <sub-title lang="pt">Star vs. the Forces of Evil</sub-title>
+    <desc lang="pt">Depois de enfrentar uma série de monstros perigosos, Star Butterfly chega à Terra para viver com a família Diaz. No entanto, em vez de viver uma vida normal, Star continua a batalhar contra vilões tanto em todo o universo, como em sua escola, e ela usa uma poderosa varinha como arma.</desc>
+    <credits>
+      <director>Dave Wasson</director>
+      <actor>Vozes de  Eden Sher</actor>
+      <actor>Adam McArthur</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Jeff Bennett</actor>
+      <actor>Alan Tudyk</actor>
+      <actor>Daron Nefcy</actor>
+      <actor>Nate Torrence</actor>
+    </credits>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S4 E280</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125171500 -0300" stop="20211125173000 -0300" channel="Disney XD">
+    <title lang="pt">Amphibia</title>
+    <desc lang="pt">A ordinária Anne Boonchuy, de 13 anos, encontra uma arca do tesouro que a envia para Amphibia, um mundo cheio de rãs, sapos e insetos gigantes.</desc>
+    <credits>
+      <director>Derek Kirk Kim</director>
+      <actor>Brenda Song</actor>
+      <actor>Justin Felbinger</actor>
+      <actor>Bill Farmer</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S2 E46</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125173000 -0300" stop="20211125174500 -0300" channel="Disney XD">
+    <title lang="pt">ICO BIT ZIP</title>
+    <desc lang="pt">Ico e Oto trabalham juntos para resolver uma pesquisa extraordinária... Sca pa dibu dibby dibuda pororó. Se nem um linguista puder descobrir que idioma é esse, talvez a resposta esteja em Scatland!</desc>
+    <credits>
+      <director>Rodrigo Soldado</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Infantil)</category>
+    <episode-num system="onscreen">S2 E41</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125174500 -0300" stop="20211125180000 -0300" channel="Disney XD">
+    <title lang="pt">Boris e Rufus</title>
+    <desc lang="pt">Rufus recebe um e-mail dizendo que seus amigos estarão em perigo caso a mensagem não seja encaminhada em 30 segundos. Porém uma queda de energia o atrapalha na tarefa e ele fica desesperado.</desc>
+    <date>2018</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E24</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125180000 -0300" stop="20211125183000 -0300" channel="Disney XD">
+    <title lang="pt">Lilo &amp; Stitch da Disney - A Série</title>
+    <sub-title lang="pt">Lilo &amp; Stitch</sub-title>
+    <desc lang="pt">O Experimento 344, um experimento que pode copiar qualquer coisa, é pego por Lilo e por Stitch.</desc>
+    <credits>
+      <director>Robert Gannaway</director>
+      <actor>Vozes de Jillian Henry</actor>
+      <actor>Daveigh Chase</actor>
+      <actor>Chris Sanders</actor>
+      <actor>Gregory A. Kyprianou</actor>
+      <actor>Tress MacNeille</actor>
+      <actor>Kevin McDonald</actor>
+      <actor>Tia Carrere</actor>
+      <actor>Kevin Michael Richardson</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S2 E36</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125183000 -0300" stop="20211125190000 -0300" channel="Disney XD">
+    <title lang="pt">TV Quack</title>
+    <sub-title lang="pt">Quack Pack</sub-title>
+    <desc lang="pt">O multifacetado Donald deverá fazer malabarismos para combinar sua carreira profissional, sua relação com a Margarida, batalhas virtuais contra extraterrestres, viagens no tempo, descobertas de civilizações perdidas, lutas contra dragões e salvar repetidas vezes o mundo da destruição enquanto trabalha na televisão realizando as mais malucas reportagens.</desc>
+    <credits>
+      <director>Toby Shelton</director>
+      <director>Kurt Anderson</director>
+      <actor>Vozes originais de Tony Anselmo</actor>
+      <actor>Kath Soucie</actor>
+      <actor>Jeannie Elias</actor>
+      <actor>Pamela Adlon</actor>
+      <actor>Elizabeth Daily</actor>
+      <actor>Corey Burton</actor>
+      <actor>Cam Clarke</actor>
+      <actor>Tim Curry</actor>
+      <actor>Pat Fraley</actor>
+      <actor>Joe Lala</actor>
+      <actor>Joe Nipote</actor>
+      <actor>Roger Rose</actor>
+      <actor>April Winchell.</actor>
+    </credits>
+    <date>1996</date>
+    <category lang="pt">Infantil (Animação)</category>
+    <episode-num system="onscreen">S1 E25</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125190000 -0300" stop="20211125193000 -0300" channel="Disney XD">
+    <title lang="pt">Ultimate Homem-Aranha</title>
+    <sub-title lang="pt">Ultimate Spider-Man</sub-title>
+    <desc lang="pt">Peter Parker se vira do avesso com os problemas comuns de uma escola de ensino médio e os extraordinários desafios encarados por um herói.</desc>
+    <credits>
+      <director>Jeff Allen</director>
+      <actor>Drake Bell</actor>
+      <actor>Clark Gregg</actor>
+      <actor>Stan Lee</actor>
+      <actor>Chi McBride</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E25</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125193000 -0300" stop="20211125200000 -0300" channel="Disney XD">
+    <title lang="pt">Star Wars Rebels</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <director>Dave Filoni</director>
+      <director>Steven G. Lee</director>
+      <director>Steward Lee</director>
+      <actor>Dave Filoni</actor>
+      <actor>Freddie Prinze Jr.</actor>
+      <actor>Taylor Gray</actor>
+      <actor>Tiya Sircar</actor>
+      <actor>Vanessa Marshall</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E25</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125200000 -0300" stop="20211125203000 -0300" channel="Disney XD">
+    <title lang="pt">Par de Reis</title>
+    <sub-title lang="pt">Pair of Kings</sub-title>
+    <desc lang="pt">Uma série que conta a história dos irmãos gêmeos que vivem uma típica vida adolescente em Chicago e, que sem saber, se transformam em herdeiros do trono da Ilha de Kinkou.</desc>
+    <credits>
+      <director>Dan Cross</director>
+      <director>Dave  Hoge</director>
+      <actor>Mitchel Musso</actor>
+      <actor>Ryan Ochoa</actor>
+      <actor>Larramie Doc Shaw</actor>
+      <actor>Kelsey Chow</actor>
+      <actor>Geno Segers</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125203000 -0300" stop="20211125210000 -0300" channel="Disney XD">
+    <title lang="pt">Os Guerreiros Wasabi</title>
+    <sub-title lang="pt">Kickin' It</sub-title>
+    <desc lang="pt">A comédia se passa na Academia de Artes Marciais Bobby Wasabi, uma escola de artes marciais localizada em pequeno centro comercial, sendo considerada a pior da rede nacional de escolas de Bobby Wasabi.</desc>
+    <credits>
+      <director>Jim  O'Doherty</director>
+      <actor>Jason Earles</actor>
+      <actor>Mateo Arias</actor>
+      <actor>Alex Jonas</actor>
+      <actor>Olivia Holt</actor>
+      <actor>Stephanie Arellano</actor>
+      <actor>Cedric L. Williams</actor>
+      <actor>Savannah Rae Linz</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125210000 -0300" stop="20211125213000 -0300" channel="Disney XD">
+    <title lang="pt">Lab Rats</title>
+    <desc lang="pt">Leo, um garoto de 14 anos de idade, vai parar acidentalmente em um laboratório subterrâneo secreto no porão da casa que compartilha com seu padrasto.</desc>
+    <credits>
+      <director>Chris Peterson</director>
+      <director>Bryan Moore</director>
+      <actor>Billy Unger</actor>
+      <actor>Kelli Berglund</actor>
+      <actor>Spencer Boldman</actor>
+      <actor>Tyrel Jackson Williams</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125213000 -0300" stop="20211125220000 -0300" channel="Disney XD">
+    <title lang="pt">Os Vizinhos Green</title>
+    <sub-title lang="pt">Big City Greens</sub-title>
+    <desc lang="pt">A série conta a vida aventureira de um menino do campo que se muda com sua família da fazenda para uma metrópole moderna.</desc>
+    <credits>
+      <actor>Vozes de  Chris Houghton</actor>
+      <actor>Artemis Pebdani</actor>
+      <actor>Marieve Herington</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Infantil)</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125220000 -0300" stop="20211125221500 -0300" channel="Disney XD">
+    <title lang="pt">Galáxia Wander</title>
+    <sub-title lang="pt">Wander over Yonder</sub-title>
+    <desc lang="pt">A comédia de animação conta as aventuras de Wander, um otimista viajante intergaláctico que vive fazendo o bem, e da sua melhor amiga e montaria Sylvia, que apesar de esquentadinha, é muito leal.</desc>
+    <credits>
+      <director>Craig  McCracken</director>
+      <actor>Vozes de Jack McBrayer</actor>
+      <actor>April Winchell</actor>
+      <actor>Keith Ferguson</actor>
+      <actor>Tom Kenny</actor>
+      <actor>Fred Tatasciore</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125221500 -0300" stop="20211125223000 -0300" channel="Disney XD">
+    <title lang="pt">Kick Buttowski - Um Projeto de Dublê</title>
+    <desc lang="pt">Kick Buttowski é um garoto sensacional que vive na cidade mais comum do mundo na série de animação em 2-D original do Disney XD, Kick Buttowski - Um Projeto de Dublê, repleta de ousadas sequências de ação e manobras.</desc>
+    <credits>
+      <director>Chris Savino</director>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Infantil (Animação)</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125223000 -0300" stop="20211125230000 -0300" channel="Disney XD">
+    <title lang="pt">Trollhunters: Tales of Arcadia</title>
+    <desc lang="pt">Depois de descobrir um amuleto misterioso, um adolescente encontra uma civilização secreta de poderosos trolls sob a pequena cidade de Arcadia.</desc>
+    <credits>
+      <director>Rodrigo Blaas</director>
+      <director>Andrew L. Schmidt</director>
+      <director>Simon Otto</director>
+      <actor>Vozes de Charlie Saxton</actor>
+      <actor>Lexi Medrano</actor>
+      <actor>Anton Yelchin</actor>
+      <actor>Kelsey Grammer</actor>
+      <actor>Mitch Carter</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E38</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125230000 -0300" stop="20211125231500 -0300" channel="Disney XD">
+    <title lang="pt">Adolepeixes</title>
+    <desc lang="pt">Adolepeixes é uma comédia animada que apresenta as histórias de três amigos aquáticos que vivem em um aquário.</desc>
+    <credits>
+      <director>Noah Jones</director>
+      <actor>Vozes de  Chelsea Kane</actor>
+      <actor>John Caparulo</actor>
+      <actor>John DiMaggio</actor>
+      <actor>Rachel Dratch</actor>
+      <actor>Alex Hirsch</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Infantil (Animação)</category>
+    <episode-num system="onscreen">S2 E38</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125231500 -0300" stop="20211125233000 -0300" channel="Disney XD">
+    <title lang="pt">Minhoca do Futuro</title>
+    <sub-title lang="pt">Future-Worm!</sub-title>
+    <desc lang="pt">A série apresenta as aventuras de Danny e Minhoca do Futuro, que viajam no tempo usando uma máquina do tempo em forma de lancheira.</desc>
+    <credits>
+      <director>Pete Michels</director>
+      <actor>James Adomian</actor>
+      <actor>Andy Milonakis</actor>
+      <actor>Ryan Quincy</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125233000 -0300" stop="20211125234500 -0300" channel="Disney XD">
+    <title lang="pt">Picles e Amendoim</title>
+    <sub-title lang="pt">Pickle &amp; Peanut</sub-title>
+    <desc lang="pt">A animação mostra as aventuras dos melhores amigos Picles e Amendoim em seu último ano de escola, onde estão aproveitando ao máximo a possibilidade de se divertir o tempo todo antes das responsabilidades da vida adulta.</desc>
+    <credits>
+      <actor>Vozes de Johnny Pemberton</actor>
+      <actor>Jon Heder</actor>
+      <actor>Bennie Arthur</actor>
+      <actor>Michael Croner</actor>
+      <actor>Matt Chapman</actor>
+      <actor>Joel Trussell</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125234500 -0300" stop="20211126000000 -0300" channel="Disney XD">
+    <title lang="pt">Randy Cunningham - Ninja Total</title>
+    <desc lang="pt">As façanhas de Randy, um jovem estudante com seu traje super-humano de Ninja, os ensinamentos do "Ninja Nomicon", e a ajuda do seu melhor amigo, que percebe ser o único capaz de proteger a sua escola e o mundo da destruição total.</desc>
+    <credits>
+      <director>Shaun Cashman</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E37</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126000000 -0300" stop="20211126001500 -0300" channel="Disney XD">
+    <title lang="pt">Galáxia Wander</title>
+    <sub-title lang="pt">Wander over Yonder</sub-title>
+    <desc lang="pt">A comédia de animação conta as aventuras de Wander, um otimista viajante intergaláctico que vive fazendo o bem, e da sua melhor amiga e montaria Sylvia, que apesar de esquentadinha, é muito leal.</desc>
+    <credits>
+      <director>Craig  McCracken</director>
+      <actor>Vozes de Jack McBrayer</actor>
+      <actor>April Winchell</actor>
+      <actor>Keith Ferguson</actor>
+      <actor>Tom Kenny</actor>
+      <actor>Fred Tatasciore</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E41</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126001500 -0300" stop="20211126003000 -0300" channel="Disney XD">
+    <title lang="pt">Adolepeixes</title>
+    <desc lang="pt">Adolepeixes é uma comédia animada que apresenta as histórias de três amigos aquáticos que vivem em um aquário.</desc>
+    <credits>
+      <director>Noah Jones</director>
+      <actor>Vozes de  Chelsea Kane</actor>
+      <actor>John Caparulo</actor>
+      <actor>John DiMaggio</actor>
+      <actor>Rachel Dratch</actor>
+      <actor>Alex Hirsch</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Infantil (Animação)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126003000 -0300" stop="20211126004500 -0300" channel="Disney XD">
+    <title lang="pt">Picles e Amendoim</title>
+    <sub-title lang="pt">Pickle &amp; Peanut</sub-title>
+    <desc lang="pt">A animação mostra as aventuras dos melhores amigos Picles e Amendoim em seu último ano de escola, onde estão aproveitando ao máximo a possibilidade de se divertir o tempo todo antes das responsabilidades da vida adulta.</desc>
+    <credits>
+      <actor>Vozes de Johnny Pemberton</actor>
+      <actor>Jon Heder</actor>
+      <actor>Bennie Arthur</actor>
+      <actor>Michael Croner</actor>
+      <actor>Matt Chapman</actor>
+      <actor>Joel Trussell</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126004500 -0300" stop="20211126010000 -0300" channel="Disney XD">
+    <title lang="pt">Minhoca do Futuro</title>
+    <sub-title lang="pt">Future-Worm!</sub-title>
+    <desc lang="pt">A série apresenta as aventuras de Danny e Minhoca do Futuro, que viajam no tempo usando uma máquina do tempo em forma de lancheira.</desc>
+    <credits>
+      <director>Pete Michels</director>
+      <actor>James Adomian</actor>
+      <actor>Andy Milonakis</actor>
+      <actor>Ryan Quincy</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E38</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126010000 -0300" stop="20211126013000 -0300" channel="Disney XD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <desc lang="pt">Dipper e Mabel são dois irmãos gêmeos criados na cidade grande que são enviados para passar o verão com seu velho tio Stan, em Gravity Falls, Oregon. Por lá, eles terão de cuidar do The Mystery Shack, uma atração turística, mas acontece que o lugar não é um paraíso, escondendo mistérios e fenômenos inimagináveis.</desc>
+    <credits>
+      <director>Alex Hirsch</director>
+      <actor>Vozes de Kristen Schaal</actor>
+      <actor>Jason Ritter</actor>
+      <actor>Alex Hirsch</actor>
+      <actor>Linda Cardellini</actor>
+      <actor>Kevin Michael Richardson</actor>
+      <actor>Keith Ferguson</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126013000 -0300" stop="20211126020000 -0300" channel="Disney XD">
+    <title lang="pt">Kick Buttowski - Um Projeto de Dublê</title>
+    <desc lang="pt">Kick Buttowski é um garoto sensacional que vive na cidade mais comum do mundo na série de animação em 2-D original do Disney XD, Kick Buttowski - Um Projeto de Dublê, repleta de ousadas sequências de ação e manobras.</desc>
+    <credits>
+      <director>Chris Savino</director>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Infantil (Animação)</category>
+    <episode-num system="onscreen">S2 E38</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126020000 -0300" stop="20211126023000 -0300" channel="Disney XD">
+    <title lang="pt">Os Vizinhos Green</title>
+    <sub-title lang="pt">Big City Greens</sub-title>
+    <desc lang="pt">A série conta a vida aventureira de um menino do campo que se muda com sua família da fazenda para uma metrópole moderna.</desc>
+    <credits>
+      <actor>Vozes de  Chris Houghton</actor>
+      <actor>Artemis Pebdani</actor>
+      <actor>Marieve Herington</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Infantil)</category>
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126023000 -0300" stop="20211126030000 -0300" channel="Disney XD">
+    <title lang="pt">Operação Big Hero - A Série</title>
+    <desc lang="pt">Hiro continua suas aventuras com seu amigo robô Baymax e o resto da equipe Big Hero 6.</desc>
+    <credits>
+      <actor>Vozes de Scott Adsit</actor>
+      <actor>Ryan Potter</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126030000 -0300" stop="20211126033000 -0300" channel="Disney XD">
+    <title lang="pt">A Lei de Milo Murphy</title>
+    <sub-title lang="pt">Milo Murphy's Law</sub-title>
+    <desc lang="pt">Dos criadores de "Phineas e Ferb", a comédia acompanha Milo, a personificação da Lei de Murphy, onde qualquer coisa que pode dar errado vai dar errado.</desc>
+    <credits>
+      <director>Bob Bowen</director>
+      <director>Robert Hughes</director>
+      <director>Dan Povenmire</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Infantil)</category>
+    <episode-num system="onscreen">S2 E37</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126033000 -0300" stop="20211126040000 -0300" channel="Disney XD">
+    <title lang="pt">Phineas e Ferb</title>
+    <sub-title lang="pt">Phineas &amp; Ferb</sub-title>
+    <desc lang="pt">Phineas e Ferb, dois meio irmãos de 10 anos de idade, decidem que cada dia será mais emocionante do que o anterior, através de fabulosas aventuras, como construir no quintal dos fundos uma montanha russa que desafie todos os limites.</desc>
+    <credits>
+      <director>Jeff 'Swampy' Marsh</director>
+      <director>Dan Povenmire</director>
+      <actor>Vozes de Vincent Martella</actor>
+      <actor>Caroline Rhea</actor>
+      <actor>Ashley Tisdale</actor>
+      <actor>Dee Bradley Baker</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126040000 -0300" stop="20211126043000 -0300" channel="Disney XD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <desc lang="pt">Dipper e Mabel são dois irmãos gêmeos criados na cidade grande que são enviados para passar o verão com seu velho tio Stan, em Gravity Falls, Oregon. Por lá, eles terão de cuidar do The Mystery Shack, uma atração turística, mas acontece que o lugar não é um paraíso, escondendo mistérios e fenômenos inimagináveis.</desc>
+    <credits>
+      <director>Alex Hirsch</director>
+      <actor>Vozes de Kristen Schaal</actor>
+      <actor>Jason Ritter</actor>
+      <actor>Alex Hirsch</actor>
+      <actor>Linda Cardellini</actor>
+      <actor>Kevin Michael Richardson</actor>
+      <actor>Keith Ferguson</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S2 E64</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126043000 -0300" stop="20211126050000 -0300" channel="Disney XD">
+    <title lang="pt">Star vs. as Forças do Mal</title>
+    <sub-title lang="pt">Star vs. the Forces of Evil</sub-title>
+    <desc lang="pt">Depois de enfrentar uma série de monstros perigosos, Star Butterfly chega à Terra para viver com a família Diaz. No entanto, em vez de viver uma vida normal, Star continua a batalhar contra vilões tanto em todo o universo, como em sua escola, e ela usa uma poderosa varinha como arma.</desc>
+    <credits>
+      <director>Dave Wasson</director>
+      <actor>Vozes de  Eden Sher</actor>
+      <actor>Adam McArthur</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Jeff Bennett</actor>
+      <actor>Alan Tudyk</actor>
+      <actor>Daron Nefcy</actor>
+      <actor>Nate Torrence</actor>
+    </credits>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126050000 -0300" stop="20211126053000 -0300" channel="Disney XD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <desc lang="pt">Dipper e Mabel são dois irmãos gêmeos criados na cidade grande que são enviados para passar o verão com seu velho tio Stan, em Gravity Falls, Oregon. Por lá, eles terão de cuidar do The Mystery Shack, uma atração turística, mas acontece que o lugar não é um paraíso, escondendo mistérios e fenômenos inimagináveis.</desc>
+    <credits>
+      <director>Alex Hirsch</director>
+      <actor>Vozes de Kristen Schaal</actor>
+      <actor>Jason Ritter</actor>
+      <actor>Alex Hirsch</actor>
+      <actor>Linda Cardellini</actor>
+      <actor>Kevin Michael Richardson</actor>
+      <actor>Keith Ferguson</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S2 E19</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126053000 -0300" stop="20211126060000 -0300" channel="Disney XD">
+    <title lang="pt">Operação Big Hero - A Série</title>
+    <desc lang="pt">Hiro continua suas aventuras com seu amigo robô Baymax e o resto da equipe Big Hero 6.</desc>
+    <credits>
+      <actor>Vozes de Scott Adsit</actor>
+      <actor>Ryan Potter</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126060000 -0300" stop="20211126063000 -0300" channel="Disney XD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <desc lang="pt">Dipper e Mabel são dois irmãos gêmeos criados na cidade grande que são enviados para passar o verão com seu velho tio Stan, em Gravity Falls, Oregon. Por lá, eles terão de cuidar do The Mystery Shack, uma atração turística, mas acontece que o lugar não é um paraíso, escondendo mistérios e fenômenos inimagináveis.</desc>
+    <credits>
+      <director>Alex Hirsch</director>
+      <actor>Vozes de Kristen Schaal</actor>
+      <actor>Jason Ritter</actor>
+      <actor>Alex Hirsch</actor>
+      <actor>Linda Cardellini</actor>
+      <actor>Kevin Michael Richardson</actor>
+      <actor>Keith Ferguson</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S2 E38</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126063000 -0300" stop="20211126064500 -0300" channel="Disney XD">
+    <title lang="pt">Amphibia</title>
+    <desc lang="pt">A ordinária Anne Boonchuy, de 13 anos, encontra uma arca do tesouro que a envia para Amphibia, um mundo cheio de rãs, sapos e insetos gigantes.</desc>
+    <credits>
+      <director>Derek Kirk Kim</director>
+      <actor>Brenda Song</actor>
+      <actor>Justin Felbinger</actor>
+      <actor>Bill Farmer</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126064500 -0300" stop="20211126070000 -0300" channel="Disney XD">
+    <title lang="pt">Kick Buttowski - Um Projeto de Dublê</title>
+    <desc lang="pt">Kick Buttowski é um garoto sensacional que vive na cidade mais comum do mundo na série de animação em 2-D original do Disney XD, Kick Buttowski - Um Projeto de Dublê, repleta de ousadas sequências de ação e manobras.</desc>
+    <credits>
+      <director>Chris Savino</director>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Infantil (Animação)</category>
+    <episode-num system="onscreen">S2 E42</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126070000 -0300" stop="20211126071500 -0300" channel="Disney XD">
+    <title lang="pt">Phineas e Ferb</title>
+    <sub-title lang="pt">Phineas &amp; Ferb</sub-title>
+    <desc lang="pt">Phineas e Ferb, dois meio irmãos de 10 anos de idade, decidem que cada dia será mais emocionante do que o anterior, através de fabulosas aventuras, como construir no quintal dos fundos uma montanha russa que desafie todos os limites.</desc>
+    <credits>
+      <director>Jeff 'Swampy' Marsh</director>
+      <director>Dan Povenmire</director>
+      <actor>Vozes de Vincent Martella</actor>
+      <actor>Caroline Rhea</actor>
+      <actor>Ashley Tisdale</actor>
+      <actor>Dee Bradley Baker</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E39</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126071500 -0300" stop="20211126072600 -0300" channel="Disney XD">
+    <title lang="pt">Adolepeixes</title>
+    <desc lang="pt">Adolepeixes é uma comédia animada que apresenta as histórias de três amigos aquáticos que vivem em um aquário.</desc>
+    <credits>
+      <director>Noah Jones</director>
+      <actor>Vozes de  Chelsea Kane</actor>
+      <actor>John Caparulo</actor>
+      <actor>John DiMaggio</actor>
+      <actor>Rachel Dratch</actor>
+      <actor>Alex Hirsch</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Infantil (Animação)</category>
+    <episode-num system="onscreen">S1 E52</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126072600 -0300" stop="20211126073000 -0300" channel="Disney XD">
+    <title lang="pt">Phineas e Ferb</title>
+    <sub-title lang="pt">Phineas &amp; Ferb</sub-title>
+    <desc lang="pt">Phineas e Ferb, dois meio irmãos de 10 anos de idade, decidem que cada dia será mais emocionante do que o anterior, através de fabulosas aventuras, como construir no quintal dos fundos uma montanha russa que desafie todos os limites.</desc>
+    <credits>
+      <director>Jeff 'Swampy' Marsh</director>
+      <director>Dan Povenmire</director>
+      <actor>Vozes de Vincent Martella</actor>
+      <actor>Caroline Rhea</actor>
+      <actor>Ashley Tisdale</actor>
+      <actor>Dee Bradley Baker</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126073000 -0300" stop="20211126080000 -0300" channel="Disney XD">
+    <title lang="pt">Hércules</title>
+    <desc lang="pt">Uma aventura épica, baseada no maior herói da mitologia greco-romana, adaptada para o público infantil.</desc>
+    <credits>
+      <director>John Musker</director>
+      <director>Ron Clements</director>
+      <actor>Vozes de Tate Donovan</actor>
+      <actor>Josh Keaton</actor>
+      <actor>Roger Bart</actor>
+      <actor>Danny DeVito</actor>
+      <actor>James Woods</actor>
+      <actor>Susan Egan</actor>
+      <actor>Bob Goldthwait</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E24</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126080000 -0300" stop="20211126082600 -0300" channel="Disney XD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <desc lang="pt">Dipper e Mabel são dois irmãos gêmeos criados na cidade grande que são enviados para passar o verão com seu velho tio Stan, em Gravity Falls, Oregon. Por lá, eles terão de cuidar do The Mystery Shack, uma atração turística, mas acontece que o lugar não é um paraíso, escondendo mistérios e fenômenos inimagináveis.</desc>
+    <credits>
+      <director>Alex Hirsch</director>
+      <actor>Vozes de Kristen Schaal</actor>
+      <actor>Jason Ritter</actor>
+      <actor>Alex Hirsch</actor>
+      <actor>Linda Cardellini</actor>
+      <actor>Kevin Michael Richardson</actor>
+      <actor>Keith Ferguson</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E20</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126082600 -0300" stop="20211126083000 -0300" channel="Disney XD">
+    <title lang="pt">Mickey Mouse</title>
+    <sub-title lang="pt">Mickey Mouse Shorts</sub-title>
+    <desc lang="pt">Mickey viaja a diferentes lugares para viver momentos fofos e heroicos com seus divertidos amigos: Minnie, Pato Donald, Margarida, Pateta e Pluto.</desc>
+    <credits>
+      <director>Paul Rudish</director>
+      <actor>Chris Diamantopoulos</actor>
+      <actor>Russi Taylor</actor>
+      <actor>Tony Anselmo</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S2 E39</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126083000 -0300" stop="20211126090000 -0300" channel="Disney XD">
+    <title lang="pt">Lilo &amp; Stitch da Disney - A Série</title>
+    <sub-title lang="pt">Lilo &amp; Stitch</sub-title>
+    <desc lang="pt">O Experimento 344, um experimento que pode copiar qualquer coisa, é pego por Lilo e por Stitch.</desc>
+    <credits>
+      <director>Robert Gannaway</director>
+      <actor>Vozes de Jillian Henry</actor>
+      <actor>Daveigh Chase</actor>
+      <actor>Chris Sanders</actor>
+      <actor>Gregory A. Kyprianou</actor>
+      <actor>Tress MacNeille</actor>
+      <actor>Kevin McDonald</actor>
+      <actor>Tia Carrere</actor>
+      <actor>Kevin Michael Richardson</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126090000 -0300" stop="20211126093000 -0300" channel="Disney XD">
+    <title lang="pt">TV Quack</title>
+    <sub-title lang="pt">Quack Pack</sub-title>
+    <desc lang="pt">O multifacetado Donald deverá fazer malabarismos para combinar sua carreira profissional, sua relação com a Margarida, batalhas virtuais contra extraterrestres, viagens no tempo, descobertas de civilizações perdidas, lutas contra dragões e salvar repetidas vezes o mundo da destruição enquanto trabalha na televisão realizando as mais malucas reportagens.</desc>
+    <credits>
+      <director>Toby Shelton</director>
+      <director>Kurt Anderson</director>
+      <actor>Vozes originais de Tony Anselmo</actor>
+      <actor>Kath Soucie</actor>
+      <actor>Jeannie Elias</actor>
+      <actor>Pamela Adlon</actor>
+      <actor>Elizabeth Daily</actor>
+      <actor>Corey Burton</actor>
+      <actor>Cam Clarke</actor>
+      <actor>Tim Curry</actor>
+      <actor>Pat Fraley</actor>
+      <actor>Joe Lala</actor>
+      <actor>Joe Nipote</actor>
+      <actor>Roger Rose</actor>
+      <actor>April Winchell.</actor>
+    </credits>
+    <date>1996</date>
+    <category lang="pt">Infantil (Animação)</category>
+    <episode-num system="onscreen">S1 E25</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126093000 -0300" stop="20211126100000 -0300" channel="Disney XD">
+    <title lang="pt">Ultimate Homem-Aranha</title>
+    <sub-title lang="pt">Ultimate Spider-Man</sub-title>
+    <desc lang="pt">Peter Parker se vira do avesso com os problemas comuns de uma escola de ensino médio e os extraordinários desafios encarados por um herói.</desc>
+    <credits>
+      <director>Jeff Allen</director>
+      <actor>Drake Bell</actor>
+      <actor>Clark Gregg</actor>
+      <actor>Stan Lee</actor>
+      <actor>Chi McBride</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E25</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126100000 -0300" stop="20211126103000 -0300" channel="Disney XD">
+    <title lang="pt">Star Wars Rebels</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <director>Dave Filoni</director>
+      <director>Steven G. Lee</director>
+      <director>Steward Lee</director>
+      <actor>Dave Filoni</actor>
+      <actor>Freddie Prinze Jr.</actor>
+      <actor>Taylor Gray</actor>
+      <actor>Tiya Sircar</actor>
+      <actor>Vanessa Marshall</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E25</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126103000 -0300" stop="20211126110000 -0300" channel="Disney XD">
+    <title lang="pt">Par de Reis</title>
+    <sub-title lang="pt">Pair of Kings</sub-title>
+    <desc lang="pt">Uma série que conta a história dos irmãos gêmeos que vivem uma típica vida adolescente em Chicago e, que sem saber, se transformam em herdeiros do trono da Ilha de Kinkou.</desc>
+    <credits>
+      <director>Dan Cross</director>
+      <director>Dave  Hoge</director>
+      <actor>Mitchel Musso</actor>
+      <actor>Ryan Ochoa</actor>
+      <actor>Larramie Doc Shaw</actor>
+      <actor>Kelsey Chow</actor>
+      <actor>Geno Segers</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126110000 -0300" stop="20211126113000 -0300" channel="Disney XD">
+    <title lang="pt">Os Guerreiros Wasabi</title>
+    <sub-title lang="pt">Kickin' It</sub-title>
+    <desc lang="pt">A comédia se passa na Academia de Artes Marciais Bobby Wasabi, uma escola de artes marciais localizada em pequeno centro comercial, sendo considerada a pior da rede nacional de escolas de Bobby Wasabi.</desc>
+    <credits>
+      <director>Jim  O'Doherty</director>
+      <actor>Jason Earles</actor>
+      <actor>Mateo Arias</actor>
+      <actor>Alex Jonas</actor>
+      <actor>Olivia Holt</actor>
+      <actor>Stephanie Arellano</actor>
+      <actor>Cedric L. Williams</actor>
+      <actor>Savannah Rae Linz</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126113000 -0300" stop="20211126120000 -0300" channel="Disney XD">
+    <title lang="pt">Lab Rats</title>
+    <desc lang="pt">Leo, um garoto de 14 anos de idade, vai parar acidentalmente em um laboratório subterrâneo secreto no porão da casa que compartilha com seu padrasto.</desc>
+    <credits>
+      <director>Chris Peterson</director>
+      <director>Bryan Moore</director>
+      <actor>Billy Unger</actor>
+      <actor>Kelli Berglund</actor>
+      <actor>Spencer Boldman</actor>
+      <actor>Tyrel Jackson Williams</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126120000 -0300" stop="20211126123000 -0300" channel="Disney XD">
+    <title lang="pt">Phineas e Ferb</title>
+    <sub-title lang="pt">Phineas &amp; Ferb</sub-title>
+    <desc lang="pt">Phineas e Ferb, dois meio irmãos de 10 anos de idade, decidem que cada dia será mais emocionante do que o anterior, através de fabulosas aventuras, como construir no quintal dos fundos uma montanha russa que desafie todos os limites.</desc>
+    <credits>
+      <director>Jeff 'Swampy' Marsh</director>
+      <director>Dan Povenmire</director>
+      <actor>Vozes de Vincent Martella</actor>
+      <actor>Caroline Rhea</actor>
+      <actor>Ashley Tisdale</actor>
+      <actor>Dee Bradley Baker</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126123000 -0300" stop="20211126124500 -0300" channel="Disney XD">
+    <title lang="pt">ICO BIT ZIP</title>
+    <desc lang="pt">Após passar a noite em claro estudando, Ico tem um péssimo dia: briga com Kelly e está com a cabeça tão cheia que esquece de ir ao banheiro. Agora, ela tem que descobrir onde alguém deixou a sua bicicleta e ainda achar um banheiro a tempo!</desc>
+    <credits>
+      <director>Rodrigo Soldado</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Infantil)</category>
+    <episode-num system="onscreen">S2 E65</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126124500 -0300" stop="20211126130000 -0300" channel="Disney XD">
+    <title lang="pt">ICO BIT ZIP</title>
+    <desc lang="pt">Na pesquisa sobre criação de histórias, Ico aposta com Remi sobre quem ganhará com a melhor história para meninas. No processo, ele conhece a Sherezade, que explica para Ico que não existe diferença entre histórias de meninas ou meninos.</desc>
+    <credits>
+      <director>Rodrigo Soldado</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Infantil)</category>
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126130000 -0300" stop="20211126133000 -0300" channel="Disney XD">
+    <title lang="pt">A Casa Coruja</title>
+    <sub-title lang="pt">The Owl House</sub-title>
+    <desc lang="pt">Uma adolescente tropeça em um portal para um reino mágico, onde faz amizade com uma bruxa rebelde.</desc>
+    <credits>
+      <director>Stu Livingston</director>
+      <director>Sabrina Cotugno</director>
+      <director>Aminder Dhaliwal</director>
+      <director>Stephen Sandoval</director>
+      <actor>Vozes de  Sarah-Nicole Robles</actor>
+      <actor>Wendie Malick</actor>
+      <actor>Alex Hirsch</actor>
+      <actor>Grey Griffin</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126133000 -0300" stop="20211126134500 -0300" channel="Disney XD">
+    <title lang="pt">Boris e Rufus</title>
+    <desc lang="pt">Rufus recebe um e-mail dizendo que seus amigos estarão em perigo caso a mensagem não seja encaminhada em 30 segundos. Porém uma queda de energia o atrapalha na tarefa e ele fica desesperado.</desc>
+    <date>2018</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S2 E20</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126134500 -0300" stop="20211126140000 -0300" channel="Disney XD">
+    <title lang="pt">Boris e Rufus</title>
+    <desc lang="pt">Rufus recebe um e-mail dizendo que seus amigos estarão em perigo caso a mensagem não seja encaminhada em 30 segundos. Porém uma queda de energia o atrapalha na tarefa e ele fica desesperado.</desc>
+    <date>2018</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S2 E37</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126140000 -0300" stop="20211126143000 -0300" channel="Disney XD">
+    <title lang="pt">Trollhunters: Tales of Arcadia</title>
+    <desc lang="pt">Depois de descobrir um amuleto misterioso, um adolescente encontra uma civilização secreta de poderosos trolls sob a pequena cidade de Arcadia.</desc>
+    <credits>
+      <director>Rodrigo Blaas</director>
+      <director>Andrew L. Schmidt</director>
+      <director>Simon Otto</director>
+      <actor>Vozes de Charlie Saxton</actor>
+      <actor>Lexi Medrano</actor>
+      <actor>Anton Yelchin</actor>
+      <actor>Kelsey Grammer</actor>
+      <actor>Mitch Carter</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S2 E38</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126143000 -0300" stop="20211126144500 -0300" channel="Disney XD">
+    <title lang="pt">Randy Cunningham - Ninja Total</title>
+    <desc lang="pt">As façanhas de Randy, um jovem estudante com seu traje super-humano de Ninja, os ensinamentos do "Ninja Nomicon", e a ajuda do seu melhor amigo, que percebe ser o único capaz de proteger a sua escola e o mundo da destruição total.</desc>
+    <credits>
+      <director>Shaun Cashman</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S2 E39</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126144500 -0300" stop="20211126144900 -0300" channel="Disney XD">
+    <title lang="pt">Mickey Mouse</title>
+    <sub-title lang="pt">Mickey Mouse Shorts</sub-title>
+    <desc lang="pt">Mickey viaja a diferentes lugares para viver momentos fofos e heroicos com seus divertidos amigos: Minnie, Pato Donald, Margarida, Pateta e Pluto.</desc>
+    <credits>
+      <director>Paul Rudish</director>
+      <actor>Chris Diamantopoulos</actor>
+      <actor>Russi Taylor</actor>
+      <actor>Tony Anselmo</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E42</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126144900 -0300" stop="20211126150000 -0300" channel="Disney XD">
+    <title lang="pt">Star vs. as Forças do Mal</title>
+    <sub-title lang="pt">Star vs. the Forces of Evil</sub-title>
+    <desc lang="pt">Depois de enfrentar uma série de monstros perigosos, Star Butterfly chega à Terra para viver com a família Diaz. No entanto, em vez de viver uma vida normal, Star continua a batalhar contra vilões tanto em todo o universo, como em sua escola, e ela usa uma poderosa varinha como arma.</desc>
+    <credits>
+      <director>Dave Wasson</director>
+      <actor>Vozes de  Eden Sher</actor>
+      <actor>Adam McArthur</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Jeff Bennett</actor>
+      <actor>Alan Tudyk</actor>
+      <actor>Daron Nefcy</actor>
+      <actor>Nate Torrence</actor>
+    </credits>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126150000 -0300" stop="20211126153000 -0300" channel="Disney XD">
+    <title lang="pt">Os Vizinhos Green</title>
+    <sub-title lang="pt">Big City Greens</sub-title>
+    <desc lang="pt">A série conta a vida aventureira de um menino do campo que se muda com sua família da fazenda para uma metrópole moderna.</desc>
+    <credits>
+      <actor>Vozes de  Chris Houghton</actor>
+      <actor>Artemis Pebdani</actor>
+      <actor>Marieve Herington</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Infantil)</category>
+    <episode-num system="onscreen">S1 E22</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126153000 -0300" stop="20211126160000 -0300" channel="Disney XD">
+    <title lang="pt">A Casa Coruja</title>
+    <sub-title lang="pt">The Owl House</sub-title>
+    <desc lang="pt">Uma adolescente tropeça em um portal para um reino mágico, onde faz amizade com uma bruxa rebelde.</desc>
+    <credits>
+      <director>Stu Livingston</director>
+      <director>Sabrina Cotugno</director>
+      <director>Aminder Dhaliwal</director>
+      <director>Stephen Sandoval</director>
+      <actor>Vozes de  Sarah-Nicole Robles</actor>
+      <actor>Wendie Malick</actor>
+      <actor>Alex Hirsch</actor>
+      <actor>Grey Griffin</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S2 E50</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126160000 -0300" stop="20211126163000 -0300" channel="Disney XD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <desc lang="pt">Dipper e Mabel são dois irmãos gêmeos criados na cidade grande que são enviados para passar o verão com seu velho tio Stan, em Gravity Falls, Oregon. Por lá, eles terão de cuidar do The Mystery Shack, uma atração turística, mas acontece que o lugar não é um paraíso, escondendo mistérios e fenômenos inimagináveis.</desc>
+    <credits>
+      <director>Alex Hirsch</director>
+      <actor>Vozes de Kristen Schaal</actor>
+      <actor>Jason Ritter</actor>
+      <actor>Alex Hirsch</actor>
+      <actor>Linda Cardellini</actor>
+      <actor>Kevin Michael Richardson</actor>
+      <actor>Keith Ferguson</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S2 E20</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126163000 -0300" stop="20211126164500 -0300" channel="Disney XD">
+    <title lang="pt">Phineas e Ferb</title>
+    <sub-title lang="pt">Phineas &amp; Ferb</sub-title>
+    <desc lang="pt">Phineas e Ferb, dois meio irmãos de 10 anos de idade, decidem que cada dia será mais emocionante do que o anterior, através de fabulosas aventuras, como construir no quintal dos fundos uma montanha russa que desafie todos os limites.</desc>
+    <credits>
+      <director>Jeff 'Swampy' Marsh</director>
+      <director>Dan Povenmire</director>
+      <actor>Vozes de Vincent Martella</actor>
+      <actor>Caroline Rhea</actor>
+      <actor>Ashley Tisdale</actor>
+      <actor>Dee Bradley Baker</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E20</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126164500 -0300" stop="20211126164800 -0300" channel="Disney XD">
+    <title lang="pt">Os Vizinhos Green</title>
+    <sub-title lang="pt">Big City Greens</sub-title>
+    <desc lang="pt">A série conta a vida aventureira de um menino do campo que se muda com sua família da fazenda para uma metrópole moderna.</desc>
+    <credits>
+      <actor>Vozes de  Chris Houghton</actor>
+      <actor>Artemis Pebdani</actor>
+      <actor>Marieve Herington</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Infantil)</category>
+    <episode-num system="onscreen">S2 E55</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126164800 -0300" stop="20211126165500 -0300" channel="Disney XD">
+    <title lang="pt">Randy Cunningham - Ninja Total</title>
+    <desc lang="pt">As façanhas de Randy, um jovem estudante com seu traje super-humano de Ninja, os ensinamentos do "Ninja Nomicon", e a ajuda do seu melhor amigo, que percebe ser o único capaz de proteger a sua escola e o mundo da destruição total.</desc>
+    <credits>
+      <director>Shaun Cashman</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E20</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126165500 -0300" stop="20211126170000 -0300" channel="Disney XD">
+    <title lang="pt">Larva</title>
+    <desc lang="pt">Larva conta as aventuras de dois personagens centrais: o Amarelo e o Vermelho. Juntos, eles passam por várias situações cômicas, enfatizando a importância da amizade e do amor.</desc>
+    <category lang="pt">Séries (Infantil)</category>
+    <episode-num system="onscreen">S2 E95</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126170000 -0300" stop="20211126171500 -0300" channel="Disney XD">
+    <title lang="pt">Star vs. as Forças do Mal</title>
+    <sub-title lang="pt">Star vs. the Forces of Evil</sub-title>
+    <desc lang="pt">Depois de enfrentar uma série de monstros perigosos, Star Butterfly chega à Terra para viver com a família Diaz. No entanto, em vez de viver uma vida normal, Star continua a batalhar contra vilões tanto em todo o universo, como em sua escola, e ela usa uma poderosa varinha como arma.</desc>
+    <credits>
+      <director>Dave Wasson</director>
+      <actor>Vozes de  Eden Sher</actor>
+      <actor>Adam McArthur</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Jeff Bennett</actor>
+      <actor>Alan Tudyk</actor>
+      <actor>Daron Nefcy</actor>
+      <actor>Nate Torrence</actor>
+    </credits>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S4 E283</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126171500 -0300" stop="20211126173000 -0300" channel="Disney XD">
+    <title lang="pt">Amphibia</title>
+    <desc lang="pt">A ordinária Anne Boonchuy, de 13 anos, encontra uma arca do tesouro que a envia para Amphibia, um mundo cheio de rãs, sapos e insetos gigantes.</desc>
+    <credits>
+      <director>Derek Kirk Kim</director>
+      <actor>Brenda Song</actor>
+      <actor>Justin Felbinger</actor>
+      <actor>Bill Farmer</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S2 E47</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126173000 -0300" stop="20211126174500 -0300" channel="Disney XD">
+    <title lang="pt">ICO BIT ZIP</title>
+    <desc lang="pt">Em um dia atípico, Remi assume como chefe de Bit Zip e sobrecarrega de trabalho os pesquisadores e acaba gerando um ambiente de rebelião geral. Durante a pesquisa, Ico aprende a importância de interpretar o contexto do que se lê!</desc>
+    <credits>
+      <director>Rodrigo Soldado</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Infantil)</category>
+    <episode-num system="onscreen">S2 E43</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126174500 -0300" stop="20211126180000 -0300" channel="Disney XD">
+    <title lang="pt">Boris e Rufus</title>
+    <desc lang="pt">Rufus recebe um e-mail dizendo que seus amigos estarão em perigo caso a mensagem não seja encaminhada em 30 segundos. Porém uma queda de energia o atrapalha na tarefa e ele fica desesperado.</desc>
+    <date>2018</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E25</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126180000 -0300" stop="20211126183000 -0300" channel="Disney XD">
+    <title lang="pt">Lilo &amp; Stitch da Disney - A Série</title>
+    <sub-title lang="pt">Lilo &amp; Stitch</sub-title>
+    <desc lang="pt">Stitch e Pleakley montam um terrível número de magia que eles planejam apresentar em uma das festas de Mertle.</desc>
+    <credits>
+      <director>Robert Gannaway</director>
+      <actor>Vozes de Jillian Henry</actor>
+      <actor>Daveigh Chase</actor>
+      <actor>Chris Sanders</actor>
+      <actor>Gregory A. Kyprianou</actor>
+      <actor>Tress MacNeille</actor>
+      <actor>Kevin McDonald</actor>
+      <actor>Tia Carrere</actor>
+      <actor>Kevin Michael Richardson</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S2 E39</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126183000 -0300" stop="20211126190000 -0300" channel="Disney XD">
+    <title lang="pt">TV Quack</title>
+    <sub-title lang="pt">Quack Pack</sub-title>
+    <desc lang="pt">O multifacetado Donald deverá fazer malabarismos para combinar sua carreira profissional, sua relação com a Margarida, batalhas virtuais contra extraterrestres, viagens no tempo, descobertas de civilizações perdidas, lutas contra dragões e salvar repetidas vezes o mundo da destruição enquanto trabalha na televisão realizando as mais malucas reportagens.</desc>
+    <credits>
+      <director>Toby Shelton</director>
+      <director>Kurt Anderson</director>
+      <actor>Vozes originais de Tony Anselmo</actor>
+      <actor>Kath Soucie</actor>
+      <actor>Jeannie Elias</actor>
+      <actor>Pamela Adlon</actor>
+      <actor>Elizabeth Daily</actor>
+      <actor>Corey Burton</actor>
+      <actor>Cam Clarke</actor>
+      <actor>Tim Curry</actor>
+      <actor>Pat Fraley</actor>
+      <actor>Joe Lala</actor>
+      <actor>Joe Nipote</actor>
+      <actor>Roger Rose</actor>
+      <actor>April Winchell.</actor>
+    </credits>
+    <date>1996</date>
+    <category lang="pt">Infantil (Animação)</category>
+    <episode-num system="onscreen">S1 E26</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126190000 -0300" stop="20211126193000 -0300" channel="Disney XD">
+    <title lang="pt">Ultimate Homem-Aranha</title>
+    <sub-title lang="pt">Ultimate Spider-Man</sub-title>
+    <desc lang="pt">Peter Parker se vira do avesso com os problemas comuns de uma escola de ensino médio e os extraordinários desafios encarados por um herói.</desc>
+    <credits>
+      <director>Jeff Allen</director>
+      <actor>Drake Bell</actor>
+      <actor>Clark Gregg</actor>
+      <actor>Stan Lee</actor>
+      <actor>Chi McBride</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E26</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126193000 -0300" stop="20211126200000 -0300" channel="Disney XD">
+    <title lang="pt">Star Wars Rebels</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <director>Dave Filoni</director>
+      <director>Steven G. Lee</director>
+      <director>Steward Lee</director>
+      <actor>Dave Filoni</actor>
+      <actor>Freddie Prinze Jr.</actor>
+      <actor>Taylor Gray</actor>
+      <actor>Tiya Sircar</actor>
+      <actor>Vanessa Marshall</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E26</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126200000 -0300" stop="20211126203000 -0300" channel="Disney XD">
+    <title lang="pt">Par de Reis</title>
+    <sub-title lang="pt">Pair of Kings</sub-title>
+    <desc lang="pt">Uma série que conta a história dos irmãos gêmeos que vivem uma típica vida adolescente em Chicago e, que sem saber, se transformam em herdeiros do trono da Ilha de Kinkou.</desc>
+    <credits>
+      <director>Dan Cross</director>
+      <director>Dave  Hoge</director>
+      <actor>Mitchel Musso</actor>
+      <actor>Ryan Ochoa</actor>
+      <actor>Larramie Doc Shaw</actor>
+      <actor>Kelsey Chow</actor>
+      <actor>Geno Segers</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126203000 -0300" stop="20211126210000 -0300" channel="Disney XD">
+    <title lang="pt">Os Guerreiros Wasabi</title>
+    <sub-title lang="pt">Kickin' It</sub-title>
+    <desc lang="pt">A comédia se passa na Academia de Artes Marciais Bobby Wasabi, uma escola de artes marciais localizada em pequeno centro comercial, sendo considerada a pior da rede nacional de escolas de Bobby Wasabi.</desc>
+    <credits>
+      <director>Jim  O'Doherty</director>
+      <actor>Jason Earles</actor>
+      <actor>Mateo Arias</actor>
+      <actor>Alex Jonas</actor>
+      <actor>Olivia Holt</actor>
+      <actor>Stephanie Arellano</actor>
+      <actor>Cedric L. Williams</actor>
+      <actor>Savannah Rae Linz</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126210000 -0300" stop="20211126213000 -0300" channel="Disney XD">
+    <title lang="pt">Lab Rats</title>
+    <desc lang="pt">Leo, um garoto de 14 anos de idade, vai parar acidentalmente em um laboratório subterrâneo secreto no porão da casa que compartilha com seu padrasto.</desc>
+    <credits>
+      <director>Chris Peterson</director>
+      <director>Bryan Moore</director>
+      <actor>Billy Unger</actor>
+      <actor>Kelli Berglund</actor>
+      <actor>Spencer Boldman</actor>
+      <actor>Tyrel Jackson Williams</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126213000 -0300" stop="20211126220000 -0300" channel="Disney XD">
+    <title lang="pt">Os Vizinhos Green</title>
+    <sub-title lang="pt">Big City Greens</sub-title>
+    <desc lang="pt">A série conta a vida aventureira de um menino do campo que se muda com sua família da fazenda para uma metrópole moderna.</desc>
+    <credits>
+      <actor>Vozes de  Chris Houghton</actor>
+      <actor>Artemis Pebdani</actor>
+      <actor>Marieve Herington</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Infantil)</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126220000 -0300" stop="20211126221500 -0300" channel="Disney XD">
+    <title lang="pt">Galáxia Wander</title>
+    <sub-title lang="pt">Wander over Yonder</sub-title>
+    <desc lang="pt">A comédia de animação conta as aventuras de Wander, um otimista viajante intergaláctico que vive fazendo o bem, e da sua melhor amiga e montaria Sylvia, que apesar de esquentadinha, é muito leal.</desc>
+    <credits>
+      <director>Craig  McCracken</director>
+      <actor>Vozes de Jack McBrayer</actor>
+      <actor>April Winchell</actor>
+      <actor>Keith Ferguson</actor>
+      <actor>Tom Kenny</actor>
+      <actor>Fred Tatasciore</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E20</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126221500 -0300" stop="20211126223000 -0300" channel="Disney XD">
+    <title lang="pt">Kick Buttowski - Um Projeto de Dublê</title>
+    <desc lang="pt">Kick Buttowski é um garoto sensacional que vive na cidade mais comum do mundo na série de animação em 2-D original do Disney XD, Kick Buttowski - Um Projeto de Dublê, repleta de ousadas sequências de ação e manobras.</desc>
+    <credits>
+      <director>Chris Savino</director>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Infantil (Animação)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126223000 -0300" stop="20211126230000 -0300" channel="Disney XD">
+    <title lang="pt">Trollhunters: Tales of Arcadia</title>
+    <desc lang="pt">Depois de descobrir um amuleto misterioso, um adolescente encontra uma civilização secreta de poderosos trolls sob a pequena cidade de Arcadia.</desc>
+    <credits>
+      <director>Rodrigo Blaas</director>
+      <director>Andrew L. Schmidt</director>
+      <director>Simon Otto</director>
+      <actor>Vozes de Charlie Saxton</actor>
+      <actor>Lexi Medrano</actor>
+      <actor>Anton Yelchin</actor>
+      <actor>Kelsey Grammer</actor>
+      <actor>Mitch Carter</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E40</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126230000 -0300" stop="20211126231500 -0300" channel="Disney XD">
+    <title lang="pt">Adolepeixes</title>
+    <desc lang="pt">Adolepeixes é uma comédia animada que apresenta as histórias de três amigos aquáticos que vivem em um aquário.</desc>
+    <credits>
+      <director>Noah Jones</director>
+      <actor>Vozes de  Chelsea Kane</actor>
+      <actor>John Caparulo</actor>
+      <actor>John DiMaggio</actor>
+      <actor>Rachel Dratch</actor>
+      <actor>Alex Hirsch</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Infantil (Animação)</category>
+    <episode-num system="onscreen">S2 E40</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126231500 -0300" stop="20211126233000 -0300" channel="Disney XD">
+    <title lang="pt">Minhoca do Futuro</title>
+    <sub-title lang="pt">Future-Worm!</sub-title>
+    <desc lang="pt">A série apresenta as aventuras de Danny e Minhoca do Futuro, que viajam no tempo usando uma máquina do tempo em forma de lancheira.</desc>
+    <credits>
+      <director>Pete Michels</director>
+      <actor>James Adomian</actor>
+      <actor>Andy Milonakis</actor>
+      <actor>Ryan Quincy</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E20</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126233000 -0300" stop="20211126234500 -0300" channel="Disney XD">
+    <title lang="pt">Picles e Amendoim</title>
+    <sub-title lang="pt">Pickle &amp; Peanut</sub-title>
+    <desc lang="pt">A animação mostra as aventuras dos melhores amigos Picles e Amendoim em seu último ano de escola, onde estão aproveitando ao máximo a possibilidade de se divertir o tempo todo antes das responsabilidades da vida adulta.</desc>
+    <credits>
+      <actor>Vozes de Johnny Pemberton</actor>
+      <actor>Jon Heder</actor>
+      <actor>Bennie Arthur</actor>
+      <actor>Michael Croner</actor>
+      <actor>Matt Chapman</actor>
+      <actor>Joel Trussell</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Animação)</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125000000 -0300" stop="20211125030000 -0300" channel="E!">
+    <title lang="pt">Joias VIP</title>
+    <desc lang="pt">Comercialização de jóias e itens de decoração.</desc>
+    <credits>
+      <actor>Liege Salazar</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades (Televendas)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125030000 -0300" stop="20211125035000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+    <desc lang="pt">Rob tem dificuldade de encontrar uma forma civilizada de lidar com Chyna pelo bem da filha deles; Khloe faz uns testes engraçados com a Kourtney para tentar ajudá-la com as suas indecisões; e Kim e Kylie voam para Nova York para o desfile - 'Yeezy' - super esperado do Kanye.</desc>
+    <credits>
+      <director>Ryan Seacrest</director>
+      <actor>Blac Chyna</actor>
+      <actor>Scott Disick</actor>
+      <actor>Caitlyn Jenner</actor>
+      <actor>Rob Kardashian</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125035000 -0300" stop="20211125044000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+    <desc lang="pt">Kim está dividida em manter um relacionamento com Cait e decide confirmar primeiro se as razões de sua mãe em cortar os laços com ela são válidos. Enquanto isso, Kendall apresenta para suas irmãs o primeiro gay nobre cuja história de vida é bem parecida com a da família delas; e Rob implementa seu próprio "estou naqueles dias do mês".</desc>
+    <credits>
+      <director>Ryan Seacrest</director>
+      <actor>Blac Chyna</actor>
+      <actor>Scott Disick</actor>
+      <actor>Caitlyn Jenner</actor>
+      <actor>Rob Kardashian</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S13 E12</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125044000 -0300" stop="20211125053000 -0300" channel="E!">
+    <title lang="pt">Total Bellas</title>
+    <desc lang="pt">A decisão de Brie e Nicole de visitar o pai em Mexicali obriga a mãe, Kathy, a aceitar uma das partes mais sombrias do passado de sua família. Nicole e Brie levam Artem em um tour pela sua cidade natal, Brawley. As Bellas encontram seus irmãos em Mexicali pela primeira vez.</desc>
+    <credits>
+      <actor>Nicole Garcia</actor>
+      <actor>Brianna Garcia</actor>
+      <actor>John Cena</actor>
+      <actor>Bryan Danielson</actor>
+      <actor>Brie Bella</actor>
+      <actor>Nikki Bella</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S13 E13</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125053000 -0300" stop="20211125060000 -0300" channel="E!">
+    <title lang="pt">10 Coisas Que Você Não Sabe</title>
+    <desc lang="pt">As coisas mais inacreditáveis e surpreendentes sobre Reese Witherspoon, de todos os segredos por trás do "Legalmente Loira" até o que realmente aconteceu no set de "Friends". ".</desc>
+    <credits>
+      <director>PJ Morrison</director>
+      <actor>Dulce Sloan</actor>
+    </credits>
+    <category lang="pt">Séries (Diversos)</category>
+    <episode-num system="onscreen">S5 E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125060000 -0300" stop="20211125065000 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+    <desc lang="pt">As divas do WEE Brie e Nikki Bella se reconectam com um grande amor perdido que foi tragicamente morto no colegial. Dr Nassif - estrela do programa Botched - e a irmã se emocionam quando Tyler traz uma mensagem sincera de sua falecida mãe. Metta World Peace fica comovido com uma antiga tragédia de família quando Tyler se conecta com o seu passado. Tyler permite que Tori Spelling se reconecte com uma pessoa muito importante da sua vida.".</desc>
+    <credits>
+      <director>Sarah Skibitzke</director>
+      <actor>Henry Tyler</actor>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125065000 -0300" stop="20211125074000 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+    <desc lang="pt">Através de Tyler, a atriz Eva Longoria recebe uma conexão emocionante de um membro da família falecido há muito tempo que a deixa tremendo, mas confortada. O músico Bobby Brown cai no choro quando Tyler se conecta com Bobbi Kristina Brown, a querida filha falecida do Bobby. Tyler choca a inabalável Jwoww revelando segredos do outro lado que só ela poderia saber.".</desc>
+    <credits>
+      <director>Sarah Skibitzke</director>
+      <actor>Henry Tyler</actor>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125074000 -0300" stop="20211125083000 -0300" channel="E!">
+    <title lang="pt">Total Bellas</title>
+    <desc lang="pt">Nicole briga com JJ depois que ele a acusa de favorecer Birdie em detrimento de suas outras sobrinhas. Um assalto recente coloca Brie em alerta máximo. Kathy cria problemas no deserto quando planeja uma foto da família que não inclui Artem.</desc>
+    <credits>
+      <actor>Nicole Garcia</actor>
+      <actor>Brianna Garcia</actor>
+      <actor>John Cena</actor>
+      <actor>Bryan Danielson</actor>
+      <actor>Brie Bella</actor>
+      <actor>Nikki Bella</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125083000 -0300" stop="20211125092000 -0300" channel="E!">
+    <title lang="pt">Total Bellas</title>
+    <desc lang="pt">Com o "Smackdown" da WWE mudando para a TV aberta, Nicole avalia suas opções em querer voltar aos ringues. O foco de Brie em sua carreira leva à uma preocupante discussão com Bryan. Artem não fica nem um pouco feliz quando Nicole começa a planejar o futuro dele.</desc>
+    <credits>
+      <actor>Nicole Garcia</actor>
+      <actor>Brianna Garcia</actor>
+      <actor>John Cena</actor>
+      <actor>Bryan Danielson</actor>
+      <actor>Brie Bella</actor>
+      <actor>Nikki Bella</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S5 E4</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125092000 -0300" stop="20211125101000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+    <desc lang="pt">Rob tem dificuldade de encontrar uma forma civilizada de lidar com Chyna pelo bem da filha deles; Khloe faz uns testes engraçados com a Kourtney para tentar ajudá-la com as suas indecisões; e Kim e Kylie voam para Nova York para o desfile - 'Yeezy' - super esperado do Kanye.</desc>
+    <credits>
+      <director>Ryan Seacrest</director>
+      <actor>Blac Chyna</actor>
+      <actor>Scott Disick</actor>
+      <actor>Caitlyn Jenner</actor>
+      <actor>Rob Kardashian</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S5 E5</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125101000 -0300" stop="20211125110000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+    <desc lang="pt">Kim está dividida em manter um relacionamento com Cait e decide confirmar primeiro se as razões de sua mãe em cortar os laços com ela são válidos. Enquanto isso, Kendall apresenta para suas irmãs o primeiro gay nobre cuja história de vida é bem parecida com a da família delas; e Rob implementa seu próprio "estou naqueles dias do mês".</desc>
+    <credits>
+      <director>Ryan Seacrest</director>
+      <actor>Blac Chyna</actor>
+      <actor>Scott Disick</actor>
+      <actor>Caitlyn Jenner</actor>
+      <actor>Rob Kardashian</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S13 E12</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125110000 -0300" stop="20211125115500 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+    <desc lang="pt">Os médicos ajudam uma mulher cujo nariz foi estragado pela "Casa dos Horrores". Tanya espera remover uma cicatriz que a faz lembrar de sua irmã gêmea não nascida. A infame Sarah Burge visita os médicos em busca da juventude eterna.".</desc>
+    <credits>
+      <director>Michelle Brando</director>
+      <actor>Paul Nassif</actor>
+      <actor>Terry J. Dubrow</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S13 E13</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125115500 -0300" stop="20211125125000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+    <desc lang="pt">Dr. Dubrow tenta separar dois seios unidos. Dr. Nassif luta para corrigir o nariz de um ex-boxeador. Os médicos dão uma notícia inesperada à atriz/modelo Shauna Sand.".</desc>
+    <credits>
+      <director>Michelle Brando</director>
+      <actor>Paul Nassif</actor>
+      <actor>Terry J. Dubrow</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125125000 -0300" stop="20211125134500 -0300" channel="E!">
+    <title lang="pt">Total Bellas</title>
+    <desc lang="pt">Nicole briga com JJ depois que ele a acusa de favorecer Birdie em detrimento de suas outras sobrinhas. Um assalto recente coloca Brie em alerta máximo. Kathy cria problemas no deserto quando planeja uma foto da família que não inclui Artem.</desc>
+    <credits>
+      <actor>Nicole Garcia</actor>
+      <actor>Brianna Garcia</actor>
+      <actor>John Cena</actor>
+      <actor>Bryan Danielson</actor>
+      <actor>Brie Bella</actor>
+      <actor>Nikki Bella</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125134500 -0300" stop="20211125144000 -0300" channel="E!">
+    <title lang="pt">Total Bellas</title>
+    <desc lang="pt">Com o "Smackdown" da WWE mudando para a TV aberta, Nicole avalia suas opções em querer voltar aos ringues. O foco de Brie em sua carreira leva à uma preocupante discussão com Bryan. Artem não fica nem um pouco feliz quando Nicole começa a planejar o futuro dele.</desc>
+    <credits>
+      <actor>Nicole Garcia</actor>
+      <actor>Brianna Garcia</actor>
+      <actor>John Cena</actor>
+      <actor>Bryan Danielson</actor>
+      <actor>Brie Bella</actor>
+      <actor>Nikki Bella</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S5 E4</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125144000 -0300" stop="20211125151000 -0300" channel="E!">
+    <title lang="pt">Dating #noFilter</title>
+    <desc lang="pt">O nerd de Harry Potter, Zach, leva Bebe, o bad boy do Bronx, para uma aula de decoração de bolos, onde as coisas ficam pegajosas, doces e um pouco picantes. A entusiasta de yoga Lindsay convida Na'eem para uma aula de yoga aérea, onde este super-homem tatuado irá voar. Participam como comediantes convidados: Amber Wagner e Tracy Sewell.</desc>
+    <credits>
+      <director>Erika Walder</director>
+      <actor>Nina Parker</actor>
+      <actor>Cara Connors</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S5 E5</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125151000 -0300" stop="20211125153500 -0300" channel="E!">
+    <title lang="pt">Dating #noFilter</title>
+    <desc lang="pt">O treinador de namoros J'Lamar encontra o desempregado Parker em um spa para tratamentos faciais, e verifica se é verdade que Parker tem o "melhor traseiro dos Estados Unidos". A dançarina profissional Everdina conhece o personal trainer Awaab, para ler a sua sorte, mas o amor deles estará nas folhas de chá?</desc>
+    <credits>
+      <director>Erika Walder</director>
+      <actor>Nina Parker</actor>
+      <actor>Cara Connors</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S2 E17</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125153500 -0300" stop="20211125160500 -0300" channel="E!">
+    <title lang="pt">Dating #noFilter</title>
+    <desc lang="pt">O agente de talentos John e a modelo Alyssa escalam obstáculos em um percurso de parkour, mas escalar o caminho para um jantar é mais desafiador. Christian leva Nakia a uma destilaria, onde experimentam drinks artesanais e a famosa "caminhada na lua" pela primeira vez.</desc>
+    <credits>
+      <director>Erika Walder</director>
+      <actor>Nina Parker</actor>
+      <actor>Cara Connors</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S2 E18</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125160500 -0300" stop="20211125163000 -0300" channel="E!">
+    <title lang="pt">Dating #noFilter</title>
+    <desc lang="pt">Chris e David se enfrentam no ringue em uma luta tradicional mexicana de Lucha Libre, mas David não consegue superar a falta de vontade de Chris em compartilhar sua comida no jantar. O ex-membro da banda de garotos alemã, Benjamin, está desesperado para compartilhar seu amor pelo café com Liza, isso se eles puderem evitar um casal que confecciona velas em Topanga Canyon.</desc>
+    <credits>
+      <director>Erika Walder</director>
+      <actor>Nina Parker</actor>
+      <actor>Cara Connors</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S2 E19</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125163000 -0300" stop="20211125172500 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+    <desc lang="pt">Rob tem dificuldade de encontrar uma forma civilizada de lidar com Chyna pelo bem da filha deles; Khloe faz uns testes engraçados com a Kourtney para tentar ajudá-la com as suas indecisões; e Kim e Kylie voam para Nova York para o desfile - 'Yeezy' - super esperado do Kanye.</desc>
+    <credits>
+      <director>Ryan Seacrest</director>
+      <actor>Blac Chyna</actor>
+      <actor>Scott Disick</actor>
+      <actor>Caitlyn Jenner</actor>
+      <actor>Rob Kardashian</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S2 E20</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125172500 -0300" stop="20211125181500 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+    <desc lang="pt">Kim está dividida em manter um relacionamento com Cait e decide confirmar primeiro se as razões de sua mãe em cortar os laços com ela são válidos. Enquanto isso, Kendall apresenta para suas irmãs o primeiro gay nobre cuja história de vida é bem parecida com a da família delas; e Rob implementa seu próprio "estou naqueles dias do mês".</desc>
+    <credits>
+      <director>Ryan Seacrest</director>
+      <actor>Blac Chyna</actor>
+      <actor>Scott Disick</actor>
+      <actor>Caitlyn Jenner</actor>
+      <actor>Rob Kardashian</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S13 E12</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125181500 -0300" stop="20211125181700 -0300" channel="E!">
+    <title lang="pt">Pop!</title>
+    <desc lang="pt">Em dois minutos, Ju Malaguti lança uma lupa sobre a cultura Pop! e propõe novos pensamentos desafiando o senso comum. Ju recebe convidados da cena e, juntos, debatem os temas mais efervescentes do Pop!".</desc>
+    <credits>
+      <director>Alexandre Marinho</director>
+      <actor>Juliana Malagutti</actor>
+    </credits>
+    <category lang="pt">Variedades (Entrevista)</category>
+    <episode-num system="onscreen">S13 E13</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211125181700 -0300" stop="20211125191200 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+    <desc lang="pt">Khloe considera a possibilidade de se tornar a barriga de aluguel de Kim, mas recebe notícias devastadoras sobre sua própria fertilidade durante o processo. Enquanto isso, as irmãs pressionam Kourtney para dar uma incrementada em suas paqueras; e Rob ameaça não aparecer em seu aniversário de 30 anos.</desc>
+    <credits>
+      <director>Ryan Seacrest</director>
+      <actor>Blac Chyna</actor>
+      <actor>Scott Disick</actor>
+      <actor>Caitlyn Jenner</actor>
+      <actor>Rob Kardashian</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S1 E114</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125191200 -0300" stop="20211125191500 -0300" channel="E!">
+    <title lang="pt">Pop!</title>
+    <desc lang="pt">Em dois minutos, Ju Malaguti lança uma lupa sobre a cultura Pop! e propõe novos pensamentos desafiando o senso comum. Ju recebe convidados da cena e, juntos, debatem os temas mais efervescentes do Pop!".</desc>
+    <credits>
+      <director>Alexandre Marinho</director>
+      <actor>Juliana Malagutti</actor>
+    </credits>
+    <category lang="pt">Variedades (Entrevista)</category>
+    <episode-num system="onscreen">S13 E14</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211125191500 -0300" stop="20211125201000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+    <desc lang="pt">Ao completar 10 anos de Keep Up With The Kardashians, Ryan Seacrest se senta com a famosa família para uma celebração íntima.</desc>
+    <credits>
+      <actor>Jonathan Cheban</actor>
+      <actor>Scott Disick</actor>
+      <actor>Corey Gamble</actor>
+      <actor>Kim Kardashian West</actor>
+      <actor>Kourtney Kardashian</actor>
+      <actor>Khloé Kardashian</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S1 E115</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125201000 -0300" stop="20211125210500 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+    <desc lang="pt">O Ken Humano Justin Jedlica volta para pedir ao Dr. Dubrow um peitoral de halterofilista. Uma ex-Miss Índia espera que o Dr. Nassif consiga aperfeiçoar seu nariz de porco, e os médicos têm uma conversa franca com uma mulher obcecada por modificação corporal.".</desc>
+    <credits>
+      <director>Michelle Brando</director>
+      <actor>Paul Nassif</actor>
+      <actor>Terry J. Dubrow</actor>
+      <actor>Justin Jedlica</actor>
+      <actor>Sanna Khan</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S14 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125210500 -0300" stop="20211125220000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+    <desc lang="pt">Dr. Dubrow assume o caso dos maiores seios de sua carreia, Dr. Nassif lida com o nariz estragado de um soldado, e os médicos conhecem um homem cujo objetivo de vida é se parecer com um super-herói.".</desc>
+    <credits>
+      <director>Michelle Brando</director>
+      <actor>Paul Nassif</actor>
+      <actor>Terry J. Dubrow</actor>
+      <actor>Deena Duos</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125220000 -0300" stop="20211125225000 -0300" channel="E!">
+    <title lang="pt">Revenge Body With Khloe Kardashian</title>
+    <desc lang="pt">Rocco é um apaixonado, não um lutador, mas pela primeira vez em sua vida ele está pronto para entrar no ringue e lutar por amor ao seu pai. Com a ajuda de Khloé e o treinador Luke Milton, Rocco espera ser um exemplo e transformar a saúde do seu pai. Depois de ter seu coração partido por um ex-namorado, a comida virou o conforto de Jennifer. Com a orientação de Khloé e a ajuda da treinadora de celebridades, Ashley Borden, Jennifer deseja se tornar uma modelo de biquíni. Mas será que Jennifer vai se esforçar o suficiente para tornar seus sonho realidade? ".</desc>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125225000 -0300" stop="20211125233500 -0300" channel="E!">
+    <title lang="pt">Revenge Body With Khloe Kardashian</title>
+    <desc lang="pt">Com a esperança de mudar a perigosa trajetória da família ligada à diabetes e doenças cardíacas, Nicole, de 23 anos, embarca em uma jornada que vai mudar a sua vida. Será que a super treinadora, Latreal Mitchell, será capaz de lidar com a infinita lista de desculpas de Nicole ou será que ela terá que riscar fora outro nome da sua lista de clientes? Não amado e rejeitado por sua mãe, Alexis passou sua infância inteira se sentindo inútil. Mas agora, com a ajuda de Khloé, da treinadora Nicole Winhoffer e de uma equipe de estilistas de moda, ele espera libertar a estrela que existe dentro dele e mostrar pra sua mãe que ele pode alcançar seus sonhos apesar dos danos que ela cometeu. ".</desc>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125233500 -0300" stop="20211126000000 -0300" channel="E!">
+    <title lang="pt">10 Coisas Que Você Não Sabe</title>
+    <desc lang="pt">As coisas mais inacreditáveis e surpreendentes sobre Kevin Hart, desde a primeira vez que fez um standup até uma carreira maluca muito diferente que ele quase teve. ".</desc>
+    <credits>
+      <director>PJ Morrison</director>
+      <actor>Dulce Sloan</actor>
+    </credits>
+    <category lang="pt">Séries (Diversos)</category>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126000000 -0300" stop="20211126030000 -0300" channel="E!">
+    <title lang="pt">Joias VIP</title>
+    <desc lang="pt">Comercialização de jóias e itens de decoração.</desc>
+    <credits>
+      <actor>Liege Salazar</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades (Televendas)</category>
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126030000 -0300" stop="20211126035000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+    <desc lang="pt">Khloe considera a possibilidade de se tornar a barriga de aluguel de Kim, mas recebe notícias devastadoras sobre sua própria fertilidade durante o processo. Enquanto isso, as irmãs pressionam Kourtney para dar uma incrementada em suas paqueras; e Rob ameaça não aparecer em seu aniversário de 30 anos.</desc>
+    <credits>
+      <director>Ryan Seacrest</director>
+      <actor>Blac Chyna</actor>
+      <actor>Scott Disick</actor>
+      <actor>Caitlyn Jenner</actor>
+      <actor>Rob Kardashian</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126035000 -0300" stop="20211126044000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+    <desc lang="pt">Ao completar 10 anos de Keep Up With The Kardashians, Ryan Seacrest se senta com a famosa família para uma celebração íntima.</desc>
+    <credits>
+      <actor>Jonathan Cheban</actor>
+      <actor>Scott Disick</actor>
+      <actor>Corey Gamble</actor>
+      <actor>Kim Kardashian West</actor>
+      <actor>Kourtney Kardashian</actor>
+      <actor>Khloé Kardashian</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S13 E14</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126044000 -0300" stop="20211126053000 -0300" channel="E!">
+    <title lang="pt">Total Bellas</title>
+    <desc lang="pt">Nicole briga com JJ depois que ele a acusa de favorecer Birdie em detrimento de suas outras sobrinhas. Um assalto recente coloca Brie em alerta máximo. Kathy cria problemas no deserto quando planeja uma foto da família que não inclui Artem.</desc>
+    <credits>
+      <actor>Nicole Garcia</actor>
+      <actor>Brianna Garcia</actor>
+      <actor>John Cena</actor>
+      <actor>Bryan Danielson</actor>
+      <actor>Brie Bella</actor>
+      <actor>Nikki Bella</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S14 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126053000 -0300" stop="20211126060000 -0300" channel="E!">
+    <title lang="pt">10 Coisas Que Você Não Sabe</title>
+    <desc lang="pt">As coisas mais inacreditáveis e surpreendentes sobre Kevin Hart, desde a primeira vez que fez um standup até uma carreira maluca muito diferente que ele quase teve. ".</desc>
+    <credits>
+      <director>PJ Morrison</director>
+      <actor>Dulce Sloan</actor>
+    </credits>
+    <category lang="pt">Séries (Diversos)</category>
+    <episode-num system="onscreen">S5 E4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126060000 -0300" stop="20211126065000 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+    <desc lang="pt">Através de Tyler, a atriz Eva Longoria recebe uma conexão emocionante de um membro da família falecido há muito tempo que a deixa tremendo, mas confortada. O músico Bobby Brown cai no choro quando Tyler se conecta com Bobbi Kristina Brown, a querida filha falecida do Bobby. Tyler choca a inabalável Jwoww revelando segredos do outro lado que só ela poderia saber.".</desc>
+    <credits>
+      <director>Sarah Skibitzke</director>
+      <actor>Henry Tyler</actor>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126065000 -0300" stop="20211126074000 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+    <desc lang="pt">Mel B tem uma leitura que a leva às lágrimas conforme Tyler se conecta com um querido patriarca que a ajudou a se tornar a Scary Spice. A estrela de Shah's of Sunset, Reza Farahan, fica sem palavras quando Tyler se conecta com seus dois falecidos avôs. A cantora country Jana Kramer fica chocada quando Tyler traz uma mensagem do além da sua melhor amiga. E o grupo de hip hop TLC é reunido depois de um trágico acidente conforme Tyler reconecta T-Boz com Lisa "Left Eye" Lopez.".</desc>
+    <credits>
+      <director>Sarah Skibitzke</director>
+      <actor>Henry Tyler</actor>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126074000 -0300" stop="20211126083000 -0300" channel="E!">
+    <title lang="pt">Total Bellas</title>
+    <desc lang="pt">Com o "Smackdown" da WWE mudando para a TV aberta, Nicole avalia suas opções em querer voltar aos ringues. O foco de Brie em sua carreira leva à uma preocupante discussão com Bryan. Artem não fica nem um pouco feliz quando Nicole começa a planejar o futuro dele.</desc>
+    <credits>
+      <actor>Nicole Garcia</actor>
+      <actor>Brianna Garcia</actor>
+      <actor>John Cena</actor>
+      <actor>Bryan Danielson</actor>
+      <actor>Brie Bella</actor>
+      <actor>Nikki Bella</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126083000 -0300" stop="20211126092000 -0300" channel="E!">
+    <title lang="pt">Total Bellas</title>
+    <desc lang="pt">Um encontro desastroso ameaça destruir o relacionamento de Nicole e Artem. Brie luta para ajudar JJ a se reconectar com suas raízes mexicanas. ".</desc>
+    <credits>
+      <director>Jay Russell</director>
+      <actor>Nicole Garcia</actor>
+      <actor>Brianna Garcia</actor>
+      <actor>John Cena</actor>
+      <actor>Bryan Danielson</actor>
+      <actor>Brie Bella</actor>
+      <actor>Nikki Bella</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S5 E5</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126092000 -0300" stop="20211126101000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+    <desc lang="pt">Khloe considera a possibilidade de se tornar a barriga de aluguel de Kim, mas recebe notícias devastadoras sobre sua própria fertilidade durante o processo. Enquanto isso, as irmãs pressionam Kourtney para dar uma incrementada em suas paqueras; e Rob ameaça não aparecer em seu aniversário de 30 anos.</desc>
+    <credits>
+      <director>Ryan Seacrest</director>
+      <actor>Blac Chyna</actor>
+      <actor>Scott Disick</actor>
+      <actor>Caitlyn Jenner</actor>
+      <actor>Rob Kardashian</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S5 E6</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126101000 -0300" stop="20211126110000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+    <desc lang="pt">Ao completar 10 anos de Keep Up With The Kardashians, Ryan Seacrest se senta com a famosa família para uma celebração íntima.</desc>
+    <credits>
+      <actor>Jonathan Cheban</actor>
+      <actor>Scott Disick</actor>
+      <actor>Corey Gamble</actor>
+      <actor>Kim Kardashian West</actor>
+      <actor>Kourtney Kardashian</actor>
+      <actor>Khloé Kardashian</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S13 E14</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126110000 -0300" stop="20211126115500 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+    <desc lang="pt">O Ken Humano Justin Jedlica volta para pedir ao Dr. Dubrow um peitoral de halterofilista. Uma ex-Miss Índia espera que o Dr. Nassif consiga aperfeiçoar seu nariz de porco, e os médicos têm uma conversa franca com uma mulher obcecada por modificação corporal.".</desc>
+    <credits>
+      <director>Michelle Brando</director>
+      <actor>Paul Nassif</actor>
+      <actor>Terry J. Dubrow</actor>
+      <actor>Justin Jedlica</actor>
+      <actor>Sanna Khan</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S14 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126115500 -0300" stop="20211126125000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+    <desc lang="pt">Dr. Dubrow assume o caso dos maiores seios de sua carreia, Dr. Nassif lida com o nariz estragado de um soldado, e os médicos conhecem um homem cujo objetivo de vida é se parecer com um super-herói.".</desc>
+    <credits>
+      <director>Michelle Brando</director>
+      <actor>Paul Nassif</actor>
+      <actor>Terry J. Dubrow</actor>
+      <actor>Deena Duos</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126125000 -0300" stop="20211126134500 -0300" channel="E!">
+    <title lang="pt">Total Bellas</title>
+    <desc lang="pt">Com o "Smackdown" da WWE mudando para a TV aberta, Nicole avalia suas opções em querer voltar aos ringues. O foco de Brie em sua carreira leva à uma preocupante discussão com Bryan. Artem não fica nem um pouco feliz quando Nicole começa a planejar o futuro dele.</desc>
+    <credits>
+      <actor>Nicole Garcia</actor>
+      <actor>Brianna Garcia</actor>
+      <actor>John Cena</actor>
+      <actor>Bryan Danielson</actor>
+      <actor>Brie Bella</actor>
+      <actor>Nikki Bella</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126134500 -0300" stop="20211126144000 -0300" channel="E!">
+    <title lang="pt">Total Bellas</title>
+    <desc lang="pt">Um encontro desastroso ameaça destruir o relacionamento de Nicole e Artem. Brie luta para ajudar JJ a se reconectar com suas raízes mexicanas. ".</desc>
+    <credits>
+      <director>Jay Russell</director>
+      <actor>Nicole Garcia</actor>
+      <actor>Brianna Garcia</actor>
+      <actor>John Cena</actor>
+      <actor>Bryan Danielson</actor>
+      <actor>Brie Bella</actor>
+      <actor>Nikki Bella</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S5 E5</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126144000 -0300" stop="20211126151000 -0300" channel="E!">
+    <title lang="pt">Dating #noFilter</title>
+    <desc lang="pt">O agente de talentos John e a modelo Alyssa escalam obstáculos em um percurso de parkour, mas escalar o caminho para um jantar é mais desafiador. Christian leva Nakia a uma destilaria, onde experimentam drinks artesanais e a famosa "caminhada na lua" pela primeira vez.</desc>
+    <credits>
+      <director>Erika Walder</director>
+      <actor>Nina Parker</actor>
+      <actor>Cara Connors</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S5 E6</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126151000 -0300" stop="20211126153500 -0300" channel="E!">
+    <title lang="pt">Dating #noFilter</title>
+    <desc lang="pt">Chris e David se enfrentam no ringue em uma luta tradicional mexicana de Lucha Libre, mas David não consegue superar a falta de vontade de Chris em compartilhar sua comida no jantar. O ex-membro da banda de garotos alemã, Benjamin, está desesperado para compartilhar seu amor pelo café com Liza, isso se eles puderem evitar um casal que confecciona velas em Topanga Canyon.</desc>
+    <credits>
+      <director>Erika Walder</director>
+      <actor>Nina Parker</actor>
+      <actor>Cara Connors</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S2 E19</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126153500 -0300" stop="20211126160500 -0300" channel="E!">
+    <title lang="pt">Dating #noFilter</title>
+    <desc lang="pt">Depois de sobreviver a uma desastrosa primeira temporada cheia de marionetes, Courtney tenta se apaixonar novamente por Mitchell, mas será que a história se repetirá? O personal trainer de break dance, Charles, está disposto a se despir para uma sessão seminua de pintura corporal com Suheli, desde que seu "pacote" não atrapalhe.</desc>
+    <credits>
+      <director>Erika Walder</director>
+      <actor>Nina Parker</actor>
+      <actor>Cara Connors</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S2 E20</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126160500 -0300" stop="20211126163000 -0300" channel="E!">
+    <title lang="pt">Dating #noFilter</title>
+    <desc lang="pt">Katrina e Alice pulam na piscina para um treinamento sensual de como ser uma sereia e, de volta à terra, elas irão nadar em bebidas. O segurança Nate está de mãos dadas com a artista Tiera em uma aula de escultura em gelo, onde ela finalmente se aquece com seus encantos.</desc>
+    <credits>
+      <director>Erika Walder</director>
+      <actor>Nina Parker</actor>
+      <actor>Cara Connors</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S2 E21</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126163000 -0300" stop="20211126172500 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+    <desc lang="pt">Khloe considera a possibilidade de se tornar a barriga de aluguel de Kim, mas recebe notícias devastadoras sobre sua própria fertilidade durante o processo. Enquanto isso, as irmãs pressionam Kourtney para dar uma incrementada em suas paqueras; e Rob ameaça não aparecer em seu aniversário de 30 anos.</desc>
+    <credits>
+      <director>Ryan Seacrest</director>
+      <actor>Blac Chyna</actor>
+      <actor>Scott Disick</actor>
+      <actor>Caitlyn Jenner</actor>
+      <actor>Rob Kardashian</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S2 E22</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126172500 -0300" stop="20211126181500 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+    <desc lang="pt">Ao completar 10 anos de Keep Up With The Kardashians, Ryan Seacrest se senta com a famosa família para uma celebração íntima.</desc>
+    <credits>
+      <actor>Jonathan Cheban</actor>
+      <actor>Scott Disick</actor>
+      <actor>Corey Gamble</actor>
+      <actor>Kim Kardashian West</actor>
+      <actor>Kourtney Kardashian</actor>
+      <actor>Khloé Kardashian</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S13 E14</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126181500 -0300" stop="20211126181700 -0300" channel="E!">
+    <title lang="pt">Pop!</title>
+    <desc lang="pt">Em dois minutos, Ju Malaguti lança uma lupa sobre a cultura Pop! e propõe novos pensamentos desafiando o senso comum. Ju recebe convidados da cena e, juntos, debatem os temas mais efervescentes do Pop!".</desc>
+    <credits>
+      <director>Alexandre Marinho</director>
+      <actor>Juliana Malagutti</actor>
+    </credits>
+    <category lang="pt">Variedades (Entrevista)</category>
+    <episode-num system="onscreen">S14 E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126181700 -0300" stop="20211126191200 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+    <desc lang="pt">Kim e Kourtney finalmente têm um vislumbre da vida privada de Khloé em Cleveland.</desc>
+    <credits>
+      <actor>Jonathan Cheban</actor>
+      <actor>Scott Disick</actor>
+      <actor>Corey Gamble</actor>
+      <actor>Kim Kardashian West</actor>
+      <actor>Kourtney Kardashian</actor>
+      <actor>Khloé Kardashian</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S1 E116</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126191200 -0300" stop="20211126191500 -0300" channel="E!">
+    <title lang="pt">Pop!</title>
+    <desc lang="pt">Em dois minutos, Ju Malaguti lança uma lupa sobre a cultura Pop! e propõe novos pensamentos desafiando o senso comum. Ju recebe convidados da cena e, juntos, debatem os temas mais efervescentes do Pop!".</desc>
+    <credits>
+      <director>Alexandre Marinho</director>
+      <actor>Juliana Malagutti</actor>
+    </credits>
+    <category lang="pt">Variedades (Entrevista)</category>
+    <episode-num system="onscreen">S14 E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126191500 -0300" stop="20211126201000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+    <desc lang="pt">Scott fica com ciúmes quando Kourtney faz uma viagem com as meninas ao México para o aniversário dela.</desc>
+    <credits>
+      <actor>Jonathan Cheban</actor>
+      <actor>Scott Disick</actor>
+      <actor>Corey Gamble</actor>
+      <actor>Kim Kardashian West</actor>
+      <actor>Kourtney Kardashian</actor>
+      <actor>Khloé Kardashian</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S1 E115</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126201000 -0300" stop="20211126210500 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+    <desc lang="pt">A ex-atriz Heather enfrentou uma doença de pele causada por bactérias devoradoras de carne que a deixou sem os seios, Dr. Dubrow ajuda uma mulher espiritualizada que tem nádegas na barriga, e Dr. Nassif ajuda um homem cujo médico deixou uma impressão digital em seu nariz.".</desc>
+    <credits>
+      <director>Michelle Brando</director>
+      <actor>Paul Nassif</actor>
+      <actor>Terry J. Dubrow</actor>
+      <actor>Jacob Kosarian</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S14 E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126210500 -0300" stop="20211126230500 -0300" channel="E!">
+    <title lang="pt">Coincidências do Amor</title>
+    <sub-title lang="pt">The Switch</sub-title>
+    <desc lang="pt">Kassie é uma mulher de 40 anos que sempre sonhou em ser mãe, mas como nunca encontrou seu príncipe encantado, decide fazer inseminação artificial. Seu melhor amigo é contra a ideia e acaba, sem querer, trocando o material coletado. Anos depois, a verdade começa a aparecer, causando muita confusão.</desc>
+    <credits>
+      <director>Josh Gordon</director>
+      <director>Will Speck</director>
+      <actor>Jennifer Aniston</actor>
+      <actor>Jason Bateman</actor>
+      <actor>Patrick Wilson</actor>
+      <actor>Rebecca Naomi Jones</actor>
+      <actor>Victor Pagan</actor>
+      <actor>Jeff Goldblum</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Filme (Romance)</category>
+    <episode-num system="onscreen">S2 E11</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
 </tv>
