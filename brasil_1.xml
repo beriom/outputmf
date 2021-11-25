@@ -31076,4 +31076,3095 @@
       <value>10</value>
     </rating>
   </programme>
+  <programme start="20211125000000 -0300" stop="20211125030000 -0300" channel="FishTV">
+    <title lang="pt">TV Shopping Brasil</title>
+    <desc lang="pt">Vendas através de TV por assinatura.</desc>
+    <credits>
+      <director>Marcia Elaine Gerszevski Leite</director>
+    </credits>
+    <category lang="pt">Variedades (Televendas)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125030000 -0300" stop="20211125032000 -0300" channel="FishTV">
+    <title lang="pt">Aqua Negócios</title>
+    <desc lang="pt">Sem pós-larvas de qualidade não existe produção comercial de camarões. Então, após vários episódios sobre sistemas de criação de camarão marinho, chegou a vez de Fábio Sussel apresentar como é a produção das pós-larvas deste crustáceo. Quer conhecer um pouco mais sobre carcinicultura? Este episódio tem informações surpreendentes!</desc>
+    <credits>
+      <director>Lawrence Ikeda</director>
+      <actor>Fábio Sussel</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125032000 -0300" stop="20211125034500 -0300" channel="FishTV">
+    <title lang="pt">Aquarismo</title>
+    <desc lang="pt">André Longarço conversa com o proprietário do Grupo Onda, Alexandre Talarico, para falar sobre a iluminação LED, que conquistou tanto os aquários marinhos quando os aquários de água doce.</desc>
+    <credits>
+      <director>Marcel Eidy Nishiyama</director>
+      <actor>André Longarço</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125034500 -0300" stop="20211125043500 -0300" channel="FishTV">
+    <title lang="pt">Coração de Pescador</title>
+    <desc lang="pt">No litoral baiano, Joel Datena vai pescar em alto mar. Lá, o apresentador vai encontrar muitos peixes brutos. Nesse episódio emocionante, o que não falta é ação e troféu na linha!</desc>
+    <credits>
+      <director>Epitácio Vieira Marques</director>
+      <actor>Joel Datena</actor>
+    </credits>
+    <category lang="pt">Esporte (Pesca)</category>
+    <episode-num system="onscreen">S6 E11</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125043500 -0300" stop="20211125052500 -0300" channel="FishTV">
+    <title lang="pt">Na Pegada do Fly</title>
+    <desc lang="pt">Este episódio de Na Pegada do Fly será diferente. Você irá embarcar em uma incrível retrospectiva, onde Kid vai falar sobre o astro principal do programa, o peixe.</desc>
+    <credits>
+      <director>Maurício Brenner</director>
+      <director>Johnny Hoffmann</director>
+      <actor>Kid Ocelos</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S5 E9</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125052500 -0300" stop="20211125054500 -0300" channel="FishTV">
+    <title lang="pt">Sabores</title>
+    <desc lang="pt">Quem vai para a pescaria está preocupado mesmo é com os peixes que vão parar na linha, não é mesmo? Por isso, Bortola separou receitas muito práticas de preparar e com aquele sabor exclusivo "de chorar". Não perca!</desc>
+    <credits>
+      <director>Guilherme Motta</director>
+      <actor>Chef Bortola</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S10 E10</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125054500 -0300" stop="20211125061000 -0300" channel="FishTV">
+    <title lang="pt">Destinos</title>
+    <desc lang="pt">Destinos segue na Amazônia e é nas águas do Rio Mutuca, palco dos Tucunarés, que Laís Vanessa embarca em mais uma aventura.</desc>
+    <credits>
+      <director>Johnny Hoffmann</director>
+      <director>Mauricio Brenner</director>
+      <actor>Laís Vanessa</actor>
+    </credits>
+    <category lang="pt">Séries (Viagem)</category>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125061000 -0300" stop="20211125063500 -0300" channel="FishTV">
+    <title lang="pt">Biopesca</title>
+    <desc lang="pt">Lawrence Ikeda está no canal de irrigação, em Tubarão, em Santa Catarina, para uma pescaria simples e acessível a todos. Utilizando iscas de hélice, o biopescador captura diversas traíras.</desc>
+    <credits>
+      <director>Maurício Brenner</director>
+      <director>Johnny Hoffmann</director>
+      <actor>Lawrence Ikeda</actor>
+    </credits>
+    <category lang="pt">Esporte (Pesca)</category>
+    <episode-num system="onscreen">S8 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125063500 -0300" stop="20211125070000 -0300" channel="FishTV">
+    <title lang="pt">A Vida nas Bacias Hidrográficas</title>
+    <desc lang="pt">O Rio Paraná é o segundo maior rio Sul-Americano. Formado em Rubinéia, ele recebe as águas de outros dois grandes rios: Rio Grande e Rio Paranaíba.</desc>
+    <credits>
+      <director>Idiaulo Yuri Sanada</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S9 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125070000 -0300" stop="20211125072500 -0300" channel="FishTV">
+    <title lang="pt">Elas na Pesca</title>
+    <desc lang="pt">"O Elas na Pesca está no Pesqueiro Uni Pesca em Uberlândia/MG.Drih vai receber a Rafa, seguidora do seu canal, e a Ju, proprietária do pesqueiro.</desc>
+    <credits>
+      <director>Johnny Hoffmann</director>
+      <director>Maurício Brenner</director>
+      <actor>Drih e Yasmim</actor>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125072500 -0300" stop="20211125074500 -0300" channel="FishTV">
+    <title lang="pt">Planeta Turismo</title>
+    <desc lang="pt">Ruy Façanário segue no Amazonas, mas agora desbravando o Rio Paxiúba. Com a presença de diversos animais silvestres, o apresentador navega pelo local e captura os peixes da região.</desc>
+    <credits>
+      <director>Ruy Façanario</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125074500 -0300" stop="20211125081000 -0300" channel="FishTV">
+    <title lang="pt">A Arte do Atado</title>
+    <desc lang="pt">Com a premissa de que o equilíbrio é a base de tudo em nossas vidas, Betinho Oliveira ensina um atado em forma de libélula, buscando equilibrar os materiais escolhidos para criar uma isca atrativa aos peixes e eficaz no arremesso.</desc>
+    <credits>
+      <director>Johnny Hoffmann</director>
+      <director>Mauricio Brenner</director>
+      <actor>Betinho Oliveira</actor>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125081000 -0300" stop="20211125090000 -0300" channel="FishTV">
+    <title lang="pt">5° Tempo</title>
+    <desc lang="pt">Luciano LP e Kleber Sanches vão fazer a análise técnica da segunda etapa paulista. Você vai conferir em detalhes, mais essa etapa do CBP3, onde os pirarucus marcaram presença.</desc>
+    <credits>
+      <director>Priscila Guimaraes Correa Gomes</director>
+      <actor>Kleber Sanches</actor>
+      <actor>Luciano LP</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <episode-num system="onscreen">S6 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125090000 -0300" stop="20211125100000 -0300" channel="FishTV">
+    <title lang="pt">Fish TV Show</title>
+    <desc lang="pt">Gustavo Sarti bate um papo com o dono do maior canal de pesca do YouTube no Brasil: Baca. Os dois conversam sobre como surgiu a ideia do canal.</desc>
+    <credits>
+      <director>Guilherme Motta</director>
+      <actor>Gustavo Sarti</actor>
+    </credits>
+    <category lang="pt">Variedades (Talk Show)</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125100000 -0300" stop="20211125103000 -0300" channel="FishTV">
+    <title lang="pt">Pesqueiros do Brasil</title>
+    <desc lang="pt">Kleber Sanches está no Pesqueiro do Pozza, em Batatais/SP, em busca dos grandes tambas do lago. Apesar do vento, o apresentador encontrou muita ação de peixe e capturou diversos exemplares.</desc>
+    <credits>
+      <director>Vitor Guilherme Muller de David</director>
+      <director>Guilherme Motta</director>
+      <actor>Kleber Sanches</actor>
+    </credits>
+    <category lang="pt">Esporte (Diversos)</category>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125103000 -0300" stop="20211125113000 -0300" channel="FishTV">
+    <title lang="pt">5° Tempo</title>
+    <desc lang="pt">Luciano LP e Kleber Sanches vão fazer a análise técnica da segunda etapa paulista. Você vai conferir em detalhes, mais essa etapa do CBP3, onde os pirarucus marcaram presença.</desc>
+    <credits>
+      <director>Priscila Guimaraes Correa Gomes</director>
+      <actor>Kleber Sanches</actor>
+      <actor>Luciano LP</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125113000 -0300" stop="20211125120000 -0300" channel="FishTV">
+    <title lang="pt">Sabores</title>
+    <desc lang="pt">Lembrando do consumo de pescados de criatório, Bortola prepara pratos que tem como base os peixes da piscicultura. Separe seus utensílios para aprender a preparar moqueca e iscas de pintado, filé de tilápia a parmegiana e uma maionese de chorar!</desc>
+    <credits>
+      <director>Guilherme Motta</director>
+      <actor>Chef Bortola</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125120000 -0300" stop="20211125130000 -0300" channel="FishTV">
+    <title lang="pt">Na Pegada do Fly</title>
+    <desc lang="pt">Kid Ocelos está em Porto Xavier, no Pesqueiro do Cabrita, em busca do rei do rio. O apresentador é o primeiro pescador de fly a se aventurar pelo local e enfrenta uma pescaria complexa.</desc>
+    <credits>
+      <director>Maurício Brenner</director>
+      <director>Johnny Hoffmann</director>
+      <actor>Kid Ocelos</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125130000 -0300" stop="20211125140000 -0300" channel="FishTV">
+    <title lang="pt">Coração de Pescador</title>
+    <desc lang="pt">Em terras argentinas, Joel Datena explora todo o potencial pesqueiro do rio Paraná. E esse programa está muito variado, começando com uma pescaria de piaparas.</desc>
+    <credits>
+      <director>Epitácio Vieira Marques</director>
+      <actor>Joel Datena</actor>
+    </credits>
+    <category lang="pt">Esporte (Pesca)</category>
+    <episode-num system="onscreen">S10 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125140000 -0300" stop="20211125143000 -0300" channel="FishTV">
+    <title lang="pt">Remos e Rumos</title>
+    <desc lang="pt">Remos e Rumos retorna ao local da primeira gravação do programa, Represa da Serraria, em Juquiá, São Paulo.</desc>
+    <credits>
+      <director>Josué Pires Santiago</director>
+      <actor>Zinho</actor>
+    </credits>
+    <category lang="pt">Esporte (Pesca)</category>
+    <episode-num system="onscreen">S5 E8</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125143000 -0300" stop="20211125150000 -0300" channel="FishTV">
+    <title lang="pt">Destinos</title>
+    <desc lang="pt">Destinos vai até a Pousada Ilha do Jeff, que está localizada na represa de Balbina. O local se integra com a natureza e oferece um ótimo atendimento com gastronomia de alto padrão.</desc>
+    <credits>
+      <director>Johnny Hoffmann</director>
+      <director>Mauricio Brenner</director>
+      <actor>Laís Vanessa</actor>
+    </credits>
+    <category lang="pt">Séries (Viagem)</category>
+    <episode-num system="onscreen">S4 E9</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125150000 -0300" stop="20211125153000 -0300" channel="FishTV">
+    <title lang="pt">Pesca em Ação</title>
+    <desc lang="pt">Léo Barabas segue na Baía de Guanabara, mas agora em busca dos robalos da região. Com o apoio do guia Ricardo Romano, o apresentador captura robalo-peva e xaréu olhudo.</desc>
+    <credits>
+      <director>Marcel Eidy Nishiyama</director>
+      <actor>Léo Barabas</actor>
+    </credits>
+    <category lang="pt">Esporte (Pesca)</category>
+    <episode-num system="onscreen">S8 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125153000 -0300" stop="20211125160000 -0300" channel="FishTV">
+    <title lang="pt">Natureza Urbana</title>
+    <desc lang="pt">O Natureza Urbana está no Parcel de Dom Pedro, localizado no Litoral Sul de São Paulo. Tiago Papan, com os guias Murilo e Andrem, embarcam em uma aventura nas águas salgadas em busca de belas espécies.</desc>
+    <credits>
+      <director>Priscila Guimaraes Correa Gomes</director>
+      <actor>Tiago Papan</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125160000 -0300" stop="20211125170000 -0300" channel="FishTV">
+    <title lang="pt">A Meta</title>
+    <desc lang="pt">A Meta continua em Passo Fundo, no Rio Grande do Sul. Neste episódio, Gaba recebe o Major Laudemar e sua equipe do 3° batalhão da Guarda Ambiental.</desc>
+    <credits>
+      <director>Maurício Brenner</director>
+      <director>Johnny Hoffmann</director>
+      <actor>Gaba</actor>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125170000 -0300" stop="20211125173000 -0300" channel="FishTV">
+    <title lang="pt">Contos</title>
+    <desc lang="pt">Uma sombra adormecida despertou e assim o diretor-adjunto de um banco se consagraria um pescador que quebrou paradigmas. Rubens de Almeida Prado, o Rubinho, nos conta como foi seu contato com a pesca.</desc>
+    <credits>
+      <director>Guilherme Motta</director>
+      <actor>Rubens de Almeida Prado</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S5 E11</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125173000 -0300" stop="20211125180000 -0300" channel="FishTV">
+    <title lang="pt">Pesqueiros do Brasil</title>
+    <desc lang="pt">Kleber Sanches está no Pesqueiro do Pozza, em Batatais/SP, em busca dos grandes tambas do lago. Apesar do vento, o apresentador encontrou muita ação de peixe e capturou diversos exemplares.</desc>
+    <credits>
+      <director>Vitor Guilherme Muller de David</director>
+      <director>Guilherme Motta</director>
+      <actor>Kleber Sanches</actor>
+    </credits>
+    <category lang="pt">Esporte (Diversos)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125180000 -0300" stop="20211125190000 -0300" channel="FishTV">
+    <title lang="pt">Pura Pesca</title>
+    <desc lang="pt">Eduardo Monteiro segue no Pará. Ele e seu guia Adriano, embarcam em uma pescaria recheada de dicas, variedade de peixes e muito mais!</desc>
+    <credits>
+      <director>Carlos Eduardo Zahluth Monteiro</director>
+      <actor>Eduardo Monteiro</actor>
+    </credits>
+    <category lang="pt">Esporte (Pesca)</category>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125190000 -0300" stop="20211125193000 -0300" channel="FishTV">
+    <title lang="pt">Slow Fishing</title>
+    <desc lang="pt">Slow Fishing segue no Hotel Fazenda Cabana do Pescador, em Bonito/MS. Utilizando iscas diversas, Cauê Ogata se arrisca em uma pescaria variada.</desc>
+    <credits>
+      <actor>Cauê Ogata</actor>
+    </credits>
+    <category lang="pt">Esporte (Pesca)</category>
+    <episode-num system="onscreen">S6 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125193000 -0300" stop="20211125200000 -0300" channel="FishTV">
+    <title lang="pt">Desafio Zeeo</title>
+    <desc lang="pt">Nesse episódio, Hugo e Goiano estão no Genipapo Hotel Fazenda, em Bonito/MS, para cumprir o desafio! Pescaria dificil, clima tenso e competidores ansiosos pelo resultado.</desc>
+    <credits>
+      <director>Priscila Guimaraes Correa Gomes</director>
+      <director>Guilherme Motta</director>
+      <actor>Cadu Silva</actor>
+      <actor>Lorena Mourão</actor>
+      <actor>Rafael Mesquita</actor>
+      <actor>Hugo Yamao</actor>
+      <actor>Xandão</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125200000 -0300" stop="20211125203000 -0300" channel="FishTV">
+    <title lang="pt">Biopesca</title>
+    <desc lang="pt">Lawrence Ikeda segue no Litoral de Santa Catarina, em Laguna. Em uma pescaria de muita técnica, o biopescador, vai te mostrar a diversidade de espécies do local.</desc>
+    <credits>
+      <director>Maurício Brenner</director>
+      <director>Johnny Hoffmann</director>
+      <actor>Lawrence Ikeda</actor>
+    </credits>
+    <category lang="pt">Esporte (Pesca)</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125203000 -0300" stop="20211125213000 -0300" channel="FishTV">
+    <title lang="pt">Família Nakamura</title>
+    <desc lang="pt">Nelson, Renan e Vitor estão no Pesqueiro Takamoris Sport Fishing, em São Bernardo do Campo-SP, em busca das traíras e das tilápias do lago.</desc>
+    <credits>
+      <director>Nelson Nakamura</director>
+      <actor>Nelson</actor>
+      <actor>Renan</actor>
+      <actor>Vitor</actor>
+    </credits>
+    <category lang="pt">Esporte (Pesca)</category>
+    <episode-num system="onscreen">S9 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125213000 -0300" stop="20211125220000 -0300" channel="FishTV">
+    <title lang="pt">Elas na Pesca</title>
+    <desc lang="pt">"O Elas na Pesca vai até o Pesqueiro Feltrin, Nova Odessa, São Paulo.Drih recebeu Savia, responsável por uma das maiores páginas de pesca feminina do Instagram, e Sabrina.</desc>
+    <credits>
+      <director>Johnny Hoffmann</director>
+      <director>Maurício Brenner</director>
+      <actor>Drih e Yasmim</actor>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125220000 -0300" stop="20211125223000 -0300" channel="FishTV">
+    <title lang="pt">Resenha CBP</title>
+    <desc lang="pt">Rafinha Minhoca segue no Parque Maeda em Itu/SP, para acompanhar a segunda etapa do Campeonato Paulista em Pesqueiros.</desc>
+    <credits>
+      <director>Priscila Guimaraes Correa Gomes</director>
+      <actor>Rafinha Minhoca</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <episode-num system="onscreen">S5 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125223000 -0300" stop="20211125230000 -0300" channel="FishTV">
+    <title lang="pt">Destinos</title>
+    <desc lang="pt">Destinos inicia mais uma temporada. Laís Vanessa vai apresentar o Rancho Costeiro em Porto Xavier RS, um empreendimento familiar de alto padrão, de frente para o Rio Uruguai e com uma estrutura e gastronomia incrível.</desc>
+    <credits>
+      <director>Johnny Hoffmann</director>
+      <director>Mauricio Brenner</director>
+      <actor>Laís Vanessa</actor>
+    </credits>
+    <category lang="pt">Séries (Viagem)</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125230000 -0300" stop="20211125233000 -0300" channel="FishTV">
+    <title lang="pt">Mergulhando</title>
+    <desc lang="pt">Neste episódio, a equipe vai até Bonito-MS mergulhar na Nascente Azul e na Fazenda Ceita Core.</desc>
+    <credits>
+      <director>Leo Artur Sassen</director>
+      <actor>Leo Sassen</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S8 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125233000 -0300" stop="20211126000000 -0300" channel="FishTV">
+    <title lang="pt">Guaíba</title>
+    <desc lang="pt">Antes das estradas de ferro e das rodovias, era através dos rios que boa parte do transporte de pessoas e mercadorias acontecia no estado do Rio Grande do Sul.</desc>
+    <credits>
+      <director>Pedro Alipio Carneiro Zimmermann</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126000000 -0300" stop="20211126030000 -0300" channel="FishTV">
+    <title lang="pt">TV Shopping Brasil</title>
+    <desc lang="pt">Vendas através de TV por assinatura.</desc>
+    <credits>
+      <director>Marcia Elaine Gerszevski Leite</director>
+    </credits>
+    <category lang="pt">Variedades (Televendas)</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126030000 -0300" stop="20211126032000 -0300" channel="FishTV">
+    <title lang="pt">Desafio Zeeo</title>
+    <desc lang="pt">O Desafio ZEEO segue em Porto Xavier/RS no Pesqueiro do Cabrita. E o clima continua quente entre Goiano e Xandão. Quer saber quem levou a melhor neste desafio e ganhou a aposta feita no episódio anterior? Confira agora!</desc>
+    <credits>
+      <director>Priscila Guimaraes Correa Gomes</director>
+      <director>Guilherme Motta</director>
+      <actor>Cadu Silva</actor>
+      <actor>Lorena Mourão</actor>
+      <actor>Rafael Mesquita</actor>
+      <actor>Hugo Yamao</actor>
+      <actor>Xandão</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126032000 -0300" stop="20211126034500 -0300" channel="FishTV">
+    <title lang="pt">Biopesca</title>
+    <desc lang="pt">Lawrence Ikeda segue na Costa Esmeralda, no litoral norte de Santa Catarina, para uma pescaria variada. Utilizando iscas artificiais, o biopescador captura robalo-peva, corvina, sargo-de-beiço e miraguaia.</desc>
+    <credits>
+      <director>Maurício Brenner</director>
+      <director>Johnny Hoffmann</director>
+      <actor>Lawrence Ikeda</actor>
+    </credits>
+    <category lang="pt">Esporte (Pesca)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126034500 -0300" stop="20211126041000 -0300" channel="FishTV">
+    <title lang="pt">Aqua Negócios</title>
+    <desc lang="pt">As diferentes formas e conceitos de se produzir proteína aquática com eficiência. As diferentes soluções tecnológicas no âmbito da nutrição, saúde e meio ambiente voltadas para a aquicultura. Tudo isso você assiste neste episódio do Aqua Negócios.</desc>
+    <credits>
+      <director>Lawrence Ikeda</director>
+      <actor>Rodrigo Teixeira</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S9 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126041000 -0300" stop="20211126043500 -0300" channel="FishTV">
+    <title lang="pt">Saltwater</title>
+    <desc lang="pt">Pescando em costeira e mar abrigado com iscas naturais e artificiais, o time Saltwater encontra muita ação pelas águas da baixada santista. Nessa pescaria mesclada, uma variedade de exemplares briguentos vão exigir habilidade dos pescadores.</desc>
+    <credits>
+      <director>Marcel Eydi Nichiyama</director>
+      <actor>Rodrigo Morelli</actor>
+      <actor>Willian Miyata</actor>
+      <actor>Márcio Tutuhi</actor>
+    </credits>
+    <category lang="pt">Esporte (Pesca)</category>
+    <episode-num system="onscreen">S3 E19</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126043500 -0300" stop="20211126050000 -0300" channel="FishTV">
+    <title lang="pt">Provas e Torneios</title>
+    <desc lang="pt">Foi no clima de alegria e descontração que mais de 300 competidores saíram em busca dos tucunarés azuis do lago Três Marias, em Minas Gerais, no 10º Torneio Nacional de Pesca Esportiva.</desc>
+    <credits>
+      <director>Maurício Brenner</director>
+      <director>Johnny Hoffmann</director>
+      <actor>Alexandre Gralak</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126050000 -0300" stop="20211126054500 -0300" channel="FishTV">
+    <title lang="pt">Coração de Pescador</title>
+    <desc lang="pt">Viajando ao estado do Tocantins, Joel Datena vai pescar no Lago do Peixe Angical. Os tucunarés azuis são nativos desse curso de água, e o apresentador vai encontrar muita esportividade nas brigas desta expedição.</desc>
+    <credits>
+      <director>Epitácio Vieira Marques</director>
+      <actor>Joel Datena</actor>
+    </credits>
+    <category lang="pt">Esporte (Pesca)</category>
+    <episode-num system="onscreen">S7 E11</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126054500 -0300" stop="20211126063500 -0300" channel="FishTV">
+    <title lang="pt">Pura Pesca</title>
+    <desc lang="pt">Eduardo Monteiro está em Oriximiná, no Pará. Ele e seu guia Adriano, vão atrás dos Trairões do Rio Trombetas.</desc>
+    <credits>
+      <director>Carlos Eduardo Zahluth Monteiro</director>
+      <actor>Eduardo Monteiro</actor>
+    </credits>
+    <category lang="pt">Esporte (Pesca)</category>
+    <episode-num system="onscreen">S5 E10</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126063500 -0300" stop="20211126072500 -0300" channel="FishTV">
+    <title lang="pt">A Meta</title>
+    <desc lang="pt">Seguimos A Meta em Passo Fundo, no Rio Grande do Sul. Gaba se aventura em águas desconhecidas, enfrentando o frio, se adaptando a um ambiente desconhecido, testando técnicas e iscas variadas.</desc>
+    <credits>
+      <director>Maurício Brenner</director>
+      <director>Johnny Hoffmann</director>
+      <actor>Gaba</actor>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S6 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126072500 -0300" stop="20211126081000 -0300" channel="FishTV">
+    <title lang="pt">Na Pegada do Fly</title>
+    <desc lang="pt">Este episódio de Na Pegada do Fly será diferente. Você irá embarcar em uma incrível retrospectiva, onde Kid vai falar sobre o astro principal do programa, o peixe.</desc>
+    <credits>
+      <director>Maurício Brenner</director>
+      <director>Johnny Hoffmann</director>
+      <actor>Kid Ocelos</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S5 E10</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126081000 -0300" stop="20211126083500 -0300" channel="FishTV">
+    <title lang="pt">A Arte do Atado</title>
+    <desc lang="pt">Com dois materiais que usa muito pouco, Betinho vai ensinar a fazer um atado bem simples: a mosca seca. Utilizando penas finas de pescoço de pato, o pescador mostra ao convidado William o poder de flutuação desta isca.</desc>
+    <credits>
+      <director>Johnny Hoffmann</director>
+      <director>Mauricio Brenner</director>
+      <actor>Betinho Oliveira</actor>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S10 E10</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126083500 -0300" stop="20211126090000 -0300" channel="FishTV">
+    <title lang="pt">Pasión Por La Pesca</title>
+    <desc lang="pt">Na Argentina, Javier está em uma expedição com a pousada Gêmeos Pesca Esportiva. Corricando no rio Paranazão, o pescador encontra gigantes pintados ao lado do filho.</desc>
+    <credits>
+      <director>Johnny Hoffmann</director>
+      <director>Maurício Brenner</director>
+      <actor>Javier Enrique</actor>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S6 E16</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126090000 -0300" stop="20211126093000 -0300" channel="FishTV">
+    <title lang="pt">Biopesca</title>
+    <desc lang="pt">Lawrence Ikeda segue no Litoral de Santa Catarina, em Laguna. Em uma pescaria de muita técnica, o biopescador, vai te mostrar a diversidade de espécies do local.</desc>
+    <credits>
+      <director>Maurício Brenner</director>
+      <director>Johnny Hoffmann</director>
+      <actor>Lawrence Ikeda</actor>
+    </credits>
+    <category lang="pt">Esporte (Pesca)</category>
+    <episode-num system="onscreen">S7 E13</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126093000 -0300" stop="20211126100000 -0300" channel="FishTV">
+    <title lang="pt">Pesca em Ação</title>
+    <desc lang="pt">Léo Barabas segue na Baía de Guanabara, mas agora em busca dos robalos da região. Com o apoio do guia Ricardo Romano, o apresentador captura robalo-peva e xaréu olhudo.</desc>
+    <credits>
+      <director>Marcel Eidy Nishiyama</director>
+      <actor>Léo Barabas</actor>
+    </credits>
+    <category lang="pt">Esporte (Pesca)</category>
+    <episode-num system="onscreen">S9 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126100000 -0300" stop="20211126103000 -0300" channel="FishTV">
+    <title lang="pt">Elas na Pesca</title>
+    <desc lang="pt">"O Elas na Pesca vai até o Pesqueiro Feltrin, Nova Odessa, São Paulo.Drih recebeu Savia, responsável por uma das maiores páginas de pesca feminina do Instagram, e Sabrina.</desc>
+    <credits>
+      <director>Johnny Hoffmann</director>
+      <director>Maurício Brenner</director>
+      <actor>Drih e Yasmim</actor>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126103000 -0300" stop="20211126113000 -0300" channel="FishTV">
+    <title lang="pt">Na Pegada do Fly</title>
+    <desc lang="pt">Kid Ocelos está em Porto Xavier, no Pesqueiro do Cabrita, em busca do rei do rio. O apresentador é o primeiro pescador de fly a se aventurar pelo local e enfrenta uma pescaria complexa.</desc>
+    <credits>
+      <director>Maurício Brenner</director>
+      <director>Johnny Hoffmann</director>
+      <actor>Kid Ocelos</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S5 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126113000 -0300" stop="20211126120000 -0300" channel="FishTV">
+    <title lang="pt">Desafio Zeeo</title>
+    <desc lang="pt">Nesse episódio, Hugo e Goiano estão no Genipapo Hotel Fazenda, em Bonito/MS, para cumprir o desafio! Pescaria dificil, clima tenso e competidores ansiosos pelo resultado.</desc>
+    <credits>
+      <director>Priscila Guimaraes Correa Gomes</director>
+      <director>Guilherme Motta</director>
+      <actor>Cadu Silva</actor>
+      <actor>Lorena Mourão</actor>
+      <actor>Rafael Mesquita</actor>
+      <actor>Hugo Yamao</actor>
+      <actor>Xandão</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S10 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126120000 -0300" stop="20211126130000 -0300" channel="FishTV">
+    <title lang="pt">Pura Pesca</title>
+    <desc lang="pt">Eduardo Monteiro segue no Pará. Ele e seu guia Adriano, embarcam em uma pescaria recheada de dicas, variedade de peixes e muito mais!</desc>
+    <credits>
+      <director>Carlos Eduardo Zahluth Monteiro</director>
+      <actor>Eduardo Monteiro</actor>
+    </credits>
+    <category lang="pt">Esporte (Pesca)</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126130000 -0300" stop="20211126140000 -0300" channel="FishTV">
+    <title lang="pt">A Meta</title>
+    <desc lang="pt">A Meta continua em Passo Fundo, no Rio Grande do Sul. Neste episódio, Gaba recebe o Major Laudemar e sua equipe do 3° batalhão da Guarda Ambiental.</desc>
+    <credits>
+      <director>Maurício Brenner</director>
+      <director>Johnny Hoffmann</director>
+      <actor>Gaba</actor>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S6 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126140000 -0300" stop="20211126143000 -0300" channel="FishTV">
+    <title lang="pt">Destinos</title>
+    <desc lang="pt">Laís Vanessa vai até a Pousada Toca do Açu, em Autazes, no Amazonas. Ela vai te apresentar este belo empreendimento e mostrar os diferenciais deste paraíso da pesca esportiva.</desc>
+    <credits>
+      <director>Johnny Hoffmann</director>
+      <director>Mauricio Brenner</director>
+      <actor>Laís Vanessa</actor>
+    </credits>
+    <category lang="pt">Séries (Viagem)</category>
+    <episode-num system="onscreen">S5 E11</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126143000 -0300" stop="20211126150000 -0300" channel="FishTV">
+    <title lang="pt">Pesqueiros do Brasil</title>
+    <desc lang="pt">Kleber Sanches está no Pesqueiro do Pozza, em Batatais/SP, em busca dos grandes tambas do lago. Apesar do vento, o apresentador encontrou muita ação de peixe e capturou diversos exemplares.</desc>
+    <credits>
+      <director>Vitor Guilherme Muller de David</director>
+      <director>Guilherme Motta</director>
+      <actor>Kleber Sanches</actor>
+    </credits>
+    <category lang="pt">Esporte (Diversos)</category>
+    <episode-num system="onscreen">S8 E2</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126150000 -0300" stop="20211126153000 -0300" channel="FishTV">
+    <title lang="pt">Natureza Urbana</title>
+    <desc lang="pt">O Natureza Urbana está no Parcel de Dom Pedro, localizado no Litoral Sul de São Paulo. Tiago Papan, com os guias Murilo e Andrem, embarcam em uma aventura nas águas salgadas em busca de belas espécies.</desc>
+    <credits>
+      <director>Priscila Guimaraes Correa Gomes</director>
+      <actor>Tiago Papan</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126153000 -0300" stop="20211126160000 -0300" channel="FishTV">
+    <title lang="pt">Provas e Torneios</title>
+    <desc lang="pt">Na grande final do Circuito Tucuna Free, Alexandre Gralak mostra as ações de prova que aconteceu em Santa Clara dOeste, São Paulo. Acompanhe as capturas dos azulões e confira quem são os vencedores.</desc>
+    <credits>
+      <director>Maurício Brenner</director>
+      <director>Johnny Hoffmann</director>
+      <actor>Alexandre Gralak</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126160000 -0300" stop="20211126163000 -0300" channel="FishTV">
+    <title lang="pt">Remos e Rumos</title>
+    <desc lang="pt">Remos e Rumos retorna ao local da primeira gravação do programa, Represa da Serraria, em Juquiá, São Paulo.</desc>
+    <credits>
+      <director>Josué Pires Santiago</director>
+      <actor>Zinho</actor>
+    </credits>
+    <category lang="pt">Esporte (Pesca)</category>
+    <episode-num system="onscreen">S7 E20</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126163000 -0300" stop="20211126170000 -0300" channel="FishTV">
+    <title lang="pt">Desafio Zeeo</title>
+    <desc lang="pt">Nesse episódio, Hugo e Goiano estão no Genipapo Hotel Fazenda, em Bonito/MS, para cumprir o desafio! Pescaria dificil, clima tenso e competidores ansiosos pelo resultado.</desc>
+    <credits>
+      <director>Priscila Guimaraes Correa Gomes</director>
+      <director>Guilherme Motta</director>
+      <actor>Cadu Silva</actor>
+      <actor>Lorena Mourão</actor>
+      <actor>Rafael Mesquita</actor>
+      <actor>Hugo Yamao</actor>
+      <actor>Xandão</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S4 E9</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126170000 -0300" stop="20211126180000 -0300" channel="FishTV">
+    <title lang="pt">Fish TV Show</title>
+    <desc lang="pt">Gustavo Sarti vai até o Parque Maeda/SP para entrevistar a Família Nakamura. Nelson, Renan e Vitor contam alguns detalhes inéditos da história da família,.</desc>
+    <credits>
+      <director>Guilherme Motta</director>
+      <actor>Gustavo Sarti</actor>
+    </credits>
+    <category lang="pt">Variedades (Talk Show)</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126180000 -0300" stop="20211126183000 -0300" channel="FishTV">
+    <title lang="pt">Natureza Urbana</title>
+    <desc lang="pt">O Natureza Urbana está em Cananéia, localizada no Litoral Sul de São Paulo. Tiago Papan e o guia Sapo, embarcam em uma pescaria de Costeira e na Orla de Cananéia.</desc>
+    <credits>
+      <director>Priscila Guimaraes Correa Gomes</director>
+      <actor>Tiago Papan</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126183000 -0300" stop="20211126190000 -0300" channel="FishTV">
+    <title lang="pt">Contos</title>
+    <desc lang="pt">Assim como todo rio tem suas histórias, todo pescador também tem. E no segundo episódio de Contos, Rubinho compartilha as suas, que vão desde as lendas sobre o mapinguari, na Amazônia, até a maior pescaria de jaús da sua vida, no rio Juruena. O pescador nos faz refletir sobre a parceria entre o homem e a natureza.</desc>
+    <credits>
+      <director>Vitor Guilherme Muller de David</director>
+      <director>Guilherme Motta</director>
+      <actor>Rubens de Almeida Prado</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126190000 -0300" stop="20211126193000 -0300" channel="FishTV">
+    <title lang="pt">Planeta Turismo</title>
+    <desc lang="pt">Ruy Façanário faz uma viagem de 1.600 km passando por São Paulo, Minas Gerais, Goiás e finalmente chegando em Tocantins, na cidade de Brejinho de Nazaré.</desc>
+    <credits>
+      <director>Ruy Façanario</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126193000 -0300" stop="20211126203000 -0300" channel="FishTV">
+    <title lang="pt">Família Nakamura</title>
+    <desc lang="pt">Nelson, Renan e Vitor estão no Pesqueiro Takamoris Sport Fishing, em São Bernardo do Campo-SP, em busca das traíras e das tilápias do lago.</desc>
+    <credits>
+      <director>Nelson Nakamura</director>
+      <actor>Nelson</actor>
+      <actor>Renan</actor>
+      <actor>Vitor</actor>
+    </credits>
+    <category lang="pt">Esporte (Pesca)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126203000 -0300" stop="20211126213000 -0300" channel="FishTV">
+    <title lang="pt">5° Tempo</title>
+    <desc lang="pt">Luciano LP e Kleber Sanches vão fazer a análise técnica da segunda etapa paulista. Você vai conferir em detalhes, mais essa etapa do CBP3, onde os pirarucus marcaram presença.</desc>
+    <credits>
+      <director>Priscila Guimaraes Correa Gomes</director>
+      <actor>Kleber Sanches</actor>
+      <actor>Luciano LP</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126213000 -0300" stop="20211126220000 -0300" channel="FishTV">
+    <title lang="pt">Resenha CBP</title>
+    <desc lang="pt">Rafinha Minhoca segue no Parque Maeda em Itu/SP, para acompanhar a segunda etapa do Campeonato Paulista em Pesqueiros.</desc>
+    <credits>
+      <director>Priscila Guimaraes Correa Gomes</director>
+      <actor>Rafinha Minhoca</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126220000 -0300" stop="20211126223000 -0300" channel="FishTV">
+    <title lang="pt">Mergulhando</title>
+    <desc lang="pt">O "MERGULHANDO" vai até Bonito-MS conhecer um dos maiores destinos turísticos da América Latina. A equipe vai fazer um mergulho no Parque Ecológico do Rio Formoso para ver os peixes e as formações rochosas.</desc>
+    <credits>
+      <director>Leo Artur Sassen</director>
+      <actor>Leo Sassen</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126223000 -0300" stop="20211126230000 -0300" channel="FishTV">
+    <title lang="pt">Pesqueiros do Brasil</title>
+    <desc lang="pt">Kleber Sanches está no Pesqueiro do Pozza, em Batatais/SP, em busca dos grandes tambas do lago. Apesar do vento, o apresentador encontrou muita ação de peixe e capturou diversos exemplares.</desc>
+    <credits>
+      <director>Vitor Guilherme Muller de David</director>
+      <director>Guilherme Motta</director>
+      <actor>Kleber Sanches</actor>
+    </credits>
+    <category lang="pt">Esporte (Diversos)</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126230000 -0300" stop="20211126233000 -0300" channel="FishTV">
+    <title lang="pt">Pesca em Ação</title>
+    <desc lang="pt">Léo Barabas segue na Baía de Guanabara, mas agora em busca dos robalos da região. Com o apoio do guia Ricardo Romano, o apresentador captura robalo-peva e xaréu olhudo.</desc>
+    <credits>
+      <director>Marcel Eidy Nishiyama</director>
+      <actor>Léo Barabas</actor>
+    </credits>
+    <category lang="pt">Esporte (Pesca)</category>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125002700 -0300" stop="20211125005100 -0300" channel="Food Network HD">
+    <title lang="pt">Sabores da Itália</title>
+    <sub-title lang="pt">Everyday Italian</sub-title>
+    <desc lang="pt">Se você tem filhos, a última coisa que quer é comer alimentos para crianças todas as noites da semana. Giada De Laurentiis mostra receitas deliciosas que crianças e adultos vão saborear juntos. Ela preparar um empadão de hortaliças; panquecas de hortaliças e cupcakes recheados com mascarpone.</desc>
+    <credits>
+      <actor>Giada De Laurentiis</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125005100 -0300" stop="20211125011500 -0300" channel="Food Network HD">
+    <title lang="pt">Cozinha à la Fieri</title>
+    <sub-title lang="pt">Guy's Big Bite</sub-title>
+    <desc lang="pt">Guy Fieri faz frutos do mar, no estilo italiano! Primeiro, brandade, uma pasta cremosa de peixe que ele vai servir com pão torrado. Depois, salada de frutos do mar cheia de camarão, vieira e lula. E, não por último, purê de feijão-branco e tahine com chips de pão sírio tostado. Você precisa ver com o Guy coloca os frutos do mar dentro das suas receitas!</desc>
+    <credits>
+      <actor>Guy Fieri</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S11 E13</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125011500 -0300" stop="20211125013900 -0300" channel="Food Network HD">
+    <title lang="pt">Lanchonetes Clássicas com Guy Fieri</title>
+    <sub-title lang="pt">Diners, Drive-Ins, And Dives</sub-title>
+    <desc lang="pt">Guy experimenta obras-primas feitas de carne, inclusive um hambúrguer de poutine no Colorado, uma torta de batatinha chips no Texas, e um frango na panela de barro no Arizona.</desc>
+    <credits>
+      <director>Steven Bortko</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S17 E8</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125013900 -0300" stop="20211125020300 -0300" channel="Food Network HD">
+    <title lang="pt">Lanchonetes Clássicas com Guy Fieri</title>
+    <sub-title lang="pt">Diners, Drive-Ins, And Dives</sub-title>
+    <desc lang="pt">Guy Fieri procura estabelecimentos curiosos que fazem excelente comida. Perto de Fort Worth, Texas, um posto de gasolina que serve pato com laranja.</desc>
+    <date>2008</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S27 E11</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125020300 -0300" stop="20211125025100 -0300" channel="Food Network HD">
+    <title lang="pt">Food Network Star: A Próxima Estrela</title>
+    <sub-title lang="pt">Food Network Star</sub-title>
+    <desc lang="pt">Uma estrela do Food Network deve ser capaz de ensinar aos telespectadores como preparar ótimas refeições. No desafio dos mentores, Alton Brown desafia os finalistas a ensiná-lo uma receita. E aí, para o desafio da Estrela, os finalistas devem criar um vídeo demonstrando um de seus próprios pratos para o telespectador. O que eles não sabem é que a Chef Alex Guasnaschelli estará participando juntamente, tentando fazer o prato. Depois da Alex ser revelada aos finalistas, ela ajuda o comitê de seleção a decidir quem será mandado para casa.</desc>
+    <credits>
+      <actor>Alton Brown</actor>
+      <actor>Bobby Flay</actor>
+      <actor>Giada De Laurentiis</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S6 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125025100 -0300" stop="20211125031500 -0300" channel="Food Network HD">
+    <title lang="pt">Giada Faz a Festa</title>
+    <sub-title lang="pt">Giada Entertains</sub-title>
+    <desc lang="pt">Giada e sua família e amigos passam o dia na praia, jogando bola e curtindo um piquenique. Ela prepara petisco fáceis, como paninis de pizza, salada agridoce, homus de batata doce e mais.</desc>
+    <date>2020</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S10 E2</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125031500 -0300" stop="20211125033900 -0300" channel="Food Network HD">
+    <title lang="pt">Giada Faz a Festa</title>
+    <sub-title lang="pt">Giada Entertains</sub-title>
+    <desc lang="pt">Giada convida amigos para um café da manhã especial de dia dos namorados, com chocolate em todos os pratos. Ela faz panqueca de batata com nibs de cacau, panquecas de banana com gotas de chocolate, granola de chocolate e mais.</desc>
+    <date>2020</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S5 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125033900 -0300" stop="20211125040200 -0300" channel="Food Network HD">
+    <title lang="pt">Receitas Caseiras da Valerie</title>
+    <sub-title lang="pt">Valerie's Home Cooking</sub-title>
+    <desc lang="pt">Valerie ajuda sua amiga melissa peterman a fazer uma festa de aniversário. O menu inclui vieiras sauté na manteiga de limão, focaccia de azeitona e alecrim e negroni clássico para beber.</desc>
+    <credits>
+      <director>Justin Morong</director>
+      <actor>Valerie Bertinelli</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S5 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125040200 -0300" stop="20211125042600 -0300" channel="Food Network HD">
+    <title lang="pt">Refeição em 30 Minutos</title>
+    <sub-title lang="pt">30 Minute Meals</sub-title>
+    <desc lang="pt">Rachael adiciona alguns ingredientes simples para atualizar um jantar de frango padrão. Ela usa pasta de pimentão picante, mostarda picante Dijon e queijo romano salgado pecorino.</desc>
+    <credits>
+      <actor>Rachael Ray</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S9 E10</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125042600 -0300" stop="20211125051300 -0300" channel="Food Network HD">
+    <title lang="pt">SOS Restaurante</title>
+    <sub-title lang="pt">Restaurant: Impossible</sub-title>
+    <desc lang="pt">O chef Robert Irvine está na cidade turística South Padre Island, Texas, para ajudar os donos do Padre Rita Grill.</desc>
+    <credits>
+      <actor>Robert Irvine</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S28 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125051300 -0300" stop="20211125053600 -0300" channel="Food Network HD">
+    <title lang="pt">Refeição em 30 Minutos</title>
+    <sub-title lang="pt">30 Minute Meals</sub-title>
+    <desc lang="pt">Prepare uma comida que seja saborosa e te faça bem. Deliciosa salada de macarrão soba saudável; peixe-carvão-do-pacífico grelhado com wasabi.</desc>
+    <date>2011</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S9 E11</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125053600 -0300" stop="20211125060000 -0300" channel="Food Network HD">
+    <title lang="pt">Sabor Às Cegas</title>
+    <sub-title lang="pt">La Cuoca Bendata</sub-title>
+    <desc lang="pt">Neste episódio, os participantes pertencem à categoria "Parteiras": Paola, Sara e Mimma. Benedetta apresenta o prato que elas devem preparar durante um tempo limitado: paccheri recheado frito.</desc>
+    <credits>
+      <director>Maria Cattolica Sorrentino</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S26 E2</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125060000 -0300" stop="20211125062400 -0300" channel="Food Network HD">
+    <title lang="pt">Receitas da Ina: De Volta ao Básico</title>
+    <sub-title lang="pt">Barefoot Contessa: Back To Basics</sub-title>
+    <desc lang="pt">Voltaremos ao básico e ensinaremos a preparar o melhor jantar. O segredo é uma refeição com três pratos com um doce perfeito no final. Para começar, aperitivos comprados em lojas. Depois, gratinados de vieira e, para terminar, dois maravilhosos doces caseiros: lascas de chocolate branco e balas de caramelo com flor de sal.</desc>
+    <credits>
+      <actor>Ina Garten</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S1 E23</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125062400 -0300" stop="20211125064800 -0300" channel="Food Network HD">
+    <title lang="pt">Receitas da Ina: De Volta ao Básico</title>
+    <sub-title lang="pt">Barefoot Contessa: Back To Basics</sub-title>
+    <desc lang="pt">Voltaremos ao básico com frangos e vamos além. Desde o mais simples frango assado, passando por um prato que agradaria qualquer companhia, até uma ótima receita inspirada pelo Sul da França: bouillabaisse de frango com maionese de açafrão e alho, que é conhecida como rouille. Além disso, descubra o segredo de como se fazer o caldo de frango mais delicioso!</desc>
+    <credits>
+      <actor>Ina Garten</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125064800 -0300" stop="20211125071200 -0300" channel="Food Network HD">
+    <title lang="pt">Brunch com Bobby</title>
+    <sub-title lang="pt">Brunch @ Bobby's</sub-title>
+    <desc lang="pt">Bobby Flay prepara um brunch leve e saboroso que inclui pãezinhos com amêndoa fáceis de fazer.</desc>
+    <credits>
+      <director>April Jones</director>
+      <actor>Bobby Flay</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125071200 -0300" stop="20211125073600 -0300" channel="Food Network HD">
+    <title lang="pt">Lanchonetes Clássicas com Guy Fieri</title>
+    <sub-title lang="pt">Diners, Drive-Ins, And Dives</sub-title>
+    <desc lang="pt">No Havaí, Guy descobre um restaurante que serve tigelas absurdas de lamen, e o frango na lata de cerveja. Depois, ele passa por um food truck excêntrico e por uma churrascaria no centro de Los Angeles.</desc>
+    <credits>
+      <director>Steven Bortko</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S6 E15</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125073600 -0300" stop="20211125080000 -0300" channel="Food Network HD">
+    <title lang="pt">Lanchonetes Clássicas com Guy Fieri</title>
+    <sub-title lang="pt">Diners, Drive-Ins, And Dives</sub-title>
+    <desc lang="pt">Guy vai de uma costa a outra e até os Grandes Lagos para experimentar pratos explosivos, inclusive tostadas de polvo e um queijo quente gourmet.</desc>
+    <credits>
+      <director>Steven Bortko</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S27 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125080000 -0300" stop="20211125082400 -0300" channel="Food Network HD">
+    <title lang="pt">Cozinha à la Fieri</title>
+    <sub-title lang="pt">Guy's Big Bite</sub-title>
+    <desc lang="pt">É a noite do Hunter cozinhar na casa Fieri, mas como ele quebrou a perna, vai precisar da ajuda do pai Guy para fazer o cardápio de sanduíches de frango empanado no cereal de milho, o macarrão com queijo mexicano e os tacos de chocolate.</desc>
+    <credits>
+      <actor>Guy Fieri</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S27 E4</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125082400 -0300" stop="20211125084800 -0300" channel="Food Network HD">
+    <title lang="pt">Sabores da América com Michael Symon</title>
+    <sub-title lang="pt">Burgers, Brew &amp; 'Que</sub-title>
+    <desc lang="pt">No estado de Nova York, Michael prova uma costela de porco defumada lentamente e coberta com um molho barbecue cítrico. Em Columbus, ele come um hambúrguer com salsicha polonesa.</desc>
+    <credits>
+      <director>Maggie Zeltner</director>
+      <actor>Michael Symon</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S17 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125084800 -0300" stop="20211125091200 -0300" channel="Food Network HD">
+    <title lang="pt">Sabores da América com Michael Symon</title>
+    <sub-title lang="pt">Burgers, Brew &amp; 'Que</sub-title>
+    <desc lang="pt">Em Providence, Michael prova uma tradição local: um cachorro-quente feito com crepe e chili. Em Columbus, ele visita um restaurante que serve sua costelinha de porco em uma cama de feno em chamas.</desc>
+    <credits>
+      <director>Maggie Zeltner</director>
+      <actor>Michael Symon</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S5 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125091200 -0300" stop="20211125100000 -0300" channel="Food Network HD">
+    <title lang="pt">Aventura Culinária com Roger Mooking</title>
+    <sub-title lang="pt">Man's Greatest Food</sub-title>
+    <desc lang="pt">Roger Mooking procura os 15 melhores pratos feitos em churrasqueiras no país. Seja peito bovino, frango ou um porco inteiro, ele não resiste ao sabor defumado que surge quando fogo, carne e tempero se cruzam.</desc>
+    <date>2017</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S5 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125100000 -0300" stop="20211125102400 -0300" channel="Food Network HD">
+    <title lang="pt">Feito em Casa com Gesine Prado</title>
+    <sub-title lang="pt">Baked in Vermont</sub-title>
+    <desc lang="pt">Gesine Prado cria para seus amigos um cardápio festivo para comemorar o fim de ano em Vermont. Ela assa cookies de gengibre e biscoitos de canela com pistache em formatos divertidos, e serve amêndoas açucaradas picantes.</desc>
+    <credits>
+      <actor>Gesine Bullock-Prado</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125102400 -0300" stop="20211125104800 -0300" channel="Food Network HD">
+    <title lang="pt">Feito em Casa com Gesine Prado</title>
+    <sub-title lang="pt">Baked in Vermont</sub-title>
+    <desc lang="pt">Gesine Prado é a anfitriã da reunião mensal do clube de tricô e prepara um cardápio de petiscos.</desc>
+    <credits>
+      <actor>Gesine Bullock-Prado</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125104800 -0300" stop="20211125113600 -0300" channel="Food Network HD">
+    <title lang="pt">Pequenos Confeiteiros</title>
+    <sub-title lang="pt">Kids Baking Championship</sub-title>
+    <desc lang="pt">Brownies ou blondies, qual deles é o mais gostoso? Para encerrar a polêmica, Duff Goldman e Valerie Bertinelli dividem os dez pequenos confeiteiros em equipes que devem preparar os dois tipos de bolo.</desc>
+    <credits>
+      <actor>Duff Goldman</actor>
+      <actor>Valerie Bertinelli</actor>
+      <actor>Meadow Roberts</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125113600 -0300" stop="20211125120000 -0300" channel="Food Network HD">
+    <title lang="pt">Duelo Com Bobby Flay</title>
+    <sub-title lang="pt">Beat Bobby Flay</sub-title>
+    <desc lang="pt">A cozinha pega fogo conforme as chefs Jeanie Roland e Becca Richards batalham pela chance de enfrentar o Iron Chef Bobby Flay, enquanto Robert Irvine e Katie Lee, mantêm Bobby em sua mira.</desc>
+    <credits>
+      <actor>Bobby Flay</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S6 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125120000 -0300" stop="20211125122400 -0300" channel="Food Network HD">
+    <title lang="pt">Duelo Com Bobby Flay</title>
+    <sub-title lang="pt">Beat Bobby Flay</sub-title>
+    <desc lang="pt">A competição fica acirrada quando Curtis Stone e Sunny Anderson, fazem de tudo para derrotar Bobby Flay. Eles trouxeram o ex-fazendeiro chef Clark Barlowe para enfrentar o chef italiano Peter McAndrews.</desc>
+    <credits>
+      <actor>Bobby Flay</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S5 E10</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125122400 -0300" stop="20211125131200 -0300" channel="Food Network HD">
+    <title lang="pt">Na Rota do Sabor</title>
+    <desc lang="pt">Já se perguntou onde é possível comer as melhores versões dos pratos típicos de uma cidade? Nós enumeramos os 8 melhores restaurantes que servem os ídolos da terra natal por todo o país.</desc>
+    <date>2015</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S5 E11</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125131200 -0300" stop="20211125133600 -0300" channel="Food Network HD">
+    <title lang="pt">Receitas de Humor da Daphne</title>
+    <sub-title lang="pt">Daphne Dishes</sub-title>
+    <desc lang="pt">Daphne adora tomar café da manhã, mas não quando acorda. Por isso, ela decide adaptar alguns pratos matinais para o jantar.</desc>
+    <credits>
+      <director>Harriet Siew</director>
+      <actor>Daphne Brogdon</actor>
+      <actor>Vivien Peel</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S3 E11</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125133600 -0300" stop="20211125140000 -0300" channel="Food Network HD">
+    <title lang="pt">Receitas de Humor da Daphne</title>
+    <sub-title lang="pt">Daphne Dishes</sub-title>
+    <desc lang="pt">Daphne Brogdon pensa em um plano inteligente para manter as crianças interessadas durante um jantar elegante.</desc>
+    <credits>
+      <director>Harriet Siew</director>
+      <actor>Daphne Brogdon</actor>
+      <actor>Vivien Peel</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125140000 -0300" stop="20211125144800 -0300" channel="Food Network HD">
+    <title lang="pt">A Guerra dos Bolos</title>
+    <sub-title lang="pt">Cake Wars</sub-title>
+    <desc lang="pt">Charlie Brown, Snoopy e a turma do Minduim participam de A Guerra dos Bolos para comemorar o 50º aniversário do desenho legendário de "Todas as Estrelas de Charlie Brown". Quatro confeiteiros entram na disputa para impressionar a jurada convidada Lindsey Schulz, neta do criador do Minduim, Charles Schulz. Quem sairá da jogada, e quem ganhará os dez mil dólares?</desc>
+    <credits>
+      <actor>Jonathan Bennett</actor>
+      <actor>Ron Ben Israel</actor>
+      <actor>Waylynn Lucas</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125144800 -0300" stop="20211125151200 -0300" channel="Food Network HD">
+    <title lang="pt">Brunch com Bobby</title>
+    <sub-title lang="pt">Brunch @ Bobby's</sub-title>
+    <desc lang="pt">Bobby Flay cria três sanduíches de café da manhã inspirados em algumas de suas coisas favoritas.</desc>
+    <credits>
+      <director>April Jones</director>
+      <actor>Bobby Flay</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125151200 -0300" stop="20211125153600 -0300" channel="Food Network HD">
+    <title lang="pt">Lanchonetes Clássicas com Guy Fieri</title>
+    <sub-title lang="pt">Diners, Drive-Ins, And Dives</sub-title>
+    <desc lang="pt">Guy Fieri encontra cozinheiros fazendo tudo do jeito deles: em Flagstaff, Arizona, um estabelecimento de família prepara guisado de carne com lombinho.</desc>
+    <date>2008</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S7 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125153600 -0300" stop="20211125160000 -0300" channel="Food Network HD">
+    <title lang="pt">Lanchonetes Clássicas com Guy Fieri</title>
+    <sub-title lang="pt">Diners, Drive-Ins, And Dives</sub-title>
+    <desc lang="pt">Guy Fieri visita ótimos lugares que preparam algumas comidas internacionais favoritas do Triple D.</desc>
+    <date>2008</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S6 E2</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125160000 -0300" stop="20211125162400 -0300" channel="Food Network HD">
+    <title lang="pt">Sabor Às Cegas</title>
+    <sub-title lang="pt">La Cuoca Bendata</sub-title>
+    <desc lang="pt">Neste episódio, os participantes pertencem à categoria "Gourmet": Paolo, Valentina e Damian. Benedetta apresenta o prato que eles devem preparar durante um tempo limitado: risotto ao prosecco e robalo.</desc>
+    <credits>
+      <director>Maria Cattolica Sorrentino</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S6 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125162400 -0300" stop="20211125164800 -0300" channel="Food Network HD">
+    <title lang="pt">Refeição em 30 Minutos</title>
+    <sub-title lang="pt">30 Minute Meals</sub-title>
+    <desc lang="pt">Este banquete carnívoro e "de macho" não será recusado por amantes de hambúrguer: um fantástico sanduíche de salame e batatas à moda italiana com queijo.</desc>
+    <date>2011</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S1 E24</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125164800 -0300" stop="20211125171200 -0300" channel="Food Network HD">
+    <title lang="pt">Sabores da Itália</title>
+    <sub-title lang="pt">Everyday Italian</sub-title>
+    <desc lang="pt">Giada De Laurentiis prepara deliciosas entradas usando apenas ingredientes frescos, provando que o jantar pode ser preparado de forma rápida e fácil sem precisar usar uma lata ou caixa. No cardápio: scallopine de frango como molho cremoso de açafrão; salada quente de hortaliças; crostini alla romana e mousse de café e chocolate com chantili de mascarpone e laranja.</desc>
+    <credits>
+      <actor>Giada De Laurentiis</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S26 E8</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125171200 -0300" stop="20211125173600 -0300" channel="Food Network HD">
+    <title lang="pt">Giada Faz a Festa</title>
+    <sub-title lang="pt">Giada Entertains</sub-title>
+    <desc lang="pt">Giada convida amigos para criar formatos de massa do zero. Eles se deliciam com um menu que inclui as receitas preferidas de sua família: um tipo de nhoque da sardenha com camarão e rúcula e pappardelle com ragu de linguiça.</desc>
+    <date>2020</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S11 E14</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125173600 -0300" stop="20211125180000 -0300" channel="Food Network HD">
+    <title lang="pt">Giada Faz a Festa</title>
+    <sub-title lang="pt">Giada Entertains</sub-title>
+    <desc lang="pt">Giada convida amigos para assistir à televisão e faz bandejas individuais para cada um, com castanhas temperadas, sanduíches de linguiça, cookies de chocolate recheados e mais.</desc>
+    <date>2020</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125180000 -0300" stop="20211125182500 -0300" channel="Food Network HD">
+    <title lang="pt">Tudo Na Panela: Bolos e Doces</title>
+    <desc lang="pt">Carol Fiorentino traz as receitas do momento, que todos comentam e curtem: A torta banoffee é uma maravilha recheada com bananas e doce de leite.</desc>
+    <credits>
+      <director>Joana Do Prado</director>
+      <actor>Carol Fiorentino</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S5 E2</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125182500 -0300" stop="20211125185100 -0300" channel="Food Network HD">
+    <title lang="pt">Tudo na Panela</title>
+    <desc lang="pt">As frutas cítricas como o limão e a laranja estão sempre presentes na casa dos brasileiros. Fáceis de encontrar, são perfeitas para dar aquele sabor azedinho e especial às refeições, deixando tudo mais refrescante e delicioso.</desc>
+    <credits>
+      <director>Andrea Cassola</director>
+      <actor>Carol Fiorentino</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125185100 -0300" stop="20211125193900 -0300" channel="Food Network HD">
+    <title lang="pt">Food Network Star: A Próxima Estrela</title>
+    <sub-title lang="pt">Food Network Star</sub-title>
+    <desc lang="pt">Um Food Network Star precisa ter o conhecimento e a habilidade de se adaptar a qualquer circunstância que surgir. Em dois turnos de cinco, os finalistas dão lances em sabotagens para sobrecarregar seus competidores e partir pra batalha na cozinha, no estilo cozinha feroz. Alton Brown comanda as festividades, e então os pratos dos finalistas são criticados por Bobby Flay e Chef Jet Tila. O finalista vencedor em cada etapa fica com seus prêmios, enquanto o competidor menos bem sucedido volta pra casa.</desc>
+    <credits>
+      <actor>Alton Brown</actor>
+      <actor>Bobby Flay</actor>
+      <actor>Giada De Laurentiis</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125193900 -0300" stop="20211125202700 -0300" channel="Food Network HD">
+    <title lang="pt">Pequenos Confeiteiros</title>
+    <sub-title lang="pt">Kids Baking Championship</sub-title>
+    <desc lang="pt">Os macarons são sobremesas muito populares, e os decorados com carinhas são uma tendência que chegou para ficar. Valerie Bertinelli e Duff Goldman desafiam nove confeiteiros a criar macarons com carinhas tristes e felizes.</desc>
+    <credits>
+      <actor>Duff Goldman</actor>
+      <actor>Valerie Bertinelli</actor>
+      <actor>Jenna Alnatur</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S10 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125202700 -0300" stop="20211125205100 -0300" channel="Food Network HD">
+    <title lang="pt">Duelo Com Bobby Flay</title>
+    <sub-title lang="pt">Beat Bobby Flay</sub-title>
+    <desc lang="pt">As apresentadoras Katie Lee e Alex Guarnaschelli não têm medo de apostar todas as suas fichas em alguém para derrotar Bobby Flay. A apresentadora latina e chef, Giovanna Huyke, e a dona de bufê Jennifer Bajsel vão duelar entre si para ver quem tem a chance derrotar Bobby.</desc>
+    <credits>
+      <actor>Bobby Flay</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S6 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125205100 -0300" stop="20211125211500 -0300" channel="Food Network HD">
+    <title lang="pt">Duelo Com Bobby Flay</title>
+    <sub-title lang="pt">Beat Bobby Flay</sub-title>
+    <desc lang="pt">Michael Symon e Geoffrey Zakarian do Food Network, conspiram contra Bobby Flay no feriado do Dia de Ação de Graças. Eles trouxeram o chef premiado Nick Rabar de Rhode Island para duelar com o chef de Nova York, Jeff Haskell, mas apenas um deles poderá vencer.</desc>
+    <credits>
+      <actor>Bobby Flay</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S6 E7</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125211500 -0300" stop="20211125220300 -0300" channel="Food Network HD">
+    <title lang="pt">SOS Restaurante</title>
+    <sub-title lang="pt">Restaurant: Impossible</sub-title>
+    <desc lang="pt">O chef Robert trabalha para resolver problemas de gerência e fazer a reforma do restaurante, mas fica tão emocionado com o Lou e sua família que dá a eles outra surpresa necessária.</desc>
+    <credits>
+      <actor>Robert Irvine</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S6 E8</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125220300 -0300" stop="20211125225100 -0300" channel="Food Network HD">
+    <title lang="pt">Pequenos Confeiteiros</title>
+    <sub-title lang="pt">Kids Baking Championship</sub-title>
+    <desc lang="pt">Valerie bertinelli e duff goldman desafiam os 5 confeiteiros mirins a fazer um bolo cheio de furinhos com recheio de papinha de frutas ou pudim. Para ficar ainda mais bonitinho, eles devem decorar para que se pareça com um ouriço.</desc>
+    <credits>
+      <actor>Duff Goldman</actor>
+      <actor>Valerie Bertinelli</actor>
+      <actor>Paige Goehner</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S9 E12</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125225100 -0300" stop="20211125233900 -0300" channel="Food Network HD">
+    <title lang="pt">O Gênio da Confeitaria</title>
+    <sub-title lang="pt">Sweet Genius</sub-title>
+    <desc lang="pt">Na primeira rodada, chefs criam sobremesas usando uma fruta exótica e um favorito dos estádios. A rodada dois inclui um item básico da culinária inglesa como ingrediente, e o prêmio de us$ 10. 000 vai para o bolo mais nobre.</desc>
+    <credits>
+      <director>Michael Pearlman</director>
+      <actor>Ron Ben-Israel</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S7 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125233900 -0300" stop="20211126000300 -0300" channel="Food Network HD">
+    <title lang="pt">Feito em Casa com Gesine Prado</title>
+    <sub-title lang="pt">Baked in Vermont</sub-title>
+    <desc lang="pt">Gesine Prado prepara uma refeição para jogadores de futebol do Dartmouth College, para onde foi seu marido.</desc>
+    <credits>
+      <actor>Gesine Bullock-Prado</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126000300 -0300" stop="20211126002700 -0300" channel="Food Network HD">
+    <title lang="pt">Feito em Casa com Gesine Prado</title>
+    <sub-title lang="pt">Baked in Vermont</sub-title>
+    <desc lang="pt">Gesine Prado convida alguns amigos para um brunch inspirado em maçã, e eles fazem cidra no celeiro.</desc>
+    <credits>
+      <actor>Gesine Bullock-Prado</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126002700 -0300" stop="20211126005100 -0300" channel="Food Network HD">
+    <title lang="pt">Sabores da Itália</title>
+    <sub-title lang="pt">Everyday Italian</sub-title>
+    <desc lang="pt">Giada De Laurentiis prepara deliciosas entradas usando apenas ingredientes frescos, provando que o jantar pode ser preparado de forma rápida e fácil sem precisar usar uma lata ou caixa. No cardápio: scallopine de frango como molho cremoso de açafrão; salada quente de hortaliças; crostini alla romana e mousse de café e chocolate com chantili de mascarpone e laranja.</desc>
+    <credits>
+      <actor>Giada De Laurentiis</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126005100 -0300" stop="20211126011500 -0300" channel="Food Network HD">
+    <title lang="pt">Cozinha à la Fieri</title>
+    <sub-title lang="pt">Guy's Big Bite</sub-title>
+    <desc lang="pt">Guy Fieri está melhorando o sanduíche de peru para um status de estrela com o seu sanduíche de peru assado com crimini e trufas, que tem o centro do palco no dia seguinte à Ação de Graças ou em qualquer outra época do ano. A salada de legumes tostados e queijo de cabra é outro grande sucesso em qualquer momento.</desc>
+    <credits>
+      <actor>Guy Fieri</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S11 E14</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126011500 -0300" stop="20211126013900 -0300" channel="Food Network HD">
+    <title lang="pt">Lanchonetes Clássicas com Guy Fieri</title>
+    <sub-title lang="pt">Diners, Drive-Ins, And Dives</sub-title>
+    <desc lang="pt">Guy Fieri encontra cozinheiros fazendo tudo do jeito deles: em Flagstaff, Arizona, um estabelecimento de família prepara guisado de carne com lombinho.</desc>
+    <date>2008</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S17 E9</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126013900 -0300" stop="20211126020300 -0300" channel="Food Network HD">
+    <title lang="pt">Lanchonetes Clássicas com Guy Fieri</title>
+    <sub-title lang="pt">Diners, Drive-Ins, And Dives</sub-title>
+    <desc lang="pt">Guy Fieri visita ótimos lugares que preparam algumas comidas internacionais favoritas do Triple D.</desc>
+    <date>2008</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S6 E2</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126020300 -0300" stop="20211126025100 -0300" channel="Food Network HD">
+    <title lang="pt">Food Network Star: A Próxima Estrela</title>
+    <sub-title lang="pt">Food Network Star</sub-title>
+    <desc lang="pt">Um Food Network Star precisa ter o conhecimento e a habilidade de se adaptar a qualquer circunstância que surgir. Em dois turnos de cinco, os finalistas dão lances em sabotagens para sobrecarregar seus competidores e partir pra batalha na cozinha, no estilo cozinha feroz. Alton Brown comanda as festividades, e então os pratos dos finalistas são criticados por Bobby Flay e Chef Jet Tila. O finalista vencedor em cada etapa fica com seus prêmios, enquanto o competidor menos bem sucedido volta pra casa.</desc>
+    <credits>
+      <actor>Alton Brown</actor>
+      <actor>Bobby Flay</actor>
+      <actor>Giada De Laurentiis</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S6 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126025100 -0300" stop="20211126033900 -0300" channel="Food Network HD">
+    <title lang="pt">Pequenos Confeiteiros</title>
+    <sub-title lang="pt">Kids Baking Championship</sub-title>
+    <desc lang="pt">Valerie bertinelli e duff goldman desafiam os 5 confeiteiros mirins a fazer um bolo cheio de furinhos com recheio de papinha de frutas ou pudim. Para ficar ainda mais bonitinho, eles devem decorar para que se pareça com um ouriço.</desc>
+    <credits>
+      <actor>Duff Goldman</actor>
+      <actor>Valerie Bertinelli</actor>
+      <actor>Paige Goehner</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S10 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126033900 -0300" stop="20211126042600 -0300" channel="Food Network HD">
+    <title lang="pt">O Gênio da Confeitaria</title>
+    <sub-title lang="pt">Sweet Genius</sub-title>
+    <desc lang="pt">Na primeira rodada, chefs criam sobremesas usando uma fruta exótica e um favorito dos estádios. A rodada dois inclui um item básico da culinária inglesa como ingrediente, e o prêmio de us$ 10. 000 vai para o bolo mais nobre.</desc>
+    <credits>
+      <director>Michael Pearlman</director>
+      <actor>Ron Ben-Israel</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S7 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126042600 -0300" stop="20211126051300 -0300" channel="Food Network HD">
+    <title lang="pt">SOS Restaurante</title>
+    <sub-title lang="pt">Restaurant: Impossible</sub-title>
+    <desc lang="pt">O chef Robert trabalha para resolver problemas de gerência e fazer a reforma do restaurante, mas fica tão emocionado com o Lou e sua família que dá a eles outra surpresa necessária.</desc>
+    <credits>
+      <actor>Robert Irvine</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126051300 -0300" stop="20211126053600 -0300" channel="Food Network HD">
+    <title lang="pt">Refeição em 30 Minutos</title>
+    <sub-title lang="pt">30 Minute Meals</sub-title>
+    <desc lang="pt">Rachael prepara um prato de carne com batatas inspirado nas comidas dos pubs ingleses. Hambúrguer amassado estilo "Rarebit", batatas de pub e molho de raiz-forte.</desc>
+    <date>2011</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S9 E12</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126053600 -0300" stop="20211126060000 -0300" channel="Food Network HD">
+    <title lang="pt">Sabor Às Cegas</title>
+    <sub-title lang="pt">La Cuoca Bendata</sub-title>
+    <desc lang="pt">Neste episódio, os participantes pertencem à categoria "Gourmet": Paolo, Valentina e Damian. Benedetta apresenta o prato que eles devem preparar durante um tempo limitado: risotto ao prosecco e robalo.</desc>
+    <credits>
+      <director>Maria Cattolica Sorrentino</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S26 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126060000 -0300" stop="20211126062400 -0300" channel="Food Network HD">
+    <title lang="pt">Receitas da Ina: De Volta ao Básico</title>
+    <sub-title lang="pt">Barefoot Contessa: Back To Basics</sub-title>
+    <desc lang="pt">Voltaremos ao básico com grelhados. Ina está experimentando novas e criativas formas de se usar a grelha sem que seja para cachorros-quentes e hambúrgueres. Primeiro, Fettunta - muçarela derretida e presunto em um pão feito na grelha. Depois, o frango grelhado é elevado a um novo patamar com uma deliciosa marinada de limão toscano e, por fim, até a salada vai parar na grelha - aposto que você nunca provou uma panzanella assim!</desc>
+    <credits>
+      <actor>Ina Garten</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S1 E24</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126062400 -0300" stop="20211126064800 -0300" channel="Food Network HD">
+    <title lang="pt">Receitas da Ina: De Volta ao Básico</title>
+    <sub-title lang="pt">Barefoot Contessa: Back To Basics</sub-title>
+    <desc lang="pt">Voltamos ao básico no café da manhã. Ina nos dá o passo-a-passo sobre como fazer uma perfeita festa de café-da-manhã e convence um amigo que este é o caminho a seguir para a diversão. Ina prepara Biscoitos Amanteigados de Cheddar e Geleia Caseira de Morango, um coquetel divertido chamado Suco de Algumas Flores e Ovos Mexidos com Ervas.</desc>
+    <credits>
+      <actor>Ina Garten</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126064800 -0300" stop="20211126071200 -0300" channel="Food Network HD">
+    <title lang="pt">Brunch com Bobby</title>
+    <sub-title lang="pt">Brunch @ Bobby's</sub-title>
+    <desc lang="pt">Bobby Flay prepara um brunch com maçãs recém-colhidas, incluindo panquecas em barra e muito mais.</desc>
+    <credits>
+      <director>April Jones</director>
+      <actor>Bobby Flay</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126071200 -0300" stop="20211126073600 -0300" channel="Food Network HD">
+    <title lang="pt">Lanchonetes Clássicas com Guy Fieri</title>
+    <sub-title lang="pt">Diners, Drive-Ins, And Dives</sub-title>
+    <desc lang="pt">Guy vai do Texas ao Michigan em busca de uma culinária excepcional com um toque internacional, incluindo shawarma, bahn mi de peito de boi, croissants de tequila e pão italiano à moda antiga.</desc>
+    <credits>
+      <director>Steven Bortko</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S6 E16</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126073600 -0300" stop="20211126080000 -0300" channel="Food Network HD">
+    <title lang="pt">Lanchonetes Clássicas com Guy Fieri</title>
+    <sub-title lang="pt">Diners, Drive-Ins, And Dives</sub-title>
+    <desc lang="pt">Guy Fieri visita velhos amigos e dá uma espiada em novos restaurantes: uma excelente pizzaria em Flagstaff, Arizona, um restaurante de frutos-do-mar em Fairhope, Arkansas, e um chef extravagante que levou a gastronomia chinesa a outro nível em Miami.</desc>
+    <credits>
+      <director>Steven Bortko</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S27 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126080000 -0300" stop="20211126082400 -0300" channel="Food Network HD">
+    <title lang="pt">Cozinha à la Fieri</title>
+    <sub-title lang="pt">Guy's Big Bite</sub-title>
+    <desc lang="pt">Guy vai longe com suas costelas de porco, usando as costelas tomahawk com osso e as fritando até ficarem crocantes. Depois, ele as serve com uma colherada de um picante chow chow de tomatillo e tomate verde em uma explosão de sabores em que a Carolina do Norte encontra com o Sul. Para acompanhar, gratinado de batata-doce e cebola com queijo e um drinque de amora para finalizar tudo.</desc>
+    <credits>
+      <actor>Guy Fieri</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S27 E6</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126082400 -0300" stop="20211126084800 -0300" channel="Food Network HD">
+    <title lang="pt">Giada Faz a Festa</title>
+    <sub-title lang="pt">Giada Entertains</sub-title>
+    <desc lang="pt">Giada convida amigos para criar formatos de massa do zero. Eles se deliciam com um menu que inclui as receitas preferidas de sua família: um tipo de nhoque da sardenha com camarão e rúcula e pappardelle com ragu de linguiça.</desc>
+    <date>2020</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S17 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126084800 -0300" stop="20211126091200 -0300" channel="Food Network HD">
+    <title lang="pt">Giada Faz a Festa</title>
+    <sub-title lang="pt">Giada Entertains</sub-title>
+    <desc lang="pt">Giada convida amigos para assistir à televisão e faz bandejas individuais para cada um, com castanhas temperadas, sanduíches de linguiça, cookies de chocolate recheados e mais.</desc>
+    <date>2020</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126091200 -0300" stop="20211126093600 -0300" channel="Food Network HD">
+    <title lang="pt">Receitas Caseiras da Valerie</title>
+    <sub-title lang="pt">Valerie's Home Cooking</sub-title>
+    <desc lang="pt">Valerie bertinelli faz uma "terça-feira do taco", com coberturas e acompanhamentos para seus convidados anjelah johnson e manwell reyes. Ela faz frango tinga, carnitas e arroz com limão e coentro.</desc>
+    <credits>
+      <director>Justin Morong</director>
+      <actor>Valerie Bertinelli</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S5 E2</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126093600 -0300" stop="20211126100000 -0300" channel="Food Network HD">
+    <title lang="pt">Refeição em 30 Minutos</title>
+    <sub-title lang="pt">30 Minute Meals</sub-title>
+    <desc lang="pt">Rachael compartilha suas receitas de hambúrguer. Ela faz hambúrgueres no estilo Oklahoma com cebolas e soro de leite coalhado e especiarias secas no estilo de rancho.</desc>
+    <credits>
+      <actor>Rachael Ray</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S9 E9</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126100000 -0300" stop="20211126102400 -0300" channel="Food Network HD">
+    <title lang="pt">Sabores da América com Michael Symon</title>
+    <sub-title lang="pt">Burgers, Brew &amp; 'que</sub-title>
+    <desc lang="pt">Michael Symon devora um sanduíche de carne desfiada, preparado à moda indiana, e petiscos de cordeiro.</desc>
+    <credits>
+      <director>Maggie Zeltner</director>
+      <actor>Michael Symon</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S28 E2</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126102400 -0300" stop="20211126104800 -0300" channel="Food Network HD">
+    <title lang="pt">Sabores da América com Michael Symon</title>
+    <sub-title lang="pt">Burgers, Brew &amp; 'que</sub-title>
+    <desc lang="pt">Michael Symon prepara uma linguiça em Charleston, na Carolina do Sul, e experimenta pratos típicos locais em Atlanta e Dallas.</desc>
+    <credits>
+      <director>Maggie Zeltner</director>
+      <actor>Michael Symon</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126104800 -0300" stop="20211126113600 -0300" channel="Food Network HD">
+    <title lang="pt">Pequenos Confeiteiros</title>
+    <sub-title lang="pt">Kids Baking Championship</sub-title>
+    <desc lang="pt">Os macarons são sobremesas muito populares, e os decorados com carinhas são uma tendência que chegou para ficar. Valerie Bertinelli e Duff Goldman desafiam nove confeiteiros a criar macarons com carinhas tristes e felizes.</desc>
+    <credits>
+      <actor>Duff Goldman</actor>
+      <actor>Valerie Bertinelli</actor>
+      <actor>Jenna Alnatur</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126113600 -0300" stop="20211126120000 -0300" channel="Food Network HD">
+    <title lang="pt">Duelo Com Bobby Flay</title>
+    <sub-title lang="pt">Beat Bobby Flay</sub-title>
+    <desc lang="pt">Lutar por uma chance de competir com Bobby Flay não é uma tarefa fácil quando a Iron Chef Alex Guarnaschelli e a jurada de "Iron Chef" Donatella Arpaia decidem quem será o vencedor.</desc>
+    <credits>
+      <actor>Bobby Flay</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S6 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126120000 -0300" stop="20211126122400 -0300" channel="Food Network HD">
+    <title lang="pt">Duelo Com Bobby Flay</title>
+    <sub-title lang="pt">Beat Bobby Flay</sub-title>
+    <desc lang="pt">Duas das personalidades mais marcantes do Food Network, Simon Majumdar e Anne Burrellestão, dispostos a dar uma canseira em Bobby Flay, trouxeram dois chefs incríveis para fazer esse trabalho difícil. O chef Miguel Trinidad, de Nova York, e o chef Brian Hill, do Maine, vão duelar por uma chance para enfrentar Bobby Flay.</desc>
+    <credits>
+      <actor>Bobby Flay</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S5 E12</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126122400 -0300" stop="20211126131200 -0300" channel="Food Network HD">
+    <title lang="pt">Na Rota do Sabor</title>
+    <desc lang="pt">Estamos à procura dos 8 melhores restaurantes mexicanos com refeições ambiciosas, que vão além do tradicional prato de arroz com feijão. De um taco de pato à Pequim até enchiladas de peito bovino, vamos encontrar os restaurantes que mais agradam ao público.</desc>
+    <date>2015</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S5 E13</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126131200 -0300" stop="20211126133600 -0300" channel="Food Network HD">
+    <title lang="pt">Patricia Heaton Recebe</title>
+    <sub-title lang="pt">Patricia Heaton Parties</sub-title>
+    <desc lang="pt">Patty organiza uma festa para sua família e prepara espumante com pepino e menta, bolos de caranguejo e muito mais.</desc>
+    <credits>
+      <actor>Patricia Heaton</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S3 E12</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126133600 -0300" stop="20211126140000 -0300" channel="Food Network HD">
+    <title lang="pt">Patricia Heaton Recebe</title>
+    <sub-title lang="pt">Patricia Heaton Parties</sub-title>
+    <desc lang="pt">Patricia Heaton cria um cardápio de festa para um reencontro com o elenco do fime "Mamãe: Operação Balada".</desc>
+    <credits>
+      <actor>Patricia Heaton</actor>
+      <actor>David Hunt</actor>
+      <actor>Brock Ciarlelli</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126140000 -0300" stop="20211126144800 -0300" channel="Food Network HD">
+    <title lang="pt">A Guerra dos Bolos</title>
+    <sub-title lang="pt">Cake Wars</sub-title>
+    <desc lang="pt">A competição vai pegar fogo, e quatro talentosos confeiteiros vão ter de soltar seu dragão interior nessa disputa, para fazer com que seus incríveis bolos sejam a principal atração de uma festa que vai celebrar a franquia "Como Treinar o Seu Dragão". Art Brown e Doug Sloan, produtores executivos de "Dragões: Corrida até o Limite" serão os jurados convidados, e vão ajudar a escolher quem vai ganhar 10 mil dólares e triunfar como um Viking!</desc>
+    <credits>
+      <director>Michael Shea</director>
+      <actor>Jonathan Bennett</actor>
+      <actor>Ron Ben Israel</actor>
+      <actor>Waylynn Lucas</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126144800 -0300" stop="20211126151200 -0300" channel="Food Network HD">
+    <title lang="pt">Brunch com Bobby</title>
+    <sub-title lang="pt">Brunch @ Bobby's</sub-title>
+    <desc lang="pt">Bobby Flay está compartilhando algumas de suas receitas favoritas do seu novo livro!</desc>
+    <credits>
+      <director>April Jones</director>
+      <actor>Bobby Flay</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126151200 -0300" stop="20211126153600 -0300" channel="Food Network HD">
+    <title lang="pt">Lanchonetes Clássicas com Guy Fieri</title>
+    <sub-title lang="pt">Diners, Drive-Ins, And Dives</sub-title>
+    <desc lang="pt">Guy Fieri visita restaurantes com os pratos favoritos dos americanos: hambúrgueres diferentes feitos por pós-graduados em gastronomia em Dallas.</desc>
+    <date>2008</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S7 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126153600 -0300" stop="20211126160000 -0300" channel="Food Network HD">
+    <title lang="pt">Lanchonetes Clássicas com Guy Fieri</title>
+    <sub-title lang="pt">Diners, Drive-Ins, And Dives</sub-title>
+    <desc lang="pt">Guy Fieri encontra vários pratos sendo feitos do zero: em Portland, Oregon, um lugar que faz pãezinhos amanteigados com batata-doce.</desc>
+    <date>2008</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S6 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126160000 -0300" stop="20211126162400 -0300" channel="Food Network HD">
+    <title lang="pt">Sabor Às Cegas</title>
+    <sub-title lang="pt">La Cuoca Bendata</sub-title>
+    <desc lang="pt">Neste episódio, os participantes pertencem à categoria "Comediantes": Daniele, Martina e Renato. Benedetta apresenta o prato que eles devem preparar durante um tempo limitado: massa tipo calamarata.</desc>
+    <credits>
+      <director>Maria Cattolica Sorrentino</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S6 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126162400 -0300" stop="20211126164800 -0300" channel="Food Network HD">
+    <title lang="pt">Refeição em 30 Minutos</title>
+    <sub-title lang="pt">30 Minute Meals</sub-title>
+    <desc lang="pt">Celebre o sabor cítrico com uma refeição picante e saborosa que vai ficar pronta em meia hora. Tagliatelle ao molho carbonara com aspargos grelhados, farinha de rosca com limão, ervas e queijo pecorino; salada de laranja doce e picante.</desc>
+    <date>2011</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S1 E25</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126164800 -0300" stop="20211126171200 -0300" channel="Food Network HD">
+    <title lang="pt">Sabores da Itália</title>
+    <sub-title lang="pt">Everyday Italian</sub-title>
+    <desc lang="pt">Giada De Laurentiis mostra que com poucos itens selecionados do supermercado, qualquer um pode preparar um jantar substancioso e se sentir à vontade na cozinha. As receitas incluem: bolsinhas italianas de hortaliças e peixe; fusilli alla caprese e biscoitos preto e branco.</desc>
+    <credits>
+      <actor>Giada De Laurentiis</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S26 E9</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126171200 -0300" stop="20211126180000 -0300" channel="Food Network HD">
+    <title lang="pt">Pequenos Confeiteiros</title>
+    <sub-title lang="pt">Kids Baking Championship</sub-title>
+    <desc lang="pt">Os 6 confeiteiros mirins devem brincar de impostores, quando valerie bertinelli e duff goldman desafiam a criar bolos que se pareçam com pratos internacionais, como sushi ou kebab, mas que tenham sabor de sobremesa.</desc>
+    <credits>
+      <actor>Duff Goldman</actor>
+      <actor>Valerie Bertinelli</actor>
+      <actor>Paige Goehner</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S11 E15</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126180000 -0300" stop="20211126185100 -0300" channel="Food Network HD">
+    <title lang="pt">O Gênio da Confeitaria</title>
+    <sub-title lang="pt">Sweet Genius</sub-title>
+    <desc lang="pt">Os chefs encontram inspiração em um animal com couraça, em arte que causa espanto e em um penteado que sobe aos céus.</desc>
+    <credits>
+      <director>Michael Pearlman</director>
+      <actor>Ron Ben-Israel</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S7 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126185100 -0300" stop="20211126193900 -0300" channel="Food Network HD">
+    <title lang="pt">Food Network Star: A Próxima Estrela</title>
+    <sub-title lang="pt">Food Network Star</sub-title>
+    <desc lang="pt">O Food Network Star de hoje em dia deve ter uma presença em diversas plataformas. No Desafio do Mentor, Bobby Flay testa a sagacidade nas mídias sociais dos finalistas, ao fazê-los criar um vídeo em selfie de bastidores na cozinha do Food Network Star; para o Desafio da Estrela, os finalistas são agrupados para fazer um vídeo de marketing para a internet para um doce da Hershey's. Os vídeos são gravados em estúdios do YouTube e julgados por dois executivos do YouTube. Qual vídeo vai fazer os jurados vão querer compartilhar e qual fará eles serem deletados da competição?</desc>
+    <credits>
+      <actor>Alton Brown</actor>
+      <actor>Bobby Flay</actor>
+      <actor>Giada De Laurentiis</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126193900 -0300" stop="20211126202700 -0300" channel="Food Network HD">
+    <title lang="pt">Pequenos Confeiteiros</title>
+    <sub-title lang="pt">Kids Baking Championship</sub-title>
+    <desc lang="pt">Valerie Bertinelli e Duff Goldman dividem os oito confeiteiros em equipes. Cada equipe deve preparar a metade de um bolo que combine com a metade da equipe rival, representando opostos como fogo e gelo.</desc>
+    <credits>
+      <actor>Duff Goldman</actor>
+      <actor>Valerie Bertinelli</actor>
+      <actor>Nyah Rosado</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S10 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126202700 -0300" stop="20211126205100 -0300" channel="Food Network HD">
+    <title lang="pt">Duelo Com Bobby Flay</title>
+    <sub-title lang="pt">Beat Bobby Flay</sub-title>
+    <desc lang="pt">Será uma luta contra a correnteza entre o chef de hotéis Roy Breiman e o chef Vaughn Crenshaw por uma chance para derrotar Bobby Flay. O jurado de "Chopped", Scott Conant e o apresentador do "Today Show", Willie Geist, jogam a rede para escolher qual desses dois poderá vencer o Bobby.</desc>
+    <credits>
+      <actor>Bobby Flay</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S6 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126205100 -0300" stop="20211126211500 -0300" channel="Food Network HD">
+    <title lang="pt">Duelo Com Bobby Flay</title>
+    <sub-title lang="pt">Beat Bobby Flay</sub-title>
+    <desc lang="pt">Teremos comida judaica contra comida indiana quando o chef veterano de Nova York, Ric Orlando, duelar contra Kiran Verma, de Houston, por uma chance para derrotar Bobby Flay. A apresentadora do "Worst Cooks in America", Anne Burrell e o chef Spike Mendelsohn levarão seus conhecimentos culinários à arena para derrotarem Bobby Flay!</desc>
+    <credits>
+      <actor>Bobby Flay</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S6 E9</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126211500 -0300" stop="20211126220300 -0300" channel="Food Network HD">
+    <title lang="pt">SOS Restaurante</title>
+    <sub-title lang="pt">Restaurant: Impossible</sub-title>
+    <desc lang="pt">O Papa C's Eastside Café, pode ter a família mais explosiva que o Chef Robert já encarou. Trabalhando juntos, Sal e os três filhos passam mais tempo se acusando do que trabalhando.</desc>
+    <credits>
+      <actor>Robert Irvine</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S6 E10</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126220300 -0300" stop="20211126222700 -0300" channel="Food Network HD">
+    <title lang="pt">Homem vs. Comida</title>
+    <sub-title lang="pt">Man V. Food</sub-title>
+    <desc lang="pt">Casey Webb chega ao Condado de Orange, na Califórnia, para provar um hambúrguer de 1.300 gramas, mergulhado em três das pimentas mais picantes do planeta.</desc>
+    <date>2018</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S9 E13</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126222700 -0300" stop="20211126225100 -0300" channel="Food Network HD">
+    <title lang="pt">Homem vs. Comida</title>
+    <sub-title lang="pt">Man V. Food</sub-title>
+    <desc lang="pt">Casey Webb faz uma verdadeira viagem no tempo quando chega à Palm Springs, Califórnia, onde fica frente a frente com um sanduíche gigantesco, feito com todo tipo de carne imaginável.</desc>
+    <date>2018</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126225100 -0300" stop="20211126231500 -0300" channel="Food Network HD">
+    <title lang="pt">Lanchonetes Clássicas com Guy Fieri</title>
+    <sub-title lang="pt">Diners, Drive-Ins, And Dives</sub-title>
+    <desc lang="pt">Nesta viagem, Guy Fieri visita restaurantes e lanchonetes de sucesso compostos somente por mulheres em Houston e em Orlando.</desc>
+    <date>2011</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126231500 -0300" stop="20211126233900 -0300" channel="Food Network HD">
+    <title lang="pt">Lanchonetes Clássicas com Guy Fieri</title>
+    <sub-title lang="pt">Diners, Drive-Ins, And Dives</sub-title>
+    <desc lang="pt">Nesta viagem, Guy Fieri mergulha nas tradições de culturas diferentes, visitando um restaurante mexicano em Houston e uma delicatéssen judaica sobre rodas em Orlando.</desc>
+    <date>2011</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S26 E10</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125000000 -0300" stop="20211125030000 -0300" channel="Fox News">
+    <title lang="pt">Fox &amp; Friends</title>
+    <desc lang="pt">Um irreverente programa onde os âncoras Gretchen Carlson, Steve Doocy and Brian Kilmeade destacam as últimas notícias, meteorologia, esportes e lazer com um discurso espontâneo e casual. O segmento diário de assinatura ?Around Watercooler? consiste de um bate-papo ao vivo sobre os fatos do dia com locutores de rádio, celebridades ou colunistas.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125030000 -0300" stop="20211125050000 -0300" channel="Fox News">
+    <title lang="pt">America's Newsroom</title>
+    <desc lang="pt">Bill Hemmer e Dana Perino apresentam as histórias que fazem manchetes em todo o mundo. Convidados especiais são entrevistados e os e-mails dos telespectadores são respondidos pelos âncoras e convidados.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125050000 -0300" stop="20211125060000 -0300" channel="Fox News">
+    <title lang="pt">The Faulkner Focus</title>
+    <desc lang="pt">A jornalista Harris Faulkner comenta as notícias mais recentes com uma análise perspicaz e perspectiva das últimas novidades da política internacional.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125060000 -0300" stop="20211125070000 -0300" channel="Fox News">
+    <title lang="pt">Outnumbered</title>
+    <desc lang="pt">Quatro mulheres e um homem mostram suas perspectivas sobre as principais notícias do dia.</desc>
+    <category lang="pt">Variedades (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125070000 -0300" stop="20211125090000 -0300" channel="Fox News">
+    <title lang="pt">America Reports</title>
+    <desc lang="pt">Confira as últimas notícias e manchetes com Sandra Smith e John Roberts.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125090000 -0300" stop="20211125100000 -0300" channel="Fox News">
+    <title lang="pt">The Story Fox News Live</title>
+    <desc lang="pt">Martha MacCallum cobre todos os acontecimentos na capital dos Estados Unidos e mantém os espectadores atualizados sobre as decisões críticas, manobras políticas e desenvolvimentos importantes que vêm de Washington DC.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125100000 -0300" stop="20211125110000 -0300" channel="Fox News">
+    <title lang="pt">Your World</title>
+    <desc lang="pt">Informação prática e útil sobre as últimas atividades desde a Wall Street até Silicon Valley e Hong Kong. Entrevistas com administradores financeiros e CEO's que modelam o mercado.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125110000 -0300" stop="20211125120000 -0300" channel="Fox News">
+    <title lang="pt">The Five</title>
+    <desc lang="pt">Assista à mesa redonda formada por personalidades da Fox News para discutir notícias.</desc>
+    <category lang="pt">Variedades (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125120000 -0300" stop="20211125130000 -0300" channel="Fox News">
+    <title lang="pt">Special Report</title>
+    <desc lang="pt">As notícias mais recentes com ênfase na política de Washington, D.C.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125130000 -0300" stop="20211125140000 -0300" channel="Fox News">
+    <title lang="pt">Fox News Primetime</title>
+    <desc lang="pt">Um grupo rotativo de anfitriões traz seus pontos de vista para a mesa conforme entrevista os convidados; uma análise dos eventos que acontecem em todo o país, adicionando contexto e perspectiva às notícias do dia.</desc>
+    <category lang="pt">Variedades (Entrevista)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125140000 -0300" stop="20211125150000 -0300" channel="Fox News">
+    <title lang="pt">Tucker Carlson Tonight</title>
+    <desc lang="pt">Confira as análises e debates com participação personalidades da política e do cenário cultural.</desc>
+    <category lang="pt">Variedades (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125150000 -0300" stop="20211125160000 -0300" channel="Fox News">
+    <title lang="pt">Hannity</title>
+    <desc lang="pt">Sean Hannity comenta as principais e mais relevantes notícias do dia.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125160000 -0300" stop="20211125170000 -0300" channel="Fox News">
+    <title lang="pt">The Ingraham Angle</title>
+    <desc lang="pt">Laura Ingraham fala com pessoas inesperadas e que sentem no cotidiano o impacto das notícias.</desc>
+    <category lang="pt">Variedades (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125170000 -0300" stop="20211125180000 -0300" channel="Fox News">
+    <title lang="pt">Gutfeld!</title>
+    <desc lang="pt">Greg Gutfeld analisa as notícias do dia através de lentes satíricas fundidas com a cultura pop.</desc>
+    <category lang="pt">Variedades (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125180000 -0300" stop="20211125190000 -0300" channel="Fox News">
+    <title lang="pt">Special Report</title>
+    <desc lang="pt">As notícias mais recentes com ênfase na política de Washington, D.C.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125190000 -0300" stop="20211125200000 -0300" channel="Fox News">
+    <title lang="pt">Tucker Carlson Tonight</title>
+    <desc lang="pt">Confira as análises e debates com participação personalidades da política e do cenário cultural.</desc>
+    <category lang="pt">Variedades (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125200000 -0300" stop="20211125210000 -0300" channel="Fox News">
+    <title lang="pt">Hannity</title>
+    <desc lang="pt">Sean Hannity comenta as principais e mais relevantes notícias do dia.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125210000 -0300" stop="20211125220000 -0300" channel="Fox News">
+    <title lang="pt">The Ingraham Angle</title>
+    <desc lang="pt">Laura Ingraham fala com pessoas inesperadas e que sentem no cotidiano o impacto das notícias.</desc>
+    <category lang="pt">Variedades (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125220000 -0300" stop="20211126000000 -0300" channel="Fox News">
+    <title lang="pt">Fox &amp; Friends First</title>
+    <desc lang="pt">Confira as notícias que foram transmitidas durante o dia, comentadas por convidados.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126000000 -0300" stop="20211126030000 -0300" channel="Fox News">
+    <title lang="pt">Fox &amp; Friends</title>
+    <desc lang="pt">Um irreverente programa onde os âncoras Gretchen Carlson, Steve Doocy and Brian Kilmeade destacam as últimas notícias, meteorologia, esportes e lazer com um discurso espontâneo e casual. O segmento diário de assinatura ?Around Watercooler? consiste de um bate-papo ao vivo sobre os fatos do dia com locutores de rádio, celebridades ou colunistas.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126030000 -0300" stop="20211126050000 -0300" channel="Fox News">
+    <title lang="pt">America's Newsroom</title>
+    <desc lang="pt">Bill Hemmer e Dana Perino apresentam as histórias que fazem manchetes em todo o mundo. Convidados especiais são entrevistados e os e-mails dos telespectadores são respondidos pelos âncoras e convidados.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126050000 -0300" stop="20211126060000 -0300" channel="Fox News">
+    <title lang="pt">The Faulkner Focus</title>
+    <desc lang="pt">A jornalista Harris Faulkner comenta as notícias mais recentes com uma análise perspicaz e perspectiva das últimas novidades da política internacional.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126060000 -0300" stop="20211126070000 -0300" channel="Fox News">
+    <title lang="pt">Outnumbered</title>
+    <desc lang="pt">Quatro mulheres e um homem mostram suas perspectivas sobre as principais notícias do dia.</desc>
+    <category lang="pt">Variedades (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126070000 -0300" stop="20211126090000 -0300" channel="Fox News">
+    <title lang="pt">America Reports</title>
+    <desc lang="pt">Confira as últimas notícias e manchetes com Sandra Smith e John Roberts.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126090000 -0300" stop="20211126100000 -0300" channel="Fox News">
+    <title lang="pt">The Story Fox News Live</title>
+    <desc lang="pt">Martha MacCallum cobre todos os acontecimentos na capital dos Estados Unidos e mantém os espectadores atualizados sobre as decisões críticas, manobras políticas e desenvolvimentos importantes que vêm de Washington DC.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126100000 -0300" stop="20211126110000 -0300" channel="Fox News">
+    <title lang="pt">Your World</title>
+    <desc lang="pt">Informação prática e útil sobre as últimas atividades desde a Wall Street até Silicon Valley e Hong Kong. Entrevistas com administradores financeiros e CEO's que modelam o mercado.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126110000 -0300" stop="20211126120000 -0300" channel="Fox News">
+    <title lang="pt">The Five</title>
+    <desc lang="pt">Assista à mesa redonda formada por personalidades da Fox News para discutir notícias.</desc>
+    <category lang="pt">Variedades (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126120000 -0300" stop="20211126130000 -0300" channel="Fox News">
+    <title lang="pt">Special Report</title>
+    <desc lang="pt">As notícias mais recentes com ênfase na política de Washington, D.C.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126130000 -0300" stop="20211126140000 -0300" channel="Fox News">
+    <title lang="pt">Fox News Primetime</title>
+    <desc lang="pt">Um grupo rotativo de anfitriões traz seus pontos de vista para a mesa conforme entrevista os convidados; uma análise dos eventos que acontecem em todo o país, adicionando contexto e perspectiva às notícias do dia.</desc>
+    <category lang="pt">Variedades (Entrevista)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126140000 -0300" stop="20211126150000 -0300" channel="Fox News">
+    <title lang="pt">Tucker Carlson Tonight</title>
+    <desc lang="pt">Confira as análises e debates com participação personalidades da política e do cenário cultural.</desc>
+    <category lang="pt">Variedades (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126150000 -0300" stop="20211126160000 -0300" channel="Fox News">
+    <title lang="pt">Hannity</title>
+    <desc lang="pt">Sean Hannity comenta as principais e mais relevantes notícias do dia.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126160000 -0300" stop="20211126170000 -0300" channel="Fox News">
+    <title lang="pt">The Ingraham Angle</title>
+    <desc lang="pt">Laura Ingraham fala com pessoas inesperadas e que sentem no cotidiano o impacto das notícias.</desc>
+    <category lang="pt">Variedades (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126170000 -0300" stop="20211126180000 -0300" channel="Fox News">
+    <title lang="pt">Gutfeld!</title>
+    <desc lang="pt">Greg Gutfeld analisa as notícias do dia através de lentes satíricas fundidas com a cultura pop.</desc>
+    <category lang="pt">Variedades (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126180000 -0300" stop="20211126190000 -0300" channel="Fox News">
+    <title lang="pt">Special Report</title>
+    <desc lang="pt">As notícias mais recentes com ênfase na política de Washington, D.C.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126190000 -0300" stop="20211126200000 -0300" channel="Fox News">
+    <title lang="pt">Tucker Carlson Tonight</title>
+    <desc lang="pt">Confira as análises e debates com participação personalidades da política e do cenário cultural.</desc>
+    <category lang="pt">Variedades (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126200000 -0300" stop="20211126210000 -0300" channel="Fox News">
+    <title lang="pt">Hannity</title>
+    <desc lang="pt">Sean Hannity comenta as principais e mais relevantes notícias do dia.</desc>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126210000 -0300" stop="20211126230000 -0300" channel="Fox News">
+    <title lang="pt">The Ingraham Angle</title>
+    <desc lang="pt">Laura Ingraham fala com pessoas inesperadas e que sentem no cotidiano o impacto das notícias.</desc>
+    <category lang="pt">Variedades (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125001500 -0300" stop="20211125020000 -0300" channel="Fox Sports">
+    <title lang="pt">Barcelona (ECU) x Flamengo</title>
+    <desc lang="pt">A Verdadeira Obsessão Dos Clubes Da América Do Sul E A Grande Paixão Dos Torcedores. A Conmebol Libertadores Reúne Todos Os Anos As Melhores Equipes De Brasil, Argentina E Outros Países.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125020000 -0300" stop="20211125040000 -0300" channel="Fox Sports">
+    <title lang="pt">ESPN FC</title>
+    <desc lang="pt">Fique Por Dentro Das Últimas Notícias E Análises Do Futebol. Diretamente Dos Estádios, Os Repórteres Trazem Informações Exclusivas Sobre Os Confrontos Do Dia. Um Guia Completo Para Acompanhar A Rodada.</desc>
+    <category lang="pt">Esporte (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125040000 -0300" stop="20211125060000 -0300" channel="Fox Sports">
+    <title lang="pt">Bristol City x Stoke City</title>
+    <desc lang="pt">Conhecida Como The Championship, A Segunda Divisão Do Futebol Inglês Reúne Diversas Equipes De Tradição Secular E Altas Médias De Público. Paixão Incondicional E A Luta Pela Vaga Na Divisão De Elite.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125060000 -0300" stop="20211125080000 -0300" channel="Fox Sports">
+    <title lang="pt">Conmebol Libertadores Feminina: Independiente Santa Fe (col) x Corinthians</title>
+    <desc lang="pt">A Verdadeira Obsessão Dos Clubes Da América Do Sul E A Grande Paixão Dos Torcedores. A Conmebol Libertadores Reúne Todos Os Anos As Melhores Equipes De Brasil, Argentina E Outros Países.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125080000 -0300" stop="20211125083000 -0300" channel="Fox Sports">
+    <title lang="pt">Mundo Premier League</title>
+    <desc lang="pt">Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125083000 -0300" stop="20211125084500 -0300" channel="Fox Sports">
+    <title lang="pt">Narra Quem Sabe</title>
+    <desc lang="pt">'Narra Quem Sabe ESPN' irá revelaros novos talentos femininos da narração. Este novo programa tem como objetivo abrir mais caminhos para as mulheres que almejam ser narradoras.</desc>
+    <category lang="pt">Esporte (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125084500 -0300" stop="20211125104500 -0300" channel="Fox Sports">
+    <title lang="pt">Independiente x Boca Juniors</title>
+    <desc lang="pt">A paixão nas arquibancadas e as disputas emocionantes dentro de campo. A Liga Profissional de Futebol da Argentina reúne as equipes da primeira divisão do país em um combo perfeito para os mais fanáticos torcedores.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125104500 -0300" stop="20211125111500 -0300" channel="Fox Sports">
+    <title lang="pt">Glória Eterna - Especial palmeiras</title>
+    <desc lang="pt">Especial com o melhor conteúdo dos canais ESPN.</desc>
+    <category lang="pt">Documentário (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125111500 -0300" stop="20211125114500 -0300" channel="Fox Sports">
+    <title lang="pt">Glória Eterna - Especial palmeiras</title>
+    <desc lang="pt">Especial com o melhor conteúdo dos canais ESPN.</desc>
+    <category lang="pt">Documentário (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125114500 -0300" stop="20211125124500 -0300" channel="Fox Sports">
+    <title lang="pt">Glória Eterna - Especial palmeiras</title>
+    <desc lang="pt">Especial com o melhor conteúdo dos canais ESPN.</desc>
+    <category lang="pt">Documentário (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125124500 -0300" stop="20211125143000 -0300" channel="Fox Sports">
+    <title lang="pt">Spartak Moscow x Napoli</title>
+    <desc lang="pt">A Uefa Europa League É A Segunda Competição Continental Mais Importante Da Europa. Veja Clubes Tradicionais Em Busca Do Título E Também Do Prêmio Principal: Uma Vaga Na Uefa Champions League.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125143000 -0300" stop="20211125164500 -0300" channel="Fox Sports">
+    <title lang="pt">Galatasaray x Olympique de Marselha</title>
+    <desc lang="pt">A Uefa Europa League É A Segunda Competição Continental Mais Importante Da Europa. Veja Clubes Tradicionais Em Busca Do Título E Também Do Prêmio Principal: Uma Vaga Na Uefa Champions League.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125164500 -0300" stop="20211125190000 -0300" channel="Fox Sports">
+    <title lang="pt">Monaco x Real Sociedad</title>
+    <desc lang="pt">A Uefa Europa League É A Segunda Competição Continental Mais Importante Da Europa. Veja Clubes Tradicionais Em Busca Do Título E Também Do Prêmio Principal: Uma Vaga Na Uefa Champions League.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125190000 -0300" stop="20211125193000 -0300" channel="Fox Sports">
+    <title lang="pt">Especial Reflexões: Roger Machado</title>
+    <desc lang="pt">Os jornalistas do time ESPN falam sobre a carreira, a cobertura de grandes eventos, além de histórias curiosas e marcantes de sua trajetória profissional.</desc>
+    <date>2021</date>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125193000 -0300" stop="20211125200000 -0300" channel="Fox Sports">
+    <title lang="pt">Glória Eterna - Especial palmeiras</title>
+    <desc lang="pt">Especial com o melhor conteúdo dos canais ESPN.</desc>
+    <category lang="pt">Documentário (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125200000 -0300" stop="20211125202500 -0300" channel="Fox Sports">
+    <title lang="pt">Glória Eterna - Especial palmeiras</title>
+    <desc lang="pt">Especial com o melhor conteúdo dos canais ESPN.</desc>
+    <category lang="pt">Documentário (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125202500 -0300" stop="20211125212500 -0300" channel="Fox Sports">
+    <title lang="pt">Glória Eterna " A Hora Da Verdade "</title>
+    <desc lang="pt">Especial com o melhor conteúdo dos canais ESPN.</desc>
+    <category lang="pt">Documentário (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125212500 -0300" stop="20211125233000 -0300" channel="Fox Sports">
+    <title lang="pt">River Plate x Racing Club</title>
+    <desc lang="pt">A Paixão Nas Arquibancadas E As Disputas Emocionantes Dentro De Campo. A Liga Profissional De Futebol Da Argentina Reúne As Equipes Da Primeira Divisão Do País.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125233000 -0300" stop="20211126000000 -0300" channel="Fox Sports">
+    <title lang="pt">Show da Rodada: Serie A</title>
+    <desc lang="pt">Fique por dentro de tudo o que aconteceu na última rodada da Serie A, o Campeonato Italiano de futebol. Todos os gols e os principais lances deste charmoso e tradicional torneio.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126000000 -0300" stop="20211126020000 -0300" channel="Fox Sports">
+    <title lang="pt">Ns Mura x Tottenham</title>
+    <desc lang="pt">Considerada A Terceira Competição Europeia Mais Importante, Atrás Da Uefa Champions League E Da Uefa Europa League, A Uefa Europa Conference League Reúne 32 Equipas Que Vão Buscar O Maior Prémio Numa Competição 100% Inclusiva.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126020000 -0300" stop="20211126040000 -0300" channel="Fox Sports">
+    <title lang="pt">ESPN FC</title>
+    <desc lang="pt">Fique Por Dentro Das Últimas Notícias E Análises Do Futebol. Diretamente Dos Estádios, Os Repórteres Trazem Informações Exclusivas Sobre Os Confrontos Do Dia. Um Guia Completo Para Acompanhar A Rodada.</desc>
+    <category lang="pt">Esporte (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126040000 -0300" stop="20211126060000 -0300" channel="Fox Sports">
+    <title lang="pt">Roma x Zorya Luhansk</title>
+    <desc lang="pt">Considerada A Terceira Competição Europeia Mais Importante, Atrás Da Uefa Champions League E Da Uefa Europa League, A Uefa Europa Conference League Reúne 32 Equipas Que Vão Buscar O Maior Prémio Numa Competição 100% Inclusiva.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126060000 -0300" stop="20211126080000 -0300" channel="Fox Sports">
+    <title lang="pt">River Plate x Racing Club</title>
+    <desc lang="pt">A Paixão Nas Arquibancadas E As Disputas Emocionantes Dentro De Campo. A Liga Profissional De Futebol Da Argentina Reúne As Equipes Da Primeira Divisão Do País.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126080000 -0300" stop="20211126100000 -0300" channel="Fox Sports">
+    <title lang="pt">Monaco x Real Sociedad</title>
+    <desc lang="pt">A Uefa Europa League É A Segunda Competição Continental Mais Importante Da Europa. Veja Clubes Tradicionais Em Busca Do Título E Também Do Prêmio Principal: Uma Vaga Na Uefa Champions League.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126100000 -0300" stop="20211126115500 -0300" channel="Fox Sports">
+    <title lang="pt">Lazio x Juventus</title>
+    <desc lang="pt">Os Grandes Clubes Do Futebol Italiano Batalham Pela Conquista Do Scudetto. Tradição, Força E Disciplina Tática Marcam As Emocionantes Disputas Da Serie A.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126115500 -0300" stop="20211126140000 -0300" channel="Fox Sports">
+    <title lang="pt">Eliminatórias da Copa do Mundo Feminina: Alemanha x Turquia</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol Feminino)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126140000 -0300" stop="20211126154500 -0300" channel="Fox Sports">
+    <title lang="pt">Manchester City x Everton</title>
+    <desc lang="pt">Grandes Craques, Estádios Históricos, Equipes De Peso, Torcedores Fanáticos E Técnicos Renomados. A Premier League É A Elite Do Futebol Inglês E Um Dos Melhores Campeonatos De Futebol Do Mundo.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126154500 -0300" stop="20211126164500 -0300" channel="Fox Sports">
+    <title lang="pt">Bola da Vez: Zico</title>
+    <desc lang="pt">Grandes nomes do esporte em uma conversa franca, direta e, muitas vezes, reveladora. Passado, presente e os projetos para o futuro. Todo sábado, após o Sportscenter, na ESPN Brasil, sob o comando de André Plihal.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126164500 -0300" stop="20211126165500 -0300" channel="Fox Sports">
+    <title lang="pt">Abre o Jogo: Campeonato Espanhol</title>
+    <desc lang="pt">Abertura da transmissão das grandes competições esportivas. Análises completas, materiais exclusivos e todas as últimas notícias sobre o evento que virá a seguir.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126165500 -0300" stop="20211126190000 -0300" channel="Fox Sports">
+    <title lang="pt">Athletic Bilbao x Granada</title>
+    <desc lang="pt">A Liga Das Estrelas Reúne Os Mais Fantásticos Jogadores Do Futebol Mundial. Barça, Real Madrid, Atletico De Madrid Grandes Equipes Em Busca Do Título Mais Cobiçado.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126190000 -0300" stop="20211126200000 -0300" channel="Fox Sports">
+    <title lang="pt">Bola da Vez: Zico</title>
+    <desc lang="pt">Grandes nomes do esporte em uma conversa franca, direta e, muitas vezes, reveladora. Passado, presente e os projetos para o futuro. Todo sábado, após o Sportscenter, na ESPN Brasil, sob o comando de André Plihal.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126200000 -0300" stop="20211126210000 -0300" channel="Fox Sports">
+    <title lang="pt">Destaques Da Uefa Europa &amp; Conference League: Matchday 5</title>
+    <desc lang="pt">Um resumo completo sobre a última rodada da UEFA Europa League, o segundo maior torneio de futebol do continente.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126210000 -0300" stop="20211126220000 -0300" channel="Fox Sports">
+    <title lang="pt">Glória Eterna " A Hora Da Verdade "</title>
+    <desc lang="pt">Especial com o melhor conteúdo dos canais ESPN.</desc>
+    <category lang="pt">Documentário (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125010000 -0300" stop="20211125020000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Resenha: Junior Baiano</title>
+    <desc lang="pt">Comandado por André Plihal, o programa recebe semanalmente jogadores e ex-jogadores de futebol para a resenha. Papo solto, cheio de histórias de um jeito bem moleque. Eleito quatro vezes como o Melhor Programa Esportivo da Televisão Brasileira pelos próprios jogadores do Campeonato Brasileiro.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125020000 -0300" stop="20211125040000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Rugby: Amistoso Internacional: Inglaterra x Africa Do Sul</title>
+    <desc lang="pt">A melhor programação de rugby está nos canais ESPN. Acompanhe os mais talentosos jogadores do mundo em disputas internacionais.</desc>
+    <category lang="pt">Esporte (Rugby)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125040000 -0300" stop="20211125060000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Vitória x Botafogo PB</title>
+    <desc lang="pt">Na Tela Dos Canais Fox Sports, Acompanhe Um Dos Campeonatos Regionais Mais Importantes Do País, O "nordestão".</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125060000 -0300" stop="20211125080000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Rayo Vallecano x Mallorca</title>
+    <desc lang="pt">A Liga Das Estrelas Reúne Os Mais Fantásticos Jogadores Do Futebol Mundial. Barça, Real Madrid, Atletico De Madrid Grandes Equipes Em Busca Do Título Mais Cobiçado.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125080000 -0300" stop="20211125110000 -0300" channel="Fox Sports 2">
+    <title lang="pt">NFL: Dallas Cowboys x Kansas City Chiefs</title>
+    <desc lang="pt">Touchdowns, Viradas Espetaculares, Jogadas Que Entram Para A História E Os Melhores Atletas Em Campo. A Nfl Reúne A Elite Do Futebol Americano.</desc>
+    <category lang="pt">Esporte (Futebol Americano)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125110000 -0300" stop="20211125130000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Bristol City x Stoke City</title>
+    <desc lang="pt">Conhecida Como The Championship, A Segunda Divisão Do Futebol Inglês Reúne Diversas Equipes De Tradição Secular E Altas Médias De Público. Paixão Incondicional E A Luta Pela Vaga Na Divisão De Elite.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125130000 -0300" stop="20211125150000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Coventry City x Birmingham City</title>
+    <desc lang="pt">Conhecida Como The Championship, A Segunda Divisão Do Futebol Inglês Reúne Diversas Equipes De Tradição Secular E Altas Médias De Público. Paixão Incondicional E A Luta Pela Vaga Na Divisão De Elite.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125150000 -0300" stop="20211125170000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Conmebol Libertadores Feminina: Independiente Santa Fe (col) x Corinthians</title>
+    <desc lang="pt">A Verdadeira Obsessão Dos Clubes Da América Do Sul E A Grande Paixão Dos Torcedores. A Conmebol Libertadores Reúne Todos Os Anos As Melhores Equipes De Brasil, Argentina E Outros Países.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125170000 -0300" stop="20211125180000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Resenha: Junior Baiano</title>
+    <desc lang="pt">Comandado por André Plihal, o programa recebe semanalmente jogadores e ex-jogadores de futebol para a resenha. Papo solto, cheio de histórias de um jeito bem moleque. Eleito quatro vezes como o Melhor Programa Esportivo da Televisão Brasileira pelos próprios jogadores do Campeonato Brasileiro.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125180000 -0300" stop="20211125181500 -0300" channel="Fox Sports 2">
+    <title lang="pt">Narra Quem Sabe</title>
+    <desc lang="pt">'Narra Quem Sabe ESPN' irá revelaros novos talentos femininos da narração. Este novo programa tem como objetivo abrir mais caminhos para as mulheres que almejam ser narradoras.</desc>
+    <category lang="pt">Esporte (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125181500 -0300" stop="20211125184500 -0300" channel="Fox Sports 2">
+    <title lang="pt">Mundial de Motocross</title>
+    <desc lang="pt">"O Principal Campeonato De Motocross Do Mundo Desde 1957, É Dividido Em 3 Categorias: Mx1, Mx2 E Mx3, Atualmente Consiste Em 16 Competições.".</desc>
+    <category lang="pt">Esporte (Radical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125184500 -0300" stop="20211125193500 -0300" channel="Fox Sports 2">
+    <title lang="pt">WWE Main Event</title>
+    <desc lang="pt">O WWE é a principal organização de Pro Wrestling no mundo e reúne as maiores estrelas da modalidade em fantásticos combates de tirar o fôlego.</desc>
+    <category lang="pt">Esporte (Luta)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125193500 -0300" stop="20211125203500 -0300" channel="Fox Sports 2">
+    <title lang="pt">Bola da Vez: Zico</title>
+    <desc lang="pt">Grandes nomes do esporte em uma conversa franca, direta e, muitas vezes, reveladora. Passado, presente e os projetos para o futuro. Todo sábado, após o Sportscenter, na ESPN Brasil, sob o comando de André Plihal.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125203500 -0300" stop="20211125210000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Além da Bola: André Balada</title>
+    <desc lang="pt">Especial com o melhor conteúdo dos canais ESPN.</desc>
+    <category lang="pt">Documentário (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125210000 -0300" stop="20211125230000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Rugby: Amistoso Internacional: Irlanda x Argentina</title>
+    <desc lang="pt">A melhor programação de rugby está nos canais ESPN. Acompanhe os mais talentosos jogadores do mundo em disputas internacionais.</desc>
+    <category lang="pt">Esporte (Rugby)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125230000 -0300" stop="20211126010000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Rugby: Amistoso Internacional: França x Nova Zelândia</title>
+    <desc lang="pt">A melhor programação de rugby está nos canais ESPN. Acompanhe os mais talentosos jogadores do mundo em disputas internacionais.</desc>
+    <category lang="pt">Esporte (Rugby)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126010000 -0300" stop="20211126020000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Bola da Vez: Zico</title>
+    <desc lang="pt">Grandes nomes do esporte em uma conversa franca, direta e, muitas vezes, reveladora. Passado, presente e os projetos para o futuro. Todo sábado, após o Sportscenter, na ESPN Brasil, sob o comando de André Plihal.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126020000 -0300" stop="20211126040000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Spartak Moscow x Napoli</title>
+    <desc lang="pt">A Uefa Europa League É A Segunda Competição Continental Mais Importante Da Europa. Veja Clubes Tradicionais Em Busca Do Título E Também Do Prêmio Principal: Uma Vaga Na Uefa Champions League.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126040000 -0300" stop="20211126060000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Conmebol Libertadores Feminina: Independiente Santa Fe (col) x Corinthians</title>
+    <desc lang="pt">A Verdadeira Obsessão Dos Clubes Da América Do Sul E A Grande Paixão Dos Torcedores. A Conmebol Libertadores Reúne Todos Os Anos As Melhores Equipes De Brasil, Argentina E Outros Países.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126060000 -0300" stop="20211126063000 -0300" channel="Fox Sports 2">
+    <title lang="pt">WRC</title>
+    <desc lang="pt">O Campeonato Mundial de Rally (WRC) é disputado em atmosferas totalmente diferentes. Vai desde o clima frio e congelante da Escandinávia até o forte calor da Jordânia.</desc>
+    <category lang="pt">Esporte (Radical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126063000 -0300" stop="20211126083000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Bristol City x Stoke City</title>
+    <desc lang="pt">Conhecida Como The Championship, A Segunda Divisão Do Futebol Inglês Reúne Diversas Equipes De Tradição Secular E Altas Médias De Público. Paixão Incondicional E A Luta Pela Vaga Na Divisão De Elite.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126083000 -0300" stop="20211126103000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Rugby: Amistoso Internacional: Inglaterra x Africa Do Sul</title>
+    <desc lang="pt">A melhor programação de rugby está nos canais ESPN. Acompanhe os mais talentosos jogadores do mundo em disputas internacionais.</desc>
+    <category lang="pt">Esporte (Rugby)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126103000 -0300" stop="20211126111500 -0300" channel="Fox Sports 2">
+    <title lang="pt">WRC</title>
+    <desc lang="pt">O Campeonato Mundial de Rally (WRC) é disputado em atmosferas totalmente diferentes. Vai desde o clima frio e congelante da Escandinávia até o forte calor da Jordânia.</desc>
+    <category lang="pt">Esporte (Radical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126111500 -0300" stop="20211126130000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Granada x Real Madrid</title>
+    <desc lang="pt">A Liga Das Estrelas Reúne Os Mais Fantásticos Jogadores Do Futebol Mundial. Barça, Real Madrid, Atletico De Madrid Grandes Equipes Em Busca Do Título Mais Cobiçado.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126130000 -0300" stop="20211126140000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Bola da Vez: Zico</title>
+    <desc lang="pt">Grandes nomes do esporte em uma conversa franca, direta e, muitas vezes, reveladora. Passado, presente e os projetos para o futuro. Todo sábado, após o Sportscenter, na ESPN Brasil, sob o comando de André Plihal.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126140000 -0300" stop="20211126160000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Campeonato Argentino</title>
+    <desc lang="pt">A Paixão Nas Arquibancadas E As Disputas Emocionantes Dentro De Campo. A Liga Profissional De Futebol Da Argentina Reúne As Equipes Da Primeira Divisão Do País Em Um Combo Perfeito Para Os Mais Fanáticos Torcedores.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126160000 -0300" stop="20211126180000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Vitória x Botafogo PB</title>
+    <desc lang="pt">Na Tela Dos Canais Fox Sports, Acompanhe Um Dos Campeonatos Regionais Mais Importantes Do País, O "nordestão".</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126180000 -0300" stop="20211126200000 -0300" channel="Fox Sports 2">
+    <title lang="pt">Barcelona (ECU) x Flamengo</title>
+    <desc lang="pt">A Verdadeira Obsessão Dos Clubes Da América Do Sul E A Grande Paixão Dos Torcedores. A Conmebol Libertadores Reúne Todos Os Anos As Melhores Equipes De Brasil, Argentina E Outros Países.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126200000 -0300" stop="20211126220000 -0300" channel="Fox Sports 2">
+    <title lang="pt">River Plate x Racing Club</title>
+    <desc lang="pt">A Paixão Nas Arquibancadas E As Disputas Emocionantes Dentro De Campo. A Liga Profissional De Futebol Da Argentina Reúne As Equipes Da Primeira Divisão Do País.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
 </tv>
