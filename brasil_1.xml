@@ -37802,4 +37802,3696 @@
       <value>12</value>
     </rating>
   </programme>
+  <programme start="20211125021000 -0300" stop="20211125025500 -0300" channel="HBO Signature">
+    <title lang="pt">Liberdade</title>
+    <sub-title lang="pt">Libertad</sub-title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125025500 -0300" stop="20211125032500 -0300" channel="HBO Signature">
+    <title lang="pt">Axios</title>
+    <desc lang="pt">Os assuntos que definem o futuro do mundo são abordados de forma ágil, inteligente e investigativa na quarta temporada de Axios.</desc>
+    <credits>
+      <actor>Mike Allen</actor>
+      <actor>Jonathan Swan</actor>
+      <actor>Jim VandeHei</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211125032500 -0300" stop="20211125050500 -0300" channel="HBO Signature">
+    <title lang="pt">Transhood: Crescer Transgênero</title>
+    <sub-title lang="pt">Transhood</sub-title>
+    <desc lang="pt">Neste documentário original HBO, a diretora Sharon Liese acompanha, ao longo de cinco anos, a vida de quatro crianças transgênero, construindo um retrato tocante e cheio de humanidade sobre a diferença.</desc>
+    <credits>
+      <director>Sharon Liese</director>
+      <actor>Avery Jackson</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme (Documentário)</category>
+    <episode-num system="onscreen">S4 E18</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125050500 -0300" stop="20211125060000 -0300" channel="HBO Signature">
+    <title lang="pt">Drew Michael</title>
+    <desc lang="pt">O monólogo sombrio e cômico de Michael levanta questões de identidade, narrativa, autoconsciência e os limites da comédia stand-up.</desc>
+    <credits>
+      <director>Jerrod Carmichael</director>
+      <actor>Drew Michael</actor>
+      <actor>Suki Waterhouse</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125060000 -0300" stop="20211125071300 -0300" channel="HBO Signature">
+    <title lang="pt">Heidi Fleiss: A Madame de Crystal</title>
+    <sub-title lang="pt">Heidi Fleiss: The Would- Be Madam of Crystal</sub-title>
+    <desc lang="pt">A polêmica cafetina de Hollywood, Heidi Fleiss, planeja abrir um bordel em Nevada. Não será uma tarefa fácil, pois encontra oposição das autoridades locais e dos moradores.</desc>
+    <credits>
+      <director>Fenton Bailey</director>
+      <director>Randy Barbato</director>
+      <actor>Anthony L. De Meo</actor>
+      <actor>Heidi Fleiss</actor>
+      <actor>Monique La Barr</actor>
+      <actor>Tom Slaughter</actor>
+    </credits>
+    <category lang="pt">Filme (Documentário)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211125071300 -0300" stop="20211125090500 -0300" channel="HBO Signature">
+    <title lang="pt">Temple Grandin</title>
+    <desc lang="pt">Temple Grandin é uma jovem perseverante que decide enfrentar o autismo. O filme mostra o crescimento de Grandin, sua vida estudantil e o apoio familiar. Sem dúvida, seu esforço a converteu em uma brilhante cientista.</desc>
+    <credits>
+      <director>Mick Jackson</director>
+      <actor>Claire Danes</actor>
+      <actor>Catherine O'Hara</actor>
+      <actor>Julia Ormond</actor>
+      <actor>David Strathairn</actor>
+      <actor>Charles Baker</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125090500 -0300" stop="20211125105500 -0300" channel="HBO Signature">
+    <title lang="pt">Diga o Nome Dela: A Vida e a Morte de Sandra Bland</title>
+    <sub-title lang="pt">Say Her Name: The Life And Death Of Sandra Bland</sub-title>
+    <desc lang="pt">Explora a morte de Sandra Bland, uma afro-americana politicamente ativa que, depois de ser presa por uma infração de trânsito em uma pequena cidade do Texas, foi encontrada enforcada em sua cela três dias depois.</desc>
+    <credits>
+      <director>Kate Davis</director>
+      <director>David Heilbroner</director>
+      <actor>Sandra Bland</actor>
+      <actor>Robert E. Brzezinski</actor>
+      <actor>Brian Encinia</actor>
+      <actor>Cannon Lambert</actor>
+      <actor>J. Thomas Rhodes Iii</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme (Documentário)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125105500 -0300" stop="20211125120000 -0300" channel="HBO Signature">
+    <title lang="pt">Fale Now</title>
+    <sub-title lang="pt">Habla Now</sub-title>
+    <desc lang="pt">Celebridades inspiradoras e latinos influentes discutem os importantes desafios enfrentados pela população latina dos EUA.</desc>
+    <credits>
+      <director>Alberto Ferreras</director>
+      <actor>José Andrés</actor>
+      <actor>Ozzie Areu</actor>
+      <actor>Mariana Atencio</actor>
+      <actor>Carmen Carrera</actor>
+      <actor>Nely Galan</actor>
+      <actor>Arturo Castro</actor>
+      <actor>Diane Guerrero</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Documentário (Cinema)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211125120000 -0300" stop="20211125134700 -0300" channel="HBO Signature">
+    <title lang="pt">Grey Gardens</title>
+    <desc lang="pt">Em 1973, os cineastas Albert e David Maysles entraram no decadente mundo da tia e da prima de Jacqueline Kennedy - Edith Beale e sua filha Edie, documentando a vida destas mulheres que abriram mão de sua luxuosa vida por um isolamento sem precedentes em sua mansão.</desc>
+    <credits>
+      <director>Michael Sucsy</director>
+      <actor>Drew Barrymore</actor>
+      <actor>Jessica Lange</actor>
+      <actor>Marcia Bennett</actor>
+      <actor>Neil Babcock</actor>
+      <actor>Daniel Baldwin</actor>
+      <actor>Ben Carlson</actor>
+      <actor>Kevin Etherington</actor>
+      <actor>Tamsen McDonough</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Filme (Biografia)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211125134700 -0300" stop="20211125160500 -0300" channel="HBO Signature">
+    <title lang="pt">Jane Fonda em Cinco Atos</title>
+    <sub-title lang="pt">Jane Fonda In Five Acts</sub-title>
+    <desc lang="pt">Jane Fonda fala francamente sobre sua vida, seus amores, suas causas políticas e seus erros.</desc>
+    <credits>
+      <director>Susan Lacy</director>
+      <actor>Jane Fonda</actor>
+      <actor>Tom Hayden</actor>
+      <actor>Robert Redford</actor>
+      <actor>Lily Tomlin</actor>
+      <actor>Ted Turner</actor>
+      <actor>Paula Weinstein</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme (Documentário)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125160500 -0300" stop="20211125165300 -0300" channel="HBO Signature">
+    <title lang="pt">Big Little Lies</title>
+    <desc lang="pt">Após os eventos do primeiro dia de escola, Madeline se preocupa com o comportamento de Bonnie e, mais tarde, se choca quando Abigail diz que não quer ir para a faculdade.</desc>
+    <credits>
+      <director>Andrea Arnold</director>
+      <actor>Kathryn Newton</actor>
+      <actor>Nicole Kidman</actor>
+      <actor>Shailene Woodley</actor>
+      <actor>Reese Witherspoon</actor>
+      <actor>Zoë Kravitz</actor>
+      <actor>Robin Weigert</actor>
+      <actor>Meryl Streep</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211125165300 -0300" stop="20211125175000 -0300" channel="HBO Signature">
+    <title lang="pt">Big Little Lies</title>
+    <desc lang="pt">Renata encara um futuro incerto quando Gordon tem problemas com a lei. Corey convida Jane para um encontro "treino". Depois de uma sessão de terapia desafiadora com o Dr. Reisman, Celeste se abre para Mary Louise sobre seu relacionamento com Perry.</desc>
+    <credits>
+      <director>Andrea Arnold</director>
+      <actor>Laura Linda Bradley</actor>
+      <actor>Linda Burzynski</actor>
+      <actor>Darby Camp</actor>
+      <actor>Maryfrances Careccia</actor>
+      <actor>Cameron Crovetti</actor>
+      <actor>Emmet Flores</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125175000 -0300" stop="20211125183800 -0300" channel="HBO Signature">
+    <title lang="pt">Big Little Lies</title>
+    <desc lang="pt">Mary Louise tenta se aproximar de Jane. Em vez de encarar seus problemas em casa, Renata descarrega no diretor Nippal. Madeline é forçada a confrontar suas questões em uma sessão de terapia de casais com o Dr. Reisman. Celeste continua em conflito por suas lembranças de Perry.</desc>
+    <credits>
+      <director>Andrea Arnold</director>
+      <actor>Nico Abiera</actor>
+      <actor>Darby Camp</actor>
+      <actor>Chloe Coleman</actor>
+      <actor>Kelen Coleman</actor>
+      <actor>Cameron Crovetti</actor>
+      <actor>Nicholas Crovetti</actor>
+      <actor>Mark Heidelberger</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125183800 -0300" stop="20211125192700 -0300" channel="HBO Signature">
+    <title lang="pt">Big Little Lies</title>
+    <desc lang="pt">Celeste acusa Mary Louise de passar dos limites com Jane. Renata aguenta uma audiência no tribunal junto com Gordon. Jane se abre para Corey na festa de aniversário Disco de Amabella. Madeline continua tentando acertar as coisas com Ed.</desc>
+    <credits>
+      <director>Andrea Arnold</director>
+      <actor>Kathryn Newton</actor>
+      <actor>Nicole Kidman</actor>
+      <actor>Shailene Woodley</actor>
+      <actor>Reese Witherspoon</actor>
+      <actor>Zoë Kravitz</actor>
+      <actor>Robin Weigert</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125192700 -0300" stop="20211125201500 -0300" channel="HBO Signature">
+    <title lang="pt">Big Little Lies</title>
+    <desc lang="pt">Renata lida com as consequências dos problemas legais de Gordon e tenta ajudar Celeste. Bonnie revive memórias dolorosas de sua mãe.</desc>
+    <credits>
+      <director>Andrea Arnold</director>
+      <actor>Kathryn Newton</actor>
+      <actor>Nicole Kidman</actor>
+      <actor>Shailene Woodley</actor>
+      <actor>Reese Witherspoon</actor>
+      <actor>Zoë Kravitz</actor>
+      <actor>Robin Weigert</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125201500 -0300" stop="20211125210700 -0300" channel="HBO Signature">
+    <title lang="pt">Big Little Lies</title>
+    <desc lang="pt">Celeste é surpreendida por Mary Louise. Renata descobre que os erros de Gordon são mais que financeiros. Bonnie contempla uma solução para o sofrimento de sua mãe e sua própria culpa. Ed recebe uma proposta incomum de Tori, antes de pegar Madeline em um momento desprevenido. As Cinco de Monterey sentem a aumentar a pressão no assunto da morte de Perry.</desc>
+    <credits>
+      <director>Andrea Arnold</director>
+      <actor>Kathryn Newton</actor>
+      <actor>Nicole Kidman</actor>
+      <actor>Shailene Woodley</actor>
+      <actor>Reese Witherspoon</actor>
+      <actor>Zoë Kravitz</actor>
+      <actor>Robin Weigert</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211125210700 -0300" stop="20211125220300 -0300" channel="HBO Signature">
+    <title lang="pt">Big Little Lies</title>
+    <desc lang="pt">Final da temporada. Celeste questiona Mary Louise sobre um evento trágico da infância de Perry; Madeline se preocupa que a mentira possa estar separando as Cinco de Monterey.</desc>
+    <credits>
+      <director>Andrea Arnold</director>
+      <actor>Kathryn Newton</actor>
+      <actor>Nicole Kidman</actor>
+      <actor>Shailene Woodley</actor>
+      <actor>Reese Witherspoon</actor>
+      <actor>Zoë Kravitz</actor>
+      <actor>Robin Weigert</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211125220300 -0300" stop="20211125234400 -0300" channel="HBO Signature">
+    <title lang="pt">Bertha Lutz - A Mulher na Carta da Onu</title>
+    <desc lang="pt">Documentário original HBO que conta a luta da ativista brasileira Bertha Lutz pela inclusão da igualdade de gênero na constituição da ONU.</desc>
+    <credits>
+      <director>Guto Barra</director>
+      <director>Tatiana Issa</director>
+      <actor>Fatima Sator</actor>
+      <actor>Elise Luhr Dietrichson</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme (Documentário)</category>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125234400 -0300" stop="20211126014200 -0300" channel="HBO Signature">
+    <title lang="pt">O Conto</title>
+    <sub-title lang="pt">The Tale</sub-title>
+    <desc lang="pt">A vida idílica de Jennifer Fox, uma experiente documentarista de Nova York, é abalada quando sua mãe descobre uma história, escrita por ela aos 13 anos de idade.</desc>
+    <credits>
+      <director>Jennifer Fox</director>
+      <actor>Laura Dern</actor>
+      <actor>Elizabeth Debicki</actor>
+      <actor>Ellen Burstyn</actor>
+      <actor>Jason Ritter</actor>
+      <actor>Frances Conroy</actor>
+      <actor>John Heard</actor>
+      <actor>Common</actor>
+      <actor>Isabelle Nélisse</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126014200 -0300" stop="20211126023000 -0300" channel="HBO Signature">
+    <title lang="pt">A Linha Invisível</title>
+    <sub-title lang="pt">La Linea Invisible</sub-title>
+    <desc lang="pt">O Inglês pressionam Txabi para que o ETA cometa seu primeiro ataque mortal, colocando vários altos funcionários franquistas em sua mira.</desc>
+    <credits>
+      <director>Mariano Barroso</director>
+      <actor>Àlex Monner</actor>
+      <actor>Antonio de la Torre</actor>
+      <actor>Anna Castillo</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Drama)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126023000 -0300" stop="20211126032500 -0300" channel="HBO Signature">
+    <title lang="pt">Eu Terei Sumido na Escuridão: Episódio Especial</title>
+    <sub-title lang="pt">I'll Be Gone In The Dark - Bonus Episode</sub-title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <date>2021</date>
+    <category lang="pt">Séries (Ficção)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126032500 -0300" stop="20211126042500 -0300" channel="HBO Signature">
+    <title lang="pt">Real Time With Bill Maher</title>
+    <desc lang="pt">Bill Maher apresenta seu talk show indicado ao Emmy®, em que cobre as notícias da semana e apresenta um painel de convidados variados.</desc>
+    <credits>
+      <director>Paul Casey</director>
+      <actor>Bill Maher</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades (Talk Show)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126042500 -0300" stop="20211126060000 -0300" channel="HBO Signature">
+    <title lang="pt">Mike Tyson: Verdade Fora De Disputa</title>
+    <sub-title lang="pt">Mike Tyson: Undisputed Truth</sub-title>
+    <desc lang="pt">O ex-campeão de pesos pesados, Mike Tyson, apresenta um honesto e divertido espetáculo dirigido pelo lendário cineasta Spike Lee. Tyson fala sobre os altos e baixos de sua vida, sua juventude, carreira e sua época na prisão.</desc>
+    <credits>
+      <director>Spike Lee</director>
+      <actor>Mike Tyson</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <episode-num system="onscreen">S19 E35</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126060000 -0300" stop="20211126072500 -0300" channel="HBO Signature">
+    <title lang="pt">Between The World And Me</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <director>Kamilah Forbes</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Documentário (Biografia)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126072500 -0300" stop="20211126075500 -0300" channel="HBO Signature">
+    <title lang="pt">Axios</title>
+    <desc lang="pt">Os assuntos que definem o futuro do mundo são abordados de forma ágil, inteligente e investigativa na quarta temporada de Axios.</desc>
+    <credits>
+      <actor>Mike Allen</actor>
+      <actor>Jonathan Swan</actor>
+      <actor>Jim VandeHei</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126075500 -0300" stop="20211126095800 -0300" channel="HBO Signature">
+    <title lang="pt">Pavarotti</title>
+    <desc lang="pt">Ron Howard dirige este documentário sobre a vida, trajetória e legado do "tenor do povo", o cantor italiano Luciano Pavarotti.</desc>
+    <credits>
+      <director>Ron Howard</director>
+      <actor>Luciano Pavarotti</actor>
+      <actor>Andrea Griminelli</actor>
+      <actor>Nicoletta Mantovani</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme (Documentário)</category>
+    <episode-num system="onscreen">S4 E18</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126095800 -0300" stop="20211126115500 -0300" channel="HBO Signature">
+    <title lang="pt">Confirmação</title>
+    <sub-title lang="pt">Confirmation</sub-title>
+    <desc lang="pt">A nomeação de Clarence Thomas para Juiz da Suprema Corte é posta em causa quando a ex-colega, Anita Hill, o acusa de ter sofrido abuso sexual dele.</desc>
+    <credits>
+      <director>Rick Famuyiwa</director>
+      <actor>Kerry Washington</actor>
+      <actor>Zoe Lister-Jones</actor>
+      <actor>Erika Christensen</actor>
+      <actor>Jeffrey Wright</actor>
+      <actor>Eric Stonestreet</actor>
+      <actor>Jennifer Hudson</actor>
+      <actor>Greg Kinnear</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126115500 -0300" stop="20211126135200 -0300" channel="HBO Signature">
+    <title lang="pt">Bessie</title>
+    <desc lang="pt">Produção da HBO Films. Queen Latifah interpreta a lendária cantora Bessie Smith, apelidada de a "Imperatriz do Blues". Um retrato brilhante de um espírito determinado tirado do anonimato pelo talento e amor à música.</desc>
+    <credits>
+      <director>Dee Rees</director>
+      <actor>Queen Latifah</actor>
+      <actor>Michael Kenneth Williams</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Tika Sumpter</actor>
+      <actor>Tory Kittles</actor>
+      <actor>Mike Epps</actor>
+      <actor>Oliver Platt</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126135200 -0300" stop="20211126152500 -0300" channel="HBO Signature">
+    <title lang="pt">Arte Negra: Na Ausência da Luz</title>
+    <sub-title lang="pt">Black Art: In The Absence Of Light</sub-title>
+    <desc lang="pt">Documentário original da HBO que destaca as contribuições dos principais artistas afro-americanos do mundo para a arte contemporânea atual.</desc>
+    <credits>
+      <director>Sam Pollard</director>
+      <actor>Kerry James Marshall</actor>
+      <actor>Kehinde Wiley</actor>
+      <actor>Carrie Mae Weems</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Filme (Documentário)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126152500 -0300" stop="20211126171000 -0300" channel="HBO Signature">
+    <title lang="pt">Fahrenheit 451</title>
+    <desc lang="pt">Em um futuro alternativo nos EUA, brigadas de bombeiros saem em missões televisionadas para incendiar livros.</desc>
+    <credits>
+      <director>Ramin Bahrani</director>
+      <actor>Michael B. Jordan</actor>
+      <actor>Sofia Boutella</actor>
+      <actor>Michael Shannon</actor>
+      <actor>Keir Dullea</actor>
+      <actor>Martin Donovan</actor>
+      <actor>Dylan Taylor</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126171000 -0300" stop="20211126174800 -0300" channel="HBO Signature">
+    <title lang="pt">Silicon Valley</title>
+    <desc lang="pt">Richard e seus amigos sonham com o sucesso. Quando Richard cria um novo algoritmo para sua página na internet, ficará em uma encruzilhada de ofertas milionárias entre seu chefe, Gavin Belson e o famoso investidor Peter Gregory.</desc>
+    <credits>
+      <director>Mike Judge</director>
+      <actor>Thomas Middleditch</actor>
+      <actor>T.J. Miller</actor>
+      <actor>Zach Woods</actor>
+      <actor>Kumail Nanjiani</actor>
+      <actor>Amanda Crew</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126174800 -0300" stop="20211126182500 -0300" channel="HBO Signature">
+    <title lang="pt">Silicon Valley</title>
+    <desc lang="pt">Depois de uma festa de comemoração, Richard e Erlich descobrem que o dinheiro da venda da empresa só chegará depois da elaboração de um plano estratégico que contemple a redução da equipe. Gilfoyle e Dinesh tentam provar que são imprescindíveis para o negócio.</desc>
+    <credits>
+      <director>Mike Judge</director>
+      <actor>Thomas Middleditch</actor>
+      <actor>T.J. Miller</actor>
+      <actor>Zach Woods</actor>
+      <actor>Kumail Nanjiani</actor>
+      <actor>Amanda Crew</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126182500 -0300" stop="20211126190000 -0300" channel="HBO Signature">
+    <title lang="pt">Silicon Valley</title>
+    <desc lang="pt">Richard deve entrar em negociação quando descobre que o nome "Pied Piper" já está registrado. Enquanto isso, Erlich tenta encontrar um novo nome para a empresa.</desc>
+    <credits>
+      <director>Mike Judge</director>
+      <actor>Thomas Middleditch</actor>
+      <actor>T.J. Miller</actor>
+      <actor>Zach Woods</actor>
+      <actor>Kumail Nanjiani</actor>
+      <actor>Amanda Crew</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126190000 -0300" stop="20211126193500 -0300" channel="HBO Signature">
+    <title lang="pt">Silicon Valley</title>
+    <desc lang="pt">Durante uma festa, Richard promete transformar Erlich em um dos membros do conselho. Enquanto isso, Big Head encontra outros que fizeram carreira realizando nada. Para completar, Richard sofre para colocar a visão de Pied Piper no papel.</desc>
+    <credits>
+      <director>Mike Judge</director>
+      <actor>Thomas Middleditch</actor>
+      <actor>T.J. Miller</actor>
+      <actor>Zach Woods</actor>
+      <actor>Kumail Nanjiani</actor>
+      <actor>Amanda Crew</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126193500 -0300" stop="20211126201200 -0300" channel="HBO Signature">
+    <title lang="pt">Silicon Valley</title>
+    <desc lang="pt">Erlich contrata um grafiteiro para criar o novo logo da Pied Piper, com resultados controversos. Enquanto isso, Richard descobre que não possui muito tempo para se preparar para um demonstração ao vivo na TechCrunch Disrupt. Para completar, Jared trabalha na eficiência da empresa.</desc>
+    <credits>
+      <director>Mike Judge</director>
+      <actor>Thomas Middleditch</actor>
+      <actor>T.J. Miller</actor>
+      <actor>Zach Woods</actor>
+      <actor>Kumail Nanjiani</actor>
+      <actor>Amanda Crew</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126201200 -0300" stop="20211126204700 -0300" channel="HBO Signature">
+    <title lang="pt">Silicon Valley</title>
+    <desc lang="pt">A Pied Piper precisa de ajuda, então o time contrata um hacker chamado "The Carver". Enquanto isso, Jared faz de tudo para conseguir a assinatura de Peter Gregory. Já a namorada de Gilfoyle atrai a atenção de alguém, enquanto Dinesh enfrenta um dilema sexual.</desc>
+    <credits>
+      <director>Mike Judge</director>
+      <actor>Thomas Middleditch</actor>
+      <actor>T.J. Miller</actor>
+      <actor>Zach Woods</actor>
+      <actor>Kumail Nanjiani</actor>
+      <actor>Amanda Crew</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126204700 -0300" stop="20211126212400 -0300" channel="HBO Signature">
+    <title lang="pt">Silicon Valley</title>
+    <desc lang="pt">Richard sente pressão para terminar a apresentação na TechCrunch Disrupt, mas se vê distraído com uma garota que namorou e que agora está espalhando rumores sobre ele. Enquanto isso, Jared acha que Monica está tomando seu lugar na companhia. Já Dinesh se apaixona por uma garota, enquanto passado escandaloso de Erlich com um dos juízes ameaça as chances da Pied Piper.</desc>
+    <credits>
+      <director>Mike Judge</director>
+      <actor>Thomas Middleditch</actor>
+      <actor>T.J. Miller</actor>
+      <actor>Zach Woods</actor>
+      <actor>Kumail Nanjiani</actor>
+      <actor>Amanda Crew</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126212400 -0300" stop="20211126220000 -0300" channel="HBO Signature">
+    <title lang="pt">Silicon Valley</title>
+    <desc lang="pt">Prontos para competir com a TechCrunch, o pessoal da Pied Piper fica preocupado após uma impressionante apresentação de Gavin Belson. Enquanto Jared tenta consolidar a companhia, Richard fica inspirado a fazer grandes mudanças no último minuto.</desc>
+    <credits>
+      <director>Mike Judge</director>
+      <actor>Thomas Middleditch</actor>
+      <actor>T.J. Miller</actor>
+      <actor>Zach Woods</actor>
+      <actor>Kumail Nanjiani</actor>
+      <actor>Amanda Crew</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125014800 -0300" stop="20211125040500 -0300" channel="HBO Xtreme">
+    <title lang="pt">O Exorcista - Versão do Diretor</title>
+    <sub-title lang="pt">The Exorcist - The Version You've Never Seen</sub-title>
+    <desc lang="pt">Regan, filha adolescente de uma atriz, começa a se comportar de maneira hostil e violenta, o que leva sua mãe a pedir a ajuda a um jovem padre perturbado por dilemas existenciais. Convencido de que a garota está possuída pelo demônio, ele chama o experiente padre Merrin para realizar um exorcismo.</desc>
+    <credits>
+      <director>William Friedkin</director>
+      <actor>Jason Miller</actor>
+      <actor>Jack MacGowran</actor>
+      <actor>Kitty Winn</actor>
+      <actor>Lee J. Cobb</actor>
+      <actor>Max von Sydow</actor>
+      <actor>Ellen Burstyn</actor>
+      <actor>Linda Blair</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="pt">Filme (Terror)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211125040500 -0300" stop="20211125060000 -0300" channel="HBO Xtreme">
+    <title lang="pt">O Exorcista 3</title>
+    <sub-title lang="pt">The Exorcist III</sub-title>
+    <desc lang="pt">No ano de 1999, em Georgetown, Washington, um jovem padre, que há quinze anos se sacrificou por uma menina que estava possuída pelo demônio, volta ao mundo para aterrorizar a cidade.</desc>
+    <credits>
+      <director>William Peter Blatty</director>
+      <actor>George C. Scott</actor>
+      <actor>Ed Flanders</actor>
+      <actor>Brad Dourif</actor>
+      <actor>Jason Miller</actor>
+      <actor>Nicol Williamson</actor>
+      <actor>Scott Wilson</actor>
+      <actor>Nancy Fish</actor>
+      <actor>Don Gordon</actor>
+      <actor>Lee Richardson</actor>
+      <actor>Grand L. Bush</actor>
+      <actor>Viveca Lindfors</actor>
+      <actor>Ken Lerner</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="pt">Filme (Terror)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211125060000 -0300" stop="20211125074700 -0300" channel="HBO Xtreme">
+    <title lang="pt">Crime Sem Saída</title>
+    <sub-title lang="pt">21 Bridges</sub-title>
+    <desc lang="pt">Chadwick Boseman interpreta um detetive da polícia que bloqueia todas as saídas de NY para uma brutal corrida contra o relógio.</desc>
+    <credits>
+      <director>Brian Kirk</director>
+      <actor>Chadwick Boseman</actor>
+      <actor>Sienna Miller</actor>
+      <actor>J.K. Simmons</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211125074700 -0300" stop="20211125093800 -0300" channel="HBO Xtreme">
+    <title lang="pt">Os Miseráveis</title>
+    <sub-title lang="pt">Les Miserables</sub-title>
+    <desc lang="pt">Filme vencedor do Prêmio do Júri do Festival de Cannes® sobre um policial que se junta a uma brigada anti-crime no subúrbio de Paris.</desc>
+    <credits>
+      <director>Ladj Ly</director>
+      <actor>Damien Bonnard</actor>
+      <actor>Alexis Manenti</actor>
+      <actor>Djebril Didier Zonga</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211125093800 -0300" stop="20211125104300 -0300" channel="HBO Xtreme">
+    <title lang="pt">Back On The Record with Bob Costas</title>
+    <desc lang="pt">O lendário locutor Bob Costas discute as questões mais atuais com quem é notícia no esporte.</desc>
+    <credits>
+      <actor>Bomani Jones</actor>
+      <actor>Bob Costas</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades (Talk Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125104300 -0300" stop="20211125121800 -0300" channel="HBO Xtreme">
+    <title lang="pt">Querido Rider: A História de Jake Burton</title>
+    <sub-title lang="pt">Dear Rider: The Jake Burton Story</sub-title>
+    <desc lang="pt">Documentário original da HBO que enfoca a história real de como Jake Burton transformou um passatempo infantil em um fenômeno cultural.</desc>
+    <credits>
+      <director>Fernando Villena</director>
+      <actor>Woody Harrelson</actor>
+      <actor>Mark McMorris</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Filme (Documentário)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125121800 -0300" stop="20211125142500 -0300" channel="HBO Xtreme">
+    <title lang="pt">O Homem Mais Procurado</title>
+    <sub-title lang="pt">A Most Wanted Man</sub-title>
+    <desc lang="pt">Issa é da Chechênia e está em Hamburgo. As agências de segurança alemã e americana acreditam que ele é um perigoso terrorista, enquanto ele assegura para a advogada Richter que foi torturado pelos russos e vem pedir ajuda. Qual será a verdade?</desc>
+    <credits>
+      <director>Anton Corbijn</director>
+      <actor>Grigoriy Dobrygin</actor>
+      <actor>Mehdi Dehbi</actor>
+      <actor>Philip Seymour Hoffman</actor>
+      <actor>Nina Hoss</actor>
+      <actor>Kostja Ullmann</actor>
+      <actor>Vedat Erincin</actor>
+      <actor>Derya Alabora</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125142500 -0300" stop="20211125163800 -0300" channel="HBO Xtreme">
+    <title lang="pt">Pequenos Vestígios</title>
+    <sub-title lang="pt">The Little Things</sub-title>
+    <desc lang="pt">Os vencedores do Oscar® Denzel Washington e Rami Malek estrelam este thriller sobre um serial killer que aterroriza Los Angeles.</desc>
+    <credits>
+      <director>John Lee Hancock</director>
+      <actor>Denzel Washington</actor>
+      <actor>Rami Malek</actor>
+      <actor>Jared Leto</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Filme (Suspense)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125163800 -0300" stop="20211125183000 -0300" channel="HBO Xtreme">
+    <title lang="pt">Nosso Fiel Traidor</title>
+    <sub-title lang="pt">Our Kind Of Traitor</sub-title>
+    <desc lang="pt">Enquanto aproveitam as férias no Marrocos, Perry e Gail conhecem o carismático Dima, um homem da máfia russa. Quando Dima lhes pede ajuda para entregar informação confidencial ao MI6, o casal acaba envolvido em um jogo de espionagem.</desc>
+    <credits>
+      <director>Susanna White</director>
+      <actor>Naomie Harris</actor>
+      <actor>Damian Lewis</actor>
+      <actor>Stellan Skarsgard</actor>
+      <actor>Ewan McGregor</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211125183000 -0300" stop="20211125201200 -0300" channel="HBO Xtreme">
+    <title lang="pt">Crime Sem Saída</title>
+    <sub-title lang="pt">21 Bridges</sub-title>
+    <desc lang="pt">Chadwick Boseman interpreta um detetive da polícia que bloqueia todas as saídas de NY para uma brutal corrida contra o relógio.</desc>
+    <credits>
+      <director>Brian Kirk</director>
+      <actor>Chadwick Boseman</actor>
+      <actor>Sienna Miller</actor>
+      <actor>J.K. Simmons</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211125201200 -0300" stop="20211125220000 -0300" channel="HBO Xtreme">
+    <title lang="pt">Os Miseráveis</title>
+    <sub-title lang="pt">Les Miserables</sub-title>
+    <desc lang="pt">Filme vencedor do Prêmio do Júri do Festival de Cannes® sobre um policial que se junta a uma brigada anti-crime no subúrbio de Paris.</desc>
+    <credits>
+      <director>Ladj Ly</director>
+      <actor>Damien Bonnard</actor>
+      <actor>Alexis Manenti</actor>
+      <actor>Djebril Didier Zonga</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211125220000 -0300" stop="20211126003000 -0300" channel="HBO Xtreme">
+    <title lang="pt">Vício Inerente</title>
+    <sub-title lang="pt">Inherent Vice</sub-title>
+    <desc lang="pt">Conta a história de um detetive particular que investiga o sequestro de um bilionário latifundiário. Joaquin Phoenix interpreta o protagonista da história. Adaptação de livro homônimo de Thomas Pynchon.</desc>
+    <credits>
+      <director>Paul Thomas Anderson</director>
+      <actor>Joaquin Phoenix</actor>
+      <actor>Joanna Newsom</actor>
+      <actor>Katherine Waterston</actor>
+      <actor>Jordan Christian Hearn</actor>
+      <actor>Taylor Bonin</actor>
+      <actor>Jeannie Berlin</actor>
+      <actor>Josh Brolin</actor>
+      <actor>Eric Roberts</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20211126003000 -0300" stop="20211126024300 -0300" channel="HBO Xtreme">
+    <title lang="pt">Pequenos Vestígios</title>
+    <sub-title lang="pt">The Little Things</sub-title>
+    <desc lang="pt">Os vencedores do Oscar® Denzel Washington e Rami Malek estrelam este thriller sobre um serial killer que aterroriza Los Angeles.</desc>
+    <credits>
+      <director>John Lee Hancock</director>
+      <actor>Denzel Washington</actor>
+      <actor>Rami Malek</actor>
+      <actor>Jared Leto</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Filme (Suspense)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126024300 -0300" stop="20211126033500 -0300" channel="HBO Xtreme">
+    <title lang="pt">Warrior</title>
+    <desc lang="pt">Ah Sahm, Young Jun e Hong viajam com Vega para Rooker's Mill para um torneio de luta livre com um grande prêmio em dinheiro.</desc>
+    <credits>
+      <director>Loni Peristere</director>
+      <actor>Andrew Koji</actor>
+      <actor>Jason Tobin</actor>
+      <actor>Olivia Cheng</actor>
+      <actor>Kieran Bew</actor>
+      <actor>Dean Jagger</actor>
+      <actor>Dianne Doan</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Ação)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126033500 -0300" stop="20211126060000 -0300" channel="HBO Xtreme">
+    <title lang="pt">Godzilla (1998)</title>
+    <sub-title lang="pt">Godzilla</sub-title>
+    <desc lang="pt">Um enorme e desconhecido monstro deixa um rastro de pânico e destruição por onde passa. O biólogo Niki Tatopolous (Matthew Broderick), que estuda os efeitos da radiação nas minhocas depois do acidente de Chernobyl, é chamado, às pressas, para investigar as imensas pegadas. Agora o lagarto mutante chegou a Nova Iorque e a cidade está apavorada. Cientistas e militares lutam contra o tempo para detê-lo. E mais que isso: para salvar a humanidade, precisam encontrar e destruir o ninho onde Godzilla depositou seus ovos.</desc>
+    <credits>
+      <director>Roland Emmerich</director>
+      <actor>Matthew Broderick</actor>
+      <actor>Maria Pitillo</actor>
+      <actor>Hank Azaria</actor>
+      <actor>Jean Reno</actor>
+      <actor>Kevin Dunn</actor>
+      <actor>Michael Lerner</actor>
+      <actor>Harry Shearer</actor>
+      <actor>Arabella Field</actor>
+      <actor>Vicki Lewis</actor>
+      <actor>Doug Savant</actor>
+      <actor>Malcolm Danare</actor>
+    </credits>
+    <date>1998</date>
+    <category lang="pt">Filme (Ficção)</category>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126060000 -0300" stop="20211126070100 -0300" channel="HBO Xtreme">
+    <title lang="pt">Women Of Troy</title>
+    <desc lang="pt">Este documentário da HBO explora a história das Trojans da University of Southern California e seu impacto no basquete feminino.</desc>
+    <credits>
+      <director>Alison Ellwood</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme (Documentário)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126070100 -0300" stop="20211126085500 -0300" channel="HBO Xtreme">
+    <title lang="pt">Segredos Oficiais</title>
+    <sub-title lang="pt">Official Secrets</sub-title>
+    <desc lang="pt">Keira Knightley é Katharine Gun, uma agente de inteligência que vazou à imprensa um plano ilegal para sancionar a invasão do Iraque em 2003.</desc>
+    <credits>
+      <director>Gavin Hood</director>
+      <actor>Keira Knightley</actor>
+      <actor>Matt Smith</actor>
+      <actor>Matthew Goode</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme (Biografia)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126085500 -0300" stop="20211126104100 -0300" channel="HBO Xtreme">
+    <title lang="pt">O Turista</title>
+    <sub-title lang="pt">The Tourist</sub-title>
+    <desc lang="pt">Frank, um turista americano, decide visitar a Itália para curar seu coração partido. Porém ele encontra Elise, uma mulher extraordinária.</desc>
+    <credits>
+      <director>Florian Henckel von Donnersmarck</director>
+      <actor>Johnny Depp</actor>
+      <actor>Angelina Jolie</actor>
+      <actor>Timothy Dalton</actor>
+      <actor>Steven Berkoff</actor>
+      <actor>Rufus Sewell</actor>
+      <actor>Daniele Pecci</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126104100 -0300" stop="20211126123300 -0300" channel="HBO Xtreme">
+    <title lang="pt">Sob o Domínio do Medo</title>
+    <sub-title lang="pt">Straw Dogs</sub-title>
+    <desc lang="pt">David se muda para a cidade natal de sua esposa Amy após a morte do pai dela. Uma vez ali, a tensão começa a crescer entre eles e os moradores (incluindo o ex-namorado de Amy), e velhos conflitos provocam ameaças.</desc>
+    <credits>
+      <director>Rod Lurie</director>
+      <actor>James Marsden</actor>
+      <actor>Kate Bosworth</actor>
+      <actor>James Woods</actor>
+      <actor>Dominic Purcell</actor>
+      <actor>Anson Mount</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Filme (Suspense)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126123300 -0300" stop="20211126140900 -0300" channel="HBO Xtreme">
+    <title lang="pt">Hotel Artemis</title>
+    <desc lang="pt">Escondido no subsolo de um hospital de Los Angeles, o Hotel Artemis é uma clínica de emergência para criminosos membros, cujo funcionamento é garantido pela misteriosa Enfermeira.</desc>
+    <credits>
+      <director>Drew Pearce</director>
+      <actor>Jodie Foster</actor>
+      <actor>Sofia Boutella</actor>
+      <actor>Dave Bautista</actor>
+      <actor>Brian Tyree Henry</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126140900 -0300" stop="20211126164100 -0300" channel="HBO Xtreme">
+    <title lang="pt">Tenet</title>
+    <desc lang="pt">Christopher Nolan apresenta esta ficção científica não sobre viagem no tempo, mas sobre sua inversão, estrelado por John David Washington.</desc>
+    <credits>
+      <director>Christopher Nolan</director>
+      <actor>John David Washington</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126164100 -0300" stop="20211126182000 -0300" channel="HBO Xtreme">
+    <title lang="pt">O Homem da Máfia</title>
+    <sub-title lang="pt">Killing Them Softly</sub-title>
+    <desc lang="pt">Em Nova Orleans, um jogo de pôquer é assaltado. Os participantes, integrantes da máfia, contratam o matador profissional Jackie Coogan para punir os responsáveis pelo roubo.</desc>
+    <credits>
+      <director>Andrew Dominik</director>
+      <actor>Brad Pitt</actor>
+      <actor>Ben Mendelsohn</actor>
+      <actor>James Gandolfini</actor>
+      <actor>Ray Liotta</actor>
+      <actor>Richard Jenkins</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Filme (Suspense)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126182000 -0300" stop="20211126202500 -0300" channel="HBO Xtreme">
+    <title lang="pt">Aliança do Crime</title>
+    <sub-title lang="pt">Black Mass</sub-title>
+    <desc lang="pt">Whitey Bulger, irmão de um senador dos EUA, foi um dos criminosos mais famosos da história. Ele começou a trabalhar como informante do FBI para derrubar mafiosos, mas foi traído pela agência, tornando-se um dos homens mais procurados do país.</desc>
+    <credits>
+      <director>Scott Cooper</director>
+      <actor>Johnny Depp</actor>
+      <actor>Joel Edgerton</actor>
+      <actor>Benedict Cumberbatch</actor>
+      <actor>Dakota Johnson</actor>
+      <actor>Kevin Bacon</actor>
+      <actor>Peter Sarsgaard</actor>
+      <actor>Jesse Plemons</actor>
+      <actor>Rory Cochrane</actor>
+      <actor>David Harbour</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Filme (Policial)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126202500 -0300" stop="20211126220100 -0300" channel="HBO Xtreme">
+    <title lang="pt">Hotel Artemis</title>
+    <desc lang="pt">Escondido no subsolo de um hospital de Los Angeles, o Hotel Artemis é uma clínica de emergência para criminosos membros, cujo funcionamento é garantido pela misteriosa Enfermeira.</desc>
+    <credits>
+      <director>Drew Pearce</director>
+      <actor>Jodie Foster</actor>
+      <actor>Sofia Boutella</actor>
+      <actor>Dave Bautista</actor>
+      <actor>Brian Tyree Henry</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125001800 -0300" stop="20211125004100 -0300" channel="HGTV">
+    <title lang="pt">Reforma dos Sonhos</title>
+    <desc lang="pt">Após a passagem devastadora do Furacão Sandy, os Primos consertam os estragos da casa à beira-mar de Anthony.</desc>
+    <credits>
+      <director>Shawn Visco</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125004100 -0300" stop="20211125010500 -0300" channel="HGTV">
+    <title lang="pt">Reforma dos Sonhos</title>
+    <desc lang="pt">Os Primos ajudam Khloe Kardashian Odom a surpreender seu marido, Lamar Odom, com um quarto equipado com um cinema.</desc>
+    <credits>
+      <director>Shawn Visco</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125010500 -0300" stop="20211125012800 -0300" channel="HGTV">
+    <title lang="pt">Desafio da Renovação</title>
+    <sub-title lang="pt">Flea Market Flip</sub-title>
+    <desc lang="pt">Dois times de pessoas que moram juntas competem no Bazar do Aeroporto de Stormville, Nova York: design retrô; projeto claro e escuro; crie uma dupla.</desc>
+    <credits>
+      <director>Terri Murray</director>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125012800 -0300" stop="20211125015200 -0300" channel="HGTV">
+    <title lang="pt">Desafio da Renovação</title>
+    <sub-title lang="pt">Flea Market Flip</sub-title>
+    <desc lang="pt">Amigos enfrentam um casal de namorados neste episódio: objetos de vidro, sala de jantar e um coringa.</desc>
+    <credits>
+      <director>Terri Murray</director>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125015200 -0300" stop="20211125021400 -0300" channel="HGTV">
+    <title lang="pt">Desafio da Renovação</title>
+    <sub-title lang="pt">Flea Market Flip</sub-title>
+    <desc lang="pt">Uma mulher e seu filho competem contra uma dupla de hippies de Woodstock.</desc>
+    <date>2016</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125021400 -0300" stop="20211125023700 -0300" channel="HGTV">
+    <title lang="pt">Desafio da Renovação</title>
+    <sub-title lang="pt">Flea Market Flip</sub-title>
+    <desc lang="pt">As comissárias de bordo Isabell e Diahann enfrentam Stephany e Jane. Na disputa pelo prêmio, cada equipe tem uma hora para encontrar os três itens da lista: design compacto, marroquino moderno e projeto simétrico.</desc>
+    <credits>
+      <actor>Rosemary Chase</actor>
+      <actor>Catherine Taormina</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S7 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125023700 -0300" stop="20211125025900 -0300" channel="HGTV">
+    <title lang="pt">Em Busca Da Casa Perfeita - Mundo</title>
+    <sub-title lang="pt">House Hunters International</sub-title>
+    <desc lang="pt">Músicos engajados procuram seu primeiro imóvel em Nashville, Tennessee.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S6 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125025900 -0300" stop="20211125032200 -0300" channel="HGTV">
+    <title lang="pt">Em Busca Da Casa Perfeita - Mundo</title>
+    <sub-title lang="pt">House Hunters International</sub-title>
+    <desc lang="pt">Uma família de dez pessoas de Utah procura uma casa grande e espaçosa no subúrbio de Houston, no Texas.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S11 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125032200 -0300" stop="20211125034400 -0300" channel="HGTV">
+    <title lang="pt">Reformando Quintais com Chris Lambton</title>
+    <desc lang="pt">Chris Lambton projeta um jardim inglês e uma horta para a família Machados, incluindo um espaço para as crianças brincarem.</desc>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S11 E9</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125034400 -0300" stop="20211125040600 -0300" channel="HGTV">
+    <title lang="pt">Reformando Quintais com Chris Lambton</title>
+    <desc lang="pt">Chris Lambton e sua equipe projetam um quintal moderno para uma família de quatro pessoas. Eles constroem um deque elevado com um espaço para coquetéis para os adultos e uma casinha de brinquedo para as crianças.</desc>
+    <credits>
+      <director>Dale Roy Robinson</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125040600 -0300" stop="20211125042900 -0300" channel="HGTV">
+    <title lang="pt">Piscinas Espetaculares</title>
+    <sub-title lang="pt">Pool Kings</sub-title>
+    <desc lang="pt">Depois de se mudar para College Grove, Tennessee, uma família decide construir a piscina dos sonhos. A equipe da Pool Kings aceita o desafio e cria um paraíso tropical com uma cascata enorme e uma ampla cozinha externa.</desc>
+    <credits>
+      <director>Brian Balthazar</director>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125042900 -0300" stop="20211125045200 -0300" channel="HGTV">
+    <title lang="pt">Piscinas Espetaculares</title>
+    <sub-title lang="pt">Pool Kings</sub-title>
+    <desc lang="pt">Um casal de Franklin, Tennesee, contrata a equipe da Pool Kings para construir a piscina de seus sonhos em um quintal cheio de problemas.</desc>
+    <credits>
+      <director>Brian Balthazar</director>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125045200 -0300" stop="20211125051400 -0300" channel="HGTV">
+    <title lang="pt">Reforma Relâmpago: Jardins</title>
+    <desc lang="pt">A família deste episódio quer reformar seu quintal para que possam organizar festas para seus cinco filhos.</desc>
+    <credits>
+      <director>Sarah Kuban</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125051400 -0300" stop="20211125053700 -0300" channel="HGTV">
+    <title lang="pt">Reforma Relâmpago: Jardins</title>
+    <desc lang="pt">Um quintal íngreme e desorganizado complica a vida dos proprietários, até Matt Blashaw sugerir um melhor aproveitamento do desnível natural do terreno.</desc>
+    <credits>
+      <director>Sarah Kuban</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S10 E7</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125053700 -0300" stop="20211125060000 -0300" channel="HGTV">
+    <title lang="pt">Produtos dos Sonhos</title>
+    <sub-title lang="pt">I Want That</sub-title>
+    <desc lang="pt">Conheça um dispositivo com câmera para amarrar barcos, uma luminária que funciona como alto-falante, um cooler que mantém as bebidas a temperaturas abaixo de zero e uma geladeira incrível com caixa de ferramentas.</desc>
+    <credits>
+      <director>Joyce Pearson</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S10 E8</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125060000 -0300" stop="20211125062300 -0300" channel="HGTV">
+    <title lang="pt">Produtos dos Sonhos</title>
+    <sub-title lang="pt">I Want That</sub-title>
+    <desc lang="pt">Conheça um dispositivo com câmera para amarrar barcos, uma luminária que funciona como alto-falante, um cooler que mantém as bebidas a temperaturas abaixo de zero e uma geladeira incrível com caixa de ferramentas.</desc>
+    <credits>
+      <director>Joyce Pearson</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125062300 -0300" stop="20211125064600 -0300" channel="HGTV">
+    <title lang="pt">Em Busca Da Casa Perfeita - Mundo</title>
+    <sub-title lang="pt">House Hunters International</sub-title>
+    <desc lang="pt">Músicos engajados procuram seu primeiro imóvel em Nashville, Tennessee.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125064600 -0300" stop="20211125070900 -0300" channel="HGTV">
+    <title lang="pt">Em Busca Da Casa Perfeita - Mundo</title>
+    <sub-title lang="pt">House Hunters International</sub-title>
+    <desc lang="pt">Uma família de dez pessoas de Utah procura uma casa grande e espaçosa no subúrbio de Houston, no Texas.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S11 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125070900 -0300" stop="20211125073200 -0300" channel="HGTV">
+    <title lang="pt">Reformando Quintais com Chris Lambton</title>
+    <desc lang="pt">Chris Lambton projeta um jardim inglês e uma horta para a família Machados, incluindo um espaço para as crianças brincarem.</desc>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S11 E9</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125073200 -0300" stop="20211125075500 -0300" channel="HGTV">
+    <title lang="pt">Reformando Quintais com Chris Lambton</title>
+    <desc lang="pt">Chris Lambton e sua equipe projetam um quintal moderno para uma família de quatro pessoas. Eles constroem um deque elevado com um espaço para coquetéis para os adultos e uma casinha de brinquedo para as crianças.</desc>
+    <credits>
+      <director>Dale Roy Robinson</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125075500 -0300" stop="20211125081800 -0300" channel="HGTV">
+    <title lang="pt">Piscinas Espetaculares</title>
+    <sub-title lang="pt">Pool Kings</sub-title>
+    <desc lang="pt">Depois de se mudar para College Grove, Tennessee, uma família decide construir a piscina dos sonhos. A equipe da Pool Kings aceita o desafio e cria um paraíso tropical com uma cascata enorme e uma ampla cozinha externa.</desc>
+    <credits>
+      <director>Brian Balthazar</director>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125081800 -0300" stop="20211125084100 -0300" channel="HGTV">
+    <title lang="pt">Piscinas Espetaculares</title>
+    <sub-title lang="pt">Pool Kings</sub-title>
+    <desc lang="pt">Um casal de Franklin, Tennesee, contrata a equipe da Pool Kings para construir a piscina de seus sonhos em um quintal cheio de problemas.</desc>
+    <credits>
+      <director>Brian Balthazar</director>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125084100 -0300" stop="20211125090400 -0300" channel="HGTV">
+    <title lang="pt">Reforma Relâmpago: Jardins</title>
+    <desc lang="pt">A família deste episódio quer reformar seu quintal para que possam organizar festas para seus cinco filhos.</desc>
+    <credits>
+      <director>Sarah Kuban</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125090400 -0300" stop="20211125092700 -0300" channel="HGTV">
+    <title lang="pt">Reforma Relâmpago: Jardins</title>
+    <desc lang="pt">Um quintal íngreme e desorganizado complica a vida dos proprietários, até Matt Blashaw sugerir um melhor aproveitamento do desnível natural do terreno.</desc>
+    <credits>
+      <director>Sarah Kuban</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S10 E7</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125092700 -0300" stop="20211125095000 -0300" channel="HGTV">
+    <title lang="pt">A Sonhada Casa do Lago</title>
+    <sub-title lang="pt">Lakefront Bargain Hunt</sub-title>
+    <desc lang="pt">Cansado de morar em um apartamento, um casal procura uma casa espaçosa à beira do Lago Winnebago, em Wisconsin.</desc>
+    <credits>
+      <director>Dean Melton</director>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S10 E8</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125095000 -0300" stop="20211125101400 -0300" channel="HGTV">
+    <title lang="pt">A Sonhada Casa do Lago</title>
+    <sub-title lang="pt">Lakefront Bargain Hunt</sub-title>
+    <desc lang="pt">Um casal de Indiana procura uma casa que ofereça muita privacidade às margens do Lago Norris, no Tennessee.</desc>
+    <credits>
+      <director>Dean Melton</director>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125101400 -0300" stop="20211125103700 -0300" channel="HGTV">
+    <title lang="pt">Em Busca Da Casa Perfeita - Mundo</title>
+    <sub-title lang="pt">House Hunters International</sub-title>
+    <desc lang="pt">Um casal acostumado a viajar pelo mundo decide se estabelecer em um subúrbio de Detroit.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125103700 -0300" stop="20211125110100 -0300" channel="HGTV">
+    <title lang="pt">Em Busca Da Casa Perfeita - Mundo</title>
+    <sub-title lang="pt">House Hunters International</sub-title>
+    <desc lang="pt">Uma mulher decide comprar uma casa vitoriana para alugar em Springfield, Massachusetts, mas sua filha prefere um imóvel mais moderno.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S11 E12</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125110100 -0300" stop="20211125112400 -0300" channel="HGTV">
+    <title lang="pt">Piscinas Espetaculares</title>
+    <sub-title lang="pt">Pool Kings</sub-title>
+    <desc lang="pt">Uma família de Nashville espera que Kyle e Justin construam a piscina perfeita em seu quintal, mas enfrenta alguns contratempos.</desc>
+    <credits>
+      <director>Brian Balthazar</director>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S11 E2</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125112400 -0300" stop="20211125114800 -0300" channel="HGTV">
+    <title lang="pt">Piscinas Espetaculares</title>
+    <sub-title lang="pt">Pool Kings</sub-title>
+    <desc lang="pt">Mike Baldasare e Jim Bellamy, dois amigos que constroem piscinas premiadas em todo o sudoeste dos EUA, viajam para Las Vegas para construir uma piscina dos sonhos para a nova casa de Shane e Willow Jager.</desc>
+    <credits>
+      <director>Brian Balthazar</director>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125114800 -0300" stop="20211125123500 -0300" channel="HGTV">
+    <title lang="pt">Espaços Milionários</title>
+    <sub-title lang="pt">Million Dollar Rooms</sub-title>
+    <desc lang="pt">Um olhar exclusivo sobre alguns dos espaços milionários mais espetaculares do mundo.</desc>
+    <credits>
+      <director>Min Lee</director>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125123500 -0300" stop="20211125125800 -0300" channel="HGTV">
+    <title lang="pt">Desafio da Renovação</title>
+    <sub-title lang="pt">Flea Market Flip</sub-title>
+    <desc lang="pt">Produtos de decoração que incluem peças com múltiplas finalidades, espelhadas e de antiquário.</desc>
+    <credits>
+      <director>Terri Murray</director>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125125800 -0300" stop="20211125132200 -0300" channel="HGTV">
+    <title lang="pt">Desafio da Renovação</title>
+    <sub-title lang="pt">Flea Market Flip</sub-title>
+    <desc lang="pt">Uma saudável rivalidade marca a disputa entre os experientes Ryan e Nina e os melhores amigos Jared e Rae.</desc>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S3 E11</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125132200 -0300" stop="20211125140900 -0300" channel="HGTV">
+    <title lang="pt">Ficar Ou Vender Com Heather E Brad</title>
+    <sub-title lang="pt">Stay Or Sell</sub-title>
+    <desc lang="pt">Um casal decide criar os filhos no mesmo subúrbio onde cresceu. Como o bairro não é adequado para crianças, Brad e Heather os convencem de que está na hora de mudar de casa.</desc>
+    <date>2018</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S5 E11</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125140900 -0300" stop="20211125145600 -0300" channel="HGTV">
+    <title lang="pt">Design Criativo com Antonio Ballatore</title>
+    <desc lang="pt">Com o nascimento da filha, a estilista Wendi transferiu seu ateliê de costura para a sala de estar. Antonio projeta um espaço funcional, alternando o uso profissional e familiar com belos armários de madeira reversíveis.</desc>
+    <credits>
+      <director>Laura Sillars</director>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125145600 -0300" stop="20211125151900 -0300" channel="HGTV">
+    <title lang="pt">Sinta-se Em Casa</title>
+    <sub-title lang="pt">My House Is Your House</sub-title>
+    <desc lang="pt">Interessados em aumentar os lucros com o aluguel de sua casinha, um casal convida Ryan e Claire a transformar o imóvel em um luxuoso espaço de hospedagem.</desc>
+    <date>2017</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125151900 -0300" stop="20211125154300 -0300" channel="HGTV">
+    <title lang="pt">Sinta-se Em Casa</title>
+    <sub-title lang="pt">My House Is Your House</sub-title>
+    <desc lang="pt">Ryan e Claire ajudam um casal a faturar mais com hospedagem reformando a área externa do antigo apartamento que construíram na garagem.</desc>
+    <date>2017</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125154300 -0300" stop="20211125160600 -0300" channel="HGTV">
+    <title lang="pt">A Sonhada Casa do Lago</title>
+    <sub-title lang="pt">Lakefront Bargain Hunt</sub-title>
+    <desc lang="pt">Um casal de Nova York procura uma casa em frente ao Lago Sleepy Hollow para que seus filhos possam brincar ao ar livre.</desc>
+    <credits>
+      <director>Dean Melton</director>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125160600 -0300" stop="20211125163000 -0300" channel="HGTV">
+    <title lang="pt">A Sonhada Casa do Lago</title>
+    <sub-title lang="pt">Lakefront Bargain Hunt</sub-title>
+    <desc lang="pt">Um casal busca uma casa luxuosa para comprar na beira do Lago Pontchartrain, em Slidell, Louisiana.</desc>
+    <credits>
+      <director>Dean Melton</director>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125163000 -0300" stop="20211125171700 -0300" channel="HGTV">
+    <title lang="pt">Trailers Incríveis</title>
+    <sub-title lang="pt">Extreme Rvs</sub-title>
+    <desc lang="pt">Conheça os mais sofisticados trailers sobre rodas, com decorações temáticas incríveis e um acabamento tão luxuoso que deixa as casas comuns comendo poeira.</desc>
+    <credits>
+      <director>Dennis Zerull</director>
+      <actor>Kyle Clark</actor>
+      <actor>Dennis Zerull</actor>
+      <actor>Christopher L. Parson</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125171700 -0300" stop="20211125174000 -0300" channel="HGTV">
+    <title lang="pt">Tendas Modernas</title>
+    <sub-title lang="pt">Love Yurts</sub-title>
+    <desc lang="pt">Nathan e Jenny constroem um yurt de estilo marroquino para Maisa e sua família, uma cliente que tem uma propriedade na beira de um lago.</desc>
+    <credits>
+      <director>Betsy Ayala</director>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125174000 -0300" stop="20211125180400 -0300" channel="HGTV">
+    <title lang="pt">Tendas Modernas</title>
+    <sub-title lang="pt">Love Yurts</sub-title>
+    <desc lang="pt">Os construtores de yurts, Nathan e Jenny, constroem um yurt inspirado em um safári em uma colina varrida pelos ventos com vista para Turtle Bay.</desc>
+    <credits>
+      <director>Betsy Ayala</director>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125180400 -0300" stop="20211125182800 -0300" channel="HGTV">
+    <title lang="pt">A Sonhada Casa do Lago</title>
+    <sub-title lang="pt">Lakefront Bargain Hunt</sub-title>
+    <desc lang="pt">Um casal que vive na cidade grande busca um refúgio em Lake Michigan. Depois de visitar várias localidades, eles se apaixonam por South Haven, Michigan, onde esperam encontrar a casa perfeita por menos de 300 mil dólares.</desc>
+    <date>2017</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125182800 -0300" stop="20211125185200 -0300" channel="HGTV">
+    <title lang="pt">A Sonhada Casa do Lago</title>
+    <sub-title lang="pt">Lakefront Bargain Hunt</sub-title>
+    <desc lang="pt">Depois de anos visitando parentes no estado de Nova York, uma família se apaixona pelos vinhedos e cachoeiras de Seneca Lake. Eles decidem comprar uma casa de veraneio na região por até 250 mil dólares.</desc>
+    <date>2017</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125185200 -0300" stop="20211125191500 -0300" channel="HGTV">
+    <title lang="pt">24 Horas Pra Redecorar</title>
+    <desc lang="pt">As irmãs gêmeas Keilla e Karen são arquitetas e parceiras inseparáveis. Mas nesse desafio, terão que formar seus próprios times e encarar uma divertida competição pra transformarem seus quartos por completo em apenas 24horas. Será que elas são tão diferentes assim? Um desafio em dose dupla pra Renato Mendonça decidir quem leva a melhor na execução do próprio projeto.</desc>
+    <credits>
+      <director>Filipe Godoy</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125191500 -0300" stop="20211125193900 -0300" channel="HGTV">
+    <title lang="pt">24 Horas Pra Redecorar</title>
+    <desc lang="pt">As irmãs gêmeas Keilla e Karen são arquitetas e parceiras inseparáveis. Mas nesse desafio, terão que formar seus próprios times e encarar uma divertida competição pra transformarem seus quartos por completo em apenas 24horas. Será que elas são tão diferentes assim? Um desafio em dose dupla pra Renato Mendonça decidir quem leva a melhor na execução do próprio projeto.</desc>
+    <credits>
+      <director>Filipe Godoy</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125193900 -0300" stop="20211125200200 -0300" channel="HGTV">
+    <title lang="pt">Desafio da Renovação</title>
+    <sub-title lang="pt">Flea Market Flip</sub-title>
+    <desc lang="pt">As duplas deste episódio têm apenas uma hora e 500 dólares para encontrar as melhores ofertas de um mercado de antiguidades em Brimfield, Massachusetts.</desc>
+    <date>2016</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125200200 -0300" stop="20211125202600 -0300" channel="HGTV">
+    <title lang="pt">Desafio da Renovação</title>
+    <sub-title lang="pt">Flea Market Flip</sub-title>
+    <desc lang="pt">Tracey e Catherine, de Manhattan, enfrentam Bryan e Hank, do Brooklyn. As duas equipes têm uma hora e 500 dólares para encontrar os três projetos da lista e um dia para transformá-los em objetos lucrativos.</desc>
+    <credits>
+      <actor>Rosemary Chase</actor>
+      <actor>Catherine Taormina</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S7 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125202600 -0300" stop="20211125204700 -0300" channel="HGTV">
+    <title lang="pt">Em Busca Da Casa Perfeita - Mundo</title>
+    <sub-title lang="pt">House Hunters International</sub-title>
+    <desc lang="pt">Um casal de músicos descobre que comprar uma casa com orçamento apertado no aquecido mercado imobiliário de Nashville é um grande desafio.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S6 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125204700 -0300" stop="20211125210800 -0300" channel="HGTV">
+    <title lang="pt">Em Busca Da Casa Perfeita - Mundo</title>
+    <sub-title lang="pt">House Hunters International</sub-title>
+    <desc lang="pt">Um casal tenta entrar em acordo sobre que tipo de imóvel comprar em New Hampshire.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S11 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125210800 -0300" stop="20211125215500 -0300" channel="HGTV">
+    <title lang="pt">Ficar Ou Vender Com Heather E Brad</title>
+    <sub-title lang="pt">Stay Or Sell</sub-title>
+    <desc lang="pt">Jen Baumgarten acolhe crianças órfãs e não se imagina deixando o bairro onde recebe todo o apoio dos vizinhos. Como ela precisa de mais espaço, Brad e Heather tentam ajudá-la com um orçamento limitado.</desc>
+    <date>2018</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S11 E8</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125215500 -0300" stop="20211125224200 -0300" channel="HGTV">
+    <title lang="pt">Design Criativo com Antonio Ballatore</title>
+    <desc lang="pt">Toby é vocalista de uma banda de punk e sua esposa é uma contadora obcecada pela década de 1950. Antonio projeta um quarto roqueiro para o filho do casal e renova o estilo retrô da cozinha e das salas de estar e jantar.</desc>
+    <date>2010</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125224200 -0300" stop="20211125230500 -0300" channel="HGTV">
+    <title lang="pt">Sinta-se Em Casa</title>
+    <sub-title lang="pt">My House Is Your House</sub-title>
+    <desc lang="pt">Ryan e Claire ajudam um casal a transformar o piso inferior de sua garagem em um espetacular apartamento de um quarto para locação temporária. O objetivo é atrair hóspedes e resenhas elogiosas.</desc>
+    <date>2017</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125230500 -0300" stop="20211125232900 -0300" channel="HGTV">
+    <title lang="pt">Sinta-se Em Casa</title>
+    <sub-title lang="pt">My House Is Your House</sub-title>
+    <desc lang="pt">Um casal não consegue faturar o suficiente com o aluguel de curto prazo de um bangalô. Teryn e Victoria sugere uma reforma cheia de estilo e dicas para aumentar o valor da diária.</desc>
+    <date>2017</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125232900 -0300" stop="20211125235500 -0300" channel="HGTV">
+    <title lang="pt">Menos É Demais</title>
+    <desc lang="pt">Fernanda e Nicolas deixaram partes da casa serem tomadas por brinquedos das filhas pequenas e objetos sem uso. Apesar dos brinquedos que enchem os cômodos, as filhas ficam grudadas no tablet o tempo todo. Novas soluções precisam chegar para essa família.</desc>
+    <credits>
+      <actor>Chiara Gadaleta e Fê Cortez</actor>
+    </credits>
+    <category lang="pt">Séries (Comportamento)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125235500 -0300" stop="20211126001800 -0300" channel="HGTV">
+    <title lang="pt">A Sonhada Casa do Lago</title>
+    <sub-title lang="pt">Lakefront Bargain Hunt</sub-title>
+    <desc lang="pt">Para escapar da rotina estressante, um casal procura um refúgio às margens do Lago Table Rock - mas encontrar um imóvel que atenda a todas as suas necessidades por 350 mil dólares não será fácil.</desc>
+    <credits>
+      <director>Dean Melton</director>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126001800 -0300" stop="20211126010500 -0300" channel="HGTV">
+    <title lang="pt">Trailers Incríveis</title>
+    <sub-title lang="pt">Extreme Rvs</sub-title>
+    <desc lang="pt">Em Nashville, Hemphill Coach Co. projeta uma mansão sobre rodas para The Band Perry. Um ônibus Flxible da coleção de Jay Leno é convertido em um trailer. Em Denver, três trailers Airstreams são reformados.</desc>
+    <credits>
+      <director>Dennis Zerull</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126010500 -0300" stop="20211126012800 -0300" channel="HGTV">
+    <title lang="pt">Tendas Modernas</title>
+    <sub-title lang="pt">Love Yurts</sub-title>
+    <desc lang="pt">Os construtores de yurts, Nathan e Jenny, constroem um yurt inspirado em um safári em uma colina varrida pelos ventos com vista para Turtle Bay.</desc>
+    <credits>
+      <director>Betsy Ayala</director>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126012800 -0300" stop="20211126015200 -0300" channel="HGTV">
+    <title lang="pt">Tendas Modernas</title>
+    <sub-title lang="pt">Love Yurts</sub-title>
+    <desc lang="pt">Nathan e Jenny constroem um yurt de estilo marroquino para Maisa e sua família, uma cliente que tem uma propriedade na beira de um lago.</desc>
+    <credits>
+      <director>Betsy Ayala</director>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126015200 -0300" stop="20211126021400 -0300" channel="HGTV">
+    <title lang="pt">Desafio da Renovação</title>
+    <sub-title lang="pt">Flea Market Flip</sub-title>
+    <desc lang="pt">As duplas deste episódio têm apenas uma hora e 500 dólares para encontrar as melhores ofertas de um mercado de antiguidades em Brimfield, Massachusetts.</desc>
+    <date>2016</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126021400 -0300" stop="20211126023700 -0300" channel="HGTV">
+    <title lang="pt">Desafio da Renovação</title>
+    <sub-title lang="pt">Flea Market Flip</sub-title>
+    <desc lang="pt">Tracey e Catherine, de Manhattan, enfrentam Bryan e Hank, do Brooklyn. As duas equipes têm uma hora e 500 dólares para encontrar os três projetos da lista e um dia para transformá-los em objetos lucrativos.</desc>
+    <credits>
+      <actor>Rosemary Chase</actor>
+      <actor>Catherine Taormina</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S7 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126023700 -0300" stop="20211126025900 -0300" channel="HGTV">
+    <title lang="pt">Em Busca Da Casa Perfeita - Mundo</title>
+    <sub-title lang="pt">House Hunters International</sub-title>
+    <desc lang="pt">Um casal de músicos descobre que comprar uma casa com orçamento apertado no aquecido mercado imobiliário de Nashville é um grande desafio.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S6 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126025900 -0300" stop="20211126032200 -0300" channel="HGTV">
+    <title lang="pt">Em Busca Da Casa Perfeita - Mundo</title>
+    <sub-title lang="pt">House Hunters International</sub-title>
+    <desc lang="pt">Um casal tenta entrar em acordo sobre que tipo de imóvel comprar em New Hampshire.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S11 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126032200 -0300" stop="20211126040600 -0300" channel="HGTV">
+    <title lang="pt">Ficar Ou Vender Com Heather E Brad</title>
+    <sub-title lang="pt">Stay Or Sell</sub-title>
+    <desc lang="pt">Jen Baumgarten acolhe crianças órfãs e não se imagina deixando o bairro onde recebe todo o apoio dos vizinhos. Como ela precisa de mais espaço, Brad e Heather tentam ajudá-la com um orçamento limitado.</desc>
+    <date>2018</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S11 E8</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126040600 -0300" stop="20211126045200 -0300" channel="HGTV">
+    <title lang="pt">Design Criativo com Antonio Ballatore</title>
+    <desc lang="pt">Toby é vocalista de uma banda de punk e sua esposa é uma contadora obcecada pela década de 1950. Antonio projeta um quarto roqueiro para o filho do casal e renova o estilo retrô da cozinha e das salas de estar e jantar.</desc>
+    <date>2010</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126045200 -0300" stop="20211126051400 -0300" channel="HGTV">
+    <title lang="pt">Sinta-se Em Casa</title>
+    <sub-title lang="pt">My House Is Your House</sub-title>
+    <desc lang="pt">Ryan e Claire ajudam um casal a transformar o piso inferior de sua garagem em um espetacular apartamento de um quarto para locação temporária. O objetivo é atrair hóspedes e resenhas elogiosas.</desc>
+    <date>2017</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126051400 -0300" stop="20211126053700 -0300" channel="HGTV">
+    <title lang="pt">Sinta-se Em Casa</title>
+    <sub-title lang="pt">My House Is Your House</sub-title>
+    <desc lang="pt">Um casal não consegue faturar o suficiente com o aluguel de curto prazo de um bangalô. Teryn e Victoria sugere uma reforma cheia de estilo e dicas para aumentar o valor da diária.</desc>
+    <date>2017</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126053700 -0300" stop="20211126060000 -0300" channel="HGTV">
+    <title lang="pt">Produtos dos Sonhos</title>
+    <sub-title lang="pt">I Want That</sub-title>
+    <desc lang="pt">Neste episódio, conheça azulejos adesivos feitos de metal, espelhos que irradiam calor em um cômodo, papel de parede que imita concreto, um bebedouro para animais de estimação com uma cachoeira e uma ferramenta multiuso.</desc>
+    <credits>
+      <director>Joyce Pearson</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126060000 -0300" stop="20211126062300 -0300" channel="HGTV">
+    <title lang="pt">Produtos dos Sonhos</title>
+    <sub-title lang="pt">I Want That</sub-title>
+    <desc lang="pt">Neste episódio, conheça azulejos adesivos feitos de metal, espelhos que irradiam calor em um cômodo, papel de parede que imita concreto, um bebedouro para animais de estimação com uma cachoeira e uma ferramenta multiuso.</desc>
+    <credits>
+      <director>Joyce Pearson</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126062300 -0300" stop="20211126064600 -0300" channel="HGTV">
+    <title lang="pt">Em Busca Da Casa Perfeita - Mundo</title>
+    <sub-title lang="pt">House Hunters International</sub-title>
+    <desc lang="pt">Um casal de músicos descobre que comprar uma casa com orçamento apertado no aquecido mercado imobiliário de Nashville é um grande desafio.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126064600 -0300" stop="20211126070900 -0300" channel="HGTV">
+    <title lang="pt">Em Busca Da Casa Perfeita - Mundo</title>
+    <sub-title lang="pt">House Hunters International</sub-title>
+    <desc lang="pt">Um casal tenta entrar em acordo sobre que tipo de imóvel comprar em New Hampshire.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S11 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126070900 -0300" stop="20211126075500 -0300" channel="HGTV">
+    <title lang="pt">Ficar Ou Vender Com Heather E Brad</title>
+    <sub-title lang="pt">Stay Or Sell</sub-title>
+    <desc lang="pt">Jen Baumgarten acolhe crianças órfãs e não se imagina deixando o bairro onde recebe todo o apoio dos vizinhos. Como ela precisa de mais espaço, Brad e Heather tentam ajudá-la com um orçamento limitado.</desc>
+    <date>2018</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S11 E8</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126075500 -0300" stop="20211126084100 -0300" channel="HGTV">
+    <title lang="pt">Design Criativo com Antonio Ballatore</title>
+    <desc lang="pt">Toby é vocalista de uma banda de punk e sua esposa é uma contadora obcecada pela década de 1950. Antonio projeta um quarto roqueiro para o filho do casal e renova o estilo retrô da cozinha e das salas de estar e jantar.</desc>
+    <date>2010</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126084100 -0300" stop="20211126090400 -0300" channel="HGTV">
+    <title lang="pt">Sinta-se Em Casa</title>
+    <sub-title lang="pt">My House Is Your House</sub-title>
+    <desc lang="pt">Ryan e Claire ajudam um casal a transformar o piso inferior de sua garagem em um espetacular apartamento de um quarto para locação temporária. O objetivo é atrair hóspedes e resenhas elogiosas.</desc>
+    <date>2017</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126090400 -0300" stop="20211126092700 -0300" channel="HGTV">
+    <title lang="pt">Sinta-se Em Casa</title>
+    <sub-title lang="pt">My House Is Your House</sub-title>
+    <desc lang="pt">Um casal não consegue faturar o suficiente com o aluguel de curto prazo de um bangalô. Teryn e Victoria sugere uma reforma cheia de estilo e dicas para aumentar o valor da diária.</desc>
+    <date>2017</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126092700 -0300" stop="20211126095000 -0300" channel="HGTV">
+    <title lang="pt">A Sonhada Casa do Lago</title>
+    <sub-title lang="pt">Lakefront Bargain Hunt</sub-title>
+    <desc lang="pt">Um casal de Nova York procura uma casa em frente ao Lago Sleepy Hollow para que seus filhos possam brincar ao ar livre.</desc>
+    <credits>
+      <director>Dean Melton</director>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126095000 -0300" stop="20211126101400 -0300" channel="HGTV">
+    <title lang="pt">A Sonhada Casa do Lago</title>
+    <sub-title lang="pt">Lakefront Bargain Hunt</sub-title>
+    <desc lang="pt">Um casal busca uma casa luxuosa para comprar na beira do Lago Pontchartrain, em Slidell, Louisiana.</desc>
+    <credits>
+      <director>Dean Melton</director>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126101400 -0300" stop="20211126103700 -0300" channel="HGTV">
+    <title lang="pt">Em Busca Da Casa Perfeita - Mundo</title>
+    <sub-title lang="pt">House Hunters International</sub-title>
+    <desc lang="pt">Um casal de Baltimore procura uma casa espaçosa que comporte seu enorme sofá.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126103700 -0300" stop="20211126110100 -0300" channel="HGTV">
+    <title lang="pt">Em Busca Da Casa Perfeita - Mundo</title>
+    <sub-title lang="pt">House Hunters International</sub-title>
+    <desc lang="pt">Depois de morar algum tempo em San Diego, Jake e Heather retornam ao Oregon pra comprar uma casa.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S11 E13</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126110100 -0300" stop="20211126112400 -0300" channel="HGTV">
+    <title lang="pt">Piscinas Espetaculares</title>
+    <sub-title lang="pt">Pool Kings</sub-title>
+    <desc lang="pt">Depois de 14 anos, uma família de Lake Jackson, Texas, finalmente constrói uma casa perto do Lago Pecan. Localizado numa península, o quintal da propriedade tem o espaço ideal para uma piscina de borda infinita.</desc>
+    <credits>
+      <director>Brian Balthazar</director>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S11 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126112400 -0300" stop="20211126114800 -0300" channel="HGTV">
+    <title lang="pt">Piscinas Espetaculares</title>
+    <sub-title lang="pt">Pool Kings</sub-title>
+    <desc lang="pt">Mike e Jim encaram um projeto desafiador quando um casal de Palm Springs decide transformar seu quintal estreito em um resort equipado com gruta, área zen, piscina e um spa.</desc>
+    <credits>
+      <director>Brian Balthazar</director>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126114800 -0300" stop="20211126123500 -0300" channel="HGTV">
+    <title lang="pt">Espaços Milionários</title>
+    <sub-title lang="pt">Million Dollar Rooms</sub-title>
+    <desc lang="pt">Esta série destaca alguns dos ambientes mais caros do mundo.</desc>
+    <credits>
+      <director>Min Lee</director>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S4 E2</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126123500 -0300" stop="20211126125800 -0300" channel="HGTV">
+    <title lang="pt">Desafio da Renovação</title>
+    <sub-title lang="pt">Flea Market Flip</sub-title>
+    <desc lang="pt">Neste episódio, os participantes criam objetos com papel e executam projetos rústicos e refinados.</desc>
+    <credits>
+      <director>Terri Murray</director>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126125800 -0300" stop="20211126132200 -0300" channel="HGTV">
+    <title lang="pt">Desafio da Renovação</title>
+    <sub-title lang="pt">Flea Market Flip</sub-title>
+    <desc lang="pt">Amigos ecléticos, Doug e June competem contra as veteranas Cindy e Lynn.</desc>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S3 E12</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126132200 -0300" stop="20211126140900 -0300" channel="HGTV">
+    <title lang="pt">Celebridades Em Casa</title>
+    <sub-title lang="pt">Celebrities At Home</sub-title>
+    <desc lang="pt">Melissa Rycroft mostra a Nancy O'Dell sua mansão moderna em Los Angeles. Antonio Gates revela sua arejada residência em San Diego. Lisa Vanderpump faz um tour por sua espaçosa mansão, repleta de objetos variados.</desc>
+    <date>2012</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S5 E12</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126140900 -0300" stop="20211126145600 -0300" channel="HGTV">
+    <title lang="pt">Celebridades Em Casa</title>
+    <sub-title lang="pt">Celebrities At Home</sub-title>
+    <desc lang="pt">Nancy O'Dell conhece a casa onde Antonio Sabato Jr. recebe parentes e amigos. Kevin Eubanks apresenta a vista espetacular de sua casa de praia na Califórnia.</desc>
+    <date>2012</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126145600 -0300" stop="20211126151900 -0300" channel="HGTV">
+    <title lang="pt">Desafio da Renovação</title>
+    <sub-title lang="pt">Flea Market Flip</sub-title>
+    <desc lang="pt">Dois times de pessoas que moram juntas competem no Bazar do Aeroporto de Stormville, Nova York: design retrô; projeto claro e escuro; crie uma dupla.</desc>
+    <credits>
+      <director>Terri Murray</director>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126151900 -0300" stop="20211126154300 -0300" channel="HGTV">
+    <title lang="pt">Desafio da Renovação</title>
+    <sub-title lang="pt">Flea Market Flip</sub-title>
+    <desc lang="pt">Vizinhos enfrentam um casal no Mercado de Antiguidades de Long Beach, Califórnia: armazenamento de luxo; projeto de espelho; design claro e escuro.</desc>
+    <credits>
+      <director>Terri Murray</director>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126154300 -0300" stop="20211126160600 -0300" channel="HGTV">
+    <title lang="pt">A Sonhada Casa do Lago</title>
+    <sub-title lang="pt">Lakefront Bargain Hunt</sub-title>
+    <desc lang="pt">Um casal procura uma residência flutuante para comprar no Lago Union, em Seattle, Washington.</desc>
+    <credits>
+      <director>Dean Melton</director>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S2 E11</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126160600 -0300" stop="20211126163000 -0300" channel="HGTV">
+    <title lang="pt">A Sonhada Casa do Lago</title>
+    <sub-title lang="pt">Lakefront Bargain Hunt</sub-title>
+    <desc lang="pt">Para escapar da rotina estressante, um casal procura um refúgio às margens do Lago Table Rock - mas encontrar um imóvel que atenda a todas as suas necessidades por 350 mil dólares não será fácil.</desc>
+    <credits>
+      <director>Dean Melton</director>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126163000 -0300" stop="20211126165300 -0300" channel="HGTV">
+    <title lang="pt">Reformando Quintais com Chris Lambton</title>
+    <desc lang="pt">Chris Lambton ajuda um casal cujo quintal foi dominado por seus dois cães. Ele constrói um novo espaço comum, um deque, um bar tiki, uma banheira e um parque personalizado para cães.</desc>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126165300 -0300" stop="20211126171700 -0300" channel="HGTV">
+    <title lang="pt">Reformando Quintais com Chris Lambton</title>
+    <desc lang="pt">Chris Lambton e sua equipe projetam para uma família um quintal com um deque, uma horta elevada e um parquinho para as crianças.</desc>
+    <credits>
+      <director>Dale Roy Robinson</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126171700 -0300" stop="20211126174000 -0300" channel="HGTV">
+    <title lang="pt">Piscinas Espetaculares</title>
+    <sub-title lang="pt">Pool Kings</sub-title>
+    <desc lang="pt">Uma família de Nashville espera que Kyle e Justin construam a piscina perfeita em seu quintal, mas enfrenta alguns contratempos.</desc>
+    <credits>
+      <director>Brian Balthazar</director>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126174000 -0300" stop="20211126180400 -0300" channel="HGTV">
+    <title lang="pt">Piscinas Espetaculares</title>
+    <sub-title lang="pt">Pool Kings</sub-title>
+    <desc lang="pt">Depois de 14 anos, uma família de Lake Jackson, Texas, finalmente constrói uma casa perto do Lago Pecan. Localizado numa península, o quintal da propriedade tem o espaço ideal para uma piscina de borda infinita.</desc>
+    <credits>
+      <director>Brian Balthazar</director>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126180400 -0300" stop="20211126182800 -0300" channel="HGTV">
+    <title lang="pt">A Sonhada Casa do Lago</title>
+    <sub-title lang="pt">Lakefront Bargain Hunt</sub-title>
+    <desc lang="pt">Uma família de Missouri City, Texas, sonha em ter acesso a um lago em seu quintal. Com tantas cidades promissoras na região, eles decidem procurar a casa perfeita por menos de 375 mil dólares.</desc>
+    <date>2017</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126182800 -0300" stop="20211126185200 -0300" channel="HGTV">
+    <title lang="pt">A Sonhada Casa do Lago</title>
+    <sub-title lang="pt">Lakefront Bargain Hunt</sub-title>
+    <desc lang="pt">Uma família de San Diego decide se reconectar com suas raízes voltando a morar no estado de Nova York. Eles buscam uma casa à beira d´água por menos 300 mil dólares em Owasco Lake.</desc>
+    <date>2017</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126185200 -0300" stop="20211126191500 -0300" channel="HGTV">
+    <title lang="pt">24 Horas Pra Redecorar</title>
+    <desc lang="pt">Um item curioso e desafiador para qualquer profissional da decoração é o protagonista tanto da sala da Carol, quanto da sala do Thales: um sofá vermelho. Como será que esses profissionais vão redecorar seus espaços e surpreender Renato Mendonça, em apenas 24horas e mantendo o inusitado móvel na decoração?</desc>
+    <credits>
+      <director>Filipe Godoy</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126191500 -0300" stop="20211126193900 -0300" channel="HGTV">
+    <title lang="pt">24 Horas Pra Redecorar</title>
+    <desc lang="pt">Empresária e mãe de três filhos, sendo o mais novo um bebê, Amanda sonha em transformar o porão de casa no seu espaço diário de concentração, criação e descompressão. Mas o máximo que conseguiu foi fazer do ambiente um grande depósito.</desc>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126193900 -0300" stop="20211126200200 -0300" channel="HGTV">
+    <title lang="pt">Desafio da Renovação</title>
+    <sub-title lang="pt">Flea Market Flip</sub-title>
+    <desc lang="pt">Um casal de fashionistas enfrenta duas especialistas em decoração.</desc>
+    <date>2016</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126200200 -0300" stop="20211126202600 -0300" channel="HGTV">
+    <title lang="pt">Desafio da Renovação</title>
+    <sub-title lang="pt">Flea Market Flip</sub-title>
+    <desc lang="pt">A magia está no ar quando os designers Cherise e Kim enfrentam os habilidosos artesãos Joe e Andrew. As duas equipes têm uma hora para encontrar os itens da lista, que inclui um projeto Wabi-Sabi e um projeto de escritório.</desc>
+    <date>2016</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S7 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126202600 -0300" stop="20211126204700 -0300" channel="HGTV">
+    <title lang="pt">Em Busca Da Casa Perfeita - Mundo</title>
+    <sub-title lang="pt">House Hunters International</sub-title>
+    <desc lang="pt">Um casal de Chicago não consegue decidir se compra uma casa que precise de reformas ou um imóvel pronto para morar.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S6 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126204700 -0300" stop="20211126210800 -0300" channel="HGTV">
+    <title lang="pt">Em Busca Da Casa Perfeita - Mundo</title>
+    <sub-title lang="pt">House Hunters International</sub-title>
+    <desc lang="pt">Um casal de músicos descobre que comprar uma casa com orçamento apertado no aquecido mercado imobiliário de Nashville é um grande desafio.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S11 E7</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126210800 -0300" stop="20211126215500 -0300" channel="HGTV">
+    <title lang="pt">Casas Multimilionárias</title>
+    <sub-title lang="pt">Billion Dollar Block</sub-title>
+    <desc lang="pt">Taniya Nayak vai a Charleston, na Carolina do Sul, e mostra casas de um bairro exclusivo. Ela visita uma mega mansão perto da água e uma casa colonial impecável do século 19.</desc>
+    <credits>
+      <actor>Taniya Nayak</actor>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S11 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126215500 -0300" stop="20211126224200 -0300" channel="HGTV">
+    <title lang="pt">Casas Multimilionárias</title>
+    <sub-title lang="pt">Billion Dollar Block</sub-title>
+    <desc lang="pt">Taniya visita a abastada cidade de Colts Neck, em Nova Jersey, onde conhece uma mansão inspirada em uma viagem à Itália, passeia em uma propriedade de dois hectares e visita uma casa enorme, com rinque de patinação no gelo.</desc>
+    <credits>
+      <actor>Taniya Nayak</actor>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126224200 -0300" stop="20211126230500 -0300" channel="HGTV">
+    <title lang="pt">24 Horas Pra Redecorar</title>
+    <desc lang="pt">Elisa viu a "família' crescer e sua sala "encolher" depois que passou a dividir apartamento com o namorado, cujos pais são do interior e vêm pelo menos uma vez por mês visitá-los.</desc>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126230500 -0300" stop="20211126232900 -0300" channel="HGTV">
+    <title lang="pt">24 Horas Pra Redecorar</title>
+    <desc lang="pt">Vitória e Mariana se conheceram na faculdade e construíram uma grande amizade. Acostumadas a dividir os trabalhos, as profissionais recém-formadas terão que escalar os próprios times pra encarar o desafio de transformar suas próprias salas em apenas 24 horas. Qual será o projeto que chamará mais a atenção de Renato Mendonça?</desc>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126232900 -0300" stop="20211126235500 -0300" channel="HGTV">
+    <title lang="pt">Menos É Demais</title>
+    <desc lang="pt">A sala de Katia está tomada por brinquedos dos filhos já crescidos, fruto de anos de compras impensadas. Chiara Gadaleta e Fe Cortez vão trazer novas ideias para mudar o jeito que Katia lida com esses objetos e a forma como se relaciona com a casa.</desc>
+    <credits>
+      <actor>Chiara Gadaleta e Fê Cortez</actor>
+    </credits>
+    <category lang="pt">Séries (Comportamento)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125005400 -0300" stop="20211125014900 -0300" channel="History">
+    <title lang="pt">Alienígenas do Passado</title>
+    <sub-title lang="pt">Ancient Aliens</sub-title>
+    <desc lang="pt">Os Estados Unidos e a Rússia teriam enviado missões espaciais conjuntas em segredo? Estarão se preparando para lutar contra os extraterrestres?</desc>
+    <credits>
+      <actor>Robert Clotworthy</actor>
+      <actor>Giorgio Tsoukalos</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125014900 -0300" stop="20211125023900 -0300" channel="History">
+    <title lang="pt">Caçadores de Relíquias</title>
+    <sub-title lang="pt">American Pickers</sub-title>
+    <desc lang="pt">Durante uma de suas viagens pelos Estados Unidos em busca de objetos valiosos, Mike e Frank se apaixonam à primeira vista por um par de maravilhas da velocidade: duas das motocicletas mais rápidas já construídas. Agora eles estão dispostos a fazer qualquer coisa para que elas não sejam esquecidas.</desc>
+    <credits>
+      <actor>Frank Fritz</actor>
+      <actor>Mike Wolfe</actor>
+      <actor>Danielle Colby-Cushman</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S11 E142</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125023900 -0300" stop="20211125032900 -0300" channel="History">
+    <title lang="pt">Caçadores de Relíquias</title>
+    <sub-title lang="pt">American Pickers</sub-title>
+    <desc lang="pt">Em Washington, Mike e Frank visitam Norm, que tem dois grandes depósitos cheios de veículos, pôsteres e cartazes incríveis para vender. Mas isso não é tudo, porque na Califórnia os rapazes também vão conhecer uma fazenda cheia de surpresas.</desc>
+    <credits>
+      <actor>Frank Fritz</actor>
+      <actor>Mike Wolfe</actor>
+      <actor>Danielle Colby-Cushman</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S16 E276</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125032900 -0300" stop="20211125041900 -0300" channel="History">
+    <title lang="pt">Trato Feito</title>
+    <sub-title lang="pt">Pawn Stars</sub-title>
+    <desc lang="pt">Chum tenta comprar uma estufa antiga e um boneco do ator de "Saved by the Bell: Casamento em Las Vegas". Mais tarde, os rapazes pegam a estrada com o objetivo de obter o carro dos sonhos da juventude de Rick. Eles vão comprá-lo? Além disso, Chum mastiga uma negociação por uma máquina de chicletes.</desc>
+    <credits>
+      <actor>Corey Harrison</actor>
+      <actor>Richard Harrison</actor>
+      <actor>Rick Harrison</actor>
+      <actor>Brett K. Maly</actor>
+      <actor>Chris Richardson</actor>
+      <actor>Austin 'Chumlee' Russell</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S17 E288</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125041900 -0300" stop="20211125050900 -0300" channel="History">
+    <title lang="pt">Alienígenas do Passado</title>
+    <sub-title lang="pt">Ancient Aliens</sub-title>
+    <desc lang="pt">Para os investigadores, a Área 51 é um recurso para encobrir os experimentos extraterrestres que são realizados em outros lugares secretos.</desc>
+    <credits>
+      <actor>Robert Clotworthy</actor>
+      <actor>Giorgio Tsoukalos</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S22 E555</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125050900 -0300" stop="20211125060000 -0300" channel="History">
+    <title lang="pt">Alienígenas do Passado</title>
+    <sub-title lang="pt">Ancient Aliens</sub-title>
+    <desc lang="pt">Os Estados Unidos e a Rússia teriam enviado missões espaciais conjuntas em segredo? Estarão se preparando para lutar contra os extraterrestres?</desc>
+    <credits>
+      <actor>Robert Clotworthy</actor>
+      <actor>Giorgio Tsoukalos</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S11 E137</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125060000 -0300" stop="20211125070000 -0300" channel="History">
+    <title lang="pt">Caçadores de Relíquias</title>
+    <sub-title lang="pt">American Pickers</sub-title>
+    <desc lang="pt">Durante uma de suas viagens pelos Estados Unidos em busca de objetos valiosos, Mike e Frank se apaixonam à primeira vista por um par de maravilhas da velocidade: duas das motocicletas mais rápidas já construídas. Agora eles estão dispostos a fazer qualquer coisa para que elas não sejam esquecidas.</desc>
+    <credits>
+      <actor>Frank Fritz</actor>
+      <actor>Mike Wolfe</actor>
+      <actor>Danielle Colby-Cushman</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S11 E142</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125070000 -0300" stop="20211125080000 -0300" channel="History">
+    <title lang="pt">Jornal da Manhã</title>
+    <desc lang="pt">O jornal de maior audiência do país reúne a equipe de repórteres com as principais notícias do Brasil e do mundo, além da análise dos fatos com o time de comentaristas da Jovem Pan. Logo no início da manhã, você terá muita informação, com foco na política, economia, saúde e o que mais for importante para começar o seu dia.</desc>
+    <date>2021</date>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <episode-num system="onscreen">S16 E276</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125080000 -0300" stop="20211125090000 -0300" channel="History">
+    <title lang="pt">Jornal da Manhã</title>
+    <desc lang="pt">O jornal de maior audiência do país reúne a equipe de repórteres com as principais notícias do Brasil e do mundo, além da análise dos fatos com o time de comentaristas da Jovem Pan. Logo no início da manhã, você terá muita informação, com foco na política, economia, saúde e o que mais for importante para começar o seu dia.</desc>
+    <date>2021</date>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125090000 -0300" stop="20211125095600 -0300" channel="History">
+    <title lang="pt">O Melhor de Caçadores de Relíquias</title>
+    <sub-title lang="pt">American Pickers Best Of</sub-title>
+    <desc lang="pt">Mike e Frank vão à caça de um tesouro marinho. Enquanto isso, Dani persegue uma joia da Amazônia e Robbie não vai descansar até encontrar uma riqueza dourada.</desc>
+    <credits>
+      <actor>Mike Wolfe</actor>
+      <actor>Frank Fritz</actor>
+      <actor>Danielle Colby-Cushman</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125095600 -0300" stop="20211125105200 -0300" channel="History">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <sub-title lang="pt">Forged In Fire</sub-title>
+    <desc lang="pt">Pela primeira vez na história do programa, os ferreiros deverão usar titânio para forjar os cabos de suas armas.</desc>
+    <credits>
+      <actor>Wil Willis</actor>
+      <actor>J. Neilson</actor>
+      <actor>David Baker</actor>
+      <actor>Doug Marcaida</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S17 E108</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125105200 -0300" stop="20211125114800 -0300" channel="History">
+    <title lang="pt">Caçadores de Relíquias</title>
+    <sub-title lang="pt">American Pickers</sub-title>
+    <desc lang="pt">Durante uma de suas viagens pelos Estados Unidos em busca de objetos valiosos, Mike e Frank se apaixonam à primeira vista por um par de maravilhas da velocidade: duas das motocicletas mais rápidas já construídas. Agora eles estão dispostos a fazer qualquer coisa para que elas não sejam esquecidas.</desc>
+    <credits>
+      <actor>Frank Fritz</actor>
+      <actor>Mike Wolfe</actor>
+      <actor>Danielle Colby-Cushman</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S7 E158</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125114800 -0300" stop="20211125121500 -0300" channel="History">
+    <title lang="pt">Trato Feito</title>
+    <sub-title lang="pt">Pawn Stars</sub-title>
+    <desc lang="pt">A figura de ação mais rara e cara de Star Wars chega à loja. Um pôster autografado e uma coleção gigantesca de cartas de Star Wars, e, ainda mais, uma parte das docas da Estrela da Morte. Estará Rick ao lado da Força para comprar estes itens?</desc>
+    <credits>
+      <actor>Corey Harrison</actor>
+      <actor>Richard Harrison</actor>
+      <actor>Rick Harrison</actor>
+      <actor>Brett K. Maly</actor>
+      <actor>Chris Richardson</actor>
+      <actor>Austin 'Chumlee' Russell</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S16 E276</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125121500 -0300" stop="20211125124200 -0300" channel="History">
+    <title lang="pt">Trato Feito</title>
+    <sub-title lang="pt">Pawn Stars</sub-title>
+    <desc lang="pt">O chapéu e a arma de um suspeito deser Jack, o Estripador, um relógio de 1920, um jogo de mesa popular e uma lâmpada com forma de gnomo.</desc>
+    <credits>
+      <actor>Corey Harrison</actor>
+      <actor>Richard Harrison</actor>
+      <actor>Rick Harrison</actor>
+      <actor>Brett K. Maly</actor>
+      <actor>Chris Richardson</actor>
+      <actor>Austin 'Chumlee' Russell</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S18 E449</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125124200 -0300" stop="20211125130900 -0300" channel="History">
+    <title lang="pt">Trato Feito</title>
+    <sub-title lang="pt">Pawn Stars</sub-title>
+    <desc lang="pt">Um autômato mágico, uma Biblia de 1500, uma máquina de corrida de cavalos e uma coleção com emblemas da Segunda Guerra Mundial.</desc>
+    <credits>
+      <actor>Corey Harrison</actor>
+      <actor>Richard Harrison</actor>
+      <actor>Rick Harrison</actor>
+      <actor>Brett K. Maly</actor>
+      <actor>Chris Richardson</actor>
+      <actor>Austin 'Chumlee' Russell</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S19 E499</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125130900 -0300" stop="20211125140600 -0300" channel="History">
+    <title lang="pt">Alienígenas do Passado</title>
+    <sub-title lang="pt">Ancient Aliens</sub-title>
+    <desc lang="pt">Os Estados Unidos e a Rússia teriam enviado missões espaciais conjuntas em segredo? Estarão se preparando para lutar contra os extraterrestres?</desc>
+    <credits>
+      <actor>Robert Clotworthy</actor>
+      <actor>Giorgio Tsoukalos</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S19 E493</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125140600 -0300" stop="20211125150200 -0300" channel="History">
+    <title lang="pt">Alienígenas do Passado</title>
+    <sub-title lang="pt">Ancient Aliens</sub-title>
+    <desc lang="pt">Para os investigadores, a Área 51 é um recurso para encobrir os experimentos extraterrestres que são realizados em outros lugares secretos.</desc>
+    <credits>
+      <actor>Robert Clotworthy</actor>
+      <actor>Giorgio Tsoukalos</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S11 E142</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125150200 -0300" stop="20211125155800 -0300" channel="History">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <sub-title lang="pt">Forged In Fire</sub-title>
+    <desc lang="pt">Pela primeira vez na história do programa, os ferreiros deverão usar titânio para forjar os cabos de suas armas.</desc>
+    <credits>
+      <actor>Wil Willis</actor>
+      <actor>J. Neilson</actor>
+      <actor>David Baker</actor>
+      <actor>Doug Marcaida</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S11 E137</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125155800 -0300" stop="20211125165300 -0300" channel="History">
+    <title lang="pt">Caçadores de Relíquias</title>
+    <sub-title lang="pt">American Pickers</sub-title>
+    <desc lang="pt">Em Washington, Mike e Frank visitam Norm, que tem dois grandes depósitos cheios de veículos, pôsteres e cartazes incríveis para vender. Mas isso não é tudo, porque na Califórnia os rapazes também vão conhecer uma fazenda cheia de surpresas.</desc>
+    <credits>
+      <actor>Frank Fritz</actor>
+      <actor>Mike Wolfe</actor>
+      <actor>Danielle Colby-Cushman</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S7 E158</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125165300 -0300" stop="20211125174800 -0300" channel="History">
+    <title lang="pt">Trato Feito</title>
+    <sub-title lang="pt">Pawn Stars</sub-title>
+    <desc lang="pt">Chum tenta comprar uma estufa antiga e um boneco do ator de "Saved by the Bell: Casamento em Las Vegas". Mais tarde, os rapazes pegam a estrada com o objetivo de obter o carro dos sonhos da juventude de Rick. Eles vão comprá-lo? Além disso, Chum mastiga uma negociação por uma máquina de chicletes.</desc>
+    <credits>
+      <actor>Corey Harrison</actor>
+      <actor>Richard Harrison</actor>
+      <actor>Rick Harrison</actor>
+      <actor>Brett K. Maly</actor>
+      <actor>Chris Richardson</actor>
+      <actor>Austin 'Chumlee' Russell</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S17 E288</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125174800 -0300" stop="20211125184300 -0300" channel="History">
+    <title lang="pt">Trato Feito</title>
+    <sub-title lang="pt">Pawn Stars</sub-title>
+    <desc lang="pt">Rick viaja para a Inglaterra para testar armas antigas e tentar ficar com um carro que pertenceu a Winston Churchill. Enquanto isso na loja, Chum e Corey lutam para conseguir um martelo muito especial e um artigo que serviu de inspiração para um filme clássico. Eles terão sucesso nessa empreitada?</desc>
+    <credits>
+      <actor>Corey Harrison</actor>
+      <actor>Richard Harrison</actor>
+      <actor>Rick Harrison</actor>
+      <actor>Brett K. Maly</actor>
+      <actor>Chris Richardson</actor>
+      <actor>Austin 'Chumlee' Russell</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S22 E555</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125184300 -0300" stop="20211125184600 -0300" channel="History">
+    <title lang="pt">Ilustrando História</title>
+    <desc lang="pt">Chopin ficou conhecido como o Poeta do Piano. Seu amor por sua terra natal, a Polônia, inspirou sua música e sua vida.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S21 E553</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125184600 -0300" stop="20211125191400 -0300" channel="History">
+    <title lang="pt">Trato Feito</title>
+    <sub-title lang="pt">Pawn Stars</sub-title>
+    <desc lang="pt">Uma bicicleta "high wheel", um walkman e um piano de 1800. Além disso, Chum vende uma espada Katana para o presidente da UFC.</desc>
+    <credits>
+      <actor>Corey Harrison</actor>
+      <actor>Richard Harrison</actor>
+      <actor>Rick Harrison</actor>
+      <actor>Brett K. Maly</actor>
+      <actor>Chris Richardson</actor>
+      <actor>Austin 'Chumlee' Russell</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125191400 -0300" stop="20211125200900 -0300" channel="History">
+    <title lang="pt">Caçadores de Relíquias</title>
+    <sub-title lang="pt">American Pickers</sub-title>
+    <desc lang="pt">Nos arredores de São Francisco, os rapazes visitam uma nostálgica coleção que inclui brinquedos, arte e pôsteres antigos. Depois, no sul da Califórnia, eles sentem o gostinho de dirigir uma limusine Buick e vão tentar ficar com um grande lote de cartazes velhos. O que vão pedir em troca deles?</desc>
+    <credits>
+      <actor>Frank Fritz</actor>
+      <actor>Mike Wolfe</actor>
+      <actor>Danielle Colby-Cushman</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S19 E501</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125200900 -0300" stop="20211125210600 -0300" channel="History">
+    <title lang="pt">Desafio Sob Fogo: Brasil &amp; América Latina</title>
+    <sub-title lang="pt">Forged In Fire Latin America</sub-title>
+    <desc lang="pt">A esperança se renova com novos concorrentes chegando à forja. Eles são: Facundo, da Argentina, Julio, do Brasil, Ernesto, do México, e Pablo, do Chile. No primeiro desafio, eles têm que se livrar das algemas que os mantêm acorrentados para forjar uma adaga templária como as usadas durante as Cruzadas.</desc>
+    <credits>
+      <actor>Juan Pablo Llano</actor>
+      <actor>Ricardo Vilar</actor>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S16 E282</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125210600 -0300" stop="20211125220100 -0300" channel="History">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <sub-title lang="pt">Forged In Fire</sub-title>
+    <desc lang="pt">Quatro membros das forças armadas dos EUA travam uma batalha de 5 horas na forja. Primeiro, no duelo de campeões, e depois, no duelo de sargentos, onde um sargento do Exército enfrenta um da Força Aérea. Quem avançará para a rodada final do torneio das Forças Armadas?</desc>
+    <credits>
+      <actor>Grady Powell</actor>
+      <actor>J. Neilson</actor>
+      <actor>David Baker</actor>
+      <actor>Doug Marcaida</actor>
+      <actor>Ben Abbott</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125220100 -0300" stop="20211125225700 -0300" channel="History">
+    <title lang="pt">Desafio Sob Fogo: Brasil &amp; América Latina</title>
+    <sub-title lang="pt">Forged In Fire Latin America</sub-title>
+    <desc lang="pt">Em uma caixa de suprimentos trancada, encontram-se serras, facões, pás e tesouras. Facundo, Julio, Ernesto e Pablo devem criar uma ferramenta para abri-lo. Lá está o aço com o qual eles devem forjar, em apenas seis horas, um machado tipo Tomakawk, que seja duro, resistente e, sobretudo, afiado e letal.</desc>
+    <credits>
+      <actor>Juan Pablo Llano</actor>
+      <actor>Ricardo Vilar</actor>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S8 E195</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125225700 -0300" stop="20211125230000 -0300" channel="History">
+    <title lang="pt">Ilustrando História</title>
+    <desc lang="pt">Mozart é um dos maiores gênios da música de nossa história e encantou as plateias por onde passava desde os 6 anos de idade.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125230000 -0300" stop="20211125235600 -0300" channel="History">
+    <title lang="pt">Alienígenas do Passado</title>
+    <sub-title lang="pt">Ancient Aliens</sub-title>
+    <desc lang="pt">Em todo o planeta, os arqueólogos já encontraram objetos antigos que os deixaram pasmos. Esses artefatos poderiam sugerir que civilizações avançadas, e até mesmo extraterrestres, habitaram a Terra milhares de anos antes da chegada dos humanos?</desc>
+    <credits>
+      <actor>Robert Clotworthy</actor>
+      <actor>Giorgio Tsoukalos</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125235600 -0300" stop="20211126005400 -0300" channel="History">
+    <title lang="pt">Ilustrando História</title>
+    <desc lang="pt">Chopin ficou conhecido como o Poeta do Piano. Seu amor por sua terra natal, a Polônia, inspirou sua música e sua vida.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S12 E185</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126005400 -0300" stop="20211126014900 -0300" channel="History">
+    <title lang="pt">Alienígenas do Passado</title>
+    <sub-title lang="pt">Ancient Aliens</sub-title>
+    <desc lang="pt">Em todas as culturas ancestrais do Mediterrâneo existem relatos sobre seres enormes que desceram dos céus. As estruturas megalíticas e as descobertas de enormes esqueletos comprovam que o mundo já foi habitado por gigantes em algum momento da História?</desc>
+    <credits>
+      <actor>Robert Clotworthy</actor>
+      <actor>Giorgio Tsoukalos</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126014900 -0300" stop="20211126023900 -0300" channel="History">
+    <title lang="pt">Caçadores de Relíquias</title>
+    <sub-title lang="pt">American Pickers</sub-title>
+    <desc lang="pt">Nos arredores de São Francisco, os rapazes visitam uma nostálgica coleção que inclui brinquedos, arte e pôsteres antigos. Depois, no sul da Califórnia, eles sentem o gostinho de dirigir uma limusine Buick e vão tentar ficar com um grande lote de cartazes velhos. O que vão pedir em troca deles?</desc>
+    <credits>
+      <actor>Frank Fritz</actor>
+      <actor>Mike Wolfe</actor>
+      <actor>Danielle Colby-Cushman</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S12 E184</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126023900 -0300" stop="20211126033100 -0300" channel="History">
+    <title lang="pt">Desafio Sob Fogo: Brasil &amp; América Latina</title>
+    <sub-title lang="pt">Forged In Fire Latin America</sub-title>
+    <desc lang="pt">A esperança se renova com novos concorrentes chegando à forja. Eles são: Facundo, da Argentina, Julio, do Brasil, Ernesto, do México, e Pablo, do Chile. No primeiro desafio, eles têm que se livrar das algemas que os mantêm acorrentados para forjar uma adaga templária como as usadas durante as Cruzadas.</desc>
+    <credits>
+      <actor>Juan Pablo Llano</actor>
+      <actor>Ricardo Vilar</actor>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S16 E282</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126033100 -0300" stop="20211126042000 -0300" channel="History">
+    <title lang="pt">Trato Feito</title>
+    <sub-title lang="pt">Pawn Stars</sub-title>
+    <desc lang="pt">Rick viaja para a Inglaterra para testar armas antigas e tentar ficar com um carro que pertenceu a Winston Churchill. Enquanto isso na loja, Chum e Corey lutam para conseguir um martelo muito especial e um artigo que serviu de inspiração para um filme clássico. Eles terão sucesso nessa empreitada?</desc>
+    <credits>
+      <actor>Corey Harrison</actor>
+      <actor>Richard Harrison</actor>
+      <actor>Rick Harrison</actor>
+      <actor>Brett K. Maly</actor>
+      <actor>Chris Richardson</actor>
+      <actor>Austin 'Chumlee' Russell</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126042000 -0300" stop="20211126051000 -0300" channel="History">
+    <title lang="pt">Alienígenas do Passado</title>
+    <sub-title lang="pt">Ancient Aliens</sub-title>
+    <desc lang="pt">Em todo o planeta, os arqueólogos já encontraram objetos antigos que os deixaram pasmos. Esses artefatos poderiam sugerir que civilizações avançadas, e até mesmo extraterrestres, habitaram a Terra milhares de anos antes da chegada dos humanos?</desc>
+    <credits>
+      <actor>Robert Clotworthy</actor>
+      <actor>Giorgio Tsoukalos</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S21 E553</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126051000 -0300" stop="20211126060000 -0300" channel="History">
+    <title lang="pt">Alienígenas do Passado</title>
+    <sub-title lang="pt">Ancient Aliens</sub-title>
+    <desc lang="pt">Em todas as culturas ancestrais do Mediterrâneo existem relatos sobre seres enormes que desceram dos céus. As estruturas megalíticas e as descobertas de enormes esqueletos comprovam que o mundo já foi habitado por gigantes em algum momento da História?</desc>
+    <credits>
+      <actor>Robert Clotworthy</actor>
+      <actor>Giorgio Tsoukalos</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S12 E185</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126060000 -0300" stop="20211126070000 -0300" channel="History">
+    <title lang="pt">Caçadores de Relíquias</title>
+    <sub-title lang="pt">American Pickers</sub-title>
+    <desc lang="pt">Nos arredores de São Francisco, os rapazes visitam uma nostálgica coleção que inclui brinquedos, arte e pôsteres antigos. Depois, no sul da Califórnia, eles sentem o gostinho de dirigir uma limusine Buick e vão tentar ficar com um grande lote de cartazes velhos. O que vão pedir em troca deles?</desc>
+    <credits>
+      <actor>Frank Fritz</actor>
+      <actor>Mike Wolfe</actor>
+      <actor>Danielle Colby-Cushman</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S12 E184</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126070000 -0300" stop="20211126080000 -0300" channel="History">
+    <title lang="pt">Jornal da Manhã</title>
+    <desc lang="pt">O jornal de maior audiência do país reúne a equipe de repórteres com as principais notícias do Brasil e do mundo, além da análise dos fatos com o time de comentaristas da Jovem Pan. Logo no início da manhã, você terá muita informação, com foco na política, economia, saúde e o que mais for importante para começar o seu dia.</desc>
+    <date>2021</date>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <episode-num system="onscreen">S16 E282</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126080000 -0300" stop="20211126090000 -0300" channel="History">
+    <title lang="pt">Jornal da Manhã</title>
+    <desc lang="pt">O jornal de maior audiência do país reúne a equipe de repórteres com as principais notícias do Brasil e do mundo, além da análise dos fatos com o time de comentaristas da Jovem Pan. Logo no início da manhã, você terá muita informação, com foco na política, economia, saúde e o que mais for importante para começar o seu dia.</desc>
+    <date>2021</date>
+    <category lang="pt">Jornalismo (Informativo)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126090000 -0300" stop="20211126095700 -0300" channel="History">
+    <title lang="pt">Desafio Sob Fogo: Brasil &amp; América Latina</title>
+    <sub-title lang="pt">Forged In Fire Latin America</sub-title>
+    <desc lang="pt">A esperança se renova com novos concorrentes chegando à forja. Eles são: Facundo, da Argentina, Julio, do Brasil, Ernesto, do México, e Pablo, do Chile. No primeiro desafio, eles têm que se livrar das algemas que os mantêm acorrentados para forjar uma adaga templária como as usadas durante as Cruzadas.</desc>
+    <credits>
+      <actor>Juan Pablo Llano</actor>
+      <actor>Ricardo Vilar</actor>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126095700 -0300" stop="20211126105300 -0300" channel="History">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <sub-title lang="pt">Forged In Fire</sub-title>
+    <desc lang="pt">Quatro membros das forças armadas dos EUA travam uma batalha de 5 horas na forja. Primeiro, no duelo de campeões, e depois, no duelo de sargentos, onde um sargento do Exército enfrenta um da Força Aérea. Quem avançará para a rodada final do torneio das Forças Armadas?</desc>
+    <credits>
+      <actor>Grady Powell</actor>
+      <actor>J. Neilson</actor>
+      <actor>David Baker</actor>
+      <actor>Doug Marcaida</actor>
+      <actor>Ben Abbott</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126105300 -0300" stop="20211126114800 -0300" channel="History">
+    <title lang="pt">Caçadores de Relíquias</title>
+    <sub-title lang="pt">American Pickers</sub-title>
+    <desc lang="pt">Nos arredores de São Francisco, os rapazes visitam uma nostálgica coleção que inclui brinquedos, arte e pôsteres antigos. Depois, no sul da Califórnia, eles sentem o gostinho de dirigir uma limusine Buick e vão tentar ficar com um grande lote de cartazes velhos. O que vão pedir em troca deles?</desc>
+    <credits>
+      <actor>Frank Fritz</actor>
+      <actor>Mike Wolfe</actor>
+      <actor>Danielle Colby-Cushman</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S8 E195</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126114800 -0300" stop="20211126121500 -0300" channel="History">
+    <title lang="pt">Trato Feito</title>
+    <sub-title lang="pt">Pawn Stars</sub-title>
+    <desc lang="pt">Uma bicicleta "high wheel", um walkman e um piano de 1800. Além disso, Chum vende uma espada Katana para o presidente da UFC.</desc>
+    <credits>
+      <actor>Corey Harrison</actor>
+      <actor>Richard Harrison</actor>
+      <actor>Rick Harrison</actor>
+      <actor>Brett K. Maly</actor>
+      <actor>Chris Richardson</actor>
+      <actor>Austin 'Chumlee' Russell</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S16 E282</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126121500 -0300" stop="20211126131000 -0300" channel="History">
+    <title lang="pt">Desafio Sob Fogo: Brasil &amp; América Latina</title>
+    <sub-title lang="pt">Forged In Fire Latin America</sub-title>
+    <desc lang="pt">Em uma caixa de suprimentos trancada, encontram-se serras, facões, pás e tesouras. Facundo, Julio, Ernesto e Pablo devem criar uma ferramenta para abri-lo. Lá está o aço com o qual eles devem forjar, em apenas seis horas, um machado tipo Tomakawk, que seja duro, resistente e, sobretudo, afiado e letal.</desc>
+    <credits>
+      <actor>Juan Pablo Llano</actor>
+      <actor>Ricardo Vilar</actor>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S19 E501</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126131000 -0300" stop="20211126140700 -0300" channel="History">
+    <title lang="pt">Alienígenas do Passado</title>
+    <sub-title lang="pt">Ancient Aliens</sub-title>
+    <desc lang="pt">Em todas as culturas ancestrais do Mediterrâneo existem relatos sobre seres enormes que desceram dos céus. As estruturas megalíticas e as descobertas de enormes esqueletos comprovam que o mundo já foi habitado por gigantes em algum momento da História?</desc>
+    <credits>
+      <actor>Robert Clotworthy</actor>
+      <actor>Giorgio Tsoukalos</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126140700 -0300" stop="20211126150300 -0300" channel="History">
+    <title lang="pt">Alienígenas do Passado</title>
+    <sub-title lang="pt">Ancient Aliens</sub-title>
+    <desc lang="pt">Em todo o planeta, os arqueólogos já encontraram objetos antigos que os deixaram pasmos. Esses artefatos poderiam sugerir que civilizações avançadas, e até mesmo extraterrestres, habitaram a Terra milhares de anos antes da chegada dos humanos?</desc>
+    <credits>
+      <actor>Robert Clotworthy</actor>
+      <actor>Giorgio Tsoukalos</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S12 E184</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126150300 -0300" stop="20211126160000 -0300" channel="History">
+    <title lang="pt">Desafio Sob Fogo: Brasil &amp; América Latina</title>
+    <sub-title lang="pt">Forged In Fire Latin America</sub-title>
+    <desc lang="pt">A esperança se renova com novos concorrentes chegando à forja. Eles são: Facundo, da Argentina, Julio, do Brasil, Ernesto, do México, e Pablo, do Chile. No primeiro desafio, eles têm que se livrar das algemas que os mantêm acorrentados para forjar uma adaga templária como as usadas durante as Cruzadas.</desc>
+    <credits>
+      <actor>Juan Pablo Llano</actor>
+      <actor>Ricardo Vilar</actor>
+    </credits>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S12 E185</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126160000 -0300" stop="20211126165600 -0300" channel="History">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <sub-title lang="pt">Forged In Fire</sub-title>
+    <desc lang="pt">Quatro membros das forças armadas dos EUA travam uma batalha de 5 horas na forja. Primeiro, no duelo de campeões, e depois, no duelo de sargentos, onde um sargento do Exército enfrenta um da Força Aérea. Quem avançará para a rodada final do torneio das Forças Armadas?</desc>
+    <credits>
+      <actor>Grady Powell</actor>
+      <actor>J. Neilson</actor>
+      <actor>David Baker</actor>
+      <actor>Doug Marcaida</actor>
+      <actor>Ben Abbott</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126165600 -0300" stop="20211126172300 -0300" channel="History">
+    <title lang="pt">Quem dá Mais?</title>
+    <sub-title lang="pt">Storage Wars</sub-title>
+    <desc lang="pt">Dave consegue participar de um leilão inesperado. A partida de Emily ameaça arruinar o dia de um comprador, enquanto Ivy consegue ficar com um container repleto de itens externos de estilo vintage.</desc>
+    <credits>
+      <actor>Thom Beers</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Laura Dotson</actor>
+      <actor>Darrell Sheets</actor>
+      <actor>Rene Nezhoda</actor>
+      <actor>Ivy Calvin</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S8 E195</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126172300 -0300" stop="20211126175100 -0300" channel="History">
+    <title lang="pt">Quem dá Mais?</title>
+    <sub-title lang="pt">Storage Wars</sub-title>
+    <desc lang="pt">Kenny chega à Califórnia e sente como se estivesse em férias na Europa. Ele conseguirá fechar bons negócios? Enquanto isso, Jarrod se frustra com um contêiner aquém de suas expectativas e Rene sofre um revés quando descobre que as ferramentas de um contêiner são mais velhas do que ele esperava.</desc>
+    <credits>
+      <actor>Thom Beers</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Laura Dotson</actor>
+      <actor>Darrell Sheets</actor>
+      <actor>Rene Nezhoda</actor>
+      <actor>Ivy Calvin</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S10 E207</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126175100 -0300" stop="20211126184600 -0300" channel="History">
+    <title lang="pt">Trato Feito</title>
+    <sub-title lang="pt">Pawn Stars</sub-title>
+    <desc lang="pt">A loja recebe uma roupa do Homem de Aço. Rick engata a primeira para obter um capacete autografado pelo piloto Mario Andretti e Chum tenta conseguir uma jaqueta da Segunda Guerra Mundial. Além disso, Corey e Chum recebem um cofre trancado com um tesouro desconhecido dentro. Eles vão comprá-lo?</desc>
+    <credits>
+      <actor>Corey Harrison</actor>
+      <actor>Richard Harrison</actor>
+      <actor>Rick Harrison</actor>
+      <actor>Brett K. Maly</actor>
+      <actor>Chris Richardson</actor>
+      <actor>Austin 'Chumlee' Russell</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S13 E275</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126184600 -0300" stop="20211126184900 -0300" channel="History">
+    <title lang="pt">Ilustrando História</title>
+    <desc lang="pt">Ao longo de sua vida o inglês Isaac Newton revelou descobertas sobre a gravidade, as leis do movimento e muito mais!</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S22 E559</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126184900 -0300" stop="20211126191700 -0300" channel="History">
+    <title lang="pt">Trato Feito</title>
+    <sub-title lang="pt">Pawn Stars</sub-title>
+    <desc lang="pt">Um sinal de socorro é enviado da loja do Trato Feito quando surge na loja um leitor do Código Morse da Segunda Guerra Mundial! Será que Rick vai conseguir a carta escrita pelo então Secretário de Estado John Quincy Adams? E Corey insiste em assumir o controle do churrasco de Rick em comemoração ao 4 de julho. A ideia será um sucesso ou um fracasso total?</desc>
+    <credits>
+      <director>Shannon Biggs</director>
+      <director>Jonathan Wyche</director>
+      <actor>Corey Harrison</actor>
+      <actor>Richard Harrison</actor>
+      <actor>Rick Harrison</actor>
+      <actor>Brett K. Maly</actor>
+      <actor>Chris Richardson</actor>
+      <actor>Austin 'Chumlee' Russell</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126191700 -0300" stop="20211126201200 -0300" channel="History">
+    <title lang="pt">Caçadores de Relíquias</title>
+    <sub-title lang="pt">American Pickers</sub-title>
+    <desc lang="pt">Seguindo o rastro de artigos que pertenceram a ex-presidentes dos EUA, Mike e Danielle descobrem um antigo Packard feito sob medida para Franklin Roosevelt. Em Dakota do Norte, Frank e Robbie vasculham um depósito ferroviário cheio de objetos históricos.</desc>
+    <credits>
+      <actor>Frank Fritz</actor>
+      <actor>Mike Wolfe</actor>
+      <actor>Danielle Colby-Cushman</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S15 E318</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126201200 -0300" stop="20211126210700 -0300" channel="History">
+    <title lang="pt">Mergulhados No Pântano: Invasão de Serpentes</title>
+    <sub-title lang="pt">Swamp People: Serpent Invasion</sub-title>
+    <desc lang="pt">Os caçadores chegam ao Triângulo dos Everglades, uma área conhecida por desaparecimentos inexplicáveis e superpopulação de serpentes. Troy e sua equipe examinam o misterioso pântano com a ajuda de drones, enquanto Bruce e Zak testam um dispositivo térmico portátil para rastrear cobras.</desc>
+    <credits>
+      <actor>Pat Duke</actor>
+      <actor>Troy Landry</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S16 E264</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126210700 -0300" stop="20211126220200 -0300" channel="History">
+    <title lang="pt">Sozinhos: No Ártico</title>
+    <sub-title lang="pt">Alone</sub-title>
+    <desc lang="pt">À medida que se aproximam na marca de uma semana, os sobreviventes fazem algumas escolhas arriscadas para poder se alimentar. Uma infecção grave se torna uma possibilidade real, e acaba levando um dos participantes a considerar sua saída mais cedo.</desc>
+    <date>2018</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126220200 -0300" stop="20211126220500 -0300" channel="History">
+    <title lang="pt">Ilustrando História</title>
+    <desc lang="pt">O músico alemão Beethoven nos inspira não apenas por sua admirável obra, mas também pela sua incrível história de vida.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S6 E55</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126220500 -0300" stop="20211126232000 -0300" channel="History">
+    <title lang="pt">Homens da Montanha</title>
+    <sub-title lang="pt">Mountain Men</sub-title>
+    <desc lang="pt">Eustace usa sua experiência para fazer a água fluir morro acima. Mais tarde, Jake fica encalhado em uma estrada gelada, Mike junta troncos gigantes com seu barco anfíbio e Martha e Elli entregam carne de caça ao nativos mais velhos. Além disso, Kidd e Harry tentam concretizar um grande negócio.</desc>
+    <credits>
+      <actor>Marty Meierotto</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126232000 -0300" stop="20211126232300 -0300" channel="History">
+    <title lang="pt">Ilustrando História</title>
+    <desc lang="pt">Ao longo de sua vida o inglês Isaac Newton revelou descobertas sobre a gravidade, as leis do movimento e muito mais!</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S10 E141</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125004900 -0300" stop="20211125014600 -0300" channel="History 2 HD">
+    <title lang="pt">O Universo</title>
+    <sub-title lang="pt">The Universe</sub-title>
+    <desc lang="pt">Qual é o som do Universo? Desde a varredura de um pulsar até o barulho ensurdecedor do nosso sol em ebulição, este episódio explora os sons desconhecidos do sistema solar, da galáxia e de todo o Cosmo.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125014600 -0300" stop="20211125024100 -0300" channel="History 2 HD">
+    <title lang="pt">Quem Financiou Hitler?</title>
+    <sub-title lang="pt">Hitler's Gold</sub-title>
+    <desc lang="pt">Munique, Alemanha, 12 de setembro de 1919. A história está prestes a mudar para sempre, a partir da intervenção de um cabo do exército sem dinheiro, mas com muita sede de vingança. Treze anos depois, esse mesmo homem é exaltado como o salvador da Alemanha. Seu nome: Adolf Hitler.</desc>
+    <credits>
+      <actor>Dave Wills</actor>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125024100 -0300" stop="20211125034400 -0300" channel="History 2 HD">
+    <title lang="pt">O Preço da Guerra</title>
+    <sub-title lang="pt">The Cost Of War</sub-title>
+    <desc lang="pt">Os mais de 200 mil milhões de dólares gastos pelos EUA na guerra do Vietnã não se traduziram em vitória. Exploramos a disparidade econômica e tecnológica entre ambos os países. Qual foi o papel da rivalidade ideológica na Guerra Fria? Que preço continua sendo pago até hoje?</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125034400 -0300" stop="20211125043900 -0300" channel="History 2 HD">
+    <title lang="pt">Exploração Asteca</title>
+    <sub-title lang="pt">Exploración Azteca</sub-title>
+    <desc lang="pt">Iniciaremos este percurso histórico pela Cidade do México onde ainda repousam os restos da maravilhosa Tenochtitlan, capital do império asteca.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125043900 -0300" stop="20211125053400 -0300" channel="History 2 HD">
+    <title lang="pt">Exploração Asteca</title>
+    <sub-title lang="pt">Exploración Azteca</sub-title>
+    <desc lang="pt">Neste episódio, conheceremos um dos segredos mais bem guardados desta cultura ancestral: como conseguiram construir a grande cidade de Tenochtitlan sobre as águas de um lago.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125053400 -0300" stop="20211125060000 -0300" channel="History 2 HD">
+    <title lang="pt">Um Gênio Entre Nós</title>
+    <sub-title lang="pt">Smartest Guy In The Room - Ep. 12</sub-title>
+    <desc lang="pt">Os meninos dirigem com velocidade na última temporada de uma prova de corrida de carros e Terry leva um sósia para ajudá-lo a ganhar o título.</desc>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125060000 -0300" stop="20211125065500 -0300" channel="History 2 HD">
+    <title lang="pt">Decifrando Milagres</title>
+    <sub-title lang="pt">Milagros Decodificados</sub-title>
+    <desc lang="pt">Uma mestre da religião vodu utiliza magia negra para realizar rituais satânicos sombrios. Um homem afirma ter o diabo dentro dele e pede para ser exorcizado.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125065500 -0300" stop="20211125075200 -0300" channel="History 2 HD">
+    <title lang="pt">O Universo</title>
+    <sub-title lang="pt">The Universe</sub-title>
+    <desc lang="pt">Qual é o som do Universo? Desde a varredura de um pulsar até o barulho ensurdecedor do nosso sol em ebulição, este episódio explora os sons desconhecidos do sistema solar, da galáxia e de todo o Cosmo.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S2 E15</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125075200 -0300" stop="20211125082200 -0300" channel="History 2 HD">
+    <title lang="pt">Um Gênio Entre Nós</title>
+    <sub-title lang="pt">Smartest Guy In The Room - Ep. 12</sub-title>
+    <desc lang="pt">Os meninos dirigem com velocidade na última temporada de uma prova de corrida de carros e Terry leva um sósia para ajudá-lo a ganhar o título.</desc>
+    <category lang="pt">Séries (Reality Show)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125082200 -0300" stop="20211125092200 -0300" channel="History 2 HD">
+    <title lang="pt">Exploração Asteca</title>
+    <sub-title lang="pt">Exploración Azteca</sub-title>
+    <desc lang="pt">Iniciaremos este percurso histórico pela Cidade do México onde ainda repousam os restos da maravilhosa Tenochtitlan, capital do império asteca.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125092200 -0300" stop="20211125102200 -0300" channel="History 2 HD">
+    <title lang="pt">Exploração Asteca</title>
+    <sub-title lang="pt">Exploración Azteca</sub-title>
+    <desc lang="pt">Neste episódio, conheceremos um dos segredos mais bem guardados desta cultura ancestral: como conseguiram construir a grande cidade de Tenochtitlan sobre as águas de um lago.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125102200 -0300" stop="20211125111700 -0300" channel="History 2 HD">
+    <title lang="pt">A Arte da Espionagem</title>
+    <sub-title lang="pt">Spycraft</sub-title>
+    <desc lang="pt">Neste episódio, conheceremos a tecnologia mais avançada utilizada nas missões de operações especiais de cada era da espionagem: das pistolas Liberator e as operações de sabotagem da Segunda Guerra Mundial aos avanços em Inteligência Artificial, os exércitos de drones e mísseis hipersônicos.</desc>
+    <credits>
+      <actor>Dylan Berry</actor>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211125111700 -0300" stop="20211125121200 -0300" channel="History 2 HD">
+    <title lang="pt">A Arte da Espionagem</title>
+    <sub-title lang="pt">Spycraft</sub-title>
+    <desc lang="pt">Neste episódio, descobriremos as armas venenosas usadas para cometer assassinato: de dardos de cianeto e pasta de dente envenenada a ataques radiológicos modernos, com dioxina, polônio e outros agentes nervosos mortais, como os usados pela Rússia contra o líder da oposição Alexei Navalny em 2020.</desc>
+    <credits>
+      <actor>Dylan Berry</actor>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211125121200 -0300" stop="20211125131000 -0300" channel="History 2 HD">
+    <title lang="pt">O Universo</title>
+    <sub-title lang="pt">The Universe</sub-title>
+    <desc lang="pt">Qual é o som do Universo? Desde a varredura de um pulsar até o barulho ensurdecedor do nosso sol em ebulição, este episódio explora os sons desconhecidos do sistema solar, da galáxia e de todo o Cosmo.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125131000 -0300" stop="20211125141100 -0300" channel="History 2 HD">
+    <title lang="pt">Decifrando Milagres</title>
+    <sub-title lang="pt">Milagros Decodificados</sub-title>
+    <desc lang="pt">Uma mestre da religião vodu utiliza magia negra para realizar rituais satânicos sombrios. Um homem afirma ter o diabo dentro dele e pede para ser exorcizado.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125141100 -0300" stop="20211125151200 -0300" channel="History 2 HD">
+    <title lang="pt">Quem Financiou Hitler?</title>
+    <sub-title lang="pt">Hitler's Gold</sub-title>
+    <desc lang="pt">Munique, Alemanha, 12 de setembro de 1919. A história está prestes a mudar para sempre, a partir da intervenção de um cabo do exército sem dinheiro, mas com muita sede de vingança. Treze anos depois, esse mesmo homem é exaltado como o salvador da Alemanha. Seu nome: Adolf Hitler.</desc>
+    <credits>
+      <actor>Dave Wills</actor>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S2 E15</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125151200 -0300" stop="20211125162000 -0300" channel="History 2 HD">
+    <title lang="pt">O Preço da Guerra</title>
+    <sub-title lang="pt">The Cost Of War</sub-title>
+    <desc lang="pt">Os mais de 200 mil milhões de dólares gastos pelos EUA na guerra do Vietnã não se traduziram em vitória. Exploramos a disparidade econômica e tecnológica entre ambos os países. Qual foi o papel da rivalidade ideológica na Guerra Fria? Que preço continua sendo pago até hoje?</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125162000 -0300" stop="20211125171600 -0300" channel="History 2 HD">
+    <title lang="pt">A Arte da Espionagem</title>
+    <sub-title lang="pt">Spycraft</sub-title>
+    <desc lang="pt">Neste episódio, conheceremos a tecnologia mais avançada utilizada nas missões de operações especiais de cada era da espionagem: das pistolas Liberator e as operações de sabotagem da Segunda Guerra Mundial aos avanços em Inteligência Artificial, os exércitos de drones e mísseis hipersônicos.</desc>
+    <credits>
+      <actor>Dylan Berry</actor>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211125171600 -0300" stop="20211125181100 -0300" channel="History 2 HD">
+    <title lang="pt">A Arte da Espionagem</title>
+    <sub-title lang="pt">Spycraft</sub-title>
+    <desc lang="pt">Neste episódio, descobriremos as armas venenosas usadas para cometer assassinato: de dardos de cianeto e pasta de dente envenenada a ataques radiológicos modernos, com dioxina, polônio e outros agentes nervosos mortais, como os usados pela Rússia contra o líder da oposição Alexei Navalny em 2020.</desc>
+    <credits>
+      <actor>Dylan Berry</actor>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211125181100 -0300" stop="20211125190500 -0300" channel="History 2 HD">
+    <title lang="pt">Brasil Imperial</title>
+    <desc lang="pt">Pressionado por Portugal e com revoltas explodindo pelo Brasil, D. João retorna a Portugal, deixando Dom Pedro como príncipe regente. Arrebita compra a liberdade de Ana do Congo.</desc>
+    <date>2021</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211125190500 -0300" stop="20211125200200 -0300" channel="History 2 HD">
+    <title lang="pt">O Universo</title>
+    <sub-title lang="pt">The Universe</sub-title>
+    <desc lang="pt">Neste episódio, o elenco utiliza analogias impressionantes para trazer os maiores objetos, as grandes distâncias e a maior velocidade à Terra. Para realmente entender a escala do Cosmo, se basearam em experiências como dirigir um caminhão monstruoso, escalar a ponte Golden Gate, e fazer uma corrida através do deserto em um carro movido por foguetes.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125200200 -0300" stop="20211125210500 -0300" channel="History 2 HD">
+    <title lang="pt">Como os Trens Mudaram o Mundo</title>
+    <sub-title lang="pt">How Trains Changed The World</sub-title>
+    <desc lang="pt">Este programa mostra quais foram os trens que contribuíram para expandir os impérios mais poderosos, unificar nações e reduzir distâncias nos continentes, sem importar o seu tamanho. Uma viagem a bordo das máquinas que transformaram o mundo para apreciar sua grandeza e descobrir todos os seus segredos.</desc>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125210500 -0300" stop="20211125220000 -0300" channel="History 2 HD">
+    <title lang="pt">Nikola Tesla: Arquivos Perdidos</title>
+    <sub-title lang="pt">The Tesla Files</sub-title>
+    <desc lang="pt">Marc encontra evidências do interesse do exército nos arquivos de Tesla. Além disso, sua equipe encontra conexões impressionantes.</desc>
+    <date>2018</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211125220000 -0300" stop="20211125225600 -0300" channel="History 2 HD">
+    <title lang="pt">Projetos Incríveis</title>
+    <sub-title lang="pt">Project Impossible</sub-title>
+    <desc lang="pt">Com a ajuda de novas tecnologias, descobrimos os segredos ocultos de um submarino nazista e uma pedra antiga relacionada à Stonehenge.</desc>
+    <date>2017</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211125225600 -0300" stop="20211126005700 -0300" channel="History 2 HD">
+    <title lang="pt">Como as Fábricas Mudaram o Mundo</title>
+    <sub-title lang="pt">How Factories Changed The World</sub-title>
+    <desc lang="pt">Este episódio examina os produtos que consumimos e descartamos diariamente. A velocidade e o baixo custo da produção automatizada favorecem o consumo desenfreado. Qual é o volume total de produtos usados e descartados por 6 bilhões de pessoas?</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126005700 -0300" stop="20211126015400 -0300" channel="History 2 HD">
+    <title lang="pt">O Universo</title>
+    <sub-title lang="pt">The Universe</sub-title>
+    <desc lang="pt">Neste episódio, o elenco utiliza analogias impressionantes para trazer os maiores objetos, as grandes distâncias e a maior velocidade à Terra. Para realmente entender a escala do Cosmo, se basearam em experiências como dirigir um caminhão monstruoso, escalar a ponte Golden Gate, e fazer uma corrida através do deserto em um carro movido por foguetes.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126015400 -0300" stop="20211126025200 -0300" channel="History 2 HD">
+    <title lang="pt">Como os Trens Mudaram o Mundo</title>
+    <sub-title lang="pt">How Trains Changed The World</sub-title>
+    <desc lang="pt">Este programa mostra quais foram os trens que contribuíram para expandir os impérios mais poderosos, unificar nações e reduzir distâncias nos continentes, sem importar o seu tamanho. Uma viagem a bordo das máquinas que transformaram o mundo para apreciar sua grandeza e descobrir todos os seus segredos.</desc>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126025200 -0300" stop="20211126034200 -0300" channel="History 2 HD">
+    <title lang="pt">Nikola Tesla: Arquivos Perdidos</title>
+    <sub-title lang="pt">The Tesla Files</sub-title>
+    <desc lang="pt">Marc encontra evidências do interesse do exército nos arquivos de Tesla. Além disso, sua equipe encontra conexões impressionantes.</desc>
+    <date>2018</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126034200 -0300" stop="20211126043800 -0300" channel="History 2 HD">
+    <title lang="pt">Exploração Asteca</title>
+    <sub-title lang="pt">Exploración Azteca - Ep. 03</sub-title>
+    <desc lang="pt">Vamos investigar neste episódio a vertiginosa expansão do Império e seu poderio militar. Conheceremos suas mortíferas armas pré-colombianas e suas inovadoras táticas militares.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126043800 -0300" stop="20211126053400 -0300" channel="History 2 HD">
+    <title lang="pt">Exploração Asteca</title>
+    <sub-title lang="pt">Exploración Azteca</sub-title>
+    <desc lang="pt">Por que teria caído o império mais poderoso da América diante dos espanhóis? Acompanharemos mergulhadores em busca dos restos de antigas embarcações espanholas e finalmente avaliaremos os efeitos do choque entre estes dois mundos no apaixonante México da atualidade.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126053400 -0300" stop="20211126060000 -0300" channel="History 2 HD">
+    <title lang="pt">Comidas Cheias de História</title>
+    <sub-title lang="pt">All You Can Eat</sub-title>
+    <desc lang="pt">Neste episódio dedicado ao bacon, vamos percorrer os Estados Unidos para descobrir as melhores formas de saboreá-lo e conheceremos como é o processo de sua fabricação, desde que a carne sai da fazenda até chegar processada à mesa. Como se produz este popular e delicioso alimento que todos adoram?</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126060000 -0300" stop="20211126065500 -0300" channel="History 2 HD">
+    <title lang="pt">Confronto dos Deuses</title>
+    <sub-title lang="pt">Clash Of The Gods - Ep. 08: Minotaur</sub-title>
+    <desc lang="pt">Metade homem, metade touro, o Minotauro é um dos monstros mitológicos mais aterrorizantes. Com uma estranha história sobre guerra e sacrifícios humanos, o Minotauro se mantém como símbolo da besta que há dentro de todos os homens.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126065500 -0300" stop="20211126075200 -0300" channel="History 2 HD">
+    <title lang="pt">O Universo</title>
+    <sub-title lang="pt">The Universe</sub-title>
+    <desc lang="pt">Neste episódio, o elenco utiliza analogias impressionantes para trazer os maiores objetos, as grandes distâncias e a maior velocidade à Terra. Para realmente entender a escala do Cosmo, se basearam em experiências como dirigir um caminhão monstruoso, escalar a ponte Golden Gate, e fazer uma corrida através do deserto em um carro movido por foguetes.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126075200 -0300" stop="20211126082200 -0300" channel="History 2 HD">
+    <title lang="pt">Comidas Cheias de História</title>
+    <sub-title lang="pt">All You Can Eat</sub-title>
+    <desc lang="pt">Neste episódio dedicado ao bacon, vamos percorrer os Estados Unidos para descobrir as melhores formas de saboreá-lo e conheceremos como é o processo de sua fabricação, desde que a carne sai da fazenda até chegar processada à mesa. Como se produz este popular e delicioso alimento que todos adoram?</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126082200 -0300" stop="20211126092400 -0300" channel="History 2 HD">
+    <title lang="pt">Exploração Asteca</title>
+    <sub-title lang="pt">Exploración Azteca - Ep. 03</sub-title>
+    <desc lang="pt">Vamos investigar neste episódio a vertiginosa expansão do Império e seu poderio militar. Conheceremos suas mortíferas armas pré-colombianas e suas inovadoras táticas militares.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126092400 -0300" stop="20211126101900 -0300" channel="History 2 HD">
+    <title lang="pt">Nikola Tesla: Arquivos Perdidos</title>
+    <sub-title lang="pt">The Tesla Files</sub-title>
+    <desc lang="pt">Marc encontra evidências do interesse do exército nos arquivos de Tesla. Além disso, sua equipe encontra conexões impressionantes.</desc>
+    <date>2018</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126101900 -0300" stop="20211126111500 -0300" channel="History 2 HD">
+    <title lang="pt">Projetos Incríveis</title>
+    <sub-title lang="pt">Project Impossible</sub-title>
+    <desc lang="pt">Com a ajuda de novas tecnologias, descobrimos os segredos ocultos de um submarino nazista e uma pedra antiga relacionada à Stonehenge.</desc>
+    <date>2017</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126111500 -0300" stop="20211126121800 -0300" channel="History 2 HD">
+    <title lang="pt">Como as Fábricas Mudaram o Mundo</title>
+    <sub-title lang="pt">How Factories Changed The World</sub-title>
+    <desc lang="pt">Este episódio examina os produtos que consumimos e descartamos diariamente. A velocidade e o baixo custo da produção automatizada favorecem o consumo desenfreado. Qual é o volume total de produtos usados e descartados por 6 bilhões de pessoas?</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126121800 -0300" stop="20211126131800 -0300" channel="History 2 HD">
+    <title lang="pt">O Universo</title>
+    <sub-title lang="pt">The Universe</sub-title>
+    <desc lang="pt">Neste episódio, o elenco utiliza analogias impressionantes para trazer os maiores objetos, as grandes distâncias e a maior velocidade à Terra. Para realmente entender a escala do Cosmo, se basearam em experiências como dirigir um caminhão monstruoso, escalar a ponte Golden Gate, e fazer uma corrida através do deserto em um carro movido por foguetes.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126131800 -0300" stop="20211126141900 -0300" channel="History 2 HD">
+    <title lang="pt">Confronto dos Deuses</title>
+    <sub-title lang="pt">Clash Of The Gods - Ep. 08: Minotaur</sub-title>
+    <desc lang="pt">Metade homem, metade touro, o Minotauro é um dos monstros mitológicos mais aterrorizantes. Com uma estranha história sobre guerra e sacrifícios humanos, o Minotauro se mantém como símbolo da besta que há dentro de todos os homens.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126141900 -0300" stop="20211126152500 -0300" channel="History 2 HD">
+    <title lang="pt">Como os Trens Mudaram o Mundo</title>
+    <sub-title lang="pt">How Trains Changed The World</sub-title>
+    <desc lang="pt">Este programa mostra quais foram os trens que contribuíram para expandir os impérios mais poderosos, unificar nações e reduzir distâncias nos continentes, sem importar o seu tamanho. Uma viagem a bordo das máquinas que transformaram o mundo para apreciar sua grandeza e descobrir todos os seus segredos.</desc>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126152500 -0300" stop="20211126162300 -0300" channel="History 2 HD">
+    <title lang="pt">Nikola Tesla: Arquivos Perdidos</title>
+    <sub-title lang="pt">The Tesla Files</sub-title>
+    <desc lang="pt">Marc encontra evidências do interesse do exército nos arquivos de Tesla. Além disso, sua equipe encontra conexões impressionantes.</desc>
+    <date>2018</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126162300 -0300" stop="20211126172100 -0300" channel="History 2 HD">
+    <title lang="pt">Projetos Incríveis</title>
+    <sub-title lang="pt">Project Impossible</sub-title>
+    <desc lang="pt">Com a ajuda de novas tecnologias, descobrimos os segredos ocultos de um submarino nazista e uma pedra antiga relacionada à Stonehenge.</desc>
+    <date>2017</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126172100 -0300" stop="20211126182700 -0300" channel="History 2 HD">
+    <title lang="pt">Como as Fábricas Mudaram o Mundo</title>
+    <sub-title lang="pt">How Factories Changed The World</sub-title>
+    <desc lang="pt">Este episódio examina os produtos que consumimos e descartamos diariamente. A velocidade e o baixo custo da produção automatizada favorecem o consumo desenfreado. Qual é o volume total de produtos usados e descartados por 6 bilhões de pessoas?</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126182700 -0300" stop="20211126192500 -0300" channel="History 2 HD">
+    <title lang="pt">Brasil Imperial</title>
+    <desc lang="pt">D. Pedro inicia um tórrido romance com Domitila. Portugal exige a volta de D. Pedro e Leopoldina assina a independência, que deverá ser promulgada por D. Pedro.</desc>
+    <date>2021</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126192500 -0300" stop="20211126202200 -0300" channel="History 2 HD">
+    <title lang="pt">O Universo</title>
+    <sub-title lang="pt">The Universe</sub-title>
+    <desc lang="pt">Os planetas do nosso sistema solar sofreram desastres épicos durante sua longa história. Agora faremos uma viagem pelo tempo para investigar os eventos violentos que marcaram profundamente os planetas, incluindo a própria Terra. Vamos conhecer revelações impressionantes sobre o que transformou Marte em um deserto árido e hostil e sobre o desastre que mudou Vênus de um clima temperado a um inferno.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126202200 -0300" stop="20211126220000 -0300" channel="History 2 HD">
+    <title lang="pt">Hot Rods &amp; Muscle Cars</title>
+    <sub-title lang="pt">Hot Rods And Muscle Cars</sub-title>
+    <desc lang="pt">Este especial mostra a cultura dos Hot Rod, alguns dos muscle cars mais icônicos e os fãs que se atrevem a lidar com eles.</desc>
+    <category lang="pt">Documentário (Diversos)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126220000 -0300" stop="20211126225500 -0300" channel="History 2 HD">
+    <title lang="pt">Mistérios E Lendas da História</title>
+    <sub-title lang="pt">Man Vs History</sub-title>
+    <desc lang="pt">A independência dos Estados Unidos teve alguns dos momentos mais inspiradores de sua história. Bil investiga como foi a viagem de Paul Revere, se o ponto de virada da revolução foi o tiro impossível de um atirador de elite e se Betsey Ross foi a verdadeira criadora da bandeira americana.</desc>
+    <credits>
+      <director>Bil Lepp</director>
+      <actor>Bil Lepp</actor>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126225500 -0300" stop="20211126235000 -0300" channel="History 2 HD">
+    <title lang="pt">Mistérios E Lendas da História</title>
+    <sub-title lang="pt">Man Vs History</sub-title>
+    <desc lang="pt">Quando se trata de inventores, é difícil precisar o que é verdade e o que é produto da imaginação. Bil tentará esclarecer como Benjamin Franklin descobriu a eletricidade, analisará se Edison realmente inventou a lâmpada e se os irmãos Wright foram mesmo os primeiros a voar.</desc>
+    <credits>
+      <director>Bil Lepp</director>
+      <actor>Bil Lepp</actor>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
 </tv>
