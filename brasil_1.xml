@@ -50650,4 +50650,3193 @@
       <value>livre</value>
     </rating>
   </programme>
+  <programme start="20211126000000 -0300" stop="20211126003000 -0300" channel="OFF HD">
+    <title lang="pt">OFF Docs - Caminho Do Rinoceronte</title>
+    <sub-title lang="pt">Caminho Do Rinoceronte</sub-title>
+    <desc lang="pt">Caminho do Rinoceronte' é uma homenagem ao Pico do Rinoceronte, montanha rochosa localizada no sul de Santa Catarina que lembra o formato desse animal e está mais de 1.500m acima do nível do mar. O documentário acompanha sete peregrinos que percorrem a trilha sob diferentes perspectivas.</desc>
+    <credits>
+      <director>Albertino Colombo</director>
+      <director>Felipe Bressan Alves</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Radical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126003000 -0300" stop="20211126010000 -0300" channel="OFF HD">
+    <title lang="pt">OFF Docs - Sawatdee</title>
+    <desc lang="pt">Documentário que apresenta skaters da Tailândia, China e Taiwan realizando manobras em locações urbanas.</desc>
+    <category lang="pt">Séries (Radical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126010000 -0300" stop="20211126013000 -0300" channel="OFF HD">
+    <title lang="pt">Mundo Medina</title>
+    <desc lang="pt">Gabriel vai para Bali 10 antes da etapa do circuito mundial de Keramas, para focar em sua preparação. Depois do primeiro dia de surfe em Bali, o surfista fica sabendo de um campeonato com altas ondas acontecendo em Krui, ilha na Indonésia próxima de Bali.</desc>
+    <date>2019</date>
+    <category lang="pt">Séries (Aventura)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126013000 -0300" stop="20211126020000 -0300" channel="OFF HD">
+    <title lang="pt">Bodyboard Extremo</title>
+    <desc lang="pt">Após terem surfado ondas incríveis em um local onde não havia ninguém, Fabio Aquino, Tim Bonython, Mitchel e Shane partem para outras praias com mais tubulações perfeitas.</desc>
+    <credits>
+      <director>Rafael De Paula Rodrigues</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Esporte (Radical)</category>
+    <episode-num system="onscreen">S7 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126020000 -0300" stop="20211126023000 -0300" channel="OFF HD">
+    <title lang="pt">The Outdoor Sports Show</title>
+    <sub-title lang="pt">The Outdoor Sports Show 2018</sub-title>
+    <desc lang="pt">Uma das mais singulares corridas de MTB do planeta: a Transpyr Coast to Coast, nos Pirineus; os melhores atletas de triatlo off-road nas etapas belga e suíça do Circuito Europeu XTERRA; e a prova de stand-up paddle Agios Nikolaos on SUP 2018, na Grécia.</desc>
+    <credits>
+      <director>Katrin Ender</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Esporte (Radical)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126023000 -0300" stop="20211126030000 -0300" channel="OFF HD">
+    <title lang="pt">Epic Trails</title>
+    <desc lang="pt">Território do Norte da Austrália - O desértico estado do centro-norte da Austrália, o menos populoso do pouco populoso gigante país da Oceania, é um paraíso para caminhada, com seu clima tropical ao norte e desértico ao sul e 18 parques nacionais.</desc>
+    <credits>
+      <director>Ken Whiting</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Esporte (Radical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126030000 -0300" stop="20211126033000 -0300" channel="OFF HD">
+    <title lang="pt">Bono, O Cão Surfista</title>
+    <desc lang="pt">Bono e Ivan partem numa expedição para surfar a longa e perfeita onda de Chicama. Eles de preparam para o grande dia do Swell dentro d'água, com sessões divertidas de surfe. No dia do grande swell, com altas ondas, a dupla dominou o outside de Chicama, pegando as melhores ondas do dia, chegando a surfar uma delas por mais de 2 minutos!</desc>
+    <credits>
+      <director>Gustavo Leite</director>
+      <director>Rodrigo Schmidt</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Aventura)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126033000 -0300" stop="20211126040000 -0300" channel="OFF HD">
+    <title lang="pt">Janaínas: Deusas Do Mar</title>
+    <desc lang="pt">Érica Prado é ex-surfista profissional, jornalista e idealizadora do Movimento Surfistas Negras. Nessa série também colaborou como produtora e diretora de um dos episódios.</desc>
+    <credits>
+      <director>Madara Luiza</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Aventura)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126040000 -0300" stop="20211126050000 -0300" channel="OFF HD">
+    <title lang="pt">Crankworx</title>
+    <sub-title lang="pt">Crankworx 2020</sub-title>
+    <desc lang="pt">Campeonato mundial de Mountain Bike.</desc>
+    <credits>
+      <director>Peter Churchman</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Esporte (Radical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126050000 -0300" stop="20211126053000 -0300" channel="OFF HD">
+    <title lang="pt">Seleção OFF</title>
+    <sub-title lang="pt">Brazilian Storm</sub-title>
+    <desc lang="pt">Após uma lesão no joelho e cinco meses de pausa, Silvana Lima finalmente volta a cair no mar. O lugar escolhido é Paracuru, cidade natal da surfista. A atleta mostra um pouco de sua rotina durante a recuperação em São Paulo e seu dia-a-dia no Rio.</desc>
+    <date>2019</date>
+    <category lang="pt">Séries (Radical)</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126053000 -0300" stop="20211126060000 -0300" channel="OFF HD">
+    <title lang="pt">Escaladores de Vulcões</title>
+    <desc lang="pt">O Osorno é um dos vulcões mais imponentes do Chile e está próximo à porta de entrada para a Patagonia chilena. Graças ao seu cume tapado de gelo e ao clima ventoso do sul do Chile, ele é um dos vulcões mais perigosos para serem escalados no país.</desc>
+    <credits>
+      <director>Seblen Mantovani</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Esporte (Radical)</category>
+    <episode-num system="onscreen">S15 E12</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126060000 -0300" stop="20211126063000 -0300" channel="OFF HD">
+    <title lang="pt">Trilhas e Travessias</title>
+    <desc lang="pt">Trilhas em meio às deslumbrantes paisagens da Nova Zelândia, fazem o país se destacar. Na próxima temporada do Trilhas e Travessias as apresentadoras, Júlia Ericson e Marina Machado, vivenciarão nesse destino mágico desde lagos azul turquesa, fiordes em meio a cenários dramáticos, glaciares bem próximos à beira-mar, emocionante salto de bungee jump em um cânion até banquetes preparado à moda dos Hobbits.</desc>
+    <credits>
+      <director>Jorge Nassaralla</director>
+      <actor>Julia Ericson</actor>
+      <actor>Marina Machado</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Radical)</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126063000 -0300" stop="20211126070000 -0300" channel="OFF HD">
+    <title lang="pt">Famílias ao Ar Livre</title>
+    <desc lang="pt">Para a família Porto Alegre escalada é sinônimo de diversão, desafio e trabalho em equipe. Através da escalada, Amanda e seus pais, Deivis Tavares e Fabiane Criscuoli, descobrem juntos lugares incríveis e encontram uma alternativa saudável para a rotina da cidade grande que às vezes pode ser muito estressante. Acompanhe neste episódio, a família Porto Alegre numa de suas aventuras em busca de novas rochas e escaladas desafiadoras.</desc>
+    <credits>
+      <director>Gustavo Gama Rodrigues</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Aventura)</category>
+    <episode-num system="onscreen">S4 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126070000 -0300" stop="20211126073000 -0300" channel="OFF HD">
+    <title lang="pt">Original OFF</title>
+    <desc lang="pt">As skatistas do Britney's Crew aproveitam o momento de quarentena para contar sobre a sua relação com o skate e a importância do coletivo na vida de cada uma.</desc>
+    <credits>
+      <director>Thayná Gonçalves</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Aventura)</category>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126073000 -0300" stop="20211126080000 -0300" channel="OFF HD">
+    <title lang="pt">Original OFF</title>
+    <desc lang="pt">O skatista de 9 anos de idade, Eiki Martello, que luta contra a Leucemia, conta a sua história com o skate e como está sendo seu tratamento para superar a doença e retornar às pistas.</desc>
+    <credits>
+      <director>Pedro Vianna</director>
+      <director>Victor Benecke</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Aventura)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126080000 -0300" stop="20211126083000 -0300" channel="OFF HD">
+    <title lang="pt">Nalu Pelo Mundo de Bike</title>
+    <desc lang="pt">A família está em Hossegor. Apesar das condições do mar estarem ruins para Pato, estão incríveis para Bela. Bela foi convidada para uma reportagem sobre Jet Surf na Inglaterra e a família parte para lá por alguns dias.</desc>
+    <credits>
+      <director>Everaldo Pato</director>
+      <director>Rafael Mellin</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Aventura)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126083000 -0300" stop="20211126090000 -0300" channel="OFF HD">
+    <title lang="pt">Kaiak.</title>
+    <sub-title lang="pt">Kaiak</sub-title>
+    <desc lang="pt">Os kayakers Ben, Chris e Pedro continuam a se aventurar na Ásia. Os três descem as corredeiras do rio Mekong, no Laos.</desc>
+    <credits>
+      <director>Ricardo Quintela</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries (Radical)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126090000 -0300" stop="20211126093000 -0300" channel="OFF HD">
+    <title lang="pt">Kaiak.</title>
+    <sub-title lang="pt">Kaiak</sub-title>
+    <desc lang="pt">Os kayakers Ben, Chris e Pedro continuam a se aventurar na Ásia. Os três descem as corredeiras do rio Mekong, no Laos.</desc>
+    <credits>
+      <director>Ricardo Quintela</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries (Radical)</category>
+    <episode-num system="onscreen">S5 E7</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126093000 -0300" stop="20211126100000 -0300" channel="OFF HD">
+    <title lang="pt">Epic Trails</title>
+    <desc lang="pt">Território do Norte da Austrália - O desértico estado do centro-norte da Austrália, o menos populoso do pouco populoso gigante país da Oceania, é um paraíso para caminhada, com seu clima tropical ao norte e desértico ao sul e 18 parques nacionais.</desc>
+    <credits>
+      <director>Ken Whiting</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Esporte (Radical)</category>
+    <episode-num system="onscreen">S5 E8</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126100000 -0300" stop="20211126103000 -0300" channel="OFF HD">
+    <title lang="pt">The Outdoor Sports Show</title>
+    <sub-title lang="pt">The Outdoor Sports Show 2018</sub-title>
+    <desc lang="pt">Uma das mais singulares corridas de MTB do planeta: a Transpyr Coast to Coast, nos Pirineus; os melhores atletas de triatlo off-road nas etapas belga e suíça do Circuito Europeu XTERRA; e a prova de stand-up paddle Agios Nikolaos on SUP 2018, na Grécia.</desc>
+    <credits>
+      <director>Katrin Ender</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Esporte (Radical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126103000 -0300" stop="20211126110000 -0300" channel="OFF HD">
+    <title lang="pt">OFF Docs - Caminho Do Rinoceronte</title>
+    <sub-title lang="pt">Caminho Do Rinoceronte</sub-title>
+    <desc lang="pt">Caminho do Rinoceronte' é uma homenagem ao Pico do Rinoceronte, montanha rochosa localizada no sul de Santa Catarina que lembra o formato desse animal e está mais de 1.500m acima do nível do mar. O documentário acompanha sete peregrinos que percorrem a trilha sob diferentes perspectivas.</desc>
+    <credits>
+      <director>Albertino Colombo</director>
+      <director>Felipe Bressan Alves</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Radical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126110000 -0300" stop="20211126113000 -0300" channel="OFF HD">
+    <title lang="pt">OFF Docs - Sawatdee</title>
+    <desc lang="pt">Documentário que apresenta skaters da Tailândia, China e Taiwan realizando manobras em locações urbanas.</desc>
+    <category lang="pt">Séries (Radical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126113000 -0300" stop="20211126120000 -0300" channel="OFF HD">
+    <title lang="pt">Partiu, Skate!</title>
+    <desc lang="pt">As meninas vão dar um rolé com o skatista Bruno Passos na Ayala Skate Park na Califórnia.</desc>
+    <credits>
+      <director>Roberto Teixeira de Oliveira</director>
+      <actor>Dora Varella</actor>
+      <actor>Isa Pacheco</actor>
+      <actor>Yndiara Asp</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Aventura)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126120000 -0300" stop="20211126123000 -0300" channel="OFF HD">
+    <title lang="pt">Brazilian Storm</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <director>Rafael Mellin</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Radical)</category>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126123000 -0300" stop="20211126130000 -0300" channel="OFF HD">
+    <title lang="pt">Voo de Cinema</title>
+    <desc lang="pt">Luigi sai de San Diego até São Francisco e vai explorar as diferentes áreas de salto que estão no litoral da Califórnia. Em Byron ele encontra alguns amigos.</desc>
+    <credits>
+      <director>Luigi Cani</director>
+      <actor>Luigi Cani</actor>
+    </credits>
+    <category lang="pt">Séries (Radical)</category>
+    <episode-num system="onscreen">S19 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126130000 -0300" stop="20211126133000 -0300" channel="OFF HD">
+    <title lang="pt">Mundo Medina</title>
+    <desc lang="pt">Gabriel vai para Bali 10 antes da etapa do circuito mundial de Keramas, para focar em sua preparação. Depois do primeiro dia de surfe em Bali, o surfista fica sabendo de um campeonato com altas ondas acontecendo em Krui, ilha na Indonésia próxima de Bali.</desc>
+    <date>2019</date>
+    <category lang="pt">Séries (Aventura)</category>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126133000 -0300" stop="20211126140000 -0300" channel="OFF HD">
+    <title lang="pt">Janaínas: Deusas Do Mar</title>
+    <desc lang="pt">Érica Prado é ex-surfista profissional, jornalista e idealizadora do Movimento Surfistas Negras. Nessa série também colaborou como produtora e diretora de um dos episódios.</desc>
+    <credits>
+      <director>Madara Luiza</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Aventura)</category>
+    <episode-num system="onscreen">S7 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126140000 -0300" stop="20211126143000 -0300" channel="OFF HD">
+    <title lang="pt">Bodyboard Extremo</title>
+    <desc lang="pt">Após terem surfado ondas incríveis em um local onde não havia ninguém, Fabio Aquino, Tim Bonython, Mitchel e Shane partem para outras praias com mais tubulações perfeitas.</desc>
+    <credits>
+      <director>Rafael De Paula Rodrigues</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Esporte (Radical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126143000 -0300" stop="20211126150000 -0300" channel="OFF HD">
+    <title lang="pt">Pela Rua</title>
+    <desc lang="pt">Zodi, Tuca e Samelo dão início à temporada de viagens internacionais e o primeiro destino é o Havaí. Junto com os skatistas Murilo Peres, Felipe Foguinho, Otavio Neto e Nilo Peçanha, eles vão procurar as pistas e piscinas pela ilha de Oahu.</desc>
+    <credits>
+      <director>Carlinhos Zodi</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Radical)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126150000 -0300" stop="20211126153000 -0300" channel="OFF HD">
+    <title lang="pt">Original OFF</title>
+    <desc lang="pt">As skatistas do Britney's Crew aproveitam o momento de quarentena para contar sobre a sua relação com o skate e a importância do coletivo na vida de cada uma.</desc>
+    <credits>
+      <director>Thayná Gonçalves</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Aventura)</category>
+    <episode-num system="onscreen">S7 E8</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126153000 -0300" stop="20211126160000 -0300" channel="OFF HD">
+    <title lang="pt">Original OFF</title>
+    <desc lang="pt">O skatista de 9 anos de idade, Eiki Martello, que luta contra a Leucemia, conta a sua história com o skate e como está sendo seu tratamento para superar a doença e retornar às pistas.</desc>
+    <credits>
+      <director>Pedro Vianna</director>
+      <director>Victor Benecke</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Aventura)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126160000 -0300" stop="20211126163000 -0300" channel="OFF HD">
+    <title lang="pt">OFF Docs - Viaje de Cristal</title>
+    <desc lang="pt">Uma equipe de quatro escaladores argentinos encara a Pedra Riscada, uma grande montanha em São José do Divino, Minas Gerais, o maior monólito rochoso da América do Sul, com o objetivo de abrir uma inédita via internacional.</desc>
+    <credits>
+      <director>Noel Martinez De Aguirre</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Radical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126163000 -0300" stop="20211126170000 -0300" channel="OFF HD">
+    <title lang="pt">OFF Docs - Beyond The Noise</title>
+    <sub-title lang="pt">Beyond The Noise</sub-title>
+    <desc lang="pt">Os surfistas Noah Lane e Harrison Roach se aventuram pelas ondas do mar do norte em uma jornada de autodescobrimento.</desc>
+    <credits>
+      <director>Andrew Kaineder</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Radical)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126170000 -0300" stop="20211126180000 -0300" channel="OFF HD">
+    <title lang="pt">Crankworx</title>
+    <sub-title lang="pt">Crankworx 2020</sub-title>
+    <desc lang="pt">Campeonato mundial de Mountain Bike.</desc>
+    <credits>
+      <director>Peter Churchman</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Esporte (Radical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126180000 -0300" stop="20211126183000 -0300" channel="OFF HD">
+    <title lang="pt">América do Sul Por Elas</title>
+    <desc lang="pt">As atletas Marina, Atalanta, Aline, Gil e Claudinha chegam ansiosas em Chicama para surfar. A onda de Chicama é considerada a mais longa do mundo. Apesar da onda não estar muito grande nesse dia, a esquerda estava perfeita. As meninas pegaram um bote para chegar no pico, já que a remada era muito longa e contra a corrente.</desc>
+    <credits>
+      <director>Jorge Nassaralla</director>
+      <director>Yam Griffo</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Aventura)</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126183000 -0300" stop="20211126190000 -0300" channel="OFF HD">
+    <title lang="pt">América do Sul Por Elas</title>
+    <desc lang="pt">Marina, Atalanta, Aline, Gil e Claudinha visitam o famoso museu do Cao. A Cao foi a primeira e única governanta mulher, por isso era considerada uma deusa. Depois as meninas foram à praia surfar, mas por falta de onda elas resolveram alugar caballitos para pegar marolas. Cabalitos é uma das primeiras origens do surfe. Para finalizar o programa Atalanta deixa o programa para competir no mundial que esta acontecendo na China.</desc>
+    <credits>
+      <director>Jorge Nassaralla</director>
+      <director>Yam Griffo</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Aventura)</category>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126190000 -0300" stop="20211126193000 -0300" channel="OFF HD">
+    <title lang="pt">OFF Makers</title>
+    <desc lang="pt">Seleção dos melhores conteúdos do Canal OFF.</desc>
+    <credits>
+      <director>André Portugal</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Aventura)</category>
+    <episode-num system="onscreen">S4 E9</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126193000 -0300" stop="20211126200000 -0300" channel="OFF HD">
+    <title lang="pt">The Green Wave</title>
+    <desc lang="pt">Bouvet e a família viajam à Ilha de Páscoa, onde passam um mês explorando a imponente e lendária ilha isolada no meio do Pacífico, paraíso também afetado pela poluição plástica dos mares.</desc>
+    <credits>
+      <director>Carine Camboulives</director>
+      <director>Emmanuel Bouvet</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Esporte (Radical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126200000 -0300" stop="20211126210000 -0300" channel="OFF HD">
+    <title lang="pt">Original OFF</title>
+    <desc lang="pt">Um grupo de brasileiros se junta para aproveitar o Surf Ranch, lugar criado por Kelly Slater na Califórnia. A piscina tem ondas perfeitas e é o sonho de qualquer surfista.</desc>
+    <credits>
+      <director>Rafael Mellin</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Aventura)</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126210000 -0300" stop="20211126213000 -0300" channel="OFF HD">
+    <title lang="pt">Brazilian Storm</title>
+    <desc lang="pt">Tainá Hinckel é uma das maiores promessas do surfe feminino brasileiro. Nesse episódio conhecemos um pouco mais da sua história, sonhos e desafios.</desc>
+    <credits>
+      <director>Rafael Mellin</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Radical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126213000 -0300" stop="20211126220000 -0300" channel="OFF HD">
+    <title lang="pt">Ameaçados</title>
+    <desc lang="pt">Sofia chega na Austrália com o objetivo de ir em busca dos icônicos animais aquáticos endêmicos australianos, como o dragão-do-mar e o ornitorrinco.</desc>
+    <credits>
+      <director>Rodrigo Thomé</director>
+      <actor>Sofia Graça Aranha</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Aventura)</category>
+    <episode-num system="onscreen">S19 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126220000 -0300" stop="20211126223000 -0300" channel="OFF HD">
+    <title lang="pt">Pela Rua</title>
+    <desc lang="pt">As sessões no Havaí continuam com Tuca, Zodi e mais os skatistas Murilo Peres, Felipe Foguinho, Otavio Neto e Nilo Peçanha. Eles fazem uma sessão em Kapolei Skatepark, que possui uma pista super colorida e uma paisagem das montanhas ao fundo.</desc>
+    <credits>
+      <director>Carlinhos Zodi</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Radical)</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126223000 -0300" stop="20211126230000 -0300" channel="OFF HD">
+    <title lang="pt">Bono, O Cão Surfista</title>
+    <desc lang="pt">Em seu retorno para o Havaí, Ivan aproveitou para conhecer outras ilhas, como o Kauai e Maui. De volta a Oahu, Ivan e Bono foram convidados para participar do famoso festival anual de surfe e cultura havaiana chamado Buffalo Surfing Classic.</desc>
+    <credits>
+      <director>Gustavo Leite</director>
+      <director>Rodrigo Schmidt</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Aventura)</category>
+    <episode-num system="onscreen">S7 E9</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126230000 -0300" stop="20211126233000 -0300" channel="OFF HD">
+    <title lang="pt">Voo de Cinema</title>
+    <desc lang="pt">Luigi Cani monta um capacete com camera de cinema e segue os melhores atletas e os melhores eventos de paraquedismo no Brasil durante o primeiro semestre de 2019.</desc>
+    <credits>
+      <director>Luigi Cani</director>
+      <actor>Luigi Cani</actor>
+    </credits>
+    <category lang="pt">Séries (Radical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126233000 -0300" stop="20211127000000 -0300" channel="OFF HD">
+    <title lang="pt">Vida de Biker</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <director>Jorge Nassaralla</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Esporte (Ciclismo)</category>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127000000 -0300" stop="20211127010000 -0300" channel="OFF HD">
+    <title lang="pt">OFF Films - You Never Know</title>
+    <sub-title lang="pt">You Never Know</sub-title>
+    <desc lang="pt">A história de uma das mais bem-sucedidas pilotos de parapente de todos os tempos: a polonesa Klaudia Bulgakow. Superando adversidades, ela conquistou o título mundial de 2013 e consolidou uma carreira em busca da excelência pessoal, da jornada com amigos e do trabalho para inspirar outros a seguirem seus sonhos.</desc>
+    <credits>
+      <director>Martin Smékal</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127010000 -0300" stop="20211127020000 -0300" channel="OFF HD">
+    <title lang="pt">OFF Films - Behind The Tide</title>
+    <desc lang="pt">O documentário apresenta um olhar profundo sobre individuos de criatividade ímpar, que decidiram viver em função de sua paixão pelo surfe. Você vai conhecer uma perspectiva diferente da cultura do surfe, com foco no trabalho dessas pessoas, que vivem longe do mainstraim. De shapers a fotógrafos, a obra documenta como a arte e o amor pelas ondas trancende fronteiras culturais e geográficas e fala a mesma língua.</desc>
+    <credits>
+      <director>Romain Juchereau</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127020000 -0300" stop="20211127023000 -0300" channel="OFF HD">
+    <title lang="pt">OFF Makers</title>
+    <desc lang="pt">Seleção dos melhores conteúdos do Canal OFF.</desc>
+    <credits>
+      <director>André Portugal</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Aventura)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127023000 -0300" stop="20211127030000 -0300" channel="OFF HD">
+    <title lang="pt">Morando Na Estrada</title>
+    <desc lang="pt">Depois de mais de cinco meses na estrada, a viagem chegou ao fim. Marcela e Nelsinho procuram um lugar para guardar o ônibus e relembram os momentos mais marcantes com o Blues, the Bus.</desc>
+    <credits>
+      <director>Camila Salles</director>
+      <actor>Marcela Witt</actor>
+      <actor>Nelson Pinto</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Aventura)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127030000 -0300" stop="20211127033000 -0300" channel="OFF HD">
+    <title lang="pt">Voo de Cinema</title>
+    <desc lang="pt">Luigi Cani monta um capacete com camera de cinema e segue os melhores atletas e os melhores eventos de paraquedismo no Brasil durante o primeiro semestre de 2019.</desc>
+    <credits>
+      <director>Luigi Cani</director>
+      <actor>Luigi Cani</actor>
+    </credits>
+    <category lang="pt">Séries (Radical)</category>
+    <episode-num system="onscreen">S3 E16</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127033000 -0300" stop="20211127040000 -0300" channel="OFF HD">
+    <title lang="pt">Kite Masters</title>
+    <desc lang="pt">A terceira etapa da Copa do Mundo de KiteFoil 2019, em Pingtan, a meca chinesa do kitesurfe com seus ventos fortes o ano inteiro.</desc>
+    <credits>
+      <director>Katrin Ender</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Radical)</category>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127040000 -0300" stop="20211127043000 -0300" channel="OFF HD">
+    <title lang="pt">Caminando Sobre Las Olas</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <director>Kepa Acero</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Esporte (Surfe)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127043000 -0300" stop="20211127053000 -0300" channel="OFF HD">
+    <title lang="pt">Day Zero</title>
+    <desc lang="pt">A aventureira do mar e defensora do meio ambiente Léa Brassy vai à Polinésia Francesa, vivenciar a natureza marinha do Taiti e os hábitos locais de uma cultura de subsistência sempre preocupada em respeitar e preservar os recursos naturais da região.</desc>
+    <credits>
+      <director>Alaistar Lee</director>
+      <director>Nils Bökamp</director>
+    </credits>
+    <category lang="pt">Séries (Meio Ambiente)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127053000 -0300" stop="20211127060000 -0300" channel="OFF HD">
+    <title lang="pt">Kaiak.</title>
+    <sub-title lang="pt">Kaiak</sub-title>
+    <desc lang="pt">Os kayakers Ben, Chris e Pedro continuam a se aventurar na Ásia. Os três descem as corredeiras do rio Mekong, no Laos.</desc>
+    <credits>
+      <director>Ricardo Quintela</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries (Radical)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127060000 -0300" stop="20211127063000 -0300" channel="OFF HD">
+    <title lang="pt">Kaiak.</title>
+    <sub-title lang="pt">Kaiak</sub-title>
+    <desc lang="pt">Os kayakers Ben, Chris e Pedro continuam a se aventurar na Ásia. Os três descem as corredeiras do rio Mekong, no Laos.</desc>
+    <credits>
+      <director>Ricardo Quintela</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries (Radical)</category>
+    <episode-num system="onscreen">S5 E7</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127063000 -0300" stop="20211127070000 -0300" channel="OFF HD">
+    <title lang="pt">Ultimate Rush</title>
+    <desc lang="pt">Para celebrar 20 anos de parceria, os franceses Vince Reffet e Fred Fugen, os Soul Flyers, tentam realizar um sonho: saltar de wingsuit da montanha Jungfrau, nos Alpes Suíços, para dentro de um avião.</desc>
+    <credits>
+      <director>Troy Beauchamp</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Radical)</category>
+    <episode-num system="onscreen">S5 E8</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127070000 -0300" stop="20211127073000 -0300" channel="OFF HD">
+    <title lang="pt">Kite Masters</title>
+    <desc lang="pt">A terceira etapa da Copa do Mundo de KiteFoil 2019, em Pingtan, a meca chinesa do kitesurfe com seus ventos fortes o ano inteiro.</desc>
+    <credits>
+      <director>Katrin Ender</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Radical)</category>
+    <episode-num system="onscreen">S6 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127073000 -0300" stop="20211127080000 -0300" channel="OFF HD">
+    <title lang="pt">Brazilian Storm</title>
+    <desc lang="pt">Tainá Hinckel é uma das maiores promessas do surfe feminino brasileiro. Nesse episódio conhecemos um pouco mais da sua história, sonhos e desafios.</desc>
+    <credits>
+      <director>Rafael Mellin</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Radical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127080000 -0300" stop="20211127083000 -0300" channel="OFF HD">
+    <title lang="pt">América do Sul Por Elas</title>
+    <desc lang="pt">As atletas Marina, Atalanta, Aline, Gil e Claudinha chegam ansiosas em Chicama para surfar. A onda de Chicama é considerada a mais longa do mundo. Apesar da onda não estar muito grande nesse dia, a esquerda estava perfeita. As meninas pegaram um bote para chegar no pico, já que a remada era muito longa e contra a corrente.</desc>
+    <credits>
+      <director>Jorge Nassaralla</director>
+      <director>Yam Griffo</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Aventura)</category>
+    <episode-num system="onscreen">S19 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127083000 -0300" stop="20211127090000 -0300" channel="OFF HD">
+    <title lang="pt">América do Sul Por Elas</title>
+    <desc lang="pt">Marina, Atalanta, Aline, Gil e Claudinha visitam o famoso museu do Cao. A Cao foi a primeira e única governanta mulher, por isso era considerada uma deusa. Depois as meninas foram à praia surfar, mas por falta de onda elas resolveram alugar caballitos para pegar marolas. Cabalitos é uma das primeiras origens do surfe. Para finalizar o programa Atalanta deixa o programa para competir no mundial que esta acontecendo na China.</desc>
+    <credits>
+      <director>Jorge Nassaralla</director>
+      <director>Yam Griffo</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Aventura)</category>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127090000 -0300" stop="20211127093000 -0300" channel="OFF HD">
+    <title lang="pt">Ameaçados</title>
+    <desc lang="pt">Sofia chega na Austrália com o objetivo de ir em busca dos icônicos animais aquáticos endêmicos australianos, como o dragão-do-mar e o ornitorrinco.</desc>
+    <credits>
+      <director>Rodrigo Thomé</director>
+      <actor>Sofia Graça Aranha</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Aventura)</category>
+    <episode-num system="onscreen">S4 E9</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127093000 -0300" stop="20211127100000 -0300" channel="OFF HD">
+    <title lang="pt">Skate a Mais de 100 Por Hora</title>
+    <desc lang="pt">Nesta série, vamos acompanhar os três skatistas brasileiros: Guto Negão, Thiago Lessa e Max Ballesteros, na missão de tentar recuperar para o Brasil o recorde mundial de maior velocidade e entrar para o Guiness Book. Veremos toda a preparação, que começa no Brasil até o desafio final dos Estados Unidos.</desc>
+    <credits>
+      <director>Bernardo Bôscoli</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Aventura)</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127100000 -0300" stop="20211127103000 -0300" channel="OFF HD">
+    <title lang="pt">Vida de Biker</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <director>Jorge Nassaralla</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Esporte (Ciclismo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127103000 -0300" stop="20211127110000 -0300" channel="OFF HD">
+    <title lang="pt">OFF Docs - The Blackboard</title>
+    <desc lang="pt">"The Blackboard" é um documentário produzido e dirigido pelo advogado e cineasta Marquis Bradshaw que procura mostrar o desafio de um negro skatista na América, examinando a questão da aceitação da prática e da cultura do esporte dentro da comunidade negra.</desc>
+    <credits>
+      <director>Marquis Bradshaw</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Radical)</category>
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211127110000 -0300" stop="20211127113000 -0300" channel="OFF HD">
+    <title lang="pt">OFF Docs - Simagere</title>
+    <desc lang="pt">Simagere significa "Espírito da Vida" no dialeto de Mentawaii, na Indonésia. O brasileiro Bruno Santos, um dos melhores surfistas do mundo, mudou-se para Bali com sua família buscando exatamente esse sentido, indo viver um tempo em um resort de surf que fica bem no pico de uma das melhores ondas do mundo. Com coragem, aceitou o risco de tentar uma vida nova em um lugar totalmente diferente.</desc>
+    <credits>
+      <director>Alexandre Ribas</director>
+    </credits>
+    <category lang="pt">Séries (Radical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127113000 -0300" stop="20211127120000 -0300" channel="OFF HD">
+    <title lang="pt">Reel Rock</title>
+    <desc lang="pt">O explorador britânico Leo Houlding recruta o chef francês e mestre de kite-esqui Jean Burgun e o cinegrafista neozelandês e guia de montanhismo Mark Sedon para um desafio sem precedentes: atravessar a Antártida usando apenas kite-esquis para escalar a montanha mais remota da Terra.</desc>
+    <credits>
+      <director>Josh Lowell</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127120000 -0300" stop="20211127130000 -0300" channel="OFF HD">
+    <title lang="pt">Day Zero</title>
+    <desc lang="pt">A aventureira do mar e defensora do meio ambiente Léa Brassy vai à Polinésia Francesa, vivenciar a natureza marinha do Taiti e os hábitos locais de uma cultura de subsistência sempre preocupada em respeitar e preservar os recursos naturais da região.</desc>
+    <credits>
+      <director>Alaistar Lee</director>
+      <director>Nils Bökamp</director>
+    </credits>
+    <category lang="pt">Séries (Meio Ambiente)</category>
+    <episode-num system="onscreen">S5 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127130000 -0300" stop="20211127133000 -0300" channel="OFF HD">
+    <title lang="pt">Caminando Sobre Las Olas</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <director>Kepa Acero</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Esporte (Surfe)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127133000 -0300" stop="20211127140000 -0300" channel="OFF HD">
+    <title lang="pt">Seleção OFF</title>
+    <sub-title lang="pt">Brazilian Storm</sub-title>
+    <desc lang="pt">Após uma lesão no joelho e cinco meses de pausa, Silvana Lima finalmente volta a cair no mar. O lugar escolhido é Paracuru, cidade natal da surfista. A atleta mostra um pouco de sua rotina durante a recuperação em São Paulo e seu dia-a-dia no Rio.</desc>
+    <date>2019</date>
+    <category lang="pt">Séries (Radical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127140000 -0300" stop="20211127143000 -0300" channel="OFF HD">
+    <title lang="pt">Bono, O Cão Surfista</title>
+    <desc lang="pt">Em seu retorno para o Havaí, Ivan aproveitou para conhecer outras ilhas, como o Kauai e Maui. De volta a Oahu, Ivan e Bono foram convidados para participar do famoso festival anual de surfe e cultura havaiana chamado Buffalo Surfing Classic.</desc>
+    <credits>
+      <director>Gustavo Leite</director>
+      <director>Rodrigo Schmidt</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Aventura)</category>
+    <episode-num system="onscreen">S15 E12</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127143000 -0300" stop="20211127150000 -0300" channel="OFF HD">
+    <title lang="pt">Morando Na Estrada</title>
+    <desc lang="pt">Depois de mais de cinco meses na estrada, a viagem chegou ao fim. Marcela e Nelsinho procuram um lugar para guardar o ônibus e relembram os momentos mais marcantes com o Blues, the Bus.</desc>
+    <credits>
+      <director>Camila Salles</director>
+      <actor>Marcela Witt</actor>
+      <actor>Nelson Pinto</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Aventura)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127150000 -0300" stop="20211127153000 -0300" channel="OFF HD">
+    <title lang="pt">Partiu, Skate!</title>
+    <desc lang="pt">As meninas vão dar um rolé com o skatista Bruno Passos na Ayala Skate Park na Califórnia.</desc>
+    <credits>
+      <director>Roberto Teixeira de Oliveira</director>
+      <actor>Dora Varella</actor>
+      <actor>Isa Pacheco</actor>
+      <actor>Yndiara Asp</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Aventura)</category>
+    <episode-num system="onscreen">S3 E16</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127153000 -0300" stop="20211127160000 -0300" channel="OFF HD">
+    <title lang="pt">Vida de Biker</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <director>Jorge Nassaralla</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Esporte (Ciclismo)</category>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127160000 -0300" stop="20211127163000 -0300" channel="OFF HD">
+    <title lang="pt">Skate a Mais de 100 Por Hora</title>
+    <desc lang="pt">Nesta série, vamos acompanhar os três skatistas brasileiros: Guto Negão, Thiago Lessa e Max Ballesteros, na missão de tentar recuperar para o Brasil o recorde mundial de maior velocidade e entrar para o Guiness Book. Veremos toda a preparação, que começa no Brasil até o desafio final dos Estados Unidos.</desc>
+    <credits>
+      <director>Bernardo Bôscoli</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Aventura)</category>
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127163000 -0300" stop="20211127170000 -0300" channel="OFF HD">
+    <title lang="pt">Ultimate Rush</title>
+    <desc lang="pt">Para celebrar 20 anos de parceria, os franceses Vince Reffet e Fred Fugen, os Soul Flyers, tentam realizar um sonho: saltar de wingsuit da montanha Jungfrau, nos Alpes Suíços, para dentro de um avião.</desc>
+    <credits>
+      <director>Troy Beauchamp</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Radical)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127170000 -0300" stop="20211127173000 -0300" channel="OFF HD">
+    <title lang="pt">The Green Wave</title>
+    <desc lang="pt">Bouvet e a família viajam à Ilha de Páscoa, onde passam um mês explorando a imponente e lendária ilha isolada no meio do Pacífico, paraíso também afetado pela poluição plástica dos mares.</desc>
+    <credits>
+      <director>Carine Camboulives</director>
+      <director>Emmanuel Bouvet</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Esporte (Radical)</category>
+    <episode-num system="onscreen">S6 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127173000 -0300" stop="20211127180000 -0300" channel="OFF HD">
+    <title lang="pt">Epic Trails</title>
+    <desc lang="pt">Território do Norte da Austrália - O desértico estado do centro-norte da Austrália, o menos populoso do pouco populoso gigante país da Oceania, é um paraíso para caminhada, com seu clima tropical ao norte e desértico ao sul e 18 parques nacionais.</desc>
+    <credits>
+      <director>Ken Whiting</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Esporte (Radical)</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127180000 -0300" stop="20211127183000 -0300" channel="OFF HD">
+    <title lang="pt">Estradas da Aventura</title>
+    <desc lang="pt">A trip segue para o rio Hood River, berço dos esportes de vento nos EUA. O inventor do foilboard Mike Murphy chega com seu motorhome para curtir as aventuras com Sylvio e Hugo.</desc>
+    <credits>
+      <director>Sylvio Mancusi</director>
+      <actor>Michael Murphy</actor>
+      <actor>Sylvio Mancusi</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Aventura)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127183000 -0300" stop="20211127190000 -0300" channel="OFF HD">
+    <title lang="pt">Famílias ao Ar Livre</title>
+    <desc lang="pt">Para a família Porto Alegre escalada é sinônimo de diversão, desafio e trabalho em equipe. Através da escalada, Amanda e seus pais, Deivis Tavares e Fabiane Criscuoli, descobrem juntos lugares incríveis e encontram uma alternativa saudável para a rotina da cidade grande que às vezes pode ser muito estressante. Acompanhe neste episódio, a família Porto Alegre numa de suas aventuras em busca de novas rochas e escaladas desafiadoras.</desc>
+    <credits>
+      <director>Gustavo Gama Rodrigues</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Aventura)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127190000 -0300" stop="20211127200000 -0300" channel="OFF HD">
+    <title lang="pt">Bodyboard Extremo</title>
+    <desc lang="pt">Após terem surfado ondas incríveis em um local onde não havia ninguém, Fabio Aquino, Tim Bonython, Mitchel e Shane partem para outras praias com mais tubulações perfeitas.</desc>
+    <credits>
+      <director>Rafael De Paula Rodrigues</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Esporte (Radical)</category>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127200000 -0300" stop="20211127203000 -0300" channel="OFF HD">
+    <title lang="pt">Trilhas e Travessias</title>
+    <desc lang="pt">Trilhas em meio às deslumbrantes paisagens da Nova Zelândia, fazem o país se destacar. Na próxima temporada do Trilhas e Travessias as apresentadoras, Júlia Ericson e Marina Machado, vivenciarão nesse destino mágico desde lagos azul turquesa, fiordes em meio a cenários dramáticos, glaciares bem próximos à beira-mar, emocionante salto de bungee jump em um cânion até banquetes preparado à moda dos Hobbits.</desc>
+    <credits>
+      <director>Jorge Nassaralla</director>
+      <actor>Julia Ericson</actor>
+      <actor>Marina Machado</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Radical)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127203000 -0300" stop="20211127210000 -0300" channel="OFF HD">
+    <title lang="pt">Kaiak.</title>
+    <sub-title lang="pt">Kaiak</sub-title>
+    <desc lang="pt">Os kayakers Ben, Chris e Pedro continuam a se aventurar na Ásia. Os três descem as corredeiras do rio Mekong, no Laos.</desc>
+    <credits>
+      <director>Ricardo Quintela</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries (Radical)</category>
+    <episode-num system="onscreen">S4 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127210000 -0300" stop="20211127213000 -0300" channel="OFF HD">
+    <title lang="pt">Kaiak.</title>
+    <sub-title lang="pt">Kaiak</sub-title>
+    <desc lang="pt">Os kayakers Ben, Chris e Pedro continuam a se aventurar na Ásia. Os três descem as corredeiras do rio Mekong, no Laos.</desc>
+    <credits>
+      <director>Ricardo Quintela</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Séries (Radical)</category>
+    <episode-num system="onscreen">S5 E7</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127213000 -0300" stop="20211127220000 -0300" channel="OFF HD">
+    <title lang="pt">Onda do Ano 51 ICE</title>
+    <sub-title lang="pt">Onda Do Ano</sub-title>
+    <desc lang="pt">Apesar de ser atualmente a nação detentora dos mais expressivos resultados no circuito mundial de surf e uma das maiores candidatas a faturar o primeiro ouro olímpico da história do esporte, há muito que o cenário interno não se depara com eventos significativos e proporcional premiação, fato este que se agravou ainda mais com a crise fruto da pandemia da Covid-19 que assolou o mundo. Nessa atmosfera, Flavio Sinkus e Guto Cappio tiveram a idéia de criar o Onda do ano 51 ICE, oferecendo uma significativa recompensa aos vencedores, dividida igualmente pra categoria masculina e feminina, onde o desenrolar do mesmo será apresentado na integra por uma série de 8 episódios apresentados pelo lendário Fábio Gouveia e a carismática Marina Werneck.</desc>
+    <credits>
+      <director>Jorge Nassaralla</director>
+      <actor>Fábio Gouveia</actor>
+      <actor>Marina Werneck</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Esporte (Surfe)</category>
+    <episode-num system="onscreen">S5 E8</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211127220000 -0300" stop="20211127223000 -0300" channel="OFF HD">
+    <title lang="pt">Janaínas: Deusas Do Mar</title>
+    <desc lang="pt">Érica Prado é ex-surfista profissional, jornalista e idealizadora do Movimento Surfistas Negras. Nessa série também colaborou como produtora e diretora de um dos episódios.</desc>
+    <credits>
+      <director>Madara Luiza</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Aventura)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127223000 -0300" stop="20211127230000 -0300" channel="OFF HD">
+    <title lang="pt">Mundo Medina</title>
+    <desc lang="pt">Gabriel vai para Bali 10 antes da etapa do circuito mundial de Keramas, para focar em sua preparação. Depois do primeiro dia de surfe em Bali, o surfista fica sabendo de um campeonato com altas ondas acontecendo em Krui, ilha na Indonésia próxima de Bali.</desc>
+    <date>2019</date>
+    <category lang="pt">Séries (Aventura)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127230000 -0300" stop="20211127233000 -0300" channel="OFF HD">
+    <title lang="pt">América do Sul Por Elas</title>
+    <desc lang="pt">As atletas Marina, Atalanta, Aline, Gil e Claudinha chegam ansiosas em Chicama para surfar. A onda de Chicama é considerada a mais longa do mundo. Apesar da onda não estar muito grande nesse dia, a esquerda estava perfeita. As meninas pegaram um bote para chegar no pico, já que a remada era muito longa e contra a corrente.</desc>
+    <credits>
+      <director>Jorge Nassaralla</director>
+      <director>Yam Griffo</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Aventura)</category>
+    <episode-num system="onscreen">S7 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126001500 -0300" stop="20211126021500 -0300" channel="Paramount Channel">
+    <title lang="pt">A Informante</title>
+    <sub-title lang="pt">The Whistleblower</sub-title>
+    <desc lang="pt">Ao ser convidada pelas Nações Unidas para participar da pacificação da Bósnia, a policial Kathy Bolkovac não imaginava o que a esperava. Ela descobre uma rede de corrupção e tráfico sexual encoberta pela ONU.</desc>
+    <credits>
+      <director>Larysa Kondracki</director>
+      <actor>Rachel Weisz</actor>
+      <actor>Monica Bellucci</actor>
+      <actor>Vanessa Redgrave</actor>
+      <actor>David Strathairn</actor>
+      <actor>Nikolaj Lie Kaas</actor>
+      <actor>Roxana Condurache</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126021500 -0300" stop="20211126035000 -0300" channel="Paramount Channel">
+    <title lang="pt">O Combate Paranormal</title>
+    <sub-title lang="pt">Crawlspace</sub-title>
+    <desc lang="pt">Uma unidade de forças especiais é enviada para a base militar ultrassecreta de Pine Gap, na Austrália. Conforme as tropas se infiltram no complexo, são atacadas por forças desconhecidas.</desc>
+    <credits>
+      <director>Justin Dix</director>
+      <actor>Dix</actor>
+      <actor>Justin Baroo</actor>
+      <actor>Eddie Foster</actor>
+      <actor>Adam Patrick Clayton</actor>
+      <actor>Amber Davey</actor>
+      <actor>Ditch Sergeant</actor>
+      <actor>Peta McLean</actor>
+      <actor>Greg Hoppe</actor>
+      <actor>James Marconato</actor>
+      <actor>Alexandre Bisceglia</actor>
+      <actor>Cassia de Castro</actor>
+      <actor>Fábio Bullara</actor>
+      <actor>Fernanda</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Filme (Terror)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126035000 -0300" stop="20211126054000 -0300" channel="Paramount Channel">
+    <title lang="pt">O Jerusalem</title>
+    <desc lang="pt">Uma história de amizade entre dois homens, um judeu e outro árabe, enquanto o país de Israel está sendo criado.</desc>
+    <credits>
+      <director>Élie Chouraqui</director>
+      <actor>JJ Feild</actor>
+      <actor>Saïd Taghmaoui</actor>
+      <actor>Maria Papas</actor>
+      <actor>Patrick Bruel</actor>
+      <actor>Ian Holm</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126054000 -0300" stop="20211126060000 -0300" channel="Paramount Channel">
+    <title lang="pt">Bloco Musical</title>
+    <sub-title lang="pt">Music Block</sub-title>
+    <desc lang="pt">Vídeoclipes para animar seu dia com o melhor da música internacional e nacional.</desc>
+    <credits>
+      <director>Anna Butler</director>
+    </credits>
+    <category lang="pt">Variedades (Musical)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126060000 -0300" stop="20211126061500 -0300" channel="Paramount Channel">
+    <title lang="pt">Bloco Musical</title>
+    <sub-title lang="pt">Music Block</sub-title>
+    <desc lang="pt">Vídeoclipes para animar seu dia com o melhor da música internacional e nacional.</desc>
+    <credits>
+      <director>Anna Butler</director>
+    </credits>
+    <category lang="pt">Variedades (Musical)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126061500 -0300" stop="20211126080000 -0300" channel="Paramount Channel">
+    <title lang="pt">Luta Pela Honra</title>
+    <sub-title lang="pt">From Mexico With Love</sub-title>
+    <desc lang="pt">Hector é um jovem mexicano que, quando descobre que sua mãe está doente, passa a lutar por dinheiro. O pai do campeão de boxe local, temendo que seu filho seja derrotado, arma para o rapaz ser espancado e abandonado no deserto. Mas Hector ressurge com um novo treinador em busca de vingança.</desc>
+    <credits>
+      <director>Jimmy Nickerson</director>
+      <actor>Kuno Becker</actor>
+      <actor>Steven Bauer</actor>
+      <actor>Stephen Lang</actor>
+      <actor>Alex Nesic</actor>
+      <actor>Danay Garcia</actor>
+      <actor>Angélica Aragón</actor>
+      <actor>Bruce McGill</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126080000 -0300" stop="20211126081500 -0300" channel="Paramount Channel">
+    <title lang="pt">Bloco Musical</title>
+    <sub-title lang="pt">Music Block</sub-title>
+    <desc lang="pt">Vídeoclipes para animar seu dia com o melhor da música internacional e nacional.</desc>
+    <credits>
+      <director>Anna Butler</director>
+    </credits>
+    <category lang="pt">Variedades (Musical)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126081500 -0300" stop="20211126100000 -0300" channel="Paramount Channel">
+    <title lang="pt">Chihuahua: O Filme</title>
+    <sub-title lang="pt">Chihuahua: The Movie</sub-title>
+    <desc lang="pt">Sondra é uma linda médica que menospreza as pessoas que não considera de seu nível, especialmente Jeanie, sua recepcionista, que é uma mãe solteira que não se separa de seu chihuahua, Bella. Um dia, Sondra cai e acorda no corpo da cachorrinha. Logo começa ver sua vida e as pessoas de outra maneira.</desc>
+    <credits>
+      <director>Michael Amundsen</director>
+      <actor>Anya Benton</actor>
+      <actor>Renee Pezzotta</actor>
+      <actor>Jason Ellefson</actor>
+      <actor>Jonathan Aube</actor>
+      <actor>Deena Trudy</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126100000 -0300" stop="20211126114000 -0300" channel="Paramount Channel">
+    <title lang="pt">As Aventuras de Bailey</title>
+    <sub-title lang="pt">Adventures of Bailey - The Lost Puppy</sub-title>
+    <desc lang="pt">Bailey é uma cachorrinha filhote que está de mudança. Durante a viagem, ela se perde de seus donos em uma das paradas e parte em uma jornada para achar sua família. No caminho Bailey chega a um rancho de animais exóticos onde faz novos amigos, além de aprender lições sobre família e amizade.</desc>
+    <credits>
+      <director>Steve Franke</director>
+      <actor>Rick Shew</actor>
+      <actor>Liz Franke</actor>
+      <actor>Truman Croft</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Filme (Aventura)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126114000 -0300" stop="20211126132500 -0300" channel="Paramount Channel">
+    <title lang="pt">A Origem dos Guardiões</title>
+    <sub-title lang="pt">Rise of the Guardians</sub-title>
+    <desc lang="pt">Jack Frost, Tooth Fairy, Bunnymund, Sandman e Norte se tornam super-heróis para salvar as crianças de Pitch, um espírito maligno que quer levar a inocência das crianças. Poderão vencer Pitch?</desc>
+    <credits>
+      <director>Peter Ramsey</director>
+      <actor>Vozes de Chris Pine</actor>
+      <actor>Jude Law</actor>
+      <actor>Alec Baldwin</actor>
+      <actor>Isla Fisher</actor>
+      <actor>Hugh Jackman</actor>
+      <actor>Dakota Goyo</actor>
+      <actor>Khamani Griffin</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Filme (Animação)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126132500 -0300" stop="20211126151000 -0300" channel="Paramount Channel">
+    <title lang="pt">As Duas Faces de Janeiro</title>
+    <sub-title lang="pt">The Two Faces Of January</sub-title>
+    <desc lang="pt">Na década de 60, Chester e Colette são um casal que decide fazer turismo na Grécia. Eles conhecem Rydal, um americano que os ajuda nos passeios, mas que também é um vigarista. Porém, o guia trapaceiro descobre que os dois não são pessoas inocentes e uma estranha parceria acaba se formando.</desc>
+    <credits>
+      <director>Hossein Amini</director>
+      <actor>Oscar Isaac</actor>
+      <actor>David Warshofsky</actor>
+      <actor>Kirsten Dunst</actor>
+      <actor>Viggo Mortensen</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Filme (Romance)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126151000 -0300" stop="20211126170500 -0300" channel="Paramount Channel">
+    <title lang="pt">Código de Honra</title>
+    <sub-title lang="pt">Puncture</sub-title>
+    <desc lang="pt">Os advogados idealistas Mike Weiss e Paul Danziger são sócios. Mike é usuário de drogas e Paul é um homem de família cuja esposa está grávida. Quando a enfermeira Vicky Rogers pede que eles a defendam, ficam sabendo que ela contraiu AIDS há alguns anos, contaminada acidentalmente com uma agulha por um paciente violento. Vicky lhes mostra uma agulha segura, que se retrai em caso de introdução forçada, criada pelo engenheiro Jeffrey Matthew Dancort, dono da empresa Safety Point Company, mas que não conseguiu vender o produto a nenhum hospital da United Medical Group, além do San Antonio Memorial. Danziger e Weiss aceitam o caso e entram com um processo contra a United Medical, defendida pelo poderoso advogado Nathaniel Price. Logo percebem que todas as portas se fecham para eles enquanto lutam contra a poderosa máfia do sistema de suprimentos médicos.</desc>
+    <credits>
+      <director>Adam Kassen</director>
+      <director>Mark Kassen</director>
+      <actor>Chris Evans</actor>
+      <actor>Mark Kassen</actor>
+      <actor>Vinessa Shaw</actor>
+      <actor>Marshall Bell</actor>
+      <actor>Brett Cullen</actor>
+      <actor>Jesse L. Martin</actor>
+      <actor>Kate Burton</actor>
+      <actor>Tess Parker</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126170500 -0300" stop="20211126190500 -0300" channel="Paramount Channel">
+    <title lang="pt">A Informante</title>
+    <sub-title lang="pt">The Whistleblower</sub-title>
+    <desc lang="pt">Ao ser convidada pelas Nações Unidas para participar da pacificação da Bósnia, a policial Kathy Bolkovac não imaginava o que a esperava. Ela descobre uma rede de corrupção e tráfico sexual encoberta pela ONU.</desc>
+    <credits>
+      <director>Larysa Kondracki</director>
+      <actor>Rachel Weisz</actor>
+      <actor>Monica Bellucci</actor>
+      <actor>Vanessa Redgrave</actor>
+      <actor>David Strathairn</actor>
+      <actor>Nikolaj Lie Kaas</actor>
+      <actor>Roxana Condurache</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126190500 -0300" stop="20211126200500 -0300" channel="Paramount Channel">
+    <title lang="pt">The Handmaid's Tale - O Conto da Aia</title>
+    <sub-title lang="pt">The Handmaid's Tale</sub-title>
+    <desc lang="pt">June procura por rebeldes mais ativos na zona de guerra de Chicago, enquanto Janine tenta ajudá-la a se adaptar ao novo grupo de sobreviventes.</desc>
+    <credits>
+      <director>Christina Cheo</director>
+      <actor>Chaiken</actor>
+      <actor>Ilya Littlefield</actor>
+      <actor>Warren Miller</actor>
+      <actor>Bruce Morano</actor>
+      <actor>Reed Sears</actor>
+      <actor>Fran Wilson</actor>
+      <actor>Daniel Bledel</actor>
+      <actor>Alexis Brewer</actor>
+      <actor>Madeline Dowd</actor>
+      <actor>Ann Fagbenie</actor>
+      <actor>O-T Fiennes</actor>
+      <actor>Joseph Minghella</actor>
+      <actor>Max Moss</actor>
+      <actor>Elisabeth Strahovski</actor>
+      <actor>Yvonne Wiley</actor>
+      <actor>Samira Cheo</actor>
+      <actor>Christina Fontenelle</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Drama)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126200500 -0300" stop="20211126220000 -0300" channel="Paramount Channel">
+    <title lang="pt">Pompeia</title>
+    <sub-title lang="pt">Pompeii</sub-title>
+    <desc lang="pt">Dias antes da erupção do Monte Vesúvio, o escravo Milo luta pela sua própria sobrevivência em uma arena de gladiadores. Ele chama a atenção de Cassia, a bela filha de um rico comerciante, que é desejada por um corrupto senador romano. Em meio ao caos, Milo precisa salvar a si mesmo e a sua amada.</desc>
+    <credits>
+      <director>Paul W. S. Anderson</director>
+      <actor>Kiefer Sutherland</actor>
+      <actor>Emily Browning</actor>
+      <actor>Kit Harington</actor>
+      <actor>Carrie-Anne Moss</actor>
+      <actor>Adewale Akinnuoye-Agbaje</actor>
+      <actor>Jessica Lucas</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Filme (Ação)</category>
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126220000 -0300" stop="20211127000000 -0300" channel="Paramount Channel">
+    <title lang="pt">Beijos que Matam</title>
+    <sub-title lang="pt">Kiss the girls</sub-title>
+    <desc lang="pt">Detetive investiga o desaparecimento da sobrinha, ajudado por uma moça que conseguiu fugir do sequestrador.</desc>
+    <credits>
+      <director>Gary Fleder</director>
+      <actor>Morgan Freeman</actor>
+      <actor>Ashley Judd</actor>
+      <actor>Cary Elwes</actor>
+      <actor>Alex McArthur</actor>
+      <actor>Tony Goldwyn</actor>
+      <actor>Jay O. Sanders</actor>
+      <actor>Bill Nunn</actor>
+      <actor>Brian Cox</actor>
+      <actor>Richard T. Jones</actor>
+      <actor>Roma Maffia</actor>
+      <actor>Jeremy Piven</actor>
+      <actor>Gina Ravera</actor>
+      <actor>William Converse-Roberts</actor>
+      <actor>Helen Martin</actor>
+      <actor>Tatyana Ali</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="pt">Filme (Suspense)</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20211127000000 -0300" stop="20211127014500 -0300" channel="Paramount Channel">
+    <title lang="pt">A Lenda Do Mestre Chines</title>
+    <sub-title lang="pt">Sorcerer and the White Snake</sub-title>
+    <desc lang="pt">O jovem e pobre médico Xu Xian é beijado por uma mulher, e se apaixona por ela, sem saber que na verdade, ela é a serpente branca.</desc>
+    <credits>
+      <director>Tony Ching</director>
+      <actor>Ching</actor>
+      <actor>Tony Cheung</actor>
+      <actor>Tan Li</actor>
+      <actor>Jet Huang</actor>
+      <actor>Shengyi Lam</actor>
+      <actor>Raymond Choi</actor>
+      <actor>Charlene Chui</actor>
+      <actor>Bo-Chu Padilla</actor>
+      <actor>Erick Ramos</actor>
+      <actor>Karen Villaroel</actor>
+      <actor>Stefany León</actor>
+      <actor>Rubén</actor>
+    </credits>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211127014500 -0300" stop="20211127040000 -0300" channel="Paramount Channel">
+    <title lang="pt">Sob Suspeita</title>
+    <sub-title lang="pt">Find Me Guilty</sub-title>
+    <desc lang="pt">A história do mafioso Jackie Denorscio que defendeu a si próprio no tribunal.</desc>
+    <credits>
+      <director>Sidney Lumet</director>
+      <actor>Vin Diesel</actor>
+      <actor>Alex Rocco</actor>
+      <actor>Frank Pietrangolare</actor>
+      <actor>Richard DeDomenico</actor>
+      <actor>Jerry Grayson</actor>
+      <actor>Tony Ray Rossi</actor>
+      <actor>Vinny Vella</actor>
+      <actor>Paul Borghese</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211127040000 -0300" stop="20211127054000 -0300" channel="Paramount Channel">
+    <title lang="pt">A Experiência 2 - A Mutação</title>
+    <sub-title lang="pt">Species II</sub-title>
+    <desc lang="pt">O filho de um senador americano (Justin Lazard) é o primeiro homem que pisa em Marte, logo se tornando um herói. Porém, ele foi infectado por um DNA alienígena que o transforma em um ser preocupado apenas em ter relações com mulheres da Terra, que possam lhe dar filhos. Em cada relação ele gera um novo ser, enquanto que a mulher morre.</desc>
+    <credits>
+      <director>Peter Medak</director>
+      <actor>Michael Madsen</actor>
+      <actor>Natasha Henstridge</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>Mykelti Williamson</actor>
+      <actor>George Dzundza</actor>
+      <actor>James Cromwell</actor>
+      <actor>Justin Lazard</actor>
+      <actor>Nancy La Scala</actor>
+      <actor>Robert Hogan</actor>
+    </credits>
+    <date>1998</date>
+    <category lang="pt">Filme (Ficção)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211127054000 -0300" stop="20211127060000 -0300" channel="Paramount Channel">
+    <title lang="pt">Bloco Musical</title>
+    <sub-title lang="pt">Music Block</sub-title>
+    <desc lang="pt">Vídeoclipes para animar seu dia com o melhor da música internacional e nacional.</desc>
+    <credits>
+      <director>Anna Butler</director>
+    </credits>
+    <category lang="pt">Variedades (Musical)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211127060000 -0300" stop="20211127080000 -0300" channel="Paramount Channel">
+    <title lang="pt">Os Meninos Voadores</title>
+    <sub-title lang="pt">Sky Kids (Aka: The Flyboys)</sub-title>
+    <desc lang="pt">Dois adolescentes curiosos embarcam clandestinamente em um avião, que será usado como parte de um plano perigoso arquitetado por mafiosos.</desc>
+    <credits>
+      <director>Rocco Devilliers</director>
+      <actor>Jesse James</actor>
+      <actor>Stephen Baldwin</actor>
+      <actor>Tom Sizemore</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Filme (Aventura)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211127080000 -0300" stop="20211127083000 -0300" channel="Paramount Channel">
+    <title lang="pt">Bloco Musical</title>
+    <sub-title lang="pt">Music Block</sub-title>
+    <desc lang="pt">Vídeoclipes para animar seu dia com o melhor da música internacional e nacional.</desc>
+    <credits>
+      <director>Anna Butler</director>
+    </credits>
+    <category lang="pt">Variedades (Musical)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211127083000 -0300" stop="20211127101500 -0300" channel="Paramount Channel">
+    <title lang="pt">A Origem dos Guardiões</title>
+    <sub-title lang="pt">Rise of the Guardians</sub-title>
+    <desc lang="pt">Jack Frost, Tooth Fairy, Bunnymund, Sandman e Norte se tornam super-heróis para salvar as crianças de Pitch, um espírito maligno que quer levar a inocência das crianças. Poderão vencer Pitch?</desc>
+    <credits>
+      <director>Peter Ramsey</director>
+      <actor>Vozes de Chris Pine</actor>
+      <actor>Jude Law</actor>
+      <actor>Alec Baldwin</actor>
+      <actor>Isla Fisher</actor>
+      <actor>Hugh Jackman</actor>
+      <actor>Dakota Goyo</actor>
+      <actor>Khamani Griffin</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Filme (Animação)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127101500 -0300" stop="20211127121000 -0300" channel="Paramount Channel">
+    <title lang="pt">Três Amigos!</title>
+    <sub-title lang="pt">Three amigos!</sub-title>
+    <desc lang="pt">Três astros do cinema mudo são confundidos com verdadeiros heróis e contratados pelo povo de uma vila mexicana para defendê-los de uma gangue de malfeitores.</desc>
+    <credits>
+      <director>John Landis</director>
+      <actor>Steve Martin</actor>
+      <actor>Chevy Chase</actor>
+      <actor>Martin Short</actor>
+      <actor>Patrice Martinez</actor>
+      <actor>Alfonso Arau</actor>
+    </credits>
+    <date>1986</date>
+    <category lang="pt">Filme (Comédia)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127121000 -0300" stop="20211127142000 -0300" channel="Paramount Channel">
+    <title lang="pt">Platoon</title>
+    <desc lang="pt">O jovem Chris Taylor deixa a faculdade e, por vontade própria, se alista ao exército para lutar a Guerra do Vietnã no fim dos anos 1960. Acreditando estar fazendo o certo por seu país, assim como seu pai e seu avô já haviam feito, lá ele se vê cercado de dúvidas ao presenciar os horrores da guerra.</desc>
+    <credits>
+      <director>Oliver Stone</director>
+      <actor>Charlie Sheen</actor>
+      <actor>Forest Whitaker</actor>
+      <actor>Johnny Depp</actor>
+      <actor>Tom Berenger</actor>
+      <actor>Willem Dafoe</actor>
+    </credits>
+    <date>1986</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211127142000 -0300" stop="20211127160500 -0300" channel="Paramount Channel">
+    <title lang="pt">A Lenda Do Mestre Chines</title>
+    <sub-title lang="pt">Sorcerer and the White Snake</sub-title>
+    <desc lang="pt">O jovem e pobre médico Xu Xian é beijado por uma mulher, e se apaixona por ela, sem saber que na verdade, ela é a serpente branca.</desc>
+    <credits>
+      <director>Tony Ching</director>
+      <actor>Ching</actor>
+      <actor>Tony Cheung</actor>
+      <actor>Tan Li</actor>
+      <actor>Jet Huang</actor>
+      <actor>Shengyi Lam</actor>
+      <actor>Raymond Choi</actor>
+      <actor>Charlene Chui</actor>
+      <actor>Bo-Chu Padilla</actor>
+      <actor>Erick Ramos</actor>
+      <actor>Karen Villaroel</actor>
+      <actor>Stefany León</actor>
+      <actor>Rubén</actor>
+    </credits>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211127160500 -0300" stop="20211127180000 -0300" channel="Paramount Channel">
+    <title lang="pt">Pompeia</title>
+    <sub-title lang="pt">Pompeii</sub-title>
+    <desc lang="pt">Dias antes da erupção do Monte Vesúvio, o escravo Milo luta pela sua própria sobrevivência em uma arena de gladiadores. Ele chama a atenção de Cassia, a bela filha de um rico comerciante, que é desejada por um corrupto senador romano. Em meio ao caos, Milo precisa salvar a si mesmo e a sua amada.</desc>
+    <credits>
+      <director>Paul W. S. Anderson</director>
+      <actor>Kiefer Sutherland</actor>
+      <actor>Emily Browning</actor>
+      <actor>Kit Harington</actor>
+      <actor>Carrie-Anne Moss</actor>
+      <actor>Adewale Akinnuoye-Agbaje</actor>
+      <actor>Jessica Lucas</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211127180000 -0300" stop="20211127200000 -0300" channel="Paramount Channel">
+    <title lang="pt">Beijos que Matam</title>
+    <sub-title lang="pt">Kiss the girls</sub-title>
+    <desc lang="pt">Detetive investiga o desaparecimento da sobrinha, ajudado por uma moça que conseguiu fugir do sequestrador.</desc>
+    <credits>
+      <director>Gary Fleder</director>
+      <actor>Morgan Freeman</actor>
+      <actor>Ashley Judd</actor>
+      <actor>Cary Elwes</actor>
+      <actor>Alex McArthur</actor>
+      <actor>Tony Goldwyn</actor>
+      <actor>Jay O. Sanders</actor>
+      <actor>Bill Nunn</actor>
+      <actor>Brian Cox</actor>
+      <actor>Richard T. Jones</actor>
+      <actor>Roma Maffia</actor>
+      <actor>Jeremy Piven</actor>
+      <actor>Gina Ravera</actor>
+      <actor>William Converse-Roberts</actor>
+      <actor>Helen Martin</actor>
+      <actor>Tatyana Ali</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="pt">Filme (Suspense)</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20211127200000 -0300" stop="20211127214500 -0300" channel="Paramount Channel">
+    <title lang="pt">Plano de Fuga</title>
+    <sub-title lang="pt">Get The Gringo</sub-title>
+    <desc lang="pt">Após uma tentativa de fuga com uma pilhagem milionária, um criminoso americano acaba em uma prisão mexicana de fronteira, onde conhece um presidiário que precisa de um transplante de órgãos e está de olho em um menino que mora no presídio.</desc>
+    <credits>
+      <director>Adrian Grunberg</director>
+      <actor>Mel Gibson</actor>
+      <actor>Kevin Balmore</actor>
+      <actor>Daniel Giménez Cacho</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211127214500 -0300" stop="20211127235500 -0300" channel="Paramount Channel">
+    <title lang="pt">Dupla Explosiva</title>
+    <sub-title lang="pt">The Hitman's Bodyguard</sub-title>
+    <desc lang="pt">Michael Bryce é um guarda-costas que não vive um bom momento. Inesperadamente, ele recebe a missão de escoltar Darius Kincaid, um dos assassinos mais procurados do mundo, que aceitou testemunhar contra um ditador europeu. Juntos, eles terão que se entender para chegar ao tribunal.</desc>
+    <credits>
+      <director>Patrick Hughes</director>
+      <actor>Gary Oldman</actor>
+      <actor>Salma Hayek</actor>
+      <actor>Samuel L. Jackson</actor>
+      <actor>Ryan Reynolds</actor>
+      <actor>Elodie Yung</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme (Ação)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126000000 -0300" stop="20211126010000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126010000 -0300" stop="20211126020000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126020000 -0300" stop="20211126030000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126030000 -0300" stop="20211126040000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126040000 -0300" stop="20211126050000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126050000 -0300" stop="20211126060000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126060000 -0300" stop="20211126070000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126070000 -0300" stop="20211126080000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126080000 -0300" stop="20211126090000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126090000 -0300" stop="20211126100000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126100000 -0300" stop="20211126110000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126110000 -0300" stop="20211126120000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126120000 -0300" stop="20211126130000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126130000 -0300" stop="20211126140000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126140000 -0300" stop="20211126150000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126150000 -0300" stop="20211126160000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126160000 -0300" stop="20211126170000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126170000 -0300" stop="20211126180000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126180000 -0300" stop="20211126190000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126190000 -0300" stop="20211126200000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126200000 -0300" stop="20211126210000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126210000 -0300" stop="20211126220000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126220000 -0300" stop="20211126230000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126230000 -0300" stop="20211127000000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127000000 -0300" stop="20211127010000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127010000 -0300" stop="20211127020000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127020000 -0300" stop="20211127030000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127030000 -0300" stop="20211127040000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127040000 -0300" stop="20211127050000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127050000 -0300" stop="20211127060000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127060000 -0300" stop="20211127070000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127070000 -0300" stop="20211127080000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127080000 -0300" stop="20211127090000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127090000 -0300" stop="20211127100000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127100000 -0300" stop="20211127110000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127110000 -0300" stop="20211127120000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127120000 -0300" stop="20211127130000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127130000 -0300" stop="20211127140000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127140000 -0300" stop="20211127150000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127150000 -0300" stop="20211127160000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127160000 -0300" stop="20211127170000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127170000 -0300" stop="20211127180000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127180000 -0300" stop="20211127190000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127190000 -0300" stop="20211127200000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127200000 -0300" stop="20211127210000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127210000 -0300" stop="20211127220000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127220000 -0300" stop="20211127230000 -0300" channel="Premiere 8 HD">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126000000 -0300" stop="20211126010000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Festival Passaporte Prime: Tribos e Impérios</title>
+    <desc lang="pt">He Ge continua determinado a ver seu pai antes de se estabelecer. Yue Li convoca Yu'er para cobrar um favor.</desc>
+    <credits>
+      <director>Dun Cao</director>
+      <actor>Huang Xuan</actor>
+      <actor>Shawn Dou</actor>
+      <actor>Zhou Yiwei</actor>
+      <actor>Xu Lu</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Drama)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126010000 -0300" stop="20211126015400 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Cidades de Cinema</title>
+    <desc lang="pt">Nesse episódio conhecemos a cidade de São Paulo através dos olhos de Fernando Alves Pinto.</desc>
+    <credits>
+      <director>Fabiano Maciel</director>
+      <actor>Werner Shumann</actor>
+      <actor>Paulo Leminski</actor>
+      <actor>Celina Alveti</actor>
+      <actor>Sylvio Back</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126015400 -0300" stop="20211126020000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Entre Reticências</title>
+    <desc lang="pt">Mulher vivendo um relacionamento decadente, perde a esperança de dias melhores após uma terrível descoberta.</desc>
+    <credits>
+      <director>Rafael Lo Ouang</director>
+      <actor>Sheila Ley</actor>
+      <actor>André Nepomuceno</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Filme (Suspense)</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126020000 -0300" stop="20211126025200 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Sempre Poa</title>
+    <desc lang="pt">"Laura caminha pelo centro da cidade e chega no Mercado Central. Lá, assiste a taxista Manu discutir e jogar um balde de peixes podres em um vereador. Manu foge. Laura segue passeando pelo centro. No final da noite, Laura encontra Bo em um bar e ambas tem uma conversa pra lavar roupa suja. Laura termina bêbada na porta da casa dos seus pais, sem tercoragem para entrar.".</desc>
+    <credits>
+      <director>Paola Troian</director>
+      <actor>Fernanda Moro</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126025200 -0300" stop="20211126030000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Halley &amp; Marilyn Duram Apenas o Tempo Dessa História</title>
+    <desc lang="pt">Em 1986, durante a passagem do Cometa Halley, dois rapazes se encontram e observam o céu.</desc>
+    <credits>
+      <director>Milton Oliveira</director>
+      <actor>Guilherme Yerthaal</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme (Drama)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126030000 -0300" stop="20211126041800 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Sessão Prime Box: Entre Paredes</title>
+    <sub-title lang="pt">Entre Paredes</sub-title>
+    <desc lang="pt">Liana está aprisionada em seu relacionamento com o abusivo Antonio; Vera e Roberto vivem em clima de tensão por terem tempos diferentes.</desc>
+    <credits>
+      <director>Fabricio Mafezoli</director>
+      <actor>Mariana Sapienza</actor>
+      <actor>Diego Sgrillo</actor>
+      <actor>Val Oliveira</actor>
+      <actor>Felipe Scalzaretto</actor>
+      <actor>Gustavo Queiroz</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126041800 -0300" stop="20211126043600 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: O Curinga</title>
+    <sub-title lang="pt">O Curinga</sub-title>
+    <desc lang="pt">Um homem dentro de um apartamento, aparentemente sozinho, começa a sacar cartas de um baralho. A cada carta, uma teoria diferente, as 10 pragas do Egito e os problemas do mundo estão entre seus principais pontos de reflexão. Porém as cartas estão acabando e o seu tempo também.</desc>
+    <credits>
+      <director>Daniel Christofoli</director>
+      <director>Eduardo Christofoli</director>
+      <actor>Rafael Tombini</actor>
+      <actor>Nilson Asp</actor>
+      <actor>Ariane Donato</actor>
+      <actor>Leonel Radde</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Filme (Suspense)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126043600 -0300" stop="20211126045100 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Imortais da Academia Maranhense de Letras</title>
+    <desc lang="pt">Nascido na Paraíba, Joé Chagas é considerado um dos maiores poetas maranhenses do século XX.</desc>
+    <credits>
+      <director>Joaquim Haickel</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126045100 -0300" stop="20211126050000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Festival Passaporte Prime: Making Of - Tribos e Impérios</title>
+    <desc lang="pt">Conheça os bastidores da superprodução chinesa Tribos e Impérios. Making Ofs e entrevistas com elenco, diretor e equipe técnica revelam detalhes surpreendentes para você!</desc>
+    <credits>
+      <director>Dun Cao</director>
+      <actor>Huang Xuan</actor>
+      <actor>Shawn Dou</actor>
+      <actor>Zhou Yiwei</actor>
+      <actor>Xu Lu</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme (Documentário)</category>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126050000 -0300" stop="20211126053000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Verona</title>
+    <desc lang="pt">Juliana conta para Rodrigo sobre a ameaça de Téo e Rodrigo vai em busca de vingança. Uma briga trágica entre os dois emerge e os segredos e dramas das famílias são revelados, forçando todos a enfrentarem seus dilemas.</desc>
+    <credits>
+      <director>Ane Siderman</director>
+      <actor>Marcela Fetter</actor>
+      <actor>Lucas Zaffari</actor>
+      <actor>Artur José Pinto</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126053000 -0300" stop="20211126060000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Via Pública</title>
+    <desc lang="pt">Após passar por um evento traumático com sua bicicleta, Antônio passa a se sentir ameaçado pela cidade em que vive.</desc>
+    <credits>
+      <director>Gabriel Motta</director>
+      <actor>Bruno Fernandes</actor>
+      <actor>Cinândrea Guterres</actor>
+      <actor>Fernando Kike Barbosa</actor>
+      <actor>Marcio Reolon</actor>
+      <actor>Suzane Cardoso</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126060000 -0300" stop="20211126062100 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Avoada</title>
+    <desc lang="pt">Mães que perderam seus filhos de forma violenta contam suas histórias, enquanto acompanhamos dois garotos que invadem uma casa para recuperarem uma uma pipa avoada.</desc>
+    <credits>
+      <director>Magno Pinheiro</director>
+      <actor>Jonathan Arruda</actor>
+      <actor>Kauan Brasil</actor>
+      <actor>Duda Gomes</actor>
+      <actor>Nega Gizza</actor>
+      <actor>Victor Santana</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme (Documentário)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126062100 -0300" stop="20211126063800 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Bicho do Mato</title>
+    <desc lang="pt">Jussara e sua família perdem tudo o que tinham quando suas terras são atingidas por chuvas intensas e violentas. Sem ter onde viver, eles deixam o campo para morar na cidade grande.</desc>
+    <credits>
+      <director>Juliana Sanson</director>
+      <actor>Julia Sanson</actor>
+      <actor>Richard Rebelo</actor>
+      <actor>Marcelina Fialho</actor>
+      <actor>Andressa Medeiros</actor>
+      <actor>Cássia Damasceno</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126063800 -0300" stop="20211126064500 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Maria</title>
+    <desc lang="pt">Duas amigas conversam pela internet sobre filmes de terror, até que Júlia desafia Carol a uma brincadeira que levará elas ao um caminho sem volta.</desc>
+    <credits>
+      <director>Vini Oliveira</director>
+      <actor>Talyta da Rosa</actor>
+      <actor>Claianne Siqueira</actor>
+      <actor>Monise Celestino</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme (Suspense)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126064500 -0300" stop="20211126081000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Sessão Prime Box: Latitudes</title>
+    <sub-title lang="pt">Latitudes</sub-title>
+    <desc lang="pt">Olívia é uma editora de moda que viaja pelo mundo à procura de tendências. Vive seguindo desfiles de moda e se hospedando em hotéis de luxo. É nesses caminhos que ela sempre se encontra com José, fotógrafo prestigiado que também circula pelo mundo fotografando editoriais. Eles vivem uma história de amor de altos e baixos entre vários lugares do mundo.</desc>
+    <credits>
+      <director>Felipe Braga</director>
+      <actor>Michel Noher</actor>
+      <actor>Daniel De Oliveira</actor>
+      <actor>Alice Braga</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Filme (Romance)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126081000 -0300" stop="20211126081200 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Quarantine Tales</title>
+    <desc lang="pt">Os dias são iguais, os padrões são os mesmos, nas notícias só o que mudam são os números. Mas talvez não seja preciso sair de casa para tomar um pouco de ar puro.</desc>
+    <credits>
+      <director>Arthur Alves</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126081200 -0300" stop="20211126083000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Luna 13</title>
+    <sub-title lang="pt">Luna 13</sub-title>
+    <desc lang="pt">Poucos dias após a morte de seu avô, o jovem Igor decide fazer um documentário sobre a história de sua família na tentativa de entender porque o seu avô, "seu" Guilhermino, era obcecado por fatos estranhos que haviam acontecido em sua cidade.</desc>
+    <credits>
+      <director>Filipe Nunes de Barros</director>
+      <actor>Rodrigo Waschburger</actor>
+      <actor>Marcelo Naz</actor>
+      <actor>Beto Ruas</actor>
+      <actor>Almeri de Souza</actor>
+      <actor>José Patricio</actor>
+      <actor>Romero Julio</actor>
+      <actor>Marcus Vinícius Moraes</actor>
+      <actor>Robson Duarte</actor>
+      <actor>Vardan Movsisyan</actor>
+      <actor>Fernando Barros</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Filme (Ficção)</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126083000 -0300" stop="20211126092100 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Making Of</title>
+    <desc lang="pt">Temporada ou meio de minissérie nova, diretor novo. E bemmm novo. Para inovar, ser moderno, e ter mais e mais compartilhados nas redes sociais, que tal chamar um Youtuber de respeito.</desc>
+    <credits>
+      <director>Carla Albuquerque</director>
+      <actor>Ceçary Goldschmidt</actor>
+      <actor>Felipe Hofstatter</actor>
+      <actor>Raphael Gama</actor>
+      <actor>Aline Neves</actor>
+      <actor>Adriana Duque</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Comédia)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126092100 -0300" stop="20211126093000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: A Rua Das Casas Surdas</title>
+    <desc lang="pt">Em uma vizinhança silenciosa, durante a ditadura dos anos 70, Carlos e Ernesto acompanham um jogo de futebol pelo rádio, até que resolvem aproveitar o intervalo do primeiro tempo para voltar ao trabalho.</desc>
+    <credits>
+      <director>Flávio Costa</director>
+      <director>Gabriel Mayer</director>
+      <actor>João França</actor>
+      <actor>Evandro Soldatelli</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Filme (Drama)</category>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126093000 -0300" stop="20211126100000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Amélio, O Homem de Verdade</title>
+    <desc lang="pt">Amélio decide voltar para casa, e expulsar Fabi e a sogra Norberta, já que a casa é dele, e eles não são casados com comunhão de bens.</desc>
+    <credits>
+      <director>Luis Antonio Pereira</director>
+      <actor>Thierry Figueira</actor>
+      <actor>Natallia Rodrigues</actor>
+      <actor>Natália Curvelo</actor>
+      <actor>Daniel Erthal</actor>
+      <actor>Isadora Bertacco</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126100000 -0300" stop="20211126103000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Banalidade do Mal</title>
+    <desc lang="pt">O corpo de um segurança é encontrado, Renata e Postiga percebem que é a mesma empresa dos policiais que estavam na casa do PM em que a arma encontrada com o segurança tem aquela mesma raspagem.</desc>
+    <credits>
+      <director>Fábio Canale</director>
+      <actor>Jiddu Pinheiro</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Policial)</category>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126103000 -0300" stop="20211126110000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Em Busca de Kardec</title>
+    <desc lang="pt">Karim vai a Yverdon na Suíça, onde Kardec, que se chamava de fato Rivail, estudou com o grande educador Pestalozzi, no início do século XIX.</desc>
+    <credits>
+      <director>Karim Akadiri Soumaila</director>
+      <actor>Guillaume Cuchet</actor>
+      <actor>Florence Claval</actor>
+      <actor>Marion Aubrée</actor>
+      <actor>François Laplantine</actor>
+      <actor>Charles Kempf</actor>
+      <actor>François Gaudin</actor>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126110000 -0300" stop="20211126113000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Mulheres Mix</title>
+    <desc lang="pt">Carla e Cláudia convidam mulheres com idades, profissões e experiências diferentes para debater temas atuais e de interesse das mulheres.</desc>
+    <credits>
+      <director>Carla Camurati</director>
+      <actor>Carla Camurati</actor>
+      <actor>Cláudia Dutra</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Diversos)</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126113000 -0300" stop="20211126120000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Imagem Vinil</title>
+    <desc lang="pt">Antonieta é caixa de supermercado e moradora de uma vila em São Cristóvão, mas o que a define é o gosto por samba de gafieira. Ela é realmente viciada e toda vez que tem uma oportunidade vai ao clube para dançar.</desc>
+    <credits>
+      <director>Frederico Cardoso</director>
+      <actor>Roberto Rodrigues</actor>
+      <actor>Julia Cartier Bresson</actor>
+      <actor>Frederico Cardoso</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126120000 -0300" stop="20211126125700 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Submersos</title>
+    <desc lang="pt">Gordo descobre sobre a morte de seu primo Léo. Costa é solto por falta de provas, desdenhando de Villar e Fara. Gabi reencontra Nando. Frederico mostra para Luiz as contas de Nando.</desc>
+    <credits>
+      <director>Marcia Paraiso</director>
+      <director>Claudio Rosa</director>
+      <actor>Claudio Rosa</actor>
+      <actor>Glauco Broering</actor>
+      <actor>Pablo Brusa</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211126125700 -0300" stop="20211126130000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Quarantine Tales</title>
+    <desc lang="pt">A música é uma coisa que vem naturalmente para mim no meu dia a dia.</desc>
+    <credits>
+      <director>Arthur Alves</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126130000 -0300" stop="20211126142400 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Sessão Prime Box: O Colar de Coralina</title>
+    <desc lang="pt">A menina Aninha, futura poeta e doceira, é uma criança considerada feia, frágil, desajeitada e oprimida por praticamente todos que a cercam.</desc>
+    <credits>
+      <director>Reginaldo Gontijo</director>
+      <actor>Leticia Sabatella</actor>
+      <actor>Rebeca Vasconcellos</actor>
+      <actor>Maria Coeli</actor>
+      <actor>Nadja Dulci</actor>
+      <actor>Val Moreno</actor>
+      <actor>Melina Calazans</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme (Drama)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126142400 -0300" stop="20211126145700 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Copan - Cidade Vertical</title>
+    <desc lang="pt">O documentário apresenta a história e curiosidades da maior estrutura de concreto armado do país, o edifício Copan, localizado na Av. Ipiranga, coração de São Paulo.</desc>
+    <credits>
+      <director>Leandro Lemes Barbosa</director>
+      <actor>Gabriela Ortega</actor>
+      <actor>Pollyanna Matos</actor>
+      <actor>Alfredo Nora</actor>
+      <actor>Edyr Sabino</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Filme (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126145700 -0300" stop="20211126150000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Quarantine Tales</title>
+    <desc lang="pt">O filme fala sobre a paixão e o autoconhecimento do fotógrafo, que através de uma antiga ponte de sua cidade, surgiu o projeto que tem tomado os últimos anos do Marcelo.</desc>
+    <credits>
+      <director>Arthur Alves</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126150000 -0300" stop="20211126184500 -0300" channel="Prime Box Brazil">
+    <title lang="pt">1001 Noites</title>
+    <desc lang="pt">Programa de venda de jóias.</desc>
+    <date>2019</date>
+    <category lang="pt">Variedades (Televendas)</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126184500 -0300" stop="20211126190000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Por Trás das Câmeras</title>
+    <desc lang="pt">Baseado no livro de Guilherme Fiuza Jr, conta a história de João Guilherme Estrella, o Johny , um jovem de classe média, da Zona Sul, com boa família, que se envolve com drogas até ser preso por tráfico internacional.</desc>
+    <credits>
+      <director>Cadu Rodrigues</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126190000 -0300" stop="20211126193000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Retratos do Cárcere</title>
+    <desc lang="pt">As deficiências do sistema penitenciário brasileiro e seus reflexos na criminalidade organizada e na própria sociedade são temas da série documental RETRATOS DO CÁRCERE.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126193000 -0300" stop="20211126200000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Sankofa, A África Que Te Habita</title>
+    <desc lang="pt">No primeiro encontro dos viajantes Cesar e Maurício com a África muçulmana, eles se deparam com a diversidade cultural do Senegal expressa no contraste da agitada capital Dakar com a serenidade da Ilha de Gorée, que mantem viva suas memórias da escravidão.</desc>
+    <credits>
+      <director>Monteiro De Miranda Adriana Maria</director>
+      <director>Pereira Braga Rozane Martins</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211126200000 -0300" stop="20211126203000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">O Cinema e as Cidades</title>
+    <desc lang="pt">Personagens dramáticos revelam um cinema voltado a diferentes questões sociais, como Três Minutos, da diretora Ana Luiza Azevedo.</desc>
+    <credits>
+      <director>Eduardo Wannmacher</director>
+      <actor>Frederico Pinto</actor>
+      <actor>Kiko Ferraz</actor>
+      <actor>Liliana Sulzbach</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126203000 -0300" stop="20211126210000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">G.i.b.i.s.</title>
+    <desc lang="pt">Após uma tarde de reflexão dos Irmãos Peter, uma pergunta vem à tona: Como o brasileiro é representado nos quadrinhos made in USA?</desc>
+    <credits>
+      <director>Filipe Barros</director>
+      <actor>Cris Peter</actor>
+      <actor>Gustavo Peter</actor>
+      <actor>Oberdan Goulart</actor>
+      <actor>Tarsis Salvador</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126210000 -0300" stop="20211126220000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Festival Passaporte Prime: Tribos e Impérios</title>
+    <desc lang="pt">Enquanto He Ge aguarda os oficiais chegarem no seu banquete, um convidado inesperado aparece. Tie Duo não consegue lidar com a falta de afeição que He Ye tem por ela.</desc>
+    <credits>
+      <director>Dun Cao</director>
+      <actor>Huang Xuan</actor>
+      <actor>Shawn Dou</actor>
+      <actor>Zhou Yiwei</actor>
+      <actor>Xu Lu</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126220000 -0300" stop="20211126232000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Prime.doc: Caxias do Sul - Tradição e Inovação de um Povo</title>
+    <sub-title lang="pt">Caxias do Sul - Tradição e Inovação de um Povo</sub-title>
+    <desc lang="pt">O documentário conta como surgiu, como se desenvolveu, os fatos mais importantes, as figuras proeminentes, as influências sociais, econômicas, políticas e culturais que formaram a Caxias de hoje.</desc>
+    <credits>
+      <director>Airton Soares</director>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Filme (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211126232000 -0300" stop="20211126233800 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: O Jantar</title>
+    <desc lang="pt">É noite de reunião em uma seita. E paira no ar um clima tenso. O jantar, que é de rotina e parte de um protocolo pode não ser uma boa ideia.</desc>
+    <credits>
+      <director>Rafael Grendene</director>
+      <actor>Giovanni Nervo</actor>
+      <actor>Isabela Lafin</actor>
+      <actor>Bruno Rapone</actor>
+      <actor>Rafael Grendene e Marina Gabert</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme (Suspense)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211126233800 -0300" stop="20211126234500 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Memento Mori</title>
+    <desc lang="pt">Pesquisadora de antigas obras de arte prepara uma apresentação sobre o conjunto de pinturas "Vaidade Terrena e Salvação Divina", de Hans Memling, quando descobre que a impressão do quadro "Morte" foi esquecida pela gráfica.</desc>
+    <credits>
+      <director>Celso Meireles</director>
+      <actor>Priscila Tessuto</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Filme (Terror)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211126234500 -0300" stop="20211127000000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Histórias Maranhenses</title>
+    <desc lang="pt">Em toda cidade existem pessoas que são referências, que são admiradas por todos indistintamente.</desc>
+    <credits>
+      <director>Joaquim Haickel</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127000000 -0300" stop="20211127010000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Festival Passaporte Prime: Tribos e Impérios</title>
+    <desc lang="pt">Enquanto He Ge aguarda os oficiais chegarem no seu banquete, um convidado inesperado aparece. Tie Duo não consegue lidar com a falta de afeição que He Ye tem por ela.</desc>
+    <credits>
+      <director>Dun Cao</director>
+      <actor>Huang Xuan</actor>
+      <actor>Shawn Dou</actor>
+      <actor>Zhou Yiwei</actor>
+      <actor>Xu Lu</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211127010000 -0300" stop="20211127013000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Via Pública</title>
+    <desc lang="pt">Após passar por um evento traumático com sua bicicleta, Antônio passa a se sentir ameaçado pela cidade em que vive.</desc>
+    <credits>
+      <director>Gabriel Motta</director>
+      <actor>Bruno Fernandes</actor>
+      <actor>Cinândrea Guterres</actor>
+      <actor>Fernando Kike Barbosa</actor>
+      <actor>Marcio Reolon</actor>
+      <actor>Suzane Cardoso</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Drama)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211127013000 -0300" stop="20211127020000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">HQuem - A Arte de Desenhar Histórias</title>
+    <desc lang="pt">O artista plástico Fabio Zimbres não vê fronteiras que o impeçam de experimentar, transitando entre as HQs e a pintura expressionista em suas múltiplas criações.</desc>
+    <credits>
+      <director>Adriana Miranda</director>
+      <director>Rozane Braga</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127020000 -0300" stop="20211127023000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Em Busca de Kardec</title>
+    <desc lang="pt">Karim vai a Yverdon na Suíça, onde Kardec, que se chamava de fato Rivail, estudou com o grande educador Pestalozzi, no início do século XIX.</desc>
+    <credits>
+      <director>Karim Akadiri Soumaila</director>
+      <actor>Guillaume Cuchet</actor>
+      <actor>Florence Claval</actor>
+      <actor>Marion Aubrée</actor>
+      <actor>François Laplantine</actor>
+      <actor>Charles Kempf</actor>
+      <actor>François Gaudin</actor>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211127023000 -0300" stop="20211127030000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Amélio, O Homem de Verdade</title>
+    <desc lang="pt">Amélio decide voltar para casa, e expulsar Fabi e a sogra Norberta, já que a casa é dele, e eles não são casados com comunhão de bens.</desc>
+    <credits>
+      <director>Luis Antonio Pereira</director>
+      <actor>Thierry Figueira</actor>
+      <actor>Natallia Rodrigues</actor>
+      <actor>Natália Curvelo</actor>
+      <actor>Daniel Erthal</actor>
+      <actor>Isadora Bertacco</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211127030000 -0300" stop="20211127043000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Sessão Prime Box: Finding Josef</title>
+    <desc lang="pt">O polonês Ian Kowalski vem ao Brasil procurar Josef, o irmão perdido. Sem falar português e sem dinheiro vira andarilho pelo nordeste.</desc>
+    <credits>
+      <director>Moises Menezes</director>
+      <actor>Rafael Grotowski</actor>
+      <actor>Francini Locker</actor>
+      <actor>Ewa Wencel</actor>
+      <actor>Hana Konarowska</actor>
+      <actor>Daniela Escobar</actor>
+      <actor>Ailton Graça</actor>
+      <actor>KayKy Britto</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Filme (Drama)</category>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211127043000 -0300" stop="20211127044500 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Eternidade</title>
+    <desc lang="pt">Um casal separado pela morte é capaz de qualquer coisa para se reencontrar. Até mesmo invocar a Deusa da Eternidade. Baseado no cinema expressionista alemão.</desc>
+    <credits>
+      <director>Flávio Carnielli</director>
+      <actor>Filastor Brega</actor>
+      <actor>Amanda Costa</actor>
+      <actor>Deia Sesso</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Filme (Suspense)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211127044500 -0300" stop="20211127050000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Imortais da Academia Maranhense de Letras</title>
+    <desc lang="pt">Nascido na Paraíba, Joé Chagas é considerado um dos maiores poetas maranhenses do século XX.</desc>
+    <credits>
+      <director>Joaquim Haickel</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127050000 -0300" stop="20211127053000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Crítica</title>
+    <desc lang="pt">A série documental "CRÍTICA" com 8 episódios, aborda a vida e o trabalho de 21 profissionais que atuam na crítica cinematográfica brasileira e também no audiovisual em outras vertentes como TV e séries.</desc>
+    <credits>
+      <director>Luiz Alberto Cassol</director>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127053000 -0300" stop="20211127060000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Banalidade do Mal</title>
+    <desc lang="pt">O corpo de um segurança é encontrado, Renata e Postiga percebem que é a mesma empresa dos policiais que estavam na casa do PM em que a arma encontrada com o segurança tem aquela mesma raspagem.</desc>
+    <credits>
+      <director>Fábio Canale</director>
+      <actor>Jiddu Pinheiro</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Policial)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211127060000 -0300" stop="20211127061500 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Histórias Maranhenses</title>
+    <desc lang="pt">Em toda cidade existem pessoas que são referências, que são admiradas por todos indistintamente.</desc>
+    <credits>
+      <director>Joaquim Haickel</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127061500 -0300" stop="20211127064500 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Entre Parentes</title>
+    <desc lang="pt">Um ano após impeachment presidencial, Brasília recebe a maior mobilização indígena durante a 14ª edição do Acampamento Terra Livre, no final de abril.</desc>
+    <credits>
+      <director>Tiago de Aragão</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme (Documentário)</category>
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127064500 -0300" stop="20211127080900 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Prime.doc: Porto Alegre - Meu Canto no Mundo</title>
+    <sub-title lang="pt">Porto Alegre - Meu Canto no Mundo</sub-title>
+    <desc lang="pt">Ficção e documentário se misturam em uma emocionante história contada por Luis Fernando Veríssimo, Luiz Antônio de Assis Brasil, Eva Sopher, Jaime Sirotsky, Moacyr Scliar e Giba Giba. Nasce uma Porto Alegre inédita, jamais vista através de imagens aéreas, filmes, fotos e ficção.</desc>
+    <credits>
+      <director>Jaime Lerner</director>
+      <director>Cícero Aragon</director>
+      <actor>Jorge Alves</actor>
+      <actor>João Fernando</actor>
+      <actor>Luiz Emilio Speck</actor>
+      <actor>Juremir Neto</actor>
+      <actor>Denis Lascano</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Filme (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127080900 -0300" stop="20211127081300 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Sankofa - Contos Africanos</title>
+    <desc lang="pt">Um macaquinho conseguiu chegar na Lua e descobriu lá a maravilha do som das batidas do tambor, que chegou às mãos dos homens por causa de um infortúnio.</desc>
+    <credits>
+      <director>Rozane Braga</director>
+      <actor>Zezé Motta</actor>
+    </credits>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127081300 -0300" stop="20211127083000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Por Conta da Casa</title>
+    <desc lang="pt">Para ir para a faculdade e voltar para casa, uma jovem precisa pegar o trem e o ônibus. Aquilo que primeiro parecia ser a pior parte de seu dia, torna-se uma atividade interessante, quando a menina mostra um grande talento para fazer amizades.</desc>
+    <credits>
+      <director>Flávio Costa</director>
+      <actor>Carla Elgert</actor>
+      <actor>Evandro Soldatelli</actor>
+      <actor>João França</actor>
+      <actor>Luís Frank e Marcello Crawshaw</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme (Suspense)</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211127083000 -0300" stop="20211127092700 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Submersos</title>
+    <desc lang="pt">Gordo descobre sobre a morte de seu primo Léo. Costa é solto por falta de provas, desdenhando de Villar e Fara. Gabi reencontra Nando. Frederico mostra para Luiz as contas de Nando.</desc>
+    <credits>
+      <director>Marcia Paraiso</director>
+      <director>Claudio Rosa</director>
+      <actor>Claudio Rosa</actor>
+      <actor>Glauco Broering</actor>
+      <actor>Pablo Brusa</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211127092700 -0300" stop="20211127093000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Quarantine Tales</title>
+    <desc lang="pt">Nós estávamos lado a lado, mas não estávamos próximos. Vivendo aglomerados, porém esquecendo a coletividade, foi preciso que a gente se afastasse, para que ficássemos mais próximos do que nunca. A quarentena tem nos feito olhar para dentro, a falta, fez com que convivêssemos mais intensamente com as pessoas que gostamos, mas de um modo diferente.</desc>
+    <credits>
+      <director>Arthur Alves</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127093000 -0300" stop="20211127100000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Retratos do Cárcere</title>
+    <desc lang="pt">As deficiências do sistema penitenciário brasileiro e seus reflexos na criminalidade organizada e na própria sociedade são temas da série documental RETRATOS DO CÁRCERE.</desc>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211127100000 -0300" stop="20211127103000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Imagem Vinil</title>
+    <desc lang="pt">Antonieta é caixa de supermercado e moradora de uma vila em São Cristóvão, mas o que a define é o gosto por samba de gafieira. Ela é realmente viciada e toda vez que tem uma oportunidade vai ao clube para dançar.</desc>
+    <credits>
+      <director>Frederico Cardoso</director>
+      <actor>Roberto Rodrigues</actor>
+      <actor>Julia Cartier Bresson</actor>
+      <actor>Frederico Cardoso</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211127103000 -0300" stop="20211127110000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">O Cinema e as Cidades</title>
+    <desc lang="pt">Personagens dramáticos revelam um cinema voltado a diferentes questões sociais, como Três Minutos, da diretora Ana Luiza Azevedo.</desc>
+    <credits>
+      <director>Eduardo Wannmacher</director>
+      <actor>Frederico Pinto</actor>
+      <actor>Kiko Ferraz</actor>
+      <actor>Liliana Sulzbach</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211127110000 -0300" stop="20211127111500 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Por Trás das Câmeras</title>
+    <desc lang="pt">Baseado no livro de Guilherme Fiuza Jr, conta a história de João Guilherme Estrella, o Johny , um jovem de classe média, da Zona Sul, com boa família, que se envolve com drogas até ser preso por tráfico internacional.</desc>
+    <credits>
+      <director>Cadu Rodrigues</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211127111500 -0300" stop="20211127113000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Imortais da Academia Maranhense de Letras</title>
+    <desc lang="pt">A série Imortais da Academia Maranhense de Letras apresenta a história dos doze escritores que fundaram aquela que é a mais importante instituição cultural do Maranhão.</desc>
+    <credits>
+      <director>Joaquim Haickel</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127113000 -0300" stop="20211127120000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Mulheres Mix</title>
+    <desc lang="pt">Carla e Cláudia convidam mulheres com idades, profissões e experiências diferentes para debater temas atuais e de interesse das mulheres.</desc>
+    <credits>
+      <director>Carla Camurati</director>
+      <actor>Carla Camurati</actor>
+      <actor>Cláudia Dutra</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Diversos)</category>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127120000 -0300" stop="20211127130000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Submersos</title>
+    <desc lang="pt">"Branco investiga Nando e descobre sua relação com Lobo, comparsa de Mendes no tráfico, associando Nando ao negócio. Flávia também investiga Mendes e discute com Nando sobre sua ida para a Argentina.".</desc>
+    <credits>
+      <director>Marcia Paraiso</director>
+      <director>Claudio Rosa</director>
+      <actor>Claudio Rosa</actor>
+      <actor>Glauco Broering</actor>
+      <actor>Pablo Brusa</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211127130000 -0300" stop="20211127140000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Submersos</title>
+    <desc lang="pt">Gabi entra em um badalado reality show como forma de esconderijo e proteção. Andrea Guerra, produtora do reality, é ameaçada para que mantenha Gabi no programa.</desc>
+    <credits>
+      <director>Marcia Paraiso</director>
+      <director>Claudio Rosa</director>
+      <actor>Claudio Rosa</actor>
+      <actor>Glauco Broering</actor>
+      <actor>Pablo Brusa</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211127140000 -0300" stop="20211127150000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Submersos</title>
+    <desc lang="pt">Leo visita o primo Gordo. Branco parte pra Argentina com a missão de encontrar Nando. Belli mostra Gabi no reality aos policiais que a interrogam na boate. Comissario Villar conversa com Guerra.</desc>
+    <credits>
+      <director>Marcia Paraiso</director>
+      <director>Claudio Rosa</director>
+      <actor>Claudio Rosa</actor>
+      <actor>Glauco Broering</actor>
+      <actor>Pablo Brusa</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Drama)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211127150000 -0300" stop="20211127184500 -0300" channel="Prime Box Brazil">
+    <title lang="pt">1001 Noites</title>
+    <desc lang="pt">Programa de venda de jóias.</desc>
+    <date>2019</date>
+    <category lang="pt">Variedades (Televendas)</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127184500 -0300" stop="20211127190000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Histórias Maranhenses</title>
+    <desc lang="pt">São Luís, Encantos e Magias, apresenta a capital do Maranhão de forma simples e verdadeira, permitindo sabermos como ela realmente é, e fazendo se ter vontade de visitar essa cidade tão hospitaleira, bela e rica em tradições e cultura.</desc>
+    <credits>
+      <director>Joaquim Haickel</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127190000 -0300" stop="20211127203300 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Sessão Prime Box: Entrevistas do Sair à Luz</title>
+    <desc lang="pt">O documentário é um projeto que apresenta a profissão de ilustrador de uma forma ampla, geral e cristalina.</desc>
+    <credits>
+      <director>Guillermo Planel</director>
+      <actor>Renato Alarcão</actor>
+      <actor>Renato Aroeira</actor>
+      <actor>Luciano Feijão</actor>
+      <actor>Graça Lima</actor>
+      <actor>Luis Trimano</actor>
+      <actor>Rubem Grillo</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Filme (Documentário)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211127203300 -0300" stop="20211127204900 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Quarto de Letus</title>
+    <desc lang="pt">Letus, na intenção de levar seu pai idoso, Don, para morar consigo, vai até sua casa e os dois passam a tarde em meio a recordações.</desc>
+    <credits>
+      <director>Marco Bierfield</director>
+      <actor>Clemente Vascaino</actor>
+      <actor>Marcello Crawshaw</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Filme (Drama)</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211127204900 -0300" stop="20211127212500 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: O Depoimento de Ivo Zimmerman</title>
+    <desc lang="pt">Curtas-metragens dramáticos,românticos ou hilários. Qual você prefere? O Curta in Box tem todos e aqui eles são a atração principal.</desc>
+    <credits>
+      <director>Rodrigo Araújo E Tiago L. Soares</director>
+      <actor>Alvaro Guarnieri</actor>
+      <actor>Waneza Müller</actor>
+      <actor>Marcelo Cidral</actor>
+      <actor>Bárbara Dutra</actor>
+      <actor>Jucinei Cardoso</actor>
+      <actor>Éverson Candido</actor>
+      <actor>Junior Correa</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Filme (Suspense)</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211127212500 -0300" stop="20211127213000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Quarantine Tales</title>
+    <desc lang="pt">Nós estávamos lado a lado, mas não estávamos próximos. Vivendo aglomerados, porém esquecendo a coletividade, foi preciso que a gente se afastasse, para que ficássemos mais próximos do que nunca. A quarentena tem nos feito olhar para dentro, a falta, fez com que convivêssemos mais intensamente com as pessoas que gostamos, mas de um modo diferente.</desc>
+    <credits>
+      <director>Arthur Alves</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211127213000 -0300" stop="20211127233000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">II Festival Cinema Negro em Ação: Cerimônia de Encerramento</title>
+    <desc lang="pt">O II Festival Cinema Negro em Ação é uma realização da Casa de Cultura Mario Quintana e IECINE, instituições da Secretaria de Estado da Cultura do RS.</desc>
+    <credits>
+      <director>Camila de Moraes</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades (Cinema)</category>
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211127233000 -0300" stop="20211127234500 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Invasão Drag</title>
+    <desc lang="pt">Retratando o surgimento de uma nova geração de Drag queens oriundas de diversas classes sociais pautadas no impacto das novas tecnologias em suas vivências e que buscam cada vez mais visibilidade na sociedade, Invasão Drag pretende dar voz a uma cultura sempre deixada ao largo das representações políticas, sociais, econômicas.</desc>
+    <credits>
+      <director>Rafael Ribeiro</director>
+      <actor>João Pedro Perdigão Marinho</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Documentário (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
 </tv>
