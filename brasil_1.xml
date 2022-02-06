@@ -794,4 +794,2073 @@
     <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.</desc>
     <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/1526.png" />
   </programme>
+  <programme start="20220206000000 -0300" stop="20220206060000 -0300" channel="CONMEBOL TV 3 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206060000 -0300" stop="20220206120000 -0300" channel="CONMEBOL TV 3 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206120000 -0300" stop="20220206180000 -0300" channel="CONMEBOL TV 3 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206180000 -0300" stop="20220207000000 -0300" channel="CONMEBOL TV 3 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207000000 -0300" stop="20220207060000 -0300" channel="CONMEBOL TV 3 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207060000 -0300" stop="20220207120000 -0300" channel="CONMEBOL TV 3 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207120000 -0300" stop="20220207180000 -0300" channel="CONMEBOL TV 3 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207180000 -0300" stop="20220208000000 -0300" channel="CONMEBOL TV 3 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206000000 -0300" stop="20220206010000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Caldense x Cruzeiro</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206010000 -0300" stop="20220206020000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Sport x Vera Cruz</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206020000 -0300" stop="20220206030000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">América MG x Athletic MG</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206030000 -0300" stop="20220206040000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Bernardo x Ponte Preta</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206040000 -0300" stop="20220206050000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Água Santa x Novorizontino</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206050000 -0300" stop="20220206060000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Ypiranga x Internacional</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206060000 -0300" stop="20220206070000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Caldense x Cruzeiro</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206070000 -0300" stop="20220206080000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Sport x Vera Cruz</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206080000 -0300" stop="20220206090000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">América MG x Athletic MG</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206090000 -0300" stop="20220206100000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Bernardo x Ponte Preta</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206100000 -0300" stop="20220206104500 -0300" channel="Premiere Clubes">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais.</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206104500 -0300" stop="20220206130000 -0300" channel="Premiere Clubes">
+    <title lang="pt">Atlético MG x Patrocinense</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206130000 -0300" stop="20220206140000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Caldense x Cruzeiro</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206140000 -0300" stop="20220206150000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Ypiranga x Internacional</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206150000 -0300" stop="20220206154500 -0300" channel="Premiere Clubes">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais.</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206154500 -0300" stop="20220206180000 -0300" channel="Premiere Clubes">
+    <title lang="pt">Guarani x Santos</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206180000 -0300" stop="20220206190000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Atlético MG x Patrocinense</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206190000 -0300" stop="20220206191500 -0300" channel="Premiere Clubes">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais.</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206191500 -0300" stop="20220206213000 -0300" channel="Premiere Clubes">
+    <title lang="pt">Grêmio x Guarany</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">No SporTV e Premiere o Estadual é clássico. Assista agora mais um grande jogo do Campeonato Pernambucano. É o nosso futebol! SporTV: Somos Todos Campeões!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206213000 -0300" stop="20220206220000 -0300" channel="Premiere Clubes">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais.</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206220000 -0300" stop="20220206230000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Mirassol x Santo André</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206230000 -0300" stop="20220207000000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Atlético MG x Patrocinense</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207000000 -0300" stop="20220207010000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Guarani x Santos</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207010000 -0300" stop="20220207020000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Santa Cruz x Íbis</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207020000 -0300" stop="20220207030000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">União Frederiquense x Juventude</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207030000 -0300" stop="20220207040000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Guarany</sub-title>
+    <desc lang="pt">No SporTV e Premiere o Estadual é clássico. Assista agora mais um grande jogo do Campeonato Pernambucano. É o nosso futebol! SporTV: Somos Todos Campeões!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207040000 -0300" stop="20220207050000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Inter de Limeira x Botafogo</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207050000 -0300" stop="20220207060000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Ferroviária x Bragantino</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207060000 -0300" stop="20220207070000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Bernardo x Ponte Preta</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207070000 -0300" stop="20220207080000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Água Santa x Novorizontino</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207080000 -0300" stop="20220207090000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Ypiranga x Internacional</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207090000 -0300" stop="20220207100000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Caldense x Cruzeiro</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207100000 -0300" stop="20220207110000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Sport x Vera Cruz</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207110000 -0300" stop="20220207120000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">América MG x Athletic MG</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207120000 -0300" stop="20220207130000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Mirassol x Santo André</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207130000 -0300" stop="20220207140000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Atlético MG x Patrocinense</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207140000 -0300" stop="20220207150000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Guarani x Santos</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207150000 -0300" stop="20220207160000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Santa Cruz x Íbis</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207160000 -0300" stop="20220207170000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">União Frederiquense x Juventude</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207170000 -0300" stop="20220207180000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Guarany</sub-title>
+    <desc lang="pt">No SporTV e Premiere o Estadual é clássico. Assista agora mais um grande jogo do Campeonato Pernambucano. É o nosso futebol! SporTV: Somos Todos Campeões!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207180000 -0300" stop="20220207190000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Inter de Limeira x Botafogo</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207190000 -0300" stop="20220207200000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Ferroviária x Bragantino</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207200000 -0300" stop="20220207210000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Bernardo x Ponte Preta</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207210000 -0300" stop="20220207220000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Água Santa x Novorizontino</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207220000 -0300" stop="20220207230000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Ypiranga x Internacional</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207230000 -0300" stop="20220208000000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Caldense x Cruzeiro</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206000000 -0300" stop="20220206060000 -0300" channel="Premiere 2">
+    <title lang="pt">Venda PREMIERE 2</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206060000 -0300" stop="20220206120000 -0300" channel="Premiere 2">
+    <title lang="pt">Venda PREMIERE 2</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206120000 -0300" stop="20220206180000 -0300" channel="Premiere 2">
+    <title lang="pt">Venda PREMIERE 2</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206180000 -0300" stop="20220207000000 -0300" channel="Premiere 2">
+    <title lang="pt">Venda PREMIERE 2</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207000000 -0300" stop="20220207060000 -0300" channel="Premiere 2">
+    <title lang="pt">Venda PREMIERE 2</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207060000 -0300" stop="20220207120000 -0300" channel="Premiere 2">
+    <title lang="pt">Venda PREMIERE 2</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207120000 -0300" stop="20220207180000 -0300" channel="Premiere 2">
+    <title lang="pt">Venda PREMIERE 2</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207180000 -0300" stop="20220208000000 -0300" channel="Premiere 2">
+    <title lang="pt">Venda PREMIERE 2</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206000000 -0300" stop="20220206060000 -0300" channel="Premiere 3">
+    <title lang="pt">Venda PREMIERE 8</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206060000 -0300" stop="20220206120000 -0300" channel="Premiere 3">
+    <title lang="pt">Venda PREMIERE 8</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206120000 -0300" stop="20220206180000 -0300" channel="Premiere 3">
+    <title lang="pt">Venda PREMIERE 8</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206180000 -0300" stop="20220207000000 -0300" channel="Premiere 3">
+    <title lang="pt">Venda PREMIERE 8</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207000000 -0300" stop="20220207060000 -0300" channel="Premiere 3">
+    <title lang="pt">Venda PREMIERE 8</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207060000 -0300" stop="20220207120000 -0300" channel="Premiere 3">
+    <title lang="pt">Venda PREMIERE 8</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207120000 -0300" stop="20220207180000 -0300" channel="Premiere 3">
+    <title lang="pt">Venda PREMIERE 8</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207180000 -0300" stop="20220208000000 -0300" channel="Premiere 3">
+    <title lang="pt">Venda PREMIERE 8</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206000000 -0300" stop="20220206060000 -0300" channel="Premiere 4">
+    <title lang="pt">Venda PREMIERE 4</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206060000 -0300" stop="20220206120000 -0300" channel="Premiere 4">
+    <title lang="pt">Venda PREMIERE 4</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206120000 -0300" stop="20220206180000 -0300" channel="Premiere 4">
+    <title lang="pt">Venda PREMIERE 4</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206180000 -0300" stop="20220207000000 -0300" channel="Premiere 4">
+    <title lang="pt">Venda PREMIERE 4</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207000000 -0300" stop="20220207060000 -0300" channel="Premiere 4">
+    <title lang="pt">Venda PREMIERE 4</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207060000 -0300" stop="20220207120000 -0300" channel="Premiere 4">
+    <title lang="pt">Venda PREMIERE 4</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207120000 -0300" stop="20220207180000 -0300" channel="Premiere 4">
+    <title lang="pt">Venda PREMIERE 4</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207180000 -0300" stop="20220208000000 -0300" channel="Premiere 4">
+    <title lang="pt">Venda PREMIERE 4</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206000000 -0300" stop="20220206060000 -0300" channel="Premiere 5">
+    <title lang="pt">Venda PREMIERE 5</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206060000 -0300" stop="20220206120000 -0300" channel="Premiere 5">
+    <title lang="pt">Venda PREMIERE 5</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206120000 -0300" stop="20220206180000 -0300" channel="Premiere 5">
+    <title lang="pt">Venda PREMIERE 5</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206180000 -0300" stop="20220207000000 -0300" channel="Premiere 5">
+    <title lang="pt">Venda PREMIERE 5</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207000000 -0300" stop="20220207060000 -0300" channel="Premiere 5">
+    <title lang="pt">Venda PREMIERE 5</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207060000 -0300" stop="20220207120000 -0300" channel="Premiere 5">
+    <title lang="pt">Venda PREMIERE 5</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207120000 -0300" stop="20220207180000 -0300" channel="Premiere 5">
+    <title lang="pt">Venda PREMIERE 5</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207180000 -0300" stop="20220208000000 -0300" channel="Premiere 5">
+    <title lang="pt">Venda PREMIERE 5</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206000000 -0300" stop="20220206060000 -0300" channel="Premiere 6">
+    <title lang="pt">Venda PREMIERE 6</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206060000 -0300" stop="20220206120000 -0300" channel="Premiere 6">
+    <title lang="pt">Venda PREMIERE 6</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206120000 -0300" stop="20220206180000 -0300" channel="Premiere 6">
+    <title lang="pt">Venda PREMIERE 6</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206180000 -0300" stop="20220207000000 -0300" channel="Premiere 6">
+    <title lang="pt">Venda PREMIERE 6</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207000000 -0300" stop="20220207060000 -0300" channel="Premiere 6">
+    <title lang="pt">Venda PREMIERE 6</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207060000 -0300" stop="20220207120000 -0300" channel="Premiere 6">
+    <title lang="pt">Venda PREMIERE 6</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207120000 -0300" stop="20220207180000 -0300" channel="Premiere 6">
+    <title lang="pt">Venda PREMIERE 6</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207180000 -0300" stop="20220208000000 -0300" channel="Premiere 6">
+    <title lang="pt">Venda PREMIERE 6</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206000000 -0300" stop="20220206060000 -0300" channel="Premiere 7">
+    <title lang="pt">Venda PREMIERE 7</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206060000 -0300" stop="20220206120000 -0300" channel="Premiere 7">
+    <title lang="pt">Venda PREMIERE 7</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206120000 -0300" stop="20220206180000 -0300" channel="Premiere 7">
+    <title lang="pt">Venda PREMIERE 7</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206180000 -0300" stop="20220207000000 -0300" channel="Premiere 7">
+    <title lang="pt">Venda PREMIERE 7</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207000000 -0300" stop="20220207060000 -0300" channel="Premiere 7">
+    <title lang="pt">Venda PREMIERE 7</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207060000 -0300" stop="20220207120000 -0300" channel="Premiere 7">
+    <title lang="pt">Venda PREMIERE 7</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207120000 -0300" stop="20220207180000 -0300" channel="Premiere 7">
+    <title lang="pt">Venda PREMIERE 7</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207180000 -0300" stop="20220208000000 -0300" channel="Premiere 7">
+    <title lang="pt">Venda PREMIERE 7</title>
+    <desc lang="pt">Com o PREMIERE sempre dá jogo. Assine já!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206000000 -0300" stop="20220206060000 -0300" channel="CONMEBOL TV 1 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206060000 -0300" stop="20220206120000 -0300" channel="CONMEBOL TV 1 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206120000 -0300" stop="20220206180000 -0300" channel="CONMEBOL TV 1 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206180000 -0300" stop="20220207000000 -0300" channel="CONMEBOL TV 1 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207000000 -0300" stop="20220207060000 -0300" channel="CONMEBOL TV 1 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207060000 -0300" stop="20220207120000 -0300" channel="CONMEBOL TV 1 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207120000 -0300" stop="20220207180000 -0300" channel="CONMEBOL TV 1 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207180000 -0300" stop="20220208000000 -0300" channel="CONMEBOL TV 1 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206000000 -0300" stop="20220206060000 -0300" channel="CONMEBOL TV 2 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206060000 -0300" stop="20220206120000 -0300" channel="CONMEBOL TV 2 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206120000 -0300" stop="20220206180000 -0300" channel="CONMEBOL TV 2 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206180000 -0300" stop="20220207000000 -0300" channel="CONMEBOL TV 2 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207000000 -0300" stop="20220207060000 -0300" channel="CONMEBOL TV 2 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207060000 -0300" stop="20220207120000 -0300" channel="CONMEBOL TV 2 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207120000 -0300" stop="20220207180000 -0300" channel="CONMEBOL TV 2 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207180000 -0300" stop="20220208000000 -0300" channel="CONMEBOL TV 2 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206000000 -0300" stop="20220206060000 -0300" channel="CONMEBOL TV 4 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206060000 -0300" stop="20220206120000 -0300" channel="CONMEBOL TV 4 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206120000 -0300" stop="20220206180000 -0300" channel="CONMEBOL TV 4 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206180000 -0300" stop="20220207000000 -0300" channel="CONMEBOL TV 4 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207000000 -0300" stop="20220207060000 -0300" channel="CONMEBOL TV 4 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207060000 -0300" stop="20220207120000 -0300" channel="CONMEBOL TV 4 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207120000 -0300" stop="20220207180000 -0300" channel="CONMEBOL TV 4 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207180000 -0300" stop="20220208000000 -0300" channel="CONMEBOL TV 4 HD">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206023000 -0300" stop="20220206025000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Baú do Esporte: Lendas</title>
+    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206025000 -0300" stop="20220206031000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Baú do Esporte: Lendas</title>
+    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206031000 -0300" stop="20220206043000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">LFA 113: Lewis x Petersen</title>
+    <desc lang="pt">Um grupo seleto de cascas grossas participam do LFA e você confere tudo no Canal Combate.</desc>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206043000 -0300" stop="20220206053000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Faixa Combate: Ufc</title>
+    <sub-title lang="pt">Jacaré x Hermansson</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206053000 -0300" stop="20220206063000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Figueiredo x Benavidez</sub-title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.</desc>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206063000 -0300" stop="20220206073000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">UFC Hall x Strickland</title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.</desc>
+    <credits>
+      <director>Chris Kartzmark</director>
+      <director>Eduardo Gabbay</director>
+    </credits>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206073000 -0300" stop="20220206083000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Faixa Combate: Ufc</title>
+    <sub-title lang="pt">Jacaré x Hermansson</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206083000 -0300" stop="20220206091500 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">UFC 239</title>
+    <sub-title lang="pt">Jones x Marreta</sub-title>
+    <desc lang="pt">O brasileiro Thiago Marreta vai pra cima do campeão dos peso-pesados Jon Jones em busca do cinturão! Você acompanha essa luta emocionante agora ao vivo! Combate: Pronto pra luta!</desc>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206091500 -0300" stop="20220206102000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">UFC: Hermansson x Strikland</title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo. Acompanhe as lutas e tudo que acontece aqui no combate.</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206102000 -0300" stop="20220206123000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Supercopa de Futebol Sub-20: Flamengo x Esmac PA</title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Assista a grande final da Supercopa de Futebol Sub-20 os novos talentos do Futebol BrasileiroSporTV Somos todos Campeões.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206123000 -0300" stop="20220206130000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Baú do Esporte: Lendas</title>
+    <sub-title lang="pt">Guga</sub-title>
+    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206130000 -0300" stop="20220206150000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Torneio Internacional de Tênis</title>
+    <desc lang="pt">Torneio Internacional De Tênis.</desc>
+    <category lang="pt">Tênis</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206150000 -0300" stop="20220206153000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Baú do Esporte: Lendas</title>
+    <sub-title lang="pt">Agassi</sub-title>
+    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206153000 -0300" stop="20220206163000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Fórmula E</title>
+    <desc lang="pt">Fórmula E no SporTV, para apaixonados por motor! Veja agora os principais nomes da Fórmula E. SporTV: Somos Todos Campeões!</desc>
+    <category lang="pt">Automobilismo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206163000 -0300" stop="20220206173000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Fórmula E</title>
+    <desc lang="pt">Fórmula E no SporTV, para apaixonados por motor! Veja agora os principais nomes da Fórmula E. SporTV: Somos Todos Campeões!</desc>
+    <category lang="pt">Automobilismo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206173000 -0300" stop="20220206174500 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Baú do Esporte: Lendas</title>
+    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206174500 -0300" stop="20220206180000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Baú do Esporte: Lendas</title>
+    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206180000 -0300" stop="20220206190000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">LFA 123: Argueta x Santo</title>
+    <desc lang="pt">Um grupo seleto de cascas grossas participam do LFA e voce confere tudo no Canal Combate.</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206190000 -0300" stop="20220206200000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">UFC: Hermansson x Strikland</title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo. Acompanhe as lutas e tudo que acontece aqui no combate.</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206200000 -0300" stop="20220206210000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Faixa Combate: Ufc</title>
+    <sub-title lang="pt">Jacaré x Hermansson</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206210000 -0300" stop="20220206220000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Figueiredo x Benavidez</sub-title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.</desc>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206220000 -0300" stop="20220206224500 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Verão Espetacular</title>
+    <desc lang="pt">Assista agora as emoções do Verão Espetacular!</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206224500 -0300" stop="20220206230000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Baú do Esporte: Lendas</title>
+    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206230000 -0300" stop="20220207000000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">UFC: Hermansson x Strikland</title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo. Acompanhe as lutas e tudo que acontece aqui no combate.</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207000000 -0300" stop="20220207011000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">LFA 113: Lewis x Petersen</title>
+    <desc lang="pt">Um grupo seleto de cascas grossas participam do LFA e você confere tudo no Canal Combate.</desc>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207011000 -0300" stop="20220207020000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Verão Espetacular</title>
+    <desc lang="pt">Assista agora as emoções do Verão Espetacular!</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207020000 -0300" stop="20220207030000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Faixa Combate: Ufc</title>
+    <sub-title lang="pt">Jacaré x Hermansson</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207030000 -0300" stop="20220207040000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Figueiredo x Benavidez</sub-title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.</desc>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207040000 -0300" stop="20220207050000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">UFC Hall x Strickland</title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.</desc>
+    <credits>
+      <director>Chris Kartzmark</director>
+      <director>Eduardo Gabbay</director>
+    </credits>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207050000 -0300" stop="20220207060000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Faixa Combate: Ufc</title>
+    <sub-title lang="pt">Jacaré x Hermansson</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207060000 -0300" stop="20220207070000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Figueiredo x Benavidez</sub-title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.</desc>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207070000 -0300" stop="20220207090000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">UFC Vettori x Holland</title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.</desc>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207090000 -0300" stop="20220207100000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">UFC: Hermansson x Strikland</title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo. Acompanhe as lutas e tudo que acontece aqui no combate.</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207100000 -0300" stop="20220207130000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Faixa Combate</title>
+    <desc lang="pt">Assista agora um programa especial com os maiores lutadores do mundo.</desc>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207130000 -0300" stop="20220207133000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Verão Espetacular</title>
+    <desc lang="pt">Assista agora as emoções do Verão Espetacular!</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207133000 -0300" stop="20220207141500 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Verão Espetacular</title>
+    <desc lang="pt">Assista agora as emoções do Verão Espetacular!</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207141500 -0300" stop="20220207150000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Verão Espetacular</title>
+    <desc lang="pt">Assista agora as emoções do Verão Espetacular!</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207150000 -0300" stop="20220207154000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Verão Espetacular</title>
+    <desc lang="pt">Assista agora as emoções do Verão Espetacular!</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207154000 -0300" stop="20220207163000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Verão Espetacular</title>
+    <desc lang="pt">Assista agora as emoções do Verão Espetacular!</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207163000 -0300" stop="20220207193000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Faixa Combate</title>
+    <desc lang="pt">Assista agora um programa especial com os maiores lutadores do mundo.</desc>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207193000 -0300" stop="20220207203000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">UFC 193</title>
+    <sub-title lang="pt">Rousey x Holm</sub-title>
+    <desc lang="pt">O Combate exibe com exclusividade o UFC 193, a campeã Ronda Rousey tem como desafiante a também americana Holly Holm, no card principal o brasileiro Pezão enfrenta Mark Hunt.</desc>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207203000 -0300" stop="20220207210000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Verão Espetacular</title>
+    <desc lang="pt">Assista agora as emoções do Verão Espetacular!</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207210000 -0300" stop="20220207215000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">Verão Espetacular</title>
+    <desc lang="pt">Assista agora as emoções do Verão Espetacular!</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207215000 -0300" stop="20220208003000 -0300" channel="SporTV 3 HD ³">
+    <title lang="pt">NBA: Chicago Bulls x Phoenix Suns</title>
+    <desc lang="pt">Somos todos fãs do melhor basquete do planeta! Assista agora a mais um jogo da NBA. Todas as emoções do basquete com as maiores estrelas do Mundo. SporTV: Somos Todos Campeões!</desc>
+    <category lang="pt">Basquete</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206013000 -0300" stop="20220206040000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Jogos Olímpicos de Inverno Pequin 2022: Snowboard</title>
+    <desc lang="pt">O inverno é nosso! Agora um show de emoção, adrenalina, records e muito frio nos Jogos Olímpicos de Inverno 2022!</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206040000 -0300" stop="20220206053000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Jogos Olímpicos de Inverno Pequin 2022: Esqui Cross Country</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">O inverno é nosso! Agora um show de emoção, adrenalina, records e muito frio nos Jogos Olímpicos de Inverno 2022!</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Esqui</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206053000 -0300" stop="20220206070000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Jogos Olímpicos de Inverno Pequin 2022: Patinação Velocidade</title>
+    <desc lang="pt">O inverno é nosso! Agora um show de emoção, adrenalina, records e muito frio nos Jogos Olímpicos de Inverno 2022!</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Patinação</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206070000 -0300" stop="20220206101000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Jogos Olímpicos de Inverno Pequin 2022: Esqui Estilo Livre</title>
+    <desc lang="pt">O inverno é nosso! Agora um show de emoção, adrenalina, records e muito frio nos Jogos Olímpicos de Inverno 2022!</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Esqui</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206101000 -0300" stop="20220206110000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Jogos Olímpicos de Inverno Pequin 2022: Luge</title>
+    <sub-title lang="pt">Final Masculina</sub-title>
+    <desc lang="pt">O inverno é nosso! Agora um show de emoção, adrenalina, records e muito frio nos Jogos Olímpicos de Inverno 2022!</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206110000 -0300" stop="20220206120000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Circuito Brasileiro de Vôlei de Praia</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Vôlei De Praia</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206120000 -0300" stop="20220206130000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Circuito Brasileiro de Vôlei de Praia</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Vôlei De Praia</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206130000 -0300" stop="20220206143000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Campeonato Paulista de Futebol de Areia</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol de Areia</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206143000 -0300" stop="20220206160000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Campeonato Paulista de Futebol de Areia</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol de Areia</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206160000 -0300" stop="20220206170000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Futebol 7: Final</title>
+    <sub-title lang="pt">Manta, Equador</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206170000 -0300" stop="20220206180000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Jogos Olímpicos de Inverno Pequin 2022: Diário de Pequim</title>
+    <desc lang="pt">O inverno é nosso! Agora um show de emoção, adrenalina, records e muito frio nos Jogos Olímpicos de Inverno 2022!</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206180000 -0300" stop="20220206184500 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Verão Espetacular</title>
+    <desc lang="pt">Assista agora as emoções do Verão Espetacular!</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206184500 -0300" stop="20220206210000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Superliga de Vôlei Masculino: Cruzeiro x Natal</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Vôlei Masculino</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206210000 -0300" stop="20220206214500 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">SporTV Zero Grau</title>
+    <desc lang="pt">SporTV Zero Grau.</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206214500 -0300" stop="20220207010000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Jogos Olímpicos de Inverno Pequin 2022: Patinação Artística</title>
+    <desc lang="pt">O inverno é nosso! Agora um show de emoção, adrenalina, records e muito frio nos Jogos Olímpicos de Inverno 2022!</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Patinação</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207010000 -0300" stop="20220207023000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Jogos Olímpicos de Inverno Pequin 2022: Snowboard</title>
+    <desc lang="pt">O inverno é nosso! Agora um show de emoção, adrenalina, records e muito frio nos Jogos Olímpicos de Inverno 2022!</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207023000 -0300" stop="20220207053000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Jogos Olímpicos de Inverno Pequin 2022: Esqui Estilo Livre</title>
+    <desc lang="pt">O inverno é nosso! Agora um show de emoção, adrenalina, records e muito frio nos Jogos Olímpicos de Inverno 2022!</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Esqui</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207053000 -0300" stop="20220207074500 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Jogos Olímpicos de Inverno Pequin 2022: Patinação Velocidade</title>
+    <desc lang="pt">O inverno é nosso! Agora um show de emoção, adrenalina, records e muito frio nos Jogos Olímpicos de Inverno 2022!</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Patinação</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207074500 -0300" stop="20220207090000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Jogos Olímpicos de Inverno Pequin 2022: Esqui Saltos</title>
+    <desc lang="pt">O inverno é nosso! Agora um show de emoção, adrenalina, records e muito frio nos Jogos Olímpicos de Inverno 2022!</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Esqui</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207090000 -0300" stop="20220207110000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Jogos Olímpicos de Inverno Pequin 2022: Curling</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">O inverno é nosso! Agora um show de emoção, adrenalina, records e muito frio nos Jogos Olímpicos de Inverno 2022!</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207110000 -0300" stop="20220207123000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Jogos Olímpicos de Inverno Pequin 2022: Hóquei no Gelo</title>
+    <desc lang="pt">O inverno é nosso! Agora um show de emoção, adrenalina, records e muito frio nos Jogos Olímpicos de Inverno 2022!</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Hóquei</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207123000 -0300" stop="20220207130000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Baú do Esporte: Lendas</title>
+    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207130000 -0300" stop="20220207150000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Superliga de Vôlei Masculino: Cruzeiro x Natal</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Vôlei Masculino</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207150000 -0300" stop="20220207160000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Jogos Olímpicos de Inverno Pequin 2022: Diário de Pequim</title>
+    <desc lang="pt">O inverno é nosso! Agora um show de emoção, adrenalina, records e muito frio nos Jogos Olímpicos de Inverno 2022!</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207160000 -0300" stop="20220207163000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Baú do Esporte: Lendas</title>
+    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207163000 -0300" stop="20220207164500 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Baú do Esporte: Vozes</title>
+    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207164500 -0300" stop="20220207174500 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Jogos Olímpicos de Inverno Pequin 2022: Diário de Pequim</title>
+    <desc lang="pt">O inverno é nosso! Agora um show de emoção, adrenalina, records e muito frio nos Jogos Olímpicos de Inverno 2022!</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207174500 -0300" stop="20220207201500 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Superliga de Vôlei Feminino: Curitiba x Brasília</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Superliga de Vôlei Feminino: o melhor do Vôlei está no SporTV. Não perca agora os grandes craques das quadras em ação em um jogaço. SporTV: Somos Todos Campeões!</desc>
+    <category lang="pt">Vôlei Feminino</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207201500 -0300" stop="20220207223000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Superliga de Vôlei Feminino: Praia Clube x Minas</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Vôlei Feminino</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207223000 -0300" stop="20220207231500 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">SporTV Zero Grau</title>
+    <desc lang="pt">SporTV Zero Grau.</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207231500 -0300" stop="20220208002000 -0300" channel="SporTV 2 HD ³">
+    <title lang="pt">Jogos Olímpicos de Inverno Pequin 2022: Snowboard</title>
+    <desc lang="pt">O inverno é nosso! Agora um show de emoção, adrenalina, records e muito frio nos Jogos Olímpicos de Inverno 2022!</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206000000 -0300" stop="20220206010000 -0300" channel="SporTV HD ³">
+    <title lang="pt">América MG x Atlético MG</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206010000 -0300" stop="20220206020000 -0300" channel="SporTV HD ³">
+    <title lang="pt">Sport x Vera Cruz</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206020000 -0300" stop="20220206033000 -0300" channel="SporTV HD ³">
+    <title lang="pt">Copa América de Futsal: Brasil x Argentina</title>
+    <desc lang="pt">Copa América Futsal.</desc>
+    <category lang="pt">Futebol de Salão</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206033000 -0300" stop="20220206043000 -0300" channel="SporTV HD ³">
+    <title lang="pt">Caldense x Cruzeiro</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206043000 -0300" stop="20220206053000 -0300" channel="SporTV HD ³">
+    <title lang="pt">Ypiranga x Internacional</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206053000 -0300" stop="20220206060000 -0300" channel="SporTV HD ³">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais.</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206060000 -0300" stop="20220206062500 -0300" channel="SporTV HD ³">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais.</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206062500 -0300" stop="20220206072500 -0300" channel="SporTV HD ³">
+    <title lang="pt">Supercopa de Futebol Sub-20: Grêmio x Cruzeiro</title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Assista a grande final da Supercopa de Futebol Sub-20 os novos talentos do Futebol BrasileiroSporTV Somos todos Campeões.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206072500 -0300" stop="20220206082500 -0300" channel="SporTV HD ³">
+    <title lang="pt">Caldense x Cruzeiro</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206082500 -0300" stop="20220206095500 -0300" channel="SporTV HD ³">
+    <title lang="pt">Copa América de Futsal: Brasil x Argentina</title>
+    <desc lang="pt">Copa América Futsal.</desc>
+    <category lang="pt">Futebol de Salão</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206095500 -0300" stop="20220206125500 -0300" channel="SporTV HD ³">
+    <title lang="pt">Supercopa de Futebol Sub-20: Corinthians x Palmeiras</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Assista a grande final da Supercopa de Futebol Sub-20 os novos talentos do Futebol BrasileiroSporTV Somos todos Campeões.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206125500 -0300" stop="20220206134500 -0300" channel="SporTV HD ³">
+    <title lang="pt">Campeonato Mundial de X1</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206134500 -0300" stop="20220206160000 -0300" channel="SporTV HD ³">
+    <title lang="pt">Copa América de Futsal</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Copa América Futsal.</desc>
+    <category lang="pt">Futebol de Salão</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206160000 -0300" stop="20220206161500 -0300" channel="SporTV HD ³">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais.</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206161500 -0300" stop="20220206164500 -0300" channel="SporTV HD ³">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais.</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206164500 -0300" stop="20220206190000 -0300" channel="SporTV HD ³">
+    <title lang="pt">Copa América de Futsal</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Copa América Futsal.</desc>
+    <category lang="pt">Futebol de Salão</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206190000 -0300" stop="20220206212000 -0300" channel="SporTV HD ³">
+    <title lang="pt">Troca de Passes</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">André Hernan e Roger Flores comandam o novo Troca, agora de terça a domingo e com novo estúdio. Sempre após a rodada, acompanhe a melhor análise pós-jogo da TV brasileira.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206212000 -0300" stop="20220206223000 -0300" channel="SporTV HD ³">
+    <title lang="pt">Futebol 7: Final</title>
+    <sub-title lang="pt">Manta, Equador</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206223000 -0300" stop="20220206233000 -0300" channel="SporTV HD ³">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais.</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220206233000 -0300" stop="20220207003000 -0300" channel="SporTV HD ³">
+    <title lang="pt">Atlético MG x Patrocinense</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207003000 -0300" stop="20220207013000 -0300" channel="SporTV HD ³">
+    <title lang="pt">Grêmio x Guarany</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207013000 -0300" stop="20220207023000 -0300" channel="SporTV HD ³">
+    <title lang="pt">Supercopa de Futebol Sub-20: Corinthians x Palmeiras</title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Assista a grande final da Supercopa de Futebol Sub-20 os novos talentos do Futebol BrasileiroSporTV Somos todos Campeões.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207023000 -0300" stop="20220207033000 -0300" channel="SporTV HD ³">
+    <title lang="pt">Supercopa de Futebol Sub-20: Flamengo x Esmac PA</title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Assista a grande final da Supercopa de Futebol Sub-20 os novos talentos do Futebol BrasileiroSporTV Somos todos Campeões.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207033000 -0300" stop="20220207043000 -0300" channel="SporTV HD ³">
+    <title lang="pt">União Frederiquense x Juventude</title>
+    <desc lang="pt">No SporTV e Premiere o Estadual é clássico. Assista agora mais um grande jogo do Campeonato Gaúcho. É o nosso futebol! SporTV: Somos Todos Campeões!</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207043000 -0300" stop="20220207053000 -0300" channel="SporTV HD ³">
+    <title lang="pt">Grêmio x Guarany</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207053000 -0300" stop="20220207061500 -0300" channel="SporTV HD ³">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais.</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207061500 -0300" stop="20220207071500 -0300" channel="SporTV HD ³">
+    <title lang="pt">Supercopa de Futebol Sub-20: Corinthians x Palmeiras</title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Assista a grande final da Supercopa de Futebol Sub-20 os novos talentos do Futebol BrasileiroSporTV Somos todos Campeões.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207071500 -0300" stop="20220207084500 -0300" channel="SporTV HD ³">
+    <title lang="pt">Copa América de Futsal</title>
+    <desc lang="pt">Copa América Futsal.</desc>
+    <category lang="pt">Futebol de Salão</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207084500 -0300" stop="20220207100000 -0300" channel="SporTV HD ³">
+    <title lang="pt">SporTV News</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207100000 -0300" stop="20220207123000 -0300" channel="SporTV HD ³">
+    <title lang="pt">Redação SporTV</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Marcelo Barreto está de volta no Redação e, recebe jornalistas convidados para discutir o esporte e rodar o Brasil com notícias de norte a sul. O programa repercute as notícias do rádio, TV, impresso e online.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207123000 -0300" stop="20220207130000 -0300" channel="SporTV HD ³">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais.</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207130000 -0300" stop="20220207153000 -0300" channel="SporTV HD ³">
+    <title lang="pt">Seleção SporTV</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Conheça o novo Seleção SporTV! Entrevistas, arbitagem, boteco e muito mais. No estúdio novo, André Rizek e seus convidados trazem mais polêmica e agito para a sua tarde! Seleção SporTV, de 2ª a 6ª às 12:45h no SporTV!</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207153000 -0300" stop="20220207160000 -0300" channel="SporTV HD ³">
+    <title lang="pt">Globo Esporte</title>
+    <sub-title lang="pt">Rede</sub-title>
+    <desc lang="pt">Tradicional programa da TV Globo que mostra o dia a dia do esporte e as principais notícias pelo país.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207160000 -0300" stop="20220207170000 -0300" channel="SporTV HD ³">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais.</desc>
+    <category lang="pt">Informativo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207170000 -0300" stop="20220207183000 -0300" channel="SporTV HD ³">
+    <title lang="pt">Copa América de Futsal</title>
+    <desc lang="pt">Copa América Futsal.</desc>
+    <category lang="pt">Futebol de Salão</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207183000 -0300" stop="20220207193000 -0300" channel="SporTV HD ³">
+    <title lang="pt">Supercopa de Futebol Sub-20: Corinthians x Palmeiras</title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Assista a grande final da Supercopa de Futebol Sub-20 os novos talentos do Futebol BrasileiroSporTV Somos todos Campeões.</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207193000 -0300" stop="20220207220000 -0300" channel="SporTV HD ³">
+    <title lang="pt">Tá na Área</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">O Tá na Área, com Magno Navarro e Igor Rodrigues, é o aquecimento para as principais transmissões ao vivo do SporTV.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220207220000 -0300" stop="20220208003000 -0300" channel="SporTV HD ³">
+    <title lang="pt">Bem, Amigos!</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Galvão Bueno comanda um dos mais tradicionais programas do SporTV. Toda segunda ao vivo à 21hs, ele recebe jogadores, técnicos e personalidades do esporte para um bate-papo animado entre amigos.</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
 </tv>
