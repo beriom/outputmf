@@ -84789,4 +84789,748 @@
       <value>livre</value>
     </rating>
   </programme>
+  <programme start="20220208000000 -0300" stop="20220208010000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208010000 -0300" stop="20220208030000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208030000 -0300" stop="20220208040000 -0300" channel="ESPN Brasil">
+    <title lang="pt">ESPN FC</title>
+    <desc lang="pt">Programa especialmente dedicado ao futebol internacional. Reportagens, entrevistas exclusivas, matérias históricas e muitos gols dos principais campeonatos do mundo.</desc>
+    <category lang="pt">Esporte (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208040000 -0300" stop="20220208050000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208050000 -0300" stop="20220208070000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Campeonato Francês: Lille x Paris Saint-Germain</title>
+    <desc lang="pt">Tradicional e charmoso, o Campeonato Francês passou a receber investimentos milionários nas últimas temporadas. Comandado por Neymar, o jogador mais caro mundo, o PSG busca voltar ao topo com a chegada do craque Lionel Messi.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208070000 -0300" stop="20220208090000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208090000 -0300" stop="20220208110000 -0300" channel="ESPN Brasil">
+    <title lang="pt">ESPN F360</title>
+    <desc lang="pt">William Tavares traz um giro 360 sobre o dia anterior no futebol com destaque para o jogo mais quente.O FUTEBOL 360 uma agradável conversa, com temperatura, para abrir a jornada do fã sobre o grande jogo, notícia e personagens do cenário nacional ou internacional das últimas 24 horas.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208110000 -0300" stop="20220208133000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208133000 -0300" stop="20220208143000 -0300" channel="ESPN Brasil">
+    <title lang="pt">ESPN F90</title>
+    <desc lang="pt">De segunda a sexta, em duas edições, Sebastián Vignolo e um grupo de especialistas dão vida ao FÚTBOL 90. O debate de futebol mais quente, com as melhores entrevistas e análises profundas em um só lugar.</desc>
+    <category lang="pt">Esporte (Debate)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208143000 -0300" stop="20220208152000 -0300" channel="ESPN Brasil">
+    <title lang="pt">ESPN FC</title>
+    <desc lang="pt">Programa especialmente dedicado ao futebol internacional. Reportagens, entrevistas exclusivas, matérias históricas e muitos gols dos principais campeonatos do mundo.</desc>
+    <category lang="pt">Esporte (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208152000 -0300" stop="20220208165000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208165000 -0300" stop="20220208190000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Premier League: Burnley x Manchester United</title>
+    <desc lang="pt">Grandes craques, estádios históricos, equipes de peso, torcedores fanáticos e técnicos renomados. A Premier League é a elite do futebol inglês e um dos melhores campeonatos de futebol do mundo. Sinta na pele a emoção de cada jogo decidido nos minutos finais e as disputas acirradas rodada após rodada.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208190000 -0300" stop="20220208210000 -0300" channel="ESPN Brasil">
+    <title lang="pt">ESPN FC</title>
+    <desc lang="pt">Programa especialmente dedicado ao futebol internacional. Reportagens, entrevistas exclusivas, matérias históricas e muitos gols dos principais campeonatos do mundo.</desc>
+    <category lang="pt">Esporte (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208210000 -0300" stop="20220208220000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208220000 -0300" stop="20220208230000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Bola da Vez: Luan, Zagueiro do Palmeiras</title>
+    <desc lang="pt">"Grandes nomes do esporte em uma conversa franca, direta e, muitas vezes, reveladora. Passado, presente e os projetos para o futuro. Todo sábado, após o Sportscenter, na ESPN Brasil, sob o comando de André Plihal.".</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208230000 -0300" stop="20220209000000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209000000 -0300" stop="20220209013000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209013000 -0300" stop="20220209033000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Copa da Inglaterra: Liverpool x Cardiff City</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209033000 -0300" stop="20220209043000 -0300" channel="ESPN Brasil">
+    <title lang="pt">ESPN FC</title>
+    <desc lang="pt">Programa especialmente dedicado ao futebol internacional. Reportagens, entrevistas exclusivas, matérias históricas e muitos gols dos principais campeonatos do mundo.</desc>
+    <category lang="pt">Esporte (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209043000 -0300" stop="20220209053000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209053000 -0300" stop="20220209073000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Premier League: Newcastle x Everton</title>
+    <desc lang="pt">Grandes craques, estádios históricos, equipes de peso, torcedores fanáticos e técnicos renomados. A Premier League é a elite do futebol inglês e um dos melhores campeonatos de futebol do mundo. Sinta na pele a emoção de cada jogo decidido nos minutos finais e as disputas acirradas rodada após rodada.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209073000 -0300" stop="20220209090000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209090000 -0300" stop="20220209110000 -0300" channel="ESPN Brasil">
+    <title lang="pt">ESPN F360</title>
+    <desc lang="pt">William Tavares traz um giro 360 sobre o dia anterior no futebol com destaque para o jogo mais quente.O FUTEBOL 360 uma agradável conversa, com temperatura, para abrir a jornada do fã sobre o grande jogo, notícia e personagens do cenário nacional ou internacional das últimas 24 horas.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209110000 -0300" stop="20220209130000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209130000 -0300" stop="20220209151500 -0300" channel="ESPN Brasil">
+    <title lang="pt">ESPN F90</title>
+    <desc lang="pt">De segunda a sexta, em duas edições, Sebastián Vignolo e um grupo de especialistas dão vida ao FÚTBOL 90. O debate de futebol mais quente, com as melhores entrevistas e análises profundas em um só lugar.</desc>
+    <category lang="pt">Esporte (Debate)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209151500 -0300" stop="20220209163500 -0300" channel="ESPN Brasil">
+    <title lang="pt">ESPN FC</title>
+    <desc lang="pt">Programa especialmente dedicado ao futebol internacional. Reportagens, entrevistas exclusivas, matérias históricas e muitos gols dos principais campeonatos do mundo.</desc>
+    <category lang="pt">Esporte (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209163500 -0300" stop="20220209184500 -0300" channel="ESPN Brasil">
+    <title lang="pt">Premier League: Manchester City x Brentford</title>
+    <desc lang="pt">Grandes craques, estádios históricos, equipes de peso, torcedores fanáticos e técnicos renomados. A Premier League é a elite do futebol inglês e um dos melhores campeonatos de futebol do mundo. Sinta na pele a emoção de cada jogo decidido nos minutos finais e as disputas acirradas rodada após rodada.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209184500 -0300" stop="20220209210000 -0300" channel="ESPN Brasil">
+    <title lang="pt">ESPN FC</title>
+    <desc lang="pt">Programa especialmente dedicado ao futebol internacional. Reportagens, entrevistas exclusivas, matérias históricas e muitos gols dos principais campeonatos do mundo.</desc>
+    <category lang="pt">Esporte (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209210000 -0300" stop="20220209230000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208010000 -0300" stop="20220208020000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Resenha: Lulinha e Kerlon Foquinha</title>
+    <desc lang="pt">Comandado por André Plihal, o programa recebe semanalmente jogadores e ex-jogadores de futebol para a resenha. Papo solto, cheio de histórias de um jeito bem moleque. Eleito quatro vezes como o Melhor Programa Esportivo da Televisão Brasileira pelos próprios jogadores do Campeonato Brasileiro.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208020000 -0300" stop="20220208050000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">2022 Pro Bowl</title>
+    <desc lang="pt">Touchdowns, viradas espetaculares, jogadas que entram para a história e os melhores atletas em campo. A NFL reúne a elite do futebol americano. Da pré-temporada aos playoffs, acompanhe semana a semana a batalha das franquias na busca pelo grande sonho: conquistar o Super Bowl.</desc>
+    <category lang="pt">Esporte (Futebol Americano)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208050000 -0300" stop="20220208070000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Campeonato Holandês: Ajax x Heracles Almelo</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208070000 -0300" stop="20220208090000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Campeonato Português: Tondela x Benfica</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208090000 -0300" stop="20220208100000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Resenha: Lulinha e Kerlon Foquinha</title>
+    <desc lang="pt">Comandado por André Plihal, o programa recebe semanalmente jogadores e ex-jogadores de futebol para a resenha. Papo solto, cheio de histórias de um jeito bem moleque. Eleito quatro vezes como o Melhor Programa Esportivo da Televisão Brasileira pelos próprios jogadores do Campeonato Brasileiro.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208100000 -0300" stop="20220208103000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Previa da Coppa Italia</title>
+    <desc lang="pt">Fique Por Dentro De Tudo O Que Aconteceu Na Última Rodada Da Coppa Italia.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208103000 -0300" stop="20220208110000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Show da Rodada: Ligue 1</title>
+    <desc lang="pt">Assista aos destaques e o que de melhor aconteceu na rodada da liga mais charmosa, o Campeonato Francês, que passou a receber investimentos milionários nas últimas temporadas.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208110000 -0300" stop="20220208130000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Rugby: França x Itália</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Rugby)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208130000 -0300" stop="20220208133000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Resenha: Melhores Momentos</title>
+    <desc lang="pt">Comandado por André Plihal, o programa recebe semanalmente jogadores e ex-jogadores de futebol para a resenha. Papo solto, cheio de histórias de um jeito bem moleque. Eleito quatro vezes como o Melhor Programa Esportivo da Televisão Brasileira pelos próprios jogadores do Campeonato Brasileiro.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208133000 -0300" stop="20220208140000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Bola da Vez: Melhores Momentos</title>
+    <desc lang="pt">A cada semana, Dan Stulbach entrevista uma importante personalidade do esporte, que também terá de encarar as melhores e mais instigantes perguntas da bancada de jornalistas da ESPN.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208140000 -0300" stop="20220208150000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">ESPN League</title>
+    <desc lang="pt">Análise completa das principais ligas esportivas americanas: NFL (futebol americano), NBA (basquete), MLB (baseball) e NHL (hóquei).</desc>
+    <category lang="pt">Esporte (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208150000 -0300" stop="20220208170000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Campeonato Espanhol: Athletic Bilbao x Espanyol</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208170000 -0300" stop="20220208184000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Campeonato Espanhol: Real Madrid x Granada</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208184000 -0300" stop="20220208193000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">WWE NXT</title>
+    <desc lang="pt">O WWE é a principal organização de Pro Wrestling no mundo e reúne as maiores estrelas da modalidade em fantásticos combates de tirar o fôlego.</desc>
+    <category lang="pt">Esporte (Luta)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208193000 -0300" stop="20220208213000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Campeonato Inglês Feminino: Arsenal x Manchester United</title>
+    <desc lang="pt">Fundada em 2010, a liga de futebol feminino do mais alto escalão da Inglaterra, é dirigido pela Associação de Futebol e atualmente conta com 12 times totalmente profissionais. As três melhores equipas, conforme determinado pelo coeficiente feminino da UEFA, se classificam para a disputa da UEFA Women's Champions League.</desc>
+    <category lang="pt">Esporte (Futebol Feminino)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208213000 -0300" stop="20220208233000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Premier League: Burnley x Manchester United</title>
+    <desc lang="pt">Grandes craques, estádios históricos, equipes de peso, torcedores fanáticos e técnicos renomados. A Premier League é a elite do futebol inglês e um dos melhores campeonatos de futebol do mundo. Sinta na pele a emoção de cada jogo decidido nos minutos finais e as disputas acirradas rodada após rodada.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208233000 -0300" stop="20220209003000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">ESPN League</title>
+    <desc lang="pt">Análise completa das principais ligas esportivas americanas: NFL (futebol americano), NBA (basquete), MLB (baseball) e NHL (hóquei).</desc>
+    <category lang="pt">Esporte (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209003000 -0300" stop="20220209023000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Premier League: Newcastle x Everton</title>
+    <desc lang="pt">Grandes craques, estádios históricos, equipes de peso, torcedores fanáticos e técnicos renomados. A Premier League é a elite do futebol inglês e um dos melhores campeonatos de futebol do mundo. Sinta na pele a emoção de cada jogo decidido nos minutos finais e as disputas acirradas rodada após rodada.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209023000 -0300" stop="20220209030000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Show da Rodada: Ligue 1</title>
+    <desc lang="pt">Assista aos destaques e o que de melhor aconteceu na rodada da liga mais charmosa, o Campeonato Francês, que passou a receber investimentos milionários nas últimas temporadas.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209030000 -0300" stop="20220209050000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Basquete Universitário: SEC</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Basquete)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209050000 -0300" stop="20220209070000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Copa da França: Monaco x Amiens</title>
+    <desc lang="pt">A Copa da França ou Taça de França é disputada na França anualmente desde 1917.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209070000 -0300" stop="20220209100000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Race of Champions</title>
+    <desc lang="pt">O Melhor Do Automobilismo Você Acompanha Na Espn 4.</desc>
+    <category lang="pt">Esporte (Automobilismo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209100000 -0300" stop="20220209120000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Copa da Itália: Inter de Milão x Roma</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209120000 -0300" stop="20220209140000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Campeonato Francês: Lille x Paris Saint-Germain</title>
+    <desc lang="pt">Tradicional e charmoso, o Campeonato Francês passou a receber investimentos milionários nas últimas temporadas. Comandado por Neymar, o jogador mais caro mundo, o PSG busca voltar ao topo com a chegada do craque Lionel Messi.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209140000 -0300" stop="20220209163000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">NHL: Pittsburgh Penguins x Boston Bruins</title>
+    <desc lang="pt">A Nhl É O Principal Campeonato De Hóquei No Gelo Do Mundo. Grandes Equipes Americanas E Canadenses, Também Recheadas De Estrelas Europeias, Disputam O Concorrido Título Da Stanley Cup.</desc>
+    <category lang="pt">Esporte (Hóquei)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209163000 -0300" stop="20220209170000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Destaques da FA Cup</title>
+    <desc lang="pt">A Prévia Da Fa Cupl Traz Análises Do Que Esperar De Todas As Partidas Da Rodada Da Copa Da Inglaterra.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209170000 -0300" stop="20220209184000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Rugby: Escócia x Inglaterra</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Rugby)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209184000 -0300" stop="20220209193000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">WWE Vintage</title>
+    <desc lang="pt">"Fundada Na Década De 50, A Luta Livre Da Wwe É Sucesso Absoluto Em Mais De 150 Países E Já Revelou Diversos Lutadores E Estrelas Para O Mundo Do Entretenimento".</desc>
+    <category lang="pt">Esporte (Luta)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209193000 -0300" stop="20220209213000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Campeonato Espanhol: Athletic Bilbao x Espanyol</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209213000 -0300" stop="20220209233000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Copa da França: Monaco x Amiens</title>
+    <desc lang="pt">A Copa da França ou Taça de França é disputada na França anualmente desde 1917.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208000000 -0300" stop="20220208010000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">ESPN League</title>
+    <desc lang="pt">Análise completa das principais ligas esportivas americanas: NFL (futebol americano), NBA (basquete), MLB (baseball) e NHL (hóquei).</desc>
+    <category lang="pt">Esporte (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208010000 -0300" stop="20220208020000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">ESPN Knockout: Chris Eubank Jr x Liam Williams</title>
+    <desc lang="pt">O melhor do boxe internacional nos canais ESPN.</desc>
+    <category lang="pt">Esporte (Boxe)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208020000 -0300" stop="20220208050000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Race of Champions</title>
+    <desc lang="pt">O Melhor Do Automobilismo Você Acompanha Na Espn 4.</desc>
+    <category lang="pt">Esporte (Automobilismo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208050000 -0300" stop="20220208070000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Campeonato Espanhol: Athletic Bilbao x Espanyol</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208070000 -0300" stop="20220208080000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208080000 -0300" stop="20220208081500 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Cestou ESPN</title>
+    <desc lang="pt">Alana Ambrosio traz o que de melhor aconteceu na semana do basquete de maneira descontraída com ajuda de convidados especiais. Semanalmente, às sextas-feiras, na ESPN Extra e no WatchESPN.</desc>
+    <category lang="pt">Esporte (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208081500 -0300" stop="20220208100000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Campeonato Espanhol: Real Madrid x Granada</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208100000 -0300" stop="20220208120000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208120000 -0300" stop="20220208140000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Copa da Inglaterra: Liverpool x Cardiff City</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208140000 -0300" stop="20220208143000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Show da Rodada: Ligue 1</title>
+    <desc lang="pt">Assista aos destaques e o que de melhor aconteceu na rodada da liga mais charmosa, o Campeonato Francês, que passou a receber investimentos milionários nas últimas temporadas.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208143000 -0300" stop="20220208145500 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Prévia da Copa Itália</title>
+    <desc lang="pt">A Prévia da Coppa Italia traz análises do que esperar de todas as partidas da rodada da próxima rodada.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208145500 -0300" stop="20220208155500 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208155500 -0300" stop="20220208165500 -0300" channel="ESPN 2 HD">
+    <title lang="pt">ESPN League</title>
+    <desc lang="pt">Análise completa das principais ligas esportivas americanas: NFL (futebol americano), NBA (basquete), MLB (baseball) e NHL (hóquei).</desc>
+    <category lang="pt">Esporte (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208165500 -0300" stop="20220208190000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Copa da França: Monaco x Amiens</title>
+    <desc lang="pt">A Copa da França ou Taça de França é disputada na França anualmente desde 1917.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208190000 -0300" stop="20220208210000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">2022 Pro Bowl</title>
+    <desc lang="pt">Touchdowns, viradas espetaculares, jogadas que entram para a história e os melhores atletas em campo. A NFL reúne a elite do futebol americano. Da pré-temporada aos playoffs, acompanhe semana a semana a batalha das franquias na busca pelo grande sonho: conquistar o Super Bowl.</desc>
+    <category lang="pt">Esporte (Futebol Americano)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208210000 -0300" stop="20220208230000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Basquete Universitário: SEC</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Basquete)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220208230000 -0300" stop="20220209000000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">NFL: San Francisco 49ers x Los Angeles Rams</title>
+    <desc lang="pt">Touchdowns, Viradas Espetaculares, Jogadas Que Entram Para A História E Os Melhores Atletas Em Campo. A Nfl Reúne A Elite Do Futebol Americano.</desc>
+    <category lang="pt">Esporte (Futebol Americano)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209000000 -0300" stop="20220209010000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">ESPN League</title>
+    <desc lang="pt">Análise completa das principais ligas esportivas americanas: NFL (futebol americano), NBA (basquete), MLB (baseball) e NHL (hóquei).</desc>
+    <category lang="pt">Esporte (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209010000 -0300" stop="20220209011500 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Cestou ESPN</title>
+    <desc lang="pt">Alana Ambrosio traz o que de melhor aconteceu na semana do basquete de maneira descontraída com ajuda de convidados especiais. Semanalmente, às sextas-feiras, na ESPN Extra e no WatchESPN.</desc>
+    <category lang="pt">Esporte (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209011500 -0300" stop="20220209030000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Campeonato Italiano: Roma x Genoa</title>
+    <desc lang="pt">Os grandes clubes do futebol italiano batalham pela conquista do Scudetto. Tradição, força e disciplina tática marcam as emocionantes disputas da Serie A.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209030000 -0300" stop="20220209050000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Campeonato Português: Sporting x Famalicão</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209050000 -0300" stop="20220209070000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Campeonato Espanhol: Betis x Villarreal</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209070000 -0300" stop="20220209080000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209080000 -0300" stop="20220209100000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Premier League: Norwich City x Aston Villa</title>
+    <desc lang="pt">Grandes craques, estádios históricos, equipes de peso, torcedores fanáticos e técnicos renomados. A Premier League é a elite do futebol inglês e um dos melhores campeonatos de futebol do mundo. Sinta na pele a emoção de cada jogo decidido nos minutos finais e as disputas acirradas rodada após rodada.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209100000 -0300" stop="20220209110000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Bola da Vez: Luan, Zagueiro do Palmeiras</title>
+    <desc lang="pt">"Grandes nomes do esporte em uma conversa franca, direta e, muitas vezes, reveladora. Passado, presente e os projetos para o futuro. Todo sábado, após o Sportscenter, na ESPN Brasil, sob o comando de André Plihal.".</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209110000 -0300" stop="20220209133000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">NHL: Pittsburgh Penguins x Boston Bruins</title>
+    <desc lang="pt">A Nhl É O Principal Campeonato De Hóquei No Gelo Do Mundo. Grandes Equipes Americanas E Canadenses, Também Recheadas De Estrelas Europeias, Disputam O Concorrido Título Da Stanley Cup.</desc>
+    <category lang="pt">Esporte (Hóquei)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209133000 -0300" stop="20220209140000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">ATP Uncovered</title>
+    <desc lang="pt">O ATP Uncovered apresenta em profundidade os perfis de diferentes tenistas, os melhores momentos dos torneios, entrevistas e inbstruções para você praticar o esporte no mais alto nível.</desc>
+    <category lang="pt">Esporte (Tênis)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209140000 -0300" stop="20220209143000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Show da Rodada: La Liga</title>
+    <desc lang="pt">Fique por dentro de tudo o que aconteceu na última rodada da Liga das Estrelas, o Campeonato Espanhol de futebol. Todos os gols e os principais lances da liga que reúne os melhores jogadores do mundo.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209143000 -0300" stop="20220209153000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <category lang="pt">Jornalismo (Esportivo)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209153000 -0300" stop="20220209162500 -0300" channel="ESPN 2 HD">
+    <title lang="pt">ESPN League</title>
+    <desc lang="pt">Análise completa das principais ligas esportivas americanas: NFL (futebol americano), NBA (basquete), MLB (baseball) e NHL (hóquei).</desc>
+    <category lang="pt">Esporte (Diversos)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209162500 -0300" stop="20220209165000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Mundo Premier League</title>
+    <desc lang="pt">Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209165000 -0300" stop="20220209190000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Premier League: Aston Villa x Leeds United</title>
+    <desc lang="pt">Grandes craques, estádios históricos, equipes de peso, torcedores fanáticos e técnicos renomados. A Premier League é a elite do futebol inglês e um dos melhores campeonatos de futebol do mundo. Sinta na pele a emoção de cada jogo decidido nos minutos finais e as disputas acirradas rodada após rodada.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209190000 -0300" stop="20220209210000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Copa da Itália: Inter de Milão x Roma</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220209210000 -0300" stop="20220209220000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">NFL: Cincinnati Bengals x Kansas City Chiefs</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol Americano)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
 </tv>
