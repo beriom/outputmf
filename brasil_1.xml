@@ -80670,4 +80670,116 @@
       <value>livre</value>
     </rating>
   </programme>
+  <programme start="20220220000000 -0300" stop="20220220060000 -0300" channel="ClaroTV Campeonato Carioca">
+    <title lang="pt">Campeonato Carioca</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220220060000 -0300" stop="20220220120000 -0300" channel="ClaroTV Campeonato Carioca">
+    <title lang="pt">Campeonato Carioca</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220220120000 -0300" stop="20220220180000 -0300" channel="ClaroTV Campeonato Carioca">
+    <title lang="pt">Campeonato Carioca</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220220180000 -0300" stop="20220221000000 -0300" channel="ClaroTV Campeonato Carioca">
+    <title lang="pt">Campeonato Carioca</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220221000000 -0300" stop="20220221060000 -0300" channel="ClaroTV Campeonato Carioca">
+    <title lang="pt">Campeonato Carioca</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220221060000 -0300" stop="20220221120000 -0300" channel="ClaroTV Campeonato Carioca">
+    <title lang="pt">Campeonato Carioca</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220221120000 -0300" stop="20220221180000 -0300" channel="ClaroTV Campeonato Carioca">
+    <title lang="pt">Campeonato Carioca</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220220000000 -0300" stop="20220220060000 -0300" channel="ClaroTV Campeonato Carioca2">
+    <title lang="pt">Campeonato Carioca</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220220060000 -0300" stop="20220220120000 -0300" channel="ClaroTV Campeonato Carioca2">
+    <title lang="pt">Campeonato Carioca</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220220120000 -0300" stop="20220220180000 -0300" channel="ClaroTV Campeonato Carioca2">
+    <title lang="pt">Campeonato Carioca</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220220180000 -0300" stop="20220221000000 -0300" channel="ClaroTV Campeonato Carioca2">
+    <title lang="pt">Campeonato Carioca</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220221000000 -0300" stop="20220221060000 -0300" channel="ClaroTV Campeonato Carioca2">
+    <title lang="pt">Campeonato Carioca</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220221060000 -0300" stop="20220221120000 -0300" channel="ClaroTV Campeonato Carioca2">
+    <title lang="pt">Campeonato Carioca</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220221120000 -0300" stop="20220221180000 -0300" channel="ClaroTV Campeonato Carioca2">
+    <title lang="pt">Campeonato Carioca</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Esporte (Futebol)</category>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
 </tv>
