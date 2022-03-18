@@ -14,6 +14,7 @@
   </channel>
   <channel id="Inter TV RN - natal">
     <display-name lang="pt">Inter TV RN - natal</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
     <url>http://www.redeglobo.globo.com</url>
   </channel>
   <channel id="CNN Brasil">
@@ -364,127 +365,7 @@
   <channel id="ClaroTV Campeonato Carioca2">
     <display-name lang="pt">ClaroTV Campeonato Carioca 2</display-name>
   </channel>
-  <programme start="20220317020000 -0300" stop="20220317030000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate</title>
-    <sub-title lang="pt">Ronda Rousey: Breaking Ground</sub-title>
-    <desc lang="pt">Documentário produzido pelo UFC sobre a ex-campeã dos galos Ronda Rousey.</desc>
-    <category lang="pt">Luta</category>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220317030000 -0300" stop="20220317060000 -0300" channel="Combate HD">
-    <title lang="pt">UFC 210</title>
-    <sub-title lang="pt">Cormier x Johnson 2</sub-title>
-    <desc lang="pt">No UFC 210 temos a disputa do cinturão dos meio-pesados entre Daniel Cormier e Anthony Johnson, que duelaram em 2015, quando Cormier venceu por finalização. No card estão os brasileiros Charles do Bronx e Thiago Pitbull.</desc>
-    <category lang="pt">Luta</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20220317060000 -0300" stop="20220317070000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate</title>
-    <sub-title lang="pt">Ronda Rousey: Breaking Ground</sub-title>
-    <desc lang="pt">Documentário produzido pelo UFC sobre a ex-campeã dos galos Ronda Rousey.</desc>
-    <category lang="pt">Luta</category>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220317070000 -0300" stop="20220317093000 -0300" channel="Combate HD">
-    <title lang="pt">UFC 210</title>
-    <sub-title lang="pt">Cormier x Johnson 2</sub-title>
-    <desc lang="pt">No UFC 210 temos a disputa do cinturão dos meio-pesados entre Daniel Cormier e Anthony Johnson, que duelaram em 2015, quando Cormier venceu por finalização. No card estão os brasileiros Charles do Bronx e Thiago Pitbull.</desc>
-    <category lang="pt">Luta</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20220317093000 -0300" stop="20220317100000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate</title>
-    <sub-title lang="pt">Do Jiu-Jitsu ao MMA</sub-title>
-    <desc lang="pt">A série \.</desc>
-    <category lang="pt">Luta</category>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220317100000 -0300" stop="20220317110000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate</title>
-    <sub-title lang="pt">Ronda Rousey: Breaking Ground</sub-title>
-    <desc lang="pt">Documentário produzido pelo UFC sobre a ex-campeã dos galos Ronda Rousey.</desc>
-    <category lang="pt">Luta</category>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220317110000 -0300" stop="20220317133000 -0300" channel="Combate HD">
-    <title lang="pt">UFC 210</title>
-    <sub-title lang="pt">Cormier x Johnson 2</sub-title>
-    <desc lang="pt">No UFC 210 temos a disputa do cinturão dos meio-pesados entre Daniel Cormier e Anthony Johnson, que duelaram em 2015, quando Cormier venceu por finalização. No card estão os brasileiros Charles do Bronx e Thiago Pitbull.</desc>
-    <category lang="pt">Luta</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20220317133000 -0300" stop="20220317140000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate</title>
-    <sub-title lang="pt">Do Jiu-Jitsu ao MMA</sub-title>
-    <desc lang="pt">A série \.</desc>
-    <category lang="pt">Luta</category>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220317140000 -0300" stop="20220317150000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate</title>
-    <sub-title lang="pt">Ronda Rousey: Breaking Ground</sub-title>
-    <desc lang="pt">Documentário produzido pelo UFC sobre a ex-campeã dos galos Ronda Rousey.</desc>
-    <category lang="pt">Luta</category>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220317150000 -0300" stop="20220317173000 -0300" channel="Combate HD">
-    <title lang="pt">UFC 210</title>
-    <sub-title lang="pt">Cormier x Johnson 2</sub-title>
-    <desc lang="pt">No UFC 210 temos a disputa do cinturão dos meio-pesados entre Daniel Cormier e Anthony Johnson, que duelaram em 2015, quando Cormier venceu por finalização. No card estão os brasileiros Charles do Bronx e Thiago Pitbull.</desc>
-    <category lang="pt">Luta</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20220317173000 -0300" stop="20220317180000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate</title>
-    <sub-title lang="pt">Do Jiu-Jitsu ao MMA</sub-title>
-    <desc lang="pt">A série \.</desc>
-    <category lang="pt">Luta</category>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220317180000 -0300" stop="20220317190000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate</title>
-    <sub-title lang="pt">Ronda Rousey: Breaking Ground</sub-title>
-    <desc lang="pt">Documentário produzido pelo UFC sobre a ex-campeã dos galos Ronda Rousey.</desc>
-    <category lang="pt">Luta</category>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220317190000 -0300" stop="20220317220000 -0300" channel="Combate HD">
-    <title lang="pt">Clássicos do UFC: UFC 133</title>
-    <sub-title lang="pt">Evans x Ortiz 2</sub-title>
-    <desc lang="pt">(06/08/2011): Rashad Evans x Tito Ortiz; Vitor Belfort(brasileiro) x Yoshihiro Akiyama; Dennis Hallman x Brian Ebersole; Alessio Sakara x Jorge Rivera; Rory MacDonald x Mike Pyle; Rani Yahya(brasileiro) x Chad Mendes.</desc>
-    <credits>
-      <director>Anthony Giordano</director>
-    </credits>
-    <category lang="pt">Luta</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20220317220000 -0300" stop="20220317230000 -0300" channel="Combate HD">
+  <programme start="20220318020000 -0300" stop="20220318030000 -0300" channel="Combate HD">
     <title lang="pt">UFC Series</title>
     <sub-title lang="pt">UFC Main Event: Jones x Belfort</sub-title>
     <desc lang="pt">Sinopse não disponível.</desc>
@@ -497,13 +378,136 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20220317230000 -0300" stop="20220318020000 -0300" channel="Combate HD">
+  <programme start="20220318030000 -0300" stop="20220318060000 -0300" channel="Combate HD">
     <title lang="pt">Clássicos do UFC: UFC 133</title>
     <sub-title lang="pt">Evans x Ortiz 2</sub-title>
     <desc lang="pt">(06/08/2011): Rashad Evans x Tito Ortiz; Vitor Belfort(brasileiro) x Yoshihiro Akiyama; Dennis Hallman x Brian Ebersole; Alessio Sakara x Jorge Rivera; Rory MacDonald x Mike Pyle; Rani Yahya(brasileiro) x Chad Mendes.</desc>
     <credits>
       <director>Anthony Giordano</director>
     </credits>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220318060000 -0300" stop="20220318070000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Series</title>
+    <sub-title lang="pt">UFC Main Event: Jones x Belfort</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <credits>
+      <director>Chris Kartzmark</director>
+      <director>Pedro Garcia</director>
+    </credits>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220318070000 -0300" stop="20220318100000 -0300" channel="Combate HD">
+    <title lang="pt">Clássicos do UFC: UFC 133</title>
+    <sub-title lang="pt">Evans x Ortiz 2</sub-title>
+    <desc lang="pt">(06/08/2011): Rashad Evans x Tito Ortiz; Vitor Belfort(brasileiro) x Yoshihiro Akiyama; Dennis Hallman x Brian Ebersole; Alessio Sakara x Jorge Rivera; Rory MacDonald x Mike Pyle; Rani Yahya(brasileiro) x Chad Mendes.</desc>
+    <credits>
+      <director>Anthony Giordano</director>
+    </credits>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220318100000 -0300" stop="20220318110000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Series</title>
+    <sub-title lang="pt">UFC Main Event: Jones x Belfort</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <credits>
+      <director>Chris Kartzmark</director>
+      <director>Pedro Garcia</director>
+    </credits>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220318110000 -0300" stop="20220318130000 -0300" channel="Combate HD">
+    <title lang="pt">Arena Combate</title>
+    <desc lang="pt">Um grupo seleto de cascas grossas participam do LFA e voce confere tudo no Canal Combate.</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220318130000 -0300" stop="20220318160000 -0300" channel="Combate HD">
+    <title lang="pt">Arena Combate</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220318160000 -0300" stop="20220318170000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Series</title>
+    <sub-title lang="pt">UFC Main Event: Jones x Belfort</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <credits>
+      <director>Chris Kartzmark</director>
+      <director>Pedro Garcia</director>
+    </credits>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220318170000 -0300" stop="20220318173000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Series: Conexão UFC</title>
+    <desc lang="pt">Conexão UFC.</desc>
+    <credits>
+      <director>Eduardo Gabbay</director>
+    </credits>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220318173000 -0300" stop="20220318183000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Unleashed</title>
+    <desc lang="pt">O programa apresenta os melhores momentos do Campeonato de Ultimate Fighting, UFC. Muito MMA, reprise de lutas, análises dos confrontos e muito mais.</desc>
+    <credits>
+      <director>Christian Kahrmann</director>
+    </credits>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220318183000 -0300" stop="20220318193000 -0300" channel="Combate HD">
+    <title lang="pt">Especial Combate: UFC Volkov x Aspinall</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220318193000 -0300" stop="20220318203000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Series: Conexão UFC</title>
+    <desc lang="pt">Conexão UFC.</desc>
+    <credits>
+      <director>Eduardo Gabbay</director>
+    </credits>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220318203000 -0300" stop="20220319033000 -0300" channel="Combate HD">
+    <title lang="pt">HD</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Luta</category>
     <rating system="BR">
       <value>5</value>
@@ -536,5 +540,1304 @@
     <rating system="BR">
       <value>12</value>
     </rating>
+  </programme>
+  <programme start="20220318200000 +0000" stop="20220318200000 +0000" channel="MTVs_00">
+    <title lang="pt">Hits Don't Lie</title>
+    <desc lang="pt">Os sucessos da MTV não mentem! Esta contagem regressiva de retrocesso está agora com os maiores sucessos que nos fizeram dançar.</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220318200000 +0000" stop="20220319000000 +0000" channel="MTVs_00">
+    <title lang="pt">Hits Don't Lie</title>
+    <desc lang="pt">Os sucessos da MTV não mentem! Esta contagem regressiva de retrocesso está agora com os maiores sucessos que nos fizeram dançar.</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220319000000 +0000" stop="20220319010000 +0000" channel="MTVs_00">
+    <title lang="pt">Dancefloor Fillers!</title>
+    <desc lang="pt">Coloque seus sapatos de dança e prepare-se para agitar a pista.</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220319010000 +0000" stop="20220319040000 +0000" channel="MTVs_00">
+    <title lang="pt">The 40 Greatest Boys!</title>
+    <desc lang="pt">Sintonize enquanto contamos 40 dos maiores sucessos dos meninos!</desc>
+    <episode-num system="onscreen">S22 E77</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220319040000 +0000" stop="20220319130000 +0000" channel="MTVs_00">
+    <title lang="pt">Non-Stop Nostalgia</title>
+    <desc lang="pt">Comece a relembrar os bons velhos tempos com esta lista de reprodução ininterrupta repleta de todos os seus sucessos favoritos de antigamente!</desc>
+    <episode-num system="onscreen">S1 E78</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220319130000 +0000" stop="20220319160000 +0000" channel="MTVs_00">
+    <title lang="pt">The 40 Greatest Power Ballads</title>
+    <desc lang="pt">Estamos entrando no paraíso das baladas poderosas agora na MTV! Então pegue aquela escova de cabelo, prepare sua guitarra e cante com o coração enquanto conferimos as 40 maiores baladas poderosas de todos os tempos!</desc>
+    <episode-num system="onscreen">E78</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220319160000 +0000" stop="20220319190000 +0000" channel="MTVs_00">
+    <title lang="pt">We Love The 00s!</title>
+    <desc lang="pt">Junte-se a nós para os hinos mais épicos e clássicos dos anos 2000 que tornaram esta década inesquecível!</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220319190000 +0000" stop="20220319200000 +0000" channel="MTVs_00">
+    <title lang="pt">2 4 1 Hits!</title>
+    <desc lang="pt">Sintonize para nossos hits do happy hour, onde você terá duas faixas de cada uma de suas estrelas favoritas!</desc>
+    <episode-num system="onscreen">S16 E78</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220318000000 -0300" stop="20220318010000 -0300" channel="GNT">
+    <title lang="pt">Bem Juntinhos</title>
+    <desc lang="pt">A importância da amizade, os diferentes tipos de amigos e seus papéis. As amizades que machucam, amizade tóxica. Amizade e masculinidade. Amizade com sexo.</desc>
+    <credits>
+      <director>Mariana Lacerda</director>
+      <director>Pio Figueiroa</director>
+      <actor>Fernanda Lima</actor>
+      <actor>Rodrigo Hilbert</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Diversos)</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220318010000 -0300" stop="20220318020500 -0300" channel="GNT">
+    <title lang="pt">Decora</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <director>Pedro Gorski</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220318020500 -0300" stop="20220318030000 -0300" channel="GNT">
+    <title lang="pt">Mais Cor, Por Favor!</title>
+    <desc lang="pt">Priscila e Gustavo adoram o apartamento antigo onde moram. Eles têm um banheiro amplo, mas que precisa de ajustes. Thalita vai levar funcionalidade e cor para o cantinho da beleza e higiene pessoal.</desc>
+    <credits>
+      <director>Lígia Feliciano</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S13 E2</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220318030000 -0300" stop="20220318033000 -0300" channel="GNT">
+    <title lang="pt">Cozinha Prática com Rita Lobo</title>
+    <desc lang="pt">Rita Lobo mostra que a brandade de bacalhau, um prato que pode ser feito com o peixe desfiado (mais em conta!), é uma preparação versátil. Não pode faltar no seu repertório!</desc>
+    <credits>
+      <director>Sheila Kaomura</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220318033000 -0300" stop="20220318040000 -0300" channel="GNT">
+    <title lang="pt">Cozinha Prática com Rita Lobo</title>
+    <desc lang="pt">Rita Lobo mostra todos os truques para preparar um lombinho de porco dourado por fora e macio por dentro, sem ressecar a carne. O lombo vai para a mesa com tomates assados e viradinho de milho.</desc>
+    <credits>
+      <director>Sheila Kaomura</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S13 E57</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220318040000 -0300" stop="20220318050000 -0300" channel="GNT">
+    <title lang="pt">Food Truck - A Batalha</title>
+    <desc lang="pt">Docu-reality de competição entre dois carros de comida de rua.</desc>
+    <credits>
+      <director>Roberto Dávila</director>
+      <director>André Sacramento</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S12 E58</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20220318050000 -0300" stop="20220318053000 -0300" channel="GNT">
+    <title lang="pt">Tempero de Família</title>
+    <desc lang="pt">Rodrigo conversa com Beatrice Hansteins, uma carioca com sotaque alemão. Ele faz: biscoito de nata com geleia de pimenta.</desc>
+    <credits>
+      <director>Gigi Soares</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220318053000 -0300" stop="20220318060500 -0300" channel="GNT">
+    <title lang="pt">Tempero de Família</title>
+    <desc lang="pt">Rodrigo vai ao Vale do Pavão conversar com Marcio e Ana sobre o cultivo de cogumelos. Rodrigo prepara: hiratake à milanesa.</desc>
+    <credits>
+      <director>Gigi Soares</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S12 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220318060500 -0300" stop="20220318064500 -0300" channel="GNT">
+    <title lang="pt">Delícias de Forno com Nadiya</title>
+    <desc lang="pt">Em mais uma nova temporada do reality show que conquistou o mundo, a chef Nadiya Hussain compartilha uma seleção de novas receitas sem estresse de dar água na boca.</desc>
+    <credits>
+      <director>Katy Fryer</director>
+      <actor>Nadiya Hussein</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S12 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220318064500 -0300" stop="20220318070000 -0300" channel="GNT">
+    <title lang="pt">Plante Você Mesmo</title>
+    <desc lang="pt">Carol Costa ensina as principais técnicas de paisagismo e mostra como aplicá-las em menor escala na montagem de um arranjo.</desc>
+    <credits>
+      <director>Livia Maria Alves Miglioli</director>
+      <director>Pablo Cavalcante Escajedo</director>
+      <actor>Carol Costa</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Diversos)</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220318070000 -0300" stop="20220318072000 -0300" channel="GNT">
+    <title lang="pt">Plante Você Mesmo</title>
+    <desc lang="pt">Você sabia que, além de colorir e enfeitar o jardim, as flores podem ser alimentos? Carol Costa ensina tudo sobre flores comestíveis e faz um tutorial de arranjo com elas.</desc>
+    <credits>
+      <director>Livia Maria Alves Miglioli</director>
+      <director>Pablo Cavalcante Escajedo</director>
+      <actor>Carol Costa</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Diversos)</category>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220318072000 -0300" stop="20220318081000 -0300" channel="GNT">
+    <title lang="pt">Mais Cor, Por Favor!</title>
+    <desc lang="pt">Vania trabalha com papelaria personalizada em um cantinho bem apertado, debaixo da escada da sala. Com a ajuda da Thalita, o espaço vai ficar mais funcional, colorido e confortável para ela trabalhar.</desc>
+    <credits>
+      <director>Lígia Feliciano</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220318081000 -0300" stop="20220318092000 -0300" channel="GNT">
+    <title lang="pt">Decora</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <director>Pedro Gorski</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220318092000 -0300" stop="20220318101500 -0300" channel="GNT">
+    <title lang="pt">Food Truck - A Batalha</title>
+    <desc lang="pt">Docu-reality de competição entre dois carros de comida de rua.</desc>
+    <credits>
+      <director>Roberto Dávila</director>
+      <director>André Sacramento</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S13 E2</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20220318101500 -0300" stop="20220318104500 -0300" channel="GNT">
+    <title lang="pt">Rainha da Cocada</title>
+    <desc lang="pt">Hoje, Raiza prepara um Curau de Milho coberto com canela. Para colocar essa receita à prova da chef Ayesha Nurdjaja, Raíza irá complementar esse clássico com sorvete de pipoca e pipocas caramelizadas.</desc>
+    <credits>
+      <director>Raiza Costa</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220318104500 -0300" stop="20220318110000 -0300" channel="GNT">
+    <title lang="pt">Pode Entrar</title>
+    <desc lang="pt">Emanuelle Araújo mostrar sua cozinha - onde prepara pratos típicos da culinária baiana - a sala inspirada em uma obra de arte de Hélio Oiticica e o escritório, em seu apartamento no Rio de Janeiro.</desc>
+    <credits>
+      <director>Letícia Prisco</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Comportamento)</category>
+    <episode-num system="onscreen">S4 E15</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220318110000 -0300" stop="20220318113000 -0300" channel="GNT">
+    <title lang="pt">Lar: Vida Interior</title>
+    <desc lang="pt">A sala versátil do Bruno Mazzeo. As memórias afetivas do Giovanni Bianco. Erika Januza e as transformações no seu apartamento.</desc>
+    <credits>
+      <director>Alberto Renault</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220318113000 -0300" stop="20220318120500 -0300" channel="GNT">
+    <title lang="pt">Tempero de Família</title>
+    <desc lang="pt">Rodrigo fala da Argentina, país apaixonado pelo futebol e pelas carnes. Ele prepara Cordeiro da Patagônia com limão em calda de ervas, Choripan, e Laranja queimada com alecrim.</desc>
+    <credits>
+      <director>Gigi Soares</director>
+      <actor>Rodrigo Hilbert</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220318120500 -0300" stop="20220318124000 -0300" channel="GNT">
+    <title lang="pt">Tempero de Família</title>
+    <desc lang="pt">Rodrigo Hilbert revela os sabores do Uruguai, ensina o passo a passo de uma parrilhada, de empanada de carne de cordeiro e ainda panqueca de doce de leite.</desc>
+    <credits>
+      <director>Gigi Soares</director>
+      <actor>Rodrigo Hilbert</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S14 E33</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220318124000 -0300" stop="20220318132000 -0300" channel="GNT">
+    <title lang="pt">Que Marravilha! Delivery</title>
+    <desc lang="pt">O chef Claude tem um desafio triplo. Com a ajuda do Batista, precisa criar e entregar de surpresa uma receita com camarão, que agrade ao paladar de três mulheres super acostumadas com mesa farta e saborosa.</desc>
+    <credits>
+      <director>Gabriel Hein De Andrade E Silva</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S14 E34</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220318132000 -0300" stop="20220318142000 -0300" channel="GNT">
+    <title lang="pt">Saia Justa</title>
+    <desc lang="pt">Como fazer se a vida a vida debaixo dos lençóis anda em clima de inverno? Todos precisamos de natureza, e a falta dela causa um tipo de transtorno.</desc>
+    <credits>
+      <director>Patricia Rubano</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Comportamento)</category>
+    <episode-num system="onscreen">S23 E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220318142000 -0300" stop="20220318151500 -0300" channel="GNT">
+    <title lang="pt">Que História é essa, Porchat?</title>
+    <desc lang="pt">Ágatha Moreira conta que salvou uma tartaruga, Clarice Falcão e o coco no bidê, Luis Roberto enganado pelo taxista; Ana pisoteada por Michael Jackson, e Priscila atacada por macaco.</desc>
+    <credits>
+      <director>Gigi Soares</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Variedades (Talk Show)</category>
+    <episode-num system="onscreen">S21 E9</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220318151500 -0300" stop="20220318154500 -0300" channel="GNT">
+    <title lang="pt">Lar: Vida Interior</title>
+    <desc lang="pt">José Loreto e a reforma do jardim de sua casa. Betty Gofman e o amor pelos bichos. O canto musical do Pretinho da Serrinha.</desc>
+    <credits>
+      <director>Alberto Renault</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S2 E26</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220318154500 -0300" stop="20220318164500 -0300" channel="GNT">
+    <title lang="pt">Decora</title>
+    <desc lang="pt">Maurício Arruda cria uma área de serviço chique e organizada para uma casa que tem a entrada pela lavanderia.</desc>
+    <credits>
+      <director>Pedro Gorski</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220318164500 -0300" stop="20220318171500 -0300" channel="GNT">
+    <title lang="pt">Cozinha Prática com Rita Lobo</title>
+    <desc lang="pt">Rita Lobo mostra que a brandade de bacalhau, um prato que pode ser feito com o peixe desfiado (mais em conta!), é uma preparação versátil. Não pode faltar no seu repertório!</desc>
+    <credits>
+      <director>Sheila Kaomura</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S12 E11</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220318171500 -0300" stop="20220318174500 -0300" channel="GNT">
+    <title lang="pt">Cozinha Prática com Rita Lobo</title>
+    <desc lang="pt">Rita Lobo mostra todos os truques para preparar um lombinho de porco dourado por fora e macio por dentro, sem ressecar a carne. O lombo vai para a mesa com tomates assados e viradinho de milho.</desc>
+    <credits>
+      <director>Sheila Kaomura</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S13 E57</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220318174500 -0300" stop="20220318181500 -0300" channel="GNT">
+    <title lang="pt">Tempero de Família</title>
+    <desc lang="pt">Rodrigo conversa com Beatrice Hansteins, uma carioca com sotaque alemão. Ele faz: biscoito de nata com geleia de pimenta.</desc>
+    <credits>
+      <director>Gigi Soares</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S12 E58</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220318181500 -0300" stop="20220318190000 -0300" channel="GNT">
+    <title lang="pt">Que Marravilha! Chato Para Comer</title>
+    <desc lang="pt">Karla é uma chata pra comer intrigante: faz curso de chef e tem um restaurante, mas não experimenta nada! Claude e Batista fazem para ela um peito de frango em crosta de cogumelos, risoni e quiabo.</desc>
+    <date>2018</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S12 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220318190000 -0300" stop="20220318200000 -0300" channel="GNT">
+    <title lang="pt">Que Seja Doce</title>
+    <desc lang="pt">O Chef Felipe Bronze comanda uma acirrada competição em que 3 doceiros lutarão pelo prêmio de melhor do dia.</desc>
+    <credits>
+      <director>Roberto Davila</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S22 E11</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220318200000 -0300" stop="20220318210000 -0300" channel="GNT">
+    <title lang="pt">Que Seja Doce</title>
+    <desc lang="pt">Os confeiteiros homenageiam os pampas fazendo sobremesas sofisticadas usando erva mate e doce de leite. Tá tribom esse episódio!</desc>
+    <credits>
+      <director>Roberto Helene D'ávila</director>
+      <director>Gabriel Hein de Andrada e Silva</director>
+      <director>Maria Eugenia</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S1 E43</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220318210000 -0300" stop="20220318213000 -0300" channel="GNT">
+    <title lang="pt">Cozinha Prática com Rita Lobo</title>
+    <desc lang="pt">Rita Lobo se inspira na culinária colombiana e prepara arepas de mandioca, salada de abacate e limonada de coco. É cardápio leve, refrescante e surpreendente.</desc>
+    <credits>
+      <director>Sheila Kaomura</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S7 E28</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220318213000 -0300" stop="20220318220000 -0300" channel="GNT">
+    <title lang="pt">Happy Hour com Mariana Ximenes</title>
+    <desc lang="pt">Apreciando um Spritz, Mariana Ximenes curte a leveza do encontro com os atores Isis Valverde e Jonathan Azevedo e com a bartender Bianca Lima.</desc>
+    <credits>
+      <director>Rodrigo Séllos</director>
+      <actor>Mariana Ximenes</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades (Entrevista)</category>
+    <episode-num system="onscreen">S13 E60</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220318220000 -0300" stop="20220318223000 -0300" channel="GNT">
+    <title lang="pt">Tempero de Família</title>
+    <desc lang="pt">Rodrigo mostra o Paraguai, país de leste pantanoso, oeste semiárido, uma imensa frota fluvial e uma gastronomia que surpreende. Ele prepara Chipa, Sopa Paraguaia e um Pira Caldo.</desc>
+    <credits>
+      <director>Gigi Soares</director>
+      <actor>Rodrigo Hilbert</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220318223000 -0300" stop="20220318230000 -0300" channel="GNT">
+    <title lang="pt">Tempero de Família</title>
+    <desc lang="pt">No último episódio da temporada, a cozinha brasileira. Rodrigo Hilbert cozinha caldo de tucupi com jambu, farofa, feijão manteiguinha e um peixe dourado na brasa.</desc>
+    <credits>
+      <director>Gigi Soares</director>
+      <actor>Rodrigo Hilbert</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S14 E35</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220318230000 -0300" stop="20220319000000 -0300" channel="GNT">
+    <title lang="pt">Que História é essa, Porchat?</title>
+    <desc lang="pt">Fabio Porchat recebe Poliana Abritta, Rafael Infante e Romulo Estrela que narram histórias cheias de emoção no Que História é Essa, Porchat? Na plateia, Karen conta da vez que foi tomar um negocinho no primeiro dia de férias e acabou numa viagem inusitada.</desc>
+    <credits>
+      <director>Gigi Soares</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Variedades (Talk Show)</category>
+    <episode-num system="onscreen">S14 E36</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220319000000 -0300" stop="20220319010000 -0300" channel="GNT">
+    <title lang="pt">Bem Juntinhos</title>
+    <desc lang="pt">A festa que celebra a união de um casal. Os sonhos que envolvem a data e a nova fase da vida. A realidade do dia a dia, que muitas vezes contraria as expectativas.</desc>
+    <credits>
+      <director>Mariana Lacerda</director>
+      <director>Pio Figueiroa</director>
+      <actor>Fernanda Lima</actor>
+      <actor>Rodrigo Hilbert</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Diversos)</category>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220319010000 -0300" stop="20220319020500 -0300" channel="GNT">
+    <title lang="pt">Decora</title>
+    <desc lang="pt">Maurício Arruda cria uma área de serviço chique e organizada para uma casa que tem a entrada pela lavanderia.</desc>
+    <credits>
+      <director>Pedro Gorski</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220319020500 -0300" stop="20220319030000 -0300" channel="GNT">
+    <title lang="pt">Mais Cor, Por Favor!</title>
+    <desc lang="pt">Vania trabalha com papelaria personalizada em um cantinho bem apertado, debaixo da escada da sala. Com a ajuda da Thalita, o espaço vai ficar mais funcional, colorido e confortável para ela trabalhar.</desc>
+    <credits>
+      <director>Lígia Feliciano</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S12 E11</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220319030000 -0300" stop="20220319033000 -0300" channel="GNT">
+    <title lang="pt">Cozinha Prática com Rita Lobo</title>
+    <desc lang="pt">Rita Lobo se inspira na culinária colombiana e prepara arepas de mandioca, salada de abacate e limonada de coco. É cardápio leve, refrescante e surpreendente.</desc>
+    <credits>
+      <director>Sheila Kaomura</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220319033000 -0300" stop="20220319040000 -0300" channel="GNT">
+    <title lang="pt">Happy Hour com Mariana Ximenes</title>
+    <desc lang="pt">Apreciando um Spritz, Mariana Ximenes curte a leveza do encontro com os atores Isis Valverde e Jonathan Azevedo e com a bartender Bianca Lima.</desc>
+    <credits>
+      <director>Rodrigo Séllos</director>
+      <actor>Mariana Ximenes</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades (Entrevista)</category>
+    <episode-num system="onscreen">S13 E60</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220319040000 -0300" stop="20220319050000 -0300" channel="GNT">
+    <title lang="pt">Food Truck - A Batalha</title>
+    <desc lang="pt">Docu-reality de competição entre dois carros de comida de rua.</desc>
+    <credits>
+      <director>Roberto Dávila</director>
+      <director>André Sacramento</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20220319050000 -0300" stop="20220319053000 -0300" channel="GNT">
+    <title lang="pt">Tempero de Família</title>
+    <desc lang="pt">Rodrigo mostra o Paraguai, país de leste pantanoso, oeste semiárido, uma imensa frota fluvial e uma gastronomia que surpreende. Ele prepara Chipa, Sopa Paraguaia e um Pira Caldo.</desc>
+    <credits>
+      <director>Gigi Soares</director>
+      <actor>Rodrigo Hilbert</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220319053000 -0300" stop="20220319060000 -0300" channel="GNT">
+    <title lang="pt">Tempero de Família</title>
+    <desc lang="pt">No último episódio da temporada, a cozinha brasileira. Rodrigo Hilbert cozinha caldo de tucupi com jambu, farofa, feijão manteiguinha e um peixe dourado na brasa.</desc>
+    <credits>
+      <director>Gigi Soares</director>
+      <actor>Rodrigo Hilbert</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S14 E35</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220319060000 -0300" stop="20220319063000 -0300" channel="GNT">
+    <title lang="pt">Lar: Vida Interior</title>
+    <desc lang="pt">O altar plural, eclético e diverso da Preta Gil. O olhar poético de Gilberto Gil através de sua janela. Carmo Dalla Vecchia e seu universo interior no jardim que cultiva.</desc>
+    <credits>
+      <director>Alberto Renault</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S14 E36</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220319063000 -0300" stop="20220319070000 -0300" channel="GNT">
+    <title lang="pt">Lar: Vida Interior</title>
+    <desc lang="pt">Angélica e a capela em meio à natureza. O ateliê bem brasileiro da designer Julia Gastin. Santo Amaro da Purificação na Bahia e as memórias de Caetano Veloso.</desc>
+    <credits>
+      <director>Alberto Renault</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220319070000 -0300" stop="20220319073000 -0300" channel="GNT">
+    <title lang="pt">Lar: Vida Interior</title>
+    <desc lang="pt">Maitê Proença mostra o canto de criação em seu lar. Conhecemos a casa da pianista Maíra Freitas. Um delicioso picadinho na cozinha do Diogo Nogueira.</desc>
+    <credits>
+      <director>Alberto Renault</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220319073000 -0300" stop="20220319080000 -0300" channel="GNT">
+    <title lang="pt">Lar: Vida Interior</title>
+    <desc lang="pt">A sala versátil do Bruno Mazzeo. As memórias afetivas do Giovanni Bianco. Erika Januza e as transformações no seu apartamento.</desc>
+    <credits>
+      <director>Alberto Renault</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220319080000 -0300" stop="20220319083000 -0300" channel="GNT">
+    <title lang="pt">Lar: Vida Interior</title>
+    <desc lang="pt">José Loreto e a reforma do jardim de sua casa. Betty Gofman e o amor pelos bichos. O canto musical do Pretinho da Serrinha.</desc>
+    <credits>
+      <director>Alberto Renault</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Documentário)</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220319083000 -0300" stop="20220319093000 -0300" channel="GNT">
+    <title lang="pt">Mais Cor, Por Favor!</title>
+    <desc lang="pt">O Mais Cor Por Favor, apresentado por Thalita Carvalho, vai mostrar na 4ª temporada que um conjunto de pequenos projetos têm o poder de revolucionar um canto da casa. O programa seria um convite para que todos consigam mudar a casa inteira, dando um passo de cada vez. Com passo a passos bem explicados, detalhados, com uma direção de arte inspiradora e com dicas mais práticas, a nova temporada vai fazer o espectador sair da cadeira e, de fato, FAZER! Vamos cuidar de um cantinho por vez. O episódio de 1h, vai focar no processo, compartilhando dicas, macetes e informações importantes para que o público do GNT comece essa jornada no mundo do Faça Você Mesmo. Agora, chegou a hora de fazer uma transformação na sua casa, sozinho!! Vamos mostrar que não é necessário ter uma rede de amigos para provocar uma bela modificação. Com ideias mais simples, pintura mais simples e criativa, dá pra diminuir a complexidade da transformação e ser mais didático na hora de ensinar. Nesta temporada do Mais Cor a a ordem é colocar a mão na massa e mudar sua casa por conta própria.</desc>
+    <credits>
+      <director>Lígia Feliciano</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220319093000 -0300" stop="20220319103000 -0300" channel="GNT">
+    <title lang="pt">Mais Cor, Por Favor!</title>
+    <desc lang="pt">O Mais Cor Por Favor, apresentado por Thalita Carvalho, vai mostrar na 4ª temporada que um conjunto de pequenos projetos têm o poder de revolucionar um canto da casa. O programa seria um convite para que todos consigam mudar a casa inteira, dando um passo de cada vez. Com passo a passos bem explicados, detalhados, com uma direção de arte inspiradora e com dicas mais práticas, a nova temporada vai fazer o espectador sair da cadeira e, de fato, FAZER! Vamos cuidar de um cantinho por vez. O episódio de 1h, vai focar no processo, compartilhando dicas, macetes e informações importantes para que o público do GNT comece essa jornada no mundo do Faça Você Mesmo. Agora, chegou a hora de fazer uma transformação na sua casa, sozinho!! Vamos mostrar que não é necessário ter uma rede de amigos para provocar uma bela modificação. Com ideias mais simples, pintura mais simples e criativa, dá pra diminuir a complexidade da transformação e ser mais didático na hora de ensinar. Nesta temporada do Mais Cor a a ordem é colocar a mão na massa e mudar sua casa por conta própria.</desc>
+    <credits>
+      <director>Lígia Feliciano</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220319103000 -0300" stop="20220319113000 -0300" channel="GNT">
+    <title lang="pt">Mais Cor, Por Favor!</title>
+    <desc lang="pt">Ciara é casada com Roberto e pedagoga aposentada. Seu sonho é transformar seu cantinho de costura em um local para dar aulas de costura para idosas do bairro. Para isso, recorre a ajuda da Thalita.</desc>
+    <credits>
+      <director>Lígia Feliciano</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S4 E2</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220319113000 -0300" stop="20220319123500 -0300" channel="GNT">
+    <title lang="pt">Mais Cor, Por Favor!</title>
+    <desc lang="pt">Priscila e Gustavo adoram o apartamento antigo onde moram. Eles têm um banheiro amplo, mas que precisa de ajustes. Thalita vai levar funcionalidade e cor para o cantinho da beleza e higiene pessoal.</desc>
+    <credits>
+      <director>Lígia Feliciano</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220319123500 -0300" stop="20220319133500 -0300" channel="GNT">
+    <title lang="pt">Mais Cor, Por Favor!</title>
+    <desc lang="pt">Vania trabalha com papelaria personalizada em um cantinho bem apertado, debaixo da escada da sala. Com a ajuda da Thalita, o espaço vai ficar mais funcional, colorido e confortável para ela trabalhar.</desc>
+    <credits>
+      <director>Lígia Feliciano</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220319133500 -0300" stop="20220319135000 -0300" channel="GNT">
+    <title lang="pt">Plante Você Mesmo</title>
+    <desc lang="pt">Carol Costa ensina as principais técnicas de paisagismo e mostra como aplicá-las em menor escala na montagem de um arranjo.</desc>
+    <credits>
+      <director>Livia Maria Alves Miglioli</director>
+      <director>Pablo Cavalcante Escajedo</director>
+      <actor>Carol Costa</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Diversos)</category>
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220319135000 -0300" stop="20220319140500 -0300" channel="GNT">
+    <title lang="pt">Pode Entrar</title>
+    <desc lang="pt">Alice Caymmi abre as portas de sua casa, em São Paulo, para mostrar a sala, onde fica sua biblioteca, o ateliê de pintura, o estúdio de música e o terraço com suas plantas.</desc>
+    <credits>
+      <director>Letícia Prisco</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Séries (Comportamento)</category>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220319140500 -0300" stop="20220319150000 -0300" channel="GNT">
+    <title lang="pt">Olho Mágico - Reforma de Vizinhos</title>
+    <desc lang="pt">Gabriel conhece Marina há anos porque ela é uma das melhores amigas de sua irmã. Recentemente, os dois acabaram virando vizinhos e foi aí que a amizade realmente cresceu e hoje eles dividem momentos e perrengues. Gabriel quer um quarto com a sua personalidade, em que possa trabalhar com conforto e receber sua mulher que mora em outro Estado. Já Marina, quer um cômodo para relaxar, com boas soluções para suas leituras e sessões de filmes e séries. O arquiteto Alexandre Gedeon terá apenas 48 horas.</desc>
+    <credits>
+      <director>Tatiana De Lamare</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Reality Show)</category>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220319150000 -0300" stop="20220319153000 -0300" channel="GNT">
+    <title lang="pt">Tempero de Família</title>
+    <desc lang="pt">Rodrigo mostra o Paraguai, país de leste pantanoso, oeste semiárido, uma imensa frota fluvial e uma gastronomia que surpreende. Ele prepara Chipa, Sopa Paraguaia e um Pira Caldo.</desc>
+    <credits>
+      <director>Gigi Soares</director>
+      <actor>Rodrigo Hilbert</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S2 E20</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220319153000 -0300" stop="20220319160000 -0300" channel="GNT">
+    <title lang="pt">Tempero de Família</title>
+    <desc lang="pt">No último episódio da temporada, a cozinha brasileira. Rodrigo Hilbert cozinha caldo de tucupi com jambu, farofa, feijão manteiguinha e um peixe dourado na brasa.</desc>
+    <credits>
+      <director>Gigi Soares</director>
+      <actor>Rodrigo Hilbert</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S14 E35</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220319160000 -0300" stop="20220319163000 -0300" channel="GNT">
+    <title lang="pt">Tempero de Família</title>
+    <desc lang="pt">Rodrigo conversa com Beatrice Hansteins, uma carioca com sotaque alemão. Ele faz: biscoito de nata com geleia de pimenta.</desc>
+    <credits>
+      <director>Gigi Soares</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S14 E36</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220319163000 -0300" stop="20220319170000 -0300" channel="GNT">
+    <title lang="pt">Tempero de Família</title>
+    <desc lang="pt">Rodrigo vai ao Vale do Pavão conversar com Marcio e Ana sobre o cultivo de cogumelos. Rodrigo prepara: hiratake à milanesa.</desc>
+    <credits>
+      <director>Gigi Soares</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S12 E6</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220319170000 -0300" stop="20220319173000 -0300" channel="GNT">
+    <title lang="pt">Tempero de Família</title>
+    <desc lang="pt">Rodrigo inventa um porta facas usando peça antiga e, na cozinha, faz Bolo de bagaço de milho verde com coco, Suco de milho verde e Pastel de bagaço de milho com vinagrete de maxixe.</desc>
+    <credits>
+      <director>Gigi Soares</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S12 E5</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220319173000 -0300" stop="20220319180000 -0300" channel="GNT">
+    <title lang="pt">Tempero de Família</title>
+    <desc lang="pt">Rodrigo transforma fritadeiras em uma fruteira na oficina e na cozinha prepara milk-shake de banana congelada com caramelo, hamburguer de salsisha a milanesa e pão de casca de banana.</desc>
+    <credits>
+      <director>Gigi Soares</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S14 E11</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220319180000 -0300" stop="20220319183000 -0300" channel="GNT">
+    <title lang="pt">Perto do Fogo</title>
+    <desc lang="pt">Felipe Bronze prepara na grelha: vieiras com melancia, espeto de camarão com crosta de pistache, creme de ricota de pepino, caviar de berinjela, gnocchi de batata doce e prime rib com pó de café.</desc>
+    <credits>
+      <director>Claudia Castro</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S14 E12</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220319183000 -0300" stop="20220319190000 -0300" channel="GNT">
+    <title lang="pt">Perto do Fogo</title>
+    <desc lang="pt">Felipe Bronze faz tartare de pupunha e garoupa com crosta de palmito, palmito espaguete à carbonara e palmito assado nas cinzas da brasa com manteiga de ervas defumadas.</desc>
+    <credits>
+      <director>Olívia Guimarães</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220319190000 -0300" stop="20220319193000 -0300" channel="GNT">
+    <title lang="pt">Perto do Fogo</title>
+    <desc lang="pt">Felipe Bronze explora as diversas maneiras de preparar espinafre e faz creme de espinafre com peito de frango, salada de espinafre cru e salteado na brasa com cogumelos e fritada de espinafre.</desc>
+    <credits>
+      <director>Olívia Guimarães</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S3 E10</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220319193000 -0300" stop="20220319200000 -0300" channel="GNT">
+    <title lang="pt">Cozinha Prática com Rita Lobo</title>
+    <desc lang="pt">Rita Lobo mostra como tirar a combinação carne com salada do trivial: ela prepara um quibe assado com recheio soltinho e supersaboroso, servido com salada fatuche e molho de romã.</desc>
+    <credits>
+      <director>Sheila Kaomura</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220319200000 -0300" stop="20220319203000 -0300" channel="GNT">
+    <title lang="pt">Cozinha Prática com Rita Lobo</title>
+    <desc lang="pt">Rita Lobo mostra todos os truques para preparar um manjar de coco supercremoso, que não desmonta na hora de desenformar. Para acompanhar, tem ainda o passo a passo de uma deliciosa calda de ameixas.</desc>
+    <credits>
+      <director>Sheila Kaomura</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S12 E46</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220319203000 -0300" stop="20220319210000 -0300" channel="GNT">
+    <title lang="pt">Cozinha Prática com Rita Lobo</title>
+    <desc lang="pt">Rita Lobo mostra a melhor forma de preparar cada etapa do salpicão de frango, da escolha dos ingredientes à maionese caseira, e o resultado é uma salada deliciosa que vai muito além da ceia de Natal.</desc>
+    <credits>
+      <director>Sheila Kaomura</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S12 E50</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220319210000 -0300" stop="20220319213000 -0300" channel="GNT">
+    <title lang="pt">Cozinha Prática com Rita Lobo</title>
+    <desc lang="pt">Rita Lobo mostra todos os truques para preparar um lombinho de porco dourado por fora e macio por dentro, sem ressecar a carne. O lombo vai para a mesa com tomates assados e viradinho de milho.</desc>
+    <credits>
+      <director>Sheila Kaomura</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S12 E54</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220319213000 -0300" stop="20220319221500 -0300" channel="GNT">
+    <title lang="pt">Cozinha Prática com Rita Lobo</title>
+    <desc lang="pt">Neste episódio, Rita Lobo cozinha a quatro mãos com o ator Joaquim Lopes, que também é formado em gastronomia. No cardápio, tem pão de azeitonas e vinagrete de polvo.</desc>
+    <credits>
+      <director>Sheila Kaomura</director>
+      <actor>Rita Lobo</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S12 E58</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220319221500 -0300" stop="20220319230000 -0300" channel="GNT">
+    <title lang="pt">Cozinha Prática com Rita Lobo</title>
+    <desc lang="pt">O divertidíssimo ator Jefferson Schroeder é o convidado do Cozinha Prática. Juntos, ele e Rita Lobo preparam picadinho oriental de frango com arroz e banana caramelizada.</desc>
+    <credits>
+      <director>Sheila Kaomura</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries (Culinária)</category>
+    <episode-num system="onscreen">S12 E27</episode-num>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220319230000 -0300" stop="20220319233500 -0300" channel="GNT">
+    <title lang="pt">Happy Hour com Mariana Ximenes</title>
+    <desc lang="pt">Apreciando um Spritz, Mariana Ximenes curte a leveza do encontro com os atores Isis Valverde e Jonathan Azevedo e com a bartender Bianca Lima.</desc>
+    <credits>
+      <director>Rodrigo Séllos</director>
+      <actor>Mariana Ximenes</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Variedades (Entrevista)</category>
+    <episode-num system="onscreen">S12 E31</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220318003000 +0000" stop="20220318013000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Um Lugar ao Sol</title>
+    <desc lang="pt">Lara e Thaiane incentivam Noca a perdoar Aníbal. Bárbara é presa por abandonar Ludmila no carro. Noca deixa claro para Jerônimo que lutará pelos direitos de Thaiane. Santiago paga a fiança para Bárbara sair da prisão. Christian/Renato fica desolado ao saber que ele e Bárbara podem perder a guarda de Ludmila. Edgar e Rebeca se beijam. Nicole conta para Bárbara sobre o caso de Stephany e Christian/Renato.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/13159.jpg" />
+  </programme>
+  <programme start="20220318013000 +0000" stop="20220318024500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Big Brother Brasil 22</title>
+    <desc lang="pt">Tadeu Schmidt comanda os participantes da 22ª edição do reality show da Globo.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/10638.jpg" />
+  </programme>
+  <programme start="20220318024500 +0000" stop="20220318032500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Lady Night</title>
+    <desc lang="pt">Exibidos no Multishow em 2020 e 2021, episódios da quinta e da sexta temporada de ‘Lady Night’ compõem a terceira temporada do programa na TV Globo.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/14011.png" />
+  </programme>
+  <programme start="20220318032500 +0000" stop="20220318041500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/13628.jpg" />
+  </programme>
+  <programme start="20220318041500 +0000" stop="20220318045500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Apresentado por Pedro Bial, o Conversa com Bial recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/31.jpg" />
+  </programme>
+  <programme start="20220318045500 +0000" stop="20220318070000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Corujão I - Foxcatcher - Uma História Que Chocou O Mundo</title>
+    <title lang="en">Foxcatcher</title>
+    <desc lang="pt">Campeão olímpico de luta greco-romana, Mark Schultz sempre treinou com seu irmão mais velho, David, que é também uma lenda no esporte. Até que, um dia, recebe um convite para visitar o milionário John Du Pont em sua mansão. Apaixonado pelo esporte, Du Pont oferece a Mark que entre em sua própria equipe, a Foxcatcher, onde teria todas as condições necessárias para se aprimorar. Atraído pelo salário e as condições de vida oferecidas, Mark aceita a proposta e, assim, se muda para uma casa na propriedade do milionário. Aos poucos eles se tornam amigos, mas a difícil personalidade de Du Pont faz com que Mark acabe seguindo uma trilha perigosa para um atleta.</desc>
+    <credits>
+      <director>Bennett Miller</director>
+      <actor>Channing Tatum</actor>
+      <actor>Steve Carell</actor>
+      <actor>Mark Ruffalo</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/33.jpg" />
+    <country lang="pt">Americana</country>
+  </programme>
+  <programme start="20220318070000 +0000" stop="20220318090000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/13373.png" />
+  </programme>
+  <programme start="20220318090000 +0000" stop="20220318113000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Bom Dia RN</title>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/4414.png" />
+  </programme>
+  <programme start="20220318113000 +0000" stop="20220318123000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/7.jpg" />
+  </programme>
+  <programme start="20220318123000 +0000" stop="20220318134500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/10807.jpeg" />
+  </programme>
+  <programme start="20220318134500 +0000" stop="20220318144500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/571.jpg" />
+  </programme>
+  <programme start="20220318144500 +0000" stop="20220318160000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">RN 1</title>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/4436.png" />
+  </programme>
+  <programme start="20220318160000 +0000" stop="20220318162500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/36.jpg" />
+  </programme>
+  <programme start="20220318162500 +0000" stop="20220318174500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de César Tralli.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/20.jpg" />
+  </programme>
+  <programme start="20220318174500 +0000" stop="20220318183000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">O Cravo E A Rosa</title>
+    <desc lang="pt">Heitor pergunta para Dinorá se pode ir à loja trocar o sapato que não coube no seu pé e ela fica nervosa. Heitor pede mais dinheiro para Cornélio ameaçando contar para Dinorá que foi ele quem mandou raptar Josefa. Fábio conta para Celso que Lourdes o agarrou. Serafim conta para Muriel/Marcela que vai se encontrar com Petruchio e vai convencê-lo a se encontrar com ela. Petruchio beija Catarina e os dois acabam brigando. Lindinha finge que não sente falta de Januário, mas Neca não acredita nela. Petruchio diz que Catarina está com ciúmes em saber que ele vai sair. Josefina cobra Heitor sobre seu sequestrador e Cornélio entra. Edmundo confessa para Celso que se encantou por Bianca desde a primeira vez que a viu.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/13519.jpg" />
+  </programme>
+  <programme start="20220318183000 +0000" stop="20220318200500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Sessão da Tarde - Um Santo Vizinho</title>
+    <title lang="en">St. Vincent</title>
+    <desc lang="pt">Maggie acaba de se divorciar. Ela e o filho de 12 anos - fragilizado pela separação dos pais - se mudam. Um vizinho, St. Vincent De Van Nuys , se aproxima deles e se oferece para cuidar do menino. Depois de hesitar, Maggie aceita, pois é enfermeira e faz plantões de madrugada.Uma grande amizade nasce entre o menino e o veterano de guerra, Vincent. Apesar de ele não ser a pessoa mais indicada para cuidar de uma criança, essa amizade faz muito bem ao menino.</desc>
+    <credits>
+      <director>Theodore Melfi</director>
+      <actor>Bill Murray. Personagem : St. Vincent de Van Nuys</actor>
+      <actor>Melissa McCarthy. Personagem : Maggie</actor>
+      <actor>Jaeden Martell. Personagem : Oliver</actor>
+      <actor>Naomi Watts</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/22.jpg" />
+    <country lang="pt">Americana</country>
+  </programme>
+  <programme start="20220318200500 +0000" stop="20220318212500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Vale a Pena Ver de Novo - O Clone</title>
+    <desc lang="pt">Maysa preocupada porque Mel não voltou para casa. Yvete fica atordoada quando Leo revela que é Leandro Edvaldo, filho da Deusa. Yvete fica furiosa porque deduz que Leo é filho de Deusa com Leônidas. Ela se lembra que Leônidas estava na maternidade no dia do nascimento dele e garante que vai colocar Leo diante de Leônidas. Todos procuram por Mel, que já está fora há dois dias. Mel avisa Xande que está em Angra com Regininha. Laurinda avisa Deusa que Yvete está voltando, furiosa com ela. Deusa não entende nada. Albieri fica sabendo que Leo e Yvete viajaram para o Brasil. Said avisa à filha que a mãe não volta nunca mais. Jade cobra de Lucas só uma coisa: sua filha. Said conta para a filha que Jade foi embora por opção. Ela sai correndo chorando.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/23.jpg" />
+  </programme>
+  <programme start="20220318212500 +0000" stop="20220318221000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Além da Ilusão</title>
+    <desc lang="pt">O plano de Úrsula dá certo, e Joaquim despista as acusações do técnico. Heloísa conhece Clarinha por acaso. Davi decide pedir Isadora em namoro. Para evitar seus sentimentos por Rafael, Isadora decide noivar com Joaquim. Mariana questiona Inácio sobre quando revelará a Arminda que é irmão de Clarinha. Heloísa se oferece para ficar com Clarinha até que a casa de Inácio esteja restaurada. Violeta confessa a Rafael que não gosta de Joaquim. Tenório aconselha Olívia. Inácio reconhece Julinha no cassino. Inácio se declara para Arminda. Isadora hesita quando Joaquim pergunta se ela o ama.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/14212.jpg" />
+  </programme>
+  <programme start="20220318221000 +0000" stop="20220318224000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">RN 2</title>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/4439.png" />
+  </programme>
+  <programme start="20220318224000 +0000" stop="20220318233000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Quanto Mais Vida, Melhor!</title>
+    <desc lang="pt">Celina melhora de seu mal-estar, mas mente para manter Guilherme/Flávia ao seu lado. Neném/Paula pede para Nedda não comentar com Paula/Neném que ele destratou Rose. Gabriel e Leona se beijam. Roni tenta ameaçar Flávia/Guilherme, que usa Tucão para assustá-lo. Guilherme/Flávia cuida de Celina. Nedda conta sobre a briga que Neném/Paula teve com Rose, e Paula/Neném fica furiosa. Guilherme/Flávia decide comprar o bar de Teca para abrir a padaria de Juca. Neném/Paula se desespera quando Nedda avisa que Paula/Neném foi falar com Rose. Rose decide ir com Tigrão, Tina e a turma para São Paulo. Carmem gosta de ver Gabriel e Leona juntos. Guilherme/Flávia procura Tucão na Pulp Fiction. Paula/Neném começa a falar sobre a troca de corpos para Rose.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/13334.jpg" />
+  </programme>
+  <programme start="20220318233000 +0000" stop="20220319003000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/1526.png" />
+  </programme>
+  <programme start="20220319003000 +0000" stop="20220319011500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Um Lugar ao Sol</title>
+    <desc lang="pt">Bárbara choca Christian/Renato ao dizer ao juiz que deseja devolver Ludmila. Christian/Renato jura que lutará por Ludmila. Rebeca e Nicole tentam reerguer Bárbara. Cecília discute com Rebeca. Santiago pede a Christian/Renato o imediato afastamento da Redentor e avisa que ocupará o cargo da presidência. Cecília decide aceitar uma proposta de trabalho em Milão.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/13159.jpg" />
+  </programme>
+  <programme start="20220319011500 +0000" stop="20220319020000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Big Brother Brasil 22</title>
+    <desc lang="pt">Tadeu Schmidt comanda os participantes da 22ª edição do reality show da Globo.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/10638.jpg" />
+  </programme>
+  <programme start="20220319020000 +0000" stop="20220319025000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Globo Repórter</title>
+    <desc lang="pt">Com apresentação de Glória Maria e Sandra Annenberg, o ‘Globo Repórter’ é o jornalístico documental que vai ao ar nas noites de sexta-feira.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/14460.png" />
+  </programme>
+  <programme start="20220319025000 +0000" stop="20220319033500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Sessão Globoplay - S.W.A.T.</title>
+    <desc lang="pt">Dividido entre a corporação e as ruas, o tenente Daniel Harrelson encara a missão de liderar uma unidade do Esquadrão de Armas e Táticas Especiais na comunidade onde cresceu.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/7077.jpg" />
+  </programme>
+  <programme start="20220319033500 +0000" stop="20220319042500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/13628.jpg" />
+  </programme>
+  <programme start="20220319042500 +0000" stop="20220319050500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Apresentado por Pedro Bial, o Conversa com Bial recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/31.jpg" />
+  </programme>
+  <programme start="20220319050500 +0000" stop="20220319062500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Corujão I - Sabotagem</title>
+    <title lang="en">Sabotage</title>
+    <desc lang="pt">Membros de uma força tarefa de elite da agência antidrogas dos EUA roubam o quartel general de um cartel de drogas. A situação se complica quando eles começam a morrer pouco a pouco.</desc>
+    <credits>
+      <director>David Ayer</director>
+      <actor>Arnold Schwarzenegger</actor>
+      <actor>Sam Worthington</actor>
+      <actor>Olivia Williams</actor>
+      <actor>Josh Holloway e Mireille Enos</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/33.jpg" />
+    <country lang="pt">Americana</country>
+  </programme>
+  <programme start="20220319062500 +0000" stop="20220319073000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Corujão II - A Floresta Que Se Move</title>
+    <title lang="en">A Floresta Que Se Move</title>
+    <desc lang="pt">Elias é um bem sucedido empresário do segundo maior banco do Brasil. Seu destino muda no momento em que ele encontra uma misteriosa flautista que se diz vidente. Ela afirma que, naquele dia, ele se tornará vice-presidente e que, no dia seguinte, o homem seria presidente do banco. Quando ele conta a história para sua esposa, a ambiciosa Clara, ela sugere que o casal convide o presidente do banco para jantar em casa naquela noite, para que o marido suba de posição na empresa. Só que o plano arquitetado por Clara culminará em uma série de assassinatos, em uma busca desenfreada por poder.</desc>
+    <credits>
+      <director>Vinicius Coimbra</director>
+      <actor>Gabriel Braga Nunes</actor>
+      <actor>Ana Paula Arosio</actor>
+      <actor>Nelson Xavier</actor>
+      <actor>Angelo Antonio</actor>
+      <actor>Fernando Alves Pinto</actor>
+      <actor>Tatsu Carvalho</actor>
+      <actor>Rui Ricardo Diaz</actor>
+      <actor>Miriam Freeland</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/33.jpg" />
+    <country lang="pt">Brasileira</country>
+  </programme>
+  <programme start="20220319073000 +0000" stop="20220319090000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Corujão III - A Ressurreição De Gavin Stone</title>
+    <title lang="en">The Resurrection Of Gavin Stone</title>
+    <desc lang="pt">Gavin Stone é um ex-astro infantil que é forçado a fazer serviço comunitário em uma igreja local. Ele finge ser cristão para conseguir o papel de Jesus em uma peça na Paixão de Cristo.</desc>
+    <credits>
+      <director>Dallas Jenkins</director>
+      <actor>Brett Dalton</actor>
+      <actor>Anjelah Johnson</actor>
+      <actor>Shawn Michales</actor>
+      <actor>Neil Flynn</actor>
+    </credits>
+    <category lang="pt">Comédia dramática</category>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/33.jpg" />
+    <country lang="pt">Americana</country>
+  </programme>
+  <programme start="20220319090000 +0000" stop="20220319095000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Globo Repórter</title>
+    <desc lang="pt">Com apresentação de Glória Maria e Sandra Annenberg, o ‘Globo Repórter’ é o jornalístico documental que vai ao ar nas noites de sexta-feira.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/14460.png" />
+  </programme>
+  <programme start="20220319095000 +0000" stop="20220319105000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Resenhas do RN</title>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/4446.png" />
+  </programme>
+  <programme start="20220319105000 +0000" stop="20220319144500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">É de Casa</title>
+    <desc lang="pt">Ana Furtado, André Marques, Cissa Guimarães e Patrícia Poeta comandam programa de variedades das manhãs de sábado, ao vivo.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/47.jpg" />
+  </programme>
+  <programme start="20220319144500 +0000" stop="20220319160000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">RN 1</title>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/4436.png" />
+  </programme>
+  <programme start="20220319160000 +0000" stop="20220319162500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/36.jpg" />
+  </programme>
+  <programme start="20220319162500 +0000" stop="20220319171000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de César Tralli.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/20.jpg" />
+  </programme>
+  <programme start="20220319171000 +0000" stop="20220319175000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Rota Inter TV</title>
+    <desc lang="pt">Programa de Aventura.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/4448.png" />
+  </programme>
+  <programme start="20220319175000 +0000" stop="20220319181500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">O Melhor Da Escolinha</title>
+    <desc lang="pt">Em 'O Melhor da Escolinha', o público verá uma seleção de episódios da quarta, quinta e sexta temporadas, exibidas originalmente em 2018, 2019 e 2020.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/11919.jpg" />
+  </programme>
+  <programme start="20220319181500 +0000" stop="20220319194500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Sessão De Sábado - Footloose - Ritmo Louco</title>
+    <title lang="en">Footloose (1984)</title>
+    <desc lang="pt">Recém-chegado de Chicago, Ren McCormak fica frustrado quando descobre que a pequena cidade proíbe a dança e a música de rock. Enquanto se esforça para se ajustar, Ren enfrenta uma árdua batalha para mudar a situação. Com a ajuda de um amigo, Willard Hewitt e da adolescente rebelde Ariel Moore, ele talvez consiga liberar esta cidade conservadora. Mas o pai influente de Ariel, o reverendo Shaw Moore se torna um obstáculo.</desc>
+    <credits>
+      <director>Herbert Ross</director>
+      <actor>Kevin Bacon. Personagem : Ren McCormack</actor>
+      <actor>Lori Singer. Personagem : Ariel Moore</actor>
+      <actor>John Lithgow. Personagem : Reverend Shaw Moore</actor>
+      <actor>Dianne Wiest.</actor>
+    </credits>
+    <category lang="pt">Drama, música</category>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/8901.jpg" />
+    <country lang="pt">Americana</country>
+  </programme>
+  <programme start="20220319194500 +0000" stop="20220319213500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Caldeirão</title>
+    <desc lang="pt">Apresentado por Marcos Mion, a nova versão do 'Caldeirão' traz alguns quadros já conhecidos do público e atrações inéditas.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/12386.png" />
+  </programme>
+  <programme start="20220319213500 +0000" stop="20220319222000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Além da Ilusão</title>
+    <desc lang="pt">Por trás de muitas ilusões está a força de um sentimento sublime capaz de reparar injustiças e aproximar um casal improvável: o mágico Davi e a aspirante a modista Isadora. Ele faz do ilusionismo sua arte e seu meio de sobreviver. Ela tem os pés no chão e mira horizontes mais promissores, principalmente, no mundo do trabalho. De forma surpreendente, seus destinos se cruzarão e, unidos por um trauma do passado, terão um no outro uma chance de ressignificar suas trajetórias.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/14212.jpg" />
+  </programme>
+  <programme start="20220319222000 +0000" stop="20220319224500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">RN 2</title>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/4439.png" />
+  </programme>
+  <programme start="20220319224500 +0000" stop="20220319233000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Quanto Mais Vida, Melhor!</title>
+    <desc lang="pt">Na trama, Neném, Paula, Guilherme e Flávia não se conheciam até o dia em que o destino os coloca dentro do mesmo avião. Após passarem juntos pela experiência de encarar a Morte, eles ganham uma segunda chance.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/13334.jpg" />
+  </programme>
+  <programme start="20220319233000 +0000" stop="20220320002500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/1526.png" />
   </programme>
 </tv>
