@@ -376,125 +376,6 @@
   <channel id="ClaroTV Campeonato Carioca2">
     <display-name lang="pt">ClaroTV Campeonato Carioca 2</display-name>
   </channel>
-  <programme start="20220818002000 +0000" stop="20220818023000 +0000" channel="Inter TV RN - natal">
-    <title lang="pt">Copa Do Brasil - Athletico/PR X Flamengo</title>
-    <desc lang="pt">Siga ao vivo o Brasileirão, a Copa do Brasil e mais.</desc>
-    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/14066.png" />
-  </programme>
-  <programme start="20220818023000 +0000" stop="20220818024500 +0000" channel="Inter TV RN - natal">
-    <title lang="pt">Segue o Jogo</title>
-    <desc lang="pt">Lucas Gutierrez comanda o programa que aborda os jogos de forma leve e divertida, com influência da internet, explorando memes, grandes imagens da rodada e até figurinhas das redes sociais. As análises de jogadas, lances polêmicos e desempenho das equipes ficam a cargo do comentarista Paulo Nunes.</desc>
-    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/8048.JPG" />
-  </programme>
-  <programme start="20220818024500 +0000" stop="20220818033000 +0000" channel="Inter TV RN - natal">
-    <title lang="pt">Que História É Essa Porchat?</title>
-    <desc lang="pt">Fábio Porchat propõe a famosos e anônimos compartilharem sua experiências inesquecíveis, engraçadas e até mesmo assustadoras. Exibido originalmente pelo canal GNT.</desc>
-    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/14707.png" />
-  </programme>
-  <programme start="20220818033000 +0000" stop="20220818042000 +0000" channel="Inter TV RN - natal">
-    <title lang="pt">Jornal da Globo</title>
-    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.</desc>
-    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/13628.jpg" />
-  </programme>
-  <programme start="20220818042000 +0000" stop="20220818050000 +0000" channel="Inter TV RN - natal">
-    <title lang="pt">Conversa com Bial</title>
-    <desc lang="pt">A Conversa é sobre Lygia Marina de Sá Leitão Pires de Moraes ou, simplesmente, a Lígia da música do Tom. Uma geração de grandes mulheres como Danuza Leão, Leila Diniz, Duda Cavalcanti e Ira Etz fizeram de Ipanema um ícone da emancipação dos desejos e liberdades femininas. Além de Lygia Marina, o programa terá a participação do jornalista Joaquim Ferreira dos Santos.</desc>
-    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/31.jpg" />
-  </programme>
-  <programme start="20220818050000 +0000" stop="20220818054000 +0000" channel="Inter TV RN - natal">
-    <title lang="pt">Reapresentação Novela II - Cara E Coragem</title>
-    <desc lang="pt">Ítalo revela a Anita que tinha um relacionamento com Clarice. Lou convida Rico para almoçar. Regina, Leonardo e Danilo analisam as fotos da sala de inteligência. Lou e Rico se beijam pela primeira vez. Jonathan afirma a Pat que Ítalo não matou Clarice. Jéssica avisa a Duarte que Lou e Rico estão juntos. Pat e Alfredo conversam com Gui e Sossô sobre a separação. Chega o dia da audiência da guarda de Chiquinho. Jéssica convence Lucas de que não tem namorado e os dois se beijam. Lou conta para Olívia que beijou Rico. Anita encontra fotos de Jonathan com Clarice.</desc>
-    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/15228.jpg" />
-  </programme>
-  <programme start="20220818054000 +0000" stop="20220818062000 +0000" channel="Inter TV RN - natal">
-    <title lang="pt">Comédia Na Madruga I</title>
-    <desc lang="pt">Exibição da primeira temporada do Vai Que Cola.</desc>
-    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/15241.jpg" />
-  </programme>
-  <programme start="20220818062000 +0000" stop="20220818070000 +0000" channel="Inter TV RN - natal">
-    <title lang="pt">Comédia Na Madruga II</title>
-    <desc lang="pt">Exibição da primeira temporada do Vai Que Cola.</desc>
-    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/15242.jpg" />
-  </programme>
-  <programme start="20220818070000 +0000" stop="20220818090000 +0000" channel="Inter TV RN - natal">
-    <title lang="pt">Hora Um</title>
-    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.</desc>
-    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/13373.png" />
-  </programme>
-  <programme start="20220818090000 +0000" stop="20220818113000 +0000" channel="Inter TV RN - natal">
-    <title lang="pt">Bom Dia RN</title>
-    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/4414.png" />
-  </programme>
-  <programme start="20220818113000 +0000" stop="20220818123000 +0000" channel="Inter TV RN - natal">
-    <title lang="pt">Bom Dia Brasil</title>
-    <desc lang="pt">O telejornal, com apresentação de Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.</desc>
-    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/7.jpg" />
-  </programme>
-  <programme start="20220818123000 +0000" stop="20220818133500 +0000" channel="Inter TV RN - natal">
-    <title lang="pt">Encontro Com Patrícia Poeta</title>
-    <desc lang="pt">Patrícia Poeta, ao lado de Manoel Soares, comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.</desc>
-    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/15422.jpg" />
-  </programme>
-  <programme start="20220818133500 +0000" stop="20220818144500 +0000" channel="Inter TV RN - natal">
-    <title lang="pt">Mais Você</title>
-    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.</desc>
-    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/10807.jpeg" />
-  </programme>
-  <programme start="20220818144500 +0000" stop="20220818160000 +0000" channel="Inter TV RN - natal">
-    <title lang="pt">RN 1</title>
-    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/4436.png" />
-  </programme>
-  <programme start="20220818160000 +0000" stop="20220818162500 +0000" channel="Inter TV RN - natal">
-    <title lang="pt">Globo Esporte</title>
-    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.</desc>
-    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/36.jpg" />
-  </programme>
-  <programme start="20220818162500 +0000" stop="20220818174500 +0000" channel="Inter TV RN - natal">
-    <title lang="pt">Jornal Hoje</title>
-    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de César Tralli.</desc>
-    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/20.jpg" />
-  </programme>
-  <programme start="20220818174500 +0000" stop="20220818183000 +0000" channel="Inter TV RN - natal">
-    <title lang="pt">O Cravo E A Rosa</title>
-    <desc lang="pt">Dinorá descobre que Cornélio pegou seu colar e que suas outras joias são falsas. Cornélio passa a se hospedar no hotel Royal. Médico faz tratamento de choque em Mudinho, que grita de dor. Serafim demite Heitor da revista. Delegado espiona Petruchio. Heitor leva Bianca para ver Edmundo. Bianca se choca ao ver Edmundo como mendigo e ele a incentiva a se casar com Heitor. Dalva revela a Dinorá que planejou flagra. Catarina desmaia novamente. Serafim quer contratar médico para atestar loucura de Joaquim. Josefa revela que nunca foi santa e que vai apresentar Heitor a seu pai.</desc>
-    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/13519.jpg" />
-  </programme>
-  <programme start="20220818183000 +0000" stop="20220818195500 +0000" channel="Inter TV RN - natal">
-    <title lang="pt">Sessão da Tarde - A Vingança Das Damas De Honra</title>
-    <title lang="en">&lt;br&gt;Revenge of the Bridesmaids</title>
-    <desc lang="pt">Quando Abigail e Parker chegam de Nova York a sua cidade natal, descobrem que a melhor amiga delas, Rachel, será madrinha de casamento de Tony, ex namorado de Rachel, e Caitlyn, responsável pelo fim do namoro. Então, Abigail e Parker convencem a noiva a torna-las madrinhas, mas o que querem mesmo é corrigir o que consideram uma injustiça.</desc>
-    <credits>
-      <director>&lt;br&gt;James Hayman</director>
-      <actor>&lt;br&gt;Raven-Symone</actor>
-    </credits>
-    <category lang="pt">&lt;br&gt;Filme</category>
-    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/22.jpg" />
-    <country lang="pt">&lt;br&gt;Americana</country>
-  </programme>
-  <programme start="20220818195500 +0000" stop="20220818211500 +0000" channel="Inter TV RN - natal">
-    <title lang="pt">Vale a Pena Ver de Novo - A Favorita</title>
-    <desc lang="pt">Lara liga para Cilene e a chama para jantar no rancho com ela e com a família dela. Cilene fica nervosa, mas aceita. Cilene desabafa com Silveirinha que Lara e Halley na~o podem namorar e ameaça contar a verdade para os Fontini. Flora decide dar um jeito em e pede ajuda a Dodi. Halley e´ sequestrado a caminho do jantar. Flora conta a Cilene sobre o sequestro de Halley e faz ameac¸as caso ela abra a boca. Halley chega ao rancho e diz que foi sequestrado. Cilene da´ uma carta para Luma entregar a Halley, caso lhe aconteça alguma coisa.</desc>
-    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/23.jpg" />
-  </programme>
-  <programme start="20220818211500 +0000" stop="20220818221000 +0000" channel="Inter TV RN - natal">
-    <title lang="pt">Além da Ilusão</title>
-    <desc lang="pt">Por trás de muitas ilusões está a força de um sentimento sublime capaz de reparar injustiças e aproximar um casal improvável: o mágico Davi e a aspirante a modista Isadora. Ele faz do ilusionismo sua arte e seu meio de sobreviver. Ela tem os pés no chão e mira horizontes mais promissores, principalmente, no mundo do trabalho. De forma surpreendente, seus destinos se cruzarão e, unidos por um trauma do passado, terão um no outro uma chance de ressignificar suas trajetórias.</desc>
-    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/14212.jpg" />
-  </programme>
-  <programme start="20220818221000 +0000" stop="20220818224000 +0000" channel="Inter TV RN - natal">
-    <title lang="pt">RN 2</title>
-    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/4439.png" />
-  </programme>
-  <programme start="20220818224000 +0000" stop="20220818233000 +0000" channel="Inter TV RN - natal">
-    <title lang="pt">Cara e Coragem</title>
-    <desc lang="pt">Anita discute com Jonathan e termina o namoro. Moa se irrita quando Armandinho é chamado como testemunha de Rebeca. Pat pede para conversar com Danilo. Andréa se incomoda com a presença de Pat no fórum. Hugo se interessa por Enzo. Renan intimida Ísis para enganar Lou. Moa permanece com a guarda de Chiquinho e comemora com Pat, Andréa e Milton. Martha questiona por que Jonathan quer manter Leonardo afastado dos avanços da pesquisa. Regina chantageia Leonardo para seguir com os planos do casamento. Dalva encontra Anita na casa de Ítalo. Pat confirma para Danilo que está com a fórmula.</desc>
-    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/15228.jpg" />
-  </programme>
-  <programme start="20220818233000 +0000" stop="20220819003000 +0000" channel="Inter TV RN - natal">
-    <title lang="pt">Jornal Nacional</title>
-    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.</desc>
-    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/1526.png" />
-  </programme>
   <programme start="20220819003000 +0000" stop="20220819013500 +0000" channel="Inter TV RN - natal">
     <title lang="pt">Pantanal</title>
     <desc lang="pt">Alcides leva Maria Bruaca para à tapera de Juma, com a intenção de armar uma armadilha para Tenório. Tenório pensa em comprar o direito de posse das terras ocupadas por Juma como vingança contra José Leôncio. Trindade pede a Irma para esquecê-lo. Zaquieu causa surpresa em todos na fazenda, ao dizer que viu a viola de Trindade tocar sozinha. Juma expulsa Tenório de sua tapera. Trindade diz a Tibério que será melhor para o filho se ele deixar a fazenda. Guta comenta com Zuleica que pensa em propor a Marcelo que os dois deixem o Pantanal.</desc>
@@ -502,7 +383,7 @@
   </programme>
   <programme start="20220819013500 +0000" stop="20220819023500 +0000" channel="Inter TV RN - natal">
     <title lang="pt">Filhas De Eva</title>
-    <desc lang="pt">Três mulheres fortes e independentes. Recordações de uma vida inteira. Consequências e impactos de decisões importantes são o pano de fundo deste drama leve, com pinceladas de humor cotidiano e que levanta reflexões comuns a todos.</desc>
+    <desc lang="pt">É com a lembrança do dia em que conheceu o homem que se tornaria seu marido que Stella arma com Ademar o plano de resgate do dinheiro no exterior. No último episódio de ‘Filhas de Eva’, que vai ao ar nesta quinta, dia 18, enquanto o advogado se livra das notas marcadas, Stellla arruma as malas com destino a Paris.</desc>
     <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/15428.jpg" />
   </programme>
   <programme start="20220819023500 +0000" stop="20220819032000 +0000" channel="Inter TV RN - natal">
@@ -737,5 +618,123 @@
     <title lang="pt">Jornal Nacional</title>
     <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.</desc>
     <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/1526.png" />
+  </programme>
+  <programme start="20220821002500 +0000" stop="20220821013000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Pantanal</title>
+    <desc lang="pt">'Pantanal' é uma saga familiar que tem o amor como fio condutor e a natureza como protagonista. A obra escrita há mais de 30 anos por Benedito Ruy Barbosa chega à TV Globo em 2022, em uma nova versão escrita pelo autor Bruno Luperi.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/14761.jpg" />
+  </programme>
+  <programme start="20220821013000 +0000" stop="20220821032000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Altas Horas</title>
+    <desc lang="pt">Serginho Groisman comanda a atração, que abre espaço para boa música, encontros inesperados e entrevistas com personalidades.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/8399.png" />
+  </programme>
+  <programme start="20220821032000 +0000" stop="20220821051000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Supercine - Sexy Por Acidente</title>
+    <title lang="en">&lt;br&gt;I Feel Pretty</title>
+    <desc lang="pt">Renee é uma mulher comum que tem dificuldades em lidar com os padrões de beleza da sociedade. Após sofrer um acidente, ela acorda sentindo-se muito mais confiante e bonita, o que influencia tudo ao seu redor.</desc>
+    <credits>
+      <director>&lt;br&gt;Abby Kohn</director>
+      <actor>&lt;br&gt;Amy Schumer</actor>
+      <actor>Emily Ratajkowski</actor>
+      <actor>Michelle Williams</actor>
+      <actor>Tom Hopper</actor>
+    </credits>
+    <category lang="pt">&lt;br&gt;Filme</category>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/54.jpg" />
+    <country lang="pt">&lt;br&gt;China</country>
+  </programme>
+  <programme start="20220821051000 +0000" stop="20220821055000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Reapresentação Novela II - Cara E Coragem</title>
+    <desc lang="pt">Cara e Coragem’ é uma comédia romântica de ação embalada por aventura e mistérios. Quando o resgate de uma fórmula secreta e uma morte inesperada entrelaçam os destinos dos dublês Pat e Moa, da empresária Clarice Gusmão e do instrutor de parkour Ítalo, a coragem de todos é posta à prova.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/15228.jpg" />
+  </programme>
+  <programme start="20220821055000 +0000" stop="20220821072500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Corujão I - Ladrões</title>
+    <title lang="en">&lt;br&gt;Takers</title>
+    <desc lang="pt">Um grupo de ladrões de banco, acostumados a executar assaltos sem deixar vestígios, resolve realizar um último e audacioso serviço. No entanto, para faturar uma bolada de US$ 20 milhões, eles irão enfrentar o detetive Jack Welles, que está determinado a impedir os planos do grupo e colocá-los atrás das grades de uma vez por todas.</desc>
+    <credits>
+      <director>&lt;br&gt;John Luessenhop</director>
+      <actor>&lt;br&gt;Chris Brown</actor>
+    </credits>
+    <category lang="pt">&lt;br&gt;Filme</category>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/33.jpg" />
+    <country lang="pt">&lt;br&gt;Americana</country>
+  </programme>
+  <programme start="20220821072500 +0000" stop="20220821090000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Corujão II - Castelos De Gelo</title>
+    <title lang="en">&lt;br&gt;Ice Castles</title>
+    <desc lang="pt">A jovem, bela e talentosa Alexis Winston surge do nada para se tornar uma estrela da patinação artística. Mas sua jornada ao estrelato não é fácil. Ela tem que se superar, se reinventar e, o mais doloroso, deixar o seu namorado em sua cidade natal. Quando uma queda trágica a deixa cega, ela precisa de alguém que acredite nela e a ame, de alguém que possa convencê-la de que ela tem a força para patinar e para sonhar novamente.</desc>
+    <credits>
+      <director>&lt;br&gt;Donald Wrye</director>
+      <actor>&lt;br&gt;Taylor Firth</actor>
+    </credits>
+    <category lang="pt">&lt;br&gt;Filme</category>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/33.jpg" />
+    <country lang="pt">&lt;br&gt;Canadense/Americana</country>
+  </programme>
+  <programme start="20220821090000 +0000" stop="20220821095000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Santa Missa</title>
+    <desc lang="pt">Padre Marcelo Rossi celebra todos os domingos missa para todo o Brasil. Mais antigo programa da Globo, a Santa Missa foi transmitida pela primeira vez em fevereiro de 1968.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/55.jpg" />
+  </programme>
+  <programme start="20220821095000 +0000" stop="20220821102000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Inter TV Rural</title>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/2282.jpg" />
+  </programme>
+  <programme start="20220821102000 +0000" stop="20220821110500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
+    <desc lang="pt">Novidades e informação para quem quer investir e empreender no Brasil.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/57.jpg" />
+  </programme>
+  <programme start="20220821110500 +0000" stop="20220821122500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Globo Rural</title>
+    <desc lang="pt">As principais notícias do agronegócio, os índices do setor, informações sobre a vida no campo, além de reportagens especiais.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5309.png" />
+  </programme>
+  <programme start="20220821122500 +0000" stop="20220821130000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Auto Esporte</title>
+    <desc lang="pt">As principais notícias sobre o universo dos automóveis.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/59.jpg" />
+  </programme>
+  <programme start="20220821130000 +0000" stop="20220821153000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Esporte Espetacular</title>
+    <desc lang="pt">Além de transmitir partidas e campeonatos ao vivo, o programa semanal apresenta os destaques do mundo esportivo, entrevistas e reportagens especiais.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/4164.jpg" />
+  </programme>
+  <programme start="20220821153000 +0000" stop="20220821172000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Temperatura Máxima - A Bela E A Fera</title>
+    <title lang="en">&lt;br&gt; Beauty And The Beast</title>
+    <desc lang="pt">Moradora de uma pequena aldeia francesa, Bela tem o pai capturado pela Fera e decide entregar sua vida ao estranho ser em troca da liberdade dele. No castelo, ela conhece objetos mágicos e descobre que a Fera é, na verdade, um príncipe que precisa de amor para voltar à forma humana.</desc>
+    <credits>
+      <director>&lt;br&gt;Bill Condon</director>
+      <actor>&lt;br&gt;Luke Evans</actor>
+      <actor>Kevin Kline</actor>
+      <actor>Dan Stevens</actor>
+      <actor>Emma Watson.</actor>
+    </credits>
+    <category lang="pt">&lt;br&gt;Filme</category>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/63.jpg" />
+    <country lang="pt">&lt;br&gt;Americana</country>
+  </programme>
+  <programme start="20220821172000 +0000" stop="20220821185000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Pipoca Da Ivete</title>
+    <desc lang="pt">Neste domingo, dia 20, o 'Pipoca da Ivete' estará mais baiano do que nunca: é dia de Veveta receber Compadre Washington e Beto Jamaica. Juntos, eles cantam grandes sucessos do 'É o Tchan' como 'Pau que Nasce Torto' e 'A Dança do Bumbum'. Além disso, os dois participam do 'Jogo do Sofá' competindo com a dupla Érico Brás e Giovanna Lancellotti. Já no 'Duelo de Família' é a vez do ator Marcos Veras, o Enrico de 'Além da Ilusão', testar suas habilidades ao lado de Mainha em brincadeiras inusitadas e com muita diversão. Eles jogam no 'Dá uma Espiadinha' e no 'Tem gosto de que?'.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/15508.jpg" />
+  </programme>
+  <programme start="20220821185000 +0000" stop="20220821210000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Campeonato Brasileiro A - Palmeiras X Flamengo</title>
+    <desc lang="pt">Siga ao vivo o Brasileirão, a Copa do Brasil e mais.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/14066.png" />
+  </programme>
+  <programme start="20220821210000 +0000" stop="20220821233000 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Domingão Com Huck</title>
+    <desc lang="pt">‘Domingão com Huck’ leva aos brasileiros entretenimento, diversão, emoção e novas descobertas nos quadros ‘Show dos famosos’ e ‘Quem quer ser um milionário?’ e em matérias especiais pelo país.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/12396.jpg" />
+  </programme>
+  <programme start="20220821233000 +0000" stop="20220822022500 +0000" channel="Inter TV RN - natal">
+    <title lang="pt">Fantástico</title>
+    <desc lang="pt">Reportagens especiais e as notícias mais importantes da semana, com apresentação de Maju Coutinho e Poliana Abritta.</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/1527.jpeg" />
   </programme>
 </tv>
