@@ -39693,4 +39693,1201 @@
       <value>5</value>
     </rating>
   </programme>
+  <programme start="20220906050000 +0000" stop="20220906060000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Brusque x Vasco - Campeonato Brasileiro - Série B : Brusque x Vasco</title>
+    <sub-title lang="pt">Brusque x Vasco</sub-title>
+    <desc lang="pt">Pela 28ª rodada, o Brusque recebe o Vasco no Estádio Augusto Bauer, em Santa Catarina. Na 16ª posição, o time da casa é o primeiro fora do Z4 e não vence há três partidas. Já o Cruzmaltino pode assumir a vice-liderança com uma nova vitória.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/79/12791307_2C5B86893A9B52E5.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906060000 +0000" stop="20220906070000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Bragantino x Palmeiras - Campeonato Brasileiro : Bragantino x Palmeiras</title>
+    <sub-title lang="pt">Bragantino x Palmeiras</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Bragantino recebe o Palmeiras no Estádio Nabi Abi Chedid, em Bragança Paulista. O Braga não vence há quatro rodadas e agora tem a dura missão de vencer o atual líder do torneio, um dos melhores times do país.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/79/12791341_74699C4B8D118AFC.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906070000 +0000" stop="20220906080000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Corinthians x Internacional - Campeonato Brasileiro : Corinthians x Internacional</title>
+    <sub-title lang="pt">Corinthians x Internacional</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Corinthians recebe o Internacional na Neo Química Arena, em São Paulo. O Timão tenta permanecer no G4 do Brasileirão e precisa do resultado em um dos maiores clássicos do Brasil. Já o Colorado é justamente o quinto colocado.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/82/12825647_D5C025FDE0D8375A.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906080000 +0000" stop="20220906090000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Fortaleza x Botafogo - Campeonato Brasileiro : Fortaleza x Botafogo</title>
+    <sub-title lang="pt">Fortaleza x Botafogo</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Fortaleza recebe o Botafogo na Arena Castelão, em Fortaleza. O Leão do Pici vem em grande ascensão no campeonato, com cinco vitórias seguidas, agora em 11º. Já o Glorioso está a apenas dois pontos do Z4, em 14º lugar.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/80/12801303_A2BB20881BD2A7C6.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906090000 +0000" stop="20220906100000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Atlético-GO x Atlético-MG - Campeonato Brasileiro : Atlético-GO x Atlético-MG</title>
+    <sub-title lang="pt">Atlético-GO x Atlético-MG</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Atlético-GO recebe o Atlético-MG no Estádio Antônio Accioly, em Goiânia. O Dragão é o vice-lanterna do torneio e tenta somar pontos para escapar da degola. Já o Galo está fora da zona da Libertadores, na sétima posição.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/80/12801439_EAE97D0B984E203B.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906100000 +0000" stop="20220906110000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Cuiabá x São Paulo - Campeonato Brasileiro : Cuiabá x São Paulo</title>
+    <sub-title lang="pt">Cuiabá x São Paulo</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Cuiabá recebe o São Paulo na Arena Pantanal, em Cuiabá. O time da casa é o primeiro dentro da degola, sem perder há três jogos. E agora, busca sair do Z4 contra o Tricolor Paulista, que venceu um jogo nos últimos cinco.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/75/12753901_BCE78E5B790949EC.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906110000 +0000" stop="20220906120000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Flamengo x Ceará - Campeonato Brasileiro : Flamengo x Ceará</title>
+    <sub-title lang="pt">Flamengo x Ceará</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Flamengo recebe o Ceará no Estádio do Maracanã, no Rio de Janeiro. O Rubro-Negro segue na busca de assumir a liderança do torneio, sete pontos atrás do Palmeiras. Já o Vozão está a apenas dois pontos de entrar no Z4.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/80/12801317_8623BF42FD3D8A9F.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906120000 +0000" stop="20220906130000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Grêmio x Vila Nova - Campeonato Brasileiro - Série B : Grêmio x Vila Nova</title>
+    <sub-title lang="pt">Grêmio x Vila Nova</sub-title>
+    <desc lang="pt">Pela 28ª rodada, o Grêmio recebe o Vila Nova na Arena do Grêmio, em Porto Alegre. O Imortal não vence há quatro rodadas e está a três pontos de sair do G4, perdendo o acesso à Série A. Já o Vila é o primeiro time dentro do Z4, a um ponto de sair.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/75/12753878_40626457BCBC9639.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906130000 +0000" stop="20220906140000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Santos x Goiás - Campeonato Brasileiro : Santos x Goiás</title>
+    <sub-title lang="pt">Santos x Goiás</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Santos recebe o Goiás na Vila Belmiro, em Santos. O Peixe vem escalando a tabela, agora na oitava posição do torneio nacional. Já o Esmeraldino só foi derrotado uma vez nos últimos cinco jogos, em 10º lugar.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/75/12753684_BF7E733604BFA9B1.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906140000 +0000" stop="20220906150000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Cruzeiro x Criciúma - Campeonato Brasileiro - Série B : Cruzeiro x Criciúma</title>
+    <sub-title lang="pt">Cruzeiro x Criciúma</sub-title>
+    <desc lang="pt">Pela 24ª rodada, o Cruzeiro recebe o Criciúma no Estádio do Mineirão, em Belo Horizonte. O atual líder da competição tem a missão de ampliar sua vantagem frente ao nono colocado, que não perde há três jogos, e que tenta se aproximar do G4.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/75/12753858_DB49C482961A283B.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906150000 +0000" stop="20220906160000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Brusque x Vasco - Campeonato Brasileiro - Série B : Brusque x Vasco</title>
+    <sub-title lang="pt">Brusque x Vasco</sub-title>
+    <desc lang="pt">Pela 28ª rodada, o Brusque recebe o Vasco no Estádio Augusto Bauer, em Santa Catarina. Na 16ª posição, o time da casa é o primeiro fora do Z4 e não vence há três partidas. Já o Cruzmaltino pode assumir a vice-liderança com uma nova vitória.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/79/12791307_2C5B86893A9B52E5.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906160000 +0000" stop="20220906170000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Bragantino x Palmeiras - Campeonato Brasileiro : Bragantino x Palmeiras</title>
+    <sub-title lang="pt">Bragantino x Palmeiras</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Bragantino recebe o Palmeiras no Estádio Nabi Abi Chedid, em Bragança Paulista. O Braga não vence há quatro rodadas e agora tem a dura missão de vencer o atual líder do torneio, um dos melhores times do país.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/79/12791341_74699C4B8D118AFC.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906170000 +0000" stop="20220906180000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Corinthians x Internacional - Campeonato Brasileiro : Corinthians x Internacional</title>
+    <sub-title lang="pt">Corinthians x Internacional</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Corinthians recebe o Internacional na Neo Química Arena, em São Paulo. O Timão tenta permanecer no G4 do Brasileirão e precisa do resultado em um dos maiores clássicos do Brasil. Já o Colorado é justamente o quinto colocado.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/82/12825647_D5C025FDE0D8375A.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906180000 +0000" stop="20220906190000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Fortaleza x Botafogo - Campeonato Brasileiro : Fortaleza x Botafogo</title>
+    <sub-title lang="pt">Fortaleza x Botafogo</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Fortaleza recebe o Botafogo na Arena Castelão, em Fortaleza. O Leão do Pici vem em grande ascensão no campeonato, com cinco vitórias seguidas, agora em 11º. Já o Glorioso está a apenas dois pontos do Z4, em 14º lugar.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/80/12801303_A2BB20881BD2A7C6.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906190000 +0000" stop="20220906200000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Atlético-GO x Atlético-MG - Campeonato Brasileiro : Atlético-GO x Atlético-MG</title>
+    <sub-title lang="pt">Atlético-GO x Atlético-MG</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Atlético-GO recebe o Atlético-MG no Estádio Antônio Accioly, em Goiânia. O Dragão é o vice-lanterna do torneio e tenta somar pontos para escapar da degola. Já o Galo está fora da zona da Libertadores, na sétima posição.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/80/12801439_EAE97D0B984E203B.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906200000 +0000" stop="20220906210000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Cuiabá x São Paulo - Campeonato Brasileiro : Cuiabá x São Paulo</title>
+    <sub-title lang="pt">Cuiabá x São Paulo</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Cuiabá recebe o São Paulo na Arena Pantanal, em Cuiabá. O time da casa é o primeiro dentro da degola, sem perder há três jogos. E agora, busca sair do Z4 contra o Tricolor Paulista, que venceu um jogo nos últimos cinco.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/75/12753901_BCE78E5B790949EC.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906210000 +0000" stop="20220906220000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Flamengo x Ceará - Campeonato Brasileiro : Flamengo x Ceará</title>
+    <sub-title lang="pt">Flamengo x Ceará</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Flamengo recebe o Ceará no Estádio do Maracanã, no Rio de Janeiro. O Rubro-Negro segue na busca de assumir a liderança do torneio, sete pontos atrás do Palmeiras. Já o Vozão está a apenas dois pontos de entrar no Z4.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/80/12801317_8623BF42FD3D8A9F.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906220000 +0000" stop="20220906230000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Grêmio x Vila Nova - Campeonato Brasileiro - Série B : Grêmio x Vila Nova</title>
+    <sub-title lang="pt">Grêmio x Vila Nova</sub-title>
+    <desc lang="pt">Pela 28ª rodada, o Grêmio recebe o Vila Nova na Arena do Grêmio, em Porto Alegre. O Imortal não vence há quatro rodadas e está a três pontos de sair do G4, perdendo o acesso à Série A. Já o Vila é o primeiro time dentro do Z4, a um ponto de sair.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/75/12753878_40626457BCBC9639.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906230000 +0000" stop="20220906233000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Santos x Goiás - Campeonato Brasileiro : Santos x Goiás</title>
+    <sub-title lang="pt">Santos x Goiás</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Santos recebe o Goiás na Vila Belmiro, em Santos. O Peixe vem escalando a tabela, agora na oitava posição do torneio nacional. Já o Esmeraldino só foi derrotado uma vez nos últimos cinco jogos, em 10º lugar.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/75/12753684_BF7E733604BFA9B1.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906233000 +0000" stop="20220907030000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Vila Nova x Guarani - Campeonato Brasileiro - Série B : Vila Nova x Guarani</title>
+    <sub-title lang="pt">Vila Nova x Guarani</sub-title>
+    <desc lang="pt">Confira os jogos do Campeonato Brasileiro de Futebol Série B.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/75/12753905_57EDBBECA1AE029A.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907030000 +0000" stop="20220907033000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Bragantino x Palmeiras - Campeonato Brasileiro : Bragantino x Palmeiras</title>
+    <sub-title lang="pt">Bragantino x Palmeiras</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Bragantino recebe o Palmeiras no Estádio Nabi Abi Chedid, em Bragança Paulista. O Braga não vence há quatro rodadas e agora tem a dura missão de vencer o atual líder do torneio, um dos melhores times do país.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/79/12791341_74699C4B8D118AFC.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907033000 +0000" stop="20220907043000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Corinthians x Internacional - Campeonato Brasileiro : Corinthians x Internacional</title>
+    <sub-title lang="pt">Corinthians x Internacional</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Corinthians recebe o Internacional na Neo Química Arena, em São Paulo. O Timão tenta permanecer no G4 do Brasileirão e precisa do resultado em um dos maiores clássicos do Brasil. Já o Colorado é justamente o quinto colocado.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/82/12825647_D5C025FDE0D8375A.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907043000 +0000" stop="20220907053000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Vila Nova x Guarani - Campeonato Brasileiro - Série B : Vila Nova x Guarani</title>
+    <sub-title lang="pt">Vila Nova x Guarani</sub-title>
+    <desc lang="pt">Confira os jogos do Campeonato Brasileiro de Futebol Série B.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/75/12753905_57EDBBECA1AE029A.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907053000 +0000" stop="20220907063000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Fortaleza x Botafogo - Campeonato Brasileiro : Fortaleza x Botafogo</title>
+    <sub-title lang="pt">Fortaleza x Botafogo</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Fortaleza recebe o Botafogo na Arena Castelão, em Fortaleza. O Leão do Pici vem em grande ascensão no campeonato, com cinco vitórias seguidas, agora em 11º. Já o Glorioso está a apenas dois pontos do Z4, em 14º lugar.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/80/12801303_A2BB20881BD2A7C6.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907063000 +0000" stop="20220907073000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Atlético-GO x Atlético-MG - Campeonato Brasileiro : Atlético-GO x Atlético-MG</title>
+    <sub-title lang="pt">Atlético-GO x Atlético-MG</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Atlético-GO recebe o Atlético-MG no Estádio Antônio Accioly, em Goiânia. O Dragão é o vice-lanterna do torneio e tenta somar pontos para escapar da degola. Já o Galo está fora da zona da Libertadores, na sétima posição.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/80/12801439_EAE97D0B984E203B.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907073000 +0000" stop="20220907083000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Cuiabá x São Paulo - Campeonato Brasileiro : Cuiabá x São Paulo</title>
+    <sub-title lang="pt">Cuiabá x São Paulo</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Cuiabá recebe o São Paulo na Arena Pantanal, em Cuiabá. O time da casa é o primeiro dentro da degola, sem perder há três jogos. E agora, busca sair do Z4 contra o Tricolor Paulista, que venceu um jogo nos últimos cinco.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/75/12753901_BCE78E5B790949EC.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907083000 +0000" stop="20220907093000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Flamengo x Ceará - Campeonato Brasileiro : Flamengo x Ceará</title>
+    <sub-title lang="pt">Flamengo x Ceará</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Flamengo recebe o Ceará no Estádio do Maracanã, no Rio de Janeiro. O Rubro-Negro segue na busca de assumir a liderança do torneio, sete pontos atrás do Palmeiras. Já o Vozão está a apenas dois pontos de entrar no Z4.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/80/12801317_8623BF42FD3D8A9F.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907093000 +0000" stop="20220907103000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Santos x Goiás - Campeonato Brasileiro : Santos x Goiás</title>
+    <sub-title lang="pt">Santos x Goiás</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Santos recebe o Goiás na Vila Belmiro, em Santos. O Peixe vem escalando a tabela, agora na oitava posição do torneio nacional. Já o Esmeraldino só foi derrotado uma vez nos últimos cinco jogos, em 10º lugar.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/75/12753684_BF7E733604BFA9B1.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907103000 +0000" stop="20220907113000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Bragantino x Palmeiras - Campeonato Brasileiro : Bragantino x Palmeiras</title>
+    <sub-title lang="pt">Bragantino x Palmeiras</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Bragantino recebe o Palmeiras no Estádio Nabi Abi Chedid, em Bragança Paulista. O Braga não vence há quatro rodadas e agora tem a dura missão de vencer o atual líder do torneio, um dos melhores times do país.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/79/12791341_74699C4B8D118AFC.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907113000 +0000" stop="20220907123000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Corinthians x Internacional - Campeonato Brasileiro : Corinthians x Internacional</title>
+    <sub-title lang="pt">Corinthians x Internacional</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Corinthians recebe o Internacional na Neo Química Arena, em São Paulo. O Timão tenta permanecer no G4 do Brasileirão e precisa do resultado em um dos maiores clássicos do Brasil. Já o Colorado é justamente o quinto colocado.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/82/12825647_D5C025FDE0D8375A.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907123000 +0000" stop="20220907133000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Vila Nova x Guarani - Campeonato Brasileiro - Série B : Vila Nova x Guarani</title>
+    <sub-title lang="pt">Vila Nova x Guarani</sub-title>
+    <desc lang="pt">Confira os jogos do Campeonato Brasileiro de Futebol Série B.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/75/12753905_57EDBBECA1AE029A.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907133000 +0000" stop="20220907143000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Fortaleza x Botafogo - Campeonato Brasileiro : Fortaleza x Botafogo</title>
+    <sub-title lang="pt">Fortaleza x Botafogo</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Fortaleza recebe o Botafogo na Arena Castelão, em Fortaleza. O Leão do Pici vem em grande ascensão no campeonato, com cinco vitórias seguidas, agora em 11º. Já o Glorioso está a apenas dois pontos do Z4, em 14º lugar.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/80/12801303_A2BB20881BD2A7C6.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907143000 +0000" stop="20220907153000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Atlético-GO x Atlético-MG - Campeonato Brasileiro : Atlético-GO x Atlético-MG</title>
+    <sub-title lang="pt">Atlético-GO x Atlético-MG</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Atlético-GO recebe o Atlético-MG no Estádio Antônio Accioly, em Goiânia. O Dragão é o vice-lanterna do torneio e tenta somar pontos para escapar da degola. Já o Galo está fora da zona da Libertadores, na sétima posição.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/80/12801439_EAE97D0B984E203B.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907153000 +0000" stop="20220907163000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Cuiabá x São Paulo - Campeonato Brasileiro : Cuiabá x São Paulo</title>
+    <sub-title lang="pt">Cuiabá x São Paulo</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Cuiabá recebe o São Paulo na Arena Pantanal, em Cuiabá. O time da casa é o primeiro dentro da degola, sem perder há três jogos. E agora, busca sair do Z4 contra o Tricolor Paulista, que venceu um jogo nos últimos cinco.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/75/12753901_BCE78E5B790949EC.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907163000 +0000" stop="20220907173000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Flamengo x Ceará - Campeonato Brasileiro : Flamengo x Ceará</title>
+    <sub-title lang="pt">Flamengo x Ceará</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Flamengo recebe o Ceará no Estádio do Maracanã, no Rio de Janeiro. O Rubro-Negro segue na busca de assumir a liderança do torneio, sete pontos atrás do Palmeiras. Já o Vozão está a apenas dois pontos de entrar no Z4.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/80/12801317_8623BF42FD3D8A9F.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907173000 +0000" stop="20220907183000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Santos x Goiás - Campeonato Brasileiro : Santos x Goiás</title>
+    <sub-title lang="pt">Santos x Goiás</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Santos recebe o Goiás na Vila Belmiro, em Santos. O Peixe vem escalando a tabela, agora na oitava posição do torneio nacional. Já o Esmeraldino só foi derrotado uma vez nos últimos cinco jogos, em 10º lugar.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/75/12753684_BF7E733604BFA9B1.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907183000 +0000" stop="20220907194000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Bragantino x Atlético-MG - Campeonato Brasileiro : Bragantino x Atlético-MG</title>
+    <sub-title lang="pt">Bragantino x Atlético-MG</sub-title>
+    <desc lang="pt">Pela sexta rodada, o Bragantino recebe o Atlético-MG no Estádio Nabi Abi Chedid. O Braga e o Galo disputam entre si uma vaga no G4 da competição nacional, por uma vaga à Libertadores. Ambas equipes somam exatos oito pontos de 15 disputados.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/81/12817003_19E140D0AEA2C6E2.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907194000 +0000" stop="20220907220000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Atlético-MG x Bragantino - Campeonato Brasileiro : Atlético-MG x Bragantino</title>
+    <sub-title lang="pt">Atlético-MG x Bragantino</sub-title>
+    <desc lang="pt">Acompanhe os jogos da elite do campeonato brasileiro de futebol masculino.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/81/12816928_7A646C6FA655205C.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907220000 +0000" stop="20220907230000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Corinthians x Internacional - Campeonato Brasileiro : Corinthians x Internacional</title>
+    <sub-title lang="pt">Corinthians x Internacional</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Corinthians recebe o Internacional na Neo Química Arena, em São Paulo. O Timão tenta permanecer no G4 do Brasileirão e precisa do resultado em um dos maiores clássicos do Brasil. Já o Colorado é justamente o quinto colocado.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/82/12825647_D5C025FDE0D8375A.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907230000 +0000" stop="20220908000000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Vila Nova x Guarani - Campeonato Brasileiro - Série B : Vila Nova x Guarani</title>
+    <sub-title lang="pt">Vila Nova x Guarani</sub-title>
+    <desc lang="pt">Confira os jogos do Campeonato Brasileiro de Futebol Série B.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/75/12753905_57EDBBECA1AE029A.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908000000 +0000" stop="20220908010000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Atlético-MG x Bragantino - Campeonato Brasileiro : Atlético-MG x Bragantino</title>
+    <sub-title lang="pt">Atlético-MG x Bragantino</sub-title>
+    <desc lang="pt">Acompanhe os jogos da elite do campeonato brasileiro de futebol masculino.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/81/12816928_7A646C6FA655205C.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908010000 +0000" stop="20220908020000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Fortaleza x Botafogo - Campeonato Brasileiro : Fortaleza x Botafogo</title>
+    <sub-title lang="pt">Fortaleza x Botafogo</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Fortaleza recebe o Botafogo na Arena Castelão, em Fortaleza. O Leão do Pici vem em grande ascensão no campeonato, com cinco vitórias seguidas, agora em 11º. Já o Glorioso está a apenas dois pontos do Z4, em 14º lugar.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/80/12801303_A2BB20881BD2A7C6.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908020000 +0000" stop="20220908030000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Ponte Preta x Sport - Campeonato Brasileiro - Série B : Ponte Preta x Sport</title>
+    <sub-title lang="pt">Ponte Preta x Sport</sub-title>
+    <desc lang="pt">Confira os jogos do Campeonato Brasileiro de Futebol Série B.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/75/12753943_BD7139F87B8C14D3.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908030000 +0000" stop="20220908040000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Cuiabá x São Paulo - Campeonato Brasileiro : Cuiabá x São Paulo</title>
+    <sub-title lang="pt">Cuiabá x São Paulo</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Cuiabá recebe o São Paulo na Arena Pantanal, em Cuiabá. O time da casa é o primeiro dentro da degola, sem perder há três jogos. E agora, busca sair do Z4 contra o Tricolor Paulista, que venceu um jogo nos últimos cinco.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/75/12753901_BCE78E5B790949EC.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908040000 +0000" stop="20220908050000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Flamengo x Ceará - Campeonato Brasileiro : Flamengo x Ceará</title>
+    <sub-title lang="pt">Flamengo x Ceará</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Flamengo recebe o Ceará no Estádio do Maracanã, no Rio de Janeiro. O Rubro-Negro segue na busca de assumir a liderança do torneio, sete pontos atrás do Palmeiras. Já o Vozão está a apenas dois pontos de entrar no Z4.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/80/12801317_8623BF42FD3D8A9F.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908050000 +0000" stop="20220908060000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Sampaio Corrêa x Novorizontino - Campeonato Brasileiro - Série B : Sampaio Corrêa x Novorizontino</title>
+    <sub-title lang="pt">Sampaio Corrêa x Novorizontino</sub-title>
+    <desc lang="pt">Confira os jogos do Campeonato Brasileiro de Futebol Série B.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/76/12761648_D4AD9438ED86593E.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908060000 +0000" stop="20220908070000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Santos x Goiás - Campeonato Brasileiro : Santos x Goiás</title>
+    <sub-title lang="pt">Santos x Goiás</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Santos recebe o Goiás na Vila Belmiro, em Santos. O Peixe vem escalando a tabela, agora na oitava posição do torneio nacional. Já o Esmeraldino só foi derrotado uma vez nos últimos cinco jogos, em 10º lugar.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/75/12753684_BF7E733604BFA9B1.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908070000 +0000" stop="20220908080000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Corinthians x Internacional - Campeonato Brasileiro : Corinthians x Internacional</title>
+    <sub-title lang="pt">Corinthians x Internacional</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Corinthians recebe o Internacional na Neo Química Arena, em São Paulo. O Timão tenta permanecer no G4 do Brasileirão e precisa do resultado em um dos maiores clássicos do Brasil. Já o Colorado é justamente o quinto colocado.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/82/12825647_D5C025FDE0D8375A.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908080000 +0000" stop="20220908090000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Vila Nova x Guarani - Campeonato Brasileiro - Série B : Vila Nova x Guarani</title>
+    <sub-title lang="pt">Vila Nova x Guarani</sub-title>
+    <desc lang="pt">Confira os jogos do Campeonato Brasileiro de Futebol Série B.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/75/12753905_57EDBBECA1AE029A.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908090000 +0000" stop="20220908100000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Atlético-MG x Bragantino - Campeonato Brasileiro : Atlético-MG x Bragantino</title>
+    <sub-title lang="pt">Atlético-MG x Bragantino</sub-title>
+    <desc lang="pt">Acompanhe os jogos da elite do campeonato brasileiro de futebol masculino.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/81/12816928_7A646C6FA655205C.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908100000 +0000" stop="20220908110000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Fortaleza x Botafogo - Campeonato Brasileiro : Fortaleza x Botafogo</title>
+    <sub-title lang="pt">Fortaleza x Botafogo</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Fortaleza recebe o Botafogo na Arena Castelão, em Fortaleza. O Leão do Pici vem em grande ascensão no campeonato, com cinco vitórias seguidas, agora em 11º. Já o Glorioso está a apenas dois pontos do Z4, em 14º lugar.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/80/12801303_A2BB20881BD2A7C6.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908110000 +0000" stop="20220908120000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Ponte Preta x Sport - Campeonato Brasileiro - Série B : Ponte Preta x Sport</title>
+    <sub-title lang="pt">Ponte Preta x Sport</sub-title>
+    <desc lang="pt">Confira os jogos do Campeonato Brasileiro de Futebol Série B.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/75/12753943_BD7139F87B8C14D3.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908120000 +0000" stop="20220908130000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Cuiabá x São Paulo - Campeonato Brasileiro : Cuiabá x São Paulo</title>
+    <sub-title lang="pt">Cuiabá x São Paulo</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Cuiabá recebe o São Paulo na Arena Pantanal, em Cuiabá. O time da casa é o primeiro dentro da degola, sem perder há três jogos. E agora, busca sair do Z4 contra o Tricolor Paulista, que venceu um jogo nos últimos cinco.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/75/12753901_BCE78E5B790949EC.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908130000 +0000" stop="20220908140000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Flamengo x Ceará - Campeonato Brasileiro : Flamengo x Ceará</title>
+    <sub-title lang="pt">Flamengo x Ceará</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Flamengo recebe o Ceará no Estádio do Maracanã, no Rio de Janeiro. O Rubro-Negro segue na busca de assumir a liderança do torneio, sete pontos atrás do Palmeiras. Já o Vozão está a apenas dois pontos de entrar no Z4.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/80/12801317_8623BF42FD3D8A9F.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908140000 +0000" stop="20220908150000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Sampaio Corrêa x Novorizontino - Campeonato Brasileiro - Série B : Sampaio Corrêa x Novorizontino</title>
+    <sub-title lang="pt">Sampaio Corrêa x Novorizontino</sub-title>
+    <desc lang="pt">Confira os jogos do Campeonato Brasileiro de Futebol Série B.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/76/12761648_D4AD9438ED86593E.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908150000 +0000" stop="20220908160000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Santos x Goiás - Campeonato Brasileiro : Santos x Goiás</title>
+    <sub-title lang="pt">Santos x Goiás</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Santos recebe o Goiás na Vila Belmiro, em Santos. O Peixe vem escalando a tabela, agora na oitava posição do torneio nacional. Já o Esmeraldino só foi derrotado uma vez nos últimos cinco jogos, em 10º lugar.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/75/12753684_BF7E733604BFA9B1.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908160000 +0000" stop="20220908170000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Fortaleza x Botafogo - Campeonato Brasileiro : Fortaleza x Botafogo</title>
+    <sub-title lang="pt">Fortaleza x Botafogo</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Fortaleza recebe o Botafogo na Arena Castelão, em Fortaleza. O Leão do Pici vem em grande ascensão no campeonato, com cinco vitórias seguidas, agora em 11º. Já o Glorioso está a apenas dois pontos do Z4, em 14º lugar.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/80/12801303_A2BB20881BD2A7C6.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908170000 +0000" stop="20220908180000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Ponte Preta x Sport - Campeonato Brasileiro - Série B : Ponte Preta x Sport</title>
+    <sub-title lang="pt">Ponte Preta x Sport</sub-title>
+    <desc lang="pt">Confira os jogos do Campeonato Brasileiro de Futebol Série B.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/75/12753943_BD7139F87B8C14D3.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908180000 +0000" stop="20220908190000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Cuiabá x São Paulo - Campeonato Brasileiro : Cuiabá x São Paulo</title>
+    <sub-title lang="pt">Cuiabá x São Paulo</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Cuiabá recebe o São Paulo na Arena Pantanal, em Cuiabá. O time da casa é o primeiro dentro da degola, sem perder há três jogos. E agora, busca sair do Z4 contra o Tricolor Paulista, que venceu um jogo nos últimos cinco.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/75/12753901_BCE78E5B790949EC.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908190000 +0000" stop="20220908200000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Flamengo x Ceará - Campeonato Brasileiro : Flamengo x Ceará</title>
+    <sub-title lang="pt">Flamengo x Ceará</sub-title>
+    <desc lang="pt">Pela 25ª rodada, o Flamengo recebe o Ceará no Estádio do Maracanã, no Rio de Janeiro. O Rubro-Negro segue na busca de assumir a liderança do torneio, sete pontos atrás do Palmeiras. Já o Vozão está a apenas dois pontos de entrar no Z4.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/80/12801317_8623BF42FD3D8A9F.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908200000 +0000" stop="20220908203000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Giro da Rodada : Campeonato Brasileiro</title>
+    <sub-title lang="pt">Campeonato Brasileiro</sub-title>
+    <desc lang="pt">Acompanhe tudo o que aconteceu na última rodada do Campeonato Brasileiro.</desc>
+    <category lang="pt">Séries</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/84/11843492_E870EEFAE75BFD90.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908203000 +0000" stop="20220908214000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Atlético-MG x Bragantino - Campeonato Brasileiro : Atlético-MG x Bragantino</title>
+    <sub-title lang="pt">Atlético-MG x Bragantino</sub-title>
+    <desc lang="pt">Acompanhe os jogos da elite do campeonato brasileiro de futebol masculino.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/81/12816928_7A646C6FA655205C.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908214000 +0000" stop="20220909001000 +0000" channel="Premiere Clubes">
+    <title lang="pt">Criciúma x Bahia - Campeonato Brasileiro - Série B : Criciúma x Bahia</title>
+    <sub-title lang="pt">Criciúma x Bahia</sub-title>
+    <desc lang="pt">Confira os jogos do Campeonato Brasileiro de Futebol Série B.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12771486_FC08A90AAC22156D.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906010000 +0000" stop="20220906090000 +0000" channel="Premiere HD 3">
+    <title lang="pt">Premiere 3</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828004_E0244644007A6D90.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906090000 +0000" stop="20220906170000 +0000" channel="Premiere HD 3">
+    <title lang="pt">Premiere 3</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828004_E0244644007A6D90.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906170000 +0000" stop="20220907010000 +0000" channel="Premiere HD 3">
+    <title lang="pt">Premiere 3</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828004_E0244644007A6D90.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907010000 +0000" stop="20220907090000 +0000" channel="Premiere HD 3">
+    <title lang="pt">Premiere 3</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828004_E0244644007A6D90.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907090000 +0000" stop="20220907170000 +0000" channel="Premiere HD 3">
+    <title lang="pt">Premiere 3</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828004_E0244644007A6D90.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907170000 +0000" stop="20220908010000 +0000" channel="Premiere HD 3">
+    <title lang="pt">Premiere 3</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828004_E0244644007A6D90.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908010000 +0000" stop="20220908090000 +0000" channel="Premiere HD 3">
+    <title lang="pt">Premiere 3</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828004_E0244644007A6D90.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908090000 +0000" stop="20220908170000 +0000" channel="Premiere HD 3">
+    <title lang="pt">Premiere 3</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828004_E0244644007A6D90.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908170000 +0000" stop="20220909010000 +0000" channel="Premiere HD 3">
+    <title lang="pt">Premiere 3</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828004_E0244644007A6D90.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906010000 +0000" stop="20220906090000 +0000" channel="Premiere HD 4">
+    <title lang="pt">Premiere 4</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828006_5D907E4B97CA88D8.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906090000 +0000" stop="20220906170000 +0000" channel="Premiere HD 4">
+    <title lang="pt">Premiere 4</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828006_5D907E4B97CA88D8.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906170000 +0000" stop="20220907010000 +0000" channel="Premiere HD 4">
+    <title lang="pt">Premiere 4</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828006_5D907E4B97CA88D8.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907010000 +0000" stop="20220907090000 +0000" channel="Premiere HD 4">
+    <title lang="pt">Premiere 4</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828006_5D907E4B97CA88D8.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907090000 +0000" stop="20220907170000 +0000" channel="Premiere HD 4">
+    <title lang="pt">Premiere 4</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828006_5D907E4B97CA88D8.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907170000 +0000" stop="20220908010000 +0000" channel="Premiere HD 4">
+    <title lang="pt">Premiere 4</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828006_5D907E4B97CA88D8.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908010000 +0000" stop="20220908090000 +0000" channel="Premiere HD 4">
+    <title lang="pt">Premiere 4</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828006_5D907E4B97CA88D8.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908090000 +0000" stop="20220908170000 +0000" channel="Premiere HD 4">
+    <title lang="pt">Premiere 4</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828006_5D907E4B97CA88D8.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908170000 +0000" stop="20220909010000 +0000" channel="Premiere HD 4">
+    <title lang="pt">Premiere 4</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828006_5D907E4B97CA88D8.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906010000 +0000" stop="20220906090000 +0000" channel="Premiere HD 5">
+    <title lang="pt">Premiere 5</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/84/11848328_69A28882B94C780F.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906090000 +0000" stop="20220906170000 +0000" channel="Premiere HD 5">
+    <title lang="pt">Premiere 5</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/84/11848328_69A28882B94C780F.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906170000 +0000" stop="20220907010000 +0000" channel="Premiere HD 5">
+    <title lang="pt">Premiere 5</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/84/11848328_69A28882B94C780F.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907010000 +0000" stop="20220907090000 +0000" channel="Premiere HD 5">
+    <title lang="pt">Premiere 5</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/84/11848328_69A28882B94C780F.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907090000 +0000" stop="20220907170000 +0000" channel="Premiere HD 5">
+    <title lang="pt">Premiere 5</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/84/11848328_69A28882B94C780F.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907170000 +0000" stop="20220908010000 +0000" channel="Premiere HD 5">
+    <title lang="pt">Premiere 5</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/84/11848328_69A28882B94C780F.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908010000 +0000" stop="20220908090000 +0000" channel="Premiere HD 5">
+    <title lang="pt">Premiere 5</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/84/11848328_69A28882B94C780F.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908090000 +0000" stop="20220908170000 +0000" channel="Premiere HD 5">
+    <title lang="pt">Premiere 5</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/84/11848328_69A28882B94C780F.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908170000 +0000" stop="20220909010000 +0000" channel="Premiere HD 5">
+    <title lang="pt">Premiere 5</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/84/11848328_69A28882B94C780F.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906010000 +0000" stop="20220906090000 +0000" channel="Premiere HD2">
+    <title lang="pt">Premiere 2</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/84/11848327_FC73F2CE0ED78FF0.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906090000 +0000" stop="20220906170000 +0000" channel="Premiere HD2">
+    <title lang="pt">Premiere 2</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/84/11848327_FC73F2CE0ED78FF0.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906170000 +0000" stop="20220907010000 +0000" channel="Premiere HD2">
+    <title lang="pt">Premiere 2</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/84/11848327_FC73F2CE0ED78FF0.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907010000 +0000" stop="20220907090000 +0000" channel="Premiere HD2">
+    <title lang="pt">Premiere 2</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/84/11848327_FC73F2CE0ED78FF0.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907090000 +0000" stop="20220907170000 +0000" channel="Premiere HD2">
+    <title lang="pt">Premiere 2</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/84/11848327_FC73F2CE0ED78FF0.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907170000 +0000" stop="20220908010000 +0000" channel="Premiere HD2">
+    <title lang="pt">Premiere 2</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/84/11848327_FC73F2CE0ED78FF0.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908010000 +0000" stop="20220908090000 +0000" channel="Premiere HD2">
+    <title lang="pt">Premiere 2</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/84/11848327_FC73F2CE0ED78FF0.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908090000 +0000" stop="20220908170000 +0000" channel="Premiere HD2">
+    <title lang="pt">Premiere 2</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/84/11848327_FC73F2CE0ED78FF0.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908170000 +0000" stop="20220909010000 +0000" channel="Premiere HD2">
+    <title lang="pt">Premiere 2</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/84/11848327_FC73F2CE0ED78FF0.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906010000 +0000" stop="20220906090000 +0000" channel="Premiere HD6">
+    <title lang="pt">Premiere 6</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828009_5B63AAEF7D4B566C.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906090000 +0000" stop="20220906170000 +0000" channel="Premiere HD6">
+    <title lang="pt">Premiere 6</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828009_5B63AAEF7D4B566C.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906170000 +0000" stop="20220907010000 +0000" channel="Premiere HD6">
+    <title lang="pt">Premiere 6</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828009_5B63AAEF7D4B566C.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907010000 +0000" stop="20220907090000 +0000" channel="Premiere HD6">
+    <title lang="pt">Premiere 6</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828009_5B63AAEF7D4B566C.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907090000 +0000" stop="20220907170000 +0000" channel="Premiere HD6">
+    <title lang="pt">Premiere 6</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828009_5B63AAEF7D4B566C.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907170000 +0000" stop="20220908010000 +0000" channel="Premiere HD6">
+    <title lang="pt">Premiere 6</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828009_5B63AAEF7D4B566C.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908010000 +0000" stop="20220908090000 +0000" channel="Premiere HD6">
+    <title lang="pt">Premiere 6</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828009_5B63AAEF7D4B566C.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908090000 +0000" stop="20220908170000 +0000" channel="Premiere HD6">
+    <title lang="pt">Premiere 6</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828009_5B63AAEF7D4B566C.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908170000 +0000" stop="20220909010000 +0000" channel="Premiere HD6">
+    <title lang="pt">Premiere 6</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828009_5B63AAEF7D4B566C.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906010000 +0000" stop="20220906090000 +0000" channel="Premiere HD7">
+    <title lang="pt">Premiere 7</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828011_56ACDAD746F98386.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906090000 +0000" stop="20220906170000 +0000" channel="Premiere HD7">
+    <title lang="pt">Premiere 7</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828011_56ACDAD746F98386.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906170000 +0000" stop="20220907010000 +0000" channel="Premiere HD7">
+    <title lang="pt">Premiere 7</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828011_56ACDAD746F98386.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907010000 +0000" stop="20220907090000 +0000" channel="Premiere HD7">
+    <title lang="pt">Premiere 7</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828011_56ACDAD746F98386.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907090000 +0000" stop="20220907170000 +0000" channel="Premiere HD7">
+    <title lang="pt">Premiere 7</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828011_56ACDAD746F98386.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907170000 +0000" stop="20220908010000 +0000" channel="Premiere HD7">
+    <title lang="pt">Premiere 7</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828011_56ACDAD746F98386.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908010000 +0000" stop="20220908090000 +0000" channel="Premiere HD7">
+    <title lang="pt">Premiere 7</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828011_56ACDAD746F98386.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908090000 +0000" stop="20220908170000 +0000" channel="Premiere HD7">
+    <title lang="pt">Premiere 7</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828011_56ACDAD746F98386.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908170000 +0000" stop="20220909010000 +0000" channel="Premiere HD7">
+    <title lang="pt">Premiere 7</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828011_56ACDAD746F98386.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906010000 +0000" stop="20220906090000 +0000" channel="Premiere HD8">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/85/11859166_CE4DC88F81BF32D1.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906090000 +0000" stop="20220906170000 +0000" channel="Premiere HD8">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/85/11859166_CE4DC88F81BF32D1.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220906170000 +0000" stop="20220907010000 +0000" channel="Premiere HD8">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/85/11859166_CE4DC88F81BF32D1.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907010000 +0000" stop="20220907090000 +0000" channel="Premiere HD8">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/85/11859166_CE4DC88F81BF32D1.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907090000 +0000" stop="20220907170000 +0000" channel="Premiere HD8">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/85/11859166_CE4DC88F81BF32D1.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220907170000 +0000" stop="20220908010000 +0000" channel="Premiere HD8">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/85/11859166_CE4DC88F81BF32D1.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908010000 +0000" stop="20220908090000 +0000" channel="Premiere HD8">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/85/11859166_CE4DC88F81BF32D1.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908090000 +0000" stop="20220908170000 +0000" channel="Premiere HD8">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/85/11859166_CE4DC88F81BF32D1.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20220908170000 +0000" stop="20220909010000 +0000" channel="Premiere HD8">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/85/11859166_CE4DC88F81BF32D1.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
 </tv>
